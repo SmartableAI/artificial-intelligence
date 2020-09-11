@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Dubai’s RTA applies AI, machine learning to plan better bus routes"
-    excerpt: "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials."
-    publishedDateTime: 2020-09-06T20:07:00Z
-    webUrl: "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 74
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/09/07/77e067e1-6e24-4fe5-aa30-05cb9ad7de20/77e067e1-6e24-4fe5-aa30-05cb9ad7de20_16x9_600x338.jpg?width=466"
-        width: 466
-        height: 262
-        isCached: true
   - title: "RTA begins using machine learning in planning bus routes in Dubai"
     excerpt: "The system allows the transport authority to plan the routes on the basis of their usage by commuters every day. By implementing this technology, the RTA aims to revamp 158 routes used by 2,158 buses in Dubai,"
     publishedDateTime: 2020-09-07T04:26:00Z

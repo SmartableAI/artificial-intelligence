@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloudera-recognized-as-a
 webUrl: "https://www.marketwatch.com/press-release/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and-machine-learning-evaluation-2020-09-10"
 type: article
 quality: 39
-heat: 69
+heat: 39
 published: false
 
 provider:

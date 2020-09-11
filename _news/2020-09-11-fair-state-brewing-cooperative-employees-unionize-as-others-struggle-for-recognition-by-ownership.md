@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kstp.com/articles/fair-state-brewing-cooperative-employe
 cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/fair-state-brewing-cooperative-employees-unionize-as-others-struggle-for-recognition-by-ownership-september-10-2020-5858590.html"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:
@@ -37,6 +37,6 @@ related:
       domain: chattanoogan.com
     quality: 0
 
-secured: "/JtU7PwnygjJPUKNVSOyNXFNa4LpF3FnPb8XeJ1s57b1T9Z5rAyNZgfirtO1QJe4Zek4jFEx8F4ShHJP7WXkfEcG5dwwLsEVvrSXmGHhIk76svEr1Hf6nSR95iUWrMBxxfyQSMha4+0woFfic7FtIO1JQUxYXAwvyy/vyB2o27kGQdwqWeSGeut/e7ULcJqiiwkiJNty742XHE66S8lq0rsnfamvQYqo8OJfVQLPmmgVSYfzFZnTvnzFp+2aM74EY/+mQaBy7Cz4NqiSGaUpyKRNGE27p7E1MxJ4+9gYgkO1l20xDYQ7E+Ap3XlWMNdS2ZVyj8++mcfB0mjH5SrlwG9oT55+ZgqNy8Fgs58uxKg=;6A97+sUXtF8qGWs1vX6WcA=="
+secured: "0rb9EcAVaBdtoMCbRuzzq8VeEU4+d7ehBSPqUKmVVGYoA4YibO4mLTY3d7X3weRdUYUgpY8jGBkkwKQDFpfT5ALRPF7HSMK6+h8WjPw+b2hkql+elcBHigpiPid+rodRsjwzQABL0QBdDoHGZRhnFsEpN6XkYNL7SKY3D3Y0XZi3/lSTd1c8y1kM8ZTeqWQlOux/tw8KwsMHW03Rj+J7m8qy/+k1GQTupZN0lzoYV3qBywdWTMkk1O6NPEuRfl3mazr/GvsF/Smtd9kG5c2+gOffvuQIbKouxxbh6klPg7V6KPL+qiygtRUglMwsOGUGYPKoC12NMD94TH1XgqPuxLJ3lO6ske4yUKuBH5wdDfWH7qbyBhndNBzzGuPtYZPpWj+K5oaOliwhMfzdNFG/eTKJ1J7dgC+0eCuftk95iLtFPPQP3jVPNYaXbm9n0SudN+kUpKI9Ll/XFwN6Cq3p1W3DJVw/CInlCy4s6uLa3JiM03D6vS0u77GyDkzJZvlI06CO+3svKU0IwqFH7+FffA==;P6Y/e5ieH82HQXEc4Ic/FQ=="
 ---
 

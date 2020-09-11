@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
+      "title": "What Do The Server Quarterly Earnings Tell Us?",
+      "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57e0172f22243576d10081%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D875%26cropY1%3D26%26cropY2%3D518",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
+      "publishedDateTime": "2020-09-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
+      "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
+      "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
+      "originalUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/self-driving-floor-machine-630x353.jpg",
+          "width": 630,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/amp/",
+      "publishedDateTime": "2020-09-08T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
+      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
+      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
+      "publishedDateTime": "2020-09-08T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao.md",
+      "title": "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO",
+      "excerpt": "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO).",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "originalUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg",
+          "width": 640,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
+      "publishedDateTime": "2020-09-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-crowdstrike-expands-support-for-aws-workloads-and-container-deployments.md",
       "title": "CrowdStrike Expands Support for AWS Workloads and Container Deployments",
       "excerpt": "CrowdStrike Inc. (Nasdaq: CRWD), a leader in cloud-delivered endpoint protection, today announced the expansion of support for Amazon Web Services (AWS)",
@@ -576,7 +766,7 @@
       "webUrl": "https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
       "originalUrl": "https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -948,7 +1138,7 @@
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -988,181 +1178,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
-      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
-      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-yandex-self-driving-group-gets-150-million-will-bring-autonomous-vehicles-to-us.md",
-      "title": "Yandex Self Driving Group Gets $150 Million, Will Bring Autonomous Vehicles To U.S.",
-      "excerpt": "Yandex is not cutting ties with its former autonomous vehicle team by any means. Yandex NV is going to invest $150 million into Yandex SDG ($100 million in equity, $50 million as a convertible loan) and Yandex NV will keep an eye on the autonomous vehicle technology progress and will keep reporting Yandex SDG's results in Yandex NV's \"Other Bets and Experiments\" segment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
-      "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52670a77958deeab46fb0c%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/",
-      "publishedDateTime": "2020-09-07T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life.md",
-      "title": "4 Robotics ETFs to Buy as AI Tightens Grip Over All Spheres of Life",
-      "excerpt": "We are living in an era largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "publishedDateTime": "2020-09-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-use-artificial-intelligence-machine-learning-for-efficient-relief-management.md",
-      "title": "Use artificial intelligence, machine learning for efficient relief management",
-      "excerpt": "Bangladesh located to the north-east of South Asia is one of the disaster-prone areas of the region as well the world due to its geographical characteristics, complex topographical features, excessive and mighty river system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "publishedDateTime": "2020-09-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

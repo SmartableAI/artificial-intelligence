@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors"
-excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production."
-publishedDateTime: 2020-09-08T16:34:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
+excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were ..."
+publishedDateTime: 2020-09-08T16:26:00Z
+originalUrl: "https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html"
+webUrl: "https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html"
 type: article
 quality: 54
 heat: 74
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ZF partners with startup Aeva to produce self-driving sensors"
@@ -54,6 +58,6 @@ related:
         height: 600
         isCached: true
 
-secured: "uZ6CEC5qIsQqO0l46uzvP/Vvg7ec+72D0Y0V/MqtmbhA3Wvk9qA/n+nxdE6R9dcJSKvBNe9IZNOKiPpGkSsMDtld01xW68wR1LOP9TwtILAFJXJC5MlCr7KPgd5mGh3BfVeRZixSDhUzEVrVF+ygPBXiazjbAHjh+qe5RI79kLhgbU2zAj/xaVqtGT2zOj7umH1b1k/RBBeL2V4J8R9kfJgDLIQd26dS0LQpxcVwIRfIZRVUdqlaVJf+a5DX/qO1Rrr6+PnCVKHIsdYNIB8enpSSdfB57bU2q/Yr82gaZS4UtgyuPU0o/jj0Mi2/zLPb7byvWt7IgL8+uvROB7tns9VLmb0DM+6rC9G+yRyCwamU+hfG80tgifkfOC9eEZHb8rUg+RejtkHvSdnNk5bvgez2w+siUIVFrJweIc8PbJX6sLEYxW25E4bed60WQK9RzxBPgEov5kTB1aynTozmDArjvk+YMjhS300dEyL6M0GdLMfVgxJ9tSZWvVVVcBOtNQMGqRSUt5293N6S67GpQg==;Gcj6J1fTa4NUVRGbUU7Q8w=="
+secured: "HVZP0pCDfda5UMo9MTeAdu3gjpichPNA/NW8Q2wV8S8ardR18ggRT9mMzhhrUdj1lqNkvansRDwJbMwQWTpxkXUYihRO7EK8SE0Wl3Rz62B1nTxsXvNikTqV/2IjS0l2qXxtsiR9vK1udLe/0DgNlMnZuFE08i5SH94MaOl4xCxIQNRTO8FzRhqOgr9O47FtN1Moebg4EvfBYTy/xkZOvy16BJt1/NlGJyu/mF0PLqtfwGY2qZaxYXeluO3ckPDeZD/pakLs2g+LK3J05Dp4kIaYw59ekwBJSn9kAJUBFI/n7jAf57+vM7GNRSjJXWYKTFnI4U6zpH+x/i4pl3eHP3e5kfuxKFLVxvGVbygynS8=;9OJnbz5fj/pRGpfaPAoFFw=="
 ---
 

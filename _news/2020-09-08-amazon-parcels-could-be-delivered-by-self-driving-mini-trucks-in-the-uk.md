@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Self-driving restaurant-on-wheels brings food trucks into the future"
-    excerpt: "The food truck can go where it experiences the highest demand, and can serve as many customers as possible while instituting a safe, social distancing policy. The Streat builds on that idea with an autonomous,"
-    publishedDateTime: 2020-09-06T21:00:00Z
-    webUrl: "https://www.yankodesign.com/2020/09/06/self-driving-restaurant-on-wheels-brings-food-trucks-into-the-future/"
-    type: article
-    provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 24
-    images:
-      - url: "https://www.yankodesign.com/images/design_news/2020/08/Stria_folding_ruler-510x314.jpg"
-        width: 510
-        height: 314
-        isCached: true
-
 secured: "klbBImc8v/HnVCgCNfkBdptt6VmvHU6TZ4eY6pc7BQMN4cLQNycX2AfroDPRr4LOf20KhxsT92hjFRuHONLSzrUcYAA1TbIWudW2wwVrDsN3ZFxe9BUUfg4TxBki7a6uY5QrDVmKfUtT4REOEWDAmK5MSuaQgLg7y5jK8B/hb0d1XBqJ7B6KNN+baOF3ImelLfJlR7WPy1aumKMSmVvZ8sLCJUII6Qphov70ufnjRj8z9GqN2gN8wMkuwddv1m5/sPuGn7zQj7HmBpJa6M3VPZUn0OqnzIghwUf+o3qyFaAcGUe8BzJVj9Fk98XadgqC88olPRWehfAlBXtKmK4ah/P2V5wflJWb8MSR+6vPY+8=;Q1Oj+EYEsr21UD0OH8plpA=="
 ---
 

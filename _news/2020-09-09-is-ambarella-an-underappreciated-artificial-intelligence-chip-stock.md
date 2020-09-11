@@ -13,7 +13,7 @@ heat: 87
 published: true
 
 provider:
-  name: The Motley Fool
+  name: Nasdaq
   domain: fool.com
   images:
     - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "aJx1Waq/FoCrP9qjB+cvK6D6hzgylMRJURMkSC41sCt3Au0NPAoX9GE0oKm6nIfuBj2BlP58G/RuYH0x4+2JcqAHIAD8KmWtWTR3jbhX/TTqRTtTPHByb2KXeveQZTYRjwSMTf5Vsnw0qMXiKoyaPKaPkc1N3kbpkwMVbaR+WgQ00ZKFUAs9JAz7qV54LIh6woQKZj6XYf32JDpZGiGarI/UjxN591EQWkDTefGTA8HelwAAD2irsPj0o724/olXNRQbGSZc1cjHUCznDkU00ZEzLEj3M1iKKO4xGkj5U/HIy1DEvM8w9vns19xdO+Oemb8M9VE0olhDS4XgVB8YpV/dNnX1JC8iwkgmi0NdPWw=;ZnXx/hdb8zlK9fL4AfjycA=="
+secured: "iILUf8rx1ElmuXZcYDKnTcEgFdAZ++KZiGhRD2L8JntJZwYGzBEbkkI8vrU5NCt9ILggyaSX3vdrIzQYyeHZcropkb8mWieyirfq+Wn1RjL6izxddiYOmtHWL24OosakYyAg08bkrMKKyRH0C4supJ8JFWAIJGrWAKzU9zHYhwIxHEHpJbScfgP8R8YvTjS7atT3o9kBiQbBH2nIqwx3zPIUv9zABfZd5UPX0vl8ngg+9gVt03WzvZeKn4B6TsCH5MYVtQ270gCkHchnYtOXlKnPSHaA2/P88+tu67qZ3al5SP4Cv0ykyKy22qZWSkVV5TGjCQL/vjm4WmAsI03OqU61CpdMsXdiuZ9m+9z3Ig8=;KZicehznWhM9MfegRyFkFg=="
 ---
 

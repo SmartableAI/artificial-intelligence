@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/09/flagship-reveals-machine-learning-
 webUrl: "https://medcitynews.com/2020/09/flagship-reveals-machine-learning-based-protein-drug-discovery-startup-generate-biomedicines/"
 type: article
 quality: 28
-heat: 38
+heat: 28
 published: false
 
 provider:

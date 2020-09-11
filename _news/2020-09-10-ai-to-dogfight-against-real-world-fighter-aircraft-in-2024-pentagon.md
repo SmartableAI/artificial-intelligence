@@ -41,6 +41,22 @@ related:
         width: 796
         height: 476
         isCached: true
+  - title: "New Human Pilot Vs. AI Contests In Real And Virtual Worlds To Settle Who Is Top Gun"
+    excerpt: "The military and gaming worlds are setting up two new events to see where human or AI pilots are best when it comes to dogfighting, including a contest involving real fighter jets. Given how aerial combat has changed and is continuing to,"
+    publishedDateTime: 2020-09-11T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/"
+    ampWebUrl: "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b4a5e7a0e61983a39a74a%2F0x0.jpg"
+        width: 619
+        height: 316
+        isCached: true
   - title: "DoD to start live fighter trials with AI pilots by 2024, Esper says"
     excerpt: "The Pentagon plans to conduct live trials pitting tactical aircraft controlled by artificial intelligence against human pilots, Defense Secretary Mark Esper said this week."
     publishedDateTime: 2020-09-10T20:11:00Z

@@ -2,25 +2,25 @@
 category: news
 title: "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters"
 excerpt: "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election."
-publishedDateTime: 2020-09-01T20:17:00Z
-originalUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
-webUrl: "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters"
+publishedDateTime: 2020-09-01T22:20:00Z
+originalUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
+webUrl: "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/"
 type: article
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: KPCC
+  domain: scpr.org
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400"
-    width: 719
-    height: 404
+  - url: "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg"
+    width: 1024
+    height: 514
     isCached: true
 
-secured: "/0flYm5OFpCVvy9inPlZuSAu9ur4ta26put2XjpQC8FKlvRR8KTz7n8KqGCqZG3BWD4pVGT4BT84M47lDXDXWRiPD9qkIa7flf1w7OLQwsspUADJmaRQ4J0uLzpOWH45osdzrkI+Mjlj7nXEA5YCaxOpn2icLacjKSdP0mwcMZPtAeK2KHQF/1nm76iRK5oghibKwTG8AUcPfkx4nqslBJ25L5edTsVn+0C5cGjWlvqu4eq1xHPtXCxY2VUvW8VurzDuYO8f9ZZzMqE125BtPQqcOA/FxtTMW4vGdZrfmirOWE69otKf/hrSenJYNWtZ3N5LPclv7E1mvWeWSPCjMvqdrI8pPL1kmqmF5GvCvJg=;hgbVWgn8QNsYbFGcU9gtrg=="
+secured: "YE26+wR9YRZpAWLv+d43jPbcxQJagKrr8g2R33DJNxtgfWy9Ahxt3peDfy2ul5jMXvNmOk7MtPW7SVyFIM69JAfBZ3kQG5QQRH60KxFmtztixyJryKVFfms0ubTppL61cxPIblqTt8Yrif8oAh4JCEqVioauQBVPddZ1RsDr2h+iScMagyXMLMmEUCoXqRM4k6ZG37ZPtK4KF7HfH3S3/453fbFSELnqtePgMfCPYqY/tbs3JYFPl2pyU9VFDtCxkMJsuqTxNGi8Wk3qqhee9QrbnGLyQb96yhsmLtZiEMCxDOANX9APynu2i/cAN/Vp/aSSUuFtqcXyYPZ42MtEWifyZoSpKBWa0du9xno6nlw=;BZvjSIJk0KBjAtlxu/8NHQ=="
 ---
 

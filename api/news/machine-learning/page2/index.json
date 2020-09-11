@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-27-speech-recognition-gets-an-automl-training-tool.md",
+      "title": "Speech Recognition Gets an AutoML Training Tool",
+      "excerpt": "AutoML, the application of machine learning to create new automation tools, is branching out to new use cases, making itself useful for particularly tedious data science tasks when training speech recognition models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "originalUrl": "https://www.datanami.com/2020/08/27/speech-recognition-gets-an-automl-training-tool/",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png",
+          "width": 492,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19.md",
+      "title": "How machine learning is identifying and tracking pandemics like COVID-19",
+      "excerpt": "BlueDot's machine learning platform anticipates the spread and impact of over 150 different pathogens, toxins, and syndromes in near-real time.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1180187740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
+      "publishedDateTime": "2020-08-27T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-us-navy-to-tap-google-machine-learning-for-repairs.md",
       "title": "U.S. Navy to tap Google machine learning for repairs",
       "excerpt": "The U.S. Navy plans to tap Google's cloud and machine learning technology and use drone imagery, to modernize its process for determining when vessels and facilities are in need of repair. Why it matters: The planned move comes amid internal and external scrutiny over the ties between Big Tech and the U.",
@@ -1300,97 +1392,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices.md",
-      "title": "How Can Businesses Take Deep Learning Out Of The Lab And Onto Intelligent Edge Devices?",
-      "excerpt": "Despite successful research and developments in lab settings, deep learning has yet to reach its potential in real-world deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/amp/",
-      "publishedDateTime": "2020-08-19T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-machine-learning-in-retail-market.md",
-      "title": "Machine Learning in Retail Market",
-      "excerpt": "Machine Learning in Retail Market 2020 report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T819308741_g.jpg",
-          "width": 562,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116297/machine-learning-in-retail-market-to-impressive-growth-2025",
-      "publishedDateTime": "2020-08-19T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

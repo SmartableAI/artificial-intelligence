@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Market 2020 to 2025 Top Countries Data, Growth Pattern and Analyzing Impacts Of COVID-19"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global Commerce Artificial Intelligence Market"
-    publishedDateTime: 2020-09-06T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-market-2020-to-2025-top-countries-data-growth-pattern-and-analyzing-impacts-of-covid-19-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Explore Trends and COVID-19 Impact on Russia and NATO Artificial Intelligence in Military Market 2020 Research Report and Industry Forecast till 2026"
     excerpt: "Pages PDF Report] Facts & Factors (FnF) published a market research report on “Russia and NATO Artificial Intelligence in Military Market: By Size, Share, Growth Factors, Top Players, COVID-19 Analysis and Forecast,"

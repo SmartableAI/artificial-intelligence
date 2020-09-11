@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/te
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: IOL News
@@ -25,6 +26,6 @@ images:
     height: 366
     isCached: true
 
-secured: "89DNq84OqItZLpN7oRnbPW2hT5Bh1cnXdp6p3IfJ15doIYwj+eJtnzCRgpJOjgzgmN45PnfyEJ4/FsnRf5ap8XA6otT5J38TR0Q6QK/E3oXWrc6DS0e/LCHFMrzOCSJZ87B1RO368XmRBkkmCzbWG8eIUBLxirCtYPtCDY4tANQUjMA5rBUwHTvaIfeo+Hx+yXpJakCOam855/wx6uoe1b3FWZSdMbcyYEc0uaWkZSA8+m1U/GG96TOhdXtvyzlI/r6mkBm0cH5M8XcTMEJalWEwyJ+AbTX1FI0yPqqKgbvubDJiyXq2806h/vKnoQSWmVlV11s9e3jWSxpXHrhf4deV4XoFWZmBCzn30hz5JTU=;semzdBZiY5pvls6PwDRh+w=="
+secured: "QOUkNcZqx0pgMtLs38ZIxNU7IR77lZ74g6BqHBbqpK7hIdbQY01MTkaeqXteVeVFXYNOqAE9jLMyUn9mRE4cIFsN3yUZ9/At4k+2Vp3mUHGU5BgXly8BcbfrxsNketxOJX92w7UrXWLdiN07mOnNuhEu4JenpwbNSseV9kg2pI4WzAuP99c0GpCIQBTlxbZDUTNq+RewTObsm7UYfg2YEY3vAEWiPvmhYcWJq+D082aPkplkNZlsftcJQujzTY+13+GSpeZZSEt/29Xq4VbqSmRLYSP1ocY3Y4iHujEgM8RIRnH1S9t0ieP11iD3V7HNupDwYzUJb3uysKRMkposRJKewkpG/jSrQSASkWcZCV+0o/cKZryQeYqKUxNiG0FzG7uG8J7TtVqUVGS4AzEM3/eTm4qE/6BCksHc08ALWgpB5TYcTSKJG7BNy6clFQ16uwqrmIGcaYIW2bBHIm0lS/zOCtkmf7VWFuwvXoyynQDTi8SQX1xJZsSjdAcFgvTPSseVLjjwubeugf8LomrgPQ==;E0q7tJXnLUfCyZzJa3hOng=="
 ---
 

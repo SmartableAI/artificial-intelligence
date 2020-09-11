@@ -3,10 +3,10 @@ category: news
 title: "Global Speech and Voice Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2026"
 excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
 publishedDateTime: 2020-09-09T14:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-09-09"
-webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-09-09"
+originalUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-09-09?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-09-09?mod=mw_quote_news"
 type: article
-quality: 26
+quality: 24
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -45,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ef7J3MUj9fg8dD1ApzvBP+8G0aHqu8YPmWwBT1DDH8BmYEhCEc+7IKrmLz3rh32JJomNGSWOHv2klVWt6m0gO1D29Lr9Q3ng8R55OQznpKdhfmGL6KtTFo0nHPpmZScXcW37FbucIM26oZJoE9xMolfJytKWnXiFNpbV3wImEzf9QzS0/sYuZvPWHfKsI3/qVjSlxfNFlAkzJyu0tkeFSi7UiyRUOkU6rCD56XgYgjBIAHmFZXsSA41uBlSt3oV22WaNcE3WLfraWXJ+HjifpDK1k7PU6t7G0/LDJmOXcbG+xz4zw2OvoyHLnS+Uhq97hMKibcJDxIEh5lOhOhSi1YQZP0uNLeVIO8w1vQ0W0V0=;SrhutDqq8DjvxShta/cKRQ=="
+secured: "mfr3ECDTN0K16twIAQLgFNe7Dwi2I0gqO5wQ628MotZWrosGHI8lXNBlKtdRQwxe/o9H+8BdkTZVnmSzmrMQTvYD5uHfOMIehZQ0gat0VsQhLPL6//8au4D7q4ezoTBYicsG3UE7jxoRxyKLG/XXe94+LEx0wDqZh/2hzoUBB2Nrl31UV/X5dCz0bK0/owmO5OkeYLTc1thxaUxfYOXnQlTnk/FFOHc5IB9L2fFFPMqUesCSEdE7ZN6+Lf+igcVuaQpFcOfdQ+Na3yTDoa8bPQb3l613nsReChAB/5kTKmIQxZya7kfOgQYWkL+oIFbjrZwH4kqbW3v4Im3xKodehMLAI2VI5rCGRlc0eyKDp68=;4vx2KD8GXPcEgGsjj+I+UQ=="
 ---
 

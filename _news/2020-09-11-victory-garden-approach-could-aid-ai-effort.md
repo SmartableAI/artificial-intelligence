@@ -7,7 +7,7 @@ originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victo
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victory-garden-approach-could-aid-ai-effort/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

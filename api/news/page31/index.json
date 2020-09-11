@@ -2,6 +2,329 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-08-18-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management.md",
+      "title": "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management",
+      "excerpt": "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b87152f12e274ede8395fc39f3623c4a",
+      "originalUrl": "https://apnews.com/b87152f12e274ede8395fc39f3623c4a",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-facial-recognition-lobby-urges-caution-on-us-zeal-to-regulate.md",
+      "title": "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate",
+      "excerpt": "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "featuredContent": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "publishedDateTime": "2020-08-18T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-trump-hits-back-at-michelle-obama-after-searing-dnc-speech-says-he-would-not-be-here-if-not-for-obama.md",
+      "title": "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama",
+      "excerpt": "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
+      "publishedDateTime": "2020-08-18T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-tesla-is-working-on-hw-40-self-driving-chip-with-tsmc-for-mass-production-in-q4-2021-report-says.md",
+      "title": "Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says",
+      "excerpt": "Tesla is working on HW4.0 self-driving chip with semiconductor company TSMC with a timeline for mass production in Q4 2021, according to a new report coming out of China. Back in 2016, Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-computer-hardware-3-e1564566732949.jpeg?quality=82&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/",
+      "publishedDateTime": "2020-08-18T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml.md",
+      "title": "IIT Patna, Flipkart partner for joint research in AI and ML",
+      "excerpt": "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "publishedDateTime": "2020-08-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-artificial-intelligence-ai-in-education-market.md",
+      "title": "Artificial Intelligence (AI) in Education Market",
+      "excerpt": "Artificial Intelligence (AI) in Education Market Global Report 2020-26: Covid 19 growth and changes in its research report store. It is the most comprehensive report available on this market and will help gain a truly global perspective as it covers 60 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
+      "originalUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T818695716_g.jpg",
+          "width": 562,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness",
+      "publishedDateTime": "2020-08-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025",
+      "excerpt": "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
+      "featuredContent": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast.md",
       "title": "Cloud Natural Language Processing (NLP) Market 2020-2027 / Trends, Analysis, Segmentation And Forecast",
       "excerpt": "Aug 18, 2020 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 ...",
@@ -825,345 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-microsoft-flight-simulator-is-finally-back-and-the-reviews-are-in.md",
-      "title": "'Microsoft Flight Simulator' is finally back and the reviews are in",
-      "excerpt": "Its latest iteration goes back to the original naming convention of \" Microsoft Flight Simulator ,\" but pretty much everything else about it is shiny and new. The 2020 edition – which is also the first new one since 2014 – gives virtual pilots access to a full planet's worth of skyways.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F08%252F17%252F1e%252Ff7bc72f777f345c4a4a60d886b84fc97.35db3.jpg%252F1200x630.jpg?signature=OdciJ1t1j63J4p3v2fK3hwa06YE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "publishedDateTime": "2020-08-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19.md",
-      "title": "The meatpacking industry is an incubator for AI, automation, and COVID-19",
-      "excerpt": "As the pandemic stretches on, the threat to meatpacking, meat processing, and distribution center employees has researchers seeking a new production model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Meatpacking-automation-covid-19.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/",
-      "publishedDateTime": "2020-08-17T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-how-robotics-and-automation-could-create-new-jobs-in-the-new-normal.md",
-      "title": "How robotics and automation could create new jobs in the new normal",
-      "excerpt": "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
-      "originalUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robotics-automation-new-jobs.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/",
-      "publishedDateTime": "2020-08-17T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip.md",
-      "title": "Photonics startup Lightmatter details P1, its AI optical accelerator chip",
-      "excerpt": "Ahead of the Hot Chips 2020 conference this week, photonics chip startup Lightmatter detailed its forthcoming P1 accelerator hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/",
-      "originalUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/",
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/amp/",
-      "publishedDateTime": "2020-08-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-artificial-intelligence-chip-market-forecast-report-2020-2027-top-key-players-analysis.md",
-      "title": "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-      "excerpt": "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ibm-unveils-its-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing.md",
-      "title": "IBM unveils its first seven-nanometre chip for next-generation hybrid cloud computing",
-      "excerpt": "IBM has announced the tenth generation of its flagship Power processors, a smaller, faster, more energy-efficient seven-nanometre chip that businesses can expect to deploy inside their data centres in the second half of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/b91425a7-67c3-4dd8-b476-c8d464ac9dfd/power-10-08-wafer.jpg",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
-      "publishedDateTime": "2020-08-17T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-how-to-legally-fight-covid-19-with-ai.md",
-      "title": "How to legally fight COVID-19 with AI",
-      "excerpt": "Tonya Hall sits down with Hon. Katherine B. Forrest (Fmr.), partner at Cravath, Swaine & Moore, to learn more about how individuals can protect their 1st, 4th, and 5th Amendment rights while combating COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-to-legally-fight-covid-19-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/17/d0bd4851-0a17-4f91-8a0b-3d47eb3fce52/thumbnail/770x578/24f0a812be4fd3816e11968da6bffa3d/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

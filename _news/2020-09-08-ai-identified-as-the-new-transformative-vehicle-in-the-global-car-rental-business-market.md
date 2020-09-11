@@ -36,20 +36,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Global AI over Edge Computing Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has introduced a new report titled Global AI over Edge Computing Market 2020 by Company, Type and Application, Forecast to 2025 that offers an all-encompassing analysis of recent and upcoming states of this industry,"
-    publishedDateTime: 2020-09-06T19:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
     publishedDateTime: 2020-09-08T12:30:00Z

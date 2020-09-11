@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/518444/improving-the-use-of-social-media-for
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/518444/improving-the-use-of-social-media-for-disaster-management/amp/"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

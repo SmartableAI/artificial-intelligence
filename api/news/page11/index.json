@@ -2,6 +2,311 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
+      "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
+      "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "originalUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025",
+      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
+      "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
+      "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Nvidia%20Drive%20PX%20Pegasus.jpg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-announces-rtx-30-ampere-gpus.md",
+      "title": "Nvidia announces RTX 30 Ampere GPUs",
+      "excerpt": "Nvidia (NVDA +3.0%) officially unveils its GeForce RTX 30 Series GPUs based on the Ampere architecture.The GeForce RTX 3090, 3080 and 3070 GPUs also utilize the second-gen Nvidia RTX PC gaming platform for real-time ray tracing and AI gaming.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
+      "originalUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors.md",
+      "title": "Aussie researchers leverage compute power to analyse genomic data and match donors",
+      "excerpt": "CSIRO has touted advances in processing data to pinpoint the location of specific disease-causing genes in the human genome, while PathWest is matching bone marrow donors with candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
+      "originalUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/01/8aa899a5-377f-4532-bffc-d12e943b8b0a/electronic-skin-2.jpg",
+          "width": 4032,
+          "height": 2268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
+      "publishedDateTime": "2020-09-01T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters.md",
+      "title": "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters",
+      "excerpt": "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/",
+      "originalUrl": "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg",
+          "width": 1024,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations.md",
+      "title": "Intel CIO Says AI Playing a Growing Role in Chipmaker’s Operations",
+      "excerpt": "Intel Corp. Chief Information Officer Archana Deskus says artificial intelligence has become more critical to the semiconductor maker during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
+      "originalUrl": "https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-227480/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924",
+      "publishedDateTime": "2020-09-01T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool.md",
       "title": "Who Are the Biggest Attention Hogs on Cable News? Ask This New AI Tool",
       "excerpt": "Researchers at the Brown Institute for Media Innovation at Stanford University created a tool that measures 'who is on the news and what they talk about,' and made it publicly searchable.",
@@ -47,47 +352,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters.md",
-      "title": "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters",
-      "excerpt": "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters",
-      "originalUrl": "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400",
-          "width": 719,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -857,279 +1121,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Artificial intelligence (AI) has the potential to influence almost every industry, and the overall economic impact of the tech will exceed what's spent on hardware, software, and services many times over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F589831%2Fgettyimages-896358708.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/01/top-artificial-intelligence-stocks-buy-september/",
-      "publishedDateTime": "2020-09-01T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-a-big-step-for-flood-forecasts-in-india-and-bangladesh.md",
-      "title": "A big step for flood forecasts in India and Bangladesh",
-      "excerpt": "For several years, the Google Flood Forecasting Initiative has been working with governments to develop systems that predict when and where flooding will occur—and keep people safe and informed. Much of this work is centered on India, where floods are a serious risk for hundreds of millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "originalUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screen_Shot_2020-08-31_at_6.57.16_PM.max-1300x1300.png",
-          "width": 1300,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/flood-forecasts-india-bangladesh/amp/",
-      "publishedDateTime": "2020-09-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying.md",
-      "title": "What’s Hot In AI, According To Training Data Google, IBM, Microsoft Are Buying",
-      "excerpt": "But what’s growing fastest in artificial intelligence? One clue is where the Fortune 50 are placing their AI bets. And one big tell is what they need training data for. “Training data is really the basis for AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/",
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e6dc77bc351dcc612a595%2F0x0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/01/whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying/amp/",
-      "publishedDateTime": "2020-09-01T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars.md",
-      "title": "Elon Musk’s Neuralink Showcase Spurs Mind-Copying Discussion About AI And Self-Driving Cars",
-      "excerpt": "Let’s use that as a means to consider how copying the human mind can be related to AI, along with then using AI-based true self-driving cars as an example for exploring the mind-copying aspects. First of all,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed019bfa705cb0006454d1d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4592%26cropY1%3D188%26cropY2%3D3249",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/amp/",
-      "publishedDateTime": "2020-09-01T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-pandemic-tests-toll-roads-construction-but-ai-well-positioned.md",
-      "title": "Pandemic tests toll roads, construction, but AI well-positioned",
-      "excerpt": "Toll roads have fared better than airports during COVID-19. While flying has become a distant dream for most, people have been jumping in their cars and going on driving holidays as soon as pandemic restrictions are relaxed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.atlasai.co/about-atlasai.html",
-      "originalUrl": "https://www.afr.com/wealth/personal-finance/pandemic-tests-toll-roads-construction-but-ai-well-positioned-20200831-p55qb3",
-      "featuredContent": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.atlasai.co/assets/img/inner-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-aws-announces-general-availability-of-amazon-ebs-io2-volume.md",
-      "title": "AWS Announces General Availability of Amazon EBS io2 Volume",
-      "excerpt": "New Amazon EBS volume delivers 100x higher durability and 10x more IOPS-to-storage ratio at the same price of current comparable volumes Bristol Myers Squibb,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17222030",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17222030",
-      "publishedDateTime": "2020-09-01T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

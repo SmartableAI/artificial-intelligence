@@ -2,6 +2,345 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-18-mit-sloan-implementing-ai-from-exploration-to-execution.md",
+      "title": "MIT Sloan: Implementing AI from Exploration to Execution",
+      "excerpt": "Artificial intelligence is becoming a key component of business transformation ... Many of these enterprises use Amazon Web Services (AWS) as their technology platform for AI initiatives and access NVIDIA GPUs to speed up their machine learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus.md",
+      "title": "Chinese AI Giant Blacklisted By Trump Mints Money From Virus",
+      "excerpt": "The Hong Kong-based startup’s revenue surged 147% to 5 billion yuan ($720 ... to develop its own tech industry and overtake the U.S. in key sectors. Read more: AI Unicorn SenseTime Is Said to Mull Hong Kong, China IPO In the case of facial recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iclFGm8eeMXk/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
+      "publishedDateTime": "2020-08-18T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
+      "title": "5 Big Myths of AI and Machine Learning Debunked",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-amazon-now-offers-third-party-solutions-for-contact-center-ai.md",
+      "title": "Amazon now offers third-party solutions for contact center AI",
+      "excerpt": "Amazon today announced the launch of AWS Contact Center Intelligence (CCI) solutions, a combination of services that enables customers to integrate contact centers with AI through partners in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/amp/",
+      "publishedDateTime": "2020-08-18T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
+      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
+      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-221966/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "publishedDateTime": "2020-08-18T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
+      "title": "Hour One wants synthetic AI characters to be your digital avatars",
+      "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/hour-one-3-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
+      "publishedDateTime": "2020-08-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19.md",
+      "title": "How to diagnose and treat machine learning models afflicted by COVID-19",
+      "excerpt": "Its impact has been particularly significant on many machine learning (ML) models that companies use to predict human behavior. Companies need to take steps to deeply examine ML models and acquire ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1208505346.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/amp/",
+      "publishedDateTime": "2020-08-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-atscale-expands-reach-of-cloud-olap-with-support-for-microsoft-azure-databricks-in-20203-release.md",
       "title": "AtScale Expands Reach of Cloud OLAP with Support for Microsoft Azure Databricks in 2020.3 Release",
       "excerpt": "AtScale, the intelligent data virtualization provider for advanced analytics, today announced an enhanced platform integration with Azure Databricks. The integration extends AtScale’s Cloud Online Analytical Processing (COLAP) to analytics workloads wherever they reside: on-premises,",
@@ -825,329 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management.md",
-      "title": "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management",
-      "excerpt": "(NYSE: VMW) today announced innovations across its portfolio of VMware vRealize Cloud Management on-premises and software as a service (SaaS) offerings. The new and enhanced product capabilities combine to further enable customers to consistently deploy and operate their applications,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/b87152f12e274ede8395fc39f3623c4a",
-      "originalUrl": "https://apnews.com/b87152f12e274ede8395fc39f3623c4a",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-facial-recognition-lobby-urges-caution-on-us-zeal-to-regulate.md",
-      "title": "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate",
-      "excerpt": "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
-      "featuredContent": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
-      "publishedDateTime": "2020-08-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-trump-hits-back-at-michelle-obama-after-searing-dnc-speech-says-he-would-not-be-here-if-not-for-obama.md",
-      "title": "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama",
-      "excerpt": "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp",
-      "publishedDateTime": "2020-08-18T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-tesla-is-working-on-hw-40-self-driving-chip-with-tsmc-for-mass-production-in-q4-2021-report-says.md",
-      "title": "Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says",
-      "excerpt": "Tesla is working on HW4.0 self-driving chip with semiconductor company TSMC with a timeline for mass production in Q4 2021, according to a new report coming out of China. Back in 2016, Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-computer-hardware-3-e1564566732949.jpeg?quality=82&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/",
-      "publishedDateTime": "2020-08-18T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml.md",
-      "title": "IIT Patna, Flipkart partner for joint research in AI and ML",
-      "excerpt": "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
-      "publishedDateTime": "2020-08-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-artificial-intelligence-ai-in-education-market.md",
-      "title": "Artificial Intelligence (AI) in Education Market",
-      "excerpt": "Artificial Intelligence (AI) in Education Market Global Report 2020-26: Covid 19 growth and changes in its research report store. It is the most comprehensive report available on this market and will help gain a truly global perspective as it covers 60 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
-      "originalUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T818695716_g.jpg",
-          "width": 562,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness",
-      "publishedDateTime": "2020-08-18T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025",
-      "excerpt": "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
-      "featuredContent": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

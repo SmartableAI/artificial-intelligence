@@ -9,7 +9,7 @@ ampWebUrl: "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-
 cdnAmpWebUrl: "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "These robots could improve mental health in older people"
+    excerpt: "The trial conducted in UK and Japan revealed that older adults in care homes who used the culturally competent robot, up to 18 hours across two weeks, saw a significant improvement in their mental health."
+    publishedDateTime: 2020-09-11T13:16:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/gxjtoe/article32582617.ece/ALTERNATES/LANDSCAPE_615/robots-old-peoplejpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Robots found to improve mental health and loneliness in older people – study"
     excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
     publishedDateTime: 2020-09-08T05:11:00Z

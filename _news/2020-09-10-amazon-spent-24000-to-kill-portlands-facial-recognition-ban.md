@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-11T12:19:00Z
+    webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 818
+        height: 545
         isCached: true
   - title: "Portland bans use of facial recognition tech by government and private entities"
     excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."

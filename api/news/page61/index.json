@@ -2,6 +2,316 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-07-24-artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast.md",
+      "title": "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast",
+      "excerpt": "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-artificial-intelligence-ai-in-construction-market.md",
+      "title": "Artificial Intelligence (AI) in Construction Market",
+      "excerpt": "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T724430476_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
+      "publishedDateTime": "2020-07-24T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-a-journey-to-emotional-and-artificial-intelligence.md",
+      "title": "A Journey To Emotional (and Artificial) Intelligence",
+      "excerpt": "For Rana el Kaliouby, building her company and writing her book have been major steps on the journey to overcome self-doubt, reconcile cultures, and decode herself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1a024690b254e22055790c%2F0x0.jpg",
+          "width": 1200,
+          "height": 973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-07-24T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-protection-suite-adds-secure-edge-and-cloud-integration-for-iot-devices.md",
+      "title": "Protection suite adds secure edge and cloud integration for IoT devices",
+      "excerpt": "devices has released a new version that now secures edge computing with custom applications such as machine learning algorithms and cloud integration with pre-configured AWS and Azure registration. The EmSpark version 2.0 from Sequitur Labs adds security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/protection-suite-adds-secure-edge-and-cloud-integration-for-iot-devices/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/07/EmSPARK-Architecture.png",
+          "width": 1060,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-new-deepmind-scholarships-create-ai-study-opportunities-for-postgraduates.md",
+      "title": "New DeepMind scholarships create AI study opportunities for postgraduates",
+      "excerpt": "New scholarships offer students from underrepresented backgrounds the chance of postgraduate study in AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imperial.ac.uk/news/200533/new-deepmind-scholarships-create-ai-study/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1595524870781_mainnews2012_x1.jpg",
+          "width": 700,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Imperial College London",
+        "domain": "imperial.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-the-50-best-things-to-watch-on-disney-right-now.md",
+      "title": "The 50 Best Things to Watch on Disney+ Right Now",
+      "excerpt": "The Disney streaming platform has hundreds of movie and TV titles, drawing from its own deep reservoir classics and from Star Wars, Marvel and more. These are our favorites.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/",
+      "originalUrl": "https://www.nytimes.com/article/best-tv-shows-movies-disney-plus.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-us-west-1.amazonaws.com/rks-inside-prod/twitter-card.jpg",
+          "width": 1600,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-healthcare-cognitive-computing-market.md",
       "title": "Healthcare Cognitive Computing Market",
       "excerpt": "DBMR Analyses the Healthcare Cognitive Computing Market to grow at ... Data Bridge adepts in creating satisfied clients who reckon upon our services and rely on our hard work with certitude.",
@@ -849,354 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy.md",
-      "title": "Google claims its AI system can grade prostate cancer samples with 72% accuracy",
-      "excerpt": "In a peer-reviewed study, Google reseachers claim to have developed an AI system that grades prostate tumor severity with 72% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "publishedDateTime": "2020-07-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-ordered-to-pay-650-million-in-facial-recognition-lawsuit.md",
-      "title": "Facebook ordered to pay $650 million in facial recognition lawsuit",
-      "excerpt": "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
-      "publishedDateTime": "2020-07-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm.md",
-      "title": "Deep Learning Chipsets Market May Set New Growth Story | Google, Intel, Qualcomm, IBM",
-      "excerpt": "A new business intelligence report released by HTF MI with title “Global Deep Learning Chipsets Market Size, Status and Forecast 2019-2025” is designed covering micro level of analysis by manufacturers and key business segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm-2020-07-23",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-how-ai-can-improve-financial-analytics.md",
-      "title": "How AI Can Improve Financial Analytics",
-      "excerpt": "In recent discussions with CIOs and senior management team members at Financial Services firms, a few of which are former students of mine, the topic of how AI and machine learning is revolutionizing the financial services landscape came up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170740952%2F0x0.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
-      "publishedDateTime": "2020-07-23T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-voice-tech-the-past-present-and-future.md",
-      "title": "Voice tech: The past, present, and future",
-      "excerpt": "A virtual panel made up of executives from NVIDIA Inception, Deepgram, and Sharpen discussed the state of conversational speech technology in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/voice-tech-the-past-present-and-future/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/23/8e4cbdb3-b1ce-4ea8-88cd-f43b76ef0b54/resize/1200x/a0f12b85d37fe39fcc77f2cc7d900ec2/voice-tech.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
-      "publishedDateTime": "2020-07-23T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-using-ai-to-identify-the-aggressiveness-of-prostate-cancer.md",
-      "title": "Using AI to identify the aggressiveness of prostate cancer",
-      "excerpt": "Prostate cancer diagnoses are common, with 1 in 9 men developing prostate cancer in their lifetime. A cancer diagnosis relies on specialized doctors, called pathologists, looking at biological tissue samples under the microscope for signs of abnormality in the cells. The difficulty and subjectivity of",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/amp/",
-      "publishedDateTime": "2020-07-23T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-riiid-raises-418-million-to-expand-its-ai-test-prep-apps.md",
-      "title": "Riiid raises $41.8 million to expand its AI test prep apps",
-      "excerpt": "South Korean startup Riiid has raised $41.8 million to further develop its AI test prep technology. To date, the company has raised over $70 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/1-1-e1595515659939.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
-      "publishedDateTime": "2020-07-23T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

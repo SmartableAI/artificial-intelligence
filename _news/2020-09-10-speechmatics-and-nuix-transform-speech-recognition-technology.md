@@ -7,7 +7,7 @@ originalUrl: "https://www.businessweekly.co.uk/news/hi-tech/speechmatics-and-nui
 webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speechmatics-and-nuix-transform-speech-recognition-technology"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

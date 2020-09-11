@@ -2,6 +2,269 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-03-google-maps-is-improving-travel-etas-with-deepmind-ai.md",
+      "title": "Google Maps is improving travel ETAs with DeepMind AI",
+      "excerpt": "Google Maps helps users navigate over one billion kilometers in more than 200 countries and territories daily, and Google says its estimated time of arrival (ETA) predictions have been consistently accurate for over 97 percent of trips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html",
+      "originalUrl": "https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html",
+      "featuredContent": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-maps-deep-mind-ai-accuracy-140005698.html",
+      "publishedDateTime": "2020-09-03T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-the-zacks-analyst-blog-highlights-amazon-apple-salesforcecom-zoom-and-facebook.md",
+      "title": "The Zacks Analyst Blog Highlights: Amazon, Apple, salesforce.com, Zoom and Facebook",
+      "excerpt": "Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
+      "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09?amp",
+      "publishedDateTime": "2020-09-03T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap.md",
+      "title": "OpenAI reveals the pricing plans for its API — and it ain’t cheap",
+      "excerpt": "The company says developers can apply it “to any language task — semantic search, summarization, sentiment analysis, content generation, translation, and more — with only a few examples or ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T133902.980-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
+      "publishedDateTime": "2020-09-03T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy.md",
+      "title": "Apple may add infrared thermal imaging to the iPhone to help AR accuracy",
+      "excerpt": "Future iPhones could use thermal or infrared imaging to supplement regular vision cameras, making it easier to use Apple AR in dark or busy environments.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
+      "originalUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/37477-70376-000-lead-Apple-AR-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
+      "publishedDateTime": "2020-09-03T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nitda-set-to-establish-centre-for-artificial-intelligence-robotics.md",
+      "title": "NITDA set to establish centre for Artificial Intelligence, robotics",
+      "excerpt": "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
+      "originalUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
+      "publishedDateTime": "2020-09-03T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-google-clouds-ai-is-being-used-by-the-us-government-to-improve-the-accuracy-of-cancer-diagnoses.md",
+      "title": "Google Cloud's AI is being used by the US government to improve the accuracy of cancer diagnoses",
+      "excerpt": "The US Department of Defense is using Google Cloud's AI tools to research if they can enhance the accuracy of cancer diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
+      "originalUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ee917341918243f207cec86?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
       "title": "Scalise hit with ethics complaint over doctored Barkan video",
       "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
@@ -883,285 +1146,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-these-students-figured-out-their-tests-were-graded-by-ai-and-the-easy-way-to-cheat.md",
-      "title": "These students figured out their tests were graded by AI — and the easy way to cheat",
-      "excerpt": "That wasn’t on a practice test — it was his real grade. “He was like, I’m gonna have to get a 100 on all the rest of this to make up for this,” said Simmons in a phone interview with The Verge. “He was totally dejected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
-      "originalUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PnEUlNVe6AoLUQpgQuPBlyPHCaQ=/0x0:2040x1364/1400x933/filters:focal(857x519:1183x845):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67345411/pesposito_200420_3983_0009.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
-      "publishedDateTime": "2020-09-02T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
-      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
-      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
-          "width": 607,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "publishedDateTime": "2020-09-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
-      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
-      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
-      "publishedDateTime": "2020-09-02T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
-      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
-      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
-      "sourceUrl": null,
-      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
-          "width": 1155,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "publishedDateTime": "2020-09-02T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Got This Covered",
-        "domain": "wegotthiscovered.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging.md",
-      "title": "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging",
-      "excerpt": "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
-      "originalUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-traffic-prediction-with-advanced-graph-neural-networks.md",
-      "title": "Traffic prediction with advanced Graph Neural Networks",
-      "excerpt": "Working with our partners at Google Maps, we used advanced machine learning techniques including Graph Neural Networks, to improve the accuracy of real time ETAs by up to 50%.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
-      "originalUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_0l569a7inOy7JzU1-ZvhKqYL6pCL6q_yEMTOPtZx-IeFPzN2yvLIRC8vZe922Q1JL4WB2JziEXj0CurKHeD5vSt3ILJtHgX5d36Fg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

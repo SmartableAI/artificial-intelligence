@@ -1,0 +1,39 @@
+---
+category: news
+title: "Baidu launches robotaxi service in China’s capital"
+excerpt: "Baidu has launched a robotaxi service in Beijing, China, that it claims will encompass the largest area and longest road network for self-driving cars. The area serviced in Beijing will run about 435 miles with nearly 100 pick-up and drop-off stations covering residential and business areas in Yizhuang,"
+publishedDateTime: 2020-09-11T12:37:00Z
+originalUrl: "https://electronics360.globalspec.com/article/15667/baidu-launches-robotaxi-service-in-china-s-capital"
+webUrl: "https://electronics360.globalspec.com/article/15667/baidu-launches-robotaxi-service-in-china-s-capital"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Engineering360 News
+  domain: globalspec.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Baidu rolls out self-driving taxi service in Beijing"
+    excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
+    publishedDateTime: 2020-09-11T05:27:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
+        width: 763
+        height: 509
+        isCached: true
+
+secured: "0rSIYW+S+lw5sdPKNdQ8gcyRRvZARQr5oifY/mvwBsCBqIuvjPQ6BAq3kPaT9/GtCh+SkbXjkAzpVzpCa28xj0bY3iTbL2WsS5hmOdAIBgHGf2EI+8gYArQopAagquJQC2TLscZBm0Ubhnt2xekGYPoV0NSgvr9s0Z+7NU/gAxthDqiXZcVou7YGozHwIY1zP8BakBM7CaQ/baJlDhaO0fGu/UukBzZ3bBe3UCb3ighhPgIsd1tah0Qsf9lTy+woA918BPdUObNIDFryqF1qUY9w2pNS74wzqB3T8E22WTkRSOx6x5bNhgHzYsA9JbLVHRK8yUh2y7M1AdxImXs79MHzeo0EYqHmRJn7Yn3gy3ADwnwOAbxx2l+TzoqtUblGrADNQiUBy70SCD61SJUjymnoGL6Fqm/qj0WitXo+SkAc7lHWO6u/0e+SMM1/DrWQBG+wqtth5eDsCWSuEIF6QmhsYuw9AXcvqdZxiEglWL1SbF/muk7882D6/6IrgciS5uzXKaYOYAUoQOPJGsxonA==;ludtPSFLBcq6FySWOWNnrw=="
+---
+
