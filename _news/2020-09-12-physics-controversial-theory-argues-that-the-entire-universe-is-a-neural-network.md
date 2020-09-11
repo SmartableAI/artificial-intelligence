@@ -2,9 +2,9 @@
 category: news
 title: "Physics: controversial theory argues that the entire universe is a neural network"
 excerpt: "Vitaly Vanchurin of the University of Minnesota Duluth believes that - on a fundamental level - everything we know may be made up of various nodes that process and pass on signals."
-publishedDateTime: 2020-09-11T17:25:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
+publishedDateTime: 2020-09-11T18:18:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/Physics-controversial-theory-argues-entire-universe-neural-network.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/Physics-controversial-theory-argues-entire-universe-neural-network.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
 type: article
@@ -60,6 +60,6 @@ related:
         height: 382
         isCached: true
 
-secured: "cmVXHnPHyzXtrjM0DuSXHiNmsfXKfDATgGWUW4wjnWIWvo1qEzE3l+93GRR+ZRvKF4U2S2mVMl072Sw5UvJxOj0IdgHpUhk/CNrU3iZyRUWbgdnGAv9NkmGGgPPzFfmUS91yFaRB/eIbyLy7Vv9vvFPjQCeuyqq4ClHuoAG4JWZ8QEPx6ivXEfXRlDNWJnzEU7P4GQA2TeGfg6NiuSojeVdGcEs8Y4lueWiyYEexss7y5bpu/7fgILv0DcpVrLgCJcMuF+fxF8h8XdMd3PRQ2/UGBXVvj8pviK9AsnP+LGfoQ9A7MxLM3hUr2rg0Dv03sbKpaZ63Qc+eFtTNu5GcFPMwROvPCxcQ227lR+XYmLM=;152Y6MKBdQ3CTX9KJdR8bg=="
+secured: "WO+skp1ApLI9rK3H7WnQxkoOoWLCpAAu2nyU1zfXVbodNmVOb4QdQkyyUu/BlIBLC4+V3rU33RbS/cxWLpcvJJcM2R8yJ+4jYt+0jLekEet5wOQB9NcKuIFGcvmEuodXDjdJs3uwRQsW6UNy0QcPQ1NicOdEJqQ4SWHVk0JhWbic6nq5s2EpgE0Lg3uWivCOHp10z29fah1YQCBgDqBv7HgBYV6tIb7hyH8jFfzCLu4XsmEq4QyQkuGTbXEA9YuXrF0lEjOsuOH8dFqbHAK66ks5dFHrKjEDuAv6RfzxS8W3sP8+jw8kpnco3ipr4GZC5pXYE1RTr+47oF8FmKIeC6tY8/l9WRMRh61V2z5m4tY=;bGBdqdAOHnsv6ztMIB6liA=="
 ---
 

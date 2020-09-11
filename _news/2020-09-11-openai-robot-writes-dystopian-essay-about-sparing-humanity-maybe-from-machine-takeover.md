@@ -8,8 +8,8 @@ webUrl: "https://www.syfy.com/syfywire/robot-author-writes-dystopian-essay-spari
 ampWebUrl: "https://www.syfy.com/syfywire/robot-author-writes-dystopian-essay-sparing-humanity?amp"
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-author-writes-dystopian-essay-sparing-humanity?amp"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/09/terminator_0.jpg"

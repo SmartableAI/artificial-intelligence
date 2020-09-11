@@ -31,19 +31,14 @@ images:
 
 related:
   - title: "Intel Artificial Intelligence Powers Samsung Medison’s Fetal Ultrasound Smart Workflow"
-    excerpt: "September 10, 2020 What’s New: Samsung Medison and"
-    publishedDateTime: 2020-09-10T13:31:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-09-10/intel-artificial-intelligence-powers-samsung-medison-s-fetal-ultrasound-smart-workflow"
+    excerpt: "Samsung Medison and Intel are collaborating on new smart workflow solutions to improve obstetric measurements that contribute to maternal and fetal safety and can help save lives. Samsung Medison and Intel are collaborating on new smart workflow solutions to improve obstetric measurements that contribute to maternal and fetal safety and"
+    publishedDateTime: 2020-09-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/intel-artificial-intelligence-powers-samsung-medisons-fetal-ultrasound-smart-workflow"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 59
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
 
 secured: "TEf4SKF/iu/uFuPYDFKzQmq26qNdbv6nOorc1vW2pE+ah2cLVY2lbEHhoprUAmxohUMnJRPBRMwEES0UHLnlBtExmcW/Y2M/hk7auhY3TCobLgViwEZRTIf5T5Ha+Vs+QKsJtV4FWtwHQcewEIQrpirlY6dzdVxPoGUIWKG6PFI8T+RFIbb5wGJ0fCGi22hES/tiEZ7wyK3SbRAgD//6rQsD0wVoM1KdNrdllryG7/qQgLAbKBIoo8/n3t6KES/n3lBiHIhfbE5FJI9JSN3u2GYJ2GOgR6OL4m0YzmBHcL9qi6zTA7u25gV4Fu5OLtJoS8gYm8nIdZuI2D0SCuWbiT952azwCuYmJy0OfeEfzDyK35BfL9/cJEjpoM/K/WTsCr9PT+oQsmlZ/magFTLoNP+AnfarYV48NVKbp+64fbVX0ydUsWWh2xKLsz4YJ6WLDsPYqA7zfVFzkYR2LptGDzEWZ2Jp/qjc9u8yb0a+StNS84KBPCemEolFGe2K1AdUNZnDarxqRMW/+v17VkXx3ayUMt+Z5FVMOkGxYA7YooU=;+75zxSRQE6LDBD4Euuvufg=="
 ---

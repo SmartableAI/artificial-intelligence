@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Physics: controversial theory argues that the entire universe is a neural network"
     excerpt: "Vitaly Vanchurin of the University of Minnesota Duluth believes that - on a fundamental level - everything we know may be made up of various nodes that process and pass on signals."
-    publishedDateTime: 2020-09-11T17:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
+    publishedDateTime: 2020-09-11T18:18:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/Physics-controversial-theory-argues-entire-universe-neural-network.html"
     ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
     type: article

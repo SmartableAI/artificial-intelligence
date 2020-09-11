@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
+      "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
+      "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "publishedDateTime": "2020-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
+      "title": "Voltas to invest in smart products led by AI, robotics",
+      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "publishedDateTime": "2020-09-11T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence.md",
       "title": "Convergence Of Financial Institutions’ Risk Management Aided By Artificial Intelligence",
       "excerpt": "People have recognized the need for AI at the transactional level,” said Mr. Tengwell. “What’s now being seen is that the convergence of physical security and other risk management tools and processes is an important issue.",
@@ -1106,88 +1196,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-startup-raises-45-million-to-predict-faults-in-chips-before-they-fail.md",
-      "title": "Startup Raises $45 Million to Predict Faults in Chips Before They Fail",
-      "excerpt": "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
-      "title": "COVID-19 Pushing Investors into Logistics Robotics",
-      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
-      "sourceUrl": null,
-      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "publishedDateTime": "2020-09-10T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Top",
-        "domain": "fincyte.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

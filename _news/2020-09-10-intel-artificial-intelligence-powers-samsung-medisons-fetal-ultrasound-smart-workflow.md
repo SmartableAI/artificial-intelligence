@@ -1,31 +1,22 @@
 ---
 category: news
 title: "Intel Artificial Intelligence Powers Samsung Medison’s Fetal Ultrasound Smart Workflow"
-excerpt: "September 10, 2020 What’s New: Samsung Medison and"
-publishedDateTime: 2020-09-10T13:31:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-09-10/intel-artificial-intelligence-powers-samsung-medison-s-fetal-ultrasound-smart-workflow"
-webUrl: "https://www.bloomberg.com/press-releases/2020-09-10/intel-artificial-intelligence-powers-samsung-medison-s-fetal-ultrasound-smart-workflow"
+excerpt: "Samsung Medison and Intel are collaborating on new smart workflow solutions to improve obstetric measurements that contribute to maternal and fetal safety and can help save lives. Samsung Medison and Intel are collaborating on new smart workflow solutions to improve obstetric measurements that contribute to maternal and fetal safety and"
+publishedDateTime: 2020-09-10T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/intel-artificial-intelligence-powers-samsung-medisons-fetal-ultrasound-smart-workflow"
+webUrl: "https://www.nasdaq.com/press-release/intel-artificial-intelligence-powers-samsung-medisons-fetal-ultrasound-smart-workflow"
 type: article
-quality: 59
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Intel and Samsung detail AI-powered fetal ultrasound tools"
@@ -45,6 +36,6 @@ related:
         height: 600
         isCached: true
 
-secured: "kSTqcgcc64e+mXx2kWu24eKf3OI0PY0LisUj2mjk93yPQr5Hy0L+55xuG4GXchRsUKmpOrW/D2Nn6ZaZZph8oTp9WxqVbeF/XG9Yv4zT9VG208Nc6A9TA58tnki7zWPie7tQS81nva5RP97TSB8o+0XfZVk5Irddsvm4PzqhIbhOGRDKlg7fE1UjTwfjSNcC4JiCl5fVoAVRqS+aTpf51fAf+HnvnuV9Af9kA8GxZ6UyF4f2gqmC5D7O5oby7k290/9PxJV/9wiwy/WMDfDenCIshlpV9EMQLkZU7FXJUbazergZegpvz71+yVS0SqNNPq7F2gZsUwhRFsRbTfPyFjZhK+RT5H4kqRuSwfM6714=;7qFXIzqcF1ZCLDtLzcSy/A=="
+secured: "C32lhh8MD4ZTflB482aBHaRNqEzpIAZX4PLgPaBz9qaE9Ot8RloCe+/UB2/I184PRjVz8Tto/nU9tKYL1TI+dM//8GSWs99QsC2KNwpGcsDC2IJ14dM2Ffha+7RYaX18pbQxQ8tRHqmUYczcLPmpGPHYDojl8GOCQhgCnbeTYbYUKozguWCZMLRXKqJjfXJFA5wLz4i1ZOHBw1FOkN+zyfnYGw87ZkmwSJPTyxED2YqbK3QHFkAHaYhD3VS0kNbQ71ldx2skIBsJ7e7S4VQ/fgQV68k+tsTe+Al6KorOxbQKhT65Ia9vyiJRFwWyVV3cW3xx8QTUWipU2z9z1H81Rmt/n90tSzRh4Nt6qhj0I98=;AAEyNcUoIicm7Hsjw6ykdg=="
 ---
 

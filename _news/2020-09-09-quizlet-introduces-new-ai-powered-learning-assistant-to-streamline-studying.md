@@ -28,14 +28,14 @@ related:
   - title: "Quizlet is betting AI, machine learning can tutor students, close homework gap"
     excerpt: "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant"
     publishedDateTime: 2020-09-09T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 100
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/f30f7c49-236f-4c12-b59f-1d44a1e7a590/progress-example-1-progress-dashboard.png"
         width: 1772

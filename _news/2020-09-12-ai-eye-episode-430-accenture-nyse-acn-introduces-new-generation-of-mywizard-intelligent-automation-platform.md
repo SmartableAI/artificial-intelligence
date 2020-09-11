@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-11T17:40:00Z
 originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09111AIEye-ACN-IBM.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09111AIEye-ACN-IBM.asp"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"
