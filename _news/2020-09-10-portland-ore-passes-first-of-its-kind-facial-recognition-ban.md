@@ -148,6 +148,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 66
+  - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
+    excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
+    publishedDateTime: 2020-09-11T15:27:00Z
+    webUrl: "https://cheddar.com/media/concerns-over-portlands-new-law-to-ban-facial-recognition-by-government-businesses"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 32
+    images:
+      - url: "https://img.chdrstatic.com/media/9dd0c34c-ea7f-4580-9fa9-78415c543869.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0KrRtC3Lq/URRdTFWdNEFdhxR02QLOwhzsYRtammPGsOW5RYYrafwNH4/rVKwDcxwqn7avuECuDzFICNLaZOcLpHNZXFtSWuPoa4CPWOGdDEL/2YClwMKjLMd/nrxXEeeF6sb2VAjlQ5ZJYQJgjsKg1V4uIL4y7mVoDHkfLQ03fbc1HT3Bi3eKM+dXMefRIbfO165WEOhA8lLhLJ2Sr/LfONrGDGGnBMOEVY6dq4w1mSpTZp1CpkMt/yDV7IZs3gVXHFZCFTk9Wm0jZInmGYT+5XKQgC6qcJHbK1FmsSEUAI5JGp3YN/faU9UGjHdIJhtDfPFJHrtzmOKeR2ElYmVkoN6k/SSz69sZI0qNqWxHPSqZM0MCggyw4z1u1zSUYnUhTGweObmKIt1VV1aKQWtKHWilkExxwA20Bfh4p35BrYs2m3MlUvx1F6nEBoyALoLqu6XD92o53i58zGmrmrysmbEe9knXZp650TV8TrwDaYLBG5aC3Izdvinow3SEka2PNRnaaaaSXJ7E1S+/nhEg==;ADLxp9QvFppGemIfSoM+kw=="
 ---

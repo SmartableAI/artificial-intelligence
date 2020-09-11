@@ -7,7 +7,7 @@ originalUrl: "https://www.11alive.com/article/life/pets/facial-recognition-techn
 webUrl: "https://findingrover.com/"
 type: article
 quality: 119
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -114,6 +114,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 601
+        isCached: true
+  - title: "Facial recognition is coming to domestic air travel"
+    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
+    publishedDateTime: 2020-09-09T01:58:00Z
+    webUrl: "https://www.sfgate.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
+    ampWebUrl: "https://www.sfgate.com/travel/amp/Facial-recognition-domestic-flights-15550415.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/travel/amp/Facial-recognition-domestic-flights-15550415.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/00/34/19924777/3/375x250.jpg"
+        width: 326
+        height: 250
         isCached: true
   - title: "Portland, Oregon Imposes Strict Ban on Facial-Recognition Technology"
     excerpt: "Private businesses and government agencies can't use facial-recognition technology starting on January 1 next year."

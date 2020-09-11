@@ -3,8 +3,8 @@ category: news
 title: "These robots could improve mental health in older people"
 excerpt: "The trial conducted in UK and Japan revealed that older adults in care homes who used the culturally competent robot, up to 18 hours across two weeks, saw a significant improvement in their mental health."
 publishedDateTime: 2020-09-11T13:16:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece"
+originalUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece#!"
+webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece#!"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
 type: article
@@ -115,6 +115,6 @@ related:
         height: 380
         isCached: true
 
-secured: "xXcASdcbxAHHutRCVHehYiYrfSBEMUsf82Eo80YH6gu120ZDljhpwwQ/qwTJ2U6m5tmN1u+xUsAEAw97s56Giuxy7lSeWa4GcQUI5EZ24KdRByz1ECzWpOtcgPVLyqJwG90zp2jsNAKrwC0giUftisl5I3+ud43hGysWqYCv2qxsQsgoCrEuSnc6juW+ibS4xNB/Q4UApznt+QMLyXycu9/L8c6xl6jul+lUKTa7EyjdTrlDWKCZYKZtZ8e/3WGTuSukUGbQ+ivSRIwpKp7jwatIWBYf5b9Rgc88G2tq9OgEmc5RAWakgIjdkgmr0r3S5LajsBn74wxDiXStj0mLp2UiBm8oca5uBILxwHlXFow=;5ZDQAQ4XIcruKzTZYxrR+g=="
+secured: "BhWBC38TbXQru2GNEYQZw/t6cF2NZROK2/TL7RZ40iQ8I3LMc0UIZ2u1kjs9sN4w3vUCbNLKlAhwR3JgsIZ8pEuG6KgLbUxc3HIFGyq3LWLOGtC0R4QSjSQHiIKWlXI8mHdCCYDVEcy8DZ3OeH83H10BTknVnFd3sgR57CA+DoHGW5U09kSHdZ5/E9KF2VAwAqe13Hylasyx1q7dmq+yXym06zZ/6WhxyQhm5f/eynE23/OWy0Iq4p7aMNnfBqfR0IqElAe6t3F7TRkAwUKBVRpgqAuwFV/InaYaAvu+vtJTuY6Y002jY3z7MeqPmxJ0l04FjEZ5tzl4KgjZXWuExzoBCdoQ4+J/t76i87UZN9E=;anGxgr2MiPEVxVUYHs3y9w=="
 ---
 

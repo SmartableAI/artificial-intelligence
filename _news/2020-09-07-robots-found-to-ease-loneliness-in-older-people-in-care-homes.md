@@ -30,7 +30,7 @@ related:
   - title: "These robots could improve mental health in older people"
     excerpt: "The trial conducted in UK and Japan revealed that older adults in care homes who used the culturally competent robot, up to 18 hours across two weeks, saw a significant improvement in their mental health."
     publishedDateTime: 2020-09-11T13:16:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece"
+    webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece#!"
     ampWebUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
     cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
     type: article

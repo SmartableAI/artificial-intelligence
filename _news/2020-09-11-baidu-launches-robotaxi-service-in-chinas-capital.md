@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service"
+    excerpt: "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin"
+    publishedDateTime: 2020-09-11T14:20:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 75
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/b8a264c2-f3fc-11ea-8f3b-07283e3f3bd8_image_hires_160937.jpg?itok=_zKbtl1Z&v=1599811784"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu rolls out self-driving taxi service in Beijing"
     excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
     publishedDateTime: 2020-09-11T05:27:00Z

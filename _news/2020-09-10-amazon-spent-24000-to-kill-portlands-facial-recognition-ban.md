@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 66
+  - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
+    excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
+    publishedDateTime: 2020-09-11T15:27:00Z
+    webUrl: "https://cheddar.com/media/concerns-over-portlands-new-law-to-ban-facial-recognition-by-government-businesses"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 32
+    images:
+      - url: "https://img.chdrstatic.com/media/9dd0c34c-ea7f-4580-9fa9-78415c543869.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "N8qEM928OJa1pDDw7gbuRzG6E4204Si2MuonPdx22biWSe0HT+cvkIiR59LuHBuWxF2l12vymu1gGY7OjoIJmYZLj8qjzTCF5Zax//q4aNn2hwrjJscXRlZhQmImiK/VWLTuW6j6Iys1I2oTeasYDD33JXk0pOIjiCfIvKmk6lnY/e13dksRAZ+G2GpUH+OfW5jiHP3+uL8JKb7thy/PB5DQs3mL4nfaGN26fJixZuCFJxTSVFxzINukYTIjvpOhZR5eL3arKHCo3g+QEfF0TyhNxoWMBfxBQvD+St7mLI/CzGtq7zVnxZ73hzhEdFkKeBdxODIZ06kfx/S6QWHwz78cefstAvMZmoHBkQsnFxw=;pcjL/jPkBqA9lciOP044IA=="
 ---

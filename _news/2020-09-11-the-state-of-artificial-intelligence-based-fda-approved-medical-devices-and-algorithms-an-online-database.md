@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-11T10:29:00Z
 originalUrl: "https://www.nature.com/articles/s41746-020-00324-0"
 webUrl: "https://www.nature.com/articles/s41746-020-00324-0"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-00324-0/MediaObjects/41746_2020_324_Fig1_HTML.png"
