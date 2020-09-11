@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Why Scotland’s fintech sector makes for an attractive investment"
-excerpt: "which raised more than £500,000 from local investors for further development of its AI-based technology. Other investments might have been pushed back by the pandemic but the fundamentals for fintech growth are strong in Scotland. There have been some ..."
-publishedDateTime: 2020-09-11T07:43:00Z
-originalUrl: "https://www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224"
-webUrl: "https://www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224"
-ampWebUrl: "https://www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224"
-cdnAmpWebUrl: "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224"
+excerpt: "Other investments might have been pushed back by the pandemic but the fundamentals for fintech growth are strong in Scotland. There have been some really positive stories over the"
+publishedDateTime: 2020-09-11T11:14:00Z
+originalUrl: "https://www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224?itm_source=parsely-api"
+webUrl: "https://www.scotsman.com/business/why-scotlands-fintech-sector-makes-attractive-investment-2968224?itm_source=parsely-api"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 24
+heat: 24
 
 provider:
   name: The Scotsman
@@ -26,6 +23,6 @@ images:
     height: 941
     isCached: true
 
-secured: "i5ECEv8vUUSjSdGi4zZzeTE7HD4jQtLmiKLTwxXTwimtTrbjg5Tyg9rwQ+z1MKzMOiCzpvckYeXXg3qq6oMuCAMXGwzWzA6ln3nOcp+Gbg5yjXP/Zx4r1BjOuzAxgXcgiAeR/KpNWxhm3wMF4ZwaQixOsv6Ia6ssEEvRc2TA6LzftSG65VEFp1o8YgeWM6qWTewm19EUe+x0KMWxmHWLNTZIcpPgQfWyJBp0oSYeDpjkfkS5jDSdrlAAiwRmTa50kUovadBJySVib4T+4awu4TVirCVGPE6vbZuaNpd09lw6zIO2XyMFLZSpD2fJgAInBP4Z0ZSlZ4jfNjFLExOS2b99F8x/klB7lOJ9ikq5knio3DaFv52NO0osvx9RTkGrDyGzRIJ5hWoc2ekPB6re7Z7p6azmdQ26Z55XqO5kxlvvglwRgLlSxdyfRlphzDEwrh5RFsRDYvpcNkgh3nAmw2Fwt2oUeXIfeX9tNNK8fxxM/brs8JLCIB0wwvfgmLMANvVdAc+tV5GUZ+1w/jFiHQ==;0qoTh1pbCvAnWTS3O4vK4g=="
+secured: "s7ALW5dtyTrBjnB3VEZfSpwzm/w0YYQisp8gC1N0wQSFiyHEgBJfHwh52nicmJ91t2NMU+b7rPAkqMJsHsXqehgP0J87mWy3XlmKL1n3dy6nVLVTbeerMjfIKwpgtzVdMAgw4Mu84+3Lv8Va1kD2OIwKQuM2cauOLzUcqer+FUNxYNtH0YeNFkAKmVUSq9DZNvTu+OZFBys4kg4zAUQ1tWtVLXgnrd6+uLLXg5/a1yXXXz4JFJnIrA7ENifMmM85wpiJmet1CifDu9zfelLfJ9QTWGSB/lNrwW9r2OAr6pH3hpDx1o34Bkp4d4TscsHVEpO+C7pSmj4C5I8cniYUyGfHK2IUfD9Bp67QbRzBMX4=;C64Axem2rGYw8UMbvAIm+A=="
 ---
 

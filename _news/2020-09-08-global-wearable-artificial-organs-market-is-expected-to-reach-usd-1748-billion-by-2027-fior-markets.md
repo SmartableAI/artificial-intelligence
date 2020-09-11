@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
-    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
-    publishedDateTime: 2020-09-08T14:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "haTPI5l867tWo8EUyVoxOfTfpKn7cF6ln5BeHjC+aeLP7jKv7PbC94+15NTbDs7KHJ42Iq231NIML4GsluqLePRR0hM3m3PO/5Q8Ewm10sGZCGPeyVBlgPDWW0QS5Hetjr2Mf/VjC9tuRPnrIGnfMaE1Zv1hk8dwwfpbRkWV/zie9JkfmiMihSOWNKNwqp/iaHUU0HhrkwdH9PZvKisgixKx/6tH5t6J6yebEkEq6FTFAKkTJDyudwituaJejAS1TlhmSohUyyyCFkWgCVAPXMSudUD6fdDP0OChnzP+vFJLR5ZWz5g8jYxAvuD8ELaPwGOFJVmcABHyWAFIrGSp3OXbNndLmOeRubA/Msb64H8=;tbboQ0wJRDnuRYn7X53NDw=="
 ---
 

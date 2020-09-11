@@ -26,30 +26,27 @@ images:
 
 related:
   - title: "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors"
-    excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were ..."
-    publishedDateTime: 2020-09-08T16:26:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html"
+    excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production."
+    publishedDateTime: 2020-09-08T16:34:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 54
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ZF partners with startup Aeva to produce self-driving sensors"
     excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
-    publishedDateTime: 2020-09-08T14:45:00Z
-    webUrl: "https://europe.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
+    publishedDateTime: 2020-09-08T13:45:00Z
+    webUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/ZF%20logo%20web_0.jpg"
+      - url: "https://s3-prod.autonews.com/styles/800x600/s3/COPY_308309902_AR_1_RTSFDBJUQEYL.jpg"
         width: 800
         height: 600
         isCached: true

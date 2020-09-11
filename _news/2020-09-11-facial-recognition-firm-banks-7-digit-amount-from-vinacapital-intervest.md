@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/facial-recognition-firm-banks-sevendigi
 webUrl: "https://www.techinasia.com/facial-recognition-firm-banks-sevendigit-amount-vinacapital-intervest?ref=recommender-656003"
 type: article
 quality: 33
-heat: 33
+heat: 43
 published: false
 
 provider:

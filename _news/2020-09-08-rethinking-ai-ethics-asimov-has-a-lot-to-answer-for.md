@@ -38,7 +38,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://diginomica.com/sites/default/files/images/2015-07/man-in-box.jpg"
         width: 1688

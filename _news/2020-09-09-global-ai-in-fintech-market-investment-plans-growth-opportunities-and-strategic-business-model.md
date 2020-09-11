@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Ai) In Fintech Market MAY SEE A BIG MOVE | Microsoft Corporation, Google LLC, IBM Corporation, Intel Corporation"
+    excerpt: "In Fintech market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
+    publishedDateTime: 2020-09-11T10:03:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/11/artificial-intelligence-ai-in-fintech-market-may-see-a-big-move-microsoft-corporation-google-llc-ibm-corporation-intel-corporation/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 21
+    images:
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3254/Artificial%20Intelligence%20(Ai)%20In%20Fintech%20Market.jpg?1599799031126"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "WdW/xeRBrdztULBoR+Eo9NYTBUeIlfRjKOgCcrewrESfHIUJf/UnxBGFORPzqgKAg6XSOb6qoB8p5AdOJL3B/1cqaZXYPFCUxWxp34ipoxMDrXBJnu0KCDupcb9XDO+P3QgRz3LVYFuW1vdPnMckZT7eZwxZe4SumT+PjmaGDb9gLf/QB6vzIrZoMq248SUES/WCOCFUI5lOUpdphXAXJgtCjZamzqbcU28S8cUWxwy+Ipughjd24xh3VFYPbIsunyb9cNtjoni9ORxl3jzfMvveSZAVC28ki5XbpXxBVt4RUSdrlFHi7aFLMehBTmnyP/NWtEckahG8NJJJfZGQ+nfLc/xmcbVe+oPKLGKHUhwPLkPYGu0vMQy7qGe+WQMhIKfzdRFk7qDW7ijYuZhTBdactIv0De/W56BPz+Axh3i0ySvR3ey8Y+CPQYyFvAs1BFohBEj02b1W2r9FT831wiZ73hf0K9iPgPtYaUFXNZUoZxYAtyfqKFKrQPBryxXlhViKiS6dn1G2Oy3a0rq4Aw==;U4/U1sGbm3ndcovsLDefXw=="
 ---

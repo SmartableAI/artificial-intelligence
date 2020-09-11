@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/ai-ethics-why-teaching-ethics-and-ethics-trainin
 ampWebUrl: "https://diginomica.com/ai-ethics-why-teaching-ethics-and-ethics-training-problematic?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-why-teaching-ethics-and-ethics-training-problematic?amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2015-07/man-in-box.jpg"
@@ -44,6 +45,6 @@ related:
         height: 450
         isCached: true
 
-secured: "IampKK6/APl+vIbDdOYI6fbyBzjhv1E6E9EAsT7ZJNVRZGhlUFjQcpKj0uk2LZ9RiP6FVRP857zHWC0Vhgq/TPlJ+XpXEIM5/PkNNelb22xUQ3AT5+8Eo19p/u/5jPJDMoN9Gz9qxulb+t3uXjkK93o35v+X2bXm7AJg4ILCj65UcwpiDIqos0lVztyM4xnmirkWX7nPkUEnLwwIW2UYzIm1QTeJYufC/H4FIK+pYKZV0f+smJBitXAj+/POYrNd1bQqY2//dbP9pk/HZIeSFW3UykBECupRP/oOK3BVpwHf6fIcbPR23Ou5TNH9IfCIAWHME9MC23OHA8cIgw6ceXrOkLxdgDyS9nWtDCThDJc=;j7UtOQKKxAJzYwc2XVOXaQ=="
+secured: "KPBZOrJMmRDJIoZglZ4kGvMb/5pNQrgBAw1WIcatZD1J05cGk/xn3/FKx4g8n9nMnhf+AzqgBgJRDdE/ymqF4AcAb6F4ddosxwQFs8kiV+Gs4Kl6uzDUWhwKJAlnRDZvwZT/EOqvn5/WxUntQTXf8NOZ+FFRsg79nMGIDH7/M0SO301uxDh+8X0Rezu2BNMbG6iNhfhsGkeUCDbEoGQaOGlvO5D4yqxmrh5Bs9QpU6JvMiP5s33QbSDDHBlyRAn8L4jp2pn43ugQM68NRIyPC1iZg0k4QfvbrGTMBS3CI6mmz3IEPV8NLfyZPbb2ItVQNgvqiWbmrhC2o9a5pT7lOUJKJB3IGTV6zyyRlSLuRe2X84So3DABQ3jkkJmVTlQ0YU69F/aegSLFeTdH2n145Mxrp4+eXSUoD+pWOYsJpeT7O55Hgn6hf2Pe4MQsvXg7AQr1bLmBu29rSZz+StHLKAzKH34OzWwxM8kWR8J4EZ59cSKKFZP1ALEer2txhLxAg0DGTZcHw5yZ2Rvg9KCDxNEE9zBhjl4+QI2OKoFMZyg=;ukLpsJb7bJhY49sZRVVexQ=="
 ---
 

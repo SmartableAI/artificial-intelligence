@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kstp.com/articles/fair-state-brewing-cooperative-employe
 cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/fair-state-brewing-cooperative-employees-unionize-as-others-struggle-for-recognition-by-ownership-september-10-2020-5858590.html"
 type: article
 quality: 46
-heat: 46
+heat: 56
 published: false
 
 provider:

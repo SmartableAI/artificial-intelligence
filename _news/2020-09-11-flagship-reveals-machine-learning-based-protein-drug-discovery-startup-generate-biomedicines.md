@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/09/flagship-reveals-machine-learning-
 webUrl: "https://medcitynews.com/2020/09/flagship-reveals-machine-learning-based-protein-drug-discovery-startup-generate-biomedicines/"
 type: article
 quality: 28
-heat: 28
+heat: 38
 published: false
 
 provider:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "qfJhnZVMoFNpa28QO4Tfm0qt78RAMUZd1zXF6UJlSUEFdsVVP7oj6ke6ARdVxjLbPP3TWn+7apI53jWhuRdn7FImVJUZoM2kRh+NUq0qSfKCLs9cbZdCfPmEY84kDqoyhuNud1Y4Zk30flY+HwsHlFM3EjWXiJ/A15qQXaZMemEAsH7y92NpVLfXgk6FNd2SqkUgmDVVvIzb5GXhPc06XJ/SoaaL+SWtKzOGKSDIzqHOkor/QT8daRtqBfI+BCZWKge2rog/2u1NrTGnt0IR/k/S1uJKukEjU+u8hMh9tGvYp8xss14we5rPIr/H0b5Q2ip+624x1mEcsiVZD1jfz1+IqQ9XBA0d27ytJBESNkw=;4NzUo6O2yB1/pMuT1fCt5Q=="
+secured: "QKpkz+Psj3O0S+WhKhhlcVr0YjYApbwWOrVwFGk+ych5QAviyuPgvZOIcgs/CebYpgQneiEB6sRjl+XygXj7v00dYXcN/cEN7LqTsuOw9DVrsr9m+9HrIQizxGlowJcwZyW09r0UwvUNgrj5e5n1h+JGQZ/8/paCC5P+Osndu2GK/XcAgbV9psBgKOk+jmcnjJLZUSrWHM6gyitmekwgOMJMMf4Uzx4r+ZQl6ialSD9tXwHqhWxaVTkeEuPAuOvW7hKg9l725Qgxb+u1h7WxOKje7dZ0qOORVzIWycoYoE64QHF0DswUxrgNo86vPIAME0OGRTcUvdtP1sYZxIwuuYQeU0ffIsp+efniPqeteK0HHv6KjasOuhpIb5dMgztNANGdV9gRITX9z98QrI2asL8hdqHQudVRuLaAjcaab8ADlHYhyZoRcgfglvse3Vc6NlohG524Ac2s5wdOKaZQV1ceNJ6j8UxqyyrQn3VjqMZTM7XLhlfgxaOXM04MBn72kBfHBF9k6BFvFcawO7xREA==;ywvQy1j6m7m90B0hOmmNeA=="
 ---
 
