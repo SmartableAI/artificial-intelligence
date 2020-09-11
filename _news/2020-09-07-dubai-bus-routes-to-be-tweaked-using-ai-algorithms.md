@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183942594/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183942594/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,22 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "RTA begins using machine learning in planning bus routes in Dubai"
-    excerpt: "The system allows the transport authority to plan the routes on the basis of their usage by commuters every day. By implementing this technology, the RTA aims to revamp 158 routes used by 2,158 buses in Dubai,"
-    publishedDateTime: 2020-09-07T04:26:00Z
-    webUrl: "https://gulfbusiness.com/rta-begins-using-machine-learning-in-planning-bus-routes-in-dubai/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 54
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/09/RTAs-public-buses-.jpg"
-        width: 800
-        height: 410
-        isCached: true
 
 secured: "74Z0anI0cjvbE+cri8kAbJ8VKk1mU/R6eKrVdy+wuxP8OA00VSxzfJbY0EHdqMoseGpygbl4Fa9SMuDIUlwfZ4W4MonmEj6w7GkUu7Iv3aBdyQMrqd1lpicEEj0cpOGQCEuPBhkrRuEtdjb8Xp91HlLMcrtmBRr+uPheB78jy2kRmWfUKboBg+loFo9KAyMe9PTlJ0mxi4MBUiooSnfY23OCJdHYoES7ksk1XhROL9fhkjEiONzojjJYnB2QqcNIQKppzQqm/wwn/7OCOincAew6iUBbwkcgu2r4H9ydiSLxDGI3xnkqW7LRMZfCV+WAsIGEhQCfpmiHTXkJcElWgt6gaLkeZ4D5U9hphMBpaaQ=;tmFg8dT2xqJpUBl9SJxJRQ=="
 ---

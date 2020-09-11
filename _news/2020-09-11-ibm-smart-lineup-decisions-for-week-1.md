@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM Smart Lineup Decisions for Week 1"
-excerpt: "Which fantasy football players carry the biggest boom/bust chances compared to their projected outlooks? Watson has the answers to give you an edge in Week 1."
+excerpt: "That's where IBM Insights comes in. It uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the highlights for Week 1 -- good and bad."
 publishedDateTime: 2020-09-11T12:51:00Z
-originalUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1"
-webUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1"
-ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1?platform=amp"
-cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1?platform=amp"
+originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1"
+webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1"
+ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1?platform=amp"
+cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1?platform=amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "clfrDF/XPlHNJv0ko/dR2Ei0D9kfSzmbozE2skpVLz7wpQepIK/+sfUxVcUiCHSACAhwrClMswNvhV0HMRXiBDKMw3T8/h7L0F62myEkMjhZd7mwB61IGbkF3/ktrZWWD1ZHBO+VLJ4vH7AcBPuNVJZcLimT+jY79tgA3Oo63FkElBtB1jDrHfdx4aYXwf50LtbtEB23dgtKu9LhHK+34sFWJzpQVSxf3nfEEJ7xyplla+82woooBVB3rfTtutphspvXb3J2hrR+aGNuEG8blChU5tT038D9joz1hm1JakR1DMSNzDDfWeMRkkOep/YdoRMcBGhsvv9ByeCw8bMTg8BhGY3Kr3Ws+Lecw4mp4DdrxvLunCYLPG/oU4vCUiTb+kVwl1VgthRX25wRvsHRZEM2kbEGDtLEVefuGBIWB3ZM8/YtLg+zvPg91fVmorYTIw3SBc20BbWkDBi0SXX+bCSa1pLe2+4lSPDl2fBztoj8pMtE3x7VcpZODBDmtmF/79AruhxS/nRF08YVbgGXIg==;OstPiCl+pOS9LbGx+p+r5A=="
+secured: "N0IXfGb2xhYB8vamYDFv9yYLxaxqEBb5/R1YsQbT9Li+UXNmnPan4PBV3wcfDaFwxG0B0FKbqdDiPx6SJPw5/z6hIjjLGVC8QbvJj8b7F/urB6FZXoupoULLRU3ELMSdPxsydVA6gpi9sVp1nH0fp0eARswoiHoinnDmBTVPms0eqI95sXaN7J2poLDQLaqTy6szgVwlS4g+Zgj+pYraXvHgFfE2AM0bYAfiqDKc2rzNa5SBuvBxcn0V/R4IhzAAyqw+brTiDQq1aPnA4XChS76B1aHi/1lY1LuN6GHnw7yb94nB67pkNvD96hau1H2rRHdDvC0cVKEM0U3/0JsSh5YDpMdxPHhxW3CgEj4QZwY=;YTJewvZkCM89My+E+7jgNw=="
 ---
 

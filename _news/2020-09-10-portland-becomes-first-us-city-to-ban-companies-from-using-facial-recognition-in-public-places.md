@@ -149,6 +149,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 66
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
+    publishedDateTime: 2020-09-11T17:11:00Z
+    webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 810
+        height: 539
+        isCached: true
   - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
     excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
     publishedDateTime: 2020-09-11T15:27:00Z

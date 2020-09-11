@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
+    <lastmod>2020-09-11T14:07:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/</loc>
+    <lastmod>2020-09-11T13:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/</loc>
     <lastmod>2020-09-11T12:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -373,6 +385,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
+    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
     <lastmod>2020-09-09T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -427,12 +445,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/</loc>
     <lastmod>2020-09-09T04:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -481,14 +493,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
-    <lastmod>2020-09-08T14:41:00-07:00</lastmod>
+    <loc>https://www.bloomberg.com/press-releases/2020-09-08/irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in-health-and-care-award</loc>
+    <lastmod>2020-09-08T15:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO</loc>
-    <lastmod>2020-09-08T14:21:00-07:00</lastmod>
+    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
+    <lastmod>2020-09-08T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -537,6 +549,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/</loc>
     <lastmod>2020-09-08T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html</loc>
+    <lastmod>2020-09-08T09:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -955,6 +973,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand</loc>
+    <lastmod>2020-09-03T23:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
     <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -975,12 +999,6 @@
   <url>
     <loc>https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php</loc>
     <lastmod>2020-09-03T20:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html</loc>
-    <lastmod>2020-09-03T19:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1831,8 +1849,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3199,8 +3217,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
+    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

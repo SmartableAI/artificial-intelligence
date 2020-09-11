@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
+      "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
+      "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "publishedDateTime": "2020-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
       "title": "Voltas to invest in smart products led by AI, robotics",
       "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
@@ -1256,47 +1306,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-elon-musk-unveils-updated-neuralink-brain-implant-design-and-surgical-robot.md",
-      "title": "Elon Musk unveils updated Neuralink brain implant design and surgical robot",
-      "excerpt": "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
-      "originalUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dezeen.com/uploads/2020/09/neuralink-elon-musk-woke-studio-technology_dezeen_2364_hero-1-852x479.jpg",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
-      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
-      "publishedDateTime": "2020-09-02T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

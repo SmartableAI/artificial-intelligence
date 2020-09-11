@@ -152,56 +152,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
-      "title": "Aeva partners with auto supplier ZF to produce key self-driving sensors",
-      "excerpt": "Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
-      "originalUrl": "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG871EY",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25Z2LO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25Z2LO",
-      "publishedDateTime": "2020-09-08T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-sea-tac-airport-rolls-out-self-driving-floor-cleaners-restroom-stall-lights-and-more-pandemic-safety-tech.md",
       "title": "Sea-Tac Airport rolls out self-driving floor cleaners, restroom stall lights and more pandemic safety tech",
       "excerpt": "In addition to the thousands of gallons of hand sanitizer being dispensed around Seattle-Tacoma International Airport, the Port of Seattle is turning to a few new high-tech approaches to cleaning",
@@ -232,6 +182,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
+      "title": "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors",
+      "excerpt": "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html",
+      "originalUrl": "https://www.nytimes.com/reuters/2020/09/08/technology/08reuters-aeva-zf-friedrich.html",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -840,6 +840,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-04-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
+      "title": "Daimler Trucks Tests Self-Driving Vehicles in US Southwest",
+      "excerpt": "Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long-haul freight routes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand",
+      "originalUrl": "https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcconnecticut.com/2020/09/GettyImages-891080592.jpg?crop=0px%2C627px%2C7058px%2C3970px&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand&amp",
+      "cdnAmpWebUrl": "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand&amp",
+      "publishedDateTime": "2020-09-03T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Connecticut",
+        "domain": "nbcconnecticut.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-commentary-happy-labor-day-while-there-are-still-jobs-for-folks-to-do.md",
       "title": "Commentary: Happy Labor Day, while there are still jobs for folks to do",
       "excerpt": "Robotics and computerized services are just business' most recent tools for reducing labor and overhead costs to increase productivity and profit. It's no surprise that the recessions of 1991, 2001 and 2008 were accompanied by spurts in the introduction of labor saving artificial intelligence.",
@@ -867,47 +908,6 @@
       "provider": {
         "name": "Times Union",
         "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
-      "title": "Daimler Trucks tests self-driving vehicles in US Southwest",
-      "excerpt": "Daimler Trucks and allied vehicle software company Torc Robotics are expanding their testing of self-driving trucks to public roads in New Mexico along major long-haul freight routes",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-03T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

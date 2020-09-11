@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wak
 ampWebUrl: "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 601
     isCached: true
 
-secured: "Ir5Bf4lAOAO1d+LpF9bQUF1+7PW3MrQtNzfpxZRr+Gy/LVX+HFCSMw9cfY1xeEF+oCTPFXTsULIb8rwpv6inBjBtJhyXigf5ZlPlWSQ1rOy2Kw8JiaJjAkxxId5+qjD894/H1HOl+ysAkBCJuQDZMnu2BW6zt6F/53e3JyU/CuDpozuqibAXKUWKS9Wv0UVZDr+EPoW8fQ9FU+qXEOYNMBtnyv/5guY5qWm3cnnKnBzoh7gF5MGvvVdnRCVSKP1GkQK5BXAYE676/nb19/x3RPgJLF9SAGbwN3gdSw+h5movhmv7mJ8Byo+f+hQIV1FTILzgSZsoIMgqI/MX6GwgqUL5/TUyavM67JMqDJTkPjc=;HJddbLPu6ya4sLRTESRHVg=="
+secured: "lo4eFCNBGaF06+ueBZdkXVjTDE+H1yPwCEIaWdKR46Q5Xx6JB4h4R1mvFkGRnzRuEbtNJjbR3eIw7Grz7GJRXrnHMRJVkfT/XFiHCAghV/UTsIaAZMNE9zSrCHYOB9uds0+zRqpoIZrOCkAEtA34BTplEDLpHyJpT90pbLnTgJ+/mh3SOhhY1zO3rupx4t+J3l1ysv/AXeW01YRGaPaHJSLZdNV21wkDenHZukV+CRjoyqnkKnGMjh56Q+un981IS0lHMlebagyR6S3Nhli2OmCEV4Efge2D771/uPSxjs9I15PBLqfWgGfQgzN3CznFslZtaeKF+GOLsjwRmHSLwQ/bBBDwf+majTmSRWRHCEqtC3RZ5urcvNJ9SkO/8fZREpT6iLWeRyjujm21FuiIL6CA5Wxbc8SO6JXw2eRl+qFSKAYDXbdMg3ra3pIqx/r8z9QNmvU6pkQJTfYSLv44fQHLTu1raiL2ORwRvQM+oEiL+HO4odz8uKNewUOhpFY3B0W9XOesgNwjI+xpY9rKIA==;wDnScssYEEZ5IAxrBQ/qcw=="
 ---
 

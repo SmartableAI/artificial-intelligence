@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Remarks by General John E. Hyten to the Joint Artificial Intelligence Symposium and Exposition"
+    excerpt: "Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff, spoke at the Joint Artificial Intelligence Symposium and Exposition."
+    publishedDateTime: 2020-09-11T14:08:00Z
+    webUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 25
+    images:
+      - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
+        width: 1280
+        height: 721
+        isCached: true
 
 secured: "fo5JQWidgPRAY5091fi975RP9gNFVHRpp58dpbJPp2gSMJODJSiGwQH2A3x4q3IS6pV+MyAHrAWNdZk+8ZWLFX9SyxVuIhmfhFQitCIiyRb1cxB0+VRw+GaGeuSbEiLQrwaOuOH+5L+XCg/ojlZ422dG4A9/5Oyz3b+ZUXRFuBYLqPHj2mmXQFCYW+EWy4DORHxn19elWo4H4HdreuSjhDXjA2gbz6DVaJbNv5UsiWP+KFZgirJZtPoy+3C3o2ty9+qXaDvkASxOr059lCbMBXHU/zliqK6ulEfy5rdUG0ox9SfUUMJsD6iOBBOCmbHWv+aqlMJQ1Vn7CDkxHwAHljpUJVvM8bzUgFeIYYG/GjdrqvsOYzBJZQnNdCZd5yNAPkpbTfKFJJutwyyqo/m/cO31FRz/ZvnuGOP43TSKYFuMnAzNczIkvNUWgAGWe0zrlN+5vxuUVdIbqbLCrad2cHkF6XsWsaXFC4/TO/3f8E2uq8BcRjGzbziUlStQSJlnquifrWWkV9F9d8jpgJJDwA==;CD+KIc716I+vARXPwjnrdA=="
 ---

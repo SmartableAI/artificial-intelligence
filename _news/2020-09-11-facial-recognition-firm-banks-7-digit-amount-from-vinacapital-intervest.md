@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition firm banks 7-digit amount from VinaCapital, InterVest"
+    excerpt: "Applications of the technology vary from using fingerprint scanning technology to identify and authenticate customers to voice recognition for customer service calls. AD. Remove this ad space by subscribing. Support independent journalism. Based out of Ho ..."
+    publishedDateTime: 2020-09-11T19:09:00Z
+    webUrl: "https://www.techinasia.com/facial-recognition-firm-banks-sevendigit-amount-vinacapital-intervest?ref=recommender-656287"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 33
   - title: "DPD officer receives international recognition"
     excerpt: "Delta police Const. Grayson Smith’s commitment to policing and community involvement has resulted in the awarding of an international honour. Smith was recently selected as a Top 40 under 40 . . ."
     publishedDateTime: 2020-09-08T18:00:00Z

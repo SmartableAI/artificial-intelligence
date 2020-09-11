@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-09-08/irhythm-irhyth
 webUrl: "https://www.bloomberg.com/press-releases/2020-09-08/irhythm-irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in-health-and-care-award"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "iRhythm Technologies Announces NHS Funding After Winning Artificial Intelligence in Health and Care Award"
+    excerpt: "Company selected from over 500 applicants in first-of-its-kind Digital He"
+    publishedDateTime: 2020-09-08T22:09:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-08/irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in-health-and-care-award"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 50
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "iRhythm Technologies Announces NHS Funding After Winning Artificial Intelligence in Health and Care Award"
     excerpt: "SAN FRANCISCO and LONDON, Sept. 08, 2020 (GLOBE NEWSWIRE) -- iRhythm Technologies(NASDAQ: IRTC), a leading digital health care solutions"
     publishedDateTime: 2020-09-08T10:15:00Z

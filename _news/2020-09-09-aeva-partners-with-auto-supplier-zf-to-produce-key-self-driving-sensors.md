@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Aeva partners with auto supplier ZF to produce key self-driving sensors"
-excerpt: "Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production."
+excerpt: "A test vehicle and sensor from Aeva Inc, a Mountain View, California-based startup that makes lidar sensors to help self-driving vehicles see the road, are seen in an undated handout photo provided on"
 publishedDateTime: 2020-09-08T21:21:00Z
-originalUrl: "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO"
-webUrl: "https://www.reuters.com/article/us-aeva-zf-friedrich-idUSKBN25Z2LO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25Z2LO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25Z2LO"
+originalUrl: "https://www.reuters.com/news/picture/aeva-partners-with-auto-supplier-zf-to-p-idUSKBN25Z2LO"
+webUrl: "https://www.reuters.com/news/picture/aeva-partners-with-auto-supplier-zf-to-p-idUSKBN25Z2LO"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG871EY"
-    width: 817
-    height: 545
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG871EY"
+    width: 810
+    height: 539
     isCached: true
 
 related:
@@ -74,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "s+2fRgIcc6WQRHMK7uq0FrcGO8M8DIejzTI8NwlbwAbl+VQTlbrg+zEfGRg/dr8xIzyXwYVUSzetI7LqvXpWhIqbkEl4wqEDXLFGvdt3OBlZ15pslHnfOsmPEeMEH+ibaOYDigZ5zFbxvn94fqYz49/5CrPGf0Y02cJf8Oo7BziA7zwh+0V15weI/l+BQKdeQd+aqmKQav4ClruxDxU1qOKE9fFPxFQ+6lZSsTi8CQUa5G79uXrQm/rfDzTRbdUFCc3aHZ+G4tDxwctuVQTg+YK+Fde6qtjCYiVnDGaKRpalhbqOqvuQdI1atRElEX9puG02rhqvEB9fcJQxfpijMtjoQstWJbryaFDODncDnRVaUKjH3IQ9OQrgIIrvVMQPQ6OQSJxgfIHdDVW3ppbyb2/85DojYhyBPEZZkbObhroxNLRcaI4RujH4wMSj0N3LQhzoT5LBWyCPn7mvfRkiAKqdPBEb9/TOGfJZ2Qj/gu3Cihll0lE88pwpHpVQ0UasY8sarHt+NLptC1idyB8Y4Q==;ouU5lBut3hhq+BO/LZOaIw=="
+secured: "Uknyj15/AjpEv4zxv6mF22a1F0VupPFQP6Zobpk1Ca+Jl3EwfRnVkaSS0FPJunR1kQuwcupt5QbDAGhMKetCuWPkrSTLZ+zw99awUNlCU+D4x+PChCEcIbd0PLN7Ryuy/FHozzloFxRsMLIc25lzHOxJiCVgGDEsJbkA85RJbv/50FAIDc/97+Xy8dep/8wAYAjx5mCjpB6JPH/yyXI+j7gLMIQCaClh0R78GvejWlvchZIdbUO6V/aBqQIMF8GAqmj+q0kyEGb/nQU0Wugeh+oRfCQyeZ50lQ54n6yyV3eR1uGJXZmooD2RcZNNaN+G6RXfTX8/PAj83h9WgKzScQ224A5jVxixJA/3iiFaeFI=;l/itF7QqLvoOBdS3EADlJw=="
 ---
 

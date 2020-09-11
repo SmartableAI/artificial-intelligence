@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market May Set New Growth Story | Onfido, IPsoft, Trifacta Software, Ripple Labs"
+    excerpt: "A new business intelligence report released by HTF MI with title COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by"
+    publishedDateTime: 2020-09-10T20:26:00Z
+    webUrl: "https://www.openpr.com/news/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new"
+    ampWebUrl: "https://www.openpr.com/amp/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/T/9/T910255581_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence (Ai) In Fintech Market MAY SEE A BIG MOVE | Microsoft Corporation, Google LLC, IBM Corporation, Intel Corporation"
     excerpt: "In Fintech market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
     publishedDateTime: 2020-09-11T10:03:00Z

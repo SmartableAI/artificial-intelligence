@@ -2,6 +2,147 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
+      "title": "Using Amazon Textract with AWS PrivateLink",
+      "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/textract-privatelink.jpg",
+          "width": 1000,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T11:58:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-future-cars-may-live-a-lot-longer-analysts-believe.md",
+      "title": "Future cars may live a lot longer, analysts believe",
+      "excerpt": "Vehicle lifecycles are typically about five years with updates sprinkled in, but the lifespan could double to 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/I-FdpHll_2IA0qHIZu-4T82tWYU=/2020/02/03/77404ad3-e112-43aa-b8be-6d451870ba75/ep3gwiew4ayb6cd.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-vehicle-lifecycle-updates/",
+      "publishedDateTime": "2020-09-01T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio.md",
+      "title": "Acer Announces Support for the New NVIDIA GeForce RTX 30 Series GPUs Across Its Predator Orion Desktop Portfolio",
+      "excerpt": "Acer today announced support for the latest NVIDIA® GeForce RTX™ 30 Series GPUs across its portfolio of Predator Orion gaming desktops. It also announced more details for the Predator X25, a 360 Hz gaming monitor that features NVIDIA G-SYNC® and NVIDIA's new Reflex Latency Analyzer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-1029553650",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-1029553650",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-1029553650",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/acer-announces-support-for-the-new-nvidia-geforce-rtx-30-series-gpus-across-its-predator-orion-desktop-portfolio-1029553650",
+      "publishedDateTime": "2020-09-01T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-googles-ai-powered-flood-alerts-now-cover-all-of-india-and-parts-of-bangladesh.md",
       "title": "Google’s AI-powered flood alerts now cover all of India and parts of Bangladesh",
       "excerpt": "India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help.",
@@ -1008,148 +1149,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools.md",
-      "title": "Google debuts custom voices in Contact Center AI and model management tools",
-      "excerpt": "AI is opening up a new world of possibilities in areas like customer experience, user engagement, and access to content,” Google head of conversational AI Antony Passemard wrote in a blog post. “In Cloud AI,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "publishedDateTime": "2020-09-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first.md",
-      "title": "Hate Symbols on Amazon; Nike Salutes Williams Sisters: Tuesday’s First Things First",
-      "excerpt": "Welcome to First Things First, Adweek’s daily resource for marketers. We’ll be publishing the content to First Things First on Adweek.com each morning (like this post), but if you prefer that it come straight to your inbox,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "originalUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/nike-venus-serena-williams-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-past-the-ai-hype-when-is-ai-actually-profitable.md",
-      "title": "Past The AI Hype: When Is AI Actually Profitable?",
-      "excerpt": "One of the most important value drivers of machine learning and artificial intelligence technology isn't the technology itself. It's where a company deploys it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f404fde7a59af5a9e083a3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
