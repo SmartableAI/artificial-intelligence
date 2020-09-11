@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Kenyan tech startup drives innovation in a Covid-19 climate"
+    excerpt: "In the case of AI, the lack of data and ways to capture data properly renders ... We took this opportunity and pushed ourselves to extreme lengths enabling us to survive as a tech startup. We are excited to participate in the SA Innovation Summit this ..."
+    publishedDateTime: 2020-09-11T07:52:00Z
+    webUrl: "https://www.iol.co.za/technology/techsperts/kenyan-tech-startup-drives-innovation-in-a-covid-19-climate-c6ed0328-9a94-432c-ac11-a3a7502f5f3a"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/kenyan-tech-startup-drives-innovation-in-a-covid-19-climate-c6ed0328-9a94-432c-ac11-a3a7502f5f3a"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/kenyan-tech-startup-drives-innovation-in-a-covid-19-climate-c6ed0328-9a94-432c-ac11-a3a7502f5f3a"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 42
+    images:
+      - url: "https://image-prod.iol.co.za/resize/2432x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/3f624290-5749-5ed1-bd9b-7acb4a66886f&operation=CROP&offset=0x705&resize=2432x1368"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Sapphire Ventures Releases the 2020 CIO Innovation Index: Startup Engagement Trends for the Crisis CIO"
     excerpt: "Today, Sapphire Ventures, a leading venture capital firm that invests in innovative enterprise software companies and helps them become companies of consequence, released its second annual CIO Innovation Index: Startup Engagement Trends for the Crisis CIO."
     publishedDateTime: 2020-09-08T15:00:00Z

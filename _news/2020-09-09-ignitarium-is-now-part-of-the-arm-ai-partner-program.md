@@ -41,6 +41,15 @@ related:
         width: 501
         height: 334
         isCached: true
+  - title: "Ignitarium is Now Part of the Arm AI Partner Program"
+    excerpt: "The partnership allows Ignitarium to accelerate implementation of compact neural networks on Arm platforms, especially targeting Audio AI solutions on Arm Cortex-M class devices."
+    publishedDateTime: 2020-09-11T07:12:00Z
+    webUrl: "https://www.pr.com/press-release/820889"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 19
 
 secured: "Hl2D8K/4UB0YTGO1i8QjjlZwTh8nI75aicapZ4xR7kxmPyjIqTqAgJThb0xmE2iRhFb7ol8Zqc843znau/Xn1DlyNyk65uUuN4A/CNe5T+unhDF6Qk/Hj9IOEP5OigP6DDDbLr/PMS7/W8Aow478KXORYqq/mFXQUrjuL4odomGnJ9L+YKWUNruLMl+NcoJHVJaJ1L4S41XFi2/bJFUPaxBLcqq+y0n6EobkBXurSqqvduLxhK4TviVT7LNBTB2McPc1Mo/ztTg+dbrwDhkJVtlrgbz/qQ4Jh518h/CA1DJwpK85DnOwaYN4OmZNFMV7x1TIkimgZcUkeYNyMjT4kveIEoliowEyARXFRqW0uqc=;hA9+Ir9bg4Cb0a3kfe7JQA=="
 ---

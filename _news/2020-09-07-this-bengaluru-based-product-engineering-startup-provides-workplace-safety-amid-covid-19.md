@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/09/bengaluru-product-engineering-startup-
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/bengaluru-product-engineering-startup-workplace-safety-covid-19/amp"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Havelock One launches AI-based Covid Defender"
-    excerpt: "Havelock One, Admira and Samsung have partnered up to develop Covid Defender, a sleek digital display unit incorporating AI and IoT technology to ensure compliance with recommended Covid-19 safety measures. Covid Defender offers basic and optional features ..."
-    publishedDateTime: 2020-09-06T14:55:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Havelock_One_launches_AIbased_Covid_Defender-SNG_183945735/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_183945735/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_183945735/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
 
 secured: "97mOI0t3/5J0KxdppURksB823t3iaOT0qIJAdNgcfKC+BJHkMeA4XcZ4loisO5SkAnie5j93N7GehN38Wb7ABFjBnCQu7sl4wIhzeBo7cyGCaJcDydNlU4WteWFCGd7ZzLrK3SC3IGhak/8N1rl7VOhlIlvPEHKXudwtu984sOajvHtAyjJPsWqe07neHj61OVfBEvOfe8S5j0p1kJEgG1pa4E2xrehJYu9BViMOGXWVnpQds7Mc0c2KIHFtm5kIq1FNHtcZIeKu8ZphXIfcerlCcnSH82XxZsENP/wOWPJPagrw3g2h2/wKrUEJKyTDLjtVKs4rAUE+tk1sNn3KhdxVEZoi5B0EkS746LCuug/2k3uosO0bGzVqgMvvRCrfdndndELp4alwF/AXKJAJiYrgsMXflBhetdQf0aGj2JSwPtD8+TY5Wtms6EAubJbTXQdI45TSxdTDbnKyBRXvzY6KgWt47AUSMObSyU9iN0J1jvlabFi1BFHCv/oBW7qVLuLxLsaeuujC/LmHIPDwDLAxhFsNMiI1XS/U9bY0lSI=;/XMHRCyo2w6kzo327LPGmQ=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
 excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
 publishedDateTime: 2020-09-10T09:14:00Z
-originalUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+originalUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+webUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+ampWebUrl: "https://www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-education-ujkjlMhdhfahb.html"
 type: article
 quality: 54
 heat: -1
@@ -107,6 +107,6 @@ related:
         height: 367
         isCached: true
 
-secured: "EzCi/maFzGrua6Y4l08YovmLcggR2ekApR8GVVkhrCpG1PcjqfzPpTQCg0fKpCFFFUqSTztVG2hQBypSRgkQrTmv4HoSc65ZGPgKa/Y9nJR0WTRg5D435jwsBE9Tl0Ml7fYUiW43n86yqj1iVmVSo+Yi7jLx3rUR9hf6uqmiM6w1pgMSRxIKFxUe5k36lZO02C95Qzjt/3Uo8YPWGd8jCQKto1f0eWQR2YbA93lMUgC+OfnOgkV0LnPChcR87ODEwsz79UJEMi+X5QwIcJLD7GY9cZGsip7aVLIOFDwAjte6EdwxOwRSdoxwfwFckm0DbjxmwJdFCsCWBWQIc2akz2VD2izOemmaGipkUKWmxZU=;AuB3ZKG6jz4YMedOv+Z4NA=="
+secured: "++YcplFhYloTxQKhVOjYp37ziGHEcQLrNUdiKJh6I72m1MMkss3AIAeEQuhC05YqWf1b2pV6e58ypMldyarui/Pv9QAlbeDkMkEVpgHN+jeehSirGqdadssvasqKaOCh7a+xZ3iY5eOGieuicStfEJRtNd3T4LKZwYWKuVRrbQH8nZPFrQqVHSuQMq/859RqDIWee+7vgEOKkMKbIZ9loEZgfzUCpUr5UsdDTufn8aBdTFq5mdM9uC46SaMUFZkitnmr/gwOQ077t4tsDaVWcXELw9ISQ4yD9Z/578rPPFaNNA7nepxGNAxu0ELEjKM+pQ0E18vFOAsqbH7I0ypc2KV4P/DoCRc0x4llcaV0Z6g=;/houwWUxmVW4FXjZegFQbw=="
 ---
 

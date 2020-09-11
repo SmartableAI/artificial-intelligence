@@ -2,28 +2,28 @@
 category: news
 title: "DOD enlisting AR microscopes to spot cancer"
 excerpt: "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses."
-publishedDateTime: 2020-09-09T21:31:00Z
-originalUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx"
-webUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx"
+publishedDateTime: 2020-09-09T23:26:00Z
+originalUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/09/DIU-Google-AI-cancer-detection.aspx"
+webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/09/DIU-Google-AI-cancer-detection.aspx"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: GCN
-  domain: gcn.com
+  name: Washington Technology
+  domain: washingtontechnology.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg"
+  - url: "https://washingtontechnology.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg"
     width: 760
     height: 368
     isCached: true
 
-secured: "N+dZemXT+O0Dai5cv9Y6WWhPa6BUpgx/nb3jkQHGdJgNyOjkvJqjk1Awfn+WuquWnx+m5erJ/XJmGmhFwajaTT7TaHPnFBepoQ89/dFGSSR6kQXJsdBFP4DzE2IkKwgdvqI7acGvaujbiA0WWJXAgs9O4hhVLkpZTyQSBDhSB3HADuRn4Bn9MOC5q3XIoeKFgMOd1wKihfqmftQF7kzfPhU7Oq3iXr+fxpyvnLelhS3ofoUDHICvsHMlfzrrGgj/HEUyfgVONmVgindSTNzh2XWC0WZwo2rcTLQU5Xuya1RSNVBGL6FsNefpzVOw+WfryMmU04JW1nYo7uuh8Q88QyajMPSKz7jJ0vnh2Mlha4c=;D1oQy1BHlnZ64PrW6a6HYg=="
+secured: "8dpjO64D+YOFqpLuOiEXDVihoGBlRk/O+IDgPcyutR6JGYyX0+WHmX0AFknTn+Mf7iA6cWGtPCFCaOBXx/OmN3ByhoUY2IBypJGl011YpM8PgGfAe8nNFA46EVQVc1IAt9zJJ9TO/77N8s85MCGqDHyam7SWtSSaLHCg4ipfuK/W3Mymkx07PSWpHENl2N5PeHSHLUbK2SF7TgC4H1HZb8YCnXg6hc/4QVwdygffMF+Ks6QtpGgtO1vqGCy5EcV/7bzQM4IJ8pLybaIO0gdGWhWR8TxIA2E+Ehx2HNFXzmQH2AnVy3R3Btwv+zDSq5SXb8fk81mqPzuwJ+vQ3p+5Vf7/KdUshIDFFRk+1j1Ksew=;IPJ9jCU+l/31xgh/oP0GjA=="
 ---
 

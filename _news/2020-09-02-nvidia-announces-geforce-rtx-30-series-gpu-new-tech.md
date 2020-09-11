@@ -2,9 +2,9 @@
 category: news
 title: "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech"
 excerpt: "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history."
-publishedDateTime: 2020-09-01T17:02:00Z
-originalUrl: "https://www.worthplaying.com/article/2020/9/1/news/121526/"
-webUrl: "https://www.worthplaying.com/article/2020/9/1/news/121526/"
+publishedDateTime: 2020-09-01T17:06:00Z
+originalUrl: "https://worthplaying.com/article/2020/9/1/news/121526/"
+webUrl: "https://worthplaying.com/article/2020/9/1/news/121526/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "tFUoWDb0d2JfGsVPzcWfiGN5cAzqXLxv4L7eiqjEIrDGZLs4x14YV7NWI5oPFhzVHmMrZFAPjQIb8+tVN0QSCLYUaq5m+3x+nOMimbBWS6Y0rPtf5/y3Cr6rM9o9qEzIUGksHXiWibF7urbiURe2O50BgnxGZthg/FAne/HfZzvqaUDqoCdP+wdisULpQ4UR/QkDhffgYObKLQ+M5Uue3tCNogHo18mxjczWKMha9yhn00CkMb5xhmsLTiFBoP2C0wvIDL5ZJM2My8QjFDfi53VfupFYG8tfF3A+62K1Uk9cmDqXAm6nnr8cwzOFK7mle5wCkZ6jaM6g5RUMgxvv41TiezVaqgdb4Ctw3tSNbyk=;5wc0h+RPcCmi0+Wz/JTMgg=="
+secured: "iwtlSSECB44Xem78nRmw69+xpGHzTgsTSereAgNOms8V9hJF/29lVcVC0cnieLnFXQo6Qtz9jsm3DBqxrqvg5QzDJqQI07wZoNp/x1uRSL5v1choCIEG61qR3LdfBXO5uNM6EWxgf+npC5k4sAH5/VIcA+Jc+fX+u3CkUDyMO80poOxKIn9NZqOOR3hPCpZoTwQyaD4fgmwgPKSygN54CoCs2YToJsdrrDA0OJ6jnu7c9F6rv/jWARjClEoMBRZregE6QvKE6c6VFPTpsGWdWs0lPcYAnL7q/pH5uLPqNZHguY2S4oCag8aDcOQc1CgkbH1q33V4MuMdKxE9rMo0HW9LvhhwbxW0VW7y6RYqgTU=;OO3d5g/Vchbp7aIpuSoMlA=="
 ---
 
