@@ -2,12 +2,53 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
-      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
-      "excerpt": "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy football players make more informed, fair trades throughout the 2020 season.",
+      "path": "_news/2020-09-11-validation-of-ai-tools-for-cancer-immunotherapy-may-be-a-step-closer.md",
+      "title": "Validation of AI tools for cancer immunotherapy may be a step closer",
+      "excerpt": "For Artificial Intelligence (AI) tools being developed at Case Western Reserve University to have impact in the fight against cancer, they're going to have to be validated in rigorous human clinical trials.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
+      "webUrl": "https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
+      "publishedDateTime": "2020-09-10T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027.md",
+      "title": "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2020-2027",
+      "excerpt": "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
       "featuredContent": null,
       "heat": 70,
       "tags": null,
@@ -24,7 +65,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T16:26:00-07:00",
+      "publishedDateTime": "2020-09-10T17:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -47,7 +88,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -59,7 +100,7 @@
       "webUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
       "originalUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
       "featuredContent": null,
-      "heat": 80,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -97,7 +138,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1146,47 +1188,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india.md",
-      "title": "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India",
-      "excerpt": "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
-      "featuredContent": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
-      "publishedDateTime": "2020-09-10T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

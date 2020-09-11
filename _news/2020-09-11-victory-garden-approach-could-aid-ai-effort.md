@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-10T18:55:00Z
 originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victory-garden-approach-could-aid-ai-effort/"
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/victory-garden-approach-could-aid-ai-effort/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG"
@@ -39,6 +40,6 @@ related:
         height: 853
         isCached: true
 
-secured: "0RyzzYc4+ju+mAJAdxGYcNyXFRUXwR3ZSlwv95VfMisitQs29D/SJSNMJ106GsgWEcaBfvrZ1mY5XhxCKZ/AEmN0HjOp1YVy77S3CcntNU0KuOwKIxGMhJxGVgXghQN6hAJOKYYJpA+urIjqc1SG7EPLWsJiogYLJ7UaPyCISt/Z5v2drVU+1+0myBb0xyKxJSPn+2uJXCf1PdG5WC5+gEK+M3VweYAJK/5zyvIhKSECKK78wGgNFBA8CB61st+4wQjxN3n13NmU+qGb5FiLIyjSrsLEBMXoOYXBRpEsyJiOiDg5qvfmwww24vjY/D+ewmxY0+5oYURBH+4E/sJqtth4Q6RxWQ3EX1k9YHfJ5kw=;WJNNQ7Qj2eB2j2ezUZhO2w=="
+secured: "kjuM+1D9QoNhNHKsC4f17zPZDAXcTWmAoi+Rte4UY+E3hOSStsYVULbTcc3uMb04ZCW6oA1Z0lyS08ggaZLvSDp4HFmNtmR66/Ycq2J4NXC1J1bweCRnWKR2JrBOH41VIOcDViCvbrHjq/DQpOPRnaNdChFUzrOaPvoNPwTMJZn74towBhDquCHdwZPweghBRqEua4ugX3AsS5jomZQexXes+gNUySoVnje0ODGrWyFGNV2zk1YespGuPG1HfJBooDJQ2WzWnsuDMEiZMAfOkEsW08r2fGeX8ZjwzkjNMcBwEPH+sAKfECdJeTV3EsF4K9vtNt+d7K0pY9L22B4vAAhHYMoYUa5BoboENeSrwcMD1ecW+qsZC8Ioa/nVF4r0iniB7KXW25fLqKCuOmS5qIgZ+8hQYAFz2yzAr/yJJ2p7KU29Nxzvq0MRS/1rmugE/2IaNV3USybJStoysWjoOUYStl+7tbBg/MOXUW4KVi0dLakneHNA+Oo8xmpXY0SRbpsvv46/30JwABiComobyw==;YiI1zIZYlKTVr6swvMbfHg=="
 ---
 

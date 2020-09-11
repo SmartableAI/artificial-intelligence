@@ -2,6 +2,220 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
+      "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
+      "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "publishedDateTime": "2020-08-17T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-edge-ai-platforms-beat-gpucpu-on-performance-and-efficiency.md",
+      "title": "Edge AI platforms beat GPU/CPU on performance and efficiency",
+      "excerpt": "computing hardware and software for edge AI applications and overcoming legacy GPU/CPU limitations, Blaize has announced new embedded and accelerator platforms, Pathfinder and Xplorer which enable ‘code-free’ edge AI development. The platforms are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/edge-ai-platforms-beat-gpu-cpu-on-performance-and-efficiency/",
+      "originalUrl": "https://www.embedded.com/edge-ai-platforms-beat-gpu-cpu-on-performance-and-efficiency/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/08/Blaize-Pathfinder-P1600.png",
+          "width": 740,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-welcome-to-human-computer-co-creation-what-gpt-3-means-for-education.md",
+      "title": "Welcome To Human-Computer Co-Creation: What GPT-3 Means For Education",
+      "excerpt": "With a little training, it’s a writer, coder, composer, translator, and puzzle solver. It’s the Swiss Army Knife of AI from OpenAI ... is a deep learning language model that produces human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/",
+      "originalUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f39f1dd7ba3eefce1b8575c%2F0x0.jpg",
+          "width": 1056,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/08/17/welcome-to-human-computer-co-creation-what-gpt-3-means-for-education/amp/",
+      "publishedDateTime": "2020-08-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-multi-ai-competing-and-winning-against-humans-in-iterated-rock-paper-scissors-game.md",
+      "title": "Multi-AI competing and winning against humans in iterated Rock-Paper-Scissors game",
+      "excerpt": "24 and approved by the Ethics Committee of our center of Zhejiang University (China). The humans competing against our multi-AI in iterated RPS game experiment was approved by the relevant laboratory of our center of Zhejiang University and performed at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-70544-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70544-7/MediaObjects/41598_2020_70544_Fig1_HTML.png",
+          "width": 685,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd.md",
+      "title": "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD",
+      "excerpt": "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
+      "publishedDateTime": "2020-08-17T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program.md",
       "title": "AutoX launches its RoboTaxi service in Shanghai, competing with Didi’s pilot program",
       "excerpt": "Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform,",
@@ -879,228 +1093,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
-      "title": "With self-driving tech was new, a road trip paved the way",
-      "excerpt": "Neither was driving. The van, a 1990 Pontiac Trans Sport dubbed “Navlab 5,” was loaded up with the latest self-driving technology developed at CMU. Its pilot was called the Rapidly Adapting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
-      "originalUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-15T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-how-the-us-department-of-health-human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek.md",
-      "title": "How The US Department Of Health & Human Services (HHS) Is Innovating With AI: An Interview With Oki Mek",
-      "excerpt": "Oki Mek, Senior Advisor to HHS CIO shares how HHS is adopting and implementing AI, how adoption of new technologies in the public sectors differs from the private sector, and challenges to AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2deca07b28103b194d017c%2F0x0.jpg",
-          "width": 450,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
-      "publishedDateTime": "2020-08-14T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
-      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-an-introduction-to-natural-language-processing-with-python-for-seos.md",
-      "title": "An Introduction to Natural Language Processing with Python for SEOs",
-      "excerpt": "Natural language processing (NLP) is becoming more important than ever for SEO professionals. It is crucial to start building the skills that will prepare you for all the amazing changes happening ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "originalUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
-      "publishedDateTime": "2020-08-14T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
-      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
-      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "publishedDateTime": "2020-08-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

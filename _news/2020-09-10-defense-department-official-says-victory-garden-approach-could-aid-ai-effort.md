@@ -33,7 +33,7 @@ related:
     provider:
       name: US Department of Defense
       domain: defense.gov
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG"
         width: 1280

@@ -2,6 +2,129 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
+      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
+      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
+      "publishedDateTime": "2020-09-01T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-nvidia-announces-geforce-rtx-30-series-gpu-new-tech.md",
+      "title": "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech",
+      "excerpt": "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
+      "originalUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Worth Playing",
+        "domain": "worthplaying.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-nvidia-broadcast-brings-rtx-powered-ai-to-livestreaming-video.md",
+      "title": "Nvidia Broadcast brings RTX-powered AI to livestreaming video",
+      "excerpt": "Nvidia Broadcast is a new tool that brings together all of the companys RTX AI features for creating video and audio content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "originalUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Nvidia-RTX-Broadcast-e1598971502693.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/nvidia-broadcast-brings-rtx-powered-a-i-to-video-production/amp/",
+      "publishedDateTime": "2020-09-01T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-whats-hot-in-ai-according-to-training-data-google-ibm-microsoft-are-buying.md",
       "title": "What’s Hot In AI, According To Training Data Google, IBM, Microsoft Are Buying",
       "excerpt": "But what’s growing fastest in artificial intelligence? One clue is where the Fortune 50 are placing their AI bets. And one big tell is what they need training data for. “Training data is really the basis for AI,",
@@ -286,10 +409,10 @@
     {
       "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
       "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
-      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
+      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip. As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "webUrl": "https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -304,8 +427,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
       "publishedDateTime": "2020-08-30T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1218,149 +1341,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai.md",
-      "title": "World’s largest chip gets beefier: 850 thousand cores for AI",
-      "excerpt": "Announed at the Hot Chips 2020 conference, the new chip — which is as large as a single 300-mm wafer — packs over two times more transistors as well as a whopping number of AI-optimized cores. The Cerebras Wafer Scale Engine Generation 2 has a die size of approximately 46,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "originalUrl": "https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/J4gMaC6kRdNLhVRDjnqSNU-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai",
-      "publishedDateTime": "2020-08-19T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer.md",
-      "title": "Cerebras puts ‘world’s largest computer chip’ in Lassen supercomputer",
-      "excerpt": "Lawrence Livermore National Laboratory said it has integrated Cerebras Systems' wafer-scale computer chip into its Lassen supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/cerebras.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/amp/",
-      "publishedDateTime": "2020-08-19T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-azure-adds-a100-gpu-instances-for-supercomputer-class-ai-in-the-cloud.md",
-      "title": "Microsoft Azure Adds A100 GPU Instances for ‘Supercomputer-Class AI’ in the Cloud",
-      "excerpt": "Microsoft Azure continues to infuse its cloud platform with HPC- and AI-directed technologies. Today the cloud services purveyor announced a new virtual machine family aimed at “supercomputer-class AI,” backed by Nvidia A100 Ampere GPUs, AMD Eypc Rome ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/",
-      "originalUrl": "https://www.hpcwire.com/2020/08/19/microsoft-azure-adds-a100-gpu-instances/",
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cloud-circuit-board-performance-computing-rwd-1536x864-1.jpg",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

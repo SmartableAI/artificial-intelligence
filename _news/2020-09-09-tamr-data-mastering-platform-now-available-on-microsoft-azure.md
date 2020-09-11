@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platf
 webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Think AI Chatbot Now Available on Microsoft AppSource"
-    excerpt: "Think Ai Consulting Corporation today announced the availability of the Think Ai Chatbot on Microsoft AppSource, an online cloud marketplace providing tailored line-of-business solutions."
-    publishedDateTime: 2020-09-06T07:10:00Z
-    webUrl: "https://www.pr.com/press-release/820535"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 34
 
 secured: "DqxB3LnbcV3Q/tctajYsGISA7BtwdGe0MjtCarplHmNU80HjwnAIpbYeQ5BSdcli2hHhH/7TLbuhl5A9vwE0w5/nC4rjJKLXKETk9LkFgowDHeyiJgXJLuyU57A46hwjfxi+3cM95HHDnbebfQo3H4s0IjsrzjeBXb6KRBHp6KQ9vlsWsqRhMDM3uzZcFIaJyG9HSdT2U9Jg2dHUiuzp/8KA/6qNuNB65wEn5+2OLJj5fSw95AS2oMt2yQVbuNFpGRXO0Xk9uozhUMPi97Ex4d34WQA5ruUWJeBEJCPOnxe2p2l3nNoP5gYbSD74s9Ks2C1hjJbzxf54RhRm39xEMAjmkBGgdDdATudGLgck3Xc=;5PQWgjafbyvbbiSTAprCJg=="
 ---

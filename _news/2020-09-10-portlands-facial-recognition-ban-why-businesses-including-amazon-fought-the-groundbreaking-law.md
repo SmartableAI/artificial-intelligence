@@ -115,9 +115,9 @@ related:
   - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
     excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
     publishedDateTime: 2020-09-10T00:59:00Z
-    webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
     type: article
     provider:
       name: ZDNet

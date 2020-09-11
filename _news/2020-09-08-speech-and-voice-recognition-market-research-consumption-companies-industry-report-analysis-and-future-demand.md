@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Speech and Voice Recognition Market Investment Plans, Growth Opportunities And Strategic Business Model"
+    excerpt: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model; In Depth Analysis and Survey of COVID-19 Pandemic Impact on Global 1122"
+    publishedDateTime: 2020-09-09T16:50:00Z
+    webUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 24
+    images:
+      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
     excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
     publishedDateTime: 2020-09-08T14:12:00Z

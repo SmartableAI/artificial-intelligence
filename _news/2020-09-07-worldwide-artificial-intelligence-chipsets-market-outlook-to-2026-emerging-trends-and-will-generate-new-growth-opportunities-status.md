@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-chipsets-market-outlook-to-2026-emerging-trends-and-will-generate-new-growth-opportunities-status-2020-09-07"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -28,49 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026"
-    excerpt: "The global “Natural Language Processing Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-09-09T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026-2020-09-09"
+  - title: "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2020-2027"
+    excerpt: "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b"
+    publishedDateTime: 2020-09-11T00:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
-    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market Investment Plans, Growth Opportunities And Strategic Business Model"
-    excerpt: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model; In Depth Analysis and Survey of COVID-19 Pandemic Impact on Global 1122"
-    publishedDateTime: 2020-09-09T16:50:00Z
-    webUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980443/global-speech-and-voice-recognition-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 24
-    images:
-      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
-        width: 800
-        height: 480
         isCached: true
 
 secured: "8Ns92KldufTOaXvIgf3VI/eyzRZy6VFTJeekXvmIF+BaqqeRwyPkznUSIGr89wKCuJU9gs11A3/EppzPLytbKykV2AzJrajPLn7YDfM2vhqCcvWaRpzh62Vqyeyl73qQtDeJ3JuJQv/SrFGdZCe4btDNZEbmU9ifjzVfmdfCMX+a/6Ri194TB6x8N/fTJKOpHn8UXBA6CndzQoMlmXBded8SgS+7KjdSx3i6sJPZ8igNCil+hfAHaUTjeoEL4Rn0wHe6rdFiK5ammwAeawiDl+UOc2x+sMeTq4MtOcZvn9cOGMUuF9E4Qjng6EPkU6s8l2arEzDXIh8O/EHHK0y/VcxJVuNcyjn5Qf1mxZ0Nk6o=;DCbqmfutDPUHmu5ejvD/8Q=="

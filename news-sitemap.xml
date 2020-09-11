@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
-    <lastmod>2020-09-10T16:26:00-07:00</lastmod>
+    <loc>https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx</loc>
+    <lastmod>2020-09-10T17:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09</loc>
+    <lastmod>2020-09-10T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -871,6 +877,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020</loc>
+    <lastmod>2020-09-03T17:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/</loc>
+    <lastmod>2020-09-03T17:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://apnews.com/8cadd96d703080b0c317174623ac1fcb</loc>
     <lastmod>2020-09-03T15:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1389,6 +1407,12 @@
   <url>
     <loc>https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/</loc>
     <lastmod>2020-09-02T00:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html</loc>
+    <lastmod>2020-09-02T00:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1927,7 +1951,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/au/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3453,6 +3477,12 @@
   <url>
     <loc>https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever</loc>
     <lastmod>2020-08-21T14:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html</loc>
+    <lastmod>2020-08-21T13:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-tra
 ampWebUrl: "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "oSzIT91vuXC/UFDVLhCMin5xVUxm+xdLwhwlc9sjv3kqqzCcm2sBoPufDMMfC/GeN7dUjmJnVQWFtGNLLvaVJXJ59Y0l/APMBn/aqrAkpRCgnxDua8MeQaWTK++LH3tUFYDy95mhxV7wRpokpNktq09q2DU50USZbyXFSeapqgYwmcX+9C7xNxBM9fxYVT9TEs+CCeCHPIls9nYZVlb6jvj0mkeHQw+w33OomlVOTG0lkI//oM1J7dxo4eMDWqHRt3IOF/gIsWH/HDwo7aKArkpm0U/f/U73tUxg8lbl0hKQumCdd3jYSN2YqnlV++b7Uj569nyhgGjBGMMV5OdrE9JfUaACnl9CTVZfE32td0M=;O9vJ1jjC4yM6SVKkLe+BhA=="
+secured: "LXzSImR4/JzGPM5QQ1sAzUzuztOzRsWR1wx4Zf4x3rYBzwPtx8ttm0aElKHWJips35foVd/12wy6QBymA/MT9DL24iizOWMNSf4VPoTNeLrTt/kK4FUpTtJG82FdD5NZ8DGcFFkkqJNY/YgmZdhrMvCrY9e1IgydK3CMQCtVFGkkEPTvh3cShqCXME7c0TOdOKzVR/hqjNRhMRK2PQTIRZnFzRCrB3fpq0tNIHlTwngvrIx07a0V0oxl8g/69YeS5UuQK4uug3cIV0GKwmSt7JOMUYcSRaeqRJMCkiS1sfyycih1oxJBbcNT0ArmXuVe3aTRO2WOWbjfRdoRVJ3tcJfqNNrp2uk11s5iXEipOZkHWCm3WMzw1w6OfRv0GCfxEvEn3+Kv14S6jIA0ynX8qLBB8RSocWPFS4Pr72RPthefIu2JbVmwSsTbVc7Uw56FCsXPx+nb85JMZLsy9H5ngxAH9aqOcMEZBc9V4e1L2iQVHpZC1Tqk2lI8BDulr2NkNYKSCamwv1kynrNA3Ro/gw==;ob6krQO7I/vSHFgjEhQdJQ=="
 ---
 

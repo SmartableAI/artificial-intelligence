@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-09T13:00:00Z
 originalUrl: "https://apnews.com/business-wire/4ab95f9dfd0d4fb6912333d4531a86e8"
 webUrl: "https://apnews.com/business-wire/4ab95f9dfd0d4fb6912333d4531a86e8"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

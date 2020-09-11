@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
+    excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-09-08T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-growth-opportunities-industry-challenges-size-future-trends-and-demand-analysis-by-2026-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yaEws52LJI+/28Vj615D9lgvm3SGDKKHKJsLNpLNPpy5+NR6lI5EnGLhaJo34QAzKiZENTL3rAH8eTDJvda57/Zip0I956IEPulpi+TqpnYC98UkjQi1ZhygZyn1vBp/rMtSnGGdqk0M5IIGVtXuoIG036p5cjR5chV8NlDwyu0KEVt8WeJ5QYPGkYqBpvDsyDFpiQ2kksknnkauPqN/f1FhDbciwFVnWv+7t+m7K/IwTF4tmCstLMUc7Uy9Ss+qA+lWNvXtxcy7FZD7n3uiCKT5R4h/SGs8C4+6S1VZk5gTrBwJ+xdRS2khNbNjNAR2cbpJU0KSSPCwmx3KldaUw+Jhri/JW0+DT6JwWT/NCts=;l6jHIHMOF7GbvrwbIHK2sw=="
 ---

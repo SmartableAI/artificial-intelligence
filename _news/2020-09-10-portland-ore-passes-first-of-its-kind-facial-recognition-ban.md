@@ -3,10 +3,10 @@ category: news
 title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
 excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
 publishedDateTime: 2020-09-10T00:59:00Z
-originalUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
 type: article
 quality: 69
 heat: -1
@@ -133,6 +133,6 @@ related:
       domain: usnews.com
     quality: 66
 
-secured: "Ki5NaP7SN8DNo9ey/c5/q6MHr9jMNTxtCRBhhIcs1azoNOevp9p9YggQs628aQIh18dKBleteZKXDABqUCfX8GYn21TCqqT2zh1GjUBFIh4hu/UjhhVUmXhtZnpSjL1B5iszkV7n52HJYmo3MMQ88zxJEKhy10p4bWRISYTS6O3OjGV/VEoWmYaOEI8qkI/3/D9uSXEi50MIeeO4rWNYhgtDJvagiU6RbI8gn6fxxJw/xx73mnyGdelkXL+GjNv37cUlxZE/N4HYual//UbGsDOpSGhhzTnU+FfYLWFp/TOAl02cjZ7FHtw/ICWp/Mt86MWMaSUle96YQ8+3AQRRrPKe3QeJ7qhzMuIwGM9KUMBUcb9h0WMszI4B3alKHWYqSMClLHyer6IhAH9BpO+c2qgjdonUN/Ujvwt3UOX3hyBIhQd2EK7jZdDeAGjdwUh10Rhe3dk8W7T0vaMYzCALURFrcAkAuOmljIjnNFycNsMq8wjUw6TVzErm+w3NCuva4hhn9AaQBAv/TKuoMOt2mfH93T3gRfc9tEz8+cVr890=;dda/hgXKgGnAFhGlbUf54Q=="
+secured: "zwlB2vwXjI8r9eFFMB4UKn05ioL7Ub7ukD4J28QkT8nz7zbajfFDPz+nSeaXuTxCrwAmTg6TFL9G1p91+adKOtbNxV4W/yFUqqvDv9A9p6C8eiZUnC98zq9Kk1zpsR/mpl+zzFeuYQc7T4rzA35wOEduAvCCYkp6dMJ3iv/TEtFW3XARGsSDFSXGBiKdv62CS+sEJi/nVk9NviKgeG4Bud54PcJojpZxrwCOFoNjliEMXKU5H1YHJTrze+F0wKZT58xDerwYk6m11XBz6ug/MdTGdnJbqCGlY1aF9CEIZMEGwUNNdZZLigfBc9Vo3G1uL7mab5L8N/n9K04wKcaVsRX7x50cC7gWeWSNtbqfuRHfJRMoxGnZIe5AdNCF3RV0hHQmu7j/ZmzJpZs0eMkfcUeiirSskAnl6wt1I68barrJqByIhK3LdAXm6CLSsmue7ZxrrZsZ4wLBhPrz1iRjZGqzjZjijkdgxshZuDRDLnzCMdsiE4BiDDuA5oo6hyvGyJiEWI8O6WPdDxFL/l7N3Q==;xk9fgWgX6mcckd5kCwUrPw=="
 ---
 

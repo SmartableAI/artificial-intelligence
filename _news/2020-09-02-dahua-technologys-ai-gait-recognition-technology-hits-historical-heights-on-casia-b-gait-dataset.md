@@ -3,14 +3,11 @@ category: news
 title: "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset"
 excerpt: "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait"
 publishedDateTime: 2020-09-02T07:19:00Z
-originalUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
-webUrl: "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+originalUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
+webUrl: "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: SourceSecurity
@@ -26,33 +23,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "Reporter Update: Open Hearing On Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council will hold an open hearing today regarding the usage of facial recognition technology by police. One councilman says if they were to get the technology, it would do more harm than good."
-    publishedDateTime: 2020-09-02T11:39:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4688807-reporter-update-open-hearing-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
-  - title: "Facial recognition technologies see significant advancements"
-    excerpt: "Despite some of the negative connotations associated with the technology, facial recognition has merit across many security applications"
-    publishedDateTime: 2020-09-03T16:21:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152899/serious-advancements-in-facial-recognition-technologies"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/GettyImages_913641954.5f4fdc9f8b8b1.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "mpTB1YC3GHnZJKn82WiHD+XxkroQwl7Hp/I4CEpr3yI+Md90V2Eu39L1UmJzHhNi9ug6S2M5xqeblfCJ+QrEvmLgF29Ej3PIbPWb9/iLYNAy1RwjQykwkkP5kxNxtUok66FYxeQNJYApi6D6aekgeCjvQgPgIny5dDe2ZPpIso3fHXploptdrSKjPaUqk4+4GtelN4ufUalB/AeqD3S08KOS/e6cIfOwMBKUxESXgWtohtfEgZLa3K+CNdr9nJORJcUGi0b5/HiKfULjOhq/zCL1+eynM4zqwC8cVbIBk4E/Z0lfgnGLCoM6/1Qih6WxTGC1natZdY9Gtv+wLpVMFcSCcx3mwwjSWqDmGuGzuTqwXR0bDhGR2uV/RyOc+8c0BhCKHNbceoWjV+XOTgTKjeoqlypHI/AAExZ4hssI5SFCA7RRZFOAc14qifLqUJy8+0bjY6iYQTA/D6rJH8rgvupPrxB6zwe7Ru5xqvfvl9XeoRJL7zo46eJxMAb6Xea73Pi5+q797Bdg/R6KSKKJrMFXVR7NdBmWRr7OldPlaeQ=;wHg1ZjoL9fDd7qwQlnDOgQ=="
+secured: "6WuYL7E4lofoy8SSiIGBt5jGo9SqmoAuzeBuIxf853gPjDH5Jv+0YQ2UtHbxiLnYTqGZL/vmc4uecmPYFtiggIqmXOpp9OtndS8l/jEwAn946+jxf+OTOvPleaQEzmyktVHozrooRU7z35Beyqv2ktW9UAOKJ6Bf7lU74pzJU9tvLUTSpfGvD2vikIFu5g52JoO93HsXWnhtAPfcSI3cMuAItoleZoQeHLxnAXq6EsDrFqQi6iZpRr9Tyjp1xGsFfKyoYy9uJ8pqmd5vluPjD10mi6E6Wz9r1WWZlyK+KxUQNV+bEbVuKagXln56xFXFImLub/+HjGeUpaE7EmSZyAq9RJn9rLaCu6faM/F+PxM=;lRDo6QT/01N79V5k60nCTA=="
 ---
 
