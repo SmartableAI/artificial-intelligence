@@ -102,6 +102,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-11-global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027.md",
+      "title": "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2020-2027",
+      "excerpt": "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-germany-wants-to-permit-driverless-cars-across-the-country-by-2022.md",
       "title": "Germany wants to permit driverless cars across the country by 2022",
       "excerpt": "Germany is making noise about regulating autonomous vehicles and now wants to be a world leader in the field. It's set its sights on 2022 for it to happen.",
@@ -334,7 +384,7 @@
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1323,57 +1373,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
-      "title": "Robot Boats Leave Autonomous Cars in Their Wake",
-      "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-226255/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
-      "publishedDateTime": "2020-08-29T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

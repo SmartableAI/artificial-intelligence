@@ -1,23 +1,25 @@
 ---
 category: news
 title: "iGrad Partners with Columbia University to Combat Student Loan Crisis with AI-Powered Student Financial Wellness Platform"
-excerpt: "Leading financial wellness company iGrad has partnered with Columbia University to provide a customized, interactive online and mobile financial wellness platform to the private Ivy League university’s students."
-publishedDateTime: 2020-09-12T13:51:00Z
-originalUrl: "https://www.pr.com/press-release/821086"
-webUrl: "https://www.pr.com/press-release/821086"
+excerpt: "Leading financial wellness company iGrad has partnered with Columbia University to provide a customized, interactive online and mobile financial wellness platform to the"
+publishedDateTime: 2020-09-12T13:10:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/r17479138/igrad-partners-with-columbia-university-to-combat-student-loan-crisis-with-ai-powered-student-fina"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/r17479138/igrad-partners-with-columbia-university-to-combat-student-loan-crisis-with-ai-powered-student-fina"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17479138"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17479138"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "DD60XMgQtMmdpuu6KiJKXDW+WaB4TSKmv8dQaD9SGQwJgJLf/Alm2+Pumydswd6bXClRdw7iD/0AJmkYJ6SxEbdeknwPwQbw7TsO9q8Z8WfTTpiFsV+pIGhb/wHKO+6lO9cuuitMTbBqM9Ad8ie4Mf8b27lXO5ERhLxqNZlXrGY2mggn2K1Fp89IBF5B8eAmWMPFWcqEFnfqW4jH3fViQrCC65/59ov0D9KTMlWxLIU/B6IOy+ZVP/jRI79ffVhuIcNCghXfLeYTYFtdWFpEzAJbLk/FuRh2iQT/qZs3+jK14n9NdwTuvdeqx6xLZS14cUgmZLlp1+38tjLe0rEMgowgI6Udlyr5sHdDr8U6LdeEiPv0N4fQDa5FcFe3LAIsORFC8qkhl5ZZNhP8nWJY1r51DthMShxwHZypwfNf2lOfNZ5gpf0p2M2fAkZlw5KEO/+KnIAPfJUUJLDN+u6H8R//z5COwHOJdR4n7oWUQLVFNb7QgpYZKTuIngHkJ+OfJ5fLZXpaTItKELu7oF36pw==;MG/pqkmWHMA7OGzR7AfG/A=="
+secured: "HKXQMOUrmUBkXsH5BIUIdMLbKFbHoV4K0U8PteWVjQ1og8uPSkNKUwhoRTd0isTyE3SaYGf2/6GGNp2+jOuJb6MbxgHKDxkG9Miq2OaUcKaSrM8U4i3rbtTKxYyFQCndPvYERMG/cnWr+izAiVGpg4Pc4/r36m2fQzElj+4/u89l3wXh8eihhlFfVhbhBIfGVg+MLqXNvhRdtK8zIxoBcVkMc72ltQovR49jjRA2ORCfYOV5KMvPl+ynVbmEQX9Tsibxw3MgH1r/3I5RDCCXWVjzBUc8vktvNcatRJA4IY38DHP1Or/aREpNfNt0hVVN/EvWT5YAiGIvs2r9InRocUxdQztzN8cgvMZVl6Q68pA=;kiv0tS0XnVDQG+Y9St3ZgQ=="
 ---
 

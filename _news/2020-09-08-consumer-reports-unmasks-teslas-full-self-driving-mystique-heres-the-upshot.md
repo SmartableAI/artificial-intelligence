@@ -58,6 +58,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Tesla’s new $8,000 self-driving upgrade is kinda garbage, according to Consumer Reports"
+    excerpt: "At that time, he was testing Tesla’s latest build of its self-driving system. Today, that very same system is available as an upgrade for $8,000. However, what’s regarded as a full self-driving system seems to fall short on its promise."
+    publishedDateTime: 2020-09-09T19:28:00Z
+    webUrl: "https://knowtechie.com/teslas-new-8000-upgrade-and-its-promise-to-deliver-full-self-driving-capability/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 31
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/02/tesla-model-3-main-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "mT6DUBJMCc0oePzWea8tifH7DkuDCtuuw4CV8bNLNIrl5v6Jx1Ms9hE/EgrhKDhUB1m457IF+bu8gkO5AcNj/l0Sgr0XRJQOiyq79w1dsvaXUEeFIrEE2atI6G3bamT2VDhVXK/5PycIu7q7EzNVVZVDvZxBSjVSkYBMwdbkFgWcXLYjUtLMBq0mCYik8GjF+Bin1c49i+NrZYBT2KJtOyQeahlYD6lrOcAM36ZjA7d00kQbTZCRsMGA5FOZxc0RW9eSQGpCNoKhjoqTfkWkdyrDNujo1jg49wDRhblg6TeD5+R5hqM5DNvfFDhbkVL3a88DukrbAdbNSsrK4qgwGz2ahAYqsgerVc/oRE4d8tFIlwnE4R95AOxU07cGjL8xEqWWgJiBzbHo7uwGJ+iE+DXrxbRNTAk18pEGhDXDsBOVOhiP6aGGJRhmeuUy2zvikCfs/AlF5sqEWkapXzCyVe+AKntuH1hLY8L8C4GhyToWZN7C2Emq0QSHPstStIB7NmhIMzAhiqXH+UX5lpkubsHmmnHvjQfmAFeR5z5Cy0Y=;/7kLd/zdh6xuj8BFHD6F0A=="
 ---

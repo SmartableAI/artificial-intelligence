@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-09-this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though.md",
+      "title": "This AI crunched the numbers to make the perfect TikTok song — but is it though??",
+      "excerpt": "Musiio, a startup that uses AI to scan, tag, and categorize music, has deployed its tools to craft the perfect TikTok hit.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Screenshot-2020-09-09-at-12.13.58.png",
+          "width": 1398,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
+      "publishedDateTime": "2020-09-09T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-us-air-force-tests-unstoppable-robot-dogs-to-defend-bases.md",
+      "title": "US Air Force tests ‘unstoppable’ robot dogs to defend bases",
+      "excerpt": "The US Air Force has drafted creepy, faceless robot dogs to prepare for combat. The futuristic four-legged friends were deployed to Nellis Air Force Base in Nevada last week as part of a security",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
+      "originalUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/air-force-34.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
+      "publishedDateTime": "2020-09-09T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
       "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
       "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
@@ -336,38 +467,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-docebo-to-power-aws-training-and-certification-offerings.md",
-      "title": "Docebo to Power AWS Training and Certification Offerings",
-      "excerpt": "TORONTO — Docebo Inc. (TSX:DCBO) (“Docebo” or the “Company”), a leading artificial intelligence (AI)-powered learning platform, today announced that Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
-      "originalUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
-      "cdnAmpWebUrl": "https://www-chathamdailynews-ca.cdn.ampproject.org/c/s/www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
-      "publishedDateTime": "2020-09-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chatham Daily News",
-        "domain": "chathamdailynews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-a-robot-wrote-this-entire-article-are-you-scared-yet-human.md",
       "title": "A robot wrote this entire article. Are you scared yet, human?",
       "excerpt": "I am not a human. I am a robot ... has warned that AI could “spell the end of the human race.” I am here to convince you not to worry. Artificial Intelligence will not destroy humans. Believe me.”The prompts were written by the Guardian, and fed ...",
@@ -465,7 +564,7 @@
       "webUrl": "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/",
       "originalUrl": "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1057,97 +1156,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors.md",
-      "title": "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors",
-      "excerpt": "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp",
-      "publishedDateTime": "2020-09-08T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype.md",
-      "title": "The Guardian’s GPT-3-generated article is everything wrong with AI media hype",
-      "excerpt": "The Guardian today published an article purportedly written \"entirely\" by OpenAI's GPT-3. But the the newspaper's grand claims aren't all they seem.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-08T154853.607-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
-      "publishedDateTime": "2020-09-08T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

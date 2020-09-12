@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition"
+    excerpt: "Dana Deasy, the Defense Department’s chief information officer, delivered remarks at the DOD's Artificial Intelligence Symposium and Exposition."
+    publishedDateTime: 2020-09-12T18:58:00Z
+    webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-dod-artificial-intelligence-symposium-and-exposition/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Secretary of Defense Remarks for DOD Artificial Intelligence Symposium and Exposition"
     excerpt: "Defense Secretary Dr. Mark T. Esper provided lunchtime keynote remarks at the virtual 2020 Department of Defense Artificial Intelligence Symposium and Exposition."
     publishedDateTime: 2020-09-09T16:23:00Z

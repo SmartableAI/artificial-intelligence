@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250</loc>
+    <lastmod>2020-09-12T12:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09</loc>
+    <lastmod>2020-09-12T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html</loc>
     <lastmod>2020-09-12T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,8 +139,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
-    <lastmod>2020-09-10T16:26:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09</loc>
+    <lastmod>2020-09-10T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -493,12 +511,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f</loc>
-    <lastmod>2020-09-09T04:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3</loc>
     <lastmod>2020-09-09T03:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -769,7 +781,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408</loc>
+    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/</loc>
     <lastmod>2020-09-07T04:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1933,8 +1945,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3619,14 +3631,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
-    <lastmod>2020-08-22T23:06:00-07:00</lastmod>
+    <loc>https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html</loc>
+    <lastmod>2020-08-23T01:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html</loc>
-    <lastmod>2020-08-22T14:09:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/</loc>
+    <lastmod>2020-08-22T23:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

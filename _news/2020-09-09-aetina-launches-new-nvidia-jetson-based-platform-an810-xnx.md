@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded-computing.com/news/aetina-launches-new-nvidia
 webUrl: "https://www.embedded-computing.com/news/aetina-launches-new-nvidia-jetson-based-platform-an810-xnx"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aetina Launch New NVIDIA Jetson-based Platform AN810-XNX"
-    excerpt: "Aetina Corporation, the provider of high-performance GPGPU and edge AI computing solutions, announced the new AN810-XNX edge AI computer leveraging powerful capabilities of the NVIDIA® Jetson Xavier™ NX."
-    publishedDateTime: 2020-09-08T03:00:00Z
-    webUrl: "https://apnews.com/0368e850fd47ad87b6c89db5fa2a8f7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Aetina Corporation: Aetina Launch New NVIDIA Jetson-based Platform AN810-XNX"
     excerpt: "Aetina Corporation, the provider of high-performance GPGPU and edge AI computing solutions, announced the new AN810-XNX edge AI computer leveraging"
     publishedDateTime: 2020-09-08T03:05:00Z

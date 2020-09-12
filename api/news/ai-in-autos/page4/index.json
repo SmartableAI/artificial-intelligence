@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-06-why-elon-musk-is-wrong-about-level-5-self-driving-cars.md",
+      "title": "Why Elon Musk is wrong about Level 5 self-driving cars",
+      "excerpt": "I’m extremely confident that level 5 [self-driving cars] or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a video message to the World Artificial Intelligence Conference in Shanghai earlier this month.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-3-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/",
+      "publishedDateTime": "2020-08-06T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
       "title": "Why organizations might want to design and train less-than-perfect AI",
       "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
@@ -1251,56 +1301,6 @@
         "name": "Labroots",
         "domain": "labroots.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
-      "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
-      "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "publishedDateTime": "2020-07-21T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

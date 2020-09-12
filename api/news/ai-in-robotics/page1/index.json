@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
+      "title": "New age revolutionised by AI, 5G communication, robotics",
+      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "publishedDateTime": "2020-09-12T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
       "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
       "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
@@ -628,7 +669,7 @@
       "webUrl": "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/",
       "originalUrl": "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1247,56 +1288,6 @@
         "name": "TODAY",
         "domain": "today.ng",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
-      "title": "Using robotics and immersive technologies to support work-from-home employees",
-      "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
-      "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/remote_worker_working_from_home_self_employed_contractor_freelancer_digital_nomad_by_allensima_gettyimages-1151404751_2400x1600-100853245-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
-      "publishedDateTime": "2020-09-03T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "Tesla’s new $8,000 self-driving upgrade is kinda garbage, according to Consumer Reports"
+    excerpt: "At that time, he was testing Tesla’s latest build of its self-driving system. Today, that very same system is available as an upgrade for $8,000. However, what’s regarded as a full self-driving system seems to fall short on its promise."
+    publishedDateTime: 2020-09-09T19:28:00Z
+    webUrl: "https://knowtechie.com/teslas-new-8000-upgrade-and-its-promise-to-deliver-full-self-driving-capability/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 31
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/02/tesla-model-3-main-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "/altU78QFYZAE2aTZ1/JQHrcZc34syMlLGnykngx5cxzNPDdN+hPaMmcLxiMagbH6Gd/HPxuFEex06I+qkMxQrFsAHL7W6ox4izAOoHN1kNzWpahsXKxCNuWjWNswvfOggXbs7FJyJzbyhVxtGBLTeAVY3Mei0Peu0/1YMcwxiyxneSODCC+7NiDzwFw0e+VfKomeFJr7a4mPOS4/VUOl2XKJw/iSE7rYxB4IuVeDLXo+TkosQ4VUyI2RUtMtJ8MjwZAetPd3XKeaAqfxLPIi4dtZv0ZtaEN4Q9JhSf//tegVRfh+1Y9T4zdQxtfrWueKsg5yK090+a4ggxEeeLhQwuvJSAh4EigIP+CK958+C3AheKEUlKuvTEnQI5TjAjJ9CdKQwrSMNtcVyww7J6Gl1miVHOJNsb32WSa62X6Qd3Zq1/DuxCKr2Nhfv8l3GEDxQKE4T02wrkVG8uUEQIJ+lH+QTNUEbWzwJU2/zLmlf69hxHZTp6xapJxNYqEvN2IZqnrJHv7NA8OTRX7cJEopUKCgMCPEmo3nXNiXbw6b6w=;q2ZEsNDmQLijoZR9O1qiRA=="
 ---

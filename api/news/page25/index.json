@@ -2,6 +2,97 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
+      "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
+      "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.md",
+      "title": "Moravian Academy junior is helping harness artificial intelligence to spot COVID-19",
+      "excerpt": "The teenager from Allentown is working with a Texas company to help speed diagnoses of the coronavirus illness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "originalUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GUA32VEINVBNXI4NNEZKMB77CA.jpg",
+          "width": 1899,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "publishedDateTime": "2020-08-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace.md",
       "title": "Is AI A Force For Good? Interview With Branka Panic, Founder And Executive Director At AI For Peace",
       "excerpt": "When creating AI systems organizations should also consider the ethical and moral implications to make sure that AI is being created for good intentions.",
@@ -142,6 +233,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-23-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook wants to help build AI that can remember everything for you",
+      "excerpt": "(CNN)— On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html",
+      "originalUrl": "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/08/02/Facebook-dark_CNNPH.png/jcr:content/Facebook-dark_CNNPH.png",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-23T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN Philippines",
+        "domain": "cnnphilippines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early.md",
       "title": "First Woman Director At MIT CS AI Lab: “Want More Women In STEM? Inspire Them Early.”",
       "excerpt": "To solve the gender inequality in technical roles, we need to kickstart our efforts in college or even high school. Daniela Rus, the first female director of MIT CSAIL (CS AI Lab) and the co-founders of STEMM.",
@@ -187,47 +319,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
-      "title": "Facebook wants to help build AI that can remember everything for you",
-      "excerpt": "On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/8/9d/89d555a2-1111-595a-82f7-4835172843b6/5f4185c87775a.image.jpg?resize=1047%2C630",
-          "width": 1047,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-22T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1027,79 +1118,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good.md",
-      "title": "'Mum told me to give back to the community': the young Australian creating robots for good",
-      "excerpt": "Cheng co-developed an object recognition app, Aipoly Vision, that relays detailed information via text or voice about whatever the phone is pointed at – from the colour of a shirt (it can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "originalUrl": "https://www.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "publishedDateTime": "2020-08-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
-      "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
-      "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "originalUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "publishedDateTime": "2020-08-21T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cognitive Computing and AI change the way knowledge management is done"
-excerpt: "A new era of cognitive computing is unfolding and its impact is already being felt across industries, from preventative maintenance at manufacturing plants to patient diagnoses at hospitals. It also drives the rise of sophisticated chatbots ready to assist us across the connected world."
-publishedDateTime: 2020-09-11T18:44:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142813"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142813"
+excerpt: "and generate language better than through human effort alone, she said. Linguistic AI powers solutions for content transformation such as enterprise machine translation. Northern Light uses Latent Semantic Indexing to model user interests and find ..."
+publishedDateTime: 2020-09-11T18:48:00Z
+originalUrl: "https://www.kmworld.com/Articles/News/News/Cognitive-Computing-and-AI-change-the-way-knowledge-management-is-done-142813.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Cognitive-Computing-and-AI-change-the-way-knowledge-management-is-done-142813.aspx"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 594
     isCached: true
 
-secured: "heotBArlXAx3z+XMuSzVayHbay6edp7su7WIFl9gxmZgRaUc5j7h8Qy5DVrYLlijt1BCF+xzA9BbB3/4WkeUdw01lsJ3YPhWzBdjn2JSPvPINo/74CE//RHbFrb10vpRlc16zDFJBh8+1RGeum0NadecEXdU6aSJVq0lPNVdZIWTQbcFij/GFiEM45F3088NsHFanTLO1jtQ+XawteuAD35baeKNksPN2/rqLA2yrOmcQ8wlojMElkb5op9wFdRhmnPtcY9S6RcISA3Tki//5u3IhqhYyT1KkZWAqwtzaHzZoCcJJtwuW/UahWxP6XSSMpXyJQai3tdiXVMF/vMIuKMZ7tyKuTK1w1lHTqdJ6Hg=;iLRIapEZRtnK1OE8FcWg0A=="
+secured: "cwAN9mdRXkJinKsdWPWvqn5vixiG95+I+fdS66j2vgzmZ2ZIBRSdRDQOMHYAc9Gyfv+UXZSE1spvYDI38zB3/gX8eFs0PCi/YVc73wgsNvXA9hixffaDGWUCZHxheLZzQ6lz/iDp/nFM2BhkRYiLVhGCj4HlE2E2371Aauh8UGl8do1M2/KOTBpPvzQ6V961O4ECXgpxKt7Dr0jDNs7jD4k8+XQKloIwCEINE/8aEmOsPEoIb7Brq6O7kDrYgHgeq64YeFh80ioBt2dS3xdNicQZIzRD9MrP+VMDkcO4JeRqbX/QtKt8Fbnd/qFCIDJJ/o4kuzurxjzgO17eC8u6vhB1s9zacA8NuPCPhIlve+Y=;4u1gGFzWEBUccB/WtcpDxw=="
 ---
 

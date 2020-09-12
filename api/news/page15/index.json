@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-31-adoption-of-technologies-like-ai-ml-by-the-insurance-sector.md",
+      "title": "Adoption Of Technologies Like AI, ML By the Insurance Sector",
+      "excerpt": "While businesses across sectors are embracing technology-enabled solutions, technological innovation continues to outpace technological adoption",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/355541",
+      "originalUrl": "https://www.entrepreneur.com/article/355541",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1598881319-artificial-intelligence-3382507-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355541",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355541",
+      "publishedDateTime": "2020-08-31T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-get-smart-ai-and-the-energy-sector-revolution.md",
+      "title": "Get Smart: AI And The Energy Sector Revolution",
+      "excerpt": "Artificial intelligence is about to trigger explosive changes in our lives, work, and leisure -- this is especially true in the data-driven energy sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cf5921f44579be66a2da2%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/amp/",
+      "publishedDateTime": "2020-08-31T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes.md",
       "title": "Microsoft Azure now available at Swisscom cloud portfolio for SMEs",
       "excerpt": "(PRESS RELEASE) BERN, 31-Aug-2020 — /EuropaWire/ — Swisscom (SWX: SCMN), a major telecommunications provider in Switzerland majority owned by the Swiss Go",
@@ -1068,105 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-chinas-new-ai-trade-rules-could-hamper-a-tiktok-sale.md",
-      "title": "China's new AI trade rules could hamper a TikTok sale",
-      "excerpt": "The Wall Street Journal reports that China has unveiled new restrictions on AI technology exports that could affect TikTok. The new rules bar the exports of tech like content suggestions, text analysis and voice recognition unless a company receives a license — technology TikTok uses in some cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "originalUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F42864630-dc4d-11ea-b7f7-87020bf464f2&client=amp-blogside-v2&signature=5e113a2016f80a0bb00111527d139e0e2c2b39a6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
-      "publishedDateTime": "2020-08-29T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-how-to-tell-if-computer-vision-can-transform-your-business.md",
-      "title": "How to tell if computer vision can transform your business",
-      "excerpt": "As computer vision proliferate across new sectors, business leaders should be assessing how it could impact the trajectory of their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
-      "originalUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
-      "publishedDateTime": "2020-08-29T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Tesla’s new $8,000 self-driving upgrade is kinda garbage, according to Consumer Reports"
+    excerpt: "At that time, he was testing Tesla’s latest build of its self-driving system. Today, that very same system is available as an upgrade for $8,000. However, what’s regarded as a full self-driving system seems to fall short on its promise."
+    publishedDateTime: 2020-09-09T19:28:00Z
+    webUrl: "https://knowtechie.com/teslas-new-8000-upgrade-and-its-promise-to-deliver-full-self-driving-capability/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 31
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/02/tesla-model-3-main-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "MU6n1jBvsLMBCKQofmUZ77d3ofPvwIE5BFEzqJ1eDG8jrOHHSeX8PLLfNviy3SZ8/Es+h8XTXtKET2ZaF3O9VY12ivmmQgjGLBjB1mYyOEv86czIO04jEMCGSdiRqrtb3cKhnEuJBmPjS53GyP1p7sJb5idS3yRKVTEcuXXUsl+W53G9w8jFIHbK4oQsNQFvyVNucTTzEOQui0KJytZFlpfysAQ+fBJkSrDuUNQTYSoHSemLT7GCAWBTsZODpnFPzy5Q81qbh+JB/hLbQdbWwkcnBzljfZhF9WOCSGJw7JAM3Jf2w1qUeQsfGtHO01/7oZm32d0FsVtQI/st0Fv8Ix9UPKgj34mjbkBo52GiAf3zRv+RHGqOei5KdoRSJaN7TkmS111IJBdeKEUwxEW2szwHzx9Is2rMp1gmwVuXQeuTLx4YwzlHIxPsdqYbgwEVXX9jVtp0oAZfTtKZV8sXoSrsloADdCvIhKx+8kMwy098mqSk2j6rVJBkwqkTx1e+f6d3aCTzsnp7mp89XZ2ehsw5JlcNy9iCw66AzBZ/MtQ=;yBTErFjD1x2a+55WuKXa7A=="
 ---

@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Talking Robots could be used in UK care homes to ease loneliness and improve mental health"
-    excerpt: "Robots could be used in care homes after a study found they can improve mental health and have the potential to reduce loneliness in vulnerable older people."
-    publishedDateTime: 2020-09-08T02:27:00Z
-    webUrl: "https://www.manxradio.com/news/uk-news/talking-robots-could-be-used-in-uk-care-homes-to-ease-loneliness-and-improve-mental-health/"
-    type: article
-    provider:
-      name: Manx Radio
-      domain: manxradio.com
-    quality: 29
-    images:
-      - url: "https://e3.365dm.com/20/09/640x380/skynews-pepper-robot-care-home_5090092.jpg?20200908015116"
-        width: 640
-        height: 380
-        isCached: true
 
 secured: "BhWBC38TbXQru2GNEYQZw/t6cF2NZROK2/TL7RZ40iQ8I3LMc0UIZ2u1kjs9sN4w3vUCbNLKlAhwR3JgsIZ8pEuG6KgLbUxc3HIFGyq3LWLOGtC0R4QSjSQHiIKWlXI8mHdCCYDVEcy8DZ3OeH83H10BTknVnFd3sgR57CA+DoHGW5U09kSHdZ5/E9KF2VAwAqe13Hylasyx1q7dmq+yXym06zZ/6WhxyQhm5f/eynE23/OWy0Iq4p7aMNnfBqfR0IqElAe6t3F7TRkAwUKBVRpgqAuwFV/InaYaAvu+vtJTuY6Y002jY3z7MeqPmxJ0l04FjEZ5tzl4KgjZXWuExzoBCdoQ4+J/t76i87UZN9E=;anGxgr2MiPEVxVUYHs3y9w=="
 ---

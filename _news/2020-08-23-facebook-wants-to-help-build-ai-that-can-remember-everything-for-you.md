@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facebook wants to help build AI that can remember everything for you"
-excerpt: "On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ..."
-publishedDateTime: 2020-08-22T21:09:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_14cd9453-b874-538b-a49d-17ace396180c.html"
+excerpt: "(CNN)— On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ..."
+publishedDateTime: 2020-08-23T08:23:00Z
+originalUrl: "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html"
+webUrl: "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html"
 type: article
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: CNN Philippines
+  domain: cnnphilippines.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/8/9d/89d555a2-1111-595a-82f7-4835172843b6/5f4185c87775a.image.jpg?resize=1047%2C630"
-    width: 1047
-    height: 630
+  - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/08/02/Facebook-dark_CNNPH.png/jcr:content/Facebook-dark_CNNPH.png"
+    width: 750
+    height: 450
     isCached: true
 
-secured: "lcqFaxClrtjG7lEmi/gJrGzfLGRXZ8dqe8tqymGzUTzg2F6KkIZcVMlI7i1jfUzDTnbqPqDAMw6moAS2KCeQO2Rgtb76J+MB6YICa1HGoNQjhdGcvYmols4ZSSqRfeq5c4pY5ayunkqFal877LyqDzB1kppho6c3TRykaf8n54xj2KhlnaaU4TPrpbKBfJT2MxoSxpyk2bsWRs+gP62hzBnM8BI9JAhtiy5weXE563p8i/xEqeg5n6kjSxKMkYkSaFZN+vPnrxPeEpS51RmD7YoAdQcg0dp3KY1D0Av124QiDAxxnTrKmMWQB6rhI5ZDo9G8JzgW+R55YZLU5pD3bB5clDuOvtNuC1syFdQbmXA=;2xVrjf91mqRUkBYCfNXGRg=="
+secured: "hz1IuZm6/hybuQp6c67OLR56HgSgY2GLaVjZByoE2dDyYqRZiaOxpbZ51t60XxXpg8rOVLGxj6llmTFDSTP49FED+R/tY+Rsx27VcPobkVBmTO7rdL8nljUN71oOOdH+L3J+NkfSBTXnwn9v6bAijuYjKCGyBdks41lPakYxbjVi4V2te0tKbg5SXSk3CdWdUSs9AKx6tr9s6aht7nJUWHBTsjyyy5RK7dCqOkW6oF2RhRk3hEZ3Pe867u0tjHnS5+XyIXSpPbNPvSgPCN+wab2pkKpIu4swtcOiIL66uKJ6w+7z9DxJ2WxU4t1Uz0zdFeWbmpSNjgzjvbK7B7xkuE9FPKHOLA+CtaebFmoldVo=;vdY7aPoT/V4zv/vfYn1PGg=="
 ---
 
