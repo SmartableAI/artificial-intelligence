@@ -73,6 +73,20 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
+    excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
+    publishedDateTime: 2020-09-11T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-car-market-self-driving-vehicle-start-up-argo-ai-stands-at-75-billion-is-developing-virtual-driver-system-for-ford-2020-09-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Even self-driving cars need driver education"
     excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
     publishedDateTime: 2020-09-12T04:38:00Z

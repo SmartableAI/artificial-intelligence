@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar240
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -162,6 +162,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
         width: 810
         height: 539
+        isCached: true
+  - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
+    excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
+    publishedDateTime: 2020-09-12T16:01:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 58
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
     excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"

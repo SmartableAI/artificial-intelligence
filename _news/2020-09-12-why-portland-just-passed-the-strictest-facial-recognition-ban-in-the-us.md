@@ -1,33 +1,29 @@
 ---
 category: news
-title: "IBM says U.S. should adopt new export controls on facial recognition systems"
-excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
-publishedDateTime: 2020-09-11T12:19:00Z
-originalUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
-webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
+title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
+excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
+publishedDateTime: 2020-09-12T16:01:00Z
+originalUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
+webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
+ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
 type: article
-quality: 86
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Popular Mechanics
+  domain: popularmechanics.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
-    width: 818
-    height: 545
+  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-11T12:19:00Z
+    webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 818
+        height: 545
         isCached: true
   - title: "Portland bans use of facial recognition tech by government and private entities"
     excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
@@ -163,22 +175,6 @@ related:
         width: 810
         height: 539
         isCached: true
-  - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
-    excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
-    publishedDateTime: 2020-09-12T16:01:00Z
-    webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 58
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
     excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
     publishedDateTime: 2020-09-11T15:27:00Z
@@ -194,6 +190,6 @@ related:
         height: 675
         isCached: true
 
-secured: "guirBgGs/BVu/lDqWd9XeomI04Pb+EB1BED2u485P03pbYodksicvZu7LSKem6Jf1VRG7NNhImz52bvNMNgZUnHja3Z71eCJ1STU+HQQ5hdgYxFRBTVonMHSh7EPOmMwclQgUsZ4Gg1F63AyawX0Y91/vjsaH6A3uEN4FHsZ0tTHCerZg9aG4nReX1yVwq2n1Wg9/raA/YNoX7RvKgb+bQS51n/qsgCyBZZp4w5PTOhVKpE3GqehHDmeeB41xIB9HMoWdq8/DWDl7OtO/0/x5r9ugZgROy2FOO0lB3pXWpw6lq1ZbApn2wxwnXGmr6YRIHlahxcI0CEyfQ1i1QktwC2I6izYJAFLA70vobfkb2M=;35WeNo4OzTQWslMpM7abuA=="
+secured: "XzZZaXaOaJMi2N88ZuOuF1bR6Rt8abxNoYlgf8vcIxNtTRF9yZaZmnIkKbfAbk7A8WnY3uFOXkIlae+vXsBQjRcfTGAgBTSr53dmI0AYdeLvOoGv+DgKBwna3fvSKDa1jAwCX7DPdQxXW3EMjWkeSgE3Z1DxUdlR8HMXaoFpN9i0yKzBClpwLKYcTMRUPlkbT4/j0C1+qIxshZe/++T/jt0CmHx4h3ItCzWwrQI3fvdQANS5P15CjOXPtlohmkJJ1cPG4MWyn2s9FHCtZZyk3Lpnlbsjd2YNIbl6+n4okhBFWvTmTz3fAxc687++EvwUld2QMJiVcnMBRrBHyjqk5cZwofJC+J0mti6Pnjekg38=;3t1H4/DsHjpOFa/ZS1h4fw=="
 ---
 

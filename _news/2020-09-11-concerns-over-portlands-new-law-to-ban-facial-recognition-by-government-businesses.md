@@ -173,6 +173,22 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
+    excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
+    publishedDateTime: 2020-09-12T16:01:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 58
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Yqpyai79flAoyHewNGgQ5MajvcZUeuCpyT9YZQ1OraxFXw0QWbLMoBlemSQeeNFJUxe3+SKljAgucAf4IOw1H9bKJDMhzCbiVYj/gBhqxpO9Lba1xwPtQybmyqYA/maC6GYYxNHlrWKcywM5CJOEpKCNJpTP8T+uNu8OECClE+hne+RGUXKqL11vY/kuqFf6VgBJjrf7KRrGkLb21Fn1eTxbmyurbk7JjDPw3r0THddndSLonLexyDB+6bH7r2lL7Nj4VScFLHWGHScegXDML7i35UBrF/Av+8sre5qJ9sA3Lj1tbsKIbmI51eW/KLqCCuPQKKMq50vjmqNbUx4w/zE//KGop0r5ctYc6D9985+Lzb71+h4lWjjmwtxEb0cHpGzjzmESYuEGUn/F9StuKa3Y7E6zuomlqeTUmHfvxdMWrAdyh6lcoXSSfR9Q4mCtUmy14yiKj1ZT5lYGKBfDQoPpM3My6t9CN131U9/k2QJ3/S0l5EpKY3zicdr2QQVnacTYl903gAAtehpMQjBUvw==;kUvvhchD8mVzL0mwGdcGvg=="
 ---

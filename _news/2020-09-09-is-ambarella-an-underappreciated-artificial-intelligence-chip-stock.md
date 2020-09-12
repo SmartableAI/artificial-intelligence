@@ -8,9 +8,9 @@ webUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artifi
 ampWebUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 secured: "y+JIkFTh+/awRbc6DIVo1rfgRWj/lbMuQgKB9ihu3fmhHfvIfl4YlkerVT+mGpLgNOUZCtF5lHrQKUvg2v6dIw9Al9glF/J6T9CmfktAA7YwzJLV0TmYUwiurYEMpE1eXR13o3qWgEUQYTj/DAW1pCAOefedI9gJWC77CmCd2uBxP9/p7AWUP7zC+L22WHytX0/GnPdISTLn5uwYhKr6517BxkfQcCbN72S9oGQY6d+OYVqEv2lHlCphGz5rbFqZVjMEDuUXdbOWDwtqDIsZfAGsm/2xNl8/GAN5hyDXuMj5n95vOyGxYEGiUURe3ibpMWu7pKJz4vK1US8cTBEwRrbadt0Wd5RMyjut1HELd4yk2nVd4wPWXaALBq6GcJw9CIUs9/9o4YvMK0r1UjJbHdSJWDh9EMo+wsxRLph0HmPm6htJ3T+J39Lptxw9eth/2kF64E8UjAogDYiOh7Ndh+ng0fQsHFEP2nUkYWxGOtBa1J3EyosQWwh01tICRzo0OEuxNie901oPl5+HFIorXA==;v+GfVqYwj6Jxzs62Xc5w+w=="
 ---
