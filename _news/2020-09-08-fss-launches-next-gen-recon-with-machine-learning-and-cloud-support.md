@@ -21,17 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"
-    excerpt: "Customers are increasingly pivoting away from in-house payment reconciliation systems with semi-automated processes towards service-based ... on right technology like Machine learning, AI and cloud computing, banks and financial institutions will benefit ..."
-    publishedDateTime: 2020-09-07T12:59:00Z
-    webUrl: "https://www.businesswireindia.com/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-69404.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 4
-
 secured: "4gGVK/0oMQLgc2EPxZwu8/L5bjvoX9ho1Fr7E0kALS7hRSo0TMdXmZeSvRWB7Ao0x21d5IwAqDdCQgGf96ZhNBl3JtnEOi0NtONWkofcP4V0/kQHhYZ51Ql9a7iFu69UXlVddyfRxm4QJjykZ0NqP1rA5FBcgQdiL8AT8jOPux0mF35UVkqaRjN2evguQFbmMie4SaHm12jgJznDoMuF5WbU78Q2Ybw6lpF0YYgnYgHHIu51zvDhBtQfnjf/hOWWqOKrUTZ3Ze6YTwW/s2SLyk7Py0eKHz1jHxWrDpiSSFPiIjdkR9oClC8B2g2kWUVVhdnpwsTB70Q0N6EvIryjIH9+S0cgc4jlLEYl0DmYmno=;smCCYYaeBX94ISgHackSFw=="
 ---
 

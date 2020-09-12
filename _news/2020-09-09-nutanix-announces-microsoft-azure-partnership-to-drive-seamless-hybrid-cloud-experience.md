@@ -57,20 +57,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-    publishedDateTime: 2020-09-07T11:19:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 58
-    images:
-      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z

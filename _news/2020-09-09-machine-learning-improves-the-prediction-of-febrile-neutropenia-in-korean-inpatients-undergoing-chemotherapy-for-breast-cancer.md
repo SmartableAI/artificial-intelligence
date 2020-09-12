@@ -3,8 +3,8 @@ category: news
 title: "Machine learning improves the prediction of febrile neutropenia in Korean inpatients undergoing chemotherapy for breast cancer"
 excerpt: "Febrile neutropenia (FN) is one of the most concerning complications of chemotherapy, and its prediction remains difficult. This study aimed to reveal the risk factors for and build the prediction models of FN using machine learning algorithms."
 publishedDateTime: 2020-09-09T09:17:00Z
-originalUrl: "https://www.nature.com/articles/s41598-020-71927-6"
-webUrl: "https://www.nature.com/articles/s41598-020-71927-6"
+originalUrl: "https://www.nature.com/articles/s41598-020-71927-6?error=cookies_not_supported&code=fbaadfae-6fa7-48d9-b0ef-bf27a7c509e7"
+webUrl: "https://www.nature.com/articles/s41598-020-71927-6?error=cookies_not_supported&code=fbaadfae-6fa7-48d9-b0ef-bf27a7c509e7"
 type: article
 quality: 11
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-71927-6/MediaObjects/41598_2020_71927_Fig1_HTML.png"
-    width: 685
-    height: 692
+  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-71927-6/MediaObjects/41598_2020_71927_Fig1_HTML.png"
+    width: 677
+    height: 685
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 598
         isCached: true
 
-secured: "GifikCTb1MBHktmdVhrsQ1YbFfSJyLh9ezkN7qdo0sGJ8eA767ysU2gjFVASgvOjkkCOMLTbq0vvJdRxRDE3Sl0HuYgMLIR9ah8kdjaD47WWbrpPuUE4JRTp4PMsQi7J0au+OMBhPrX6KUBms9R5QMqCN3vXoO1ru8dP5+Dqc7ZPl6ELHPm6ZUeoBRrrMn6PCzFKbaCrQRJw1MueqiL1tl32P9dN7vcQb3JnGPy//r51dtuwSQq23Jy1dz8vkZtOftXEY+WLhsAiL3Cz7TnWvxebgNoExGzF5Wvxnnt704Kn72xiA6emvoVl7pvJtasglgqhpSzu20Vyxih7ovLXAEL/cbxFMtyyxVUKhtklYmU=;dB/4Yal3KjUsKDRPU2KBNw=="
+secured: "KSBNSHYsNYY6VNOzIStXsrkaAl/4V7I+bvx9OafcQyeRR9PPVRFYc9pXHNhnWyGV1YjQB7cOYNlJa7UpL5SdWgWQDP/44c4Vr9UkymPbqByhDd8BnipZHjISqQlrcQGuHZmn1efCwbGcqG0eA/i0q6UNaffA8lSPFKJp3MbmnNQ9TmZVmS6TstqFvNBd9vTuuP367Ak/lFLQC2EAPRlt0CZCTRjjRyJV0VVyNRkYsBpwAtsUJdhtsxYTFNIYS9LKh7IH8XJ9PxtwCbCU0yMW0HlSVlGfUl8Lj1k/GzmDySwA60k/9wJIv2Ahst+PTyD1A/hr76tI0QxtQfVoLLet9RDAhyikzkUe2TjkHcpb7S4=;mPzs8+QavQsi3xrIY/HPFQ=="
 ---
 

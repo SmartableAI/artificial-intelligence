@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ZDNet
@@ -36,6 +36,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 36
+  - title: "Even self-driving cars need driver education"
+    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
+    publishedDateTime: 2020-09-12T04:38:00Z
+    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
+    type: article
+    provider:
+      name: WHAT HAS
+      domain: theindependent.sg
+    quality: 24
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
+        width: 496
+        height: 372
+        isCached: true
 
 secured: "GGyYGRXawGSfB1+Ysgk1o9cVpQ7rgHO48PO9Wu8EhQwyngrmqVsJew7rpYlyuS6m37kukhIE29zFVOQSIRpC3ZYjQ8hUhKDIWteGYx/+WJl0/xbIcU/CxZhu5ilj9FePUtnuQuyCnB8Mc4JK+vd/cjDhsQrgySndoZxwupGMW0sgD7gXLG7YqsdBFAPJ2XzodgJ5g9C+U8F7NW/mflm4x2mKJ0BE2Q1GhGrIT3F6mij9fMHSERUlmpqOcSoQS8JnDF/zByK8jzFM2v0xCmrah0mFBxKL3K0oQy5Te3kF6EgU1OnaHyjr3e0VgyO4HW4GWwunuVmyqSWdV+FB4ycSzMF/fSfejU8d++PnQOVhVEdpcFRMu3zUmQbUOaymaLeYFcwYGTATeFPwKp6WssCL8tyhYEtFxRdkkcF3TTzqx96u2wzThB5RlW8fBDgwzRR05wuuetSgk2nkY8SNBXOK/42AH07K3sutI/INFC6QIkL0lcHLxgGEXpLXi0kWVgq+OTHuDG01OO5V22oyrBKd2de7EuU2m/doX+U+OHz0whg=;jRtRTxRHD+rq9i+U79aw8A=="
 ---

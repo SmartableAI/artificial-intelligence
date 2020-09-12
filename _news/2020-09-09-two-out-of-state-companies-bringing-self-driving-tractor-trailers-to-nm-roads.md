@@ -32,6 +32,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Even self-driving cars need driver education"
+    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
+    publishedDateTime: 2020-09-12T04:38:00Z
+    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
+    type: article
+    provider:
+      name: WHAT HAS
+      domain: theindependent.sg
+    quality: 24
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
+        width: 496
+        height: 372
+        isCached: true
 
 secured: "pZrU5DGAoFTB4nmDy4SP1T1gGKLLcmiV3tCDSAHE/rSMhX8o0Pyi7aKVokAuqIZAPD/2oPm2+I4c4W/uv8/pR0W+dswgIeeWBSRcYXzoJujgr1FiKyFtxJa5sCAU9ixpLxRdiBYUiqBbppmRACzMqZPoWi3xZvEYFkmVobzeJ8zXtis3NJDjjnL+m+/Pe0AE9foWY96RX4cbdBoVK1HNw30wQBmQQiYVAsOVSLtRnD/vjRs8v6jXzq+c6d4RngPup78jYHS7DZLHkMOk4uMtWU+ox16IqCfhnZd2y3kZ/vs5cFfPzzFBAZf7ERoAnzRJ93qkRhpze+PIx/wumID3kdQ9yNeBR6E0hgCZsjKFG8VnJ2VkqnEvB0XXZE6s8/0YsVkDnl9V9yljQqw/hICN/dpAVQ0cIrJ0SQAfd43VV1f3dNS0HZjQsh36ZBwxwnzmB7X2ResR0D3RGBI80KOERN5zPyC5afFnBbSK8nd3hoMMb9an8tpimlPtT02Y+YKk5N8DGNQaZcSkCCQ2d0YzgS9LT/dMe5Gk5aJeP26ABSY=;3hcziY1OMlftJwNiPT4Bbw=="
 ---

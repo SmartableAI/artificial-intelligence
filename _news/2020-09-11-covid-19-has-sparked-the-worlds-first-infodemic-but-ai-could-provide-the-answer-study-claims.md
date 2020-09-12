@@ -30,7 +30,7 @@ related:
   - title: "Coronavirus led to world's first 'infodemic,' but AI could be answer"
     excerpt: "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies."
     publishedDateTime: 2020-09-11T16:00:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
     ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
     type: article
@@ -44,6 +44,6 @@ related:
         height: 382
         isCached: true
 
-secured: "eEVqUVnI5fJm08BqKOv0BBkMJyiO0L7KOQ1k6IaXHkYXS5LzADTdplQNwKZcltsl3RHOmnjLoN3PsqqrUamLgE30pZhMADt6q/BXUCrGZdJt6+y40o0vG+Irv6qXKJLl2dAnPI2R7INEYTcp8qhXC2qQCV+7xE32Cz5+3VHjSYKxKjVjMFyijDq77xFmaw15V9vidw0A0g7JeO+2/I8qkj909T++WQk4v4aOoDUFVRTE7HKcmOSh50fENSgAbTPs3kJO6RIbhMWIoI10JNk3/aMN2OQf9cDJY9s/8+v1WBgh7Qm0iC2oePODWJafYQ+4Au1maOEMTEIEEutcNly6N+8n5/gdry4LwfPnT/z/woE=;5GFEdWxJ+vHiSg3MOhVErg=="
+secured: "5CyMjTDqYsi0kLKlu2/ltSXgqTq2X3pEv21RLSj0AokCfxHGLqqNVjJyaF+2IhQq9cTexvCMN8lNEpvvStC6lb0HJYKoRbClCfu8pAYpfMkxTYGrsMdxiw9wuXoQgz3TWTRaWDomfCca4J6YcJSXSNGWGQ3fFLaTsPxNWMdO4pCrr7qiwuX4LKE+X6sD+Ztkog3/SERvRQQNCHfCkf6RPFNHucPLLsxgaFDzaR7PSb1Yox7TwClea9iaP96wrK/WQqFBXD302GRdIrEkcTisin2jdxC8IpwtmjZiFnCc0747OswoSKO3Vk1nDLlkohwJI4aZ3l3gu3PckWHJX7pGejlSej1JLH4mD3NYjZV/t5tnMpIJzHXxr2mdS+soriOByfSgybptF485jC+39yQzNYPKi7+x1DRferd6ed3QRbp4YpLsT6Ju2cNMTG5ZQlOic1x5aHyJlVAIiVWX/MY0d92wBnnjma8RiS8Lf44/BqfYyOBgwKDDfDMdRQvrArmljB3hJTeCvha42Bd8urSDMw==;yg47bA/dmDfyCnQUrgwrLQ=="
 ---
 

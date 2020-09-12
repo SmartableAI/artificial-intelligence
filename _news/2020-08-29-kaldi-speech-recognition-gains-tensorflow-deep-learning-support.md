@@ -19,6 +19,7 @@ topics:
   - Machine Learning
   - AI
   - Google AI
+  - TensorFlow
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg"
