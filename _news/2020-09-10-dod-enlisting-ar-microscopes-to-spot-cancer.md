@@ -3,8 +3,8 @@ category: news
 title: "DOD enlisting AR microscopes to spot cancer"
 excerpt: "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses."
 publishedDateTime: 2020-09-09T21:31:00Z
-originalUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech"
-webUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech"
+originalUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx"
+webUrl: "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 368
     isCached: true
 
-secured: "XKMJiox7PkA0aNGnlPAnA+ZH6jUhuTeW6CtZqkPutQFRDxihLX8F5LhXzw8fCEmLabBtuIaoX0ziboxBOKXc8ylSWar/JjDP0+ffmNjv+MS+7yFriGLa4UZkCxWdn9KW7qKPw1DLde4IYg+OstIRk/XTH8MMg5fzX47GLMesDWnC6S/O38rHqva2PATsokikTmkGW3R665vavU8AjOBJHnpVkaxN8rtHgRr3IDQiuOKcsZi8UPG9foZ3zcNTk8OJuEJh2sRABOXIRnQ1jCXpa4eYy7QOsfKjmsLPxph+lpY90+JG61lE/9Z2+eOtbj659zi+29cFa3oy3vbyFOcgqvJDXjxrTDO1STSz2domLM0=;z2raL+n0mnjlARu7EBkfsA=="
+secured: "SoJ5reVBJVpnxN6bCip6R9+Ig1X8hcnxLyjTNr/4u5muI9I46/TvePWprfyn8OAO3nKJG2iR1hWJWTpcT1dqMwC0o6QK6H16IQmtKXz+2pmHuOz/i800H1u62yrn6lsqVaISCAPPP9erP3fa8ygVRxfgqUm170LXIPp8B94Kkkl1He+RPYmrgYxSNufn8A69th7K5J6zuJ9pXFNwx+UwtitQfOmraJYCq1URw57q4sxU0Cx565i85H8nRwDy8nYc5KvwNXQuqovGR6nNieTQI+j7kYg+xH7PLZ8iwyJk9TZE/z+Dj2KSTTCk8h1RBZXvHqVe9VjpUgioN0YjTLf+pm/26VWpsqmmLF4TpGWwb/w=;NhBGJO8nhaQoJ1x3eb6aSw=="
 ---
 

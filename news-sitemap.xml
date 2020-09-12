@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/</loc>
+    <lastmod>2020-09-12T07:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/11/toucan-funding/</loc>
     <lastmod>2020-09-11T21:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -409,12 +415,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
     <lastmod>2020-09-09T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -633,12 +633,6 @@
   <url>
     <loc>https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market</loc>
     <lastmod>2020-09-08T04:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/</loc>
-    <lastmod>2020-09-08T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1813,12 +1807,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ktvz.com/lifestyle/technology/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T08:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1917,6 +1905,12 @@
   <url>
     <loc>https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/</loc>
     <lastmod>2020-09-01T02:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3289,8 +3283,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
-    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
+    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,56 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-08-27-how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19.md",
-      "title": "How machine learning is identifying and tracking pandemics like COVID-19",
-      "excerpt": "BlueDot's machine learning platform anticipates the spread and impact of over 150 different pathogens, toxins, and syndromes in near-real time.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1180187740.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/how-machine-learning-is-identifying-and-tracking-pandemics-like-covid-19/amp/",
-      "publishedDateTime": "2020-08-27T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-28-solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft.md",
       "title": "Solidus strike gold with €100m contract and partnership with Microsoft",
       "excerpt": "The World as we know it is forever and progressively evolving, and thus has become more reliant on technology for our day to day",
@@ -1118,6 +1068,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-smart-home-market-worth-144-billion-by-2025.md",
+      "title": "Smart Home Market Worth $144 Billion by 2025.",
+      "excerpt": "Smart home is a suitable home system where appliances and devices can be controlled remotely from any internet connected place in the world using a smartphone or any other networked devices The smart home system requires an interface application or",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
+      "originalUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T827953070_g.jpg",
+          "width": 600,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122412/smart-home-market-worth-144-billion-by-2025",
+      "publishedDateTime": "2020-08-27T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

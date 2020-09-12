@@ -2,47 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-08-29-lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china.md",
-      "title": "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China",
-      "excerpt": "(GLOBE NEWSWIRE) -- LexinFintech Holdings Ltd. (“Lexin”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
-      "originalUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-29T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
       "title": "Robot Boats Leave Autonomous Cars in Their Wake",
       "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
@@ -1167,6 +1126,37 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-ais-role-in-digital-transformation-for-financial-services.md",
+      "title": "AI's Role in Digital Transformation for Financial Services",
+      "excerpt": "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "originalUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
+      "publishedDateTime": "2020-08-28T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

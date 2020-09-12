@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-10-vibrosense-tracks-home-appliance-usage-via-deep-learning-and-lasers.md",
+      "title": "VibroSense tracks home appliance usage via deep learning and lasers",
+      "excerpt": "Advances in technology have made many household appliances more energy efficient, and even given outdated old ones some energy-saving smarts, but addressing the power usage of each individual device across the home is still a tall order.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
+      "originalUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1dcf0a2/2147483647/strip/true/crop/2000x1333+0+74/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2F53%2Fa0112d054ab18aca18b8bef4d205%2Fdepositphotos-42162953-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
+      "publishedDateTime": "2020-09-10T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-ignitarium-is-now-part-of-the-arm-ai-partner-program.md",
       "title": "Ignitarium is now part of the Arm AI Partner Program",
       "excerpt": "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need",
@@ -715,7 +765,7 @@
       "webUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
       "originalUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
       "featuredContent": null,
-      "heat": 73,
+      "heat": 90,
       "tags": null,
       "images": null,
       "type": "article",
@@ -744,7 +794,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -844,55 +895,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "publishedDateTime": "2020-09-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

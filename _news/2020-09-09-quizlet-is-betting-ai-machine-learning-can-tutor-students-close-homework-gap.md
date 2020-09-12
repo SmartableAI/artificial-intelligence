@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-ca
 ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 type: article
-quality: 63
-heat: 73
+quality: 80
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Quizlet Introduces New AI-Powered Learning Assistant to Streamline Studying"

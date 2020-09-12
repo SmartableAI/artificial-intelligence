@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-12-oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights.md",
+      "title": "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights",
+      "excerpt": "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/",
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ee4b99ee35cdd6fa3accd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2760%26cropY1%3D180%26cropY2%3D1734",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/",
+      "publishedDateTime": "2020-09-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service.md",
       "title": "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service",
       "excerpt": "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin",
@@ -173,47 +223,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-self-driving-indy-race-cars-to-compete-for-glory.md",
-      "title": "Self-driving Indy race cars to compete for glory",
-      "excerpt": "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/",
-      "publishedDateTime": "2020-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

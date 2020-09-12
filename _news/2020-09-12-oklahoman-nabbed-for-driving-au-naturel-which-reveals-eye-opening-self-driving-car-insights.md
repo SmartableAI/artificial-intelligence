@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Self-driving Indy race cars to compete for glory"
-excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
-publishedDateTime: 2020-09-08T11:00:00Z
-originalUrl: "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/"
-webUrl: "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
+title: "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights"
+excerpt: "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed."
+publishedDateTime: 2020-09-12T14:24:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 63
+heat: 103
+published: true
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,23 +24,24 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ee4b99ee35cdd6fa3accd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2760%26cropY1%3D180%26cropY2%3D1734"
+    width: 1200
+    height: 676
+    isCached: true
+
 related:
-  - title: "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights"
-    excerpt: "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed."
-    publishedDateTime: 2020-09-12T14:24:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
+  - title: "Self-driving Indy race cars to compete for glory"
+    excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
+    publishedDateTime: 2020-09-08T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ee4b99ee35cdd6fa3accd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2760%26cropY1%3D180%26cropY2%3D1734"
-        width: 1200
-        height: 676
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Automakers may be hyping self-driving cars, report warns"
     excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
     publishedDateTime: 2020-09-11T14:51:00Z
@@ -88,6 +89,6 @@ related:
         height: 372
         isCached: true
 
-secured: "GGyYGRXawGSfB1+Ysgk1o9cVpQ7rgHO48PO9Wu8EhQwyngrmqVsJew7rpYlyuS6m37kukhIE29zFVOQSIRpC3ZYjQ8hUhKDIWteGYx/+WJl0/xbIcU/CxZhu5ilj9FePUtnuQuyCnB8Mc4JK+vd/cjDhsQrgySndoZxwupGMW0sgD7gXLG7YqsdBFAPJ2XzodgJ5g9C+U8F7NW/mflm4x2mKJ0BE2Q1GhGrIT3F6mij9fMHSERUlmpqOcSoQS8JnDF/zByK8jzFM2v0xCmrah0mFBxKL3K0oQy5Te3kF6EgU1OnaHyjr3e0VgyO4HW4GWwunuVmyqSWdV+FB4ycSzMF/fSfejU8d++PnQOVhVEdpcFRMu3zUmQbUOaymaLeYFcwYGTATeFPwKp6WssCL8tyhYEtFxRdkkcF3TTzqx96u2wzThB5RlW8fBDgwzRR05wuuetSgk2nkY8SNBXOK/42AH07K3sutI/INFC6QIkL0lcHLxgGEXpLXi0kWVgq+OTHuDG01OO5V22oyrBKd2de7EuU2m/doX+U+OHz0whg=;jRtRTxRHD+rq9i+U79aw8A=="
+secured: "WyZ8tGrzZ0cvcSypf+LmnZfseEWgbvyHgJvJXgoXraK2jx3/3DWFtrv4YDYyi8YUphwgqgEIhleduu4xKDIWbHzBPkvGD1M7gnufXgp16uW9yTyoaI8Iip3XPUAs5R5Y4flZt3jwgms0+MHbRO+5fDb/UwtDloAli2FCRkg36zYVgEOkqpOcD8ktP5ry8N4uiGw0+9beWLfjfEy2ocvJWM1VMQdQ6tNNBjpUYeTDiZ7WxeENZ/SSDYJUcDZ5bWpe/HdLVUTpMb6oWU6PKoSXatbUjx08gWuvHV70lMzxBqFquEdSElNCq24xKUGN1LM7oJ4qIQXivmtnjwgH06TJWVvUB3x8QCWXHpM6I7JXOBU=;AfcXA46bWn7WkWXyWF3Yiw=="
 ---
 

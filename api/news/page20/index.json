@@ -2,57 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-08-26-ai-will-revolutionize-healthcare-the-transformation-has-already-begun.md",
-      "title": "AI Will Revolutionize Healthcare. The Transformation Has Already Begun.",
-      "excerpt": "Artificial intelligence offers an unprecedented opportunity to cut this Gordian Knot and reshape the practice of healthcare. Of the many ways in which AI will transform our lives in the coming years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45c7bcd65e9b287f6b6c73%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D1005%26cropY1%3D0%26cropY2%3D523",
-          "width": 930,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/amp/",
-      "publishedDateTime": "2020-08-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
       "title": "YouTube removes record number of videos after increasing role of AI in content review",
       "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
@@ -1157,6 +1106,57 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-michael-kanaan-the-us-needs-an-ai-sputnik-moment-to-compete-with-china-and-russia.md",
+      "title": "Michael Kanaan: The U.S. needs an AI ‘Sputnik moment’ to compete with China and Russia",
+      "excerpt": "Minus AI,” Kanaan calls attention to the need for the U.S. to wake up to AI as a matter of global power, in the same way that China and Russia have.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
+      "originalUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/tminus-ai-cover.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/amp/",
+      "publishedDateTime": "2020-08-25T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],
