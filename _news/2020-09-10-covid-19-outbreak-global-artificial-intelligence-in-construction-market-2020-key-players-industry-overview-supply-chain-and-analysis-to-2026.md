@@ -28,33 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
-    publishedDateTime: 2020-09-07T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
+  - title: "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture"
+    excerpt: "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market"
+    publishedDateTime: 2020-09-08T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
+  - title: "Global Machine Learning in Retail Market Detailed Analysis Report by Market Dynamics, Size, Growth, Covid-19 Impact and Forecast to 2024"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in Retail"
+    publishedDateTime: 2020-09-08T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-retail-market-detailed-analysis-report-by-market-dynamics-size-growth-covid-19-impact-and-forecast-to-2024-2020-09-08"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2020 Overview Industry, Definition, Specifications and Classification and Forecast to 2024"
+    excerpt: "The “Artificial Intelligence (AI) in Manufacturing Market” report entitled “Global Artificial Intelligence (AI)"
+    publishedDateTime: 2020-09-10T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-overview-industry-definition-specifications-and-classification-and-forecast-to-2024-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market 2020-2023: Emerging Trends, Top Companies, Future Growth, Revenue Analysis, Demand Forecast"
+    excerpt: "(U.S.), are the leading providers of neural network software in the global market. Recently, Neurala, Inc. has announced their investment in Neural Network AI Software. With this announcement, the company wants to initiate deep learning of neural network platform which is a smart move towards smart products such as toys,"
+    publishedDateTime: 2020-09-08T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-2023-emerging-trends-top-companies-future-growth-revenue-analysis-demand-forecast-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "fo4plozZUizYoXrBSOqo6KDrS8zJX+pJO+lMV/MgBTgYcoZuSMjOopZuPIGhxGs1aAr6z6c4PZyQrk0BytcNoQN40QrCj6Dq/svuhUDim+Bj0Ll0JANCtQGt3sNn9oNFz5XrVOUmCZqyN7oFTy3/BrHxBDy5G7qfANa72nvSRJz9bqihprnPldRQuPNk5uZvbRLLX/9qWqx1A8vd7yF5IQKLBMqQRxE1mLtZVzxCB7zVtntIbHRYBsCzU/RcUNX55zQySKlqgs5Z26RhPYwcfsGpfuAPnl2h4Ryi3jVAKkm/lS6ZN0nQ6A/3sjlL+Vx5wTdG3OCbz7VTR3lqlVKgSsz1LRINRa9kjfv7M92Eav4=;OlR9u82A2jtbg9j3o2k6uw=="

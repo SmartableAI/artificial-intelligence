@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
     excerpt: "The “Artificial Intelligence (AI) in Manufacturing Market” report entitled “Global Artificial Intelligence (AI)"
     publishedDateTime: 2020-09-10T11:25:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-overview-industry-definition-specifications-and-classification-and-forecast-to-2024-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
+    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
+    publishedDateTime: 2020-09-10T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
     type: article
     provider:
       name: MarketWatch

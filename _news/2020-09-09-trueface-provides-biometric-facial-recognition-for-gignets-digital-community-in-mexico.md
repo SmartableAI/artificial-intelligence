@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Women in Identity, Biometrics Institute, and NIST each to host online events on facial recognition"
-    excerpt: "Three upcoming biometrics events have been announced involving National Institute of Standards and Technology (NIST) experts on facial recognition. Women in Identity, the Biometrics Institute, and"
-    publishedDateTime: 2020-09-07T20:59:00Z
-    webUrl: "https://www.biometricupdate.com/202009/women-in-identity-biometrics-institute-and-nist-each-to-host-online-events-on-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/30120947/zoom-meeting.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "t3t7PFYqdewGK6GkIFdcDM3Jeq1tmFd+ayzdF/mPH862spcjcPLAgzHoLw+g5BWvC1y6PUcHrbHBb5ScgC9qEZklon20Uf47QV5NMv+sZXToVa3zuCzFa64bwmAzqz1iHnB5rnWGvpne8StTOc4xjYBIjC3bpjjY7tWB4Bv76YifnSNzVLlieGZB6uziS0exKMmzFi7Q9eb0Ym7Hp1I7XBnR8k8jHDrOrPqOdPwBDIhBQ6sfin03WSWEpzWXcnmqpZ29ELUZa7b0c2fMdF3KHCdwYFbWv9ihn7uh0gN0zzYew1zCiu539zo6T8zlLi8H2VBLZbjux4mHRWqXvFe3MuV382GV8bsMK80oO4Nc/3Xu7Y91O+Qv0CEdW0koJAtHXnnO1CqnezseIT7Kuv+JCzZ6M05RBmTuHkwYhM10X1xwFgyjWO6vt7eoBxGxXUPtfppuZvnprFCMZzuS6FSHxvGDGy0EGF1tWCGBULjDA2oaH1yLuzvf01796nVEeh2VvCnyVW5BGg41vY7qj0GHPcSGoCzPZ0B+wAesUfJSniM=;JGQpiNkFTpzTKLNZgqAgaw=="
 ---

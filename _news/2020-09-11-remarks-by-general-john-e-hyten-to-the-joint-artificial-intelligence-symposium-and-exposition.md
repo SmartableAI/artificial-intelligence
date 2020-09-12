@@ -3,8 +3,8 @@ category: news
 title: "Remarks by General John E. Hyten to the Joint Artificial Intelligence Symposium and Exposition"
 excerpt: "Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff, spoke at the Joint Artificial Intelligence Symposium and Exposition."
 publishedDateTime: 2020-09-11T14:08:00Z
-originalUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/"
-webUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/"
+originalUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/source/GovDelivery/"
 type: article
 quality: 25
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
+  - url: "https://media.defense.gov/2019/Aug/07/2002168198/1280/1280/0/190807-D-EX074-026.JPG"
     width: 1280
     height: 721
     isCached: true
@@ -67,6 +67,6 @@ related:
         height: 721
         isCached: true
 
-secured: "sWIo4RtyTQLDzaUfBxOVgTmX/czVRj8zggf66xgkHjw2L+SUYRFDBtDc2nIoSlRsniOwylF8kax5u4EiVa07Mhe1acuzuH0U11561S3Qqo+H27jaCVoV5A1zLUvqzCfHIhtV2GiuUYfGRVasTvpsxG01ocBDuA+s3G99OVYkwZgUt/dEXMxTWbtJiMU04LyxWA2UP7SH2Lay/CcuPlTA8TTdmcUwZtHDYF6FNswNHN8/4+oqRpPECxITfnU7/DxL4XtEA9afXCufSqtACWzXj0jZ8oxd4kB/0dMoZt0fHacca18PIZdpdV0FD/pe96DLYAPuOip3dpmqzle8Sx44VNnPi8jMfmbZxA2vfLT7JcI=;ZYIyYItpvasAfiuiV5S+2Q=="
+secured: "PAgs55hdJlRmRlyZzkYSvVY7+5fRMUkYn0Yd35J9KgNBowidIG1qNc3hg1bDEiQUdsXc7YD6aRiLfeEIZ40m1QcmtVrrl+8oY78o4CILITW4KetrVuosx/wFETgVcNQfbUwE9VLju0J2wlcFRtfPcAAfhwjwZuxjuoIH5I1k6oV/iYWk8vxFl/OSWBjMxSzFgLSQRlDB1H/64aFaRmScTNUURglF9Sp7KaHEDVvBLfMuwBpf9gmPwllg5ETCYtnlaLfNHhgCeLu8wf2Bo/foOXyRuy5Ajox8tswrICzC5M/avYbeo1bVaB6xRQDVpyWvSIuZjCfHOUlNAO6ALQ534R+PH7e5fb20Klhl6ujFu8k=;jL88PB0KFUHWrr/KWwCX5Q=="
 ---
 

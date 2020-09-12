@@ -12,6 +12,7 @@ provider:
   domain: hpcwire.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
 
@@ -21,6 +22,6 @@ images:
     height: 440
     isCached: true
 
-secured: "BKbMmCxm2YTwJqpXS5mjwF7AXGkPW8aGeM8P2gqVmGnsiUPyYkV4Z9hRrcqMQVP67nI1vxqZMHYUrTfEmgGNVPrmM/knpdj9z6tTN6LDlA21PIM4C00pr5X1leiOlGioOcwbuE0ELZ7ox+FfI4pRoTkvCS7rFtn8JiWuvVpGDfcXT6Mekl1lws02nTyeoaqzZAdsQS94ciAp0oR/Nwi3xGOIlv1+lGv1/auy9npv+q1HQM+QE+FDz+HduKsk41jHRWw5mdmw/tYFo4EDidsOx0BG3+eyMaDXkXLqv/LUyky0LoRrm9ycTdcnAeD4Zxv+sUFTZBnmK5FyB+eRQSnz+c/fc1Ng424s1nasOh8Whug=;WbInvtAPc5iLU/58fD45vQ=="
+secured: "WyK85YjImlPRuuOAS7z1fn3IiLT0ZwoakReHc3m442A3+3+ejEXePPIKbcUwWWzjhgZjGmSeI259XTc5qV1lhfpvOp753YdgR2GCcH+9xAWzQhmlY7MbGNzrt4/M+h/ZqFcXJouEbyupHhO9izDs9PXZsZ3SKIKXlCVMbA/JwDhIiyxuXZiN+Qjb0igMUM1NIvs90IJnr/Ydqudl777o+d4y5ze0O71OGiciLwzsT6AZh3dfSgIVs62cxhArrHiq4ljuCmagEEcWcPOXt2XFoWoLStHyiU63ojAFHaIDpUOpOyAAWKLOln1sqZ+xSRg2QTeWJUtUKhEG+UUgCJG0yxXjp/XmEvbzXlWSRxX8Gns=;4PsO6inMIGomTPeDrYRbRA=="
 ---
 

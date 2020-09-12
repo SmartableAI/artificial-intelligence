@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market : Research Consumption, Companies , Industry Report Analysis and Future Demand"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2020-09-07T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-research-consumption-companies-industry-report-analysis-and-future-demand-2020-09-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Market Investment Plans, Growth Opportunities And Strategic Business Model"
     excerpt: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model; In Depth Analysis and Survey of COVID-19 Pandemic Impact on Global 1122"
     publishedDateTime: 2020-09-09T16:50:00Z

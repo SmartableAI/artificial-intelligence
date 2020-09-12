@@ -3,8 +3,8 @@ category: news
 title: "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort"
 excerpt: "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say."
 publishedDateTime: 2020-09-10T16:55:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/"
 type: article
 quality: 35
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 853
         isCached: true
 
-secured: "OfVa2iPbTMLCZC87rKctIeG5c3LGX3xMVselYmdvl6vX/oAMf8H/O6i1g+uHoBG61qah3SKQEvAuyPl9gP++mkqltCNGD7GMEy20Y4jxSGWoV6N68ZeeTYK68Uu1ThukaenppKccqww83kfA1eYJehgi70jSuLSIzQdCIGnt891pCFek2ORToMeowF2bxhUvP/YO/KUFPBUDda5NFCb0nVae0uqcrZW+S15NMPwpBB3a6KceJBMpBWZ8lAZpFbvgTo4ASB+J2OM3Hx6+2Gei1nBt///Dkgs/QjSliWW+S8F7IVS1oheuDerCbGwi4zBhpTsdfZGz4tCvc7RKc4YMuup+s/9/ecM23s+TwBsRCb3/OE2uK+BOKMsfzY1OvK7Hc/CN52n/UlQn1/Sy4ohvu9Hjy1OeiCdMiSWfjmjzb5DSLnnrh0JGSeOjyNG8tKyyrj4xH7OC7N9snnmFwFi1f2KyULCGfkJVbyPHkjOURSHjSEPoduAgN+CyCVEIfoXgzP/2HOgI97BXbhUe2yWmFg==;ZM7cnUDC1rlMTMn69sfqaA=="
+secured: "3k8BQSO8b7Gf6LLNnROZ95k3pL98a+WgFFadiozMkt4mXY5COfGrS+wqcNnARpB53HdbgVYHvo+j+O5LxyslLzuuS0dMpSGH2R2YkKFceGqXF5oSDjfelEXu0h5w/VGLXdaZZC1jaTlPkoBnluKusPSs9gVa0OL/RM4OrQxp+FJKX3nc1R8wYQ/LRwfQGH62Nrkj1JYadENqCSUdn2+JP3DqOVeiHZ73QN2APxbpw6sIEjf4dYqNNS+peaS/yHuqAmMLRzOioq29FVhFsYbIcHRJYs3zrNYWzGpz2Ad/M0bMlcXcjo9jwxX1JM2sGfw6C/DIlLvJSpfT3TSaFJyNTQk3UOvFhLEoyRhXcyzkkcg=;sO+YSYxyWUKnk//GGnGygg=="
 ---
 

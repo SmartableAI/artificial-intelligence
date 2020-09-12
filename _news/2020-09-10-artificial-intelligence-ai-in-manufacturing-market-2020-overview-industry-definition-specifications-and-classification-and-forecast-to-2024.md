@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
+    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
+    publishedDateTime: 2020-09-10T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market 2020-2023: Emerging Trends, Top Companies, Future Growth, Revenue Analysis, Demand Forecast"
     excerpt: "(U.S.), are the leading providers of neural network software in the global market. Recently, Neurala, Inc. has announced their investment in Neural Network AI Software. With this announcement, the company wants to initiate deep learning of neural network platform which is a smart move towards smart products such as toys,"
     publishedDateTime: 2020-09-08T07:00:00Z

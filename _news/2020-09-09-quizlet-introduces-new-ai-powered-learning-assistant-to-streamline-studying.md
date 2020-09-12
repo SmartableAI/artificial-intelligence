@@ -28,19 +28,14 @@ related:
   - title: "Quizlet is betting AI, machine learning can tutor students, close homework gap"
     excerpt: "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant"
     publishedDateTime: 2020-09-09T16:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/f30f7c49-236f-4c12-b59f-1d44a1e7a590/progress-example-1-progress-dashboard.png"
-        width: 1772
-        height: 1006
-        isCached: true
+    quality: 63
 
 secured: "nGkBWhYv6CB/ZQDaONChJu8A2+PYN/O7KVlRekEDi6NIgePFqbe4DcWmk2YGC6PfD98K9K9BxlUDGe95fYrn4XGLxORf9KCc0JBiW34sR7g+I97rcV40VNuaeqFbkrBGeDw3q0sV+F1Uyj6dRCto9xYlov301zyxQzmBhHsEMImXU+6HT6WclCKiImScBAWm1o0DhwJUE2IT3HxnngsilSptFDt/TzLDsuRKN9Gd83u1nOt6fJaZigm+qGeufZPC2rL2NFsK9i7Gh7n6aut06Yrt9c9+4oPHK5z1BIG32vS6s5Aykc8drvk8fTVqCL8iGWFDuqnzkAV4JCGYT0BfSBbRrW/RBRfpbs8vKtFftdWX3Vyda1YvrA/cjr14ZW7r+I9gtZsoWsLWFTBeL/VyspTo7HvLD9sMvK/AVEiGlJO0AKX6EdQxcuxQrHlo17wzUqYDea0tzTHYMDI3iHse7sAQ5S3Xv0jbnMaSgb+3Q6EDQmAEAkGgbeozoWsMReQ+Irhl4KJFPSs9NmMxOSZ8/arpnwcqQEYhoeUZooT0Z+Q=;x+nhOmD7CKRBbLvKkCtJkw=="
 ---

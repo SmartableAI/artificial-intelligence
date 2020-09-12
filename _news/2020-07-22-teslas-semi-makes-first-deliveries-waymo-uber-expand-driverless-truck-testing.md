@@ -3,6 +3,7 @@ category: news
 title: "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing"
 excerpt: "Several weeks ago, Starsky Robotics said it intends to make driverless deliveries in ... Netradyne is an artificial intelligence (AI) and edge computing technology company that focuses on driver ..."
 publishedDateTime: 2020-07-22T00:00:00Z
+originalUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing"
 webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing"
 type: article
 

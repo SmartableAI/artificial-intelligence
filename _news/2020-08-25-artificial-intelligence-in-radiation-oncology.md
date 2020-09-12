@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence in radiation oncology"
-excerpt: "Artificial intelligence (AI) has the potential to fundamentally ... efficiency and overall quality of radiation therapy for patients with cancer. In this Perspective, we first provide a general ..."
-publishedDateTime: 2020-08-25T09:25:00Z
-originalUrl: "https://www.nature.com/articles/s41571-020-0417-8"
-webUrl: "https://www.nature.com/articles/s41571-020-0417-8"
+excerpt: "The possible uses of artificial intelligence (AI) in radiation oncology are diverse and wide ranging. Herein, the authors discuss the potential applications of AI at each step of the radiation oncology workflow,"
+publishedDateTime: 2020-08-25T09:29:00Z
+originalUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
+webUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 276
     isCached: true
 
-secured: "pOzg/a8mqCqPh1RQVTKXT6dPlxYahV64R/HoZXaPjbCGMkiJypfEFXXKdL1b6+RTQur4wqgTla4/rNE1kK38aHBhsap6disuMrSCw2tGNnNWoHhv4TCLqwxgmO2arb60lkR2EZBrSpO6IE1MhuDUyOvD1ERet3X2NOuJjqtAgy4fyprf2cE+6pjHXCqKNZn7GeKfWZZ4lrVN/T+I2z+ycE/2KwXrXyzmuaLd2/NsIjkV3hCttb+Zk8ylDN45dwLGNZnjfj6rLpKhSGSBEeLJKJrWomQ+qXliNV6Dsdf10+Mtqqqe8SvCdQyF6zG1a6mOSuJW8cHDAZQA36AzPMDvvQ7CtvMVfCxH2XULHggc8MAIxVKze6TGUCRUZP4gkYBKI3XIA7YErm4AUTvsjhRH8rH27t21tARB0tendB3ggE8Wfi39QkX+At0QAXPwPWiQxHdtBTvfDVLOLKyqAOh5bB2rQf3gmaoKCQYAzlLYRrjp/dkEGYvCiKksY8/1gN6dRghMEinb7rSRR/E51P0YF+IjnHk14XNsNQRBRowpzG4=;t5QNKeEDNznqVvuYhiZGZQ=="
+secured: "1Ru/7iKcP93hgCE7cDwjqvjGvi4n10H9+yFVHLLLUWiwjeS4h3DBSXwfvpnOm/Jyno/0wOA8BWK1f9jyXA7CBcvIzgeV4TYFBKoNGxzOXmkGP5J+xLOHThVJd2F3s3LVb5+ba6tSWSmDPBk6D/5pegcTnv7EyMdtisfLimL3yThT54hWtXq0cPFuuUBgNt/zfE+9R5i3NGD9opbbLPxdDXkSqOemVLd2OkVFdTEX2Zem6QQW/8Froq5UZ6139MARNLxeS/g4OdPGwy//UYZzhBqEwbTKuFV64OoGQkAXWkHLzxvxe+lnFv04ELHfIjr/wBp7TyVAsCCeaH+4W0y/Vg2uMXWTB227xoDVYGv1wTc=;OBFG8fORFH/c6sLRdESTYg=="
 ---
 
