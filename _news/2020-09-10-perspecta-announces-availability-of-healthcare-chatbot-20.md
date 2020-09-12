@@ -36,20 +36,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "Scottish universities receive funding for ground-breaking healthcare projects"
-    excerpt: "The money will be used to help identify and treat diseases like cancer and osteoarthritis faster and more effectively"
-    publishedDateTime: 2020-09-07T15:09:00Z
-    webUrl: "https://www.holyrood.com/news/view,scottish-universities-receive-funding-for-groundbreaking-healthcare-projects"
-    type: article
-    provider:
-      name: Holyrood
-      domain: holyrood.com
-    quality: 36
-    images:
-      - url: "https://www.holyrood.com/siteimg/share/ugc-1/fullnews/news/15987/15272_original.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "QLHWXjJVA8rMCZI240oVyANwDzQ7hqCrvslYDY0WPye+yyf8MoJG4LIjX69lb+DdckRAkk7D0/dsSiTzBvkcgV325wqzTGE4VI4SqdgyjMT2lda/tE1WDTlNRhYqDpvnrndVWkK7doIfFYm8nIb9CRMFcmmfPIBvNBP9MlJ/8IA1Oq4/99LheqowQC5/lGjSCdLm4J6/+RL4+0vXchaUUIRIzt1hjGVNJ7/2pxK66J/6p6wdTVRCQ4q/hJe8Orbqyc793BrPK51+YFpPGfk2RolQ2fHH75d6y+RmG1CUw0Edn3Hg5nLDDwvIjlFbRmc+7fBTrXtA/Q0mYuVUi5dMw0IJMeJwSrJXfpXef96Fq3s=;X6U5oSbl03aOhf0TCweRwQ=="
 ---

@@ -109,12 +109,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
-    <lastmod>2020-09-10T16:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -385,7 +379,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
     <lastmod>2020-09-09T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -399,12 +393,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -459,6 +447,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
     <lastmod>2020-09-09T04:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
+    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -615,12 +609,6 @@
   <url>
     <loc>https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html</loc>
     <lastmod>2020-09-08T05:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.computerweekly.com/news/252488719/Matt-Hancock-announces-50m-for-healthcare-AI-projects</loc>
-    <lastmod>2020-09-08T04:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -967,12 +955,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1011,6 +993,12 @@
   <url>
     <loc>https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand</loc>
     <lastmod>2020-09-03T23:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3615,6 +3603,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-08-22T02:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html</loc>
+    <lastmod>2020-08-21T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,47 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-11-7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare.md",
-      "title": "7 AI Stocks to Buy for the Increasing Digitization of Healthcare",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips The increased move to digitization is only one of several trends the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
-      "publishedDateTime": "2020-08-11T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-10-solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater.md",
       "title": "Solving common challenges in sentiment analysis with help from Project Debater",
       "excerpt": "\nToday, we are going to talk about a feature that isn’t always talked a lot in the AI space: sentiment analysis. What is sentiment analysis? Sentiment analysis is a subset of natural language processing (NLP) capabilities that provides high level filters for users when exploring and evaluating data.",
@@ -1330,6 +1289,47 @@
       "provider": {
         "name": "TechNewsWorld",
         "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform.md",
+      "title": "OpenText taking on IBM Watson with new artificial intelligence platform",
+      "excerpt": "“We’ll be taking Magellan to market and it will be competing head on with existing AI platforms like IBM Watson and SAP Leonardo,” Adam Howatson, chief marketing officer, tells IT World Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform/394763",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/AI-e1499718098347-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform/394763?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform/394763?amp=1",
+      "publishedDateTime": "2020-07-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
