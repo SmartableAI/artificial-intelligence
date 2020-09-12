@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Bioserver.net - computation on living neurons is now available online"
-excerpt: "AlpVision SA, a global leader in advanced signal processing applications, just announced at the 2020-Intelligent Health Summit that the"
+excerpt: "As announced by AlpVision’s CEO, Dr. Fred Jordan and AlpVision’s President, Dr. Martin Kutter, BioServer.net aims to facilitate the research on advanced software algorithms using living neurons, by making it possible to perform them without the direct access to expensive lab facility."
 publishedDateTime: 2020-09-10T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bioservernet---computation-on-living-neurons-is-now-available-online-301126844.html"
-webUrl: "https://www.prnewswire.com/news-releases/bioservernet---computation-on-living-neurons-is-now-available-online-301126844.html"
+originalUrl: "https://apnews.com/pr-newswire/a158d91d8d667eced99ca84ef56a26ea"
+webUrl: "https://apnews.com/pr-newswire/a158d91d8d667eced99ca84ef56a26ea"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1251464/AlpVision_Logo.jpg?p=facebook"
-    width: 2269
-    height: 1187
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "LVl56v07a7eDTJfnngq9VfgPmZxR7VaYZ8Fk+AH6Rx2us9m6oTKkN2AaFiqjEpI0zs3DLRk25KpoWISObnrPc8HgBuK8QcNQuGd8exLV28+6etQk3wq8e3uNI7YzdBtMAlLQxubaPpDPVF7mlp0I2YqKSlQIYvREzNb6JmuxLL9TfahjctaPZz3dz+hx1o3KEoCnV4C4fASpac7mhFfR4T/UGI3N23Jw/OYPwWxfNxlLSUXkLXBvq6zyqlbkqZfIYdQR4A26kpfiCNFIF9SKerYEcKrT0eJ/RYpukVpxpooV6sHxQnaBGWDmrJBvDxdxNceCOgQTWF/IgRrfKagy5xf3fP6JFK8eyQ9TkIiBw2E=;UgCy61Es7z4AbN0pUFRv3A=="
+secured: "f4qNI7Yh6qwNln+utsWIZa0ZGMoqRPjnprsC2pugxyqe2oiY5Nl+fRAk1iieuhJ3P827dnJFw9TjlXcdxUK+JbDRblqJEAxA2keixjkQSzF52DcRWU+vQ+WS3DAKgb60hAw/TA+KN/XuuNSptezs2W3VTkUvgJCzUBE2nR3oPnfdaqvdgNsmba9O1sahlT/YKoizHHphKPqn3lgJLKdB89TyXk2vMLw8q4aOONslJxcfNDuF6I5doHNWR0sIVtRGvl3MJ2OO4CeA0IC+pjBou2Jr5S3g9x8nvMx046jipCLXoovrmPmYaN4glpIohgzrg3TppXfqlPy0KlSMozAm/Qnobgjgu5e0vn845rShexY=;h+c6uNAzB/T0p1AQyi83MQ=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why eliminating bias in AI is key to its success"
-    excerpt: "And it is AI that we must look closely at, which many experts tout as one of the most transformational technologies of our time, in terms of sheer impact on humanity. Global use of AI has ballooned by 270 per cent over the past five years,"
-    publishedDateTime: 2020-09-07T08:30:00Z
-    webUrl: "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Eliminating bias is the new frontier of AI innovation"
     excerpt: "More must be done to accelerate the synthesis of diverse and inclusive perspectives in the AI creation process, says Rudeon Snell, global senior director: Industries & Customer Advisory at SAP."
     publishedDateTime: 2020-09-10T07:52:00Z

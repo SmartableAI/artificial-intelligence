@@ -3,8 +3,8 @@ category: news
 title: "Covid-19 has sparked the world's first 'infodemic' - but AI could provide the answer, study claims"
 excerpt: "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies."
 publishedDateTime: 2020-09-11T15:06:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 382
     isCached: true
 
-secured: "Lv1b083k+oOJ7roTjdneLjV9jINgFhdr8mDJ+ap2NyV0O3d8LUoQMxGweG79qYE83GStdvdmV/VtLLnwv1ESJA8diKEGrk/WOLiS14d6NIYL72moYeUT9CZ9ghpmeIDfFcbUybDNoVCORpZpKS8hlXitcdbhJL8C/YCphuDIbWRfdi/39KJ2wlNi2QiCt5uxtxGucppQ7Tzyb9e1XvBWufiGdK3wrSXbbr1IpTGPTAILazGxyY0hqPSwhdyMGYeea3i3iRnfeSkhBeLT9qdTAmop0s52Jt7DcMYErxb3wnS+SP3Brp/Sk+FCUVU/M/pFV4e21XXiUS2u4U5zpDAUVyS2q83Taz19t70GeFR8CQuNomP/Aua0e5XJm7Jn/Mg/PMYA7QiYXubUV9THBXq6lfbLN4J4yx6fZdCEPYlZmoBm6mG+V7ZcAGSG+08xIWT5rKcnBLLamqJuvgHDEWEjTxwQZ/ViV+hM4v8H/IvpapYj+5egUBeb31vXsQE8Is5YiwYGoh5mkhVdSA+8ptsVag==;A4q83qpb4Sf7YUXmGVkE6A=="
+secured: "eEVqUVnI5fJm08BqKOv0BBkMJyiO0L7KOQ1k6IaXHkYXS5LzADTdplQNwKZcltsl3RHOmnjLoN3PsqqrUamLgE30pZhMADt6q/BXUCrGZdJt6+y40o0vG+Irv6qXKJLl2dAnPI2R7INEYTcp8qhXC2qQCV+7xE32Cz5+3VHjSYKxKjVjMFyijDq77xFmaw15V9vidw0A0g7JeO+2/I8qkj909T++WQk4v4aOoDUFVRTE7HKcmOSh50fENSgAbTPs3kJO6RIbhMWIoI10JNk3/aMN2OQf9cDJY9s/8+v1WBgh7Qm0iC2oePODWJafYQ+4Au1maOEMTEIEEutcNly6N+8n5/gdry4LwfPnT/z/woE=;5GFEdWxJ+vHiSg3MOhVErg=="
 ---
 

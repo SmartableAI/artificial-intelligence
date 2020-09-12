@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges"
-excerpt: "(GLOBE NEWSWIRE) -- Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies’ cutting edge technologies and timely health care resources onto Conduent’s Life@Work platform."
-publishedDateTime: 2020-09-09T12:45:00Z
-originalUrl: "https://apnews.com/globe-newswire/74a3bdc931e437a1ca38e46a612a53dc"
-webUrl: "https://apnews.com/globe-newswire/74a3bdc931e437a1ca38e46a612a53dc"
+excerpt: "(GLOBE NEWSWIRE) -- Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform."
+publishedDateTime: 2020-09-09T13:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09"
+webUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09"
 type: article
-quality: 14
-heat: 14
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "LTu8OAuA56rn7fsuSSf8rcuTcgpr6nQl3Gj1miCK5suLNTUo11CYh6zwrbsZz7t8rX8cit0xttrpWB+kvAQuW4uR1KT1gRrd0Up+532yoUXikrQAJaXA/UyT5cR3Ks4hfJMQnX2xbor2WCewRFmnoRu0FLmkYQQDmC1BJi7tCIuqWvo8mnW/3O2uPxdDVTBNwJPnpXSe5beDz+8NVg0uL6ic2OMtbf6hR9VRs8LaWVvzS/TkP7saAogwTcR7nLL5mVBDfBUkyIrSx15crtAGgfzJKfByf2w2oY5LTqEDlWtimJknUPlftEpUSIU+bSn+e3sWqdFQYaup7RSfQyi8YV60+GVtW0a/NrRDnFr/tVg=;u4MTtxxTYxm1QkieIz7RgA=="
+secured: "PvzOwoC3Cy8vLX8J5pdj3lxv/dW3dmzqlAGQp6gWHk/Yf5saghUrLQo3DHqSvZL6Ogpm8rb3eBdW+SaaIEi4q0xJfS29jsxgqTp7YGgaUqllMpX+aNtcykO2b/gky8OtKikgMxUnBCXeAEVlGcH1uO7v3aff3W7HAaCyp8ohDdp/Zl5gUh/2DfKQyN2R+EDYMSWtidB33LOWzRVvL3HrY+L98PB2xdV+ng/wO5ynXPPuYBr1C7FT0EQc09BYGExRZDY7n7DMBtFgo5WqXq1aWHAxSB0faMZJryWRJXhuGjHhEGvzGUFPoq2VCrcJFLYeFgOqCqpHvrYzKrQ+dgyYAnCV7X9HxTb8UQrWpGYqNmM=;Ax0G4bJzuRB02HW5o6WBYg=="
 ---
 
