@@ -2,56 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-09-07-chinas-driverless-car-upstarts-see-robotaxis-scaling-up-in-3-years-as-tech-firms-race-to-get-ahead.md",
-      "title": "China's driverless car upstarts see robotaxis scaling up in 3 years as tech firms race to get ahead",
-      "excerpt": "A number of so-called \"robotaxi\" projects have popped up in the world's second-largest economy over the past two years, with the companies involved eyeing creating viable autonomous ride hailing businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "publishedDateTime": "2020-09-06T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
       "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
       "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
@@ -1160,6 +1110,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-viewpoint-peachtree-corners-ahead-of-its-time-with-technology.md",
+      "title": "Viewpoint: Peachtree Corners ahead of its time with technology",
+      "excerpt": "Enter Peachtree Corners. The city is serving as a leader for how government entities and the private sector best work together to build out true smart city ecosystems across the country. Peachtree Corners is uniquely governed and positioned to test,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
+      "originalUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
+      "publishedDateTime": "2020-09-04T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

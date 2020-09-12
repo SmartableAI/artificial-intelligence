@@ -2,56 +2,6 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2020-08-05-sight-diagnostics-raises-71-million-for-blood-testing-computer-vision.md",
-      "title": "Sight Diagnostics raises $71 million for blood-testing computer vision",
-      "excerpt": "It first “digitizes” blood into over 1,000 high-resolution colored microscope images, and then it runs computer vision algorithms trained on half a petabyte of anonymized data from four years ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/sight1-e1595963985900.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "publishedDateTime": "2020-08-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
       "title": "How Blockchain Benefits From Artificial Intelligence",
       "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
@@ -1104,6 +1054,47 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-deep-learning-tech-firm-syntiant-raises-35m-in-series-c.md",
+      "title": "Deep Learning Tech Firm Syntiant Raises $35M In Series C",
+      "excerpt": "Syntiant CEO Kurt Busch said in the announcement, “It is a tremendous honor to know that some of the world’s leading tech investors are supporting our growth stage, as we deliver our deep learning voice solution to customers across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pymnts.com/wp-content/uploads/2020/08/deep-learning-funding-tech-innovation-457x305.jpg",
+          "width": 457,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
+      "publishedDateTime": "2020-08-04T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

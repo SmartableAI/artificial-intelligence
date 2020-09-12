@@ -33,6 +33,20 @@ related:
         width: 670
         height: 250
         isCached: true
+  - title: "GIFEC's No Hate Speech campaign gets international recognition"
+    excerpt: "The No Hate Speech Online Campaign under the partnership of Ghana Investment Fund for Electronic Communications (GIFEC) and the United Nations Educational, Scientific, and Cultural Organization (UNESCO) has won the World Summit on the"
+    publishedDateTime: 2020-09-11T21:33:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GIFEC-s-No-Hate-Speech-campaign-gets-international-recognition-1057750"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/141/14119243.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "OMQJ0yvRIRZT30yXW0K40jjPkBPI7fAj/aDlRhmlhd81GSZ9NPVDlIAbIxLPXbDagfTgVF4645Pmg/1LqnrLuD0CZ4kiO79YbNtXHAmQemSFGqxrKFC42jMqp2WLnZrtj8TLvJ0+S1vh3yI0SSrbr1Qbskq7zy1lCuvNszhHR6aQuq2lryyrfTTTrCDNV5nuFAUjMjt+IGSF+95stmGwhycLNYXE3z7yLx4r+XqgGoChzTNxe2SldmwSeUT5+IecI4AmDrtjqWuZGYIuDGIkvgysX2odt3rbUfeX+LO6oCZYZbxFAV1L0LHte+kdbtzn7AxmawR8r8R+DNrY+0EW/mkZvKsKXsipcqU93gliWKw=;vChz4yECU2pkt9qOpgia0g=="
 ---

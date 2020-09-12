@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robots found to ease loneliness in older people in care homes"
-    excerpt: "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found."
-    publishedDateTime: 2020-09-07T05:12:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947"
-    ampWebUrl: "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947"
-    cdnAmpWebUrl: "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947"
+  - title: "‘Culturally competent’ robot improves mental health in the elderly"
+    excerpt: "Care home residents spent up to 18 hours over two weeks with the robot, Pepper, who could respond to their culture-specific needs and preferences."
+    publishedDateTime: 2020-09-09T09:07:00Z
+    webUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/"
+    ampWebUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
     type: article
     provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
+      name: BBC Focus
+      domain: sciencefocus.com
     quality: 59
     images:
-      - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg"
-        width: 1125
-        height: 843
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2020/09/featureimage-crop-443d2a0.jpg?quality=90&crop=4px,56px,931px,401px&resize=960,413"
+        width: 960
+        height: 413
         isCached: true
   - title: "Robots found to improve mental health and loneliness in older people – study"
     excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
@@ -59,22 +59,6 @@ related:
         width: 1564
         height: 1154
         isCached: true
-  - title: "Talking robots could be used to combat loneliness and boost mental health in care homes"
-    excerpt: "Talking robots that interact with older people could be introduced into care homes to help fight loneliness and mental ill health."
-    publishedDateTime: 2020-09-08T21:39:00Z
-    webUrl: "https://www.azfamily.com/news/us_world_news/talking-robots-could-be-used-to-combat-loneliness-and-boost-mental-health-in-care-homes/article_7e7ff5b9-22a8-5728-8ce4-ea93d2702064.html"
-    ampWebUrl: "https://www.azfamily.com/news/us_world_news/talking-robots-could-be-used-to-combat-loneliness-and-boost-mental-health-in-care-homes/article_7e7ff5b9-22a8-5728-8ce4-ea93d2702064.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/talking-robots-could-be-used-to-combat-loneliness-and-boost-mental-health-in-care-homes/article_7e7ff5b9-22a8-5728-8ce4-ea93d2702064.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/7/3b/73b24f04-cf55-513c-a3ea-340c383b4d31/5f57f4a5efe68.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Robots found to improve mental health and loneliness in older people"
     excerpt: "A study has found that social robots can improve mental health and have the potential to reduce loneliness in older people. This could pave the way for the introduction of the technology in UK care homes."
     publishedDateTime: 2020-09-08T12:56:00Z
@@ -89,17 +73,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Talking Robots Could Be Used To Combat Loneliness, Boost Mental Health In Care Homes"
-    excerpt: "Talking robots that interact with older people could be introduced into care homes to help fight loneliness and mental ill health."
-    publishedDateTime: 2020-09-09T01:16:00Z
-    webUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/"
-    ampWebUrl: "https://baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
-    cdnAmpWebUrl: "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2020/09/08/talking-robots-could-be-used-to-combat-loneliness-boost-mental-health-in-care-homes/amp/"
-    type: article
-    provider:
-      name: CBS Baltimore
-      domain: cbslocal.com
-    quality: 34
   - title: "Talking Robots could be used in UK care homes to ease loneliness and improve mental health"
     excerpt: "Robots could be used in care homes after a study found they can improve mental health and have the potential to reduce loneliness in vulnerable older people."
     publishedDateTime: 2020-09-08T02:27:00Z

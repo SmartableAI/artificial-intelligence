@@ -2,38 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-08-24-hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HSG Digital joins Amazon Web Services Contact Center Intelligence solutions partner program",
-      "excerpt": "With 61 delivery centers in 7 countries, HGS successfully manages billions of customer interactions every year",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
-      "publishedDateTime": "2020-08-23T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-24-5-interesting-announcements-from-kubeconcloudnativecon-europe-2020.md",
       "title": "5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020",
       "excerpt": "KubeCon+CloudNativeCon Europe 2020, the largest gathering of the Kubernetes and cloud native community, has gone virtual this year.",
@@ -1090,6 +1058,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-baidu-launches-its-new-urban-robotaxi-service.md",
+      "title": "Baidu Launches Its New Urban Robotaxi Service",
+      "excerpt": "Baidu (NASDAQ:BIDU) announced on Friday that it has launched a branch of its robotaxi service Apollo Go in that city, the first time it is operational in a downtown urban environment. Apollo Go is hooked into the company's wider digital ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "originalUrl": "https://www.fool.com/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F588944%2Fa-baidu-self-driving-car.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/21/baidu-launches-its-first-urban-robotaxi-service/",
+      "publishedDateTime": "2020-08-21T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

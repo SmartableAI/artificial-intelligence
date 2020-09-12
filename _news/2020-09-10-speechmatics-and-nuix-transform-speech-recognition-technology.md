@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GIFEC's No Hate Speech campaign gets international recognition"
+    excerpt: "The No Hate Speech Online Campaign under the partnership of Ghana Investment Fund for Electronic Communications (GIFEC) and the United Nations Educational, Scientific, and Cultural Organization (UNESCO) has won the World Summit on the"
+    publishedDateTime: 2020-09-11T21:33:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GIFEC-s-No-Hate-Speech-campaign-gets-international-recognition-1057750"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/141/14119243.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Speechmatics and Nuix bring accurate any-context speech recognition to enterprise eDiscovery teams"
     excerpt: "The practice of eDiscovery is a vital part of any organisation’s legal process. Nuix offers end-to-end eDiscovery technology from processing data using Nuix Workstation to the review and presentation of evidence with Nuix Discover®."
     publishedDateTime: 2020-09-10T13:48:00Z

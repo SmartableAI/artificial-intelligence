@@ -1,32 +1,22 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy football players make more informed, fair trades throughout the 2020 season."
-publishedDateTime: 2020-09-10T23:26:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
-webUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
+excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to"
+publishedDateTime: 2020-09-10T21:49:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_3b7ec93c-636f-5309-bfb0-5f74d9360fe4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_3b7ec93c-636f-5309-bfb0-5f74d9360fe4.html"
 type: article
-quality: 70
-heat: 80
-published: true
+quality: 20
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM adds new feature to ESPN Fantasy Football App"
@@ -44,6 +34,6 @@ related:
         height: 440
         isCached: true
 
-secured: "6E8cv0oHls9DYj1SuhleWt7RZPwGjjHMPSTAsj8JHaqKpPtAGXO39SDHQRnRQ/S9a5Wg5aSr+1TRBKRN5Bbu624PxVIjitLZQz1mc+WzW7HAKSwr9efei/BWhbtngUJgpQY0o4OPQKmmXS4/f7GYwbIBDVUCNxfSRXqk0UqlCMi9W3+2Rh5lod9V9UnoaBYrI8YS66NG7p5+1IgHFCGptm3ZImTL0aN/gm5SCZXpMKS9zaJPeLivxgvUJBJpeNENyirj1zOJEC8sUJwhstp9W29SL7/Y8on4Gy9ylE3T/y3sOTKryhx3cw571wvbTcLPmT9mKB/SkRbzKF9Z+DszyFVaAZOcOwAvnhUT44TwciA=;A+3awR5TxEB+pcjGx8LZKQ=="
+secured: "N8JMoQcOjXS6PqPaX5+3LrI/5tGO444oCgcN96d/7YF7xEmkgmZbDLorLdji0W005FwFNvcK1tpxF+vCJ+FjdpCjNpvsJNPM/Uesw8XlsSSB6EHdnJ5/+LgftS+lyk+3rHF50RgqLkVUq2dZBZrgjGMtIztv3dxdlfAvQuhiJlOb+UjIFzW/nw4aSqYQsoIAiaFFbjzLQKkHGbdu83DH7GyNyA6Lr85S6GwjTSs8UmkvZEybVB/STX/O3h6PRBJVp0ETpdmDKTq7iAmybEwW9NUiix1/Pdj8WnhpQC1miuoEwMA8SKnESIOB4xFzIAiYkWixd975Vde49LFbPv0mJtoy4rHddezRbjzBdwKmzWSxfCckSI/rD3GPG6Cqwen4BvDOO3Q3iRDubCkUZSkGmRPuqxJpWsWyxKRc4BjRUFbZH9MmEC+ouz+bE4HH8YBWzS6o/ed1vO7owlRKmjep0F0W+Bh4R4Bj2N2DS5WjygN5zwOzNTbP3hM9t7kQqFQ6CVBX5Ze5fi+cWh+ZcEAGgtOElMB8hlQffKjRJYC5TV8=;Nyg3+A4rD1COw3f+hX+7/w=="
 ---
 

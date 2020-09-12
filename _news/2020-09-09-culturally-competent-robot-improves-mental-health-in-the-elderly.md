@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improve
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 99
+published: true
 
 provider:
   name: BBC Focus
@@ -25,6 +25,68 @@ images:
     width: 960
     height: 413
     isCached: true
+
+related:
+  - title: "These robots could improve mental health in older people"
+    excerpt: "The trial conducted in UK and Japan revealed that older adults in care homes who used the culturally competent robot, up to 18 hours across two weeks, saw a significant improvement in their mental health."
+    publishedDateTime: 2020-09-11T13:16:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece#!"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/gxjtoe/article32582617.ece/ALTERNATES/LANDSCAPE_615/robots-old-peoplejpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Robots found to improve mental health and loneliness in older people – study"
+    excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
+    publishedDateTime: 2020-09-08T05:11:00Z
+    webUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+    ampWebUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+    cdnAmpWebUrl: "https://www-newschain-uk.cdn.ampproject.org/c/s/www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
+    type: article
+    provider:
+      name: NewsChain
+      domain: newschain.uk
+    quality: 56
+    images:
+      - url: "https://www.newschain.uk/bsp-static/image/2020/09/08/05/eda78d565e1856c9ec67db4b7387ce81Y29udGVudHNlYXJjaCwxNTk5NjI4MjU2-2.55380519.jpg?crop=61:45,smart&auto=webp"
+        width: 1564
+        height: 1154
+        isCached: true
+  - title: "Robots found to improve mental health and loneliness in older people"
+    excerpt: "A study has found that social robots can improve mental health and have the potential to reduce loneliness in older people. This could pave the way for the introduction of the technology in UK care homes."
+    publishedDateTime: 2020-09-08T12:56:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/09/robots-found-to-improve-mental-health-and-loneliness-in-older-people/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/13777/dreamstime_xxl_154239082.jpg?crop=0,0.1835791015625,0,0.32423339843749993&cropmode=percentage&width=1200&height=450&rnd=132440325760000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Talking Robots could be used in UK care homes to ease loneliness and improve mental health"
+    excerpt: "Robots could be used in care homes after a study found they can improve mental health and have the potential to reduce loneliness in vulnerable older people."
+    publishedDateTime: 2020-09-08T02:27:00Z
+    webUrl: "https://www.manxradio.com/news/uk-news/talking-robots-could-be-used-in-uk-care-homes-to-ease-loneliness-and-improve-mental-health/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 29
+    images:
+      - url: "https://e3.365dm.com/20/09/640x380/skynews-pepper-robot-care-home_5090092.jpg?20200908015116"
+        width: 640
+        height: 380
+        isCached: true
 
 secured: "DyqxYomVdkImauamel2A293Z8cwPecr/AQX2qbpo4jQ44MYnUWqQKPmTjZuITlmIPPOHv2K4Dun+Or3Hxv6m6hgpzlrgWQMQpsQ2xG4kDV5AEsE2BiXUM+goOLbbjzxPvORkIXmPOFKlx1Y0gMaVWqxjD4r/1Av+8gLw9to/SJUGoxztZMDQILSw7Yilne7IhBIk3l6AM50oFm+CogrTvZfvNTad9UxFKQihmBL/LpwAgxb0G4mpifDTXXneBEeu7yd2CNGVJAHYyvJ5J6lpSGu03bnBp7hoPUuYCMgBS8uoaWA3aD2mV2wKLhM7t5kbSjIQG0vPie0FPFgHjflTVXzamkRUABLQRNm7gW9iwGDGhgjlt++SrEKFxr8JTCz/cgGtuQ7Ck2kmsicie/GS4jOtU7stNgvn+YAf1WygOuFp6dTvNF2EWjHSYMWfEVsp3uvTxHrTLzupHEM09O+hcMuD101Sa+wjxT1wfPb19SvRH4RKR58w/L6OkeibTNF8QsMzzyIkhOBwSwDtlQnGSuF6Yv6/mj52fzS9E4RigIg=;zajSfW1vGDjHvJPBDCUf1A=="
 ---

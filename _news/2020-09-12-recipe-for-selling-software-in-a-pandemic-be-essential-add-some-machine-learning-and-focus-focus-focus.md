@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic
 ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 related:
   - title: "Apple Wins a Patent for Future Face ID Features that use Machine Leaning to better Detect Partial Faces & those in Low Light"

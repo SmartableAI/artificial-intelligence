@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
-      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
-      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "publishedDateTime": "2020-09-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
       "title": "Physicist: The Entire Universe Might Be a Neural Network",
       "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
@@ -675,55 +625,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
-      "publishedDateTime": "2020-09-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-machine-learning-aids-gene-activation-discovery.md",
       "title": "Machine learning aids gene activation discovery",
       "excerpt": "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,",
@@ -1195,6 +1096,87 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery.md",
+      "title": "Recursion Pharmaceuticals Raises $239 Million And Partners With Bayer For AI Drug Discovery",
+      "excerpt": "Startups that want to leverage artificial intelligence in drug discovery are a dime a dozen in today’s biotech landscape. But Recursion Pharmaceuticals, one of the oldest and most established AI drug discovery companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f581f78806c63fd9fd10081%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/amp/",
+      "publishedDateTime": "2020-09-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-docebo-to-power-aws-training-and-certification-offerings.md",
+      "title": "Docebo to Power AWS Training and Certification Offerings",
+      "excerpt": "TORONTO — Docebo Inc. (TSX:DCBO) (“Docebo” or the “Company”), a leading artificial intelligence (AI)-powered learning platform, today announced that Amazon Web",
+      "sourceUrl": null,
+      "webUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
+      "originalUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
+      "cdnAmpWebUrl": "https://www-chathamdailynews-ca.cdn.ampproject.org/c/s/www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
+      "publishedDateTime": "2020-09-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chatham Daily News",
+        "domain": "chathamdailynews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],
