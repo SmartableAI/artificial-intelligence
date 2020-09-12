@@ -8,6 +8,7 @@ webUrl: "https://www.aftermarketnews.com/self-driving-cars-on-road-by-next-year-
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: After Market News
@@ -23,6 +24,6 @@ images:
     height: 563
     isCached: true
 
-secured: "MCdtQlB37qjokDiuBJds0T1KcIwR9IfwTv8R13fKjIwP0Of/powkU1F5S4YI8qCRARiPJUvTgCyc0zXhEAK1BTqfyDrszRGbxRPCXAqKXqPUKUcxA69jic0Bt81SRVv6gTo9Xn2hdmJlwUTMqlG2wgZg4ynICtSghp+mfAeAqNYJlCKsnFIzIaDxjMrH6xF4ZuxSp+9KO2h2IXZS/SyP8HsatWjByv6eMo10LonG75B214SnuoikrUhZkpFasjSFq/TCFWogVgaaKW0fs2HWqt+JUYNcAGPmlu0tW6DJ+RzAo+yzF99YyYK+CdyhNM7GRDwMoOu8qDCdrY8dt8k3gGaCsBq3ELnJ2BPs8u6iQTI=;aoJlfeBtyyj56MZ+MRqaTA=="
+secured: "BHvsfEaXyv8R1CIXcr5Ap56hKhs2vS5qdVX9uFZpu09OwD3DrFI/iTVc9m8XqMmFt1jW2f8b6GgNm/BVUBcgR3jHwgOGO9/clbojTDfG0rSuQzZU5DV402tqye+CgVPC4AtCexROIpS2IZ5r/DelbmMjKBv54qIv47n1/7AEg+A7f+29yoKUu7i09S/a0W+LSCD7yYTabWPpAFac1J9/uWV+HwK21G4XxIEL90OPEFiIMB3o+AG184ToYGMS38+a71sXdWjtipxG4Yx5xRf/fFBDahjci1jfY4twtz+UyjSddVDibJLCQ5TdX4DeknoQDHxnZuMnithvjFMsLuUZzTJucizD4wMohXpg21daSMTYKozXeZdKRgwGbfIYIne3HtodHv9SOvwcEz43C0PTjoJtL2/1asyw1AEbHOcB4aToXJh0wr/blQY+aqQbFUHCrOnNLemSMxrDSFA0Akna+bFZIlUlYsJ07e04oroRR3iAYeKocNFuaPrcS5RWfUbBYElXEKK47KeUy+tEPnvkzw==;KR4xb2XZEpqV9aulk2ZCNA=="
 ---
 

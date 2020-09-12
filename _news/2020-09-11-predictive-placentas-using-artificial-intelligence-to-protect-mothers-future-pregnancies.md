@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/09/200902114358.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/09/200902114358.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,52 +21,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "This AI analyzes placentas to predict complications in the next pregnancy"
-    excerpt: "Researchers from Carnegie Mellon University have used machine learning to analyze placenta samples for signs of health risks in future pregnancies."
-    publishedDateTime: 2020-09-07T13:34:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-07T130915.553-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Machine Learning Can Predict Health Risks of Future Pregnancies"
-    excerpt: "A machine learning tool can examine women's placentas after they give birth and predict any health risks of future pregnancies."
-    publishedDateTime: 2020-09-09T13:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-can-predict-health-risks-of-future-pregnancies"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-671586040.jpg"
-        width: 590
-        height: 356
-        isCached: true
-  - title: "20 bold predictions for health IT in the next 5 years"
-    excerpt: "The pandemic accelerated adoption of telehealth, remote monitoring and digital health capabilities by nearly a decade for some organizations. Earlier this year, Mayo Clinic Platform President John Halamka,"
-    publishedDateTime: 2020-09-11T20:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/20-bold-predictions-for-health-it-in-the-next-5-years.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "V9AZY+3hUeEUfz5EGm6VyD3XdT5KOBQ5ChIqGJadiCJLRpsNAt5F/jcInRhwwFryrOGO/N6HczdJmcTMpD/fKcO3gmStQFDy2iEVCOtVn/7qPhfT+bZvZTCOw7OH68gP5ger/gXTBcvxX0updKYIjjo1X/nfulyDPg05B+RQgZN6/ndDN/mNst+apArcfxcOd4yTLNqdm9xBQDaKztbgfOD4Lo6kMtTzcSiYSF3pSLv+mKW+33e2ykFRPodsY0roQ2DClguJbFQCNwaS83kD+X5nEXGhFeUuwaYrX0uWv6s8mcGC2E32P6GNQ1xzzrmSAfn5disrdMt6KPQkenVJozdh/q+co5LWzsUbMVYab0g=;WkrHf51wbfJqxAtzpSO/fw=="
 ---

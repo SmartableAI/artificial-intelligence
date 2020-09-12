@@ -8,6 +8,7 @@ webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142813"
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: KMWorld Magazine

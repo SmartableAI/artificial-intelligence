@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
 type: article
 quality: 43
-heat: 83
+heat: 43
 published: false
 
 provider:

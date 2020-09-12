@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200910/New-radio-frequency-b
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200910/New-radio-frequency-based-system-to-monitor-a-persons-sleep-postures.aspx"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

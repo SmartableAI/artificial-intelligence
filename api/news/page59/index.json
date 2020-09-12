@@ -2,6 +2,129 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-07-27-datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data.md",
+      "title": "Datavard and Pyramid Analytics Announce Partnership to Help Customers Extend the Value of SAP Data",
+      "excerpt": "Under the partnership, Pyramid Analytics gains the rights to re-sell Datavard’s flagship product—Datavard Glue®. Pyramid is an enterprise BI platform that supports the full analytics workflow, from data modeling to dashboards and reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine.md",
+      "title": "MIT develops machine learning model to quicken release of COVID-19 vaccine",
+      "excerpt": "OptiVax tests potential vaccines for efficacy and population coverage, then designs vaccines for testing, all with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/02/2fe5b8ac-05e6-4864-af5e-53a826a43cbb/resize/1200x/61d45b868cfcaadf844b70cdcce59491/shutterstock-1703465413.jpg",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "publishedDateTime": "2020-07-27T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
+      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
+      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
+          "width": 800,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "publishedDateTime": "2020-07-27T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-bird-identifying-ai-could-put-an-end-to-leg-bands.md",
       "title": "Bird-identifying AI could put an end to leg bands",
       "excerpt": "If you saw a finch one time, chances are you'd have great difficulty picking it out from a large group of finches later on. A new artificial intelligence-based system can do just that, though, potentially making life much easier for both biologists and the birds that they study.",
@@ -996,155 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
-      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- Pluralsight, Inc. (NASDAQ: PS), the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-aiming-for-more-than-just-net-zero.md",
-      "title": "Aiming for more than just net zero",
-      "excerpt": "Many companies are reaching for net zero emissions, but we’re taking it even further.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0965e5ed-15e8-40c4-9273-6c10ba66a14a.png",
-          "width": 920,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T01:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-this-ai-uses-emoji-to-protect-blm-protestors-from-facial-recognition.md",
-      "title": "This AI uses emoji to protect BLM protestors from facial recognition",
-      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-27T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

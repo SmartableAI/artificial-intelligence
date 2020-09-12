@@ -2,6 +2,139 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-07-29-artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.md",
+      "title": "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study",
+      "excerpt": "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "publishedDateTime": "2020-07-29T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-us-agency-pandemic-masks-thwarting-face-recognition-tech.md",
+      "title": "U.S. agency: Pandemic masks thwarting face recognition tech",
+      "excerpt": "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR",
+          "width": 726,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "cdnAmpWebUrl": "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "publishedDateTime": "2020-07-29T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Uticaod",
+        "domain": "uticaod.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-ai-machine-learning-dependency-limitations-and-bias.md",
+      "title": "AI & machine learning: dependency, limitations and bias",
+      "excerpt": "A conversation on AI and machine learning ... our products and services. © 2020 CNBC LLC. All Rights Reserved. A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/07/29/ai-machine-learning-dependency-limitations-and-bias.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106638094-1596035750222-TEC_july_29_thumbnail.PNG?v=1596035766",
+          "width": 1892,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook.md",
       "title": "Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook",
       "excerpt": "Facebook has used PyTorch and deep-learning framework Caffe2 for Translate, an AI tool that powers translations for the 48 most commonly used languages on Facebook. PyTorch, as the name suggests, is a package for the hugely popular Python programming language.",
@@ -1009,111 +1142,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-aws-launches-ai-tool-that-helps-businesses-tackle-online-fraud.md",
-      "title": "AWS launches AI tool that helps businesses tackle online fraud",
-      "excerpt": "Businesses with more advanced requirements can use their own models with the service using an integration with SageMaker, Amazon’s managed AI platform. AWS charges no up-front payments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/business-intelligence/8685/aws-launches-ai-tool-that-helps-businesses-tackle-online-fraud",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/04/awssignatairport.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-designcon-2019-announces-keynote-speakers-from-uber-university-of-texas-and-uc-berkeley.md",
-      "title": "DesignCon 2019 Announces Keynote Speakers from Uber, University of Texas, and UC Berkeley",
-      "excerpt": "To give DesignCon attendees insight into some of the most cutting-edge technologies, the event will feature keynotes on quantum computing, AI and driverless cars ... datacenters that power the artificial intelligence (AI) to enable Uber’s futuristic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/designcon-2019-announces-keynote-speakers-uber-university-texas-and-uc-berkeley",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
-      "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
-      "excerpt": "Facebook developers have created a general artificial intelligence framework known ... implementation for Liar’s Dice to aid in future research. The developers believe that ReBeL could help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "cdnAmpWebUrl": "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "publishedDateTime": "2020-07-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poker Sites",
-        "domain": "cardschat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

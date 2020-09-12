@@ -2,6 +2,147 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-07-14-global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025.md",
+      "title": "Global Vehicle Speech Recognition System Market 2020 Industry Research, Business Growth, Future Investment and Emerging Trend to 2025",
+      "excerpt": "MarketsandResearch.biz has announced a new report entitled Global Vehicle Speech Recognition System Market 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-bae-systems-mindful-technology-to-provide-transparency-and-build-user-trust-in-machine-learning-systems.md",
+      "title": "BAE Systems’ MindfuL Technology to Provide Transparency and Build User Trust in Machine Learning Systems",
+      "excerpt": "BAE Systems recently delivered software to the Defense Advanced Research Projects Agency (DARPA) as part of a contract under the agency’s Competency-Aware Machine Learning (CAML) program. The delivery of the MindfuL TM software is the first milestone in the program to improve the transparency of machine learning systems.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
+      "title": "An ex-Googler’s new robot reimagines the future of home automation",
+      "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-PmDXq435kQhWD4PExbF03KZkDk=/480x0/cdn.vox-cdn.com/uploads/chorus_asset/file/20082684/Hello_Robot_Stretch_Low.jpg",
+          "width": 480,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "publishedDateTime": "2020-07-14T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning.md",
       "title": "AI Start-Up, Focused on Artificial General Intelligence, Demonstrates First Steps Toward Human Reasoning",
       "excerpt": "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated the first steps towards human",
@@ -1011,136 +1152,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-how-to-choose-a-data-analytics-platform.md",
-      "title": "How to choose a data analytics platform",
-      "excerpt": "For processing big data, the AWS, GCP, and Azure clouds all have Spark and Hadoop offerings as well. Analytics platforms target machine learning and collaboration With data loaded, cleansed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/681283/how-choose-data-analytics-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_87684784.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-smart-retail-tech-startup-cloudpick-raises-series-a-funding.md",
-      "title": "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding",
-      "excerpt": "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series A+ round of funding led by Cathay Innovation. Prior to this,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "publishedDateTime": "2020-07-13T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent.md",
-      "title": "53% of enterprises spending more than $20 million a year on AI technology, talent",
-      "excerpt": "Among seasoned adopters, 68% have spent more than $20 million over the past year on AI, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/09/123183af-a6a0-48bf-9891-86cdc7247104/ai-spending-2020.png",
-          "width": 658,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "publishedDateTime": "2020-07-13T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

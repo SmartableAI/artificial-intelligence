@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-12-toucan-raises-3m-to-teach-you-new-languages-as-you-browse-the-web.md",
+      "title": "Toucan raises $3M to teach you new languages as you browse the web",
+      "excerpt": "Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automatically translate some of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
+      "originalUrl": "https://techcrunch.com/2020/09/11/toucan-funding/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/ToucanTechCrunch1.jpg?w=680",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/11/toucan-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/11/toucan-funding/amp/",
+      "publishedDateTime": "2020-09-11T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-bahrain-says-its-time-to-embrace-israel-the-gulf-hears-a-saudi-voice.md",
       "title": "Bahrain Says It’s Time to Embrace Israel. The Gulf Hears a Saudi Voice.",
       "excerpt": "Bahrain’s closeness to Saudi rulers makes it unthinkable the change in diplomatic ties happened without approval. But Saudi Arabia itself may not be in a rush to normalize relations with Israel.",
@@ -1436,47 +1486,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
-      "title": "Baidu creates 'world's largest' Chinese natural language processing database",
-      "excerpt": "C hinese search engine giant Baidu has launched what it says is the world’s largest Chinese natural language processing (NLP) database, among several other artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "originalUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/20200827_baidu.jpg?itok=sv6JP0o-",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
-      "publishedDateTime": "2020-08-26T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

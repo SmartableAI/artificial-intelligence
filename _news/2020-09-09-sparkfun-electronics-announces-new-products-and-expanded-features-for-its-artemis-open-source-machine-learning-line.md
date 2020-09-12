@@ -1,28 +1,28 @@
 ---
 category: news
 title: "SparkFun® Electronics announces new products and expanded features for its Artemis open source machine learning line"
-excerpt: "SparkFun is excited to announce two new products in its Artemis line, the company's open source machine learning platform - the"
-publishedDateTime: 2020-09-09T15:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-301126027.html"
-webUrl: "https://www.prnewswire.com/news-releases/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-301126027.html"
+excerpt: "SparkFun is excited to announce two new products in its Artemis line, the company's open source machine learning platform - the SparkFun Artemis Development Kit (DK) and the SparkFun OpenLog Artemis."
+publishedDateTime: 2020-09-09T15:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-1029574776"
+webUrl: "https://markets.businessinsider.com/news/stocks/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-1029574776"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-1029574776"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sparkfun-electronics-announces-new-products-and-expanded-features-for-its-artemis-open-source-machine-learning-line-1029574776"
 type: article
-quality: 16
-heat: 16
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1250712/SparkFun_OpenLog_Artemis.jpg?p=facebook"
-    width: 1650
-    height: 864
-    isCached: true
 
 related:
   - title: "SparkFun® Electronics announces new products and expanded features for its Artemis open source machine learning line"
@@ -35,6 +35,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "JhwHE26URlf/c75WUhXwEN9y4+NPW+ld25ob0xK/PnIpZ6DaIBPPHSwFymRUO6sluR66Y5028TEPJlRwhU8RjtZr2aCoBFnrUY78rBTkUqYSRdrgcMYTT4e5uBEUmrlXpqsPeYk7fmStuw/7V3EKKejjDOpxYGjYn/6tNR61UFrdBXlUbx8kfqzjyDyfLBHKTvp2xz58Lbx5u55yRSelLXBjtZqAPE2JrZxcyAERJMrSlJk4vd0RgP7SCAQrRjWmRHNfVNZi9uHfzjphfrAal44MtCRC0eIbZeo/kwmoSqPZl1x9ov5kgLdXLAfa0x+FX7u+mhKjymaasPsqzIpbVCGYHEObcJAeFi9B/ckL4Fg=;V/DlJktPjve+IXdoAcOvOA=="
+secured: "XJ4NlvVdIrgO0S2w4qhtYXcfWGyPUfqOiTcX5t586J4H+OQWDc2vdEPLRmpmLxr1KWJi0PyimL6LZxgBartPQJVNU0bVcQu7dUbnor2ckYUAkzVfv3wzl2jZDwKH8mGzuMKdd89Kp/sGe1LcZKYOkhbLp7qnyabCoMy4o0vgS4T8eyMgYNe4YLXZGnOeG+U3UlDWzfnxWTrGTAxtQdJfLhkMIeu/XvV6c56Sgbzwtbo1Tz3434Z5P3qUdbSokrXbxxvPXMCasPAqxxGgdgUm9YvGohqw6fIhTHcR6ZddsnS3HVHoXXQ1f6+PSDvooGB8BdLAe7HbMy3lyzRKYJKlDtyU2Bv0OESnI6iKF3Q27KY=;Uyp12SoVEE1OlsTu2oQ/zA=="
 ---
 

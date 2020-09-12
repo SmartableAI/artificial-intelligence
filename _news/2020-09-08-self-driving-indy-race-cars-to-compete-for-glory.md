@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Humans — The biggest hurdle for self-driving cars"
+    excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
+    publishedDateTime: 2020-09-12T07:43:00Z
+    webUrl: "https://www.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    ampWebUrl: "https://amp.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 44
+    images:
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
+        isCached: true
   - title: "Two out-of-state companies bringing self-driving tractor-trailers to NM roads"
     excerpt: "Daimler and Torc have already rolled out their self-driving tractor-trailers on New Mexico roads, said Michael Fleming, CEO of Torc Robotics, in a Wednesday news conference"
     publishedDateTime: 2020-09-08T19:06:00Z

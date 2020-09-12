@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/09/11/toucan-funding/</loc>
+    <lastmod>2020-09-11T21:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/</loc>
     <lastmod>2020-09-11T17:28:09-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/</loc>
+    <lastmod>2020-09-11T05:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.iol.co.za/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d</loc>
     <lastmod>2020-09-11T04:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -93,12 +105,6 @@
   <url>
     <loc>https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx</loc>
     <lastmod>2020-09-10T17:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09</loc>
-    <lastmod>2020-09-10T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -379,7 +385,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
+    <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
     <lastmod>2020-09-09T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -393,6 +399,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
+    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -621,6 +633,12 @@
   <url>
     <loc>https://www.openpr.com/news/2130111/global-artificial-intelligence-ai-in-drug-discovery-market</loc>
     <lastmod>2020-09-08T04:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/</loc>
+    <lastmod>2020-09-08T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: YAHOO!
@@ -29,6 +30,6 @@ images:
     height: 452
     isCached: true
 
-secured: "eGxVBvKlMaH36PfjQ0wuxqpjYhQgKzjsB2bUv2iU3Ylwq0o7RhW/TBnju0M3TDV8iszHHxENP5O1D8rhbX21Cdosep/UjL1dQMtbyy/Wl8zIOqEh9yRwnIPxQn+ZGJQVP/n7qHjuLVvzwlNjqIuVc0XJ35tj+J9AYuIsrYFLpJEHyxVrO+yaDtVrBy9UZ5WkzQXsnQK7cVlsuo2F6K4VV0y/rYWyCg5set7A/EIBpZCKaH+rKrLdZMLEKFqMfQhLL9wA90ibJ9S9p1dCXNNuTHaz/DK+I35NdVpAJrv2voYxY5ApT9QSTCId2y34hdSxkzZemAwSyV0+JR2c9rZZrr/rKYgdj3H7M/72ik3+OEM=;CW+eU4D2pGEjggOH9ackUg=="
+secured: "Dw7nYu84OYsUvFovr2HccAcXfuvD5q6CX8IIZs74WgIiL5JAwPdgOn2Rmosoigln6iQJEOySDE5iAUIQY447gRffTbNN9RWjC92GBt/DA2dVb298Ip6ft8/w0JgQQeQtHJ8629OvCfAQSruvZOy2ReeI4wbTFsnRctqtOzKT/kKql6Ak8UWzBEQmxNK+tfksOamLahj46zIdQdKsVIYrBvPHaMWSD0wq0hKX+1ym8/u8nO1i6BgDSOjpd1MN6KilWewUW1lotBdgz0LLCxFdNtYj0evaG3rP3TKSJMSuJpz+6a0nD4AqtJeLhMs7VDyTTel8k9kLYdhCLCCb0W+9S8s77rD+8dWCpykriKtdbgNewvnipC3v5FYKPOt33gjp8xQ90PbiHjoxwmvj55DOob2loDsKx/ARO2S3H86DjSlNMpe4NNR0jGe4KbMXyAO2rIEBhAyyq3Cm329WVu4VZvveqts2Qpk7nCLblQN9vJngZUKnumkNS/R9Q18LDwMJASS91AZhPE+mW1NW2nbFpQ==;Irpu4/WXz9ZAWeTPMQ2ZSA=="
 ---
 

@@ -32,6 +32,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "Humans — The biggest hurdle for self-driving cars"
+    excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
+    publishedDateTime: 2020-09-12T07:43:00Z
+    webUrl: "https://www.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    ampWebUrl: "https://amp.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 44
+    images:
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
+        isCached: true
   - title: "Even self-driving cars need driver education"
     excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
     publishedDateTime: 2020-09-12T04:38:00Z

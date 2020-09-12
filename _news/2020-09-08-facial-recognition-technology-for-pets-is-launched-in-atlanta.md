@@ -7,7 +7,7 @@ originalUrl: "https://www.11alive.com/article/life/pets/facial-recognition-techn
 webUrl: "https://findingrover.com/"
 type: article
 quality: 119
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -251,20 +251,6 @@ related:
       - url: "https://i.insider.com/5e4dd9c52c24b6050b4d6d68?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
-    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
-    publishedDateTime: 2020-09-07T14:53:00Z
-    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 53
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "LifeLine Animal Project is using facial recognition tech to reunite lost pets with their owners"
     excerpt: "LifeLine Animal Project is using the latest in facial recognition technology to help reunite pets with their owners."

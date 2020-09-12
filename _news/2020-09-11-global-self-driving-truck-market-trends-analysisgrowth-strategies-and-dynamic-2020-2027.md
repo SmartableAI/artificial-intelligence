@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-truc
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Worldwide Artificial Intelligence Chipsets Market Outlook to 2026: Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "Global “Artificial Intelligence Chipsets Market” Market study report covers the global and regional market with an"
-    publishedDateTime: 2020-09-07T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-chipsets-market-outlook-to-2026-emerging-trends-and-will-generate-new-growth-opportunities-status-2020-09-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "g8dc1mRHKf+yqIhILkR6FnT+cS8oQZcevtSuGgAblH2+XOSHn52hl7lhsIbVQtEgdkzwZMsiB/2ARq2li2RZWVT0l9MlKITaa3FJ9UiETYI4WkQPWgUK99B80dcqMUrnsVoSlwyfFs77Tb+Pl7kZPVQz/LFmsbInG75Z9NvgucryswDVF0jWFPcNMQusRr8dc9QKSvGUH/YxTdb1LDfsRxIGNk2Gwd+T+GiA5JP2J4Zyl27Kl03bZeZLDtgSW4gO+3AtfqXIlXtlWbNog+ORvNrkmUZ3AdYObQgZFGukuesueoySVsHPNa8QwCEWHrVHmvppha752xaIYxPPFLR+2r6zUpuGD+sepxC6VKrCFB8=;QlqXMl5rw4Cca7Ac1VnSXw=="
 ---

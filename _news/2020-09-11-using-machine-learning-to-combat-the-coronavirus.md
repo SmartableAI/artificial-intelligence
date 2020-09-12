@@ -7,7 +7,7 @@ originalUrl: "https://idw-online.de/de/news753929"
 webUrl: "https://idw-online.de/de/news753929"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

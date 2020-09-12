@@ -269,20 +269,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Israeli Facial Recognition Tech Startup AnyVision Raises Additional $43M"
-    excerpt: "AnyVision said that at a time when demand for innovative technologies that help companies meet the challenges of the new reality is soaring, the company sees significant growth for their Touchless Access Control across all verticals within organizations that host large numbers of people in shared spaces."
-    publishedDateTime: 2020-09-07T14:53:00Z
-    webUrl: "https://nocamels.com/2020/09/israeli-facial-recognition-tech-startup-anyvision-raises-additional-43m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 53
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/facialreco.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Council to consider banning Face Recognition Technologies"
     excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
     publishedDateTime: 2020-09-09T08:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/legal-industry-news-national-la
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legal-industry-news-national-law-review-law-firm-hires-attorney-accolades-and?amp"
 type: article
 quality: 22
-heat: 32
+heat: 22
 published: false
 
 provider:

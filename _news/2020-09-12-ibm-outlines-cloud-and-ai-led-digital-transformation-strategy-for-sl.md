@@ -7,7 +7,7 @@ originalUrl: "https://island.lk/ibm-outlines-cloud-and-ai-led-digital-transforma
 webUrl: "https://island.lk/ibm-outlines-cloud-and-ai-led-digital-transformation-strategy-for-sl/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

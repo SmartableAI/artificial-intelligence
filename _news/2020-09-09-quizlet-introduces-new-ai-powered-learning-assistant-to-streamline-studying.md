@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 100
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/f30f7c49-236f-4c12-b59f-1d44a1e7a590/progress-example-1-progress-dashboard.png"
         width: 1772

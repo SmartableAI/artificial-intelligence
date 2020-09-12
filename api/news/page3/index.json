@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-10-ignitarium-is-now-part-of-the-arm-ai-partner-program.md",
+      "title": "Ignitarium is now part of the Arm AI Partner Program",
+      "excerpt": "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "originalUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T909865043_g.jpg",
+          "width": 501,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "publishedDateTime": "2020-09-10T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
       "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
       "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
@@ -533,7 +574,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/",
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -630,8 +671,8 @@
       "title": "Quizlet is betting AI, machine learning can tutor students, close homework gap",
       "excerpt": "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "webUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "originalUrl": "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
       "featuredContent": null,
       "heat": 110,
       "tags": null,
@@ -646,8 +687,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/",
       "publishedDateTime": "2020-09-09T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -671,8 +712,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -772,6 +813,55 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
+      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
+      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "publishedDateTime": "2020-09-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1096,106 +1186,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
-      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
-      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "publishedDateTime": "2020-09-09T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-artificial-intelligence-in-pr-is-it-science-fiction.md",
-      "title": "Artificial Intelligence In PR: Is It Science Fiction?",
-      "excerpt": "Artificial intelligence (AI) is everywhere, so you knew it was only a matter of time before a PR agency tried to package it for public relations. But can AI help get stories in the news or is it just a new agency spin to stand out from the crowd?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f03670c093af40007be6125%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "publishedDateTime": "2020-09-09T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

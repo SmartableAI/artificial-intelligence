@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-ca
 ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 type: article
-quality: 83
-heat: 93
+quality: 100
+heat: 110
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/f30f7c49-236f-4c12-b59f-1d44a1e7a590/progress-example-1-progress-dashboard.png"
@@ -45,6 +46,6 @@ related:
         height: 360
         isCached: true
 
-secured: "wjK+lv6gL+xD+ELJsWuly13kOGWu9+Q7ny2hcd/arLA++H/52Qu1TfMQYp/rJc96/z1Ir3Zb5LaMvZ/kGWMUVpB/LOC4ocv55yI/AG+0YXXNPDjSY/U+l8nsMB9EJGTn9Eoi2BEv+8e1nUs0OrZfppc3HR1EvuLonBBliMUnnEwSg/u3JWX2TpsMPcctcJ53QKGjpPirO5p4o18aHThKiHk+7yvoi3+ALjXyh3IRwTO2lPpQafcWztjCk5kzAzR69n0lUuzFOBjZHtvjGZyCBOXIp0LReJ658VL5qVetY+sqaIDxJZbMmbsRG5ovQEKplEPt94RfoSDyTxzpLcc0XtZ9lGIq/YZH2iGN7hLzbqo=;i6IHvp/+LjIN4JVZj43KQw=="
+secured: "P0rBaIBLFR59qj40BUBlzagsrAYzgPsK9OI8iZPH0k3uc3jWXW425aXcs0llQ+V/blDDsY7yLEzomUY3wL3Iv3SQ6Sjo9NVUjK1c/UHpum2Qbgd61Q9kow66s5pGUgXAHVIlYg21wQn/DtDWrJUhvjfqPJ85qS72QbgrszMGntUcy+AFVIF2CWxN2K2v4cxDuSfPKYNeLslLuphbCYokeVgGlHfQTHdAjT2xKWAGuNRO5IxoIRPLDrHzgSRtXt5zM4eYOp6EKl95pFvuO4zbZdwtAumv6tGRkCCt1Ss41UqyGYDbNOxrYozDi2lckNgbM9y9rA9HH0U6i8QbP5tpVTTlCZafEcCgxZ4UCYMX+wd6b2d0BKxzjqJ6pc1OavEgfyLeCvHxdpgZ3Xu4HdbZLLXsJ4kxUphGLFXfpKRalWc40jBkP/0m0kyTerynbSgvZs2eOLK0sJco3xh0QRDAzgrFCH+r7GqsFYfzEa+6suV1+NLVzd0WGQct7BbpMc80r+Prqp0ymXY4oYlgZ6az5dEqcd1sw0G/EeWz4ZAlyVo=;9a3GS+1jNEtVAy7W2LaEdQ=="
 ---
 

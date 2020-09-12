@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 750
     isCached: true
-
-related:
-  - title: "4 Ways To Leverage AI In Customer Service"
-    excerpt: "The use of Artificial Intelligence (“AI”) in customer service is currently utilized in just under one-quarter of companies today, although, 56 percent of service decision makers say their organizations are actively looking for ways to use AI and AI adoption (forecasted to surge by 143 percent by 2021)."
-    publishedDateTime: 2020-09-07T13:21:00Z
-    webUrl: "https://www.fieldtechnologiesonline.com/doc/ways-to-leverage-ai-in-customer-service-0001"
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 37
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/d2b0458c/d2b0458c-bc97-4dfc-92f7-7420ca386c37/ai.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "WWfGMPVr14EaNuz3lA1lSIQoO1x+iJZFkXfHUGp1vGVGvNr3lFXs/QccyFoBk/lNm4FyahCqOptw05qNdnTviAJB8TefsTV7Xuhk0dDrScQxzBJZmh4A+rmyuOlas3GaG2+gTJbi+Htf4eaip4Srn5pPV8zlIGQvZlyxDLt2glQCGTZEXvw5cELHkB6fyyAHgQ3bfoc8UIAAvKUZGCs9zVZtTOI9TlKKennMzYfC0hbG9W7wTyyJNS5b3ClRYz7aQtXe4D0r3ZV6KS5ubgZTp07E7QTiE8elJF/tFwDGTp37q8g+KS6zm+nOIWrkJXL5dtrKpl0cyOOw35lmSED41k+mVeVh2F4yOS4YrI8JWY+iA1A5VJ1srvgz1VGzBid5nj3tJL9BR+Dw6HaKzZQpFvkh5VcPFSQTJamHepNpdzCSgVrPAOeIqN7AdmSIPDGbC00w7m5aCOaKxxmkMHU1IOFhditWplZTBy4mAPy+rMnwuUV60Mdx0K4ya5GKUJMM+eE+SMz5c1y+of0C3A5NVYwkqcOPKdjRvzG2zSDvvbU=;Y58kr3RCr2qmuSXzsqY1UA=="
 ---
