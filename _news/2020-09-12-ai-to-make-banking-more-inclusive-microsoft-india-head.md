@@ -1,23 +1,29 @@
 ---
 category: news
 title: "AI to make banking more inclusive: Microsoft India head"
-excerpt: "\"We're already seeing more innovation than ever in fintech as people are depending ... \"Financial services organisations have been leveraging AI to enhance customer experience, improve operational ..."
-publishedDateTime: 2020-09-12T09:55:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20200912/3625174.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20200912/3625174.html"
+excerpt: "Banking in the future will combine artificial and human intelligence (AI+HI) to be more collaborative, personalised, inclusive, deliver better products and consumer experience, Microsoft India President Anant Maheshwari has said."
+publishedDateTime: 2020-09-12T08:51:00Z
+originalUrl: "https://menafn.com/1100784899/AI-to-make-banking-more-inclusive-Microsoft-India-head"
+webUrl: "https://menafn.com/1100784899/AI-to-make-banking-more-inclusive-Microsoft-India-head"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "PHef3ezvLXFeAwck5KlHfkJdeiPd0GCx9Zyst1X/LRilmJr2rOgr5Tuxsm5iDD59vXRGREsfWAQKCHwn8upU2OdqUcVLahXJzhn6SIYGFAfb0y3ZGDr7wuQN7mCVvS2D5E0jIuKl0pYz6xd63Ai2TSCRP5ffQIQz4RFLRVLjyMEzv6OLw4eUWRh1WOPPMwwGMVmWVLEqLrscmQ5f1x4aCILCOa3koPeElSE0F8nxkwWydLDd1G7JO7+ikY7lKrzu/vEC1P0WlathJqw4pnv+c7hZ+abhB4sDva+KSJV5TG5x/jPlnmlSiCu/BmXfFpKXT1aJ4xpa/J/zUTg1HJp8E9+N+czpswnrJSnHiDiM/BY=;e5gdIrclOdTPbQ6YVdaGnA=="
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "qCeZc1WPJcR2B0L1qNjp4Qg+VBDCUw3RtklGUEKDVwkiZsi7MlVi0Cp16QgYQzJC0VVhdmlBRvmWcgKdLdnv9TIdN1ZcOiEUksLF65WdzU4UmBgvWN/yybQB2WtWmfX2ziwkR/ygXQWODbiWsz5TMO5hSh/Qrr9nfhUqEJsP/p7Y5wr4Ut45kxr7PXIL+8Zre9pvcDcHk/L2F2Ow6bSZ1hkzhe4m4VOYa1NyDhmykF46o7EpGPVTfLtDa/BLgwAwcE2PkkwJA0BPMCOdmKOcQJcsTU11LuWu+VW8iibHB4oVFL/wrCEOX7EZJdwAP4bF6wkWCJEPmeM7pWvBwHTEvGHSrr/dj7yiGJBG9lg71Jg=;9g3zoDP/9uo5l4w8T6dmsw=="
 ---
 

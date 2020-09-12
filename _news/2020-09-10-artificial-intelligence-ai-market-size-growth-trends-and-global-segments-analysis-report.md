@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
 type: article
 quality: 73
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -32,7 +32,7 @@ related:
   - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
     excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
     publishedDateTime: 2020-09-09T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09?tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
     type: article
     provider:
       name: MarketWatch
@@ -110,6 +110,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligent Market 2020 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2026"
+    excerpt: "Global AI in Healthcare Market Overview Artificial Intelligence is the development of computer systems that are able to perform tasks that would require human intelligence with much higher precisions and error control than that done by humans. AI ..."
+    publishedDateTime: 2020-09-11T18:56:00Z
+    webUrl: "https://www.medgadget.com/2020/09/healthcare-artificial-intelligent-market-2020-global-leading-companies-analysis-revenue-trends-and-forecasts-2026.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "wvOs/6XVC8ETDHO8yqKt7cqHO8l+Cr26ZQ6ybYq55nS6x56Sxh0Qzo4qElCEvzyZA3bpR59uvQ2h0Oo9IrQsk9V6kDK0afJYK8Etmzg40BI2RY+c0fSwb1sF6X7oiJHDmFJ1R9Bl1jQCHgjpz9ZDwwsDZcsEJFW5WC7P9oms8LcEgsw9pvKtz+FxvSwWo/BdVgq3q2WB1/xBN0qeVtXEEBcJhOUADdwXKhL1v1ZR8OnXJTumr9lJBYAQp+uNYwdOzUvfcYqt7WTOWXM04ay8SG0GY94BHtlZD5AI5pxkljXE3SrTfdi6nob+Ul1Kn/P4wk4l/AuIWtuQ0oGGqN0vnuHKFTxsSlEzunALisbG23Q=;rrSIXDztedohFoPEKOY8ng=="
 ---

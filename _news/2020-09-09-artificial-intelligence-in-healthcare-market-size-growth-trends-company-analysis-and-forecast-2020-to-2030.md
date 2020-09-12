@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
 excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
 publishedDateTime: 2020-09-09T09:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
 type: article
 quality: 65
 heat: -1
@@ -110,7 +110,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligent Market 2020 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2026"
+    excerpt: "Global AI in Healthcare Market Overview Artificial Intelligence is the development of computer systems that are able to perform tasks that would require human intelligence with much higher precisions and error control than that done by humans. AI ..."
+    publishedDateTime: 2020-09-11T18:56:00Z
+    webUrl: "https://www.medgadget.com/2020/09/healthcare-artificial-intelligent-market-2020-global-leading-companies-analysis-revenue-trends-and-forecasts-2026.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
-secured: "vZoJ3N+nmPu1+phDUWiaPs6nvqnR4jJmCmJ8OMVXC5hNnf4YisBdWrrGYIx3xpb3/0uHBmReJwKHhZuJEizsHQwvsieAksl+hhuaQ++oMCzaqo9SUKAiBssXpUio/hW4UGdjyJcN8nRZnhmWs8xUUa4oVaOkUUpRNnwV8i0WevCINdlGq50hNShIYTem68Ibr9wRYoSwOY+uZFmGdTUz7cuAECcWnzfFv6qpy9/cNstcbemxcFpUoMFGBow7KA0WEq3B3eCHxG/xBwmAf27F47sdn4KEZlSFn78mJOQplRQL5MR0VcKBlE3ZRyXLhKGCqxbylhTXsKKkpGlRYMNVrbWXUrBjC71UsYE5Iyif1gM=;o/ibp8VSh/8rq4dE7XlQyA=="
+secured: "WZB0I0Oc6lCV9e3gXFrs2OZ6YwoPdLtQMqnMwA+vVunqPf6w/rzsaDC+j9FQwxvYZnKU4oa+9LiEW/SY+UZdyfs7ihrUObpQwfHyVXyTq2Yt8IqxBHKAHyhptPx3xgre5h3pt6vL//vMfFl+UvtgO9Tl6JKepnjKQ7IyEyqIu31qtelsVrpaE76yjjwXwsAzXFH6QH8RfZVEYyH+6XaF0v4Go7sDQJb2WD2haqddadq875JXJ9FPksguTbElr7YBJGDAlwonG+PcTSD82m1NH+AUjTxm5ZGks69bRulzg3I6HGRNbApHbwg1r4wUfFKRsO0mOEmTqJzauGAlbj4VNms6+/wmjWc7qcxTsu++Yk0=;Z/q6+1mXIDUtD88jbiD83g=="
 ---
 

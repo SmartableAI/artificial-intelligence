@@ -46,7 +46,7 @@ related:
   - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
     excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
     publishedDateTime: 2020-09-09T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09?tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
     type: article
     provider:
       name: MarketWatch
@@ -110,6 +110,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligent Market 2020 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2026"
+    excerpt: "Global AI in Healthcare Market Overview Artificial Intelligence is the development of computer systems that are able to perform tasks that would require human intelligence with much higher precisions and error control than that done by humans. AI ..."
+    publishedDateTime: 2020-09-11T18:56:00Z
+    webUrl: "https://www.medgadget.com/2020/09/healthcare-artificial-intelligent-market-2020-global-leading-companies-analysis-revenue-trends-and-forecasts-2026.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "NdJbFakz8fE9htamD9l/KZc7Ceb6uw9AHr2dcrn/67hMWB7xQ8xuv2EF4QEXN3BpIW29zMaU66PXzS3ZpR8Ngj6w72RVlllSQWn3X/4Mv6Ft8PHrhpReE5f06IKSkIF3xVm20nkticgmQpGHYb5cOjZfmS1sUkK0hU7Gy2jXuGOkivvgHSeJuLb0ca2xnjcVtMNANYaoQLBj1HFttge9ePlaK7pjfFi8c/Y/8tBp4oObc601sPdjscZIC2WUKirRD5kzXoUOGFJQxFQX8KD9FoiR2R/zD/nywutG6Z6FtMiUGS+d9au0nfmPnO1dLmTMlQc1gNHKA6VBfrQMWiFZJykn7VU0xfpiiyJQ68/uFgw=;xv/2WpT06YKvv0ZdC3YBSA=="
 ---

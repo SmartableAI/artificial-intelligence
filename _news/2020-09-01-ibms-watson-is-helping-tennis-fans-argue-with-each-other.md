@@ -2,25 +2,25 @@
 category: news
 title: "IBM’s Watson is helping tennis fans argue with each other"
 excerpt: "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ..."
-publishedDateTime: 2020-09-01T09:17:00Z
-originalUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
-webUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+publishedDateTime: 2020-09-01T08:17:00Z
+originalUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+webUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg"
-    width: 1024
-    height: 576
+  - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_night.png"
+    width: 280
+    height: 360
     isCached: true
 
-secured: "zg2BP0TylYtSjbf1kYJo4bSOAwVVXzrNJ7whREMFx5lvdseigjlluwSGng3hlEW/Gy5tdZCfAIKsB7Y2tvm8xB9SKW/9zxvcfDcCO9QHwZRrkkBCblpTAapOwDkgwK64xYQEPPewMjoThhFFLs375sy67kIfZwJz2kXdSZ5e79GLaMHb+Eejp6r7qAced5+7TLNEayOEkat+4iUhqtbFJ+ejPxYnUb36glD5eNflBSx8Z1ngH2+rg4eITG6Tgm6BbpbSzS1rB3FejZH9CMa2jfkoDFuEkXbZcxlXbWTsJVgqJ2dulaAmox9aT+dYROid2VWaMh8J7XxSbo9TKF/K+wdLpXmnkYk0Bf879syq4ko=;oS1MWdUhiyS9yn1Rs3Ig4A=="
+secured: "r2kpFO5nh273jT90Wq8CyW+0HHnch5PqY4+ytlklOzs6xJIRwJapPgK0OR4TBI4t3DXTFCoyN1TDZYoA2VXbPZdOPYyylxZgnwsBZrGsVIgc+VKGbXuhMjKLtzG9ZJteN7zt/wbQblrgwah7LQYPwVedFdMKc/oUs29v6I6TqIPzbYYO2/oaag/96ujFfTm53uIiC7iRV1PprsyjEQAUyEIU+FHOE9nHKQTQLHsUZPiZ37pXN+OowPq/DgfLPuR0xBDqHXYP5X94vy4G4waGYghLdQDZ7DjkOE2H/S8WDfZhRbOswNkJ9Q7FXrMxWyKTWBzuelLlv1jFKjDPyNRKHML2giM3BMdcyjnIRPL+juo=;fnZ9E6IvHT3vwPujUcCpXw=="
 ---
 

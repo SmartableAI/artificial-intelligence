@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/business-53794472"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53794472"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 575
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Can Create Sound Tracks for Silent Videos"
-    excerpt: "Researchers Ghose and Prevost created a deep learning algorithm which, given a silent video, can generate a realistic sounding synchronised soundtrack. They trained the neural network to classify the class of the sound to generate,"
-    publishedDateTime: 2020-09-07T18:43:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/ai-created-foley/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2020/09/ai-created-foley/en/headerimage/croppted-GettyImages-943557580-1599499371095.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "a6ZMSWexmwX3afm2kBCks4gRKzoqDqEj3hPvgw7XXKAQmehSbB2vnFyfXRs0oiXeHTyQVqmRmuVuY9dMfcfTAd5OvCbBg57rEW5p/Q57ogXtqHgeu7kFyqEy9BYi0Ivx2jDsPj68Nv0yzZpIYCEMj4xtmiA9hYHjiCiF02D+LyRHHSkxvMc+8UXBg3aI85Ac9ZOkCrd2kXrqMzZDvygTTEFxs2NNRGkbnf8/3QwM8XYAxe8x+oTNnvX4eSrXJ+QtGZMNER7LH35couJpHe+Kv0VAzK/AnEpQp8Nv02F4185qfty59x3KOozikQjhFVOZlKhj3WhqGpOIZUs8LNTRHxol65XCasp3/vRUiQQo7gY=;Zj12ueMJRs6nonnoNScZJA=="
 ---
