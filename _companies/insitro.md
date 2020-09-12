@@ -2,7 +2,7 @@
 name: "Insitro"
 overview: "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale"
 type: "profile"
-heat: 83
+heat: 64
 
 website: http://www.insitro.com/
 
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Insitro"
 
-secured: "4HfAptrEqV4nht4cSnuVPavUpYdAV0PbG5tY5DbiUtku6SbCsK0L25dtd3ikx2rfXgePxaMLiLXwul/32QNxyIIskcTdcfTugBlsTXum9Pj9VQPMH9MSU81MZzquTI6CFyvhMNbu59GOvkB/jnlbw4pF1S8qvVaIh5mlhx80csfGwHlc8WcJCo1hiDJZUQQ62hXfoQ27dOjzD1WLvRvlMfc/N0S5fjN6WgiHFtUna1faJlctwYBclDvt3ks5V1dy34UebAOT3+oo+KuouA7bKYTHo2QLBIe7WSSfenN1nuqyGm9p9wJZviqGSDwa0pMoxkARL6qCSm4Hs+2Dpm8m2PKywNbzFRh7ndcLPF579747mKuTnZAnyZCcxnWm3SsOY4x7sVg8F3LZ48KoXqs7OCNYsc2zw+Ddpb93lZwHhZA=;VtsPTf+vn7uxfRfBtIZz/Q=="
+secured: "nl0oZanmG4JHil5gYZA7EZctLPSYkZQddvIy+s7h+yuP4s2HH4aHeMg9FrjQfTJt0NHLY1HUw/5nRUY4iHg/0dKlkpqO0Y9mw6T/4rvj9rS9SeD+CKJqrMQURr3bGHv1sPk9CqHj+Yi5JL/w9sWzZV3ZED6GQAFRudsjYvSnv3ABJmpVprDgmHHnL1F+7KteV1HlRNDuPBAkfkv1RHQ4CUzioqjiiv9GmNmo8CZyyFdi/Q24LGbNSui6WVgkYytZ+UwMEksidBcb8itna3r9AlCwlEBzcq+6mlHNWR7MDYVLNGtsxfizNg1arIf5quvdCLGRxO0degg2j8IKOwgawFik5S8VaYtUvmpqEnp1N/ZJ3yKkWBd5PxqHSlGCGeaOPTjyFrRn8t2/McIDOCU+hehXb/ET9ucygB4AeXZAX24=;sgQ8SuypqInjFlNTN8zdew=="
 ---
 

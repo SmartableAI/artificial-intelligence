@@ -2,7 +2,7 @@
 name: "CyberMDX"
 overview: "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. "
 type: "profile"
-heat: 65
+heat: 57
 
 website: https://www.cybermdx.com/
 
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "CyberMDX"
 
-secured: "ObaQZZhQwHsKH2bh3pd3kQrbQmBVNc6Krq5O9wzohFSBqLJ5vQWqnxxwCaW0tzekupHHYkb+XxfijnDzkibgpkaEYwkO5PJtdSWBzAmJW08NxACnx5eawGSV8FyXphwK8B4hvEa0cFOegNQ8ZgUREz55o67V1HeS1HqGSM7d2WWsxj73wLse5zCjTCGG41u9sQKAiRl1krMsyyRJ8wgHMoX61XkyWXe33P/Ukzvyh1+bdCxuqPylegB+1IEhKwgTxrp3URKrDb/ZvUh3baXtcgscYOU8tK6wMAuHMBjj1eYqUed1rLIi2zO17qjqnBvMC3XlxnoW+ZHVYp7icGVlnnlEqZ/5YWixYBgUNXLpix13ujDh+u0bu4g/fDloL8igh+dhBMQEw+ukqCdXBJynh4oT18eL7R/s0Ka9Ul6K6h8=;xt4gACgsVrrQy4SHOXeqSg=="
+secured: "nUyN+URxSAOE3wTXtulr1QhLMUuSKqQLtdl3J0rTZwYx+8TyjfKCXOx4qIQcUwIYMBsINCwRu/sSH/RhtrhM/DosWL/RYbY52vHtI+iWlSgdhhws0a/S39NR+asJVLp7lDveUQRrxk6Fe4sJbt1mciKY0IBs5k0u9GkpBcNx3hyL+gRHqTC7Xr5PNRsM5eB0oOH7IDPOys1BcwBBEdqh3id59uAM41nfUq/1uIalwaQRbfBPY16c6RJEpajEzWRwGXhf5w9uQR5zVqFTlkArg2wInDJN3/LiIeUhxfreoM78tz4hsEEUxSH1JyqrjLw7xV9yE0gexyp3Mp6HOWSPuWao+W7fxQEPUmdoIVF9Kzc703v6AQldUJCExaTJX93gNvqh+x8XHz58lLlhClDjUoc/x/7bYQvrSf8wKKAR9+Y=;r+8KV8bAfjGPkolyGoqiLw=="
 ---
 

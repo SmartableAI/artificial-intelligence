@@ -2,7 +2,7 @@
 name: "Cerebras Systems"
 overview: "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/"
 type: "profile"
-heat: 110
+heat: 71
 
 website: https://www.cerebras.net/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=czfAzRWRjYE"
 
-secured: "cC8zgFG5uTeGyqCS705VdK8h8pPVFw3SiLsPZYbrYX9QHEPDn2wVikXrKUZRRgH+3KRUNiTailj4IK40ONCwo2+PzDiQb1FjkzLACcQkcJc4YqM2iXuUME5u/9GSS9NR0bs3TH14DOw8TGjzEpJbdyGpnlSHSFw3TSY9mptiYMGf/SRlgPxuhZP9+yRFtKyXz8BS8CvAISwrCQqwExoC2VYrV6XZjE8Qoow4Lu0Q4S/2kT1sPPFFtM5RUWBL5/6gmnCb76TlWixUIkhFcFI03jse4GE7zQdAnK6npv3ooaObmYXzIP3GFAZ1oCwt63e146jsz5fdrWWK/xAHyvpglIp7gJ9T06rJ4W6d3q4279bwOiUYh9oXPt7HdhuaCAaPjXYaRw5x2iYIg+1v1IXhsZ1s0M7MNV+Da8l9BHURDGk=;kTCNr294PP7trs4kqF6y1g=="
+secured: "9SzeKYvzd/HwB4Tt9v/TCf3wcqd/v9WWySIjzaXYSHoai0RdY1p3AhD+CjcaE6y/oUvHSzjiIZ3uAj6z7r6WT1pX7avhK7lyNzL7ns+uDPXQtXmEpabOcC8Gl6OmP31n8gf9gkjp00pgBspLuN6m8G1YFnYWDuizEKL5ORUeuvh5AV6qWlgfsHIWJKs2oK7286GVLXlyWlto2Q+8LeXYfwCq3Ld7Tzzl42YFkqWhXsCSIfkCjYf2+YTU9YPHDEV1qsrZ8jRtQMPYdzTCuMBgk/vQ6gwelBuM5szEE/pxtYfr1zBTIKyzlb6n0z3Q+68n4iOK8/r/McQCCr7+MwhVy9Qrrl6P7tj3IHtlLwWNB1lyxkql7DU/3ZOHIjfEYwcMWecT9z7P8Q1HcQewIfcp7Mh69E+vhmsTNNEj4dfdts0=;FtyKdxQkikBgEETuGI4hRg=="
 ---
 

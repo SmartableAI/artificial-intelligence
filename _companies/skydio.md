@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SkydioHQ"
   url: "https://twitter.com/SkydioHQ"
-  followers: 8910
+  followers: 8911
 
 size: 51-200 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gsfkGlSajHQ"
 
-secured: "gvaNsTKMTp9SfesM4D4Uh6llFHorWe9PWxodti61sGTo8qlw4WDbyPz9NKwNIXKSL2OXAJ0VXKQHVRTQ6Lat1ynkJ9O5ub8VGvT3MoIC4ghEvIQPAlx0+R2mNoVspuDFmuc/thjrgtU+sOkyvNIHEQbFHF3mV6/UTF2U30OilDueypv+H+m4oEe3G+qljydaPExrB11d+OZtGYeicbko7J1IFvoCmBYYsoMIc94qurIDjmo7gbHcqBfPfn/k4mn+gAAggLxXF4yC3GExy2/Qaz6kgsCbEm7nrDGTnyiY9jhB/FDw+4mLROABmfcnoi6ftdMa7uBQraW2IF9ZniP5crAO5K7dFvNFcXpx/2RtYS1vjQeIlQgsxqrJNHDWt9M2SssrrcJTj0vh5RIy2hXyz2eXlWR+0Xv4UK23GVr6AJ8=;vhP9ww2TZ+a6Q0o37hSdVA=="
+secured: "CC1as3kHfHlgG4srSbPDrgy9HWur0zakwpw+ATDtl3IHV9sR/DmsMJ/J9SGOtDaaQxLWEvLMYoOAwnE7pTvMKXcbUT3kZSH6N0yMX+QpNYz6A00GoZPcuChNlpqZIv74QBo/RPE5vjGttiUV05WJql8D4HQWw9lbxkjUqdb+G4FRk4+1EODfSkL9hpdtUWF2p3KKPqpaYAEhh3cXx3RMghqBURrFLJgtE37jIwaD4tCtfQ0X50jqvvcf+fucLbmbcFc8E9ciMo4LaPpI2wEiY6tESCSu0SKeK2AXKX0WS62wxA8YyHcZxNjdQmUMaT+slePST+jtMoMoZm/0t2SBNt6X3/UvNrku2zhQ8Vq5BcQi/tX+nnQlXNtMpdoP/MJ6LFO3vgTJOQ7J4DD7l8KSAY8gh+KVe9v8D9IQXDRhujE=;TewGviirBIWQxLVlLB3E/Q=="
 ---
 
