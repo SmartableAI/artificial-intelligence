@@ -10,7 +10,7 @@ website: https://t.co/wvvOUl1h5W
 twitter:
   username: robot_MD
   url: https://twitter.com/robot_MD
-  followers: 11528
+  followers: 11527
 
 linkedin:
   url: https://www.linkedin.com/in/carol-reiley-7a91072/
