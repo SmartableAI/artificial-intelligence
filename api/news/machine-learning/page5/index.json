@@ -2,56 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-08-03-how-machine-learning-is-powering-a-new-generation-of-app-development.md",
-      "title": "How Machine Learning Is Powering A New Generation Of App Development",
-      "excerpt": "App development integrates many challenges, and these business decisions will trickle down to your user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f241e89c6dd7fb1c4cf29d5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/amp/",
-      "publishedDateTime": "2020-08-03T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-03-deep-learning-based-quantification-of-pulmonary-hemosiderophages-in-cytology-slides.md",
       "title": "Deep Learning-Based Quantification of Pulmonary Hemosiderophages in Cytology Slides",
       "excerpt": "Exercise-induced pulmonary hemorrhage (EIPH) is a common condition in sport horses with negative impact on performance. Cytology of bronchoalveolar lavage fluid by use of a scoring system is considered the most sensitive diagnostic method.",
@@ -1376,6 +1326,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-learn-machine-learning-and-ai-online-training-program-93-off.md",
+      "title": "Learn Machine Learning and AI – Online Training Program @ 93% OFF",
+      "excerpt": "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification.",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "publishedDateTime": "2020-07-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

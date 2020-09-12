@@ -2,25 +2,25 @@
 category: news
 title: "IBM’s Watson is helping tennis fans argue with each other"
 excerpt: "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ..."
-publishedDateTime: 2020-09-01T15:34:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
-webUrl: "https://ktvz.com/lifestyle/technology/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+publishedDateTime: 2020-09-01T09:17:00Z
+originalUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+webUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
 type: article
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
+  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg"
     width: 1024
     height: 576
     isCached: true
 
-secured: "S26NP8LS9o+96g7rD+hQ/yQJR8yy+LC8uOdebNPbB/3Jm5m5ApLDoTQI97ZvOq1US+HGdhqf/9POPjY0b//sheeBMyyJ3YeVdqbXd3CY2dai+MTqB2xtreYBWs6QvVXOehrccztMeq3fHtoWJ/zYft4/uessURcHy3Km8bcpkdKt8Uydo8124qjc0Mjff7SRcdSxIFs6PRifywoVc19XsIWd+1r6jJIIJv6USNdNGf9etSUMWreXc1/wIj0uyBDChIC6kC4o0+508av++HsDU1YKgxBzEBWe6YMeWRNhN8DmsXklxFrigjWPHbeD9wt7dOlJelsA0h4bUXg/bCc9hnbxEED0olN96/aNhigsG9c=;rtp5HpzYIv2GkO8GLAFp9w=="
+secured: "zg2BP0TylYtSjbf1kYJo4bSOAwVVXzrNJ7whREMFx5lvdseigjlluwSGng3hlEW/Gy5tdZCfAIKsB7Y2tvm8xB9SKW/9zxvcfDcCO9QHwZRrkkBCblpTAapOwDkgwK64xYQEPPewMjoThhFFLs375sy67kIfZwJz2kXdSZ5e79GLaMHb+Eejp6r7qAced5+7TLNEayOEkat+4iUhqtbFJ+ejPxYnUb36glD5eNflBSx8Z1ngH2+rg4eITG6Tgm6BbpbSzS1rB3FejZH9CMa2jfkoDFuEkXbZcxlXbWTsJVgqJ2dulaAmox9aT+dYROid2VWaMh8J7XxSbo9TKF/K+wdLpXmnkYk0Bf879syq4ko=;oS1MWdUhiyS9yn1Rs3Ig4A=="
 ---
 

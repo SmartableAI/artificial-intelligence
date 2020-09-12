@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-how-valuable-is-your-ai-trust-currency.md",
+      "title": "How valuable is your AI trust currency?",
+      "excerpt": "Trustworthy AI depends on building trust in your people, processes, data, tools, and models, including mechanisms for building trust into your AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1175710243.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "publishedDateTime": "2020-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
       "title": "Announcing the AI Innovation Awards winners at Transform 2020",
       "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",

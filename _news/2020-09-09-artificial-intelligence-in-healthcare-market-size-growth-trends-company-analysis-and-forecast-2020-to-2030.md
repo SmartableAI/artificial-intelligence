@@ -96,22 +96,6 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 42
-  - title: "Europe Artificial Intelligence (AI) Market: Industry Analysis and Forecast (2019-2026) – by Offering, by Technology, by End user and by Country"
-    excerpt: "Market was valued at 17.20 billion in 2018 and is expected to grow at a CAGR of XX % between the forecast period of 2018 and 2026. The Europe Artificial Intelligence is segmented by offering, by technology,"
-    publishedDateTime: 2020-09-07T09:49:00Z
-    webUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/963429/europe-artificial-intelligence-ai-market-industry-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-and-by-country/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 38
-    images:
-      - url: "https://www.maximizemarketresearch.com/wp-content/uploads/2018/07/Europe-Artificial-Intelligence-AI-Market-By-Offering.png"
-        width: 435
-        height: 279
-        isCached: true
   - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
     excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
     publishedDateTime: 2020-09-10T09:01:00Z

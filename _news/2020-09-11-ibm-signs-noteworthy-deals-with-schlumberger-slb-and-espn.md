@@ -8,8 +8,8 @@ webUrl: "https://pulse2.com/ibm-schlumberger-slb-espn-deals/"
 ampWebUrl: "https://pulse2.com/ibm-schlumberger-slb-espn-deals/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ibm-schlumberger-slb-espn-deals/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 secured: "1L1FiD7Pz8C2yKxbLMFum+cGu1DOTMPrko8BWB3O/BjVVPgJvOa6si+cd8RzSsIwYxPIPUXKYNeys4PMyPULq4es6ckcHRCcqk3j5Nc0ra71HImqzMZhSCG+tl4td65BmDBhD0isXS0cZ2hLKBOdOxd/LMmudG5C1Q00R355B0/bndHi5GhqZfuWLFnjyw7hrK/h4obXP/xRVA4GhHCoZ1JoHrP+wdEdKj2TSZqf5KJhJH1zzfdpuJCKa38cySiRCk999XPqRZb97oh09Wrhv2sbk3H84nujUvWrGOsqx3xacHAfjMuMWwqaCi7Q5vWpr4/4rLYfNxQBLET34ye3x4dP73pmefcsWfVJ4Ig/sb6X3Dwwx3lrqWP3gD1uxw59YGf09w377pxnJovJQuawLcu4CWTC0h05P2I4jefRzkpEZAhT0SAQpWIJFQOx93RsboqP6yoprIdxW13cXPVQQoHFURPOB2U15MEMGfIhkv9XQqRkzR1tzuXbfa+X2ySSqCba2nd53jf+yo5mrEnExg==;rUErEQfHJkqDxUoZMCQevQ=="
 ---

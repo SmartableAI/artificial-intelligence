@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Next Wave of AI Technologies: Industry-academia Collaborations can Accelerate the Pace of Commercial Adoption of Unsupervised Learning"
-    excerpt: "Next Wave of AI Technologies (Wave 1 - Unsupervised Learning)\" report has been added to ResearchAndMarkets.com's offering. As industries across the globe pursue digitization across functions, more and more data are being generated and utilized to empower decision-making and insight generation."
-    publishedDateTime: 2020-09-07T10:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-wave-of-ai-technologies-industry-academia-collaborations-can-accelerate-the-pace-of-commercial-adoption-of-unsupervised-learning-301125012.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "CuP//WmM7C/wLFvK4zTwavU9SgCxTzftFwTkhK0CFK2dDg8BEeaoqA80IDQYmUID+oFGslh6D7HApsT4s0ugUsNn0JYV0el1nxmnCbI+KjL5UJ+gupB5iUqQ1cxom0DBDvK6sNYwExl0vQzO5xAuTotdZyyKxqKYSJH7qYf7yLqbNXtdKgtGtTlbAA96uqr92uIQb5+IsvslzKpANOx/VP343g6l4PjJEPhhvX+PmDiFeAQh60N22k6qJLsppm7hEz2Zlz4a4gdqMLTMqkeoBDuOqjqBd+X570zh0Qf2onRiydC3LxQs1ShBxhMOTuLnFoIIen2F7F0CSZloy/d1upFx3jYbnf7nGZqYdZay3Bg=;j3Rk9m7Cu6xImXMdI24FQg=="
 ---

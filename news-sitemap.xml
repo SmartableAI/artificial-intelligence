@@ -103,6 +103,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
+    <lastmod>2020-09-10T16:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -129,6 +135,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/</loc>
     <lastmod>2020-09-10T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/</loc>
+    <lastmod>2020-09-10T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -355,12 +367,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ctovision.com/how-artificial-intelligence-ai-and-machine-learning-change-securitys-future/</loc>
-    <lastmod>2020-09-09T10:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/</loc>
     <lastmod>2020-09-09T10:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -373,7 +379,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
     <lastmod>2020-09-09T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -387,12 +393,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/</loc>
     <lastmod>2020-09-09T08:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1765,12 +1765,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://ktvz.com/lifestyle/technology/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T08:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.atlasai.co/about-atlasai.html</loc>
     <lastmod>2020-09-01T07:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1869,6 +1863,12 @@
   <url>
     <loc>https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/</loc>
     <lastmod>2020-09-01T02:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

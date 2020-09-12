@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 535
     isCached: true
-
-related:
-  - title: "Quantum computing in the cloud - Xanadu discovered in Toronto"
-    excerpt: "Chris Middleton speaks to the CEO of Canadian quantum cloud startup Xanadu about what it claims is the world’s first photonics-based quantum computing platform available in the cloud."
-    publishedDateTime: 2020-09-07T09:55:00Z
-    webUrl: "https://diginomica.com/quantum-computing-cloud-xanadu-discovered-toronto"
-    ampWebUrl: "https://diginomica.com/quantum-computing-cloud-xanadu-discovered-toronto"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/quantum-computing-cloud-xanadu-discovered-toronto"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-09/08B7F7C3-1232-4380-A6B4-3303EB8D0007.jpeg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "k5b1AWHLDl4ieUlQKJw5OfZubN7J/1qQcIrSDT2ld9Y/hegDT4rqpVSryyrjaTbf1SOFkw8GBlBOldRoBag1e7+KYaxrfktGqVLo7k2MaW5q7Ht5i9vmiT/Ij9+yGyOxPN+GfCJTBPM3rnT2taZq5DUlnmmzEcHg2zmrJGah5duTWtscsIePQolgU7w7ZcX9M0uDv6aoZSeDIKBY5+i6CsG3dAVwq0E6LzBR5JmKZLhpLjOhRMgXobJmC4uv/RZspFaDrCpv8i3nhUd0ATo+iPp/Dvv4nlAmzMwdIal3CsXUmJ6vjEXWIV1bvAYGkI8k86pC4EMfwI5uN+65l1six5H5brKeg+TGtx07GrgXzabFVGhIX6X/XipAqTaBMoQl3+vpAaWPODefAhp4/taGeWurhGUuc0Tf03H28WpJ/itw9xrPvEBsydKnkBGBPUciBjI6cke2RyNToefO6InaMOXKK45vgoLc08yIC3hwel047e2l+Cnf8VtVrRLKJsYLsv9gukV636lFWQHnH2X2b9TYsstLZm2l1X5Kiox0C08=;F6BJsbKKbPmgN4fql4QX9w=="
 ---

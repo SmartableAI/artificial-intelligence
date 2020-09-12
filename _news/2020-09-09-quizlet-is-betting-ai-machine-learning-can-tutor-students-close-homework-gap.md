@@ -3,10 +3,10 @@ category: news
 title: "Quizlet is betting AI, machine learning can tutor students, close homework gap"
 excerpt: "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant"
 publishedDateTime: 2020-09-09T16:00:00Z
-originalUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-webUrl: "https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/"
 type: article
 quality: 100
 heat: 110
@@ -46,6 +46,6 @@ related:
         height: 360
         isCached: true
 
-secured: "rtP619iv1SlXI6ZcpLMtOJAs35b0ihhmIoRm1pz7uV539bLDh+61GKADpg6bTDhi+202316F71qCVYounqiBXrgQBkVMfQvBa7flB+WYHc0TcB1j2R24Ncd7Te42vmUT9vx7j09l9jpK+N+ulLbT3tBKwiIfuZstBSgW6vu1rl5BB5VQbpH9U3XMMcLJy6j4+jgoB5rMX/Ia10bDCU44h+MNRL9TsFu2wqKpk3/DLesxsjgxjCfdYosCR4g+HnNmexL8Nih+auGyNvY5GdM6E1ICiHSIY7W6ic4IubBMXuWRGnxPq4NTxjgTtGLCv5tdhBFJQGR4RKe8xdjusVv036+SVjJU3xu4f135dtdc/zU=;yjlkyHy2gmX8XlKNS6DLXw=="
+secured: "T3yZEBqkAEehp+wQuW5lXAEcQ9jIhm+BGHIU1EC79uSNBZX3QpDCcFhoQfyC+1WHIAbij/A7ZDNRzbxY0R1cSSvy+6LjWzatavaFTFrcmbi6p33Dn0S76wLgVa2DBlrbJuaEJ4Vdsn0hhp48egvhaTrzIa59JZPtHgmXC355Fn1z7nyXLOwSrtKCasM54iGVzB5BR9GIyS/kA0FOB95G5DKvCzvuhVeWaNwo2k5o4LOZ6rOKV1wqWb9K0vRkLyaTkzLA6RuTP3kEv1r35X+8se2RvJWv4IqDq5e0YFqX74MwUQbVCQif2/dw9Ef7xRgBnvtx5pazwjlZerzRuuiXN739ctiLSw+ozmMWzs34w1w=;uoKqSi5bUbjHnAwbleCClw=="
 ---
 
