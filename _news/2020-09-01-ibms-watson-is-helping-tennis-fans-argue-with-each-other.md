@@ -2,25 +2,25 @@
 category: news
 title: "IBM’s Watson is helping tennis fans argue with each other"
 excerpt: "Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top ..."
-publishedDateTime: 2020-09-01T08:17:00Z
-originalUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
-webUrl: "https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+publishedDateTime: 2020-09-01T09:17:00Z
+originalUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
+webUrl: "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/"
 type: article
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
-    width: 280
-    height: 360
+  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "jxgZZt005xOiYs400V6h4axZtnlKVfUxLbUa2KHk+4Hwf9sBykG6ntqyhfbWLZ1t2E8JgSB473V7yY/cUSSeb4lXEkkoNqtAQkMwNkNyJYQ3OcpZxI/X0eNoSGMl/nES9s1mAbK4XpX7r/o+VJjGO6OmwTCmVU/unE0zJ9fsr4kkkzOdFquZeUw8bzRXY4IrnuUGB+FU9g4jvISwUvHpyTFD4UDLWQ9v1dwsrePnS3wGFXGXMvHFg5wqQeD76ab/eO99Dr5L5pXUJZHY59lp1PD8K4we29BgEU9rO+R4MAlNotPoINDYazAs9fU9odeiNRRpAXJYlD5dI2uBhoITOhSTX4Y7OnkJS8MSR85QZro=;sXNZHXhB2fYGrhsA7nFe0g=="
+secured: "sVRg1Mj1o2we8ZV8ZddI2nv+gMP3nHbuZSb1asVObX/h2AE0pv5aCAslgySOUgm4Pm3HwYWRZqJXQOOihO658YqF0ZxRkVsJTFxG+HZkWxweK6RyTroxKVSFehchHVogPCSxszZ5k2hKaXPyfLRsL10Nz2G1z8EHavHn4tDPT22NjMg8jwgE+da8aRPPcnw5dWLIWx+BEhBNwaPjntl77ohBDnx1WxCp6g2U+0Wxnh9zJKfPPgjoNSghora6dHQisqwrrD9kVKaOwXVjKkLIRPxs7eGM8Lktrov62VZVHy8+a1TMkGg6GHAdf7wXX0XjOiFC3A9QFFaOHGEZixERsGJTVB6WfnOHWIMfPPqbvuU=;rHOR+0hYMxbEEjekxWFi5g=="
 ---
 

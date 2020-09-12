@@ -24,17 +24,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Aetina Corporation: Aetina Launch New NVIDIA Jetson-based Platform AN810-XNX"
-    excerpt: "Aetina Corporation, the provider of high-performance GPGPU and edge AI computing solutions, announced the new AN810-XNX edge AI computer leveraging"
-    publishedDateTime: 2020-09-08T03:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50639703-aetina-corporation-aetina-launch-new-nvidia-jetson-based-platform-an810-xnx-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
-
 secured: "Um3pvrMxRKn4a+MRXhm8RqqkDB24/JTNM/L92dFC2qrjyeVxmdH5/JCKMi3G9Y3yZaUAJHxY/Xq39RK0y5Vcng1R4i6xyiXfbUGPn+8x+AB0yf8y3Cef0I299BJqzYdN3TUKT02GNfvyeY0rbEsihXZFD0wjVqG07CobJAPX4VbKRNY33BgBKvYiG6BgRtggnA6QoHUf+aYeYRGzTG7aQ25eco12RC8hWU04CsOS9vFL22SjJ0sVpHmlu06VEnsF44fHp8UlBb9geRwMgiTmUalgMX16zl/hEnn4LHX02A/o5Nkuz7PbZyHIr2IOOkPcWny6xe5J64llFgBf2pzbomRHMNCMz6YNd8nncqwH4F6F8dl8Qm3kE9GhaYWh1b4fY5Pd/+qge7MI041qeHLVs7JUqDR403cLsw4F7Y+1yn35QkCHAvKqUgVnsIZCQ1Xrm12HpsyYDq/DSuSOMeneMQFN44jrMrNzBOjyy4yvHmZXJkpYqEhnJtte1R1KCXyvifVGSJ0VatkOjMDG3k9OjI4qHFSQO4Q1yiqce5qvWf4=;kYYWevYXzcNcmd2GB2ZfIA=="
 ---
 

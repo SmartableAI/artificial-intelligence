@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence in radiation oncology"
-excerpt: "Artificial intelligence (AI) has the potential to fundamentally ... efficiency and overall quality of radiation therapy for patients with cancer. In this Perspective, we first provide a general ..."
-publishedDateTime: 2020-08-25T09:25:00Z
-originalUrl: "https://www.nature.com/articles/s41571-020-0417-8"
-webUrl: "https://www.nature.com/articles/s41571-020-0417-8"
+excerpt: "The possible uses of artificial intelligence (AI) in radiation oncology are diverse and wide ranging. Herein, the authors discuss the potential applications of AI at each step of the radiation oncology workflow,"
+publishedDateTime: 2020-08-25T09:29:00Z
+originalUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
+webUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 276
     isCached: true
 
-secured: "MRt2Suu/WiJ4eHsYA1DJNB3ali+XcPYMOeeD96J9ywQAWcu9mEYbc76CPFhyWpGbhmKo8T6/7iUWBv3ddMN31Eou359hFsHu08T97Q1Y7USK791ltvqqhSMLEqgnsNydhIM5PxIt9DZLkHCzASw5oYQ+K6y0P0D51WDce5XCFsGUj9iLUyZvkegCaTyua2ZrB8Y2ODWHP7iv7eDg8ZlFJZPLkxMb90Ji9ULLw6hhMxmS9QkTllQXQ3OlsxbwfT+1v9z3Yt46nyKTll9BwtHGpSG2ixYHzT7vA3lPqT8uuD1j+VRK7NzR3AjOLXeGPkEh2YFOKAIRwwtmL8ULRuiDUZaWuml+lyAQd8Z7eYuFcQg=;cOvkw9dq5ZapmuNTL7R6TA=="
+secured: "Lc7QmHlfwwRdrDgG8D/2447y72LYKdLS80rWv0IE2wJH9ZPkg4LASsmVcbUDUa+nzlnmv9HD/j4sd/T3Q4syyN8QWXfkI8uVgDAolMpG3kIRAbsf4fvl4vJfCUP91A1QbNCRLN1UAUINHmlYhv0RmuKSdTNt7FjiMiRI8hP7ksZKPakAKfTE9q4ofdkkjYADFSTUvbkZgGh9CxPggqRU37rM7kwSio7jjXvC5EEoCyHKp7dOqBYxJt0AtKOdfMAsi5B4/dmJX6a9+E0AAokoTamLj7NCuc6UIGbw9E3k9XV2qCuGFp/bhdTDqQFoeie9eHbid8EDjwX8YOpuAUyNYOuOcH2q2ZSPDqEf/OTaZ2I=;0GJa+GwguLRgIvCmIgYGuw=="
 ---
 

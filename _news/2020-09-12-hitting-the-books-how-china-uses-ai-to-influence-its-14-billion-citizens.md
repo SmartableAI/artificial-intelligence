@@ -3,8 +3,8 @@ category: news
 title: "Hitting the books: How China uses AI to influence its 1.4 billion citizens"
 excerpt: "Today, states and their actors are waging a digital cold war with artificial intelligence systems at the heart of the fight. In T-Minus AI, the US Air Force’s first Chairperson for Artificial Intelligence,"
 publishedDateTime: 2020-09-12T15:54:00Z
-originalUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
-webUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
+originalUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com"
+webUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com"
 ampWebUrl: "https://www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 350
     isCached: true
 
-secured: "uOCn8R9leVK15fhk0HYYeA5TaSlLNTenHfBeQ9OJajomk1EMRB7nust7MIlUwQvDNLkfW84NG3jm08g3jcIpjDBt5m9fUZW5u0KTmdEUaww2csSjJib9VDaERpvZrJlItX06W/AP+xSC8rhoN37VbgFto7iE4n+Q3AApBLQpnRwuMGpy62mC3R0PFcQbFikekDxoTYnNeGGHGyz5bIgeui8TjQkw01PtY2SxKxJObTSnW0xwdZEi96ULrqCmynnSMpRVKtWaVciOctlTWapbZJ3DAqOyO64LK59HB8W4SBWFbD6gNVVSFPM1PkD7QrB0iA6MgfXrwN4YBWSKloKl7Ok5R1XlRzZXXPfdFGGLvXdMwKIw6fmOaKMYKFLqgGAN9Mv750tp0v48V9he+r0jR5PveNC0naOBzNyWFKuE1UplkPsTqr4/2zbFKFaUxFqH/1ean2KzPdvaDycvrcoywrXLhlmz+D835I4yYMfeOjXifIeX/Lzot1aUMKwSvSVlbb3DqBcrB91305aCVMaxow==;DmV4sSKgXAv9qTnCldX3Mg=="
+secured: "hY0GT5RAEEbfdJHbO4heeiqd1Jf88yj1FkSv8WExlZ9hlKu98qwNL4NvFRhO46SuG2JTF+cMNAh1V1/4ZO8gEryekK6t264z70TpR7S1ZWYVyiPqn/H0jh9pRFwSMYtyAjt+I++Duu08vyOVjuMKfhZTC3lYAMCmWj10v4IXS+nWfI58P3rQpdk7bEbmuT3/fV70lAQ0JgXi1dh1+MVLyKmzGXyBei61vXxk1VfeU2CP+HajLcryXP1PNtbMa2+uV/9xBBsIA9FfvFsiNbbqxk1ZplwsZHToeHvoLvH2KO1vMFlAjqDUslxF/MiNR4GlJwO+9VH13+u1M5ubYaVl/SxMfByUkD0lpptKTTpN2LM=;PWS5R3fQIRqtSWR7uWKxUA=="
 ---
 

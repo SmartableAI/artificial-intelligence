@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Partnerships, Allies Critical to Defense Department Artificial Intelligence"
-excerpt: "Artificial intelligence is significant beyond the Defense Department, involving partners and allies, the acting undersecretary of defense for research and engineering said."
-publishedDateTime: 2020-09-10T21:57:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2343462/partnerships-allies-critical-to-defense-department-artificial-intelligence/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2343462/partnerships-allies-critical-to-defense-department-artificial-intelligence/"
+excerpt: "Partnerships, Allies Critical to Defense Department Artificial Intelligence. Artificial intelligence is signifi"
+publishedDateTime: 2020-09-11T04:01:00Z
+originalUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews02.htm"
+webUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews02.htm"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: US Department of Defense
-  domain: defense.gov
+  name: GlobalSecurity.org
+  domain: globalsecurity.org
 
 topics:
   - AI
 
-images:
-  - url: "https://media.defense.gov/2020/Sep/10/2002495005/1280/1280/0/191218-A-A1908-1000C.JPG"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "3ODktL1P6aK554j/IjeYOBgjMx5Kmr4qPr7Qk0V2CnpGsEkgagyynUvfD6xgjjoK4nKndztbp5bL2VLYdCKJPFVUIlQ0w18AWYRBWOO84po/1HoH5A9ttvMJdKqIW5P/vxbFkh4xNwIzxGJt0DLuchtT67DGrouc1VT6bIj/KRrJ/AMS29Dbl8AfHRbL+ABGg98pH3FKgGL03zkapWLFzeiJ/zdpXFA6qKtfH3BT/SJYxPHwRo/sAJUkGnkY2VGs9eTN7LD7eDLX7jUwvXFOWxikeA9iE+lXFoWuwpW73uhKIGeIgrX13WLfgmRDr/SMawrS3mkkem8FxkqUwGufIRcleSrVyYKGNI98XGaSvniVYRELmGsrAdecFk5ZnDrBaKqyDEjlhmKQzq+DBH0BXjk3xdE3s7T4Ecs/nnpwH+oe5BuUPC7+DJ7a13SOl77hcWv0noqpnaoWALKxA7vzriz0R/XIhmqjhsNO9dbcNX8KCsLM3G8G4ttHRYM2nh4HUAHk9dYpTKYOy/IrS95TU0Y0gglRh+8j2q66NpfLLCo=;ibYr6ENt2yfnIN7L8dChsw=="
+secured: "oRVProsHeZ9V3aJf6ajROCPKwQwNo4PLhWcyuGRAaRrnr80y/N1j7wo9L1Fo9I1Kxry3Aba2UBtsJxF856d3CdBMfAt/QIRnRjlvMw7ACaWu9FaFvfZrijJNwyOVFH391TQOmZrYBEi05VCcNYIJqG6KIhYTlpUEvlwfrM+VxNdArKosNlszCscE4V7s29bo4Kk8208LkbMW5ZzXkeeBNW5UTzePbua5elXyD431GmxbCddqKtGxTGCN1Q4+O3rX6eHqbyM1ABTD0cSN+Vm6ireWf0PyE++T2k+42drCIa8+nltNmBQmS0QTohJ45fyPBV+lNw5j9+b10ZTWEIWYqhUa98K5YJEnUBJsNL/HCq4=;x3cZl9XR2nFm6jHV6ZPr/Q=="
 ---
 

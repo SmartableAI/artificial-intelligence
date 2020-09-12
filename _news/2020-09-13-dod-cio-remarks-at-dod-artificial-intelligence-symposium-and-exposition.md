@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-12T18:58:00Z
 originalUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-dod-artificial-intelligence-symposium-and-exposition/"
 webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-dod-artificial-intelligence-symposium-and-exposition/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: defense.gov
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -81,6 +82,6 @@ related:
         height: 721
         isCached: true
 
-secured: "Ao9wgkCtb/kmOOqvoSAIxGd0UdzyMO9pfjeVvQcGmz00KoHCkdCbE7ZdFk4ev0fenUShmK4ZnhTq17TBveFa6LvkDpZTo+BHdnaePfpQQYpdgnE0mFxxov40FPoWgdvmxXEKD3Sp/+Z04mj6R9nbn4tQlk2VvTqHtuxP/mOebX+S2N9xsSsWtpSlLUotEBONdBsA+BMM5B9zWDVMbA/tnyjPk1EHIXht3ERJpQBDzQ5f8G7Xdvo+L8ybdDOcoUZrMtVaHCzDd2JOEP7QTIrf86l7K1CZiHQF4AZ1kFOvt+PhdD04fYLTbmfez+xZlrVJTPvuOP2hGtHekyDc6/XrCn52nHKGEewezVD+scpqz2Q=;xTaaduUvedmfCtUXB04K1Q=="
+secured: "w4W8RL1bIippg/8gFz0tLd0GPnQWVvEuEUG9d23SeHpK5dr+OIc6vNEPw3j5msr1Phg0YLOukwYPujqFNgQzEONWVljde5aXV7TsruilyVszHfN8/oXlpeW1QyqjXScK4P0exFC+q9kTvuAXRZZaPsvTd1KliIOFhGNN8Zf09oeIi+SwDrERSIMIzwz5BdUebDxj0lrbH4uxap8OO30X1X/Y9x4n6oAieZh7DEIDwzHxAF2yN4LMhDMIbuDquBDJadN2PBDumDFSw+cXVudABERbZiBoZUZDk2ARInfJa7v35uhOLcUU4AJWQQ1yS4k0n5dXfI7AwVTAtb1ieb6CpRTISOVbvzfIUjWyEPFELk4=;5EQqO2Bzi8VCzAXVDzo34Q=="
 ---
 

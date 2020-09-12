@@ -46,7 +46,7 @@ related:
     provider:
       name: US Department of Defense
       domain: defense.gov
-    quality: 37
+    quality: 39
     images:
       - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
         width: 1280

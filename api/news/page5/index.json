@@ -192,6 +192,55 @@
       ]
     },
     {
+      "path": "_news/2020-09-08-artificial-intelligence-can-improve-process-management-in-construction.md",
+      "title": "Artificial Intelligence Can Improve Process Management In Construction",
+      "excerpt": "Construction has reasons, from safety to high cost and more, to be a slower adopter of technologies. What is shown is that artificial intelligence can help the industry and is beginning to make inroads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/",
+      "publishedDateTime": "2020-09-08T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai.md",
       "title": "Transforming Accounting With Artificial Intelligence: An Interview With Eli Fathi, CEO Mindbridge.ai",
       "excerpt": "This blog discusses why the accounting profession is undergoing major changes as a result of AI technologies. An example of a World Economic Forum Winner in the Top 100 2020, Mindbridge.ai is profiled due to their leadership in enabling auditors to to improve forensic accounting practices.",
@@ -1119,56 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-this-us-based-healthcare-startup-is-saving-healthcare-cost-by-unifying-patient-records.md",
-      "title": "This US-Based Healthcare Startup Is Saving Healthcare Cost By Unifying Patient Records",
-      "excerpt": "Till date, Innovaccer has saved over $600 million in healthcare cost and has unified records for over 24 million lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355840",
-      "originalUrl": "https://www.entrepreneur.com/article/355840",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1599492386-MyPost32.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355840",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355840",
-      "publishedDateTime": "2020-09-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-31-japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control.md",
+      "title": "Japan explores AI as the pandemic curbs in-person quality control",
+      "excerpt": "At a Japanese factory, robots have started sharing the work of quality-control inspectors as the pandemic accelerates a shift in mass production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/",
+      "publishedDateTime": "2020-08-31T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai.md",
+      "title": "Allen Institute open-sources AllenAct, a framework for research in embodied AI",
+      "excerpt": "Researchers at the Allen Institute for AI today launched AllenAct, a platform intended to promote reproducible research in embodied AI with a focus on modularity and flexibility. AllenAct, which is available in beta,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/amp/",
+      "publishedDateTime": "2020-08-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-adoption-of-technologies-like-ai-ml-by-the-insurance-sector.md",
       "title": "Adoption Of Technologies Like AI, ML By the Insurance Sector",
       "excerpt": "While businesses across sectors are embracing technology-enabled solutions, technological innovation continues to outpace technological adoption",
@@ -1068,105 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-30-human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning.md",
-      "title": "Human meets AI: Intel Labs team pushes at the boundaries of human-machine interaction with deep learning",
-      "excerpt": "Working with a variety of technologies, including GPT-2, OpenAI's generative deep learning model for text, Nachman and team are pushing at the boundaries of how a person can exist in a give and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/29/3f7c04f8-4ea3-4718-bb58-fa91c8069d7a/peter-scott-morgan-cardiff-productions-690x460.jpg",
-          "width": 690,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
-      "publishedDateTime": "2020-08-29T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-ai-startup-what-you-need-for-your-investor-pitch-deck.md",
-      "title": "AI Startup: What You Need For Your Investor Pitch Deck",
-      "excerpt": "The funding environment for AI startups remains robust—and some of the rounds have been substantial. Just recently Dataiku, which operates a machine learning platform, announced a $100 million Series D investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4a87023f7672338024f9e6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D292%26cropY2%3D3532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
-      "publishedDateTime": "2020-08-29T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

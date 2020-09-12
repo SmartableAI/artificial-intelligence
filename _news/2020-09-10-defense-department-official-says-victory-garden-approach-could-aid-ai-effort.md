@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'Victory Garden' Approach Could Aid AI Effort"
+    excerpt: "The JAIC was begun in 2018 to accelerate DOD's adoption and integration of AI. From the start, Mulchandani said, the JAIC was meant to serve as an AI center of excellence and to provide resources, tools and expertise to the department. Today, the JAIC is ..."
+    publishedDateTime: 2020-09-12T21:10:00Z
+    webUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews04.htm"
+    type: article
+    provider:
+      name: GlobalSecurity.org
+      domain: globalsecurity.org
+    quality: 19
 
 secured: "IeEs4VTeKg7Qc9qA8RyajTArlip+jfyxBbpVLweg/kRf7i8Lo2MzabGtCkPWHBtXqi0MKXt1imDLfYMg8i5sVXUZM6cRlwja2viqXDCg+QTsiS2sKoqJjnTBtBskTi7b1qtD6chhJeWS512lh6XGXojB0VCM/JHEHt0cyb+dXsP9o20F5IszUKhaiBpCTh5uK7YX26a6RMlFbCmdVJEb+bemrPP8q24RrWfCql25CgxdZGCC0ZzUVUdsP8EAKYf6H2IR7fI35mfpW0V8k6jpaEhRBbcEeDuCBNfPUFZI3ZY1ND5FAWdI2LE/zNWrqk9m1NdqVD7p74SX6sN2RrLc8i6gIo+WVXDCEbh742kYfyxBuqN7T3uGBDDUVDAiUxtrjIk64qaRdHnytrqR/o5Eqw1c6T3DWSzbjdEsR4pkawgOgGoI5EMDgJ6e/a06NE2+7r36HFwmUbS9EkLPOBikJRxEjilhuwfBleUBej6sIgjP7m1ZZtbv93s8nAn6mxB5v/Pb1jsaCcUmSRe6UIp0kA==;1nLqWUdjJbBwY6lHwy/uqQ=="
 ---

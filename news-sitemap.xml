@@ -13,7 +13,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html</loc>
+    <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com</loc>
     <lastmod>2020-09-12T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://techcrunch.com/2020/09/11/toucan-funding/</loc>
     <lastmod>2020-09-11T21:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/vice-chairman-algorithms-make-ai-work-but-other-components-are-also-important/</loc>
+    <lastmod>2020-09-11T19:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -45,12 +51,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,12 +171,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/</loc>
     <lastmod>2020-09-10T13:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/</loc>
-    <lastmod>2020-09-10T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -445,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606</loc>
+    <lastmod>2020-09-09T07:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/</loc>
     <lastmod>2020-09-09T07:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -621,6 +621,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
     <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/</loc>
+    <lastmod>2020-09-08T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1873,6 +1879,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/PR%2520Newswire/0db8ebfe0c1cb7b738d3be49ab3df670/gallery/e2ca6437acbdafef8c0dbead12da412f</loc>
+    <lastmod>2020-09-01T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/wearable-robot-company-marches-to-big-raise/</loc>
     <lastmod>2020-09-01T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1945,8 +1957,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
+    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3319,8 +3331,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
+    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

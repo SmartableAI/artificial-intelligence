@@ -7,7 +7,7 @@ originalUrl: "https://westfaironline.com/128222/ibm-adds-new-feature-to-espn-fan
 webUrl: "https://westfaironline.com/128222/ibm-adds-new-feature-to-espn-fantasy-football-app/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
+    excerpt: "... and IBM's efforts to make playing Fantasy Football more engaging by utilizing artificial intelligence (AI). Trade Assistant with IBM Watson is designed to reduce the complexities of fantasy football trades by suggesting trades that assess the fairness ..."
+    publishedDateTime: 2020-09-10T01:29:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/10/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1252367/Trade_Assistant_combined.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
     excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to"
     publishedDateTime: 2020-09-10T21:49:00Z

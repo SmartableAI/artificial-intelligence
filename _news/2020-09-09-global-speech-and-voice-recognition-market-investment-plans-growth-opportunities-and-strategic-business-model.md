@@ -30,7 +30,7 @@ related:
   - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
     publishedDateTime: 2020-09-11T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

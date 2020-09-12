@@ -2,9 +2,9 @@
 category: news
 title: "Judge deals blow to facial recognition firm, allows claims of ‘deception’ to proceed"
 excerpt: "The ruling issued this week in Chittenden County permits the Vermont’s Attorney General’s Office to move ahead in its lawsuit against Clearview AI over the gathering and use of online photos of Vermonters."
-publishedDateTime: 2020-09-11T21:03:00Z
-originalUrl: "https://vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/"
-webUrl: "https://vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/"
+publishedDateTime: 2020-09-12T01:03:00Z
+originalUrl: "https://vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/amp/"
+webUrl: "https://vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/amp/"
 ampWebUrl: "https://vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/amp/"
 cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2020/09/11/judge-deals-blow-to-facial-recognition-firm-allows-claims-of-deception-to-proceed/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "00wLsZxDcMIF0qHXP1grGGWrQCenYuhqP3jWrF2YVXmhlCD67zcBdApdQt0Q+rJP4rulO9SIsPjYYap0gigYHDNcUcRn/wBQ5FIsGknEFVwPfrJqDRAlwjSs2mI6nqSOZbp833wJLlndEBgJ6g7H9+AlUIRldf+26JJ9k6GIUXW9GEqhxRTca9wuVn4p0hyyK9LtXR6zcZ55cDK0phtF8vcIL/llRnc/9585wb3huIeR8K69kuRB4Rz/h6t58B6K4Us9TMusO4eTH/7emgeFIANyuyH8N2Onvt9g2Dz7/8B/AlGMMg3ptlnsySXZ+9SiDI3j39DckVzjCLC5l++9CM5HsaQ6JtZRPi4S/86eCEzrib788eHnFX58L+I+dBfEK2lTb6ekpz2i+yi7g+r947TpCEWp8/XHu33G82Qv6kJ4BiCvAetNi9ByeJ4s0bkOHE0iYuEm6LXIj1FULiRsjiY8G75Ikgw3JKlpcLV0B2MmuLWLrb71XW6t8+aGJM1F1rJLBtqPJiZpd5ebZspAmw==;cq5byh6vxhOtqOOFwPD7ew=="
+secured: "tJtcxamYLfaP2TK7p8pB+hV/mbo2v63AxfgUjyQGTQoqObcyHmBneU+Hj60J9feYo9V5atz1D+ZH1XGFkY0HKw/AkNpwg5D9fOy18e2BHUo2OSJkJgbGAxWJd55GpE9f9eiJ6KXQ2Gi5HaPjwQ1oziCb5bE8/MDziTmYCIww2I+XYpOslRQOOfI7FpJSUTNtOPvafzeFdLG5CicrgeJoyTTbGHT1kq1DU1EDkrhL84E2c3BIkafe6GRsJo9qS/qJeAKrGFK6IYO0hyFDEOvZ2R8RbUSzkNUCWIuvF3x8SUBjt5z4uzHKlQMu2Qj9RFD3C5DKL4lChtdjnd39jcgDOkjIBP6XQX8UO0sJgZWAUtA=;ofounuMZlpIFCkleyb3S/w=="
 ---
 
