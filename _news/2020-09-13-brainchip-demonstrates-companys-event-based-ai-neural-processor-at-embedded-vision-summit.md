@@ -82,6 +82,6 @@ related:
       domain: morningstar.com
     quality: 14
 
-secured: "K09RK0XsysFHQauEyI8ofu9uDrwp1qA2SGDBMmXMr6vCp8w8tlIIS0sxtfiEMZBTYS419muXZ3ZcolVawbu2/u4saIwypjOpwi29a2DbAXlWuICPcfo17/DqfIhSLgcjz7EjlN46k/iT4MR9jcCsng8ncgjMTD+vEms6FtHmq1p6xws/G0qs7nMDCIwxQFcQw5Ic1FuREuE0gFqZDwNoCZMuSCMZllMZ1oiqgeteG7ygUJcS6z7qBmOKjw/YwlRAU7vHXo+rbmItzy/rq3Ehu2Va3ZnyKwnSzk8LaH370Hqlt/MG7hMU8HpvQt9VzSHyRCQVl/sYed7TLaaJlwY2ku30xohbwy95+c7z0YPjX+0=;uDUcCffdxQvDILHdcxG9+A=="
+secured: "qyfDg99sPs5PyyEXw/qqx/k3otQ2/1b6U4YYZ2cjEPw84XL+YIAsGZSVqOg0NuvR9m+TWc9GkdUcerrTfs3NVuj8+m1skexN7ctTswpSlYHirY3X8RbS1/KfTbuPeRTpv+78ybVMvpzr5rsRYiNszqnUF2gGFtkr55rnGlZErFjjTSeS+QlV4JYDspr6hQUxkfHl3T7mrjbMrHt/EJXS/h5RxIzVW4w7ZNDI8Z1RHEh0zBW2SCVU2pkSdm/ZmztfxzCTiJRPSrLCbv1JvzSrvA12si7UL6nE0iKIHmFibvLaoLrz6qOjnnamvooxhMBIrDE/tU4pvWOmxpmIiJcsfjB9pZQpyiBC9/Hbo+DOw2s=;z7DbL7geGhl564XpTpB6TQ=="
 ---
 
