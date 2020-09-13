@@ -3,8 +3,8 @@ category: news
 title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
 excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
 publishedDateTime: 2020-09-10T11:18:00Z
-originalUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public"
-webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public"
+originalUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
+webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
 type: article
 quality: 27
 heat: -1
@@ -348,6 +348,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "55poxdV3w0DSItTVLV5qa7s/+hTdRATEK6h4qPT9i+tHWnbf50TN3HVKmzNcH+AaENWEuaUBVSy8PgJwFXU816W4E3aGRk5z76qp1tTsrVS9gCN7snWczj730ov9+3yPiWeva3QN8viqkihWiD9Xoxv44PbkME3yzock4Xe/OhZ8KkOOdYpiu5sgtcJWg8WPYw6ZYmscvkzqUsuWzxJ3r0WlkivYsmufdU3DRpITPKZB8rd/BumCzUDCt3s8xqLs/bT6/aTVNHEvAQdDGXmIkyTq7nGt9tmb2HsyFiCPnNq/WM5ctHCInQ06T81zyKvSwP1HcxBCSaeNrhruOcmWJuu8iony+SUfJty6mpqCvLE=;qkj6ZZgIhRQJFxCOneMoWw=="
+secured: "W7j2qoMN/DCfuDAwv3IX1FxnNeZ7SYZtpPQkpZwLKj/XPm/yW2kSo5OXOCk/JonybWEeCxv2ZyrDynvOmzZygzF1bDvJUi9y8pGlulS35y4gruZ0Vcho9FGigjk+2uH1rYFD31cDzYNi9dqh9h+6Y8NDiyJsKBb0FbTuKcfzmvzs/AO6i4liiNtp2xl2DMe78cvaGPVTZA78rwlGqBKo5mgP63I4fNXIo9Cma5YCtPZO39PEb2bBkyFJeum4Ni9TKgcConz8K3iRCSeg8su1eoJGx1GXWqpZEpvGwtdcmUNQqnWLgAJX9wKBgfhTV4bGHmA/lGWVPfc4dxptWMKzf/5ja/383jAr5lAZGqaJ9Es=;vxP/1p0f8UGNa0JmH9H5vQ=="
 ---
 

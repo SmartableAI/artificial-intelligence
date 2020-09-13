@@ -43,22 +43,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "Robots found to improve mental health and loneliness in older people – study"
-    excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
-    publishedDateTime: 2020-09-08T05:11:00Z
-    webUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    ampWebUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    cdnAmpWebUrl: "https://www-newschain-uk.cdn.ampproject.org/c/s/www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    type: article
-    provider:
-      name: NewsChain
-      domain: newschain.uk
-    quality: 56
-    images:
-      - url: "https://www.newschain.uk/bsp-static/image/2020/09/08/05/eda78d565e1856c9ec67db4b7387ce81Y29udGVudHNlYXJjaCwxNTk5NjI4MjU2-2.55380519.jpg?crop=61:45,smart&auto=webp"
-        width: 1564
-        height: 1154
-        isCached: true
   - title: "Robots found to improve mental health and loneliness in older people"
     excerpt: "A study has found that social robots can improve mental health and have the potential to reduce loneliness in older people. This could pave the way for the introduction of the technology in UK care homes."
     publishedDateTime: 2020-09-08T12:56:00Z

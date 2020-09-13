@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Market 2020 by Technology, Trends, Share, Revenue, Top Companies, Segmentation to 2025"
-    excerpt: "AI In Computer VisionnbspMarket Market 2020 by Technology Trends Share Revenue Top Companies Segmentation to 2025"
-    publishedDateTime: 2020-09-08T06:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266334000/ai-in-computer-vision-market-market-2020-by-technology-trends-share-revenue-top-companies-segmentation-to-2025"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1599509105.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Image Recognition Market Growth Opportunities, Industry Challenges, Size, Future Trends and Demand Analysis by 2026"
     excerpt: "The global image recognition market is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-09-08T11:24:00Z

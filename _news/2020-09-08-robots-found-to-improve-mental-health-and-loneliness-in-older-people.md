@@ -57,22 +57,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Robots found to improve mental health and loneliness in older people – study"
-    excerpt: "The study marks the first time researchers have collaborated to explore the possibility of developing culturally competent robots. #Technology #Health #Robots #PA"
-    publishedDateTime: 2020-09-08T05:11:00Z
-    webUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    ampWebUrl: "https://www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    cdnAmpWebUrl: "https://www-newschain-uk.cdn.ampproject.org/c/s/www.newschain.uk/news/robots-found-improve-mental-health-and-loneliness-older-people-study-30819"
-    type: article
-    provider:
-      name: NewsChain
-      domain: newschain.uk
-    quality: 56
-    images:
-      - url: "https://www.newschain.uk/bsp-static/image/2020/09/08/05/eda78d565e1856c9ec67db4b7387ce81Y29udGVudHNlYXJjaCwxNTk5NjI4MjU2-2.55380519.jpg?crop=61:45,smart&auto=webp"
-        width: 1564
-        height: 1154
-        isCached: true
 
 secured: "QAUYkyQxgczh3L1JXvx006PPegwrbF4HcraJ+7zbhRFjBzN2/A6lD0zi37duLbf2SBgZ9WNRDNytfVzcoX4cU5MhIhfMxp5jQ2UqK4tTOG0c3YODaxYzJ7qFIe4diF1iKQ3m5XuqSGHzVvkOrQ16YG3khQmPAIDmsaTbw7IKA4KgJ1hIS6Lu8C8WEtVcvTRLnyWvuyS/sJ2MiAXS52BStCGPQp6ZZOPpPjwaCg/ydSo9o3tqGSrtGGHnLxQIhHAfvULj5Jvs6O2x4quollI9OeqaYH9JPHpCzhAG8vAjJKqzGobqG3tdFVoFtXN0Gj/y1C4eyOB/1D1L3+2KLGtLxsV9TlwrKeJUrI7FORv5cFA=;rS3xqxbfbpQ6Pj8AmHp4Qw=="
 ---

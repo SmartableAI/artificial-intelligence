@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market Market 2020 by Technology, Trends, Share, Revenue, Top Companies, Segmentation to 2025"
-    excerpt: "AI In Computer VisionnbspMarket Market 2020 by Technology Trends Share Revenue Top Companies Segmentation to 2025"
-    publishedDateTime: 2020-09-08T06:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266334000/ai-in-computer-vision-market-market-2020-by-technology-trends-share-revenue-top-companies-segmentation-to-2025"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1599509105.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "oUfFyAi1W6Co4JL2gVC4CFwn79DoDp96+7qRQk3a/rZuLQDEJWX2Adx1qGLp4LjFtgmMpYMfdRiPMTYXPdu0eCwnff/u38FRPArNgf+wiO+kR2SupeHwtOjYAt2Fa+/CRasapuMxga7SNew+cEfj1QpjTSmVcLux+pu3JzSG/6fjoF25QGeRHxS5Ct+GHOiwgQlA0eXfCUyfSirYzDjTh8Fzvc9AevX+IVwkSKEZGJsUIutHW6jkH/ENfL4c7utu2sqbwaroyHFSEVtevVPrspveEdTD6F80xsgDMOg3mWjr7VF3byGNXkXpoZpX4Pg1roaN3ZCM1Xq3umKFef5GJHR96kf98g5f+7HAOAPoiZ0=;7l5uyju1vqYv/Zr91klTUg=="
 ---

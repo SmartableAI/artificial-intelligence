@@ -56,22 +56,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
-  - title: "Automakers may be hyping self-driving cars, report warns"
-    excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
-    publishedDateTime: 2020-09-11T14:51:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Humans — The biggest hurdle for self-driving cars"
     excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
     publishedDateTime: 2020-09-12T07:43:00Z
@@ -87,20 +71,6 @@ related:
       - url: "https://www.dw.com/image/54879435_403.jpg"
         width: 940
         height: 529
-        isCached: true
-  - title: "Even self-driving cars need driver education"
-    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
-    publishedDateTime: 2020-09-12T04:38:00Z
-    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
-    type: article
-    provider:
-      name: WHAT HAS
-      domain: theindependent.sg
-    quality: 24
-    images:
-      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
-        width: 496
-        height: 372
         isCached: true
 
 secured: "IwkTXLJhH422B1J5OWxlBlZ27Dsb/ieQ0H0I6on+BHUoxPXNZsxOwdSF15BZVQGkLUZPqHQEa6Jr4O+Y4HWtUvnn7+RIqqtyEFcEOZm4CKGub7qv6h32xk3T/kSqhuu2qeqQbJz7rxtdDNNe8sFW9XEwdBgB9HS3K+leJVQ9LekWMGq3IE0R1Psgp6yIUwaRjuTrd5A1jUOohNqFGku4VfZX0wE9XP/CztyLOJ6p2FBx3ymrmASoUiq7NGkx7zhuhe/CkmAMaO7+XxgvzMGb43INfQ4cQqKSIxnU4SGYnF2icvIV3GqCS61v8tiyKD174vTRImEe1RvOd3HImLR07qMMEBjMkcGc+GuXyWdEvI4=;Pb3iq6ZkIrnEMum40fx2Wg=="

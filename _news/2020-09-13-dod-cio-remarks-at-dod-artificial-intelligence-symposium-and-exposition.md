@@ -1,28 +1,21 @@
 ---
 category: news
 title: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition"
-excerpt: "Dana Deasy, the Defense Department’s chief information officer, delivered remarks at the DOD's Artificial Intelligence Symposium and Exposition."
-publishedDateTime: 2020-09-12T18:58:00Z
-originalUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-dod-artificial-intelligence-symposium-and-exposition/"
-webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-dod-artificial-intelligence-symposium-and-exposition/"
+excerpt: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition. As prepared for delivery by Honorable Dana Deasy, DoD Chief Information Officer"
+publishedDateTime: 2020-09-12T21:23:00Z
+originalUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dod01.htm"
+webUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dod01.htm"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: US Department of Defense
-  domain: defense.gov
+  name: GlobalSecurity.org
+  domain: globalsecurity.org
 
 topics:
-  - AI Ethics
   - AI
-
-images:
-  - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
-    width: 1280
-    height: 721
-    isCached: true
 
 related:
   - title: "DOD CIO Remarks DOD Artificial Intelligence Symposium and Exposition"
@@ -82,6 +75,6 @@ related:
         height: 721
         isCached: true
 
-secured: "w4W8RL1bIippg/8gFz0tLd0GPnQWVvEuEUG9d23SeHpK5dr+OIc6vNEPw3j5msr1Phg0YLOukwYPujqFNgQzEONWVljde5aXV7TsruilyVszHfN8/oXlpeW1QyqjXScK4P0exFC+q9kTvuAXRZZaPsvTd1KliIOFhGNN8Zf09oeIi+SwDrERSIMIzwz5BdUebDxj0lrbH4uxap8OO30X1X/Y9x4n6oAieZh7DEIDwzHxAF2yN4LMhDMIbuDquBDJadN2PBDumDFSw+cXVudABERbZiBoZUZDk2ARInfJa7v35uhOLcUU4AJWQQ1yS4k0n5dXfI7AwVTAtb1ieb6CpRTISOVbvzfIUjWyEPFELk4=;5EQqO2Bzi8VCzAXVDzo34Q=="
+secured: "eNUOfeIcDbsRQDIJ6UWX1YuE09MJTDwvAi1c4lqlzyl+Twzv7eb+b6dF9UmtM97bpGr4qXVo920si0Ns+J7hEEHJdxho+Ey/xX8E2rYHCVUjwyI1Nj8YNsnEYl396xansDvSbVA0pF5VB425matxu11TRPV2PUqWJgW1Ff/QhPymYkSbktXcU5VkVlwZBPsRgEkEmyXRkSLkY03PgxeVQF+uY8gcb/C7w5/+/pfxLX9dzLzWfjaweWnlXL2DEGkEcwPUcN79a89lRrAXgg7ymemhrt+k2FThvU/+kyRDRsDAxWzEJGplnV8lAZeyWA4NBsijEusXQLRV1GuJw0lBtsbxdHhHws/6/aS51WhktRk=;DqnntFJnZRCdJ0WjunP2Ow=="
 ---
 

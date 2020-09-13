@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Digital Trends
@@ -25,51 +25,35 @@ topics:
   - AI
 
 related:
-  - title: "4 Ways Tesla Self-Driving ‘Falls Short’ In Consumer Reports Testing"
-    excerpt: "Tesla has repeatedly rolled out crude beta features, some of which can put people’s safety at risk and shouldn’t be used anywhere but on a private test track or proving ground,” says William Wallace,"
-    publishedDateTime: 2020-09-08T06:03:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/"
+  - title: "Automakers may be hyping self-driving cars, report warns"
+    excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
+    publishedDateTime: 2020-09-11T14:51:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f571cfcf3fd84099a0bd48f%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Consumer Reports Unmasks Tesla’s Full Self-Driving Mystique, Here’s The Upshot"
-    excerpt: "For those that are already versed in self-driving tech, the assessment by CR is a welcome voice that adds more weight to the ongoing qualm by most such experts concerning Tesla and Elon Musk overpromising on what their so-called Full Self-Driving can currently do (see more at this link here )."
-    publishedDateTime: 2020-09-08T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/amp/"
+  - title: "Even self-driving cars need driver education"
+    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
+    publishedDateTime: 2020-09-12T04:38:00Z
+    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: WHAT HAS
+      domain: theindependent.sg
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56d5d3392f374c800bd48f%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D8021%26cropY1%3D958%26cropY2%3D4534"
-        width: 1200
-        height: 563
-        isCached: true
-  - title: "Tesla’s new $8,000 self-driving upgrade is kinda garbage, according to Consumer Reports"
-    excerpt: "At that time, he was testing Tesla’s latest build of its self-driving system. Today, that very same system is available as an upgrade for $8,000. However, what’s regarded as a full self-driving system seems to fall short on its promise."
-    publishedDateTime: 2020-09-09T19:28:00Z
-    webUrl: "https://knowtechie.com/teslas-new-8000-upgrade-and-its-promise-to-deliver-full-self-driving-capability/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 31
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/02/tesla-model-3-main-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
+        width: 496
+        height: 372
         isCached: true
 
 secured: "/altU78QFYZAE2aTZ1/JQHrcZc34syMlLGnykngx5cxzNPDdN+hPaMmcLxiMagbH6Gd/HPxuFEex06I+qkMxQrFsAHL7W6ox4izAOoHN1kNzWpahsXKxCNuWjWNswvfOggXbs7FJyJzbyhVxtGBLTeAVY3Mei0Peu0/1YMcwxiyxneSODCC+7NiDzwFw0e+VfKomeFJr7a4mPOS4/VUOl2XKJw/iSE7rYxB4IuVeDLXo+TkosQ4VUyI2RUtMtJ8MjwZAetPd3XKeaAqfxLPIi4dtZv0ZtaEN4Q9JhSf//tegVRfh+1Y9T4zdQxtfrWueKsg5yK090+a4ggxEeeLhQwuvJSAh4EigIP+CK958+C3AheKEUlKuvTEnQI5TjAjJ9CdKQwrSMNtcVyww7J6Gl1miVHOJNsb32WSa62X6Qd3Zq1/DuxCKr2Nhfv8l3GEDxQKE4T02wrkVG8uUEQIJ+lH+QTNUEbWzwJU2/zLmlf69hxHZTp6xapJxNYqEvN2IZqnrJHv7NA8OTRX7cJEopUKCgMCPEmo3nXNiXbw6b6w=;q2ZEsNDmQLijoZR9O1qiRA=="

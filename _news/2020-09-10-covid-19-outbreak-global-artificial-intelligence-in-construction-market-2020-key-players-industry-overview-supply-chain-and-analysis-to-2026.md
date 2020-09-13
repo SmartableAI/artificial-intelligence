@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market 2020-2023: Emerging Trends, Top Companies, Future Growth, Revenue Analysis, Demand Forecast"
-    excerpt: "(U.S.), are the leading providers of neural network software in the global market. Recently, Neurala, Inc. has announced their investment in Neural Network AI Software. With this announcement, the company wants to initiate deep learning of neural network platform which is a smart move towards smart products such as toys,"
-    publishedDateTime: 2020-09-08T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-2023-emerging-trends-top-companies-future-growth-revenue-analysis-demand-forecast-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fo4plozZUizYoXrBSOqo6KDrS8zJX+pJO+lMV/MgBTgYcoZuSMjOopZuPIGhxGs1aAr6z6c4PZyQrk0BytcNoQN40QrCj6Dq/svuhUDim+Bj0Ll0JANCtQGt3sNn9oNFz5XrVOUmCZqyN7oFTy3/BrHxBDy5G7qfANa72nvSRJz9bqihprnPldRQuPNk5uZvbRLLX/9qWqx1A8vd7yF5IQKLBMqQRxE1mLtZVzxCB7zVtntIbHRYBsCzU/RcUNX55zQySKlqgs5Z26RhPYwcfsGpfuAPnl2h4Ryi3jVAKkm/lS6ZN0nQ6A/3sjlL+Vx5wTdG3OCbz7VTR3lqlVKgSsz1LRINRa9kjfv7M92Eav4=;OlR9u82A2jtbg9j3o2k6uw=="
 ---

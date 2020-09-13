@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cognitive Computing and AI change the way knowledge management is done"
-excerpt: "A new era of cognitive computing is unfolding and its impact is already being felt across industries, from preventative maintenance at manufacturing plants to patient diagnoses at hospitals. It also drives the rise of sophisticated chatbots ready to assist us across the connected world."
-publishedDateTime: 2020-09-11T18:44:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142813"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142813"
+excerpt: "and generate language better than through human effort alone, she said. Linguistic AI powers solutions for content transformation such as enterprise machine translation. Northern Light uses Latent Semantic Indexing to model user interests and find ..."
+publishedDateTime: 2020-09-11T18:31:00Z
+originalUrl: "https://www.kmworld.com/Articles/News/News/Cognitive-Computing-and-AI-change-the-way-knowledge-management-is-done-142813.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Cognitive-Computing-and-AI-change-the-way-knowledge-management-is-done-142813.aspx"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 594
     isCached: true
 
-secured: "0KtYckux3sEy+UO+0OTtLIbiXFk8KIQZTY0hpzbeoVDv+lb/3d+jXz1OHzZnC7IpxnDxSoJCu8uE6Mac48/reY4Fk9x/jhzmQ2avGTRPbiB9hbqxnv0PE4TvZWVEHLbN63OIGGhYDZ7PHIoScT6+hBv/xhp/ruaSnt4tm6AKZwhKx2OSCW9rHIIufBTmlQq1a+z5pQerJ+drH2fhFCT9SP+S4utrtfr4cmP49w4onOwC/Jwr1s1WkdgVC9NMBrm5ZVUcRDyORTRz9Wg7hRJbx7tgScbdPh1V+SnDLiTuU0uyKMfSLgicFxcWn6R9sW/9AZu6q7MCccohR0tYZEEoeJ4MfFzRVV3FV03ejpVWW3c=;0eGoIzNxA/nC0tpc0ts5Hg=="
+secured: "EOF3ysLFX1JCfwIevt9oPqVr6uk6sPsE64PUUmgUPoKtLVbXgqrb4dB3lo40jHry3lR2WqL5IFJPDiYrjuH7xL62lEyl9wBH5CX7zgiXe6MFsYkPqgqbqMRBMnkivpmUuRex4WoNGBAaDB/nSUiBrvOPdAFkWyyYEuHackpMAXhBvUKhVzZTTUUZXkJfl/anHRUtrWqqmtSswhX3rl8N1CHztX+MQ49VJD3jXy4J8dwB3rhOZIsab4NsepmreZHn9wYw7vsdvSPsk6QcYeTvVt3/h41E6dfQWHMfhR0j2HZmCDkueP1oyBB5ZNbakbFRdiGE4hVkxHEBdANALdnkmXAG7nNtXUWqQi2QbuZgpUc=;lO6IgQFZIi4PEk3H7U3sgw=="
 ---
 
