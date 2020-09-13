@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Community Growing, Transitioning"
-excerpt: "Artificial Intelligence Community Growing, Transitioning. The Defense Department's artificial intelligence communit"
-publishedDateTime: 2020-09-11T04:00:00Z
-originalUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews01.htm"
-webUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews01.htm"
+excerpt: "The Defense Department's artificial intelligence community has moved from being \"AI pioneers to being AI practitioners,\" the acting director of the Joint Artificial Intelligence Center said."
+publishedDateTime: 2020-09-10T22:04:00Z
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: GlobalSecurity.org
-  domain: globalsecurity.org
+  name: US Department of Defense
+  domain: defense.gov
 
 topics:
   - AI
 
-secured: "bx822DIAlqYNmU3p9CF59uD67YgOa7gXHFISzGsSfXe4Hp4W1nOi953KroYeFBMJ6GqMGFG89IW1P/K/qpSDlJA3LlpTUkSqlDJhjY9HIl9FkhcBntf/ndU5o5zZL3pkcmuWWjr4K9/1sJ9c72tmfbJfDuXF1cHTl68hHWIhSGtTul9RwNSM1r9jxS4uVATXfbr8YTouRjJDaLLPbwuk89G4f9ZIt08pvL9vhZMH6d8wwVGAOmHakUZa8v1R5Eq0kl3uUn0Ux7Wu94m9LgsCnLdz75Z3YOHMfVNydpPCLN9f5IGznYqDx7V/TNcfT0MvEsjpxZxTvQv81zigb5fuUwCDGiHaO651FVrs81uZ0tI=;/oAMKm51C8cQkXyJ99ahUg=="
+images:
+  - url: "https://media.defense.gov/2020/Sep/10/2002495007/1280/1280/0/200910-D-FW736-1005.JPG"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "urSPZWJ97ELnBYB0F1pJ+VhBNxxVKd2SE7Ck7HWP+Jncwn0IjGV86C5gDj4M9z/LYyKH2AIitbjPRF5MdYukUIlcRq/l/PqfTKB9EmyvUxaHhdoV6gdTGhSw8yffbEleI51X7MgSDV309lNHCVcmqg2P3cq0wokhvK9U59V4s4o0I/bMfpmRN8JI7I5Thex+SguvIG9DfSc1+I6q0R+0wg1reiFKYd3muo+ONknqDIhu0UG6P7+fx2kifmFob4ogZX57+4WFxkceyCQfRtwMn/wMwJ4AIuoW82zYjm2dk1kQP9cYKV6ZmqgL4gribqYSdKmwM9h4pXP7T5BxNm298bQPu1Ejjeiq7SWNycFvZyY=;uLqWIlJxYlkJh3Q6rm7w4w=="
 ---
 

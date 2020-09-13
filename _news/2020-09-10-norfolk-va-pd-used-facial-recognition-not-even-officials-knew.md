@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Reco
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO"
-    excerpt: "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO)."
-    publishedDateTime: 2020-09-08T18:02:00Z
-    webUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/"
-    ampWebUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
-    cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
+  - title: "LifeLine Animal Project can now use facial recognition to find lost pets"
+    excerpt: "Facial recognition technology is already commonplace for humans, but LifeLine Animal Project is the first in the Atlanta area to use it to reunite pet owners with their furry loved ones. LifeLine, which operates animal shelters in DeKalb and Fulton counties,"
+    publishedDateTime: 2020-09-11T20:25:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/lifeline-animal-project-can-now-use-facial-recognition-to-find-lost-pets/4TBM4ZQ3EZAIPFKWLUTDGA6Y4E/"
     type: article
     provider:
-      name: The Sociable
-      domain: sociable.co
-    quality: 63
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 38
     images:
-      - url: "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg"
-        width: 640
-        height: 373
-        isCached: true
-  - title: "NY-Based Facial Recognition Tech Company Wrangles With Judges in Two States Over Privacy Class Actions"
-    excerpt: "Clearview AI, which uses facial recognition technology to provide photographic information to law enforcement, is asking the JPML to coordinate nearly a dozen privacy class actions after lawyers failed to consolidate them before judges in New York and Illinois,"
-    publishedDateTime: 2020-09-10T20:08:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2020/09/10/ny-based-facial-recognition-tech-company-wrangles-with-judges-in-two-states-over-privacy-class-actions/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/09/Facial-Recognition-Article-202009101535.jpg"
-        width: 620
-        height: 372
+      - url: "https://www.ajc.com/resizer/4ooxhafuejSshGOd66gb8TcZP9Q=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/3HAS5HLVSCD4QCMSJABFJSIMGU.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qVi0ZtreWyewpa41OjCOsXlzrZT/YMybvI7NJa0K4ojR9vScxDhWYpnbiCXpGKgZZd9l81/ZvyuBgRBIpJMqpnmnH4nak/1c/eTEicTHa4X8xTrOWzmsfbjstlOIdoIN423W8VoBLKYq651AHT8m+Os5tEtb1dwIgfV8MIDrAlENTZ5Na8ZHZJhHd4JaylNKep/parXVE68X6F7abd21RwJAuzfOzFyvMzNJGW7SPw+70Zc3/Ce/oQkW+015X9YIWXyUuZ1RyX1TGWX78A8Lw2SAGRONY05lWkn+Dc5MdtUp/Wyud+P6SnPcPGKw5tYHK3zhp5/8zHF6Z1CUVO0iDA/KYwCHYyuBy+j+2P7Xfnp9BzWzHVCVOlXtnxXWvO0/5Ua2lMnpPdz3f3pfOPh4wnbxVxxMnxJBGfL39sW15MIsVQAROnOBOHEiioS1npOPEJ5JciPyKpEnrvmP62FvaSg8o7xWcadpeViFVO2gABVcBHSUs6/KyoXF1RsIP88anqo4AiArNQLOxk2/zoO77PR2cD+VZ+lRTeEIifQGquA=;JmOHUvGxfjPdIubqa7qiNw=="

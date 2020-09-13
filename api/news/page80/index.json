@@ -2,6 +2,97 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
+      "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
+      "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/07/web-5371562_640.jpg",
+          "width": 640,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "publishedDateTime": "2020-07-14T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-global-voice-and-speech-recognition-technology-industry.md",
+      "title": "Global Voice and Speech Recognition Technology Industry",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-to-choose-a-data-analytics-platform.md",
       "title": "How to choose a data analytics platform",
       "excerpt": "For processing big data, the AWS, GCP, and Azure clouds all have Spark and Hadoop offerings as well. Analytics platforms target machine learning and collaboration With data loaded, cleansed ...",
@@ -1021,95 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush.md",
-      "title": "Comcast credits AI software for handling the pandemic internet traffic crush",
-      "excerpt": "Comcast said investments in artificial intelligence software and network capacity have helped it deal with ongoing demand from the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/comcast-3.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/amp/",
-      "publishedDateTime": "2020-07-13T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-artificial-intelligence-ai-in-retail-market.md",
-      "title": "Artificial Intelligence (AI) in Retail Market",
-      "excerpt": "The latest study on the Artificial Intelligence (AI) in Retail market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges, drivers, trends, and opportunities. The report further elaborates on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2089130/artificial-intelligence-ai-in-retail-market-overview",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T713606525_g.jpg",
-          "width": 650,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview",
-      "publishedDateTime": "2020-07-13T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

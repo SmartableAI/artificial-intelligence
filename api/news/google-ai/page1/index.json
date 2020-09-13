@@ -51,7 +51,7 @@
       "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "featuredContent": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1149,7 +1149,6 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-h
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "'I have no desire to wipe out humans': Artificial intelligence system writes an essay for The Guardian to convince readers that robots will NOT destroy our species"
-    excerpt: "In an Op-Ed for the newspaper, a robot called GPT-3 was tasked with convincing its human readers that robots are harmless and come in peace."
-    publishedDateTime: 2020-09-08T17:21:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 28
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/08/17/9856638-0-image-a-4_1599582063876.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "294RQeKxRxK9s9h7sKPGfQmfqWlX/jBRqWDUmGpCRMjRjtaHAoMcJJnwCCuMHI2w3OQgqJtugtMlex8o3lAg0UBiNdWMLjVB76UuKPFQ10l9sDEjVK0/nvMNH3NzHI5AN47DUHp/QyYamswFe48mrJQeOA4yUaC42LFexp+NozRAB0aX7FxdXNDMytWnHBzOOvpKZ06qrwoiwfnRxLeIDNb1fFcXYO7DL49IqxtZu6fDjId3RWxv8uNNsuTmDMHCSoNQScOxjxpeiOdf8cZb3lOgA7wCeUCnqFm1ksHlhRhw8OZL4fAOHymzHQpF+Viy6edMLunXTtcVIPtMXPulgGBfLaLzjrmUv+0MondYbx4=;+6lXy4Q1cL+QMOTWglC7iw=="
 ---

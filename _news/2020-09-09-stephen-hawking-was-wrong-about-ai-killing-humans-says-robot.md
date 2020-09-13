@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "'I have no desire to wipe out humans': Artificial intelligence system writes an essay for The Guardian to convince readers that robots will NOT destroy our species"
-    excerpt: "In an Op-Ed for the newspaper, a robot called GPT-3 was tasked with convincing its human readers that robots are harmless and come in peace."
-    publishedDateTime: 2020-09-08T17:21:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8710479/amp/I-no-desire-wipe-humans-AI-writes-article-Guardian.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 28
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/08/17/9856638-0-image-a-4_1599582063876.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "vF9HscJaIWtrusIdM0csqvgJMfierQMP94t1SDR+pQ3ei06mbL5/eU4quKzh87P8UIk6DkK00gsyMxrYBQ0/gG/AIZ/TVXTX2wUdbSXfMbk/B2RswlrSkNM9OJQ0OIg3Es7oNQ16Zw/VLwaJWLfxvIZVk0HFNAHIjwrNmR7HpLIbtI5Ouy0rhYR39Z3MuDmrF3gmoNjXzzF4whN1fSJuH5JNsQAd0ex/AvY1Z+qshYllat9MfdFpWruvG0KpXOfRdNzYjZkPayy/9xCLUre4EpVNX5d/qCm2uhIvtOOFPuc9bX3p6JnDEaYMwvOKg/aQkyzIcSVdbadB25asc2iyfzJd1ODST52ZVm/MDKN2eMyOKaSHgniPaaIBn0wu4yA+dX1MlfktbOBjU9Zxqhct0s9oYRUtS9jivicA05//s19i/V2zdOWCsESNSKIcKWygcyowhjB53wAmBNrKCgo9+z+GM/0VUdPsKHmM6X/2ZVFOI0ZZPeUdJSDEpvkkebBnwZi2YnFMByqHVgd5A7iV54O8B3cMFi8gjwan23NAmIE=;yqvkokOiZzeoRKhHR5pfEg=="
 ---

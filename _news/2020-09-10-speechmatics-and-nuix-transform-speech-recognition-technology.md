@@ -40,9 +40,9 @@ related:
         height: 400
         isCached: true
   - title: "Speechmatics and Nuix bring accurate any-context speech recognition to enterprise eDiscovery teams"
-    excerpt: "The practice of eDiscovery is a vital part of any organisation’s legal process. Nuix offers end-to-end eDiscovery technology from processing data using Nuix Workstation to the r"
+    excerpt: "The practice of eDiscovery is a vital part of any organisation’s legal process. Nuix offers end-to-end eDiscovery technology from processing data using Nuix Workstation to the review and presentation of evidence with Nuix Discover®."
     publishedDateTime: 2020-09-10T13:48:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/606875"
+    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-and-nuix-bring-accurate-any-context-speech-recognition-enterprise-ediscovery-teams"
     type: article
     provider:
       name: Cambridge Network

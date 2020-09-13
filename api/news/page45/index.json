@@ -2,6 +2,106 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-08-07-microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update.md",
+      "title": "Microsoft partners with blackshark.ai on Flight Simulator, provides SDK update",
+      "excerpt": "This week's development update brings news for a bunch of components including the Partnership Series, the SDK, Feedback Snapshots, and the development roadmap for August-November as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589504421_microsoft_flight_simulator_21_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
+      "publishedDateTime": "2020-08-07T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025.md",
+      "title": "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
       "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
       "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide,",
@@ -1058,88 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels.md",
-      "title": "You'll finally be able to run a Windows virtual machine on your Chromebook with Parallels",
-      "excerpt": "Chromebooks were initially designed to be lightweight web-browsing laptops but gradually started gaining more features, especially when it came to offline",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
-      "publishedDateTime": "2020-08-06T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "AWS has a long, and growing ... NVIDIA continues to release new artificial intelligence hardware, including its recent A100 Tensor Core GPUs, which allow data centers to accelerate both AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "originalUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F585688%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "publishedDateTime": "2020-08-06T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
