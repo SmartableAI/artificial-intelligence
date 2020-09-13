@@ -20,7 +20,7 @@ website: https://t.co/ajoSG5g4Rn
 twitter:
   username: jeffdean
   url: https://twitter.com/jeffdean
-  followers: 167781
+  followers: 167790
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
