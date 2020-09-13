@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
+  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU: WAM"
     excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-    publishedDateTime: 2020-09-13T09:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
+    publishedDateTime: 2020-09-13T08:20:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26408Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26408Q"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 64
+    quality: 65
   - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
     excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
     publishedDateTime: 2020-09-13T10:55:00Z

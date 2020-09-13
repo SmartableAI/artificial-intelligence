@@ -2,34 +2,43 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-09-nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.md",
-      "title": "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience",
-      "excerpt": "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,",
+      "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
+      "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
+      "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
       "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
+      "originalUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
       "featuredContent": null,
-      "heat": 76,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://m.scoop.co.nz/stories/images/1512/smcnz.png",
-          "width": 268,
-          "height": 250,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47310d25c1f0feb8c084b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm",
-      "publishedDateTime": "2020-09-08T18:46:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
+      "publishedDateTime": "2020-09-08T21:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -38,7 +47,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -609,32 +617,32 @@
     {
       "path": "_news/2020-09-08-united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19.md",
       "title": "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19",
-      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai will collaborate with Massachusetts General Hospital (MGH) to continue fighting COVID-19.",
+      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "publishedDateTime": "2020-09-08T09:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

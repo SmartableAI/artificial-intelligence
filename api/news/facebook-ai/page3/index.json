@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-24-ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3.md",
+      "title": "AI Weekly: The promise and shortcomings of OpenAI’s GPT-3",
+      "excerpt": "Even OpenAI says \"The GPT-3 hype is way too much.\" A look at the promise and shortcomings of GPT-3, a language model that's attracting a lot of attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "publishedDateTime": "2020-07-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-apple-has-acquired-more-ai-startups-than-google-facebook-or-any-other-big-tech-company-is-apple-bulking-up-in-ai-or-just-catching-up.md",
       "title": "Apple has acquired more AI startups than Google, Facebook or any other Big Tech company. Is Apple bulking up in AI or just catching up?",
       "excerpt": "Apple bought more AI startups either Google or Microsoft over most of the last decade, a report found. Some purchases may power future services.",

@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
+  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU: WAM"
     excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-    publishedDateTime: 2020-09-13T09:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
+    publishedDateTime: 2020-09-13T08:20:00Z
+    webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26408Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26408Q"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 64
+    quality: 65
   - title: "UAE, Israeli Educational Institution Sign Artificial Intelligence MoU"
     excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together,"
     publishedDateTime: 2020-09-13T08:53:00Z
@@ -50,6 +50,6 @@ related:
         height: 682
         isCached: true
 
-secured: "IwpsBLnlU4can7wvdqB4VwpFPWzpHqnRjqYRn384yJnY0i0xCUfR9BfkrBWGhPbatKAaILyUWdbXTHazXXPX5DUyuNqWK+xjab6pydtBwiLfrK2av1e7y9NBD9xhrFr9lFrhG8aHRWPnMwQiL5uwVNTdr1+xQmbVoqKEQplZPQkxp9J0kj00aKunbpJ/bQ6sSJlZa2FxchoNKPRFEI2CXf5Axc0F9uMbJ3j70QL39sApGn7YB1Ihbibe2OzAh14tQYEElr9BQelki36VWVgxc7VOhwqN3aTHaawqE5U94jlWVO0e//b45IGW/E3GGFYvVg5cfys7Y/VBi5RZOaHnhD5TgDSsxjiHQB8SeIKUz0A=;C2/cW/V6FmDbmxkcgF8UDQ=="
+secured: "di8j/8C5EY1/+gXpA+tk/AAlvMAPPVvAoPLDlbonlvKYM4IFOP5xbakDfv3X15D3weDAGccFppQbScfV7Pk8kwV6DnCv8MNkwUxmiqcK2LjodJMeVH58yFGv6ERXd4WQnpXGhfH2gt5dUJKUHbGsNYijoVxx5GBhdz4gphQY+xPl6tMWn2ul0JGUwHyDCOR9w8JmuKXwDX2l+acM7D8C98YRcg6O0+GiDpb5WVQzY1WFMN8qGbCdsOIhtmTQxCo0KUulWEQrq6XK2GS9NLZG4EDGZr6j78ncAiZCCPtkYdNFuovhxrLZ1RkGNvH0ZDuWvU5lhhYT51TLHtesim9Wt5oE3sd9OfmzAr7FoAv7tpYaEhU/Fx7znUci8LNxfD7+qPJwDfjiIxIh23RXLdK1VBZvB3wYGPh//BtIEMWMd0a9v6JgBwAN1BQ4R2ZOs71/K0VAD80xKvWmY0J3c4UaWteqCbvOA1UxF6SsC1qEm2ONAEfFJU0LlPKEOD7Iu8kCuN3BbJVVa0G7rpwkBmWX8g==;Ib1/APx6nuwU+Q9ydOjQkw=="
 ---
 

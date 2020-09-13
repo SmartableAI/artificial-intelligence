@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
-excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
-publishedDateTime: 2020-09-10T00:59:00Z
-originalUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
+excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
+publishedDateTime: 2020-09-13T12:08:00Z
+originalUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
+webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
 type: article
-quality: 69
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Salon
+  domain: salon.com
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
+  - Computer Vision
+  - Natural Language Processing
+
+images:
+  - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
+    width: 846
+    height: 571
+    isCached: true
 
 related:
   - title: "Portland's facial recognition ban is a major win, especially against Amazon"
@@ -338,6 +340,17 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
+    excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
+    publishedDateTime: 2020-09-10T00:59:00Z
+    webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
     excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
     publishedDateTime: 2020-09-11T16:22:00Z
@@ -472,20 +485,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
-    excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
-    publishedDateTime: 2020-09-13T12:08:00Z
-    webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 43
-    images:
-      - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
-        width: 846
-        height: 571
-        isCached: true
   - title: "Portland City Council Bans Use of Facial Recognition Technology"
     excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
     publishedDateTime: 2020-09-11T17:05:00Z
@@ -557,6 +556,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "0KrRtC3Lq/URRdTFWdNEFdhxR02QLOwhzsYRtammPGsOW5RYYrafwNH4/rVKwDcxwqn7avuECuDzFICNLaZOcLpHNZXFtSWuPoa4CPWOGdDEL/2YClwMKjLMd/nrxXEeeF6sb2VAjlQ5ZJYQJgjsKg1V4uIL4y7mVoDHkfLQ03fbc1HT3Bi3eKM+dXMefRIbfO165WEOhA8lLhLJ2Sr/LfONrGDGGnBMOEVY6dq4w1mSpTZp1CpkMt/yDV7IZs3gVXHFZCFTk9Wm0jZInmGYT+5XKQgC6qcJHbK1FmsSEUAI5JGp3YN/faU9UGjHdIJhtDfPFJHrtzmOKeR2ElYmVkoN6k/SSz69sZI0qNqWxHPSqZM0MCggyw4z1u1zSUYnUhTGweObmKIt1VV1aKQWtKHWilkExxwA20Bfh4p35BrYs2m3MlUvx1F6nEBoyALoLqu6XD92o53i58zGmrmrysmbEe9knXZp650TV8TrwDaYLBG5aC3Izdvinow3SEka2PNRnaaaaSXJ7E1S+/nhEg==;ADLxp9QvFppGemIfSoM+kw=="
+secured: "Ca0mBPO4xqpot8KMSLVWKrd9OcvXbgm4I06r9EiD1y9o0zlWoOTxpkQFyg2IM8wqJkwLKCqsRaEJH2UFHl65ZPJlqjhsbxeLpUzGT67Z98sg2LVSNSAjvSdrKHgAn6txyMoUCgwFhYyRh7eHX6fyWbHALXzEQztbAGYkhP7gAmrofkuMvAfyTJNpZCRN01Ix18I27T2J1XFpgJotcNRJ0/rkUuxFTEogFuL0McUi+GW1XmF5UtxSRLuGCcD4/wKRxY9MyU5zmJ4Ir5CJRauhtGS+c7BSH+2YcPepwpCFg6g+uBpz+JwXpZwNyVGK4Sz5mzGsV/THxOAKlzcvkGxOK8HXT2uGnjM+DETvdey3heg=;cmcWk9XGhvyFCFoB7MHDqA=="
 ---
 

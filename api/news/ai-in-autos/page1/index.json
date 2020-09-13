@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-13-waymos-head-of-lidar-explains-how-the-advanced-laser-tech-went-from-science-fiction-to-being-a-vital-tool-for-self-driving-cars.md",
+      "title": "Waymo's head of lidar explains how the advanced laser tech went from science fiction to being a vital tool for self-driving cars",
+      "excerpt": "Verghese spends his time developing new laser radars to compliment the evolving Waymo suite of hardware and software technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
+      "originalUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f4e8ac07ed0ee001e25cc32?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9?amp",
+      "publishedDateTime": "2020-09-13T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights.md",
       "title": "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights",
       "excerpt": "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed.",
@@ -1325,56 +1375,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-symbolism-versus-connectionism-in-ai-is-there-a-third-way.md",
-      "title": "Symbolism Versus Connectionism In AI: Is There A Third Way?",
-      "excerpt": "The debate between two divergent schools of thought in the underlying architecture of AI systems is starting to ask a new question: Why not both?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfa1d1eff46907fd8eea1%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/amp/",
-      "publishedDateTime": "2020-09-01T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -1,15 +1,15 @@
 ---
 category: news
-title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
+title: "UAE, Israeli educational institutions sign artificial intelligence MoU: WAM"
 excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-publishedDateTime: 2020-09-13T09:54:00Z
-originalUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
-webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
+publishedDateTime: 2020-09-13T08:20:00Z
+originalUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
+webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26408Q"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26408Q"
 type: article
-quality: 64
-heat: 84
+quality: 65
+heat: 85
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         height: 470
         isCached: true
 
-secured: "NWby7dcwjb+vMh1B6rxJCN+4t64pmZkyVR6lX9L1NAtKF+0SMdzdjXQhnlVIr5k9w3gLAma3/69/IvDUX+2VqWdMhyZBytMSvWSLCaOfNB5YOholpdvPC9GxA/FqR0dhGzqI2HWgriDU2s98LaZ9yJQbItJHXbWzN7IMy/X5VcqGqfwYIPjPnLS/PIxA953P+ETACQ2i8UlAdeDwqIjf77C+NA9G2XLFOJwyEyjK2p48hYb6/AeK9BvO81eRCNpc9OVo/7VnC5ceQutLZQpoOq/+XEv/H/PXcZ6m+hxHNl3pzZSJDyjyhYCBKAbWokC2qP+NXYd+6DSbm2gNbndDTxFzA8QZ+tKuK8ln1mGOif4=;K8Cjykom77IYNmXuFL/nDg=="
+secured: "XH7+FDy+8MAKLdKTSgrYZ2Uf5+M6HvlsJU0dR9nEMnuyYAjHZV50IPmJeZlLsdsFnLTi8/xGdJ7b0JpaDSs8jbkeb+k9yg0CjbC+qp52ao9AE65oPFb+NS1EGnlpPqs+37rdCrWGKZX8maT9OIEnho2Ufp4FYKKzn9nkQJAVhDqNHfVxPN+UO3qc+ByHOu8qWIIv7HOGdXuTsyI/+jqxCZPnLQHv71IQTp+aPcgKdV7fyO4zYCEpQtl4dXK6jykUn79WknE2TV+jtTKPVgqvUilwsutIb1fnVcahNL5myVy0iLmid+DHdmamGoHJUUg6OBq7BDiwiunaz8kcqwxSYBkTDeM4mtxJU4VbQUpFCEI=;gCjg6Bq9KQrYhRGPB4OAGw=="
 ---
 

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Flagship Pioneering’s Scientists Invent Machine Learning-Powered Platform to Generate Novel Biomedicines"
-    excerpt: "Flagship Pioneering today announced the unveiling of Generate Biomedicines, a new company whose machine learning–powered Generative Biology platform can rapidly invent new drugs across a wide range of modalities—from antibodies,"
+  - title: "Flagship Pioneering's Scientists Invent Machine Learning-Powered Platform to Generate Novel Biomedicines"
+    excerpt: "Flagship Pioneering today announced the unveiling of Generate Biomedicines, a new company whose machine learning–powered Generative"
     publishedDateTime: 2020-09-10T10:00:00Z
-    webUrl: "https://apnews.com/pr-newswire/8ccd4c079078da16a7266b456b03b32c"
+    webUrl: "https://www.prnewswire.com/news-releases/flagship-pioneerings-scientists-invent-machine-learningpowered-platform-to-generate-novel-biomedicines-301127011.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 22
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1027035/Flagship_Pioneering_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
 
 secured: "QKpkz+Psj3O0S+WhKhhlcVr0YjYApbwWOrVwFGk+ych5QAviyuPgvZOIcgs/CebYpgQneiEB6sRjl+XygXj7v00dYXcN/cEN7LqTsuOw9DVrsr9m+9HrIQizxGlowJcwZyW09r0UwvUNgrj5e5n1h+JGQZ/8/paCC5P+Osndu2GK/XcAgbV9psBgKOk+jmcnjJLZUSrWHM6gyitmekwgOMJMMf4Uzx4r+ZQl6ialSD9tXwHqhWxaVTkeEuPAuOvW7hKg9l725Qgxb+u1h7WxOKje7dZ0qOORVzIWycoYoE64QHF0DswUxrgNo86vPIAME0OGRTcUvdtP1sYZxIwuuYQeU0ffIsp+efniPqeteK0HHv6KjasOuhpIb5dMgztNANGdV9gRITX9z98QrI2asL8hdqHQudVRuLaAjcaab8ADlHYhyZoRcgfglvse3Vc6NlohG524Ac2s5wdOKaZQV1ceNJ6j8UxqyyrQn3VjqMZTM7XLhlfgxaOXM04MBn72kBfHBF9k6BFvFcawO7xREA==;ywvQy1j6m7m90B0hOmmNeA=="

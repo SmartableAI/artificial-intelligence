@@ -198,32 +198,32 @@
     {
       "path": "_news/2020-09-08-united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19.md",
       "title": "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19",
-      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai will collaborate with Massachusetts General Hospital (MGH) to continue fighting COVID-19.",
+      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652",
-      "publishedDateTime": "2020-09-08T09:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -339,6 +339,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-07-europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook.md",
+      "title": "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook",
+      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
       "title": "AI researchers use heartbeat detection to identify deepfake videos",
       "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
@@ -426,16 +467,16 @@
       "title": "Facebook And Twitter Remove Russia-Backed Accounts Targeting Left-Leaning Voters",
       "excerpt": "Researchers say one of the operation's goals was to steer left-leaning voters away from the Biden-Harris campaign ahead of the November election.",
       "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/",
-      "originalUrl": "https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/",
+      "webUrl": "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters",
+      "originalUrl": "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://a.scpr.org/i/671958ec310674b544258bf6ccce0580/228111-full.jpg",
-          "width": 1024,
-          "height": 514,
+          "url": "https://media.npr.org/assets/img/2020/09/01/screenshot-333-_wide-c024671c7a198bdde2596c9b49f995c64ccd6cd5.png?s=1400",
+          "width": 719,
+          "height": 404,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -444,11 +485,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T15:20:00-07:00",
+      "publishedDateTime": "2020-09-01T13:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
+        "name": "NPR",
+        "domain": "npr.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1377,56 +1418,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
-      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "The results of the joint effort, which originated at Facebook, show that accurate MRIs can be produced more quickly as AI functions with less data, researchers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-221966/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

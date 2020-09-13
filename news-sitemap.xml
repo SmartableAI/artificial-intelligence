@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T</loc>
-    <lastmod>2020-09-13T02:54:00-07:00</lastmod>
+    <loc>https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9</loc>
+    <lastmod>2020-09-13T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/</loc>
+    <lastmod>2020-09-13T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9</loc>
     <lastmod>2020-09-13T02:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q</loc>
+    <lastmod>2020-09-13T01:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -69,12 +81,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -601,12 +607,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm</loc>
-    <lastmod>2020-09-08T18:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
     <lastmod>2020-09-08T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,8 +679,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
-    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -853,8 +853,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405</loc>
-    <lastmod>2020-09-07T05:03:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html</loc>
+    <lastmod>2020-09-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1777,12 +1777,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.scpr.org/news/2020/09/01/94277/facebook-and-twitter-remove-russia-backed-accounts/</loc>
-    <lastmod>2020-09-01T15:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wsj.com/articles/intel-cio-says-ai-playing-a-growing-role-in-chipmakers-operations-11598996924</loc>
     <lastmod>2020-09-01T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1791,6 +1785,12 @@
   <url>
     <loc>https://www.pcmag.com/news/who-are-the-biggest-attention-hogs-on-cable-news-ask-this-new-ai-tool</loc>
     <lastmod>2020-09-01T13:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters</loc>
+    <lastmod>2020-09-01T13:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2035,8 +2035,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

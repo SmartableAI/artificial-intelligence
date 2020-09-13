@@ -808,32 +808,32 @@
     {
       "path": "_news/2020-09-07-europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook.md",
       "title": "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook",
-      "excerpt": "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms.",
+      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
+      "webUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "publishedDateTime": "2020-09-07T05:03:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T04:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -842,7 +842,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Facebook AI",
         "AI"
       ]
     },

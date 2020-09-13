@@ -479,6 +479,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
+    excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
+    publishedDateTime: 2020-09-13T12:08:00Z
+    webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 43
+    images:
+      - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
+        width: 846
+        height: 571
+        isCached: true
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
