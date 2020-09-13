@@ -143,6 +143,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit.md",
+      "title": "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit",
+      "excerpt": "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "publishedDateTime": "2020-09-09T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
       "title": "Facial recognition tech designed to identify African faces wins engineering award",
       "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
@@ -1114,55 +1155,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
-      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
-      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "publishedDateTime": "2020-09-08T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

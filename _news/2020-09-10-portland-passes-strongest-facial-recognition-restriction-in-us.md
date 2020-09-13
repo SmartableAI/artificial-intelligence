@@ -473,6 +473,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Portland City Council Bans Use of Facial Recognition Technology"
+    excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
+    publishedDateTime: 2020-09-11T17:05:00Z
+    webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -533,6 +544,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "EggMjKidAycEvtVhHk6uk4Vej9PkF45jEJGAW3YuEP5fr3oMsT8EBx34gSkivi/JKf66yOyvrbT0WzSKP8jprnkRpAtTzjhjRw85fKYTZHghwod6X4k8u2Wmu4wbIzMZV4+lUmsxFh2G2pTYKbB3YJp+ote216z/STZMdS4igPcIKP2TJNp9t7b2W+8GGzgxlUY0rcH+aQSCF7eyyowE9H9HWTS4Nfq0dL8dtDyDpS36dQLpgw997RUhBGBjk7vFAwU54J84EKBjZB6Uzqk5/cD1aRoCD38nYXt2Jp6hT3un3obgtX7zVFZGiOCwyKSOojs5kRLd+aceKPlpfmL3gd/Kv+XW/EytrcKFcIDEmcE=;omts7dnOg0jtsu6KLxk2Ig=="
+secured: "kWa103R+ZmAG879rtAirvSBzCxEbBQ4nFchO2jkqzo54dzDnZXwqigf173geh4gwr5gMMtYkx3e0ZVU38ADDyq+j+Iwgh8+rEmR982KEyxH4vSQvmt/V0rH4X2a/PhoWQ3x2IsP2Fy63BkBhwqJq+B5X43feF3r9NjDwlAHf8/Cs3CgmBQ88uWoz1s9XZme+Gqag6NXVXmmUyB5tB+uVt5ino51wSgESD8249mExaEFONzFpoeCeuTgUti8lK1yfrNSioAeX0HEU8C8/aZhEnMt8+nSALEDxppkw2fLIDBr0d6b1JFDlfYJWANYU2uhgLrQRLUHCo57q5+sPssoknx870HfSJQ+G0uMlKkO+uMkKVopfdXQPO2NTwD5UT5G6pZLrMJzp1QikDNo4myUHMqZsjmxYFLF7rzbXVm1OY6sYk4TAbwcsSiCKL4xz9n4iV+NmOMHfXrwm+16udL12e19t5Zk5R07kLf2wsQToAu6jdco11i0e8Nlh1vgEQpMK09rO0VfVXdXUY4M5m2yvvg==;sc0v5i/NUAB6yR8nWJB2lA=="
 ---
 

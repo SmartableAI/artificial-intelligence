@@ -2,6 +2,47 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-01-hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first.md",
+      "title": "Hate Symbols on Amazon; Nike Salutes Williams Sisters: Tuesday’s First Things First",
+      "excerpt": "Welcome to First Things First, Adweek’s daily resource for marketers. We’ll be publishing the content to First Things First on Adweek.com each morning (like this post), but if you prefer that it come straight to your inbox,",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
+      "originalUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/08/nike-venus-serena-williams-PAGE-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/amp/",
+      "publishedDateTime": "2020-09-01T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-past-the-ai-hype-when-is-ai-actually-profitable.md",
       "title": "Past The AI Hype: When Is AI Actually Profitable?",
       "excerpt": "One of the most important value drivers of machine learning and artificial intelligence technology isn't the technology itself. It's where a company deploys it.",
@@ -1080,58 +1121,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
-      "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
-      "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
-      "originalUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
-      "publishedDateTime": "2020-08-31T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI",
-        "Microsoft AI"
       ]
     }
   ],

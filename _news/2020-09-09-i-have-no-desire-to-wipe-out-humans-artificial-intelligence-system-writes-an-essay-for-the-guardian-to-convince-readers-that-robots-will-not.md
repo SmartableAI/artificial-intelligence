@@ -54,22 +54,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Guardian publishes op-ed written entirely by artificial intelligence: ‘I have no desire to wipe out humans’"
-    excerpt: "The Guardian published an opinion piece written entirely by artificial intelligence on Tuesday to convince readers that the advanced technology has “no desire to wipe out humans.”"
-    publishedDateTime: 2020-09-08T14:57:00Z
-    webUrl: "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot"
-    ampWebUrl: "https://www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/op-ed-written-artificial-intelligence-robot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 71
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/23/694940094001_6088542466001_6088555437001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "xpNLhSB1LY4WE/Bgzd8TfYthWePfTNLQPf7rDle7cCiXn6LtKIcQv9L0z4sNLzoUxfgFD++NfoBt8gi0f5uAargKMLkQtrgRU8csnSkLc5mdwZaW67LEw4bjy0NBQ9KvQUQRFJhB9MsohTITlBxndfM46EX23Eok0mwAue6HUiIZlIOLptDmQl9tHz8/QDcLQcWR84Qcw3pmOl76knxun0INnxHvUo4Mivmt4a/ddH3+tLleWKI8XvNGWDv+KUebkpMEZBTsINy32TtWPycBqyU2AW0TNV91WVJujoZwAOxn5oIUMXudU7JWEn0qUpIDb4AF7qexDbj1WS2NU+flef18Qz86aEl790lQTUahKdJihI+7IDevWgxW8KLk3OYJGdpj6cDBFMKG6lzc4fyANAjE3fkKBPHTJkbEEvKcakuJ++hCWvT4neGvQEuixVKWbIuPkPotWfv0v3drBdca/t7POB4uM2h0B0aq6ZY+nDcqgmDqntbWVFQxAuzX1VP2RQC/2HQAjIyvA/PXjU276qkERf7eeQTQdPRPLsGx6d4=;K6S/qmkVYIjcIuNq0N3ofA=="
 ---

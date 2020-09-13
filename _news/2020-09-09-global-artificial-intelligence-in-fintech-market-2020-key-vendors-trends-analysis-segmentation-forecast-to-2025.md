@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
+    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
+    publishedDateTime: 2020-09-10T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
     publishedDateTime: 2020-09-11T10:08:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1599785472130.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
-    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
-    publishedDateTime: 2020-09-08T14:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "X6rbjzdhQFVZXTfT3j+ICAIEBQjqNs9cnOHrBzvP1Zi/g7Xw/xr46oWHnIvQsW32pgFZ3f/IxmlfOpvECCFIEtF7XjfCKMGE/EY9ke8CenOB/Airw9CdavqIi9yvM2FpF7MkeiSLW0OUZAI+IaFyFrv/Gm1y3PFRmMA1Uk14wG8QbXIMICwADL0tMesiHTAyuI8rCuO1Mi2HHyPm4qR+Eg72By30jLG2QKmiavVIcNqTQ5EIy976zYDDwU8ZfbDY0CreNAQv1nMOV8aIU0F2mCfTX9YeoS32kMWo2t6kGOGR/elRQ2pERpdUs3CqzIGwNWT2n7mh1ZoU8KMePv6SyCw2mEmx2PfTN9nW1RyrcTI=;qsWwKrnWnL+4hImDIkGxvQ=="

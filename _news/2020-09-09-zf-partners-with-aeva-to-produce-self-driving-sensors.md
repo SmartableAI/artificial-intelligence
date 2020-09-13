@@ -50,20 +50,6 @@ related:
         width: 810
         height: 539
         isCached: true
-  - title: "ZF partners with startup Aeva to produce self-driving sensors"
-    excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
-    publishedDateTime: 2020-09-08T13:45:00Z
-    webUrl: "https://www.autonews.com/suppliers/zf-partners-startup-aeva-produce-self-driving-sensors"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/styles/800x600/s3/COPY_308309902_AR_1_RTSFDBJUQEYL.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "lK4Y1xdMMkeF3Cx9Qqb8ILCz6tPkHVwPSMNZ67LVuQoHvTuhwcX4Mbv4vR5E1TL/A5hN5+c/X2uu62fDJTD22gX2rfhESo2VtSHoMuIoCHMckh9MYijYfkGh3MwJzoJPKJNPOgo8BhuO0znaYstvDYH9O67jEEG6vf5FKvrcw/DtdH6Hd/8ydg88Wia/QstepLd0XB2vWtjCeh/cO8Hk479TsACqVLz+/6VV4vuDNQ/85bALUbP1n9VukusXVeS6gYxkXktmlZqfFoOK9pXmvdQdCivkVEhWDoN+XENyt0/9tV6f8BeEsTAfxyCJVchPERaKWn0rBh5AXeRQ2sHP079P84pRe6bcrIfp52py1ACy5vXs8A4uwbnba3uovixoQvLT1DLBiuvzS9+nNWquGlCG0R0XPLK3Tw0NUk0Tb5hAJLvpYnmmjwWIzpsSZ6S+Xy0/WQABQ/3pSQ6THw7ZFDtqNfCdYpQd56eOrmVbNRO4U4vvDTdGFqJq0uvRg6ZfUkDc6eXvKjGHaTn8wd2Zc73qO74pAd72+X9PpMAvnuw=;ilWXeXBs6X3H58sjnnjMgw=="
 ---

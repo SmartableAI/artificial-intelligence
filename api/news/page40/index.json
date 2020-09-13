@@ -2,6 +2,47 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-08-12-perdana-liga-perempuan-aws-deepracer-resmi-digelar.md",
+      "title": "Perdana, Liga Perempuan AWS DeepRacer Resmi Digelar",
+      "excerpt": "Liputan6.com, Jakarta - Era teknologi cloud dan tren analitik Big Data di berbagai sektor telah mendongkrak kepopuleran teknologi lain yang saling berkaitan erat, yaitu AI atau kecerdasan buatan dan m",
+      "sourceUrl": null,
+      "webUrl": "https://www.liputan6.com/tekno/read/4328298/perdana-liga-perempuan-aws-deepracer-resmi-digelar",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0-production-images-kly.akamaized.net/CvpNz0hI7EEHq1tIp4izK_sJWnc=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3205620/original/085281800_1597140764-aws-deepracer-01.jpeg",
+          "width": 673,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.liputan6.com/amp/4328298/perdana-liga-perempuan-aws-deepracer-resmi-digelar",
+      "cdnAmpWebUrl": "https://m-liputan6-com.cdn.ampproject.org/c/s/m.liputan6.com/amp/4328298/perdana-liga-perempuan-aws-deepracer-resmi-digelar",
+      "publishedDateTime": "2020-08-11T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Liputan6",
+        "domain": "liputan6.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-kirin-980-specs-all-new-cpu-gpu-and-dual-npu.md",
       "title": "Kirin 980 specs: all-new CPU, GPU and Dual NPU",
       "excerpt": "The company says the chip offers “best-in-class performance, efficiency, connectivity features, and Dual NPU AI processing power“. The Kirin 980 spec sheet contains an all-new CPU ...",
@@ -1111,55 +1152,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-ai-cybersecurity-startup-elisity-raises-75-million-to-protect-networks-from-attack-with-ai.md",
-      "title": "AI cybersecurity startup Elisity raises $7.5 million to protect networks from attack with AI",
-      "excerpt": "Cybersecurity startup Elisity emerged from stealth with $7.5 million to further develop its tools that protect networks from AI-driven attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/graphic_auto_x1_auto_x2-e1596667702827.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
-      "publishedDateTime": "2020-08-11T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

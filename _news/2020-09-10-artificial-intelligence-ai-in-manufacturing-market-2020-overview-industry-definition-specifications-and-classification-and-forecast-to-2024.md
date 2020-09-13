@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
+    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
+    publishedDateTime: 2020-09-10T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
     publishedDateTime: 2020-09-11T10:08:00Z
@@ -77,20 +91,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1599785472130.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
-    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
-    publishedDateTime: 2020-09-08T14:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "5y1NZXzO7RoBzLTNknoalMYXgwQtSxPzOiPcRKKIaM3TRdrgE2Y3zCkFDRsM6nWGrDuCXqoqb2ngyCgdDHptwg0NXgUsOolaZCM7+JubWdGoe9+JbtqCGU6bhAnzUTkTvGi53Al1a9S0Odkpqk0OY3VR6J2fA+1RcUS5SkBGNtiS+cdg8+o2BM+lCQKXk1FVznM6LxOoOLPTCRofR1/2K0Y+ZCxVb3wxWcgON4a5QxFl2oFxKPkLDNWSDJvq93hdGLpCV5ANw/vfOABs7ax7xfU750G2cE3e5nhNY9NpwBrpjuR6KjhWnFyw9iEZzx17fcEcT18N38fbFIaw3AIAtir7sSsT3SOykw172x7RGKs=;Urqvzz6BR3WzhxBQ9DZwAg=="

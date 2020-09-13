@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Portland bans use of facial recognition tech by government and private entities"
-excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
-publishedDateTime: 2020-09-10T06:54:00Z
-originalUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+title: "Portland City Council Bans Use of Facial Recognition Technology"
+excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
+publishedDateTime: 2020-09-11T17:05:00Z
+originalUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
+webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
+ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
 type: article
-quality: 85
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: The National Law Review
+  domain: natlawreview.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
-    width: 760
-    height: 428
-    isCached: true
 
 related:
   - title: "Portland's facial recognition ban is a major win, especially against Amazon"
@@ -158,6 +148,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Portland bans use of facial recognition tech by government and private entities"
+    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
+    publishedDateTime: 2020-09-10T06:54:00Z
+    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 85
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Portland City Council votes to ban facial recognition technologies in public places"
     excerpt: "Portland City Council voted to ban the use of facial recognition in public places and by government agencies, including the Portland Police Department."
@@ -473,17 +479,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Portland City Council Bans Use of Facial Recognition Technology"
-    excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
-    publishedDateTime: 2020-09-11T17:05:00Z
-    webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -544,6 +539,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "R/Sw/COrH7OSVFzgGSLT/uINgMcTLR7c4pL9sZihzg5D0uhHvUIRX5ugm991z/nwU4rk3TOFCvrzM83ckQrWqhxc4uaGCFLBTWE7Yc1p0fIJep4yV5LiVjYeTQl+8Gk2WVdNP40yk90Fazk3MfZm0/s+ZF53nKigVpzgoaILKDlr1Vju6OxBFbxYFzkFup1KHjwkCr9WEsMc8qZYCrDPoBP4khBCvKtusWhg1pWSDtuWbA5NFCzq/mqI/DXRFpHYvHP+NQbqAZ/o7HQnf2cBuJ+O1lNTIo/pFqk/63irzaENHAkgVHz8Vq/+RXLjyNa6svqrrImObc6by68UFxvU2FIOZSu1U50g0kyeg0DpVnU=;EiohoBiMj/KDRpDyH0uEKg=="
+secured: "6tz7kRTgdyRy4l8ak7wQqaPoT2q054TSBQpOXZREyQePHcAvMIv3KXybypTE9doM9LbshI2pVBlR2AJDKikKQMxJD8f6IIXHcX+dqPnjtVJBzL03Rbdys5bV6NvX3gwggZ1ziOR+pq35EehuV26JJq2w5Jy9fRt54jdAD+9j2UpclbSDDKu0j/GPrkUag1CCWSlVfBGlc+FGKD5gFuDxYSqnUQtvo3BwZ9guddln9gRG5bBaLWoOSXj6gJQHXOALoDhAX6T9FILIaCb5fJ2VouQI8VPxw9VYyx1noKU0WxrWdUdN1b0ci3s54mDQHO++5XReGyZ2MSzgWihoRtbUmGNb7R+Qs17BouQ589EcW7I=;TxHklb1K2Kgl8zgcv+S5Ag=="
 ---
 

@@ -483,6 +483,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Portland City Council Bans Use of Facial Recognition Technology"
+    excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
+    publishedDateTime: 2020-09-11T17:05:00Z
+    webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z

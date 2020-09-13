@@ -1,32 +1,22 @@
 ---
 category: news
-title: "IBM says U.S. should adopt new export controls on facial recognition systems"
-excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
-publishedDateTime: 2020-09-11T17:11:00Z
-originalUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
-webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
+title: "IBM asks U.S. Commerce Department for facial recognition export limits"
+excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
+publishedDateTime: 2020-09-11T19:11:00Z
+originalUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits"
+webUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits"
 type: article
-quality: 66
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
-    width: 810
-    height: 539
-    isCached: true
 
 related:
   - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
@@ -45,6 +35,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
+    publishedDateTime: 2020-09-11T17:11:00Z
+    webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 810
+        height: 539
+        isCached: true
   - title: "Norfolk police tried a controversial facial recognition app that has billions of photos — maybe yours"
     excerpt: "The police chief ordered detectives to stop, saying residents “don’t trust it.” Clearview AI compares an unknown face with billions of images scraped from social media and the web."
     publishedDateTime: 2020-09-09T14:51:00Z
@@ -61,16 +65,7 @@ related:
         width: 1200
         height: 495
         isCached: true
-  - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
-    excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
-    publishedDateTime: 2020-09-11T19:11:00Z
-    webUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
-secured: "50dCuS7ZaGK6dP7aeIZgfWc9KPKacRfZD+V4DLrxXIKRmujq0Ri7+mAeavH/0jPnYbPewn836ZMcBWJwY546MoFg2kw3h52Oyhtoti3ef6mLokuNBUT/kJfWz7ijsJ2NCqvj0ZCRDZbnZIu8TThnSKoODU1yOnrPN1c/LZEjfKovG4eY+l3GmyUYNag9sPAtfCrmwTkcbZ9tRxoZ/oliNxfTNlGjeySenyeydhdC+c4ArHH0pzS+RLpzoMPsjWCMCCAYBfcW7GWrhxbf8PG+RWBt63uN6ZC46VZ+vqWWzVVk7h8unzEESH4RjYtL2qDsCxSA2n7bn8gYn7WMrgtPQjJTCy6gGYlMneU7YXY/DiyOGg9XA47IYuaSpE+/OBFExrYwXGMyWYxa2lc6zMJnkWsmVc6HS4ijPvyNKM9f3wQNOq5SIsEywNRF8lTkVM/DE289sXigFftMjSutuGNfRHiZtjbHzkQXZr5GsH0xe4h5lb1P8K12KCHJ58l843ZBNW9tp+gP2GdBFTNtG1tjBA==;oCrmnglNQzOG0G/VoK3jug=="
+secured: "rYUxPjjA1kEWqjrqcxLZ+ODR9XMMlzhlWiyUSd6AANIkAIb401wzCiU2idlNCujOBWq3UjQxtwZ+BcM85m24boTSEa3n7HDDCu7NdfTysX/Gx/qvHX26ptB3SHYU2PzwgdPGN1mvbns8N0PSwGkz64ePIqlLpW5c5mmrDTQpE6B9q4VKrhrBTbM6w6o4U8H4An+IuhfJ3uxSk+aGZTY7X5p2fHtJhDudoQIL68MWS5pNBlX5SZjwnaTMndkvBOaMmc4erTvqi7Vg5yGDeohpsf0uBFQk351T7kNVMBh5ehVowebCRkwvzqr3aXdUk36kaCv1duR+SXm0F4+dbWR9UAPMM9WfGTL29hEte4JF8mc=;MdxJ4zrCT6bAyApOlFOHDA=="
 ---
 

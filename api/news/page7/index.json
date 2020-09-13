@@ -2,6 +2,55 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-05-how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers.md",
+      "title": "How Adobe is using an AI chatbot to support its 22,000 remote workers",
+      "excerpt": "When the COVID-19 shutdown began in March, my team at Adobe realized we had to completely rethink our support infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/amp/",
+      "publishedDateTime": "2020-09-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
       "title": "Google is creating a microscope with AI and AR to help detect cancer",
       "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
@@ -1043,38 +1092,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
-      "title": "Google Maps using DeepMind AI to predict your arrival time",
-      "excerpt": "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "publishedDateTime": "2020-09-04T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },

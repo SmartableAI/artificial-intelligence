@@ -3,14 +3,14 @@ category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
 publishedDateTime: 2020-09-11T21:07:00Z
-originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 51
-heat: 61
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: ZDNet
@@ -24,22 +24,12 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Apple Wins a Patent for Future Face ID Features that use Machine Leaning to better Detect Partial Faces & those in Low Light"
-    excerpt: "The U.S. Patent and Trademark Office officially published a series of 73 newly granted patents for Apple Inc. today. In this particular report we cover Apple's future Face ID advancements so as to allow for partial face recognition and allowing Face ID to work better under poor lighting situations."
-    publishedDateTime: 2020-09-08T13:56:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/09/apple-wins-a-patent-for-future-face-id-features-that-use-machine-leaning-to-better-detect-partial-faces-and-those-in-low-ligh.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 0
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e9637bd4200b-600wi"
-        width: 600
-        height: 334
-        isCached: true
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
+    width: 2614
+    height: 1379
+    isCached: true
 
-secured: "VmIOMesgFo3tEBNopt8O6K5ucndyKmqyYuxJLJJvkHH+6lvgGXz5A2swrR0Q6mOasi3Q35fxNXHKl5+T3x/mONHTSJg/a3/5NfLnXQNLHpPL6YwZ05JS0lrD5ykp5s2YHs3dX611c995pOJttpAjClFM/JdTC7OpAMTZ5CHNcb1mPEeFDbdyLC70OkneDqNPJ/2aUlRG2pWyMFanVskAFcZgYA1QZ295BHM4xP6Nk1Og3Z6geODYz2bSaEBQSryvzl7HTQTrekPxVVP8/22GgN4neuH7xKX3dtrZwakIkGq7XBTiQXWi02p95hN5+sPSqLXybOkjFCefFV/I7YVlPIXk3XbaHc196PgXaosj1eDDnfRUiLIFTZrDtrUJDBrAD6gXOVTQ8wHT13IFyfeL++j6LMQgj5MBF9UtYDnA5D/0y+5wUOyiWETvbU85Nyhgpq3psQ2SDlDUuKFCAWvJE1GHq0usZ17ljhBgbqdAsWZWnUiPhYdVczRmjEME8k58tK6zVlwGLDz28pf2BT5SOA==;sqxxCf/IPo9AAQ0VfuZKQQ=="
+secured: "AwnIUoiZwdi0Zi74mWpeC0JJjgoHK4xkVFyzblcpFpBAFuKo4EaDFZwtC8OV5bET1RzDaCVORUV3ZNkveXuNnit+U+1Ql5zT3P/GiAGLRiuGi84ORBc0PyqQp/97XgbpnPZ8HgUH6p9TBeqwpDrTg5GQ6gPZs1XtgDW2EtstLXyE4mkEY3x0lzAhAqA3ZEp/T1n+Tm4qrIRZ3IrRfkKGdXvcxEb3qL3Djgl3d9aXQxt5nxKv+wKiUiusvFxj5kbX2njcMxwEpZc/1ZK2xS1SGvSiWq5FfoIOZqetCl8VHaGvfRbBViVS1YCCjRMlbmzMZfT19BFE8mQa5UvRR11xUC31WT9p9BtNZej/VVeDGlA=;1QUHzx758Car6gr1+IWr3Q=="
 ---
 

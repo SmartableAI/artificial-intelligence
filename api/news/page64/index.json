@@ -2,6 +2,55 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-07-23-ai-predicts-a-dodgers-world-series-win-after-a-covid-shortened-season.md",
+      "title": "AI predicts a Dodgers World Series win after a COVID-shortened season",
+      "excerpt": "Major League Baseball is entering uncharted waters with the start of its COVID-abridged season today. Nobody’s really sure if the 60-game season will even be able to get through the World Series without disruption by the pandemic’s spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F45816340-cc32-11ea-b35d-1427b237118b&client=amp-blogside-v2&signature=b42420d2ad7e967a9add5af749b10996443c1d79",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes.md",
       "title": "Safehub taps building-mounted motion sensors and AI to detect earthquakes",
       "excerpt": "That’s not to mention One Concern, which leverages AI and machine learning to advise fire departments how to plan for earthquakes and respond to them. There’s skepticism among some experts ...",
@@ -1138,56 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
-      "title": "New York bans use of facial recognition in schools statewide",
-      "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "publishedDateTime": "2020-07-22T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

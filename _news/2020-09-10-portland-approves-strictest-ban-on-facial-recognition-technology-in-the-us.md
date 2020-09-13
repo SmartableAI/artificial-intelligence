@@ -479,6 +479,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Portland City Council Bans Use of Facial Recognition Technology"
+    excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
+    publishedDateTime: 2020-09-11T17:05:00Z
+    webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
     publishedDateTime: 2020-09-12T14:17:00Z
