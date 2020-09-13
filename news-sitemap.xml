@@ -577,6 +577,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
+    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/</loc>
     <lastmod>2020-09-09T04:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,12 +685,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors</loc>
-    <lastmod>2020-09-08T09:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/</loc>
     <lastmod>2020-09-08T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -729,6 +729,12 @@
   <url>
     <loc>https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html</loc>
     <lastmod>2020-09-08T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://uk.reuters.com/article/aeva-zf-friedrich/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors-idUKL1N2FQ20V</loc>
+    <lastmod>2020-09-08T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -813,6 +819,12 @@
   <url>
     <loc>https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/</loc>
     <lastmod>2020-09-07T17:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/</loc>
+    <lastmod>2020-09-07T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2059,8 +2071,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

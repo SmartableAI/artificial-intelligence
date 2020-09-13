@@ -203,22 +203,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Facial recognition is coming to domestic air travel"
-    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
-    publishedDateTime: 2020-09-09T01:58:00Z
-    webUrl: "https://www.sfgate.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
-    ampWebUrl: "https://www.sfgate.com/travel/amp/Facial-recognition-domestic-flights-15550415.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/travel/amp/Facial-recognition-domestic-flights-15550415.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/00/34/19924777/3/375x250.jpg"
-        width: 326
-        height: 250
-        isCached: true
   - title: "Portland, Oregon Imposes Strict Ban on Facial-Recognition Technology"
     excerpt: "Private businesses and government agencies can't use facial-recognition technology starting on January 1 next year."
     publishedDateTime: 2020-09-10T13:58:00Z
@@ -388,6 +372,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/f0_QvJt9PjHXrSL675Sg90t4P00=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AK7HJE3FJRAOTLXS2GNZ2BLJJU.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial Recognition gets an Upgrade in a Mask Wearing Era"
+    excerpt: "FACIAL recognition gets an upgrade in a mask wearing era but could it be a step too far in data collection and invasion of privacy? Since the start of the"
+    publishedDateTime: 2020-09-13T17:58:00Z
+    webUrl: "https://www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
+    ampWebUrl: "https://www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 59
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2020/09/shutterstock_1020957817-861x484-1.jpg?x72737"
+        width: 861
+        height: 484
         isCached: true
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire
 cdnAmpWebUrl: "https://www-chathamdailynews-ca.cdn.ampproject.org/c/s/www.chathamdailynews.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Docebo to Power AWS Training and Certification Offerings"
+    excerpt: "Docebo Inc. (TSX:DCBO) (“Docebo” or the “Company”), a leading artificial intelligence (AI)-powered learning platform, today announced that Amazon Web"
+    publishedDateTime: 2020-09-13T18:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200909005308/en/Docebo-Power-AWS-Training-Certification-Offerings/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Cantech Letter
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: "https://mms.businesswire.com/media/20200909005308/en/819504/23/logo_docebo_trasp.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "HBj5qHWwJga2HEO+/4PlaRjJBGn13AbELeyARp42v3jy9qz2+1Ko9xanKVQ62jK/+KNzrxLW472DZUYEimQxyfS0+3JRURpD6MhFTCvh77XVpPZKqlMgMFXQnTs1k7ARFVnASd9Dpqky8kw/8EX9sTA2cLAwjT895bw0uselw8Q1ZbTas9A0P5TjZIYRTEswosGCNaTw8OeqJexSO89DvpmhgInJ9k9rUrMAFy5FGwU8EhwRCyPkvkcGjBd4c+wXCdI2WBuk0plDeD/cxcYQ1+XW2Likgpdx5yzvJPMis8cp474P2aUR1usjkp+ij0ImYjecycPbijZGN/o9T3H+GM5DqSxDHML9xhvU1euD3Gs=;EQd8wd/sTdPwr0qEOYA3mQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "UAE, Israeli educational institutions to collaborate on AI research"
+    excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""
+    publishedDateTime: 2020-09-13T19:22:00Z
+    webUrl: "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090"
+    ampWebUrl: "https://m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478"
+        width: 640
+        height: 428
+        isCached: true
   - title: "UAE, Israeli Educational Institution Sign Artificial Intelligence MoU"
     excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together,"
     publishedDateTime: 2020-09-13T08:53:00Z
