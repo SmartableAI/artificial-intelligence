@@ -2,6 +2,55 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-08-26-youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review.md",
+      "title": "YouTube removes record number of videos after increasing role of AI in content review",
+      "excerpt": "YouTube says it took down a record number of videos in the second quarter of this year due to an increased use of AI in its content review efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-26T144504.451-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/amp/",
+      "publishedDateTime": "2020-08-26T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-cloud-system-management-market-worth-314-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Cloud System Management Market worth $31.4 billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "According to a research report \"Cloud System Management Market by component (IT Operations Management (ITOM), IT Service Management (ITSM),",
@@ -1108,55 +1157,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera.md",
-      "title": "Researchers’ AI can perform 3D motion capture with any off-the-shelf camera",
-      "excerpt": "In a paper, researchers at the Max Planck Institute and Facebook Reality Labs describe an AI-powered motion capture system that works with any camera.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/4f0a601e-9a00-42a3-9aca-40583a2423d5-e1598383073277.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/amp/",
-      "publishedDateTime": "2020-08-25T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

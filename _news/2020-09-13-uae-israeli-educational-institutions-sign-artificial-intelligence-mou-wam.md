@@ -1,15 +1,15 @@
 ---
 category: news
-title: "UAE, Israeli educational institutions sign artificial intelligence MoU: WAM"
+title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
 excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-publishedDateTime: 2020-09-13T08:20:00Z
-originalUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
-webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26408Q"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26408Q"
+publishedDateTime: 2020-09-13T09:54:00Z
+originalUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
+webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
 type: article
-quality: 65
-heat: 85
+quality: 64
+heat: 94
 published: true
 
 provider:
@@ -52,7 +52,21 @@ related:
         width: 836
         height: 470
         isCached: true
+  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
+    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
+    publishedDateTime: 2020-09-13T12:09:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 25
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
+        width: 740
+        height: 416
+        isCached: true
 
-secured: "SBd7QLcUZUSz66JKOtYut+bcDvnldqFHMJPMKJBj6HQLJ4iHBj/2gmcdN27RW7se12UkDlPTyspsuUJlBJtC4jlW9x/j+Ym5EI/Cmq0SZKtqFdKN7kgPeg87NoIE5IQByjzS278/vL80Fymujbq+XAFhX0IC5v4hWl777mwCfln65B+fWRumwaCFFE9a+ywfc6eXQaGrGHmcfxexIxTZ4Wmz3G8yeVrg5fievX5rO9cYybws7b1l2VUsMt9lkeaN+i451U/m7XI1DpVNc/ErZRjehN7XDzkYWpE63WbBF9mjyIXQZ1SnWEyDORs6GTmVsDxUEz8g2p86sPeJo17fpqW1iiBWuW0XAEXkpTYRk38=;xyrHSQrUybvBFGgWODZ7wQ=="
+secured: "vsqb6xkKXKPbOPTmsrcIcqcfbpBrTS96vvT+nIgGgue3W+oECysCaRaNsqz+iOfO4f+JiUCq7FGm897FACpF7X0Qgy8ezptT1YV1SLj0odptz7HsFbUYnvIcP/394MI50klL8gmJPDGzE0cy7Nxzt1n3VgipwU1kSRgZStijeHRt28CDL6syLNKlVAuZNM8QDQ9cqo7h68V8A8/qcmDGEn82NhuiNF6qrhycrvaE/EGTTMvgTupKjItNhTHgQO9psXVK3tc3pwt1gkVr4LYrfRWG+1Mmkb472fIMOQIx24vfqQY/f6rRNJr+rt+VkeytKwM11K7EpaPsNnCO0mlqxeL5ntwj8vY2kii6xgzfkvE=;VM7/PMiZVFUTzEtbf9CcVQ=="
 ---
 

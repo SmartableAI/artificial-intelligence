@@ -3,10 +3,10 @@ category: news
 title: "IBM Smart Lineup Decisions for Week 1"
 excerpt: "That's where IBM Insights comes in. It uses Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the highlights for Week 1 -- good and bad."
 publishedDateTime: 2020-09-11T12:51:00Z
-originalUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1"
-webUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1"
-ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1?platform=amp"
-cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/insights200911/ibm-smart-lineup-decisions-week-1?platform=amp"
+originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1"
+webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1"
+ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1?platform=amp"
+cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup200911/ibm-smart-lineup-decisions-week-1?platform=amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "tR3p43p7RJujV4uTm157fziD8TViD7KBgJ9gHfcaga3shtL4HyhRcSvujdS1QtiKRiiUclXR9BIENXbrEVQmNo8oxZCDJAUOkQmvKHZX0AzdZFjALejoLVrltvw9PWOleoMxQYu1tE6VKnruDNVx58sjK4LJRgYDcYS99pcEbfi/TxjyIjHu1F/DG12mkcbEUtZz2r25yf7RDE7sAHDKaScV5qVbZdG0mGpA/6v0EN6unkn5E0P8IEFmGgTfGx45d7hqrg+4H4S28Ir0EF12vmF6azpT44ESACoMBnbBaslfKPQUB9ZAKFjvFp9g7G4LlWrzRX6BylObUmkWCgEYck6ojw6SnodtT+ibNulQbqY=;nIoIZe8/vyTtKHt1aDs1aQ=="
+secured: "aqI4MbIvHMBE5d9ZZeI0uTzwY6e8/C02dKr9TpDSZNJQWWVLAi+YsUUNGX5VXpeKdNsDHXZDmDbzj3ZBu0b2n18G2rs3z4fnO+k45fWOJwEz69HIkPNLyg+gUdJZ1ijCHXYtJ2AaaMtJz5O7xC9uU8sey9UkHMmQimVxg6DO8XcGtrZJDCPJqgk4FoPR/9FmIeWS7XIQT9R3KYbKPVQF8n31m5HpCMxLOtoz1cK8Xw2a1h6TZUgofMJJ3EyhYNJW3B0FhDiAWqvipAk97mvzHhAim2TzPrfoqUyi3LkMFqeByKaLJEtkYG/Y0YcPEGx6E58a4fi0L4vGcYVFjH+gDs4N9vvBkNCX112hXy0JlR0=;f5pdV5E8zpaqbZD/w4LGsA=="
 ---
 

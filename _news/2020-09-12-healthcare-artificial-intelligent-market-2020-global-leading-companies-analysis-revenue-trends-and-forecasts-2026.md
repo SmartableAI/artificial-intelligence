@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2023"
+    excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
+    publishedDateTime: 2020-09-13T17:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
     excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
     publishedDateTime: 2020-09-10T09:01:00Z

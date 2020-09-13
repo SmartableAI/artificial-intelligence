@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
 type: article
 quality: 73
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2023"
+    excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
+    publishedDateTime: 2020-09-13T17:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

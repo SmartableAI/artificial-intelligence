@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU: WAM"
+  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
     excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-    publishedDateTime: 2020-09-13T08:20:00Z
-    webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idINKBN26408Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26408Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26408Q"
+    publishedDateTime: 2020-09-13T09:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 65
+    quality: 64
   - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
     excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
     publishedDateTime: 2020-09-13T10:55:00Z
@@ -48,6 +48,20 @@ related:
       - url: "https://www.lbcgroup.tv/newsimages/News-P-547269-637355907631419226.jpg"
         width: 836
         height: 470
+        isCached: true
+  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
+    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
+    publishedDateTime: 2020-09-13T12:09:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 25
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "yKFcZ6nmo+X4ipkRbH5icC9kFjoUI58A+3KqbCmyeAHvjuN205+I4yB/vEI1rTL2Q6dXibShHXbN84fiI1ADbGgqRmaRC999LFh7wZkXxQH71nw2TR0ke0EZloIII82SB4t5aHxD/DPZplDoxINTLs1IyPFpoouBY6uw4u7CjgS9eNMMngRscSpI78cNS73qJ1/hBoNfliHnUl2dJjnNfNBk6uXdPrjJyWybGC7bzWZotdHeOHCHTs/4DfSmZKbEv+OapSdnJvys/7iuVLCK5H0EJWoGPOomEJmzYDvF1CWkYyX0TwTTZGnHhMS2b6a0XoG2A7ImYM2WZQ2FX2Q+Ev7lP63UsAzZbGvc5e1sX3WgLEXWc8O0ecTa7ALgXimab/cWXnjDiD1sO48c/DTXdX1mRFZFSCOBHXWHldtrPIo5BRxq1RbjBsSZZA/farXNYmlyoeT89EmHWGdmoi6jW72Uic51tgjcxay2inIz4+3QQjUAaU+XXumta1XNfKUmDkqpSGxgoQVhBu2dX+H3rA==;A/gUwQa5KmUr9QNepiI/3w=="

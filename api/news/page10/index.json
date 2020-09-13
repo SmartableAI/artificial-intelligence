@@ -2,6 +2,55 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-03-doing-the-hard-things-ai-space-and-climate-science.md",
+      "title": "Doing The Hard Things: AI, Space, and Climate Science",
+      "excerpt": "This is not a time for an international arms race in AI. Rather, it is a time for collaboration across governments, corporate R&D, academia, and startups. It is a time to push the frontier of AI and space for climate science and humankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
+      "originalUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e4de532ba948991b167b8%2F0x0.jpg%3FcropX1%3D9%26cropX2%3D1084%26cropY1%3D662%26cropY2%3D1267",
+          "width": 1075,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/amp/",
+      "publishedDateTime": "2020-09-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-invest-in-miso-robotics-now-for-the-kitchen-of-the-future.md",
       "title": "Invest in Miso Robotics Now for the Kitchen of the Future",
       "excerpt": "Miso Robotics is focused on two red-hot areas of technology: artificial intelligence (AI) and yes, robotics. This helps explain why the startup has been so successful with its equity crowdfunding campaign.",
@@ -1120,56 +1169,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
-      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
-      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "publishedDateTime": "2020-09-02T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
