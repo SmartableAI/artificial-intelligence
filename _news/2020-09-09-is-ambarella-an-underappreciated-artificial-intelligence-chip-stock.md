@@ -1,35 +1,25 @@
 ---
 category: news
 title: "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?"
-excerpt: "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?"
-publishedDateTime: 2020-09-09T15:15:00Z
-originalUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
-webUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
+excerpt: "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA)."
+publishedDateTime: 2020-09-09T11:40:00Z
+originalUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
+webUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
+ampWebUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
 type: article
-quality: 104
-heat: 104
+quality: 84
+heat: 84
 published: true
 
 provider:
   name: Nasdaq
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "jbB9/Go7riG55GwsmH1Qs5Ik6OL7MDUc3gRiSGPRiKBVX/UX9xZ1zSeWpgK4aumg5Kc7VnImBUJFYJa99gLnsFlqzmera+vsyL0JhaqVKR0a7KoDij2rd2n6glrOusBm217i+CaXLScDbir7cwCMoXNZz1FxYIz6n6uTate+MA1vUqx1ddEgZncTID4XSKx8Kj+dht2mzjwy3yMJ38WMdlelHXVeaO3D01YRCMYKzYi/vzVduMhhi/RlR4HSoYBszu3I++ZWVEFwRpMG3xSQ71CJFRIRoMFnVz6m8btpRYL+zspEat5C5uLTu5Sa0I4V9ADW1KiwPRI2LbQSL5Y0hknDD1YBBjqcBIHRHj9AIkc=;qYp7MKfMNLZ11TO2aAmvTA=="
+secured: "sBF7RdI9fTosy8Cue18YU4yyEd5wQ+Tp2+k+fUrzuOB/iJZ/mVrvXMbmKD+kZyZksUO/d2F71/nsnDUjLCNGe1WJ/ph8HEuADX9FCpnsQvZpdrwfatBmzRvfZtbIkfUZxD3SZ6c99WRIrUShwSctmNMH3w1R9Fkr3leUgsKXTw32bp4nQC7UUOnpKanSQU4gxz4TQmL+aFM8/w9rcyfNJVpLRD0ONvGKO9nsdXI3cQw/6S1odnxoukO/RKhsvvadx2xX8j4xMut1rZjkLDXWCkpPxaXak6O1h8JDCR+5MvmtTzdaFLs5pEL5PXFR9iaGZdAQnj/2hNjC5YkxTulkHpHiJeWzLfSng5+CeznbhqlYSwqu4ZBCYIGsff/U0eSZUURwlji/7Vn12Ly/DO2z1kEyreKWYWXiMtnms9PVdWW7udfU6jY/rvPU2k7uebJ9OLPb3d8pY6GyQkWHKzW5w42t7OT2G43HulmbzupsAthyAKqlv6fdK2V7y2/RPnBNjv0KAiCaQpoitx/UnxhOSw==;a/0aeDM0HtIudC0Cifn8BA=="
 ---
 

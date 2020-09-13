@@ -1,27 +1,33 @@
 ---
 category: news
-title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
-excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
-publishedDateTime: 2020-09-10T11:18:00Z
-originalUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
-webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
+title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
+excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
+publishedDateTime: 2020-09-10T14:55:00Z
+originalUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
 type: article
-quality: 27
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Fast Company
-  domain: fastcompany.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public.jpg"
+  - url: "https://images.wsj.net/im-230642/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
@@ -265,22 +271,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
-    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
-    publishedDateTime: 2020-09-10T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-230642/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
     excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
     publishedDateTime: 2020-09-10T13:39:00Z
@@ -485,6 +475,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
+    excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
+    publishedDateTime: 2020-09-10T11:18:00Z
+    webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 27
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Portland passes unprecedented ban on facial recognition tech, despite $24,000 Amazon lobbying effort to kill initiative"
     excerpt: "Portland lawmakers unanimously passed a sweeping ban on facial recognition technology, becoming the first city to bar both public and private entities from the controversial software and defeating Amazon’s bid to kill the measure."
     publishedDateTime: 2020-09-10T02:16:00Z
@@ -497,6 +501,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "E2GZ+6i9tkupscBKdCcVDdvtd9ZboWFVadGJLC5kw6bXD+81NmwgaOnWe9y7yUebWeX2DSxiYDkeEofHRkWmHRFlVlN0IuU1KoTMD8jZngqJKSkcdzQEg0RE3gn3SvrDKFLURU4lxF/sFiWj6o9EEYobJNnTcbUGpIsm/wWuuWCXVTR+C442lzs2YnDzqeDEaUnT0dRMDcsjGF3CMtlPCoiB57daFMvng8GoQw+Sh8ku2IBkxZ0DM9im0F6Erb4bsbZOawLgFXvUSQWgJnPuRscoxCjmUgbfWlO4ZZBMFAVtWRx5mxXa1ZRDSa+Ib1sJ+H1WjpqcK+5C5r6YbhdA4vS6MFSq3d15fNZQMNWFYVgaCvB3lb/5rDoKZ+QzFo7vZaEenySYVppe2crTGM/6es1c62Nche9qW/nllsmpx5FDs4Q0mRFc9za4RQgu0u3Z1DnDdI9/iNwmINhjxpNNz87R4qc9JvOali2o0Pc0GT0kC50XPMMNk0K9WSrDsf4683WjZ+LEHF24N0PP2aNKMw==;920e9aArfcDEeKICKYdtJQ=="
+secured: "EggMjKidAycEvtVhHk6uk4Vej9PkF45jEJGAW3YuEP5fr3oMsT8EBx34gSkivi/JKf66yOyvrbT0WzSKP8jprnkRpAtTzjhjRw85fKYTZHghwod6X4k8u2Wmu4wbIzMZV4+lUmsxFh2G2pTYKbB3YJp+ote216z/STZMdS4igPcIKP2TJNp9t7b2W+8GGzgxlUY0rcH+aQSCF7eyyowE9H9HWTS4Nfq0dL8dtDyDpS36dQLpgw997RUhBGBjk7vFAwU54J84EKBjZB6Uzqk5/cD1aRoCD38nYXt2Jp6hT3un3obgtX7zVFZGiOCwyKSOojs5kRLd+aceKPlpfmL3gd/Kv+XW/EytrcKFcIDEmcE=;omts7dnOg0jtsu6KLxk2Ig=="
 ---
 

@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Self-driving Indy race cars to compete for glory"
-    excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
-    publishedDateTime: 2020-09-08T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
     excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
     publishedDateTime: 2020-09-11T08:21:00Z

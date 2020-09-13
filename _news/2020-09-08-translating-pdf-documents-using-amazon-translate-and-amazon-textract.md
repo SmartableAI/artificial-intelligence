@@ -43,22 +43,6 @@ related:
         width: 990
         height: 498
         isCached: true
-  - title: "Five ways Artificial Intelligence is transforming finance"
-    excerpt: "Artificial intelligence (AI), machine learning (ML) and deep neural networking (DNN) are disrupting businesses and challenging traditional values in the financial industry."
-    publishedDateTime: 2020-09-08T10:00:00Z
-    webUrl: "https://www.itproportal.com/features/five-ways-artificial-intelligence-is-transforming-finance/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/five-ways-artificial-intelligence-is-transforming-finance/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/five-ways-artificial-intelligence-is-transforming-finance/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a4prDj5rZ6naQgnnRVKU3K-1200-80.jpg"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "g2T62x//aE3UPGy1F6s08rLuzSZyFO9+pMPi6GLG2bVv83ql1c5mkeJqxfiADHzgns1ssM/Lg58wHP97z4KdhdQBAA49jPII2oKkRVOFqBbw7ap+KCmeHr3aAA1JbA1eRr7x7T/TMw/mzJWn4zrvdoxKGhV9jdYA0Azq8AgmSAB4AWISiq2Stgg69B57+K1FeGuykBOlLc8qLaM6DJG/QVLuoZ7684ot2ZO7wsEONCtTsCQb0SgZb1S54Nsb6NjU05Wxo4Ao+fZFwOwx6iMKR/ytgL2eP/TOjafuqsV5ZamFX0l4ECmJe4uxhQ9mmt/u+oJcAnMvFvLRWMQkAko7bGm2KVNz6h0xJD9UwuEf7OQ=;HHaf+ZlnwY1/34VWv+HRUA=="
 ---

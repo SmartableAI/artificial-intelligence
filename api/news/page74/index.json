@@ -2,47 +2,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_news/2020-07-16-cognitive-services-platform-market.md",
-      "title": "Cognitive Services Platform Market",
-      "excerpt": "The COVID-19 pandemic disruption is estimated to transform the Cognitive Services Platform Market in the years to come drastically, and its after-effects will be persistently seen in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2091693/cognitive-services-platform-market-2023-technology-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T716835005_g.jpg",
-          "width": 650,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
-      "publishedDateTime": "2020-07-16T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
       "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
       "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
@@ -1064,6 +1023,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-amazon-google-microsoft-sued-over-photos-in-facial-recognition-database.md",
+      "title": "Amazon, Google, Microsoft sued over photos in facial recognition database",
+      "excerpt": "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
+      "publishedDateTime": "2020-07-15T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

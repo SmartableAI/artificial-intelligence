@@ -271,6 +271,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
+    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
+    publishedDateTime: 2020-09-10T14:55:00Z
+    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-230642/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Portland adopts strictest facial recognition ban in nation to date"
     excerpt: "The Portland City Council voted on two ordinances related to facial recognition: one prohibiting use by public entities, including the police, and the other limiting its use by private entities. Both measures passed unanimously,"
     publishedDateTime: 2020-09-10T14:32:00Z
@@ -485,6 +501,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "N7gq1uLJdu8CiPVPg2YYQGO/a0xP0Ni6a+BmYAt8JEvJi+LvwqjEILdb9XyMvj6pDphr/IVPIgMATyKD3qGdCJEcKaMv6+nlpqQy7onfaV6SH1E+Q3AKLyPUopB/TlnB6TA6R80GGU0orqiykrmLygxeqQPm7QvPWpuhmU29Lyxc0AoFQfRtN/2c5p/jr4ya2r8rpZnZL30WumDBwOWf8me+72cVC0zIZEYvFCtYQTw4XCnXyqBJ//LQfqTec09FxUAnTJYkyXVa90OpsRpAHI3AFolsqKT61Qd/zF4Fccjdb02qrVsJI75Z3QKTSj2SZAaX20gSC5m7e09bf04fgm1ap5FNaKQ2I6fy9qOJDeQ=;5925JRhspnn95zd4LmJRiQ=="
+secured: "7rXyGh2Wsh9YVSQr6cF0OmJkY8hYjJmt+2nLy8497JsuDT7LhFcREd9s4rdRiv353TKZhsaP+8KHV9cpdZfZ+o2JHdtFHGfadVpTHf1gBW56BbvUarWQYRNGOMAE6C+h8ENtFNY5VRZlRmMeW4g4FzRKG5lKgQjZjeVa1ZLr/gizExrOz61lu/PVym8rPQQsHIo7oa/mahd/sGxOCJcBSyFp2sdMOMYlZ2PBRIstvZXQtU7M47Xv+g6UXztU84DO3I/f8s0kpTfwO4MreVmyODvFGtOsNqvAAf3zNhRC5+ao0nGzCAWyRX6H1F74oRukwcUY365eMUcQov6UF2eK9ivoBa66N1S2WzRzcpgL97AB3fVMAl9eoq+Uri43KtcC5Q9b/Bd7JQVjw8uG0IG+Kh7hryvVghKUa23n725ryTNQQdIm4LRUcKYrtT8hHwqUpvlBO12pC88Mrkpu+bYJLszzw2q2CJrCUFGzmkRmt8sWfVOxihQECOfZPQXf+getcNs/yd8Lcny0ItCZGfSfkA==;tSsFVPV0JaIThCklkRHo0w=="
 ---
 

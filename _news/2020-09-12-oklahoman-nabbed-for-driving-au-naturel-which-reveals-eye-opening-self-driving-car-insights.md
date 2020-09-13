@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Indy race cars to compete for glory"
-    excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
-    publishedDateTime: 2020-09-08T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-indy-race-cars-to-compete-for-glory/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "Humans — The biggest hurdle for self-driving cars"
     excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
     publishedDateTime: 2020-09-12T07:43:00Z

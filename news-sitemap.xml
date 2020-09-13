@@ -19,7 +19,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com</loc>
+    <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html</loc>
     <lastmod>2020-09-12T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -51,12 +51,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -463,12 +457,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
-    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
     <lastmod>2020-09-09T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -519,6 +507,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
     <lastmod>2020-09-09T04:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
+    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -577,14 +571,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bloomberg.com/press-releases/2020-09-08/irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in-health-and-care-award</loc>
-    <lastmod>2020-09-08T15:09:00-07:00</lastmod>
+    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
+    <lastmod>2020-09-08T14:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
-    <lastmod>2020-09-08T14:41:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/creating-a-sophisticated-conversational-experience-using-amazon-lex-in-australian-english/</loc>
+    <lastmod>2020-09-08T14:15:51-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -817,7 +811,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408</loc>
+    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/</loc>
     <lastmod>2020-09-07T04:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1993,8 +1987,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
+    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3367,7 +3361,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
     <lastmod>2020-08-25T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

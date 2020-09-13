@@ -3,8 +3,8 @@ category: news
 title: "Hitting the books: How China uses AI to influence its 1.4 billion citizens"
 excerpt: "Today, states and their actors are waging a digital cold war with artificial intelligence systems at the heart of the fight. In T-Minus AI, the US Air Force’s first Chairperson for Artificial Intelligence,"
 publishedDateTime: 2020-09-12T15:54:00Z
-originalUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com"
-webUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html?ref=hvper.com"
+originalUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
+webUrl: "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
 ampWebUrl: "https://www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 350
     isCached: true
 
-secured: "yES81PP7gLxyTbn02XUgE+QqUBzNHCTIdpzDykBDxNyIheQsl6nVXwSQopLRFOSV7/VI19KT+W9r+TPZBnUz3B3pmBRDRsV8QTjZVCaMwLOxhzs22kPQSyyxHhmoi0hHudSzuUprNcGExxDZWjAPlBiZuouhuWwBKmfcSq1ExF3a3CXYplIyGwtoWzeY8fADip68pYfI5YBrjLEgsKJdPdi3TR+ZKyEJnhq4QVNHuxNk4RFe5PewVG4+ytMkFNOJrAzbusBf9gAaqIo51YQKzm66ob7wNyPp9+qwVxjM18hjnboc+fbaEyu3xE+9ibKh1pF1+VlCUVBeGTE2n3iHGGmha2eKZ9rzvSumpWJq1+c=;kXsEfCTS5hFMDoLXvNPoqA=="
+secured: "y3M4cEaotr5aTWdgyJgFR7vYqIMZxaK+UceRjxA9F8Y87luAiH+BMhul401JBKRKDiU10GDQUFYQUG2co1Hy4TwD9MQ3NzeC9n0VRiWLBc4EwycCMS+qlNhZfSmtQyqIOs6y/1o6aI3GJu0SkLcksp1GJNO6pcBMUnAO8crh5RIQ9YLhW2x9W3rv5XWDAKZQjU2knecB5h2iXEOwKF4gmkts/LiR1FQArmGRp/Cdqw6f/zZUMxEIL+BP4niJxDCGrY7BQLPDNOr4DqNwF6z1c3+Qyzm4Bgn4MS543uGb3rVzTMYugOhQVDN/xImX8r+sEJpbz41MiM4JvVngaeJw/BgQsn6S8ZXuoZ6vKPjrzEo=;fnWYurDDD3lB5dHWBbZ9Eg=="
 ---
 
