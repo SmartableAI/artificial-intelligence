@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seaml
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Sify.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable"
-    publishedDateTime: 2020-09-08T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
     excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
     publishedDateTime: 2020-09-09T01:46:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
         width: 268
         height: 250
+        isCached: true
+  - title: "Nutanix on Microsoft Azure: what you should know"
+    excerpt: "“The same experience for both sides of the aisle. Portable licenses being able to run not just Nutanix but also be able to connect to native Azure services: AI, ML and storage and everything else that Azure has come to deliver – all through a single ..."
+    publishedDateTime: 2020-09-10T06:33:00Z
+    webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"

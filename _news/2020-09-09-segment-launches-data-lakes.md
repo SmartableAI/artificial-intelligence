@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142734"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 599
     height: 311
     isCached: true
-
-related:
-  - title: "Announcing Segment Data Lakes, a New Data Architecture for Customer-First Companies"
-    excerpt: "Segment, the world’s leading customer data platform (CDP), today announced the launch of Data Lakes, a new data architecture product built specifically to help companies create cutting-edge customer experiences with their customer data."
-    publishedDateTime: 2020-09-08T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/announcing-segment-data-lakes-a-new-data-architecture-for-customer-first-companies-1029570401"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "W4Bp3ncoS85EmJoUmkpuCyQSnXkUNlKciHN5J/YM8DkVx7wplOFUw1J60ELNGldIuYVTWxdFekV1arfpQ2HVNhj5mvFFjyiHjGt0JBtY7hHHGmyNH9TgROskuikIujmBi/8+/sv67sjGsHJ7F5448E+7JUbrUhLeotPUrTZ7YtJIDcxznNfYewU6UM9CVU2hgp+4YCUsENZpP5wqxSIlK6o8uXpQjBl9EpTcY0jb7tH0HC99D5LjFOBmd5EnkZqwmLvq9xd7d4vDILtubYbNCQZbRxfEpKwy6OVGItj8nxTDEr5UYCKKbzMiX3gpJcA2Io+qEHgtp24mxTtr2mnQyVnB2OEv2suvrXM9BnFSUQY=;s2Jptl4U5yeCHs+cpSSHkQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "GreenKey Releases NLP Tool for Hedge Funds"
 excerpt: "GreenKey (GK), creator of natural language processing (NLP) workflows for sales and trading, has released its latest version of the “Focus Studio” app"
 publishedDateTime: 2020-09-12T13:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200911005066/en/GreenKey-Releases-NLP-Tool-Hedge-Funds"
-webUrl: "https://www.businesswire.com/news/home/20200911005066/en/GreenKey-Releases-NLP-Tool-Hedge-Funds"
+originalUrl: "https://www.businesswire.com/news/home/20200911005066/en/GreenKey-Releases-NLP-Tool-for-Hedge-Funds"
+webUrl: "https://www.businesswire.com/news/home/20200911005066/en/GreenKey-Releases-NLP-Tool-for-Hedge-Funds"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 336
         isCached: true
 
-secured: "i7Piz/+I5UNGBKNpnxFF8//nmaUmL36RvAG2H2hhYMX+I52bvsivTQA5yP2ty4CehlF8pbi8GDPjL5oFWe66K80iR4J4MLxQUlnf+ONQxNNk4hFSaSLdYszO324Zl+OJ8ECj2A8/z6ZNhkmmyRdo+se0H8o5jbKSSMlxPIsgDq7HNRHE9xY4xCon8yLrF8Y8AwfYI/ZWghVUNZ+X4XLa362+nvo1J3guanB8oO/ty6Q/0gonoNzxC1My08wL15ry0MJv8sGzHbNN8q1s72pDReBibeOc0KSjTH8+7cWp+oKJPMKDPVLIKkkCPptIq4FCR0CWxYQQC6wVnWncEmUR9UVuC7pnPzHxQ51lm7Xe1PU=;1BQVwLXa3Wu+JN7pV2pKTg=="
+secured: "MUOZw/jBf4lptraot9ACX8Oxeki7dUQRHjXKedJEtKydtQS5piemX5KGOpJ5ckYI54tBFONiNKyd3UF3sNAwGCpEluviU9Yh6m0eimuz2+Ag4VU8LaKmWJnkQf4EpQd4+kuz0p0TIqxPY6L+v2VnwyKi1OTOqisJBdQ/sj9bAYOnWRtvP3zpQi3Co62xAsMDbVLtbw52BSqzysiVDG++c7YjjnJG3Yze/sCkjfSgSTw2geU0rQL6AMXmtJ9W7qIdGZkqAX0kZ6zV+LtL+JJldYB8XG3pH/azMy8/Wh4xPr1EhZS+INhEl+IXMQlIdqE96X8GEYyCGdSXOOl2bwItkEbRQMb2ACMCe0hunLS/LNU=;kcOubOlpkucphNq3KIHyNw=="
 ---
 

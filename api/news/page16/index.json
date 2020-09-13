@@ -2,6 +2,227 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-08-31-israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows.md",
+      "title": "Israeli chip maker Hailo to set up Tokyo unit as demand for AI tech grows",
+      "excerpt": "Hailo, a maker of chips that allows edge devices like smart cameras or smart cars to have artificial intelligence capabilities, said it is setting up a wholly owned subsidiary in Tokyo, Japan. Edge devices are electronic devices that are installed at the edge of networks — the entry point to networks — in products such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2020/08/Hailo-8-AI-processor-e1598859102334-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "publishedDateTime": "2020-08-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
+      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
+      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226475/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "publishedDateTime": "2020-08-31T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
+      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
+      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "publishedDateTime": "2020-08-31T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
+      "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
+      "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1238773",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773",
+      "publishedDateTime": "2020-08-31T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
+      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
+      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "originalUrl": "https://www.techradar.com/uk/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
+      "publishedDateTime": "2020-08-30T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-robot-takes-contact-free-measurements-of-patients-vital-signs.md",
       "title": "Robot takes contact-free measurements of patients’ vital signs",
       "excerpt": "Dog-like robots can remotely measure patients’ vital signs and could be used to reduce health care workers’ risk of Covid-19 exposure. The “Dr. Spot” robots, developed by researchers at MIT and Brigham and Women’s Hospital,",
@@ -948,238 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-le-machine-learning-automatise-va-t-il-remplacer-le-data-scientist.md",
-      "title": "Le machine learning automatisé va-t-il remplacer le data scientist",
-      "excerpt": "DataRobot, Google AutoML, H2O.ai... Les solutions d'automated machine learning se multiplient depuis quelques années. Leur ambition ? Automatiser la création de modèles d'apprentissage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
-      "originalUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-0.journaldunet.com/Cihe4Jc1q_3pnLXW_i67tdAQY7Y=/540x/smart/63c71b725da14af3ab53c43b85a79543/ccmcms-jdn/17238006.jpg",
-          "width": 540,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "journaldunet.com",
-        "domain": "journaldunet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-amazons-new-health-tracker-will-use-ai-to-monitor-your-tone-of-voice.md",
-      "title": "How Amazon’s new health tracker will use AI to monitor your tone of voice",
-      "excerpt": "Amazon's Halo will include a feature called Tone that offers users feedback about how happy or tired they sound.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
-      "originalUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/08/Halo_App_and_Halo_Band-e1598648831888.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
-      "publishedDateTime": "2020-08-28T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-7-data-science-certifications-to-boost-your-resume-and-salary.md",
-      "title": "7 data science certifications to boost your resume and salary",
-      "excerpt": "IBM, Google, SAS, and Oracle offer online courses and exams to quantify data science skills and expertise with modeling and analysis software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "originalUrl": "https://www.techrepublic.com/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-data-science-certifications-to-boost-your-resume-and-salary/",
-      "publishedDateTime": "2020-08-28T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios.md",
-      "title": "AI analysis finds that in-app ad issues are fixed faster on Android than iOS",
-      "excerpt": "Researchers found major differences between how in-app ad complaints are addressed on the iOS App Store and Google Play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/fe6abb8c-2585-4d43-965d-980609eb259c-e1598634853169.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ai-analysis-finds-that-in-app-ad-issues-are-fixed-faster-on-android-than-ios/amp/",
-      "publishedDateTime": "2020-08-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-nuance-and-mitre-team-up-to-fight-cancer-with-ai-speech-recognition-and-data-interoperability.md",
-      "title": "Nuance and MITRE Team Up to Fight Cancer with AI, Speech Recognition and Data Interoperability",
-      "excerpt": "In the fight against cancer, data is key. Accurate, robust patient data that is interoperable between use cases not only helps",
-      "sourceUrl": null,
-      "webUrl": "https://findbiometrics.com/nuance-and-mitre-team-up-to-fight-cancer-with-ai-speech-recognition-and-data-interoperability/",
-      "originalUrl": "https://findbiometrics.com/nuance-and-mitre-team-up-to-fight-cancer-with-ai-speech-recognition-and-data-interoperability/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/iStock-health-1-e1487858868904.jpg",
-          "width": 1200,
-          "height": 918,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

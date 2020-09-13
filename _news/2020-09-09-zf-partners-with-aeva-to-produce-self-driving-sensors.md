@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors"
-    excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production."
-    publishedDateTime: 2020-09-08T16:34:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "Aeva partners with auto supplier ZF to produce key self-driving sensors"
     excerpt: "A test vehicle and sensor from Aeva Inc, a Mountain View, California-based startup that makes lidar sensors to help self-driving vehicles see the road, are seen in an undated handout photo provided on"
     publishedDateTime: 2020-09-08T21:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/aeva-partners-with-auto-suppl
 webUrl: "https://www.reuters.com/news/picture/aeva-partners-with-auto-supplier-zf-to-p-idUSKBN25Z2LO"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aeva Partners With Auto Supplier ZF to Produce Key Self-Driving Sensors"
-    excerpt: "(Reuters) - Aeva Inc, a Silicon Valley start-up working on a crucial sensor for self-driving vehicles, and German automotive industry supplier ZF Friedrichshafen AG said on Tuesday they were partnering to put the sensors into production."
-    publishedDateTime: 2020-09-08T16:34:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "ZF partners with Aeva to produce self-driving sensors"
     excerpt: "German supplier ZF Friedrichshafen and Silicon Valley startup Aeva are partnering on a crucial sensor for self-driving vehicles, the companies said on Tuesday. Lidar sensors, which measure distances with a laser light,"
     publishedDateTime: 2020-09-09T13:44:00Z

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Key Vendor, Landscape Overview, Drivers and Regional Analysis by 2026"
     excerpt: "The report offers a critical supposition identifying with the Global Artificial Intelligence in Diabetes Management Market by examining its division. The worldwide market that compares to the Artificial Intelligence in Diabetes Management market size ..."
     publishedDateTime: 2020-09-11T11:52:00Z

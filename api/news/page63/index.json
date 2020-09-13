@@ -2,6 +2,237 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-07-24-the-50-best-things-to-watch-on-disney-right-now.md",
+      "title": "The 50 Best Things to Watch on Disney+ Right Now",
+      "excerpt": "The Disney streaming platform has hundreds of movie and TV titles, drawing from its own deep reservoir classics and from Star Wars, Marvel and more. These are our favorites.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/",
+      "originalUrl": "https://www.nytimes.com/article/best-tv-shows-movies-disney-plus.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-us-west-1.amazonaws.com/rks-inside-prod/twitter-card.jpg",
+          "width": 1600,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-healthcare-cognitive-computing-market.md",
+      "title": "Healthcare Cognitive Computing Market",
+      "excerpt": "DBMR Analyses the Healthcare Cognitive Computing Market to grow at ... Data Bridge adepts in creating satisfied clients who reckon upon our services and rely on our hard work with certitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T724883708_g.jpg",
+          "width": 800,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "publishedDateTime": "2020-07-24T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
+      "title": "Machine learning: How embeddings make complex data simple",
+      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "publishedDateTime": "2020-07-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws.md",
+      "title": "US Artificial Intelligence In Manufacturing Market Top Companies: Microsoft, IBM, Intel, Siemens, AWS",
+      "excerpt": "Jul 24, 2020 (Market Insight Reports) -- The 'Artificial Intelligence in Manufacturing Market' research report provides a succinct analysis on the recent market trends. In addition, the report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws-2020-07-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
+      "title": "This cheap coding course is perfect for total beginners",
+      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "publishedDateTime": "2020-07-23T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
       "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
       "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
@@ -967,236 +1198,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-riiid-raises-418-million-to-expand-its-ai-test-prep-apps.md",
-      "title": "Riiid raises $41.8 million to expand its AI test prep apps",
-      "excerpt": "South Korean startup Riiid has raised $41.8 million to further develop its AI test prep technology. To date, the company has raised over $70 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/1-1-e1595515659939.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
-      "publishedDateTime": "2020-07-23T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
-      "title": "Tech Startup Funding Declines as Pandemic Drags On",
-      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-212166/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "publishedDateTime": "2020-07-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20.md",
-      "title": "Microsoft commercial cloud sales surpass $50bn for 1st time in FY20",
-      "excerpt": "New Delhi, July 23 (IANS) As the digital tech intensity becomes key to business resilience, the commercial cloud business of Microsoft surpassed $50 ... transactions were processed in Azure Cognitive Services, 2.5 billion messages sent, 9 million hours ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20-news-topnews-uhxnOBfigahhi.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-livongo-health-peer-ontrak-is-up-over-100-this-year-as-virtual-healthcare-picks-up-steam.md",
-      "title": "Livongo Health Peer Ontrak Is Up Over 100% This Year as Virtual Healthcare Picks Up Steam",
-      "excerpt": "If I said, name a technology-driven virtual healthcare platform growing revenue at a triple ... some homework will reveal whether owning shares is worthwhile. The artificial intelligence (AI)-driven platform targets and engages with those coping with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583181%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx",
-      "publishedDateTime": "2020-07-23T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-here-now-how-ai-can-alert-us-to-a-changing-world.md",
-      "title": "Here, Now: How AI Can Alert Us To A Changing World",
-      "excerpt": "The Covid-19 outbreak has changed the world in a myriad of unforeseen ways, and experts in every field are scrambling to predict its impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183d7f6efac20006bffbea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "publishedDateTime": "2020-07-23T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

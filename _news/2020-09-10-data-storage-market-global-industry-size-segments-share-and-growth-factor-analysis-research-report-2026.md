@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Latest Industry Size, Growth Factors and Major Segments, Forecast Research Report"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-09-08T16:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-latest-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025"
     excerpt: "The following report offers a comprehensive and an in detail assessment of the Enterprise Artificial Intelligence (AI) market and focuses on the key growth contributors of the market to help the clients better understand the current scenario of the market while taking into account the history of the market over the past years as well as the future scope of growth and forecast that have also been discussed in depth in the following report."
     publishedDateTime: 2020-09-11T07:24:00Z
