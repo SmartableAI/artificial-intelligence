@@ -139,22 +139,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution"
-    excerpt: "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue."
-    publishedDateTime: 2020-09-08T21:11:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Portland bans use of facial recognition tech by government and private entities"
     excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
     publishedDateTime: 2020-09-10T06:54:00Z
@@ -496,6 +480,20 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 39
+  - title: "EDITORIAL: Put limits on facial recognition technology"
+    excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
+    publishedDateTime: 2020-09-13T09:01:00Z
+    webUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Daily Gazette
+      domain: dailygazette.com
+    quality: 39
+    images:
+      - url: "https://wpress.dailygazette.com/wp-content/uploads/2020/09/youssef-sarhan-tze1kKj7Lgg-unsplash_focuspointcut_600100010x314100010.jpg"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -556,6 +554,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "Ca0mBPO4xqpot8KMSLVWKrd9OcvXbgm4I06r9EiD1y9o0zlWoOTxpkQFyg2IM8wqJkwLKCqsRaEJH2UFHl65ZPJlqjhsbxeLpUzGT67Z98sg2LVSNSAjvSdrKHgAn6txyMoUCgwFhYyRh7eHX6fyWbHALXzEQztbAGYkhP7gAmrofkuMvAfyTJNpZCRN01Ix18I27T2J1XFpgJotcNRJ0/rkUuxFTEogFuL0McUi+GW1XmF5UtxSRLuGCcD4/wKRxY9MyU5zmJ4Ir5CJRauhtGS+c7BSH+2YcPepwpCFg6g+uBpz+JwXpZwNyVGK4Sz5mzGsV/THxOAKlzcvkGxOK8HXT2uGnjM+DETvdey3heg=;cmcWk9XGhvyFCFoB7MHDqA=="
+secured: "5lA8Cw3WLRna/uTZ6r651qeohoYMpYueSTmbSFylQ0vcuQBw2r8Cw9yiWDRlOUz6O8+9JKU8iXJB3Q4drIcVW2TGRhA+KHJe1aA666PAH7Kl24jD4LCXxeK7kstkPAOhWy4vcighBkh9cqjeymi+VzAyY8HnBQZgenf/p1cw9yQlLNuD4e8CnZIjvoqXEcsotk92qTIIQ0l/VbG+A6+tYx4nBQSAEf/IarFLYqYPpsm+acdiDRNGOnWL5VA3ITLRrb+3NsTICgBB74eXX6CC9k2zkmHh+790WOgPyXffloa8oWSBEcqXzU26aP3ielerl42HgJtvVWZl1PUwjFQvocgDAg4Mh+Tx/JT8IZCjAy3pHBv8NiXli7SuXDhjmGdPJDPNJ6mpZ78HilYsfNFsVAvb1hC9KL12k7n9Dk2jv1+kEm0tez+5vut3HV5IrQEWrtu9Ok2PvRS5MkX5PRCBi/UWf86mRpwzvlpj8+aaajq82AaFeoTdgd15SdbMgmzuZV49YPyj9PPhMTc4cnSKvw==;lFOQvoET4KkVlsSELMLk0A=="
 ---
 

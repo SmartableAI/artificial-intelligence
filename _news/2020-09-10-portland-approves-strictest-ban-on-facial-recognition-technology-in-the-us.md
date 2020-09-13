@@ -133,22 +133,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution"
-    excerpt: "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue."
-    publishedDateTime: 2020-09-08T21:11:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Portland bans use of facial recognition tech by government and private entities"
     excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
     publishedDateTime: 2020-09-10T06:54:00Z
@@ -504,6 +488,20 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 39
+  - title: "EDITORIAL: Put limits on facial recognition technology"
+    excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
+    publishedDateTime: 2020-09-13T09:01:00Z
+    webUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: The Daily Gazette
+      domain: dailygazette.com
+    quality: 39
+    images:
+      - url: "https://wpress.dailygazette.com/wp-content/uploads/2020/09/youssef-sarhan-tze1kKj7Lgg-unsplash_focuspointcut_600100010x314100010.jpg"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
     publishedDateTime: 2020-09-12T14:17:00Z

@@ -1,32 +1,46 @@
 ---
 category: news
-title: "Portland's facial recognition ban is a major win, especially against Amazon"
-excerpt: "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler."
-publishedDateTime: 2020-09-10T01:11:00Z
-originalUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology/"
-webUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology/"
-ampWebUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp"
+title: "EDITORIAL: Put limits on facial recognition technology"
+excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
+publishedDateTime: 2020-09-13T09:01:00Z
+originalUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
+webUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
 type: article
-quality: 102
-heat: 462
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: The Daily Gazette
+  domain: dailygazette.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194="
-    width: 1200
-    height: 630
+  - url: "https://wpress.dailygazette.com/wp-content/uploads/2020/09/youssef-sarhan-tze1kKj7Lgg-unsplash_focuspointcut_600100010x314100010.jpg"
+    width: 2000
+    height: 1046
     isCached: true
 
 related:
+  - title: "Portland's facial recognition ban is a major win, especially against Amazon"
+    excerpt: "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler."
+    publishedDateTime: 2020-09-10T01:11:00Z
+    webUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 102
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
     excerpt: "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use."
     publishedDateTime: 2020-09-09T19:15:00Z
@@ -478,20 +492,6 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 39
-  - title: "EDITORIAL: Put limits on facial recognition technology"
-    excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
-    publishedDateTime: 2020-09-13T09:01:00Z
-    webUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: The Daily Gazette
-      domain: dailygazette.com
-    quality: 39
-    images:
-      - url: "https://wpress.dailygazette.com/wp-content/uploads/2020/09/youssef-sarhan-tze1kKj7Lgg-unsplash_focuspointcut_600100010x314100010.jpg"
-        width: 2000
-        height: 1046
-        isCached: true
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -552,6 +552,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "etjZqlVqREr9chI54dWe/viYmzzOs6myGE+WiAfw5gMj6cpnLZvad75XVPPEwPk5jzN+fmIej+xzw44YeKqpZgX+lh7ooXdwTvOobdRSfFOq0ewWDx2eMcphvIMfyjDfi4tP6OJDXUvSvELbKB4al3Wq5zgcR6ScJHuX2CFB2zrQ6vAS1TgZC8/N9vYxWNESfspI4Ko/oheABmDtVRC/lM6DWuIlEumm38i99ZJXUmMuiMTcpRIUfasieR0/8US2jJkvdVQPfOTS64aqpbE6yaLwLcClxYmNqBZpB8MP44eUi5g1zNDts0KQ/+ljOGvmOQ/FbxqMxGum5nyd5KywYk2d2R4IYG//HamkM4FYEIh+HtVenMIfe5GMmY0Ji9ImK0qe99H0iHnPoKFFA2ZF42nZP5iLKRvkPHt+0PjGWaqZFTbjqLH2mZFUlkQXPYSAzFd6x53jpYAnl1+O3w8gEmtte7irWKJuUZ4Ds8i8QWyKfGyx7/yaak8lpFvKuG04en704wZQ3NbEaLKm2xAVCYxsUq0kYGW/liS1iVABclc=;YlDEZJezBxV4/Fb5QXrG7w=="
+secured: "Rrj4JEHeEIfv/bE8Rw5rXtdqDpMwfHwMeBPzDDQI/oW8amATLthBk5AwN5UM8TjZSdGJH7szCpW51/hhp9z+yiYhi0dm10EchVtkOdjF5vJFyBjuh9Pq/9dwA/Qgb11ldZI1Y/ibIg6z0o/vREN8s3Il9M9yQJSxdYrAQUIlwz4SBVkRdwH+8f4jgcVFnMTLhePnhYgpZa81b+lLPwzpvN+o3daj3UR+u4ua8b7sQlho5yLLjAR8qLZQ+kJxm0pjS0BpTW920WlTzdC5supngKz0ALZ7EQk3EIciJ0WwQg867N9YB9XV9HoHC/RBrUPYY0cUxiLE0M2MqHA7JBlHG5gLn8aIsXniaGHiW4Ly7gE=;H1zovOM0QE/ca5g8n1NUIQ=="
 ---
 

@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-11-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
+      "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "publishedDateTime": "2020-09-11T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry.md",
+      "title": "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry",
+      "excerpt": "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9816197f1db12502f9e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "publishedDateTime": "2020-09-11T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-why-journalists-should-not-fear-the-rise-of-ai-and-robots.md",
+      "title": "Why journalists should not fear the rise of AI and robots",
+      "excerpt": "We are faced with a future where the choice will be between authentic intelligence and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
+      "originalUrl": "https://www.iol.co.za/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/4896x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9b08343c-0ba3-522a-a6ec-dc02ad7bf237&operation=CROP&offset=0x325&resize=4896x2754",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
+      "publishedDateTime": "2020-09-11T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications.md",
+      "title": "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications",
+      "excerpt": "PRNewswire/ -- Rambus Inc. (NASDAQ: RMBS), a premier silicon IP and chip provider making data faster and safer, today announced it has achieved a record 4 Gbps performance with the Rambus HBM2E memory interface solution consisting of a fully-integrated PHY and controller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires.md",
       "title": "California Utilities Hope Drones, AI Will Lower Risk of Future Wildfires",
       "excerpt": "Artificial intelligence may be able to spot fire risks created by faulty distribution and transmission equipment, utilities say.",
@@ -982,195 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
-      "title": "COVID-19 Pushing Investors into Logistics Robotics",
-      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
-      "sourceUrl": null,
-      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "publishedDateTime": "2020-09-10T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Top",
-        "domain": "fincyte.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
-      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
-      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
-      "publishedDateTime": "2020-09-10T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
-      "title": "Why cloud gaming is the future of Xbox",
-      "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/QCdvipeA9j2ulMONU4Ajg-tzpuk=/1200x630/2019/06/09/588eedb7-ad23-409e-ae58-0ffca65b6d42/xbox-pricing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "publishedDateTime": "2020-09-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
-      "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
-      "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1ab9a987-4ae0-43aa-b1d2-025974d9a659-e1599164184952.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "publishedDateTime": "2020-09-10T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

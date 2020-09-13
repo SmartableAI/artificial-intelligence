@@ -2,56 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-07-driverless-cars-gain-speed-despite-global-slowdown.md",
-      "title": "Driverless Cars Gain Speed, Despite Global Slowdown",
-      "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2d8f331d23de6d2c78380f%2F0x0.jpg",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
-      "publishedDateTime": "2020-08-07T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-07-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
       "title": "Artificial intelligence isn’t as smart as it thinks",
       "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
@@ -1328,6 +1278,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
+      "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
+      "excerpt": "Fiat Chrysler Automobiles (NYSE: FCAU) and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on Wednesday. Under the deal, Waymo becomes FCA's exclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22?amp",
+      "publishedDateTime": "2020-07-22T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

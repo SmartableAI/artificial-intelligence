@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
+    excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
+    publishedDateTime: 2020-09-10T23:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/us-dod-to-focus-c4isr-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-893593665.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing Reports Frost & Sullivan"
     excerpt: "Despite the COVID-19 pandemic outbreak, the expenditure is not expected to create a long-term negative impact on the C4ISR program Frost & Sullivan’s recent analysis, Assessment of the US DoD C4ISR Market,"
     publishedDateTime: 2020-09-10T18:30:00Z

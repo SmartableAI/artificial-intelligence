@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-tech-designe
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
         width: 4000
         height: 2110
-        isCached: true
-  - title: "Trueface Provides Biometric Facial Recognition for GigNet’s Digital Community in Mexico"
-    excerpt: "GigNet is providing the digital infrastructure for a new “Digital Community” in Mexico, including facial recognition from Trueface"
-    publishedDateTime: 2020-09-08T21:34:00Z
-    webUrl: "https://findbiometrics.com/trueface-provides-biometric-facial-recognition-gignet-digital-community-mexico-090806/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 31
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/62157982_thumbnail3-e1436371820805.jpg"
-        width: 551
-        height: 585
         isCached: true
 
 secured: "SuFQs35TvbWnCr3W5FdttomJPd2xVIt6zSRBhpU86PlkKVSjCGDICH4nRgqlETyox3kKnNajj4AHntJL/SgtpdV8syA3LIwXlTZ2HtLbTS2zjLNoYSFwqAMP10SUD5snvru0FUx6YwEqOfKdLgOP2CZxryMZeC9V+iZdNJB+V0ilRI1abyli6VzLkbaej0aYmCcFfxIOxQe947qQg0Zx7tMttMP5alrAfDHSPkUe+bjMYav9PNiHMzDZDfNcsQa4kWZ3MFjFiZknUuMbxYPR8Y8DIFAIYxUkUCtRgXdd7jpQ3Dtwhmaq2uVxMoeEDQ/5BGOaZkjYZpHiE9+yptLdUtSrquQWTNFHR6oA4X2Gg5VZjjuGRF/5imP+8SOqzqe+Y3FnFBgscaeYQrkCr4KXx3KQsZ+Nh5FBGzJmpymx7UuV7ilzOGtUEnsd97tEkgDMlNoYuSvu42UkTuAW9ieYiqUrJKLdFUG3kz6ie6pI1vZNlWBvVzNZgfkonYU9mG+H7WGCbnVHRfiuIbtWDqqZ5bdkjjoNXrdLcwhgj9LVNd4=;gU4km2gTmJn2h2nb3edA4Q=="

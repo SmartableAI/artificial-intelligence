@@ -34,6 +34,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
+    excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
+    publishedDateTime: 2020-09-10T23:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/us-dod-to-focus-c4isr-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-893593665.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
 
 secured: "d0IAXXctUiQnrb65/A9Pg1BQZ+JowHsUYQtgx68F5h5I9bTWiHwbHhQZB5j7BkcIqDYO4WALevLSj2HSVJPsGqjHNSl7EnTfRI2Cnf7tG2sRJ/QtzVmGkRYrYo+NWnOPqBISl46knb1EUm2YaBon0Qx7X4WjUk1RYCzZVZYGdH4QgCtpHjaRzMd8J7OvXlk5SyLQ2Z793kJkRp9nRaYdDqcfsmeiwI5dVgZzVcsKM1r0T2qvJ3M3JvXM7rMgC2lnNMZY0zB+QFF6Kgcx79OG1NQOtYSGkUh9NW6PYcGrt2CSW5scx0DbLaPQGUrB9tc53eItr5aGJp31sEB5YMHHP8mq8HUIMar31rOiKzUZgMq2UCLsMioemo4jCHrSZxoHhIfqzad5yrIFLm1a4eOnjgFe093OgcZ35St/v8jousGCQLwCsrwPh3ENxIg5px1cWGdU8JfPsTGCDw1EZ2NB4ICkY4a6NX1S+Ak2Q+qQvXBb4AawNGJHOhednOJLF38V9HQXOko0PrG6z8U3Ma4jWw==;xi6y0hb+RrzoSWninItTow=="
 ---

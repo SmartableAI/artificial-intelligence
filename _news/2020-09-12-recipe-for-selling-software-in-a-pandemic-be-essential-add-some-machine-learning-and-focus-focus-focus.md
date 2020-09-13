@@ -3,14 +3,14 @@ category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
 publishedDateTime: 2020-09-11T21:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: ZDNet
@@ -24,6 +24,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "kVFbv7ZKJM5pXUHIWfTpNSIUDa6Tz1kLPCNIGSj7R3h6DgukA3uzm0CQb2PnIMkjpZlvlp1OGu+xoftY5y0geEmbbkdyTHQqkfRUiB4CyJXPWQJLzzt//zyVsNqiN5VUUBQ2q+bflTabwsSBSl0sidRqurCoSNYv93uXiTbLrLiyDUXSZtmi7Y/78QVaoCEqOVe4VD0tj9q+NXaQk+EfUScI+VExEoG4zVB32VV+RdSYbbal55Iaen3OU7S1vjnWFiTswsR3PNkOeX1ziGBDlaQv7xuLP4ZpEhxX9nn/jwPejwBtoxFKwQaFZ6HehrNPLYWwssRUsGpRqtkFtcr9+kjPYzVLY2MIfWccpBGOjKwGOO3XPKjznlbav/zmODRPYROf7pbMj6gHRI0CqkvCcrmsnn9a8OAV05HdYVdScLHYWj9yLSW4PRvM1pOqCWa573vgmWWfXMXofa8T9TIEUTjtNGe6X6vDQO29Q55Wrm+4egBAVWtYEoNGWBM2OMEMGw1qDf/ZslCEODmounKS/g==;lcqM7917hVqnyy7+I+vz6Q=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
+    width: 2614
+    height: 1379
+    isCached: true
+
+secured: "PF+y3A2zCSs9aJUQHH/MZEPWehDVTjThHbMJljuivXKuD51yC1hGhNnQzl8r+prdVziaL+CMlKdaTWRK/Nac608pRNIP31O7k3JMYX0jZzDxaC+ZQnpBmV/Q+h1Sp2HnjmXRpHnsISi+EFUKShoPmCgoJR/m4S7Czg00SyfW9h3O7jSmTRYeh71/lSV10MePviEPPyQfNd7CjemrPPpkzzcDlNkz63e2qBX4llqjbFjfQP3dAzYcyBAsdBTSfFEEYmQeWg9iDv/REzH9GQGCTOeC+0uwZAvByF3YEHHKEDZGBcAkxlQ16m3xbFeXCb9lZusvs+iC+OqsSJ3K1kjgT4Lu2GBqinGPswnu3/Bfvao=;vGs0YdI2YeU47KvffgsClg=="
 ---
 

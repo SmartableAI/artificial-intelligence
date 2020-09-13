@@ -3,8 +3,8 @@ category: news
 title: "New standards for AI clinical trials will help spot snake oil and hype"
 excerpt: "An international consortium of medical experts has introduced the first official standards for clinical trials that involve artificial intelligence. The move comes at a time when hype around medical AI is at a peak,"
 publishedDateTime: 2020-09-11T16:30:00Z
-originalUrl: "https://www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/?itm_source=parsely-api"
-webUrl: "https://www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/?itm_source=parsely-api"
+originalUrl: "https://www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/"
+webUrl: "https://www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/"
 ampWebUrl: "https://www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/11/1008335/new-standards-for-ai-clinical-trials-will-help-spot-snake-oil-and-hype/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "DKw/OCWghdwNLrbd4jkMsPwbaHCIq+rrOR7dOFGmoNbKpl7djt9c1cGtHx5Ry+C71D1QOwRhtUH/YLA6rVYAPrlDqL9ReLv7fxyRpGETsBZbzYh2mhSkpAiWEIabgQdBEPk2aNSYTs0FFgtwgjWBmVADIFilgljngiU145w7dYR/AoRDEjCv9bsD6p7ZKO0maVLKVUwshgNaekPeIglCg1gO6AINlNxu/ORiNZNQQaIRQ0FSipjL3VSo50rHhmq9RfYVP1rIn4ChKrLV6AYD1A/vuhfpdYmV8WOEeUxJlnAWhnF97FvWVRXsRBwr+kESen0rPnAGGAau0xQ7QJsW3bNrr7sKWl9rL9lPde77aUmGnCC3rZ02Yg5HdSE6QGM2H1oacVNXgS567qYYnxWZ+sJKrQ59C9EpTTYX+8zP9PRl1ShBKXV5lRXsVGn6w21xGl0ilVaH1ZUpTeV1L6iA7l2v1EXBGifrLZsililsAup03/wX4RFEE/SxpymsFBJ7LL3uoqfC32riQNeD+lR/8Q==;bfynjqW4TVpIvXE8mMnHgg=="
+secured: "q0dVAFHB8DAitOVnQeIfrkd+aFyoHm50PaMG9cpW2CEeqIQmLBMQjjav5Z54GldwoFZaKnVYa8fjXEn4TOmLCwKv/QWRTPF8EvQnvdg1j/X2E6x3mef5rveENhRVYT4hbkwCbJ9bmQVR/l1ntBwzOQVMICyeDk7/ilrmol+TQX+qr+1zw/SRI0rzoHhBnKZw2zZQOdFYAQgeOuicRTa92Nmi59dNecNIQV7Ncsdo+Q0h1mU1OHcW45Isd80rUZWu3pQGVMG9BaIbrlR/3npqa1Fhufi+ABBEQboNSTOrgIkHsg93usYC3LQqekOeavl12I2sGfUuaak7iR5x0xZZDvfh75F0oYOnjdPFjAYVNRY=;ybDWw/Rtx7sjVVwI7XqCXQ=="
 ---
 

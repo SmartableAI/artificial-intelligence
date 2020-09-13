@@ -7,6 +7,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities-2020-09-13</loc>
+    <lastmod>2020-09-13T06:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/</loc>
     <lastmod>2020-09-13T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,6 +43,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html</loc>
+    <lastmod>2020-09-12T16:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250</loc>
     <lastmod>2020-09-12T12:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -51,6 +63,12 @@
   <url>
     <loc>https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html</loc>
     <lastmod>2020-09-12T08:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036</loc>
+    <lastmod>2020-09-12T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,6 +99,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -493,14 +517,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
-    <lastmod>2020-09-09T08:06:00-07:00</lastmod>
+    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
+    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606</loc>
-    <lastmod>2020-09-09T07:55:00-07:00</lastmod>
+    <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
+    <lastmod>2020-09-09T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -549,12 +573,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
     <lastmod>2020-09-09T04:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -679,8 +697,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
-    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -853,8 +871,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html</loc>
-    <lastmod>2020-09-07T04:45:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405</loc>
+    <lastmod>2020-09-07T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

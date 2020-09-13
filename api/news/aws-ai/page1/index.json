@@ -453,6 +453,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-07-europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook.md",
+      "title": "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook",
+      "excerpt": "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
+      "publishedDateTime": "2020-09-07T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-amazon-braket-get-started-with-quantum-computing.md",
       "title": "Amazon Braket: Get started with quantum computing",
       "excerpt": "Amazon’s quantum computing service is currently good for learning about quantum computing and developing NISQ-regime quantum algorithms, but stay tuned",
@@ -1379,56 +1420,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-probeat-amazon-halo-is-surveillance-capitalism-in-a-100-fitness-wearable.md",
-      "title": "ProBeat: Amazon Halo is surveillance capitalism in a $100 fitness wearable",
-      "excerpt": "Amazon Halo uses computer vision and machine learning for surveillance capitalism masquerading as a $100 fitness wearable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/amazon-halo-app-band.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/probeat-amazon-halo-surveillance-capitalism-fitness-wearable/amp/",
-      "publishedDateTime": "2020-08-28T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
