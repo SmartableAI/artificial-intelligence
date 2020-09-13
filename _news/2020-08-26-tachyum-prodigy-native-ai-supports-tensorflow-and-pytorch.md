@@ -12,15 +12,10 @@ provider:
   domain: hpcwire.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
 
-images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-    width: 440
-    height: 440
-    isCached: true
-
-secured: "8SM3O1dD7VL6geiMmADJN++KGTk+AYkGI8gm9b1uDpo1WElF1R7GDR6Lk70LxoDyb4i8Kw2D9ktdEL5faCPq3vFm2dQdkHvmlCJCS8AExKysstoQtwCq1fDEq+b6m9mHRBmxyNlqqhgSJ5au5HnbBhW166yaOoMret6SO6WAKU0i38yZWSdLbfp5CkQotMxbbMciIDDhdCpgx6+PVbZkAO9OJnSFLc8WG3vqWMzpVLpb4ZaVt47DT2e01+eOJ0AaFWshnQeOLYbSY/eOzNFUha8mp1T0EXqv1+/F3FLccTDrStZ0h/jXvtc0YGNuA/Kb03PjYcamK1cQoOlrHuWcE3UTe4Jx645wXY32ufsEdmY=;324Sv9YI4MttCs4vHnzw/A=="
+secured: "kgK7rqlMGUQihjSawWEtnGjesssJbqnJK2Rb3Nt++s0k17LwSyBJQp7GqCx2oGDNAIN90E2crmvNBonFtVB+uH6XgqpXgYEQk4S2qsRkbK/u5zUXx8I+EHz5V0uqzPAtG5K3ZAHNtU9EO0GayckOWtOCBdfbXdhIQpfzRYG3YTQmRYQPCJHeWTMonCCbqd/xZA8HQcBVJGVpiEkZUMLM83WGPrsRXCjkNDW1SvMKyAVQzILR0wwKDdn89DtTx37a/m8eoLgZaUNo0LqHWQy13pGeA4yV+jrl/Wu+QAIio0v0P+pH3cyxw5WIXKmvWC2IbPnHiR2Zoarwdy1L79SS5ccFihe+DWD7V75blWtA5/U=;UQAul+mQLsFeTMi/BbVUnA=="
 ---
 

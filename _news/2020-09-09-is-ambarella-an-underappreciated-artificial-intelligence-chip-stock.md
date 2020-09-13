@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?"
-excerpt: "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA)."
-publishedDateTime: 2020-09-09T11:40:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
-webUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09"
-ampWebUrl: "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp"
+excerpt: "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?"
+publishedDateTime: 2020-09-09T15:15:00Z
+originalUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
+webUrl: "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/"
 type: article
-quality: 86
-heat: 86
-published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - AI Hardware
+  - AI
 
-secured: "uWQCXdVvz/6PypVDpKk62cQX7e7FlQQHO6ib6UlibWHE8YuNVR76J2GXIvHR9SCPyeNNMOsrnD5SSlI5uKBFVH1cOyh2OL6OvtAzgp5J3slesHDTRMRT1ee+8igx5wgWlY2f+fv0VVA2BVZmFfNimLEv6jMJl53DkxkMu71OJ7VkahAckx8W9MDCg4pHLLPFXAO4/PUly/mR5gMWcOcCohc6+GTt+qSVSVrQA60DAaC/tsM4W3v41cKSoM3Vm0HMUBFHvkVeFfmRLlIZWpFoLzJYb7q8R9nQLyPGwEQuo8ea00YOh7rdgFhrFOqNcRsC+SqUE8JxaCu1+EDXkbX/U1/Jo6sXwUUyNo8PfzvzA7PIRmZfUFW+TYIH6W/Z0lJpecumu3s3kgm6kvb+HZnOT2pmpukisNfJ8/or36B1HRONmRDUfHSvPL9dC0D+va7snhBjFYxqJpOyj0voq+wRGfGGsw9EZW8THjiGCH/3fBC9+pTL93JuEAfKjy0CdJT/unRs2RHCn4q0vV/X15r7VQ==;tHzp7S2cniXWHWVhoOlxGA=="
+secured: "Mxv5ex4HqA24MNlvs9wVRKyVDz7lmO2Ki8Ki17pzEzRj2F9cbqpXccpwWKPPFDQR8yDEfdV3/PEzChX8o8tP9bFP2DiX2XAxADLj6x1bDwoDJ+Ozn91yMDf+F4RRPnsD5QElTvzf90RpydKCV/+03hRhrEGVOkbfDz+qsBLP5q0uzDjVq97yq/W1JlGfljHZSyFOjZIMwKms4PnpnDo5POl0ZYns69WSmxrxozJ0UEeOAnZwcnAqqx/6UQ7FmCcvz3lVLZkjwo0GRrGw1y7Y1c5CP6BxCK7ujHu5e49VvXofSxZoMG/QYIut8+9TYnpuWnp8L7Ql3ok5FBKLdiU3gUgCdi0rlOYYZj8cMKJpXBL1B14eIXRtyg46qJDkj0yzRrhlgk1u45HEB3DYMaFIUFTU8WU2j1nhqEaS3fpAFGX+3IkRtDnh6VKhh1Kto5TIwozhR1/ttAtldyfYT0nfcBPSB1lBLzh7DGzPjv2vJgo5/5zeYd44LhyVTFSBas2IhKFw+j/SruM1C8vyEUYHvys1UwYZgOZLxBYFbnIsU+8=;XI77yk+UKZdHSuv9G+TFPA=="
 ---
 

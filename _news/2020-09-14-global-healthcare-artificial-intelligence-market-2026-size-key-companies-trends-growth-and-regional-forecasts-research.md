@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
@@ -156,6 +157,6 @@ related:
       domain: medgadget.com
     quality: 0
 
-secured: "G+vm7LXmmuaJDVFPMrlFOfjne5cbdbGRSjSoY/WFvG+Ygreke3NtygDS0im1R9cjg9Zao1zGtMN1c0bkoatGp5IVX0PTGUGErFlggBOAXvpSK3GcyJWJMPNMaOpIT0md85hQtPob7daHmPySXFudhI7Z8jO0ai2g3bFlX8ZPiXO/GzElOdHI09IIw3kQdN4nkIAZneCQgl3uC7HC0SruFegrkuPBBnYm+nBmxeG/SzTl7V3/87X+ZS+PD8ie4+7ltzBlQrdBAa+j+bBkTmD7gjbqhcgCW9EdWh8AbhwFxUyeo1efAZsAmH0ByAxLq8YmPwqvlTYVWygKPjkyUU3uNHnWIwWf6Ug4lcAuWnznoBk=;MDp429zCXab1camj+phZJQ=="
+secured: "d12dQzwGxRCUxr0JNuB1RXtTfCPQr8ncn2jSoHD6vpcKjeV02+C5FxLhtrSvoS3KrqwIYNwd2jYopw0QnB1guF5JFTgCYWGy7W3CWTurybagBcPMmTFRHcPcolTntp3Oah1m9uTN1UM4XsfuCbZYDueHAw/VaHz5ID2LHhLXoZoPNuV42CgbBC1FqXSN0hWs2BGdLwgkUIvLIsM+gzjNXV12quKGZjuiINVb82dt09G718CGMZfycWXoq1zrOkIjtLKb6yztx3hyT3k0HdQzVRusAybcEJTZLnX9wnmMlc6yoRkQO5QSvzJo8M/lS0fjez8tdBbpCtO3ry5gMukzAO/jfrWKWQKfo8UVwmOhLL90dhPp5kh3rxlrlNgppj4OACbubcaNE9nBHLlKy7MGW1PXNKTDR2oq/8n7PR/BqWRoYH+F9kpIRM7h/eyMILnHuKYfu7GykRIbI2sarhrm8YNl1vW+tP9sMjbkQrDriKCaxh+65SO3DAlTRCCkq76kSK+bbLXrq0V2rjRdBI4Aew==;wDjnJHWVjIB2z+uzoai6mg=="
 ---
 

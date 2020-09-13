@@ -5,8 +5,6 @@ excerpt: "Sept 8 (Reuters) - Aeva Inc, a Silicon Valley start-up working on a cr
 publishedDateTime: 2020-09-08T13:15:00Z
 originalUrl: "https://uk.reuters.com/article/aeva-zf-friedrich/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors-idUKL1N2FQ20V"
 webUrl: "https://uk.reuters.com/article/aeva-zf-friedrich/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors-idUKL1N2FQ20V"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN25Z2LO"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25Z2LO"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200908&t=2&i=1532618405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG871EY"
-    width: 817
-    height: 545
-    isCached: true
-
-secured: "azO8ppLmBX86QTxQJzTY2X5Fe3uQ4VA1atvqlb7UTjImzVdi5bgXkVUAL8dp03NY8LgKkpcJVfMZ3/3fPqy5AGrnI4+ShnX0YPr64THxCsGb2ybzx4RhArzTGjD2WdkMkoYZVmyDBGlQTdZd67sO93h166+rBjhk2GtG8zsOaHDtZPnVcdXbQ8c/fbmlwDslws2mWUgkV+jP4yh3tOQCm7P/N58GT6gReeuqdyluBcRo4q3ZLVFS6YGYg/qyW2WehcUA2AZl1dy8I8oFd14rrjZxD0fzDbq/Hum0PeCI5yzg6wFNeegpRq0JuNVAiEZOTLQdRaf16CoD+2YkOlStHkLbGZDOinWyPUJQxoGU0k8=;O18KGHpNodkGBhB4+eqGtg=="
+secured: "bps/c8wTW61yyLBqBbP8DJsXNLDX0P/T41/CItZolO4yh/YM3GmdFyYOvKk8guhrY219H1YgIDhmjxms6nzhcX/My9m9yTU37phY3Ahh1wDW/y8VMxUVBDb/5pRJ6SGLMR6Cf6vMwYUwkpWOblwN0fiPr4SLJJLvZI+iFRDIpZ2Ae6yFAA54nZxEMdqOzSr/5Id6t+YFuAMjpOJzjfqiP/HQlTMhfG4msfFxp28aqiLs4HdDgdoEqEh7vy2PoJG3X4Gmlm7ALiJugw5J/Wi5qiu5YFW4YUE4U1Xt49zv7jJ1B5iIFtKxYtkSf71Fe8lNxQPq5jPRwRBFEHjPl++H0DtIe6tDNTVO0KNuue8bAic=;qrSZCfYRjXN+fUs7EAH4tQ=="
 ---
 

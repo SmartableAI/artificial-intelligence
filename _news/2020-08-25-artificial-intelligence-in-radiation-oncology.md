@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence in radiation oncology"
-excerpt: "Artificial intelligence (AI) has the potential to fundamentally ... efficiency and overall quality of radiation therapy for patients with cancer. In this Perspective, we first provide a general ..."
-publishedDateTime: 2020-08-25T09:25:00Z
-originalUrl: "https://www.nature.com/articles/s41571-020-0417-8"
-webUrl: "https://www.nature.com/articles/s41571-020-0417-8"
+excerpt: "The possible uses of artificial intelligence (AI) in radiation oncology are diverse and wide ranging. Herein, the authors discuss the potential applications of AI at each step of the radiation oncology workflow,"
+publishedDateTime: 2020-08-25T09:29:00Z
+originalUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
+webUrl: "https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&code=66cc4f7e-c911-438d-8b1f-6597656a3930"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41571-020-0417-8/MediaObjects/41571_2020_417_Fig1_HTML.png"
-    width: 685
-    height: 276
-    isCached: true
-
-secured: "+jXwJAfUq00EcZYaYC6ffbHxbA/JZFyXLcT/GQq62pcOkGH/+BuqB6j7Yg480hyBJoZ83xIYarD596q0ySQwAeK+JeGO7REXJsPQr2bdeTdu+oww7d+7Or8mDVMGqbptg7PJZ381n9ipq/8Nz/sck6D7WmDJspZj0tkz201IE9OEewU3SL9Jr9gsH3Rqv9FG1WkWpucXp9ik1gVJtwfh3pJ+vhCOngiUdjlVtcNMlxEm8vTVOvaIyHUtU4QQtfPIZeuMYH3cCp0XQHwckR5btd3GyWMaBE6nvIZW4SxEFE4mgcgebPxpvURObTIlAakPMBSfxZOwjaCN9Ie/KxRpy88N/xBm/qCINCGKYGxW8Eg=;P0MY/pX2Gf383yrXC2wB3w=="
+secured: "hT3I1A1DkrlbLyspME5nJd0RW/icdSm75xFUFQP/JnNXFot2iDDsrUzfuN6qNru2jqKYeun5Jduzpv0SOVcH588/USe46x2Z//j7Kml9pbs1fssvBjGxuJQ6qZypofm4969qFUQXsJjpP4kOwkMQPWxtTDW4ox0ryEad7Vk02aSUso+9n4prb6C6q6/qr0SiU+PfEZj+vfDy4wrSt3WT3iSM+NyqOpU8eczNb7dlToyBDW+2P7XnuMMNU1IfFEX408UCWVxbGUNgzmwwm+eGL+s38NfIEEI2C0F4K0LbgTLMyUc4CAuX106c7MDDVRX536Ns3ZOon1FgiqJh4feHI9JCt+cUl6G+tBUVPSNotPK5V2NDN/Ldo68iWhddkGtcZNFuX9ttiTF7DzLqJoOs0mgcaVbW+94eSa8lCqwkeNfN+eOpEePZQMs7qYx025N8CZxsfTHCfPRZdnDpUXovzJn98piHS+FcQawkZywVFE9uqgzqqPOinY122kCAIVQYOjztFVVTb061XdIJxX4Zgw==;wdQ33G9qs9OxJTXZwxQGmQ=="
 ---
 
