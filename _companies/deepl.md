@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "deeplcom"
   url: "https://twitter.com/deeplcom"
-  followers: 8002
+  followers: 8003
 
 locations:
   - Cologne, Germany
