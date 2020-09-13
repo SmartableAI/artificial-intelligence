@@ -46,9 +46,9 @@ related:
   - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
     excerpt: "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use."
     publishedDateTime: 2020-09-09T19:15:00Z
-    webUrl: "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    webUrl: "https://www.vice.com/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
     type: article
     provider:
       name: VICE
@@ -267,6 +267,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
+    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
+    publishedDateTime: 2020-09-10T19:32:00Z
+    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
+    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-230642/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
     excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
     publishedDateTime: 2020-09-10T13:39:00Z
@@ -404,6 +420,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Portland Passes Unprecedented Restrictions on Facial Recognition Technology"
+    excerpt: "Cities have taken the lead when it comes to regulating facial recognition technology. Currently, there is no federal regulation on this kind of technology, nor any policy in place to govern the use of"
+    publishedDateTime: 2020-09-10T22:59:00Z
+    webUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/Camera%20Surveillance_0.jpg?itok=qItuW4kd"
+        width: 500
+        height: 333
         isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"

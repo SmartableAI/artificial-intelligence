@@ -43,20 +43,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "Robots found to improve mental health and loneliness in older people"
-    excerpt: "A study has found that social robots can improve mental health and have the potential to reduce loneliness in older people. This could pave the way for the introduction of the technology in UK care homes."
-    publishedDateTime: 2020-09-08T12:56:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/09/robots-found-to-improve-mental-health-and-loneliness-in-older-people/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/13777/dreamstime_xxl_154239082.jpg?crop=0,0.1835791015625,0,0.32423339843749993&cropmode=percentage&width=1200&height=450&rnd=132440325760000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "BhWBC38TbXQru2GNEYQZw/t6cF2NZROK2/TL7RZ40iQ8I3LMc0UIZ2u1kjs9sN4w3vUCbNLKlAhwR3JgsIZ8pEuG6KgLbUxc3HIFGyq3LWLOGtC0R4QSjSQHiIKWlXI8mHdCCYDVEcy8DZ3OeH83H10BTknVnFd3sgR57CA+DoHGW5U09kSHdZ5/E9KF2VAwAqe13Hylasyx1q7dmq+yXym06zZ/6WhxyQhm5f/eynE23/OWy0Iq4p7aMNnfBqfR0IqElAe6t3F7TRkAwUKBVRpgqAuwFV/InaYaAvu+vtJTuY6Y002jY3z7MeqPmxJ0l04FjEZ5tzl4KgjZXWuExzoBCdoQ4+J/t76i87UZN9E=;anGxgr2MiPEVxVUYHs3y9w=="
 ---

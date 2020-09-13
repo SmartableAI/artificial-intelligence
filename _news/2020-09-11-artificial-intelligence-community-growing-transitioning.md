@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Community Growing, Transitioning"
 excerpt: "The Defense Department's artificial intelligence community has moved from being \"AI pioneers to being AI practitioners,\" the acting director of the Joint Artificial Intelligence Center said."
 publishedDateTime: 2020-09-10T22:04:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/source/GovDelivery/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/source/GovDelivery/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2343516/artificial-intelligence-community-growing-transitioning/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 853
     isCached: true
 
-secured: "JRoLgM+Ry8+BLAiAcxQMEormJ5RLQP/0sD61SPA356ZL1TlO35q6DMxnF16GspXHQ/kNrLwnrzoGklU9BcMWUAH8IzNT1J9ybTUqOPn5EFwcR2msZPBUH6Z7qYMn7ab3NaOUynCSS+3+mJDrK2SwfZU1sKLivUItVHGWz3tb4x/iAYXDjem2AFoRMc9Y8NDEVGh0kHRLmqR6jHxbRGFZ5yzv+WxImbfs60OA5II02JCvkTwYVeAVG9OBgljtivb6ozqRoyQyFI81aolrY/Yj1IoYvguvV5aWKMlJbfPyE8DZGjqHaxvtE2rtmAoaW7rUIz6g38pegcx9KgzNnadq6KnHFbooAHHnJNouXqpg9rzR+NkabvI3aHH14XL9h0vRvejlHYVXJp71L6KTgUVGb62nrwS017XdkddE7ni3MaxIFWVbgc6FP0Vhwlyr6ugA2PIJS+IcrqSq61iOuS17tYpvsfEPrK8YwNemSzmumkAFFQNwHhSDJ0pPFWCpEIFWcvL01OQUnCmVXpppzlp5/w==;rfe/yfXq+T/1DnjXdZ4oFQ=="
+secured: "dh9+5TpNHFDDydL8TTlNIuyahxCH5grA9QOfH5sdRDxY7T5rPVy9l6hs41MPLrzawh/kFi92mkOgsREfyYaeezBXjr51Tz7Wb3Rh9ETY1pMoP2b7RfYV/0RbhSBARrDrfqBZQTm5jQSoGGlstlRPonrFUCo4GO3bEKCfcVdpZ8pKUqt8Lcw1SZvLozRKQ0flxoFHRnh4XsuTwpHAwqRyTBDZ1uhd+kuvfBvUQKEg1yxDmRIvS16L6CubQWU/0fjRlAiHv08fM0uBY+o8GpAUggOl58OCIQGLmuT5J4jeCF6Fks4Nmf4/ZdcUGdsi7/z5/IpQglqWIrJOi0vJaChQX0w6nwo6U0+5KOraY1V5H+w=;Y8jb8H4SOa6YyO8HzdD5Zw=="
 ---
 

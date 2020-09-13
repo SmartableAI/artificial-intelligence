@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market 2020 Global Analysis, Share, Trend, Key Players, Opportunities & Forecast To 2026"
-    excerpt: "New Study Reports \"Artificial Intelligence (AI) in Medical Market 2020 Global Market Opportunities, Challenges,"
-    publishedDateTime: 2020-09-08T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2020-global-analysis-share-trend-key-players-opportunities-forecast-to-2026-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Share, Growth By Top Company, Region, Applications, Drivers, Trends & Forecast to"
     excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
     publishedDateTime: 2020-09-10T09:56:00Z
@@ -125,6 +111,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
+    publishedDateTime: 2020-09-13T05:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

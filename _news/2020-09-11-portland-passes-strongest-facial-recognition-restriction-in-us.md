@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
-excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
-publishedDateTime: 2020-09-10T02:28:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
+excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
+publishedDateTime: 2020-09-10T19:32:00Z
+originalUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
+webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
+ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
 type: article
-quality: 66
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-230642/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Portland's facial recognition ban is a major win, especially against Amazon"
@@ -281,22 +287,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
-    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
-    publishedDateTime: 2020-09-10T19:32:00Z
-    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
-    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-230642/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
     excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
     publishedDateTime: 2020-09-10T13:39:00Z
@@ -360,6 +350,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Portland adopts landmark facial recognition ordinances"
     excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
     publishedDateTime: 2020-09-09T23:30:00Z
@@ -532,6 +533,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "V0hrTvAWiN32RDQk+eLB6pnvXoa45ak+1SX39DR43kuOjKT4VmQRSM48gAJXkMzbZtf/AstYGw//FkfsJ/RMAuF/6wmJlk94MnVvvK28x41vR6vHdH7b49CxhUoDpF4Aq/1aOmEVmS1OF1+DDtcnDT4faq+gHhWlO7GgbG8FW04JLTqEuTQqMURryKn/OSphtUlvO3rbWZytfQfwm0UwKRKifczRgdnHjgIXD/19p0+ByAuhCauClNbA2ODSji7IMSw5LuLEj1UgYHR/6Dmf7YGS2DkJ3X4UqpYPb631ihZeYhlfl4zB3/vqWLNWGqJAEK8W0cUyg0BtNAXWdNXIyAuBb1vHLWOXf+Q+EkzxyvShsXYpBbx5rw39803F6SyTNkls78gl9qd0H06GO9X0DFyWiRclO/dR0lhRSNj+zrJbwnZXhCoZKBtedrRoJzXFT05ArAc3B7uMNQpwckY2o+MkSioh9tiYGXhbzkRM5p/mAXAGIUOLM3fZTbsutQzwEyueiSEfxGcHbPYn90cTZLPA1Zn3ymPXkf7NcNoV8UU=;sGrFetvgBsH5WQCG+2TnGA=="
+secured: "aH5SGBxKd6cpxEAuU37sKLddaCJ6HNQkjmIElTZEQI8ID2LJ3EUDJ9m9HBVmWLVoMxedULbbuyjaVethce2FD1g2C5mk6VWWArL3Pus1T5754y60OIvf1V8G/mH4rSUGkwRxaB7qrdN96rQtthUzQDV9tawjLoI10Mvn491PYIMAnkxyUGTBMo7KlqxJAKWRtkOCye0cWtx3rGfLwvQgTohqb7qMHB3R95nezOaETw6fbB9NQZ5nbuvD1R6PEjaU+1DYjlVw8nHR/hWAqWmzbdOnKUnS4NL0y1G84ga2/MM0L1cPzDxNK32/nZw6J67nbHp0bAtv78+Ggf8akmhizvFS5k1B/vVqKGdAct9TPFY=;OrehnCrVZilMMouO7jyaHw=="
 ---
 

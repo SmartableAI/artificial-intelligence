@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improve
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: BBC Focus
@@ -42,20 +42,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/gxjtoe/article32582617.ece/ALTERNATES/LANDSCAPE_615/robots-old-peoplejpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Robots found to improve mental health and loneliness in older people"
-    excerpt: "A study has found that social robots can improve mental health and have the potential to reduce loneliness in older people. This could pave the way for the introduction of the technology in UK care homes."
-    publishedDateTime: 2020-09-08T12:56:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/09/robots-found-to-improve-mental-health-and-loneliness-in-older-people/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/13777/dreamstime_xxl_154239082.jpg?crop=0,0.1835791015625,0,0.32423339843749993&cropmode=percentage&width=1200&height=450&rnd=132440325760000000"
-        width: 1200
-        height: 450
         isCached: true
 
 secured: "DyqxYomVdkImauamel2A293Z8cwPecr/AQX2qbpo4jQ44MYnUWqQKPmTjZuITlmIPPOHv2K4Dun+Or3Hxv6m6hgpzlrgWQMQpsQ2xG4kDV5AEsE2BiXUM+goOLbbjzxPvORkIXmPOFKlx1Y0gMaVWqxjD4r/1Av+8gLw9to/SJUGoxztZMDQILSw7Yilne7IhBIk3l6AM50oFm+CogrTvZfvNTad9UxFKQihmBL/LpwAgxb0G4mpifDTXXneBEeu7yd2CNGVJAHYyvJ5J6lpSGu03bnBp7hoPUuYCMgBS8uoaWA3aD2mV2wKLhM7t5kbSjIQG0vPie0FPFgHjflTVXzamkRUABLQRNm7gW9iwGDGhgjlt++SrEKFxr8JTCz/cgGtuQ7Ck2kmsicie/GS4jOtU7stNgvn+YAf1WygOuFp6dTvNF2EWjHSYMWfEVsp3uvTxHrTLzupHEM09O+hcMuD101Sa+wjxT1wfPb19SvRH4RKR58w/L6OkeibTNF8QsMzzyIkhOBwSwDtlQnGSuF6Yv6/mj52fzS9E4RigIg=;zajSfW1vGDjHvJPBDCUf1A=="

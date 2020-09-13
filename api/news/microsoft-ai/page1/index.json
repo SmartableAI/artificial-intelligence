@@ -421,8 +421,8 @@
       "title": "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform",
       "excerpt": "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform, provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
-      "originalUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
+      "webUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408",
+      "originalUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -454,8 +454,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {

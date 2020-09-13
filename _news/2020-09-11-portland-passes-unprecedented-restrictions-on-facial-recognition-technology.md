@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
-excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
-publishedDateTime: 2020-09-10T02:28:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+title: "Portland Passes Unprecedented Restrictions on Facial Recognition Technology"
+excerpt: "Cities have taken the lead when it comes to regulating facial recognition technology. Currently, there is no federal regulation on this kind of technology, nor any policy in place to govern the use of"
+publishedDateTime: 2020-09-10T22:59:00Z
+originalUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+webUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+ampWebUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
 type: article
-quality: 66
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The National Law Review
+  domain: natlawreview.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/Camera%20Surveillance_0.jpg?itok=qItuW4kd"
+    width: 500
+    height: 333
+    isCached: true
 
 related:
   - title: "Portland's facial recognition ban is a major win, especially against Amazon"
@@ -360,6 +362,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Portland adopts landmark facial recognition ordinances"
     excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
     publishedDateTime: 2020-09-09T23:30:00Z
@@ -423,22 +436,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Portland Passes Unprecedented Restrictions on Facial Recognition Technology"
-    excerpt: "Cities have taken the lead when it comes to regulating facial recognition technology. Currently, there is no federal regulation on this kind of technology, nor any policy in place to govern the use of"
-    publishedDateTime: 2020-09-10T22:59:00Z
-    webUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/Camera%20Surveillance_0.jpg?itok=qItuW4kd"
-        width: 500
-        height: 333
         isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
@@ -532,6 +529,6 @@ related:
       domain: rt.com
     quality: 17
 
-secured: "V0hrTvAWiN32RDQk+eLB6pnvXoa45ak+1SX39DR43kuOjKT4VmQRSM48gAJXkMzbZtf/AstYGw//FkfsJ/RMAuF/6wmJlk94MnVvvK28x41vR6vHdH7b49CxhUoDpF4Aq/1aOmEVmS1OF1+DDtcnDT4faq+gHhWlO7GgbG8FW04JLTqEuTQqMURryKn/OSphtUlvO3rbWZytfQfwm0UwKRKifczRgdnHjgIXD/19p0+ByAuhCauClNbA2ODSji7IMSw5LuLEj1UgYHR/6Dmf7YGS2DkJ3X4UqpYPb631ihZeYhlfl4zB3/vqWLNWGqJAEK8W0cUyg0BtNAXWdNXIyAuBb1vHLWOXf+Q+EkzxyvShsXYpBbx5rw39803F6SyTNkls78gl9qd0H06GO9X0DFyWiRclO/dR0lhRSNj+zrJbwnZXhCoZKBtedrRoJzXFT05ArAc3B7uMNQpwckY2o+MkSioh9tiYGXhbzkRM5p/mAXAGIUOLM3fZTbsutQzwEyueiSEfxGcHbPYn90cTZLPA1Zn3ymPXkf7NcNoV8UU=;sGrFetvgBsH5WQCG+2TnGA=="
+secured: "neIsrYJk+oSlKRJ15JKyU7yezPDbUlCdtQy0vPBZQeGgpQiBgReb1j8u9rPhni8yHrbW0UcxYftQG0u4RAJymQWfSzNrBMBT5NR8VXrOqbJyuZ/w5l7gaPMLRuJnl883EnHhdKrC6ZF5LTSO0OyztiHJfDQoAbnDO0FNnszr+afESD2I/L9B3JXm8bfqUKOuJOrRJgpiXU5P2qWlrNzW7bVW7JUVUS52AwkAhUXJBKxBW3BzRmiqXsc/i0rjlZhDYYynNVt2DEgSLDuLhhyqpyDN13zueYin9loJDM/QDuPS76WPyELVl/XNph7Ewf9qOknrADSbUkG4yo/JwQOn5x6GOHIfLtObiLm5WAGNyB0=;myPN8wr4e4C2JKPhgtIo3Q=="
 ---
 

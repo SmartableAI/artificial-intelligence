@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report"
-excerpt: "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with"
-publishedDateTime: 2020-09-10T10:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
+title: "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
+excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
+publishedDateTime: 2020-09-13T05:40:00Z
+originalUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13"
+webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13"
 type: article
-quality: 73
-heat: 163
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report"
+    excerpt: "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2020-09-10T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
     excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
     publishedDateTime: 2020-09-09T09:10:00Z
@@ -110,20 +124,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
-    publishedDateTime: 2020-09-13T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Cyber Security Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "Global AC Servomotors Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025; Global Needle Roller Bearing Market 2020 Growth, Trend, An"
     publishedDateTime: 2020-09-12T12:05:00Z
@@ -145,6 +145,6 @@ related:
       domain: medgadget.com
     quality: 0
 
-secured: "wvOs/6XVC8ETDHO8yqKt7cqHO8l+Cr26ZQ6ybYq55nS6x56Sxh0Qzo4qElCEvzyZA3bpR59uvQ2h0Oo9IrQsk9V6kDK0afJYK8Etmzg40BI2RY+c0fSwb1sF6X7oiJHDmFJ1R9Bl1jQCHgjpz9ZDwwsDZcsEJFW5WC7P9oms8LcEgsw9pvKtz+FxvSwWo/BdVgq3q2WB1/xBN0qeVtXEEBcJhOUADdwXKhL1v1ZR8OnXJTumr9lJBYAQp+uNYwdOzUvfcYqt7WTOWXM04ay8SG0GY94BHtlZD5AI5pxkljXE3SrTfdi6nob+Ul1Kn/P4wk4l/AuIWtuQ0oGGqN0vnuHKFTxsSlEzunALisbG23Q=;rrSIXDztedohFoPEKOY8ng=="
+secured: "uaWb44oxi/2kDNLyadHs/KMIEF5RLif7VAF5roz27XdOyuA6ciZblERwVgzLD7E2nhBijkMnqohFgniUA4j0peKwjDZITCpQZaMLY/5dyYKL3hqhtpHk6CIfkj4rcJVmdzJ0YPCcYptsaXR3bsWaj0bZkHWrFpGTNbP0rcXo1AUGyIxt3ar6G2451hWdbXctv2AyM0DheIH0Tt6RZTsXJesBg2pp6XIq4lJtf07Ao/2RrjYJSMTbiWM/OfhgAcuYB0TG1Ou0qnqYFrruGtEjw8iduokxDfA2oATtuLNCgOHyS+w/vpXonNt1ru7EkAVc36xDbbRZzCLVjI8KtkMvmbtBn5icMABDNqqbF8NcqTA=;x6niF4HvNpnuqF66AGD2FQ=="
 ---
 

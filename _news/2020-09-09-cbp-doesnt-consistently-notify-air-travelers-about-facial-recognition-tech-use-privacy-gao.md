@@ -9,7 +9,7 @@ ampWebUrl: "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-tr
 cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
         width: 1119
         height: 630
+        isCached: true
+  - title: "NY-Based Facial Recognition Tech Company Wrangles With Judges in Two States Over Privacy Class Actions"
+    excerpt: "Clearview AI, which uses facial recognition technology to provide photographic information to law enforcement, is asking the JPML to coordinate nearly a dozen privacy class actions after lawyers failed to consolidate them before judges in New York and Illinois,"
+    publishedDateTime: 2020-09-10T20:08:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/09/10/ny-based-facial-recognition-tech-company-wrangles-with-judges-in-two-states-over-privacy-class-actions/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/09/Facial-Recognition-Article-202009101535.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "C+ZaA2XzQtclmVOdnCkdih6kF/QKizkBQmsCaIriyY/3JkSx+w4PzyddZgIodhrEU6iTXQycc6rFEk4OKE5l0Eqssc1lpsyJepll0tMFEs52HPSdARVJxKEyTEKMEGoSx+E9igBS1l3WF2GC11ucMAArbuhoZqjkOZPV8thsFS25C0Dr8giYW3WxVyS8iinLM64vUmm7WBYi7kEBOyb+xz62yi49/ML1UhvA9L+O17PI5U4yaxNQAtu6HeyNpwmtYjX9v4DGLNDG2QYbiNj6CdXNKHQ7+3nkJ2CBmrAcOPirxPukWTndn/HtUdFXR9ewHCWn+8jcqrFKOr4qfD1pk5THVT3te7hxLIwCWvL7WXUC1kTZ46XEu1YX93rfIZkNog8QlWCCpH3kVORe0PfRFX3+zjiWmgHQUag5wXxiItR0rZ7cuklRYhhCJfMMd//1PgSBg1SRcqfIQ3cjlUUQPQ6xdfSmzjSZJsMLJEk9pm1p6mTU/wjo0Mx3Zzn2q4HXDQ2r345mRSE7f9dpLe6fLnPqnxN2SMidZ/nILI4F74s=;A3XcuRl/FNBEiw+ohhL+AA=="

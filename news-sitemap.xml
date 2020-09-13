@@ -127,6 +127,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://diginomica.com/ai-ethics-why-teaching-ethics-and-ethics-training-problematic</loc>
+    <lastmod>2020-09-11T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/</loc>
     <lastmod>2020-09-11T01:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -541,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/</loc>
-    <lastmod>2020-09-09T02:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma</loc>
     <lastmod>2020-09-09T01:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -811,7 +811,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/</loc>
+    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408</loc>
     <lastmod>2020-09-07T04:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3362,7 +3362,7 @@
   </url>
   <url>
     <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
+    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

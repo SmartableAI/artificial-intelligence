@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-truc
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market- Global Industry Analysis By Development, Size, Share and Demand Forecast"
+    excerpt: "Sep 13, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
+    publishedDateTime: 2020-09-13T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

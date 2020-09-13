@@ -43,6 +43,20 @@ related:
         width: 640
         height: 373
         isCached: true
+  - title: "NY-Based Facial Recognition Tech Company Wrangles With Judges in Two States Over Privacy Class Actions"
+    excerpt: "Clearview AI, which uses facial recognition technology to provide photographic information to law enforcement, is asking the JPML to coordinate nearly a dozen privacy class actions after lawyers failed to consolidate them before judges in New York and Illinois,"
+    publishedDateTime: 2020-09-10T20:08:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/09/10/ny-based-facial-recognition-tech-company-wrangles-with-judges-in-two-states-over-privacy-class-actions/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/09/Facial-Recognition-Article-202009101535.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "qVi0ZtreWyewpa41OjCOsXlzrZT/YMybvI7NJa0K4ojR9vScxDhWYpnbiCXpGKgZZd9l81/ZvyuBgRBIpJMqpnmnH4nak/1c/eTEicTHa4X8xTrOWzmsfbjstlOIdoIN423W8VoBLKYq651AHT8m+Os5tEtb1dwIgfV8MIDrAlENTZ5Na8ZHZJhHd4JaylNKep/parXVE68X6F7abd21RwJAuzfOzFyvMzNJGW7SPw+70Zc3/Ce/oQkW+015X9YIWXyUuZ1RyX1TGWX78A8Lw2SAGRONY05lWkn+Dc5MdtUp/Wyud+P6SnPcPGKw5tYHK3zhp5/8zHF6Z1CUVO0iDA/KYwCHYyuBy+j+2P7Xfnp9BzWzHVCVOlXtnxXWvO0/5Ua2lMnpPdz3f3pfOPh4wnbxVxxMnxJBGfL39sW15MIsVQAROnOBOHEiioS1npOPEJ5JciPyKpEnrvmP62FvaSg8o7xWcadpeViFVO2gABVcBHSUs6/KyoXF1RsIP88anqo4AiArNQLOxk2/zoO77PR2cD+VZ+lRTeEIifQGquA=;JmOHUvGxfjPdIubqa7qiNw=="
 ---
