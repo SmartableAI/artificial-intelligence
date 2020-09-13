@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html</loc>
+    <lastmod>2020-09-12T17:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250</loc>
     <lastmod>2020-09-12T12:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -31,12 +37,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/vice-chairman-algorithms-make-ai-work-but-other-components-are-also-important/</loc>
-    <lastmod>2020-09-11T19:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/</loc>
     <lastmod>2020-09-11T17:28:09-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,7 +55,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
     <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -99,6 +99,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china</loc>
     <lastmod>2020-09-11T07:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043</loc>
+    <lastmod>2020-09-11T05:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -183,6 +189,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/</loc>
     <lastmod>2020-09-10T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/</loc>
+    <lastmod>2020-09-10T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -361,6 +373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mashable.com/article/portland-bans-facial-recognition-technology/</loc>
+    <lastmod>2020-09-09T18:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/</loc>
     <lastmod>2020-09-09T14:54:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -387,12 +405,6 @@
   <url>
     <loc>https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&amp;dist=bigcharts</loc>
     <lastmod>2020-09-09T12:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban</loc>
-    <lastmod>2020-09-09T12:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -451,14 +463,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
-    <lastmod>2020-09-09T08:06:00-07:00</lastmod>
+    <loc>https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/</loc>
+    <lastmod>2020-09-09T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606</loc>
-    <lastmod>2020-09-09T07:55:00-07:00</lastmod>
+    <loc>https://phys.org/news/2020-09-machine-aids-gene-discovery.html</loc>
+    <lastmod>2020-09-09T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -511,12 +523,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/</loc>
     <lastmod>2020-09-09T04:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -553,6 +559,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://techcrunch.com/2020/09/09/swyg/</loc>
+    <lastmod>2020-09-09T01:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-09T00:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -573,12 +585,6 @@
   <url>
     <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/</loc>
     <lastmod>2020-09-08T14:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/</loc>
-    <lastmod>2020-09-08T14:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -811,7 +817,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/</loc>
+    <loc>https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/?topicPageSponsorship=1408</loc>
     <lastmod>2020-09-07T04:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1069,14 +1075,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-2020-09-04</loc>
-    <lastmod>2020-09-04T02:12:00-07:00</lastmod>
+    <loc>https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/</loc>
+    <lastmod>2020-09-04T01:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/</loc>
-    <lastmod>2020-09-04T01:46:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717</loc>
+    <lastmod>2020-09-04T01:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1701,6 +1707,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01</loc>
     <lastmod>2020-09-01T20:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/in/news-releases/get-amplified-with-zotac-gaming-geforce-rtx-tm-30-series-832903147.html</loc>
+    <lastmod>2020-09-01T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3355,8 +3367,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
+    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

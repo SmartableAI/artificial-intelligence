@@ -2,6 +2,156 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-09-facebook-and-dolby-join-amazons-voice-interoperability-initiative.md",
+      "title": "Facebook and Dolby join Amazon’s Voice Interoperability Initiative",
+      "excerpt": "More than 70 companies now count themselves, members of Amazon's Voice Interoperability Initiative, which recently published a design guide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-studio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
+      "publishedDateTime": "2020-09-09T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-combatting-covid-19-misinformation-with-machine-learning-vb-live.md",
+      "title": "Combatting COVID-19 misinformation with machine learning (VB Live)",
+      "excerpt": "To counter misinformed narratives, Novetta Mission Analytics (NMA) is working with Africa CDC to identify narratives and behavior around the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-498746659.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
+      "publishedDateTime": "2020-09-09T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
+      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
+      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "publishedDateTime": "2020-09-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-machine-learning-aids-gene-activation-discovery.md",
       "title": "Machine learning aids gene activation discovery",
       "excerpt": "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,",
@@ -43,47 +193,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit.md",
-      "title": "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit",
-      "excerpt": "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "publishedDateTime": "2020-09-09T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
       "title": "Facial recognition tech designed to identify African faces wins engineering award",
       "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
@@ -91,7 +200,7 @@
       "webUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
       "originalUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
       "featuredContent": null,
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -190,7 +299,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -466,39 +575,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "publishedDateTime": "2020-09-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
       "title": "How AI is impacting customer experience in fintech (VB Live)",
       "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
@@ -771,6 +847,55 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-swyg-raises-12m-pre-seed-to-use-peer-interviewers-and-ai-to-reduce-bias-in-recruitment.md",
+      "title": "Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment",
+      "excerpt": "Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/09/swyg/",
+      "originalUrl": "https://techcrunch.com/2020/09/09/swyg/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Swyg-Team-1.png?w=1024",
+          "width": 1024,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/09/swyg/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/swyg/amp/",
+      "publishedDateTime": "2020-09-09T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-inside-politics-boris-johnson-unveils-governments-law-breaking-bill.md",
       "title": "Inside Politics: Boris Johnson unveils government’s law-breaking bill",
       "excerpt": "What about the latest of Boris Johnson’s semi-regular political earthquakes? There’s plenty of spilled milk to cry over as his government introduces a new bill to override the withdrawal agreement today – the one that breaks international law.",
@@ -950,56 +1075,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution.md",
-      "title": "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution",
-      "excerpt": "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "publishedDateTime": "2020-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
       "title": "What Do The Server Quarterly Earnings Tell Us?",
       "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
@@ -1096,55 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
-      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
-      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "publishedDateTime": "2020-09-08T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,47 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-12-ethics-play-important-part-in-ai-development-vice-chairman-says.md",
-      "title": "Ethics Play Important Part in AI Development, Vice Chairman Says",
-      "excerpt": "Artificial intelligence can benefit society, but in the hands of U.S. adversaries it can also pose a national security threat, Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff,",
-      "sourceUrl": null,
-      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2342385/vice-chairman-algorithms-make-ai-work-but-other-components-are-also-important/",
-      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2342385/vice-chairman-algorithms-make-ai-work-but-other-components-are-also-important/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.defense.gov/2020/Sep/10/2002494460/1280/1280/0/200305-F-GY993-084.JPG",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "US Department of Defense",
-        "domain": "defense.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-11-ai-regulators-can-learn-a-lesson-from-the-1967-outer-space-treaty.md",
       "title": "AI regulators can learn a lesson from the 1967 Outer Space Treaty",
       "excerpt": "Global leaders should take a lesson from the 1967 Outer Space Treaty, which regulated another emerging tech at a time of geopolitical turmoil.",
@@ -90,6 +49,47 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ethics-play-important-part-in-ai-development-vice-chairman-says.md",
+      "title": "Ethics Play Important Part in AI Development, Vice Chairman Says",
+      "excerpt": "Artificial intelligence can benefit society, but in the hands of U.S. adversaries it can also pose a national security threat, Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/",
+      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2020/Sep/10/2002494460/1280/1280/0/200305-F-GY993-084.JPG",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "US Department of Defense",
+        "domain": "defense.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Ethics Play Important Part in AI Development, Vice Chairman Says"
-excerpt: "Ethics Play Important Part in AI Development, Vice Chairman Says. Artificial intelligence can be tremendously benef"
-publishedDateTime: 2020-09-11T04:00:00Z
-originalUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews05.htm"
-webUrl: "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews05.htm"
+excerpt: "Artificial intelligence can benefit society, but in the hands of U.S. adversaries it can also pose a national security threat, Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff,"
+publishedDateTime: 2020-09-10T19:16:00Z
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: GlobalSecurity.org
-  domain: globalsecurity.org
+  name: US Department of Defense
+  domain: defense.gov
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://media.defense.gov/2020/Sep/10/2002494460/1280/1280/0/200305-F-GY993-084.JPG"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "Ethics Play Important Part in AI Development, Vice Chairman Says"
@@ -48,6 +54,6 @@ related:
         height: 853
         isCached: true
 
-secured: "yidSjHovTg+ssgK0ouDBkI1jQHQUMEvg/F34T1woBOuRlsb41LsBL8fdUy3PppjKyRAMgxyJnqWhyEokt47kaBF7XCdFeqYHPY47TDedO9eKX6rMpUbHYliM8HbOdMWrPqbh3BMxG+6uwKp2Vo0rCQs+j6LTPg+hX4JulFqr16+UpbtupjKf1NXTrwqUxk87l8+16HZsw/2odegP3OOGwmGfs9XZhM+nDRRUcQoWTxCCXVqZF/5wbJprk/MC+UE+XneXJKL2TzI5eVlSbe4NwAUSIrMEBXEsTiENhiNUWkhQE0LMFPsMe24yst0FgZ1OkZHyMWVQQGHdwha/gdTGzNHQJcr4BvWMojbOJg66E4k=;wiDKn01LkR9ticjOFSsUNA=="
+secured: "aWzsW1ueIcZ/75o5F0yxpkgL+rabj7wzI2LVSZu1GXM64NFQIM7KCW4I/PjvCF/JQ8giF9g7bkdOePR3N77C2GZvYFcAj1fuAqVfgPJUzB7+AmjxcwQplDo6WVp7W4NwghJJDO0n+wlKijjx3jja616fecVKfi+W+RX5xOQD/gu2wqyQ+RqZlTjEe1vVMZ5HOtmHOjE9/tRIiigFvLcf3CVYDEmtdIHGSD0eDQb2ezn/+1NmDpdNlxHKyJArcCl0C1NNoPMaUjeeJs1Yxql+7tnQNUTBgpvbCFvapMN1GlXwVD3jdH0ox0vmrmclEqDxiIPsMKNMYBTKJQm1/5KyWRndnL9lefh8jEnvV2QrZ5A=;HAsJ9swykcqy8as7jSDVpA=="
 ---
 

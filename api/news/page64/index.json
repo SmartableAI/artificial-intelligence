@@ -2,6 +2,104 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-07-23-ai-predicts-a-dodgers-world-series-win-after-a-covid-shortened-season.md",
+      "title": "AI predicts a Dodgers World Series win after a COVID-shortened season",
+      "excerpt": "Major League Baseball is entering uncharted waters with the start of its COVID-abridged season today. Nobody’s really sure if the 60-game season will even be able to get through the World Series without disruption by the pandemic’s spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F45816340-cc32-11ea-b35d-1427b237118b&client=amp-blogside-v2&signature=b42420d2ad7e967a9add5af749b10996443c1d79",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes.md",
+      "title": "Safehub taps building-mounted motion sensors and AI to detect earthquakes",
+      "excerpt": "That’s not to mention One Concern, which leverages AI and machine learning to advise fire departments how to plan for earthquakes and respond to them. There’s skepticism among some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/LomaPrietaSFDivisideroCollapseMeyer.jpg?w=1200&#038;strip=all",
+          "width": 1140,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform.md",
       "title": "StuffThatWorks raises $9 million to build an AI-powered, crowdsourced medical knowledge platform",
       "excerpt": "StuffThatWorks, a startup leveraging AI, crowdsourcing, and machine learning to match patients with treatments, today closed a $9 million seed round. CEO Yael Elish says the proceeds will be used ...",
@@ -1089,97 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
-      "title": "New York bans use of facial recognition in schools statewide",
-      "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "publishedDateTime": "2020-07-22T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-ram-promaster-vans-will-test-waymos-self-driving-technology-for-commercial-use.md",
-      "title": "Ram ProMaster Vans Will Test Waymo's Self-Driving Technology for Commercial Use",
-      "excerpt": "The road to autonomous driving is an extremely long journey. While some companies are going it alone, FCA has decided teaming up with Waymo is the best way to bring Level 4 self-driving to its lineup. This means that, when the technology is ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ram-promaster-mmp-1-1593097917.jpg?crop=0.667xw:0.686xh;0.176xw,0.187xh&resize=1200:*",
-          "width": 960,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
-      "publishedDateTime": "2020-07-22T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

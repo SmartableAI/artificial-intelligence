@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology for pets is launched in Atlanta"
-    excerpt: "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun"
-    publishedDateTime: 2020-09-08T07:20:00Z
-    webUrl: "https://findingrover.com/"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 119
   - title: "Portland's facial recognition ban is a major win, especially against Amazon"
     excerpt: "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler."
     publishedDateTime: 2020-09-10T01:11:00Z
@@ -55,6 +46,38 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
+    excerpt: "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use."
+    publishedDateTime: 2020-09-09T19:15:00Z
+    webUrl: "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 89
+    images:
+      - url: "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh"
+        width: 5037
+        height: 2829
+        isCached: true
+  - title: "Portland Just Passed Our Country's Broadest Ban On Facial Recognition"
+    excerpt: "Portland, Oregon might be best known as the home of bohemian stereotypes a- plenty and some of the wildest donuts you can find in the state. Now it’s also earned the reputation for ambitious privacy legislation after passing the country’s broadest ban on facial recognition technology to date."
+    publishedDateTime: 2020-09-10T15:38:00Z
+    webUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594"
+    ampWebUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Portland, Oregon, passes toughest ban on facial recognition in US"
     excerpt: "The ordinance outlaws the use of facial recognition not only by government agencies, but also by private businesses."
@@ -88,6 +111,54 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Pardon the Intrusion #26: Facial recognition? That’s a no from me, dog"
+    excerpt: "Portland, Oregon has become the first US city to ban the use of facial recognition tech by both public and private businesses."
+    publishedDateTime: 2020-09-11T02:53:00Z
+    webUrl: "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/"
+    ampWebUrl: "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/09/ptl-newsletter-hed-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution"
+    excerpt: "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue."
+    publishedDateTime: 2020-09-08T21:11:00Z
+    webUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/"
+    ampWebUrl: "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Portland bans use of facial recognition tech by government and private entities"
+    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
+    publishedDateTime: 2020-09-10T06:54:00Z
+    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 85
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Portland City Council votes to ban facial recognition technologies in public places"
     excerpt: "Portland City Council voted to ban the use of facial recognition in public places and by government agencies, including the Portland Police Department."
     publishedDateTime: 2020-09-09T23:17:00Z
@@ -104,21 +175,53 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
-    excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
-    publishedDateTime: 2020-09-09T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/"
-    ampWebUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
+  - title: "Portland passes nation’s strongest facial recognition ban for government and businesses"
+    excerpt: "The Portland City Council on Wednesday passed legislation that bans government and private use of facial recognition. It's the strongest ban nationally enforced by local lawmakers. The ban on"
+    publishedDateTime: 2020-09-09T23:41:00Z
+    webUrl: "https://www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/"
+    ampWebUrl: "https://www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portland-passes-nations-strongest-facial-recognition-ban-government-businesses/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
+      name: GeekWire
+      domain: geekwire.com
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/06/bigstock-Portland-Oregon-USA-skyline-247939699-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Portland becomes first US city to ban companies from using facial recognition in public places"
+    excerpt: "Portland is the first city in the US to bar both businesses and public agencies from using facial recognition. Will the rest of the country follow its lead?"
+    publishedDateTime: 2020-09-10T12:02:00Z
+    webUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-10T112334.280-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Portland’s facial recognition ban: Why businesses — including Amazon — fought the groundbreaking law"
+    excerpt: "The Portland City Council on Wednesday unanimously passed a groundbreaking ban prohibiting use of facial recognition in privately-owned places accessible to the public such as stores, banks and"
+    publishedDateTime: 2020-09-10T16:07:00Z
+    webUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/"
+    ampWebUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/07/RN-SAFR-Register-3-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
@@ -193,6 +296,39 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Portland, Ore. passes first-of-its-kind facial recognition ban"
+    excerpt: "Along with banning city agencies from using facial recognition, the Portland City Council has banned private enterprises from using the technology in public spaces."
+    publishedDateTime: 2020-09-10T00:59:00Z
+    webUrl: "https://www.zdnet.com/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/portland-ore-passes-first-of-its-kind-facial-recognition-ban/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
+    excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
+    publishedDateTime: 2020-09-11T16:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Portland Votes for First-Ever U.S. Ban on Corporate Use of Facial Recognition"
+    excerpt: "Portland's city council also voted to ban local government bureaus from acquiring or using the controversial surveillance technology. Several U.S. cities, including San Francisco and Oakland, have previously banned government use of facial recognition."
+    publishedDateTime: 2020-09-10T02:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-09/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Portland adopts landmark facial recognition ordinances"
     excerpt: "The Portland, Ore., City Council on Wednesday unanimously adopted two landmark ordinances banning city and private use of facial recognition technology."
     publishedDateTime: 2020-09-09T23:30:00Z
@@ -224,6 +360,38 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-portland-ted-wheeler.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "We need clear rules for facial recognition tech"
+    excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"
+    publishedDateTime: 2020-09-11T10:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/f0_QvJt9PjHXrSL675Sg90t4P00=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AK7HJE3FJRAOTLXS2GNZ2BLJJU.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
+    excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
+    publishedDateTime: 2020-09-12T16:01:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 58
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Portland passes nation’s toughest restriction on facial recognition technology"
     excerpt: "The private sector ban bars business from using facial recognition technology in public areas within Portland city limits. For example, a private business could not have a camera"
@@ -257,50 +425,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "LifeLine Animal Project is using facial recognition tech to reunite lost pets with their owners"
-    excerpt: "LifeLine Animal Project is using the latest in facial recognition technology to help reunite pets with their owners."
-    publishedDateTime: 2020-09-09T15:38:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.html"
-    ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.amp.html"
-    cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.amp.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/9/b2/9b219aca-f2b3-11ea-a402-57cc48af7413/5f58f907707d3.image.jpg?crop=588%2C481%2C0%2C926"
-        width: 588
-        height: 481
-        isCached: true
-  - title: "Council to consider banning Face Recognition Technologies"
-    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
-    publishedDateTime: 2020-09-09T08:39:00Z
-    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
-    type: article
-    provider:
-      name: Portland Tribune
-      domain: pamplinmedia.com
-    quality: 39
-    images:
-      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
-    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
-    publishedDateTime: 2020-09-09T07:55:00Z
-    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
-        width: 4000
-        height: 2110
-        isCached: true
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -312,6 +436,29 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Facial recognition is coming to domestic air travel"
+    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
+    publishedDateTime: 2020-09-12T14:17:00Z
+    webUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 34
+  - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
+    excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
+    publishedDateTime: 2020-09-11T15:27:00Z
+    webUrl: "https://cheddar.com/media/concerns-over-portlands-new-law-to-ban-facial-recognition-by-government-businesses"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 32
+    images:
+      - url: "https://img.chdrstatic.com/media/9dd0c34c-ea7f-4580-9fa9-78415c543869.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
     excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
     publishedDateTime: 2020-09-10T11:18:00Z
@@ -325,20 +472,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "FMPD wants to use face-recognition technology to solve crimes"
-    excerpt: "The Fort Myers Police Department is using facial features to solve crimes. The face-recognition technology is already in place and used on a daily basis by the same organization that issues driver’s licenses."
-    publishedDateTime: 2020-09-08T10:38:00Z
-    webUrl: "https://www.winknews.com/2020/09/08/fmpd-wants-to-use-face-recognition-technology-to-solve-crimes/"
-    type: article
-    provider:
-      name: WINK NEWS
-      domain: winknews.com
-    quality: 24
-    images:
-      - url: "https://cdn.winknews.com/wp-content/uploads/2020/09/DL.jpg"
-        width: 824
-        height: 479
         isCached: true
   - title: "Portland passes unprecedented ban on facial recognition tech, despite $24,000 Amazon lobbying effort to kill initiative"
     excerpt: "Portland lawmakers unanimously passed a sweeping ban on facial recognition technology, becoming the first city to bar both public and private entities from the controversial software and defeating Amazon’s bid to kill the measure."

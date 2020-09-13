@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platf
 webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Webee Corporation's No-Code IoT Builder Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Webee Corporation, a next-gen Industrial Internet of Things (IIoT) company, today announced the availability of Webee, its no-code visual IoT solution, in the Microsoft Azure Marketplace, an online store providing applications and services for use"
+    publishedDateTime: 2020-09-13T00:28:00Z
+    webUrl: "https://www.lelezard.com/en/news-19414599.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 60
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Tamr on Azure Provides Flexible Approach to Data Mastering"
     excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, is offering its cloud-native capabilities on Microsoft Azure, allowing companies to master their enterprise data using Tamr while taking advantage of the flexibility,"
     publishedDateTime: 2020-09-09T18:23:00Z

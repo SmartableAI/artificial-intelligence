@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/09/09/swyg/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/09/swyg/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: TechCrunch
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 389
     isCached: true
-
-related:
-  - title: "Skin Analytics raises £4M Series A to use AI for skin cancer screening"
-    excerpt: "Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures,"
-    publishedDateTime: 2020-09-08T08:08:00Z
-    webUrl: "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/"
-    ampWebUrl: "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/132880_Skin-Analytics-Teledermatology-Project_Clinical-Photography-5-r....jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
 
 secured: "gOAQmChO3wkw4T9XJKN0RPZoS29eZu2R7MjVpLjIpsIDkvInn2yRI5KCTv2QsbzwRiMl3LGuyKkTznXQCQx3TDjO0ze3PSoQnSWlQHvkJAI1yz+FWXjiFB+rpTe5XS1Tw0UcBqFpBCZLvv/FoTogR2xzRnM5RwlPwPSY4e2P6dpfIe/GGgnDOr7Ky6w33I1DFT68VkquQl50KN9tZaVwO7/LAWe5b5DTFWfEPQdhfybvn0v3/P03xQH/jOH+MyfeQmPSmK6RFb05odYtwZ/ZCPG8BhHkNXuNj7ZsRs/tZYEWn2VLxzTAgVne9rT8coLrSgDYq08oMbRGQHeTOPSFzDoChmwUTzEQGTrKJyOC2IBpXmbrvNf55B6NkwtlIYNroV0RrinwVX/hQzdJJvtKW8W/kcU85jS6UANBCSa717zOpJfXj/eaVcO2gNTNFbE0sz8Nf79Tt5qhs0+/ikYWBRY2+XqeLKydTPEYNiD2TQxv8lxCWB+f/fA4bvCiQMKvtpjtkSPXossvVPyaUus5VOiduAEJG9KxKZWZtMPZiF4=;GOR6aBVQ0Ym8oE2kwhQjyA=="
 ---

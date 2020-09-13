@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2130111/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2130111/global-artificial-intelligence-ai-in-drug-discovery-market"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Identified as the New Transformative Vehicle in the Global Car Rental Business Market"
-    excerpt: "For more information about this report visit  About ResearchAndMarkets.com ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets,"
-    publishedDateTime: 2020-09-08T08:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17404644/ai-identified-as-the-new-transformative-vehicle-in-the-global-car-rental-business-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17404644"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17404644"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
   - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "This research report categorizes the AI in Computer Vision to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Component, the AI in Computer Vision Market studied across Hardware and Software."
     publishedDateTime: 2020-09-08T12:30:00Z

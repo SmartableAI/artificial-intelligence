@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-10-ai-and-automation-vs-the-covid-19-pandemic-trading-liberty-for-safety.md",
+      "title": "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety",
+      "excerpt": "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2016/03/30/24d87bb9-0993-4b2c-85ff-8ed815d4347e/hybrid-cloud-scales.jpg",
+          "width": 770,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-andurils-new-drone-offers-to-inject-more-ai-into-warfare.md",
+      "title": "Anduril’s New Drone Offers to Inject More AI Into Warfare",
+      "excerpt": "A swarm of Ghost 4s, controlled by a single person on the ground, can perform reconnaissance missions like searching for enemy weapons or soldiers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f59679f7d996391a1b72bde/master/pass/business_ghost4_studio_01.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
       "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
       "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
@@ -468,6 +566,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
+      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
+      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "featuredContent": null,
+      "heat": 412,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-09-09T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-visualizing-tensorflow-training-jobs-with-tensorboard.md",
       "title": "Visualizing TensorFlow training jobs with TensorBoard",
       "excerpt": "TensorBoard is an open-source toolkit for TensorFlow users that allows you to visualize a wide range of useful information about your model, from model graphs; to loss, accuracy, or custom metrics; to embedding projections, images, and histograms of weights and biases. This post demonstrates how to use",
@@ -696,56 +835,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
-      "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
-      "excerpt": "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "originalUrl": "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "featuredContent": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh",
-          "width": 5037,
-          "height": 2829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "publishedDateTime": "2020-09-09T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1079,106 +1168,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facebook-and-dolby-join-amazons-voice-interoperability-initiative.md",
-      "title": "Facebook and Dolby join Amazon’s Voice Interoperability Initiative",
-      "excerpt": "More than 70 companies now count themselves, members of Amazon's Voice Interoperability Initiative, which recently published a design guide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-studio.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/facebook-and-dolby-join-amazons-voice-interoperability-initiative/amp/",
-      "publishedDateTime": "2020-09-09T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-combatting-covid-19-misinformation-with-machine-learning-vb-live.md",
-      "title": "Combatting COVID-19 misinformation with machine learning (VB Live)",
-      "excerpt": "To counter misinformed narratives, Novetta Mission Analytics (NMA) is working with Africa CDC to identify narratives and behavior around the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-498746659.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/combatting-covid-19-misinformation-with-machine-learning-vb-live/amp/",
-      "publishedDateTime": "2020-09-09T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

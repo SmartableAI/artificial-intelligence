@@ -1,28 +1,28 @@
 ---
 category: news
 title: "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit"
-excerpt: "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020."
-publishedDateTime: 2020-09-09T14:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
-webUrl: "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606"
+excerpt: "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a"
+publishedDateTime: 2020-09-09T14:49:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-301126383.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-301126383.html"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1251051/proteanTecs_at_AI_Hardware_Summit_webinar.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "More AI Hardware Arrives at the Edge"
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "f1sQkeISRz/kK5h+tqul9slpT5T0nSuxSjptrV8jgWlTgYTHR+pYsX2Zw+EAUYyq9aE65yr3GclWzdSqOUz+lXbFw6ZORjszVnC1ta9b5JrRcLnggV472zmMV6tlPSN3CC1jqmq2ixsC+qr0QrIFWBo2iDshi8XjfeiaGW2q8cCy9lbjyF56Xihq2AaGEZkqtoX0FlN/jV/XEx05tfho/B5wY1ezA0VYH4Ps3ZTuhVmKthnX+T4mmLOWaoNvDQZqMaSkeBz79yIpCoGo5TGn2RV7PRzL8pKJWdE7A52Xoycq+wAUL/mujBBFQH4EIk20VLab/YieATvgvL4JqhljQf2u9rmObbZ6nUTx+JwlZic=;6Q6tHw+IEgQkW1GoIbVh6A=="
+secured: "uxuqeIXAVYj8TljHW0jvYKGh/756eCZ+vRX8AXzqrr8yHlKRWnIgRBtskq3w3WOegrdlAEgPaRjGwCIC/7ubyE1enhXU2DcS5LnmK/HpACX17S7QiOpyUiXRZp1JnrVvcvfJlT6sdKpGcPaNKB5o0mNyu1hV+n9b4WBlSmtkURBABuetvZcRoUJOTsByqkRRDKF+taBeIr0KRQfywH/3vWx/tg0dAnTbghfv/FM0Qgyg4cz147bCLUI9o5+zY+63KKx5jOoNe65TSzrOOx2f+5GEKkERqVxySgRw/0ScEaQig4jEFFLa+mj5f4hwJSLqtje61d/gZJ6s9+0Ex3Y4Sz23N7Id0x5htqr/0P8LAMY=;TbtZMM7me9dcaFvfMGPo3g=="
 ---
 

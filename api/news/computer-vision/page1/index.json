@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-10-amazon-spent-24000-to-kill-portlands-facial-recognition-ban.md",
-      "title": "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban",
-      "excerpt": "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use.",
+      "path": "_news/2020-09-11-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
       "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "originalUrl": "https://www.vice.com/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
+      "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
+      "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
       "featuredContent": null,
-      "heat": 199,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh",
-          "width": 5037,
-          "height": 2829,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban",
-      "publishedDateTime": "2020-09-09T12:15:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "publishedDateTime": "2020-09-11T05:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
+      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
+      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "featuredContent": null,
+      "heat": 412,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-09-09T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
       "title": "Facial recognition tech designed to identify African faces wins engineering award",
       "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
@@ -59,7 +100,7 @@
       "webUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
       "originalUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
       "featuredContent": null,
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -150,56 +191,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution.md",
-      "title": "Facial Recognition Development In Wasps Hints At A Mystery Of Human Evolution",
-      "excerpt": "Scientists have long wondered how prehistoric humans quickly unstuck themselves from the Stone Age and rapidly became as intellectually and socially capable as modern humans. Recent discoveries about wasps and their cognitive abilities may hold a clue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5658c0f32434bb6ab132bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1882%26cropY1%3D728%26cropY2%3D1785",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccacoffey/2020/09/08/facial-recognition-development-in-wasps-hints-at-a-mystery-of-human-evolution/amp/",
-      "publishedDateTime": "2020-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

@@ -2,6 +2,105 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-08-14-ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return.md",
+      "title": "AI, analytics, and NLP are valuable, despite lack of obvious financial return",
+      "excerpt": "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
+      "publishedDateTime": "2020-08-14T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai.md",
+      "title": "Problematic study on Indiana parolees seeks to predict recidivism with AI",
+      "excerpt": "A four-year effort to monitor parolees in Indiana with bracelets and use AI algorithms to predict their behavior raises red flags.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/d7b050fc-6639-41e3-b2d3-3a13a7ee0bc2-e1597361985605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "publishedDateTime": "2020-08-14T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
       "title": "Baidu’s revenue shrinks under pressure from ByteDance in ads",
       "excerpt": "INTERNATIONAL - Baidu’s quarterly revenue shrank 1 percent ... and betting on the commercialization of that through smart speakers and self-driving cars. Revenue from new AI businesses including ...",
@@ -1018,106 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research.md",
-      "title": "Artificial Intelligence Robots Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-self-driving-car-only-lanes-theyre-coming-to-an-autonomous-corridor-in-michigan.md",
-      "title": "Self-driving car only lanes? They're coming to an autonomous corridor in Michigan",
-      "excerpt": "A new public-private endeavor will see a 40-mile stretch between Detroit and Ann Arbor outfitted with dedicated lanes for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/pyA2_TM6Fs4pmxfGmoqdJ8VB4CQ=/2020/08/13/a6bcbd61-7c5f-4689-a52e-368b207be16d/ogi-car.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/",
-      "publishedDateTime": "2020-08-13T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

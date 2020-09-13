@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-overview-industry-definition-specifications-and-classification-and-forecast-to-2024-2020-09-07"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,47 +28,69 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture"
-    excerpt: "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market"
-    publishedDateTime: 2020-09-08T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture-2020-09-08"
+  - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
+    excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
+    publishedDateTime: 2020-09-11T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning in Retail Market Detailed Analysis Report by Market Dynamics, Size, Growth, Covid-19 Impact and Forecast to 2024"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in Retail"
-    publishedDateTime: 2020-09-08T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-retail-market-detailed-analysis-report-by-market-dynamics-size-growth-covid-19-impact-and-forecast-to-2024-2020-09-08"
+  - title: "Global Artificial Intelligence in Fintech Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "Summary A New Market Study titled Artificial Intelligence in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports This report provides in depth study of Artificial Intelligence in Fintech Market using SWOT analysis i e Strength"
+    publishedDateTime: 2020-09-09T15:19:00Z
+    webUrl: "https://www.openpr.com/news/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
+    ampWebUrl: "https://www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
+  - title: "Software Development AI Market Report 2020 by Supply, Demand, Consumption, Sale, Price, Share, Revenue and Top Manufacturers"
+    excerpt: "Software Development AI Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key opportunities and c"
+    publishedDateTime: 2020-09-10T18:43:00Z
+    webUrl: "https://galusaustralis.com/2020/09/994287/software-development-ai-market-report-2020-by-supply-demand-consumption-sale-price-share-revenue-and-top-manufacturers/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/994287/software-development-ai-market-report-2020-by-supply-demand-consumption-sale-price-share-revenue-and-top-manufacturers/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/994287/software-development-ai-market-report-2020-by-supply-demand-consumption-sale-price-share-revenue-and-top-manufacturers/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 12
+  - title: "Natural Language Processing Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
+    excerpt: "Natural Language Processing Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2027"
+    publishedDateTime: 2020-09-11T03:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266361388/natural-language-processing-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 8
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1599785472130.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
+  - title: "Global Facial Recognition Market 2019-2028: Facial Recognition Application in Mobile Security and Drones & Emergence of Facial Analytics - ResearchAndMarkets.com"
+    excerpt: "The \"Global Facial Recognition Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market is expected to witness a CAGR of 14.30% over the forecast period from 2019-2028."
+    publishedDateTime: 2020-09-08T14:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005722/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200908005722/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "5y1NZXzO7RoBzLTNknoalMYXgwQtSxPzOiPcRKKIaM3TRdrgE2Y3zCkFDRsM6nWGrDuCXqoqb2ngyCgdDHptwg0NXgUsOolaZCM7+JubWdGoe9+JbtqCGU6bhAnzUTkTvGi53Al1a9S0Odkpqk0OY3VR6J2fA+1RcUS5SkBGNtiS+cdg8+o2BM+lCQKXk1FVznM6LxOoOLPTCRofR1/2K0Y+ZCxVb3wxWcgON4a5QxFl2oFxKPkLDNWSDJvq93hdGLpCV5ANw/vfOABs7ax7xfU750G2cE3e5nhNY9NpwBrpjuR6KjhWnFyw9iEZzx17fcEcT18N38fbFIaw3AIAtir7sSsT3SOykw172x7RGKs=;Urqvzz6BR3WzhxBQ9DZwAg=="

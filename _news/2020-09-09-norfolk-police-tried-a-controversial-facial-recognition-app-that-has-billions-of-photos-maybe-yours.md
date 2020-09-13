@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-clearview-facial-
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-clearview-facial-recognition-norfolk-police-20200909-pcuvhkos5rhmzbhkzthsnlex4m-story.html?outputType=amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 495
     isCached: true
+
+related:
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-11T12:19:00Z
+    webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
+    publishedDateTime: 2020-09-11T17:11:00Z
+    webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 810
+        height: 539
+        isCached: true
 
 secured: "66tvj12fYtbel2fV4u753Tb4V8QXg2R/eHti63Z1vSC1gwFVesi7T7fnKpSSFQDPcZlgphAtMdqQtih9xG6qxYHe+nP0vHulnE6SyTXgp0rwIKQrSeJcNSKlIMKp7zp/6oSfPs4vnVY/rDF3tZYb2mUt/V9B3AlJNbW7g6TEu9/S6kuOuNvrrZgZUT2yBcOZIZB+38v1Fo7SgU94vZvsIvdv9jz8f6bjNv3pBnDrcHzQJMgW5KF0AY2PecODipgMkBScwWPa55DRQd8oembUElF+/3gA/+uzypIu/8aiF4y1ZzBNlHXFZP4nsByLwaqUEVmTbCPpNawmmk4CEhhdu0vUxzmcvdk/bi0RCif0DiM=;8y48F+iEjXYOO2ljBk2pnA=="
 ---

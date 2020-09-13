@@ -29,18 +29,18 @@ related:
   - title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
     excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
     publishedDateTime: 2020-09-11T21:07:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+    webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 73
+    quality: 71
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
-        width: 2614
-        height: 1379
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/6f1f4fd2-402e-4c0d-83b1-208ef209c7e2/alok-ajmera-zoom-call-sep-10th-2020.png"
+        width: 2045
+        height: 1043
         isCached: true
 
 secured: "/NB6Xp1iULwRBgOhlUI13xUIBzp6ux8M8/m6129YI0m3uwichevWjdcikyvd7b6337jEZZ+HulLZHP32U6FlfYBU29LpOy6ucPN4LN6mwtmGm35iY2OIaztlHi+yQ8Zd/z2T4cvSHwF/d250+D0V9Q0Di4wM4yRTGrtdG0sKmlgGWvWPzlI6Q+l147K36mZ7F6r/JcfPHkaI9dGMr2F2ceezsLqeRLrb6dXIDwmClEh1dM/cAa70dd/exrnEbhEtQ2c99DSFgmkGAMhbl1TU43jJid+bUCuQpfZJxJQvJwTSQPQrGn9ypJVrXAzFZkrJQH/rK0kK4kxdOukR+YBo/IZSMpEW8NuXpx32wvVNVjZ5bK39JOp4/SbOzpx43s584jS7BCTBv9dXa1RNI9YjONrvFaUmX94NnrWPwnUslHA+DHLv+F1L/wovcQTh4kq41+oul00uP8xEND8n8tjQsybjaYnpIOGeLd804/dAjvRO7C8ZFVYkWb1L+3z24ohgHilMFsdVMNOOB+loPBEtJStz4ScYnT5P2B7PbRBZN8s=;Z+I7uQUykJxccDT1k94V8g=="

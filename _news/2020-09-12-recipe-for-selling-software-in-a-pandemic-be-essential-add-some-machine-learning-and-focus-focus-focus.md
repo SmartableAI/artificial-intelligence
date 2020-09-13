@@ -3,13 +3,13 @@ category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
 publishedDateTime: 2020-09-11T21:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 73
-heat: 83
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,14 +21,13 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
-    width: 2614
-    height: 1379
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/6f1f4fd2-402e-4c0d-83b1-208ef209c7e2/alok-ajmera-zoom-call-sep-10th-2020.png"
+    width: 2045
+    height: 1043
     isCached: true
 
 related:
@@ -47,6 +46,6 @@ related:
         height: 334
         isCached: true
 
-secured: "L1GzX7jal5MRPoA6EZYoQ3JHB/3V/d/jSmdxwvUgyXArZnBybD3b0St5nGXPtenjr1E3MVnEI8q+VDhfWbIEC6MZ00x8UdqKCZNOax97Pl9dRg9og0U9rhCtLKV2sif/e4M7qys0YtrZE35DX0AIws5r4iHN3U0VthVBZ4G44XSkwaLDIuS87Z4gamauQwlEvDV4HaYJ5i7gZ6A6l7ZOZrpxn0ewEfRfRTc3BdWEVr7MVM8GIidxpFb8hYRYhRHKnoysCoW78L2aIZHH/f+0/WpLzofX7BbpArFFRpCvGmhK1KPhdfvyrW5//+NUXJ8A4eG+cb9I91g9QNVYelZk4A7b3Al88Eij/4BS9k93TUQ2JXUn7sy0wwbhpD5NjBTJQpoyK4XZ+X7jz4Xtyu21X2vnCOg71vNNeXmUa8ufSTANzvoDjZq6nOUYzoTuc/hP62jxOMameUVulnt0VqoggMLTuoPwMn5s7WdCmHXtzRM8iYHLRYSlcjkrR49o6NbnvdJlpyMhwH0qk6DEAmBxvA==;XtfxG8mxsOfm1yXPdgBiKQ=="
+secured: "/8O8vruCg51rg3j4821vzbzmH7yzQbhSBTfmcvliSWieUid4R8excQ7VOaIgoEeLtY6zJeDfhm2KO+vE8OTn5NGsuFCTMsTVUrCRdJPD6KYiUNEZEC1iTZXzAzI6KS+IqY3VRkM2wOEvktnz2vSeDsDdaT5c4DfzxFDvLzpKwF7eoC7hSjxkNE9BEJXuvgrZ9VaAUz8VYJaqIN8oLUO1PqHS92Jy8gi8bOGZanfSN4leHFuI3WT1AEDgIDtTKUFAciC7IiQAMcAwgyvbmju4HuO2T63b08D9k/6C1svXEzTX+veElhDMxXcpgekY7vafABF1L0iizT2Y5TWOpseOnQYOt9bQg1m4sQkeH/H9fx0=;u7qxRlb0mhMMiAJvOeqM4Q=="
 ---
 

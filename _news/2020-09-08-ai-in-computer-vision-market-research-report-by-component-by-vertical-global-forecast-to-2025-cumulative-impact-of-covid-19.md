@@ -41,17 +41,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "AI Identified as the New Transformative Vehicle in the Global Car Rental Business Market"
-    excerpt: "For more information about this report visit  About ResearchAndMarkets.com ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets,"
-    publishedDateTime: 2020-09-08T08:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17404644/ai-identified-as-the-new-transformative-vehicle-in-the-global-car-rental-business-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17404644"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17404644"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
 
 secured: "zlhAXAcX1IHABrN2SFIu4mv6YUtPLzn77DOSRYG/I40D0vbTA6zh+kGShRTf2nfJZLAwfSogyFDXl1021tWOVeLXqY+bGoXwlE1iArq2LmQkU6MScScxapeKS6D+p+kGXPaxR5ZzRpOrzadGk1QmWeRNA3pjaPFB1UVlP5pbxDVtpGkI5vG0ZBt7caLwxTxCrYejRT/aNdDnAsfj6wMHhIKw/f9cEfEDKP60oWP6p3mzNbims/ALOm00YYPXZ4FUdfGXRrVv/Itvd3uQeTL9J1ffg4QG775Wih+puSXUeNF9FI3xa7ZoA5SStA0j1A3SqTqE6MJTpqQLoum0I+4h3I3BvXuNnKFQLEIf3zLaUoA=;V1X0HXoZ009Yar9z2cRG/Q=="
 ---

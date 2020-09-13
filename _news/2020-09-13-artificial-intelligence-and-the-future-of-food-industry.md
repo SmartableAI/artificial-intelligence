@@ -8,8 +8,8 @@ webUrl: "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-
 ampWebUrl: "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp"
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - IBM AI
 
 images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/12/w600X390/Foodtech.jpg"
@@ -26,6 +27,6 @@ images:
     height: 390
     isCached: true
 
-secured: "w2zZWG7J4lTLHz2WRL2RmYIVt4MZW78+jp+0DF79mopFsfthaeBJzshZXbzQecStk2oZzzEFGAMziLxDE1wNK6cTiCJdvWZW5hMKmd5/eOwNKmAa0F5uOh/MRvR5IfeBqiBFhr6m8dvaWPD1f3Zu/myiyDZTqc+KjHi8g/hckURUfctmXpUVTSRNTLJK7LA0q88DSgRAZiBO5PMsG64kfw2A7VolVoI3HvBaifu4CVgyZPCFFFTlvAbF9mizfdB/Qsv6zaFlJk9J64pcJ6zOQF2ijvpqxLNkt6o9KoZbTjuVhweSth1Hf7NBugjXKbyN7vfh0SK0+3Wgd9oSNoDwt8cOZuxtfYXKYqfZh3bQwoA=;0xlhpggGiS1jqPLNcyoHcQ=="
+secured: "gd2DbJSU2udWXpxAMvfJ4Z/V7Be90dJjCTgPZ+CHxdwh2oD1lRBke/Yqpqi+i1oj7pMYDjrOrBg0wNQMSIAUAuSxO02nuEviPrxM1fW+fZY1KbEPxlQFy4qWGX41aeMNs4VFDfstRU/6+bkPwgWxxj8oR3W8bqEXrI8sIVBGzundspg2h8NGPtFLG0cQ7wp1EHRLhmh+Zcx3f/aeGiQCRXtTJhHgbozNdczor2gDaJquCqDyrTHhJoxMFkUzvMBFlOKzsW9nWjEQN4Z/+V39KPY9+v/O66PnUOEPct0w9EEG4EYWZU3Cixugf9LfjSO+N/AXuryKta04a0uXmiN/TYqG5dsJwAV6DRxIMC32Xn8dpb2tzMiiXEL/KqowwSZ9+btTQNkvVydYAlnMZ8nrtv3XKaQoJPByz2aJVWJg1vMjxdL+QuEA46X/cA46NGH2FaUQRNdzFwKoKU/oqDDjoBVisQo4Rp9dSpTG1eUjNtwk+aqPXAkJGc0tdtF8Ekjt2/KpMk5mD8N/G+k4U4hNsw==;GDg32j/840MVz2Y4IYc3Zw=="
 ---
 

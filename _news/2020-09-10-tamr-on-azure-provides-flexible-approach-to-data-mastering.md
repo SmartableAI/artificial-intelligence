@@ -39,6 +39,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Webee Corporation's No-Code IoT Builder Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Webee Corporation, a next-gen Industrial Internet of Things (IIoT) company, today announced the availability of Webee, its no-code visual IoT solution, in the Microsoft Azure Marketplace, an online store providing applications and services for use"
+    publishedDateTime: 2020-09-13T00:28:00Z
+    webUrl: "https://www.lelezard.com/en/news-19414599.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 60
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "pX3v9t9VaxNo8MrWyX9ddDvpbumlHtlinRO2CQvz8Wujt2Dwegr943+giuii30suZ3/HjAxK9MFBtvlDH4BljJPvGljuqs8XjbiVbtPxXB+Ne48KYvV6Zo++ckfKc0KeFr4NKSc9js8pCzDXkA3ESbfNPk22CfOKHpaYh69+HwFOxdoa6yCb4efIklJ0GJxUgFtOCeb7Uv2e++bnMc/rkqtHAqjjBBbRQzVoLAwKpBuPQ2k8M7TmmnswJnJDRfcgi07WmesWFpKRIlZvbBy/sX6aPsxCD2/m3EBauO/rMjvzjHB6Kxek3SEwJRF/BKLvjCjwoFi1u+82HeyhatBthpa4Ciss1jZJKzvUs954uHY=;ssK8lSLbw2uwmujX9xkoIQ=="
 ---

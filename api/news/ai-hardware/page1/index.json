@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-13-switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling.md",
+      "title": "Switch 4K gaming could be added with new dock chip swap, AI upscaling",
+      "excerpt": "Nintendo reportedly tells developers to update their games to run at 4K, hinting the new Switch model revision will output 4K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/5/75046_5_new-switch-may-support-4k-output-for-uhdtvs-coming-early-2021.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
+      "publishedDateTime": "2020-09-12T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit.md",
       "title": "BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit",
       "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced its participation at the",
@@ -335,27 +376,36 @@
       ]
     },
     {
-      "path": "_news/2020-09-09-proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit.md",
-      "title": "proteanTecs to Host Virtual Panel on Datacenter Uptime at the AI Hardware Summit",
-      "excerpt": "PRNewswire/ -- proteanTecs, a leading developer of Deep Data solutions for electronics' health & performance monitoring, will be participating in a virtual panel discussion at the AI Hardware Summit 2020.",
+      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
+      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
+      "excerpt": "The image processing chipmaker is betting heavily on the AI market, but can it keep pace with its bigger competitors?",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
+      "webUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 104,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590824%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606",
-      "publishedDateTime": "2020-09-09T07:55:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/09/ambarella-underappreciated-ai-chip-stock/",
+      "publishedDateTime": "2020-09-09T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Nasdaq",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -373,39 +423,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "publishedDateTime": "2020-09-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
