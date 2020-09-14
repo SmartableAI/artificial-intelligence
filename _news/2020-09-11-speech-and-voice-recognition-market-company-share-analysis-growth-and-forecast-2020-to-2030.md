@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Software Development AI Market Report 2020 by Supply, Demand, Consumption, Sale, Price, Share, Revenue and Top Manufacturers"
     excerpt: "Software Development AI Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key opportunities and c"
     publishedDateTime: 2020-09-10T18:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478"
         width: 640
         height: 428
+        isCached: true
+  - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
+    excerpt: "New Delhi: A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in the United Arab"
+    publishedDateTime: 2020-09-14T11:09:00Z
+    webUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/"
+    ampWebUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 28
+    images:
+      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/ADNOC_MBZUAI-SIGNINGSeptember-12-2020-4.jpg?fit=1280%2C801&ssl=1"
+        width: 1280
+        height: 801
         isCached: true
   - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
     excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
     publishedDateTime: 2020-09-11T10:08:00Z

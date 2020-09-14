@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2020/09/10/ibm-and-espn
 webUrl: "https://stockhouse.com/news/press-releases/2020/09/10/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-    excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy football players make more informed, fair trades throughout the 2020 season."
-    publishedDateTime: 2020-09-10T23:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM adds new feature to ESPN Fantasy Football App"
     excerpt: "IBM and ESPN announced the addition of Trade Assistant with IBM Watson as a new feature to the ESPN Fantasy Football app."
     publishedDateTime: 2020-09-11T12:04:00Z
@@ -53,6 +39,15 @@ related:
         width: 650
         height: 440
         isCached: true
+  - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
+    excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to"
+    publishedDateTime: 2020-09-10T21:49:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_3b7ec93c-636f-5309-bfb0-5f74d9360fe4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
 
 secured: "zOILUrK+h67F4dg7UiuUnNbn5XjpMLr6dsAyudAzRZcOqYzX++pwwn89ReGD4OTeQWCV5fw1yaWJ6l0LtzCFex/Nb54t8bk+pEcWfTOsYrgJ1isyAIzK3XWGH1wqOxDC0HmAIt8nSWLRTHm+h3Mh8XqR/e2o3zZamx5/IpeufGoYVfHb63xtYMrr0O6fcTo1YQCZR0tIfH2tbYpiAH1px8xsjRfJYCDNgJCTteVfH1YskzNbCBhkRW5w2lAgdxNmpdhYOw4bToqy51uu22XxKc43BnCYviNK5Vuw3g6GV63LSE0s0fAIZ4XW/xaT8zYt2XI+L7YmGWjcMla3DHSWNpBrDaZ8YwjWShXnOwJoR9k=;bOznkEfvshATaA+FPi7Byw=="
 ---

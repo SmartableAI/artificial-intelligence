@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/08/tensorflow-js-iris-training-100855117-large.jpg"
@@ -27,6 +28,6 @@ images:
     height: 985
     isCached: true
 
-secured: "e3NPvfM3ToAzxw/Sl7LBFbAM2n5ajNFk+7iV9Jn4sdObG5MT7ZVrFyey7aSNOTYq/UtZsa0c7qQlwjLCgtC3bGVvVij6Gs4o16Puc17zoewHMXNqB+ZxtV1aa/CsXDBiP+BUoZuo8DybD0guAAfTLqIM0xr11lUmTlOhHfmc9XinZjdWiecEaoRPCa5NIGjyuIsoKa5qwJWdDCJgW3izpVAl7LN6GX/yrz7FSJC6eKGEumjxQq7e8v03teRbXt9ujF/Q5iBfpMouQGAm+uAgv1s6ko7vQuXw7UF21xrabgIbwEgShjhAY78iRatDKvf9Y9TtYooRT/37hgC0FxEJZtuaStnFj/wB1sEzBvPsZUk=;GijVjlo82f6P3YsWkvIrqg=="
+secured: "roO0NX4a76rqs6Bn7y8mnpkY/rPf0hQsmSQdzG1j18Lzj3e0vlFODeau48LFStsjfoKAxd3+8xqUJjWvDqZ41wLvzV9ZxPtXzNhDhC306S2SXSdUvYTX732Neu0lDLwTgXkZiYv7k3vkcYyEe0EukYymvs2hB7epJvwxgcsbgOlEqfzue3LNCaO7KOP/jneaYtk/nJT4D1jvxbbjPzjmW7xMUtFj4iD25F9f1Is6dDVNBo5zmh8Iy8BoqcC+zc2rQHEETqvvLoOKsScAyObTZ8iJNcNd6muQk4EnJlhe/ao317shpexaUglWiqNL2MQezawcCBtiJDOtJQfndhI+iQfWDokA8Kr23b1k+oaRsumvWZ+2XFok1bEfuNfkmE9QxYt9dgsWcfKFm7v1imUCF6fq1MZj50N0keaG1aStrelA9IwQcW9lzVFsybb57+Sjz+bBIWXAyZd4NCv6LKp75vpKSUKPbrTrjnnsGMBp3bW+kYB5DWXe2glqg9BKmzh0yRs8L5dLK9o48vnuWqMg4g==;BaLqe4hGPZCwgsJbBEsz9w=="
 ---
 

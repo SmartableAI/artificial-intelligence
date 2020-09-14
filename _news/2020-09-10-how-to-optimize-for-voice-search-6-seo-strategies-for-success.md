@@ -26,22 +26,6 @@ images:
     height: 840
     isCached: true
 
-related:
-  - title: "A voice for stray dogs"
-    excerpt: "In recognition of her admirable activism, we raise our hats to the four-time National Film Award-winning actor Jaya Ahsan."
-    publishedDateTime: 2020-09-09T17:22:00Z
-    webUrl: "https://www.dhakatribune.com/showtime/2020/09/09/a-voice-for-stray-dogs"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 24
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/09/watermarked/342319/1599669938469capture-1599669325402.PNG"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "zA3fYkqbrOpwA5qMoN5JNjOza3yC9AvL+SDZKN0dAMHle8pTJop2EKKAMiZSnmZs6X1y4S1w3sJnn7TRMyI1oHR4Tmnl2k5VNCT05koGOEnQOA/NsQjF0meDemWCQbrlZIxiMn4EaBkmrCl/NvbyFbruwlHgtXMLDfdnQT1233vLMhYC+nD/OdJ5M4Z88aQHWkwDO4OZ3mLRI6YawNDLu/yL/nfnVZE+X7jvZAZLu+GFnf1+Pl5e+o/4ivpQkXaezlSS71JC02/B11sPlqaS1YSDg+4uaiLkKIZI5nmO/O+8NwX4cXPyCUk6e0DNQ6chscLce2V5s7vD33aMTUrUnga4YXlgZE7bKEeaqKCvbwNHBqbRyet/HdSZtoH5x8DIMSXfNEhK+2UUq3KvDRcZS2fTzaw3ULScC6lZmuVM1+VYWr1NVlAs288L30xFY35/WelSPbluX71nfrpVBJrUeZEtaWA/hcfSc1jPhNynBcXQO4vkLAA4aY1o5moRDaGuBKy/T/7iZ8+oJvd6ecSxdlbBU1dmdqkfFRI0wszssp0=;uX0HTkmqO1WDEcitXUDVew=="
 ---
 

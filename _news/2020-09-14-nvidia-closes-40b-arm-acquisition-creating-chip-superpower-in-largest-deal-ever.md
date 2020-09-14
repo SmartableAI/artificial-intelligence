@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-b
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 708
     height: 450
     isCached: true
-
-related:
-  - title: "Nvidia Is Buying Arm Holdings From SoftBank in the Largest Ever Chip Deal"
-    excerpt: "Under the terms of the deal, Nvidia (ticker: NVDA) will pay SoftBank (9984.Japan) $12 billion in cash, including $2 billion payable at signing, and 44.3 million Nvidia shares wort"
-    publishedDateTime: 2020-09-13T23:45:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-189533/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "rsp7BQaHKdq7Y09EU3pRe7AbefMBETON6EdLbNpKVV+awcY5153odhGRWKL9ZpPxsdlvwADMstQvU9Y2cXkxjbosQpAt31EBYNXkPeuscNoY6MxafUSnxhfLYMWCUwjvCF6x4NP6vllZ2yNb0ZeL4DY0L/dgJFHl8J7jWRSMew1iW7rw4/eCz4n/VRDQ6272rSXoy5CLiSSD3zd5H3NPsxXRiqIlBx1GlawLN1n+ouUTV0bhPQPHR8eGlL5A58/sKokt35BHYU0eZ+5+hi7SY3SHXhtGbUIRRre9qHJXJZYV1oKl8yjkNXZt4dytcV5L/5yscYjpWb7MFtXC0FJv+gOyVOEWOtX4uPqHBP/rgK4zjIqTPvUfoi4e0F+YQbaq2ipqMbW/qc2UGRy6hM4xDhtzqbISp3397ILAj0AW5pGdhxCin6YvTZ+xlqEBKcH2xSkOZp8YRX5AsLZOZRuxEJS+LaNF5cX1aDWJqjeK2jkg8O+OtkM9YhA2EqDjSJSj4xhnTIol9bHBRa63Oknxvw==;2UmWqOmtKGknWi2W/1XKlA=="
 ---
