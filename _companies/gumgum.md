@@ -2,7 +2,7 @@
 name: "GumGum"
 overview: "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports."
 type: "profile"
-heat: 82
+heat: 58
 
 website: https://gumgum.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GumGum"
   url: "https://twitter.com/GumGum"
-  followers: 3464
+  followers: 3463
 
 size: 201-500 employees
 yearFounded: 2007
@@ -53,6 +53,6 @@ videos:
       height: 360
       title: "GumGum"
 
-secured: "/koLs5oCJKEI9lerWMaDwWNpKxBkSTUonY1vvaSL30eBB68kZcYYX7/zlD8ZQILq/jfraXWS2LMFdNTuoCTjCkdIh82jAd2uTS3KdZqhr8QWZVA9xAkZgjoU4qqjJaao4Y44KJjFTDFzJxXOjCAnYQdwA4DPGpeW0naZFrS6OqoWJs0Fe1MZRRDpzbA4tBMT9V6G1xwnd2/Ms+7OxHAmPqs59aKNx7Sb9HFa5MU3mldXtzcujDmKuISIFVHpznFMUYt4ilZA9MQxPNNocGrbcys4n+t4vc3i4TrZiu2156qA7jRAw5ggf211ZO0r5akkLwa1XXItjctN/0AlQ8weKIorxgyzQxjM0me3c1otSqwIHAs36q+RueBkw2IlNLwnreVJx+15My273KopuK7+j9Ywbxw8/00hO67Zl3kjEq0=;HkUk0HyY9lmlPz6OhEm5Jg=="
+secured: "li/sxEeQ+3mQF1A4pf2tIGuA0Kjj4kQcY/0eI6D8ihG8w5cMiSEIWV8bQyou0ft8Vh1YCM2V3mfevFn8X1XaZfL4EOQtRPM3PymRcij6sVCd9DkZN5yuwG5JH8UDBqC4IeZqivhY5L1jGAhMaXzi0g/7SNW+GSGDoUlOaVtts+rgVWhbW3I4WlTTsUn1KV9EGonWhQU4tPGIH6qBBpUyYTgo7oC9CZpuMbgnasSjNMie+1WOtQL15xXECyukC3hxEOXiTBLrfIFffNw2FX2jzFemhRhJgbgvSvAS8Zf8e8NFKKHiCj6f5+D2PhGvbmVQtkiNFi84q/8qClMEXDqE2UAYv3t6qwng1spCucGaOqVX1ytKqTDK3VcpzuPhkn/s2VYnTXipkclvbmY4bUD0KPco1j6qnw92k0+iIROvBBo=;9fZnR3g6qleqgfU9OJ5IJQ=="
 ---
 

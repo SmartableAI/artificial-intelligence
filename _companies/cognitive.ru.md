@@ -2,7 +2,7 @@
 name: "Cognitive Technologies"
 overview: "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps."
 type: "profile"
-heat: 77
+heat: 58
 
 website: https://www.cognitive.ru/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
 
-secured: "sNDTrI2kmFM6URW9df16IyxCrNqwd9XSsQ7y4tiDHzTBdDX02BmIIG2VR8zqRbkM6uocDmtIY3MxvdW+GkR5Oe25/Xd3DYbL0iiXKZ3sJq/cFClXfF+A9yMlYz1ru7eayayiE30xLVIlKIuTKHSyW95aTaC/yrfSc8RGz/JvyUx+MpqzRzYnWM3obmbni7KxXPJnZo7XJHNFsGYAZpaE96BXvMuStlaYbSnawCUMCrG44VQNzpP2IzF797Tu3CyDs73tFDkeP97BzCGL9Q2PHZedHmlAplDnNszGX1Q+R/SirPe4KjUj7H7ig8vHczbTMp6BPQacKnZLEwkzdYB3va6BoWMhXPAEa4DjFLPWy1/lW1zWr1hOCo5gEiYZkDsIZsUkauIux0GcsrQ6ibRGLVa+qvEJ/uxUnOWUjUg+K68=;JYfS2+TuV+nJAuJmAYWyPw=="
+secured: "voB4SEfYCpFe2IwlDDty9csahSLL9494ZfKlY6tiM3JRN800I1TVXBoEbYLeWxfcPEF/ViAEAV/udzSwt57L1z7u+UVNyHfV/BIT5ixvDk+WgO87TZwx1wwlz0lC5/JPmIyi29ZGmQgD5y5sLb/YrYsGK6l78UToeuoKjn9wiAiR+MsxwbbIHSn3GtjRaiwyTjNNWYolKOEg7O/hzylV3U1NWhb8QsfnO6KOLtVr4HTP2IUCPr+j0LXd6TyKWTpuXyd7w5e3fMvfKWRR6LtPekhUhFD+N8ztB+d+67CR3ferAhzUw+xHmvLlhJvKQAW8Tc+gLpOhUv2qzy5Heh0B3+GDCHJ7uVuJhlUdAu0vpRWxMiHHtnVdvGteknNysIu/RMS+4LYi7IRPsKiAu3sTePwkGN6LkyJtNPdrx8GFQj8=;Evk9E+jYD+ncBqn5rQV7Bw=="
 ---
 
