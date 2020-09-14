@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-c
 webUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "CORRECTING and REPLACING BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit"
-    excerpt: "BRAINCHIP DEMONSTRATES COMPANY’S EVENT-BASED AI NEURAL PROCESSOR AT EMBEDDED VISION SUMMIT BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology today announced its participation at the 2020 Embedded Vision Summit Virtual Conference taking place September 15 –25,"
-    publishedDateTime: 2020-09-09T13:00:00Z
-    webUrl: "https://apnews.com/business-wire/4ab95f9dfd0d4fb6912333d4531a86e8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "BrainChip Demonstrates Company's Event-Based AI Neural Processor at Embedded Vision Summit"
     excerpt: "BrainChip Holdings Ltd. , a leading provider of ultra-low power high performance AI technology, today announced its participation at the 2020 Embedded Vision Summit Virtual Conference taking place September 15 ?"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-h
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Stephen Hawking was wrong about AI killing humans (says robot)"
-    excerpt: "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column."
-    publishedDateTime: 2020-09-09T12:45:00Z
-    webUrl: "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
 
 secured: "294RQeKxRxK9s9h7sKPGfQmfqWlX/jBRqWDUmGpCRMjRjtaHAoMcJJnwCCuMHI2w3OQgqJtugtMlex8o3lAg0UBiNdWMLjVB76UuKPFQ10l9sDEjVK0/nvMNH3NzHI5AN47DUHp/QyYamswFe48mrJQeOA4yUaC42LFexp+NozRAB0aX7FxdXNDMytWnHBzOOvpKZ06qrwoiwfnRxLeIDNb1fFcXYO7DL49IqxtZu6fDjId3RWxv8uNNsuTmDMHCSoNQScOxjxpeiOdf8cZb3lOgA7wCeUCnqFm1ksHlhRhw8OZL4fAOHymzHQpF+Viy6edMLunXTtcVIPtMXPulgGBfLaLzjrmUv+0MondYbx4=;+6lXy4Q1cL+QMOTWglC7iw=="
 ---

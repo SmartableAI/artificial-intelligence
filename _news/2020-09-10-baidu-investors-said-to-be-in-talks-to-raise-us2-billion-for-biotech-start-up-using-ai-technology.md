@@ -62,15 +62,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Baidu eyeing $2B investment in biotech startup - Reuters"
-    excerpt: "Reuters sources say Baidu (NASDAQ:BIDU) is talking with investors to potentially raise up to $2B over three years for an AI-backed biotech startup.Baidu won't be the controlling stakeholder of the biotech,"
-    publishedDateTime: 2020-09-09T12:09:00Z
-    webUrl: "https://seekingalpha.com/news/3612425-baidu-eyeing-2b-investment-in-biotech-startup-reuters"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "nguQbuYv3kV23APAucBtk/axg7zpRfsNXWQK0vOeLx2Ks/qn0k4GMUrX+BYWGW0ec1b5ICIaZuiVK4jatu+c16PihzDlHBpsHaR2LriPiufKANRt7P2NDUACtXg/Xlk8XqUQo/ZZOmR3DElLjoNIExJM/zxvEfCOUezBOf0GtqgFbjh13vBkj94lYebRSIhIGE16+4tpkWot8fUmpUZoImauC+RDgK3jUeUf2Hr6i4YJZL4yUqAGuzctt7wyQ9TGzJCM24/wATUQmeKbfxF1I/wwsvmLfSgAX3v+BMdfPCLgEe5b7e51//a/H+dtzCWl9loH7kZssVwKEBWOaiHVf3R8rr6T8RVwOQMOb1S7odZe1O+KW/xa0PZkjkDYJ0lxYUtQl/xTvk2bnfZNApZ44J5gya8hQ16xNDwSw/P05lMJF7p4B3SXKY0v5UEp6HDR6Yx2hTx1PfCenxnb6XvejkLYw3moEn4u7YgVDDzUflvSbdZJeOgwmsPtrrMM0X0Z2QPghHRW0MXVxDOAeFjfPTRSn7LdqJv9Q0tGJvmWFzo=;kaTX0lv/2FatgOViF0+nGw=="
 ---

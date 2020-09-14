@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI-powered CXM platform Sprinklr raises $200 million at a $2.7 billion valuation"
-    excerpt: "Sprinklr, an AI-powered customer experience management (CXM) platform, has raised $200 Million at $2.7 billion valuation from Hellman & Friedman."
-    publishedDateTime: 2020-09-09T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/ai-powered-cxm-platform-sprinklr-raises-200-million-at-a-2-7-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/SprinklrDashboard.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 823
-        isCached: true
 
 secured: "aiR4u3GEP5RbcoazskIjU0lZdTeMlnwr3ebG6R3X0kVR0OYv72HtEgFblaJjdQG03ufe0brZ4oQI3SBx8TNW4G3nc5MPkHgDNmQHpa+6ITDQPROom0L0MIVtWbHWy3daUCt4CWXQANjywfnVy9R2hvtZt7MvjDDlGqFeNza9P6bBU4KyBk35cHfcXGD3hGzgSuh/ygXk2nyxBLEaPlaBFCwI4/smRRMGA5e0ELtfjaLe7H5ChjFOFmA3DrPkzSvHUW2fd0Epd4xeT0++pwJS1p4z7WGnXU2XPLT0glWEtfWJylZHSkPfuiTG4oSNxdfQ4+F5xu06uwOnXj+f/YkaiJ5d5nmIqyATSlmdwmFFYgHhjaXYcKgJ2OJvGOfVmMbP2II/Dx1Qr9oFtLd7rR4gwMvaQpYycBRcKSVl8PJQdgy5xx22ykwudCKaIKqtBqFEQIqO+3hrKW3D6QfWIHaeKO2qugLJZNNZT0oUrbf4NR4mWGLU8jvIlN87qFz0k4mKBEYC0bV2zHc2q+q1TlBO0w==;Ol5sQ8tlV0EeRZG65JExaQ=="
 ---

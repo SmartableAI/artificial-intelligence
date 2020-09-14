@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Baidu eyeing $2B investment in biotech startup - Reuters"
-    excerpt: "Reuters sources say Baidu (NASDAQ:BIDU) is talking with investors to potentially raise up to $2B over three years for an AI-backed biotech startup.Baidu won't be the controlling stakeholder of the biotech,"
-    publishedDateTime: 2020-09-09T12:09:00Z
-    webUrl: "https://seekingalpha.com/news/3612425-baidu-eyeing-2b-investment-in-biotech-startup-reuters"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "3KCJX35Se4YntjuCV1btWYIJfa4U3R51VRA2FhxJw6pGFtuLx0+IJi4VumDKv9a6CNki47akrgvoOw9DzWOUoThlpP1Ok5oAnVaoVofEGdj78jJEoCJmMubrKONKgAXaNehjvxw25nZ84quSetrZqPEd13paXz4naRCHUdwGBMIY9RbfhrVPCx7GGGJaoKJ1hVNs6+1rM9K64kk+uBH3IIxsmPB/rT9s4cECKP/DUsQAxusg43yL/SgQpHohFQX634lotw9GelKoIQbQnjw/ssZafkIuSLNKIgrepplnfzFEndF4U04bn5vdXYT1DHeFmdmd+6a+739+JnjAMS86arROQvT/6mrzy0w+q6c7h7DhtfpWaDmEM2cnowb5L46KCLQf8++8Bm2M4s/BTd+svNLHvlTwOcCANejfmx9IqJrqhD1gs+ESldZ9ZGItj8gZB1WhgRavGt8hxGgYB7pFdAu09ZkOLl6rnHk4crO/lxtugqJwRghcVTeu0HdIsZei4FwNj65cMAHGqh9dDwM7fA==;kqijPE1D4UvGmW64cXeJAg=="
 ---
