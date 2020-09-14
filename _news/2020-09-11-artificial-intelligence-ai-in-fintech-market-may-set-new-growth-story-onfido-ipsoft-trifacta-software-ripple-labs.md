@@ -43,22 +43,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model"
-    excerpt: "Global AI in Fintech Market Report” the new research report adds in Data Bridge Market Research’s reports database. This Research Report spread across 329 Page, 53 No of Tables, And 244 No of Figures with summarizing Top companies,"
-    publishedDateTime: 2020-09-09T15:57:00Z
-    webUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 47
-    images:
-      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Fintech Market MAY SEE A BIG MOVE | Microsoft Corporation, Google LLC, IBM Corporation, Intel Corporation"
     excerpt: "In Fintech market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
     publishedDateTime: 2020-09-11T10:03:00Z

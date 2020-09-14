@@ -35,20 +35,6 @@ related:
         width: 501
         height: 334
         isCached: true
-  - title: "Ignitarium is now part of the Arm AI Partner Program"
-    excerpt: "Having worked for several years on building AI solutions targeting GPU, FPGA and other accelerators, we have developed a deep understanding of complex neural network architectures. Over the past year,"
-    publishedDateTime: 2020-09-09T16:44:00Z
-    webUrl: "https://www.politicmag.net/press-releases/ignitarium-is-now-part-of-the-arm-ai-partner-program-9451-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 39
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2018/10/Ryanair-racist-passenger-referred-to-police-Reports-324x235.jpg"
-        width: 324
-        height: 235
-        isCached: true
 
 secured: "pIeucR5niSjwyTtgxJvf96LVUOtoGNzntTm+Zc5fPgS5uhuexhve6b2w6fOq6PGXFeHiCpiYye1bPr6TD/ti0QM04AjRXC7iCo+y55mU5Lr1gD+mn08NoK/YyYucE1wxEq92wUZE9NiretaQCLr9/eekBDns93ddu3mVfxxuKlvbyDK62odmOCANZEJbmz/lLohT8onajrk+IHZZ0tojUWuYHMT0hxVl0xZl02uIy03EqxrYAv0EUf2ja7YKeUFzCDnBVw0adglixavDKLlJCpKJg9SjYsXfF4YWRKN0aHJg6CU0FOazIumk2gi7Zlu++f9CfVSi0F3yrEElDyjf01UMV8bt94+lfFJ2aCIbBU0=;uF0bLNe7kLf2YSzQvUbYFw=="
 ---

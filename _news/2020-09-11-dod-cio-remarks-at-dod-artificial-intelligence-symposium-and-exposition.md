@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Secretary of Defense Remarks for DOD Artificial Intelligence Symposium and Exposition"
-    excerpt: "Defense Secretary Dr. Mark T. Esper provided lunchtime keynote remarks at the virtual 2020 Department of Defense Artificial Intelligence Symposium and Exposition."
-    publishedDateTime: 2020-09-09T16:23:00Z
-    webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2341130/secretary-of-defense-remarks-for-dod-artificial-intelligence-symposium-and-expo/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 32
-    images:
-      - url: "https://media.defense.gov/2019/Aug/07/2002167801/1280/1280/0/190807-D-EX074-006.JPG"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "Remarks by General John E. Hyten to the Joint Artificial Intelligence Symposium and Exposition"
     excerpt: "Air Force Gen. John E. Hyten, vice chairman of the Joint Chiefs of Staff, spoke at the Joint Artificial Intelligence Symposium and Exposition."
     publishedDateTime: 2020-09-11T14:08:00Z

@@ -2,6 +2,56 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-08-12-artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity.md",
+      "title": "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity",
+      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development.md",
       "title": "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development",
       "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
@@ -1089,55 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products.md",
-      "title": "4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products",
-      "excerpt": "We are seeing more and more companies that use artificial intelligence (AI) to make their products smarter, from speakers to coffee machines, and from cars to yoga mats. Every company must consider how they could create more intelligent products using artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f336f7bc11a3ec78f029652%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
-      "publishedDateTime": "2020-08-11T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

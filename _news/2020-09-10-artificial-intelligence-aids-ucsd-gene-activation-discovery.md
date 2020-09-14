@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/california/san-diego/amp/28951858/artificial-intel
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Patch
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning aids gene activation discovery"
-    excerpt: "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,"
-    publishedDateTime: 2020-09-09T15:06:00Z
-    webUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.html"
-    ampWebUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-aids-gene-discovery.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/46-artificialin.jpg"
-        width: 1196
-        height: 771
-        isCached: true
   - title: "Artificial intelligence aids gene activation discovery"
     excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers have solved a long-standing DNA activation code mystery."
     publishedDateTime: 2020-09-09T18:31:00Z
@@ -82,20 +66,6 @@ related:
       - url: "https://timesofsandiego.com/wp-content/uploads/2016/08/microscope-275984_640.jpg"
         width: 640
         height: 423
-        isCached: true
-  - title: "Artificial intelligence aids gene activation discovery"
-    excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers at UC San Diego have solved a long-standing DNA activation code mystery."
-    publishedDateTime: 2020-09-09T15:11:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--aia090420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/242196_web.jpg"
-        width: 720
-        height: 464
         isCached: true
 
 secured: "c7MTtPujJZUSNK11CZJ5gEJof5DUmdgQKsgl1JOZqz7vd+Nvc5JHVroRRnJOHxpJCQtZG+uBtja0YTlDsmRrQ6Dr8ofetOR9+0fTc2Le+9BQEEVVFCkUyL9q1abbUGExYnVkWX5CcNF7kkPQtU/y0eJtOgiirq7oUcC1PJuWeClS6TNL9x7dCAwPqTzXqgOwo0OenCyVC4zBJol0PMK9L0FAmlHUQqdZEK8qsef/lqJZQA2pMJ+GBihP3UhebpQ+hTHWH+LEjiE4igbtRbv/o/GPyWM6q9FF6rbMzAJxqR0XARO3tM44cC6Kg2hiP5HIW1oHH2lqr99HrGYw/KmY+EnFRBtmMxIwE6NXRTQUJ/upEiaTxEgpPcOBBUVJmKjTww4qLXRe3poK0QUFn09AHmCa7ABU+KD9lroUHYmuyupj5fhvgXgNClsqPX86pLTPudMIquf9a0JTC5DdHB+nT/W5/XXaiexm7jGsvUVS/49mUhHoXDfZlOCU9G+IeNA7BTNH3u4p38o1LkyVmw+kvpZ4YAVqeCp+bkLIiwsxkoI=;pAVzSqZFBGyxlHGqrwDzKA=="

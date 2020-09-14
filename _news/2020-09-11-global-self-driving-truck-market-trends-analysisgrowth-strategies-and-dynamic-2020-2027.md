@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-truc
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in packaging Market to Witness Tremendous Growth in Forecasted Period 2020-2027"
+    excerpt: "The recently released report by Market Research Inc titled as Global Artificial Intelligence in packaging market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate,"
+    publishedDateTime: 2020-09-14T08:47:00Z
+    webUrl: "https://galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 41
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Bucket-Testing-Software.png"
+        width: 500
+        height: 300
         isCached: true
 
 secured: "g8dc1mRHKf+yqIhILkR6FnT+cS8oQZcevtSuGgAblH2+XOSHn52hl7lhsIbVQtEgdkzwZMsiB/2ARq2li2RZWVT0l9MlKITaa3FJ9UiETYI4WkQPWgUK99B80dcqMUrnsVoSlwyfFs77Tb+Pl7kZPVQz/LFmsbInG75Z9NvgucryswDVF0jWFPcNMQusRr8dc9QKSvGUH/YxTdb1LDfsRxIGNk2Gwd+T+GiA5JP2J4Zyl27Kl03bZeZLDtgSW4gO+3AtfqXIlXtlWbNog+ORvNrkmUZ3AdYObQgZFGukuesueoySVsHPNa8QwCEWHrVHmvppha752xaIYxPPFLR+2r6zUpuGD+sepxC6VKrCFB8=;QlqXMl5rw4Cca7Ac1VnSXw=="

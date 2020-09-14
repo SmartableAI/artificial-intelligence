@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
+    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
+    publishedDateTime: 2020-09-14T09:49:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
     excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
     publishedDateTime: 2020-09-14T00:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ignitarium is now part of the Arm AI Partner Program"
-    excerpt: "Having worked for several years on building AI solutions targeting GPU, FPGA and other accelerators, we have developed a deep understanding of complex neural network architectures. Over the past year,"
-    publishedDateTime: 2020-09-09T16:44:00Z
-    webUrl: "https://www.politicmag.net/press-releases/ignitarium-is-now-part-of-the-arm-ai-partner-program-9451-2020/"
-    type: article
-    provider:
-      name: politicmag.net
-      domain: politicmag.net
-    quality: 39
-    images:
-      - url: "https://www.politicmag.net/wp-content/uploads/2018/10/Ryanair-racist-passenger-referred-to-police-Reports-324x235.jpg"
-        width: 324
-        height: 235
-        isCached: true
   - title: "Ignitarium is Now Part of the Arm AI Partner Program"
     excerpt: "The partnership allows Ignitarium to accelerate implementation of compact neural networks on Arm platforms, especially targeting Audio AI solutions on Arm Cortex-M class devices."
     publishedDateTime: 2020-09-11T07:12:00Z

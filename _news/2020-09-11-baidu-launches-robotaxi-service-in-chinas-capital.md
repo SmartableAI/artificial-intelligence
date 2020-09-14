@@ -49,6 +49,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Baidu launches Robotaxi trials in Beijing"
+    excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
+    publishedDateTime: 2020-09-14T08:39:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-launches-robotaxi-trials-in-beijing_id197697.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "0rSIYW+S+lw5sdPKNdQ8gcyRRvZARQr5oifY/mvwBsCBqIuvjPQ6BAq3kPaT9/GtCh+SkbXjkAzpVzpCa28xj0bY3iTbL2WsS5hmOdAIBgHGf2EI+8gYArQopAagquJQC2TLscZBm0Ubhnt2xekGYPoV0NSgvr9s0Z+7NU/gAxthDqiXZcVou7YGozHwIY1zP8BakBM7CaQ/baJlDhaO0fGu/UukBzZ3bBe3UCb3ighhPgIsd1tah0Qsf9lTy+woA918BPdUObNIDFryqF1qUY9w2pNS74wzqB3T8E22WTkRSOx6x5bNhgHzYsA9JbLVHRK8yUh2y7M1AdxImXs79MHzeo0EYqHmRJn7Yn3gy3ADwnwOAbxx2l+TzoqtUblGrADNQiUBy70SCD61SJUjymnoGL6Fqm/qj0WitXo+SkAc7lHWO6u/0e+SMM1/DrWQBG+wqtth5eDsCWSuEIF6QmhsYuw9AXcvqdZxiEglWL1SbF/muk7882D6/6IrgciS5uzXKaYOYAUoQOPJGsxonA==;ludtPSFLBcq6FySWOWNnrw=="
 ---

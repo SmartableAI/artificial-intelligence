@@ -1,26 +1,26 @@
 ---
 category: news
 title: "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19"
-excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai will collaborate with Massachusetts General Hospital (MGH) to continue fighting COVID-19."
-publishedDateTime: 2020-09-08T16:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-webUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
+excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai"
+publishedDateTime: 2020-09-08T16:12:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "Np3zJdzUyokGPM7khrjO74LipoS09JfuMww9SsvUpIsD8ETyKwUGQE3uUQLZBv3Hks1J0eZDcJ7UJ4GibfXfHFcXHyynyHePg6p1QwWXyAeWHQer4PLD3sLxmBwRU5+VvsWy1xgF/qVt2bQLkKBuTJLyV4ZQpOGW3OnZcrYoOQnA2ljYvBWt9+1LD90SwfMhdD2LGK9DmCA6rupo+Gak9PfIyYhQ71/003B/sxWDZCpjELs95YyQ53XN2PFSDUBPJhz1TA7gQeHy6JzZeEQ+crbKas0s9nhGNUqtmUbYmzk4BQET/0NvUCaztjE2BJ0kq7q5ZUGyslUOokj8IK2PWrTPhVXDuhTLYR40i8yJ60w=;ZQvp3vVDQCFJdcF6GxjyhA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "XYvDwj1b5uuOzNsIRazONMZ41dbA+omZTNarkFRvZx2256vpOsPPedvTnTCm+Q0VPWU7GHe9Hfj3ShcA/mwmimPavnHKg9IS4YTJs9LhpPjgdvVtPlJmB/+0OwA4obhlXkJZoK2pIaP+L06nYNBezICEhlK/J3YxVSyjQyzgmlXyoxhezIcxMsus4CVsWzHhAaicQQfPO8VkB0H1LD4QJVY0cqbBwezYCcmPnuqaSKaaTIx7n/L9c3R8kHWsdSVxLZTigJwyRAy1ooSVXYp1qwzqxsGtMmmghHxh6l/MEoE4koykcINXRWDSyKiJRgDo/u3b7elLH1OaEnb4G5ei6dXmi6xoR0MsO1mYVN5lfaE=;8Ex7pLW25tcbaQzEH41Mnw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.azcentral.com/amp/5781886002"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5781886002"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Universities Roll Out Food Delivery by Robot"
-    excerpt: "Students at Arizona State University and James Madison University can now order food for delivery by autonomous robot, thanks to a partnership between food and facilities provider Aramark and Starship Technologies."
-    publishedDateTime: 2020-09-09T16:15:00Z
-    webUrl: "https://campustechnology.com/articles/2020/09/09/universities-roll-out-food-delivery-by-robot.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200909Starship11.jpg"
-        width: 300
-        height: 477
-        isCached: true
 
 secured: "FxQgjrIkWRpQZo2SlvQGzqjsjEgjFC3rN95m5whCrx17rTYKTBRRogzTULXY/PLIGPmIAYSXwG+voqjTvRkr0wkKFZIhEG5DWjXYYFDJu5/sk5EoVYw951NyKOu/zGpfR13DWHwmSNaQdzqim/8vUFjpDnXfMsrHQYLmtNODqYq6qT2nnFhXT/BckmUChycsrOEwQKRmu3XZ+uKl/eqf5Yv9kent7jpvG0AJ2xUU9W4OMtRzV0IidnGNapup6LP6rGuekYl5HsSvPF4T3NQYMIlZtLxIo7/Se1XPiXK36YwPt+FESyI05ttDOE9Nu2R1P7E40qIzM2akGm5AksnGzMh/a10PEwFfRZoBWZ6gXlI=;cfQmTjZQDRnYbM4T7HPAMA=="
 ---

@@ -63,6 +63,15 @@ related:
         width: 740
         height: 483
         isCached: true
+  - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
+    excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
+    publishedDateTime: 2020-09-11T14:22:00Z
+    webUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits?source=sabrient"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "rYUxPjjA1kEWqjrqcxLZ+ODR9XMMlzhlWiyUSd6AANIkAIb401wzCiU2idlNCujOBWq3UjQxtwZ+BcM85m24boTSEa3n7HDDCu7NdfTysX/Gx/qvHX26ptB3SHYU2PzwgdPGN1mvbns8N0PSwGkz64ePIqlLpW5c5mmrDTQpE6B9q4VKrhrBTbM6w6o4U8H4An+IuhfJ3uxSk+aGZTY7X5p2fHtJhDudoQIL68MWS5pNBlX5SZjwnaTMndkvBOaMmc4erTvqi7Vg5yGDeohpsf0uBFQk351T7kNVMBh5ehVowebCRkwvzqr3aXdUk36kaCv1duR+SXm0F4+dbWR9UAPMM9WfGTL29hEte4JF8mc=;MdxJ4zrCT6bAyApOlFOHDA=="
 ---

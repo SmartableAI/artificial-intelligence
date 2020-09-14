@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Fintech Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "Summary A New Market Study titled Artificial Intelligence in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports This report provides in depth study of Artificial Intelligence in Fintech Market using SWOT analysis i e Strength"
-    publishedDateTime: 2020-09-09T15:19:00Z
-    webUrl: "https://www.openpr.com/news/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
-    ampWebUrl: "https://www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131190/global-artificial-intelligence-in-fintech-market-2020-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
   - title: "Software Development AI Market Report 2020 by Supply, Demand, Consumption, Sale, Price, Share, Revenue and Top Manufacturers"
     excerpt: "Software Development AI Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key opportunities and c"
     publishedDateTime: 2020-09-10T18:43:00Z

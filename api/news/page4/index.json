@@ -102,47 +102,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-10-ignitarium-is-now-part-of-the-arm-ai-partner-program.md",
-      "title": "Ignitarium is now part of the Arm AI Partner Program",
-      "excerpt": "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "originalUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T909865043_g.jpg",
-          "width": 501,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "publishedDateTime": "2020-09-10T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-10-clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift.md",
       "title": "Clean Energy Regulator to power up AI tools after Microsoft Azure shift",
       "excerpt": "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,",
@@ -242,7 +201,7 @@
       "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
       "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
       "featuredContent": null,
-      "heat": 472,
+      "heat": 482,
       "tags": null,
       "images": [
         {
@@ -463,6 +422,46 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
+      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
+      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "publishedDateTime": "2020-09-09T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

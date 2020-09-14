@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities-2020-09-13"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Discover How Deep Learning and Data Analysis Can Help Your Business Grow"
-    excerpt: "These days, data drives everything in business. Not only does it inform business decisions, but it can actually be used to predict the future to some extent. Advents like machine learning and deep learning allow you to take the data you've gathered and project it into the future with greater accuracy,"
-    publishedDateTime: 2020-09-09T16:30:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Discover-How-Deep-Learning-and-Data-Analysis-Can-15553151.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 38
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/01/37/19929073/25/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "nRn1SiGDdGiQferEQBDXR6KfNBu+6yYzkPaBdLmDRHszGRea4ySaxDAQMoYAwyCUTPjdeTUhehB1DXCQVNoVklQ0HWEgpObIMbKcUZcWOPrsuD/HwkLwy3QKKiCOFMYTOeofUALeLdozu3kDZ93VF3f8W2nTNliL6EzwEE0nis3kbNzpvfsS+Fd/51z3gFz4+OX6l0yphAy46EJwhQjXbkJbcKJi15XBqQeQEBgnFzDPoBsRLJ0GDSdOtj+mTmNemnXJEqjiYkYJi/PWfUIcBwSFX1jEZZxppWDNxl3WecfbLATTDlmV1XjElSdOZoNNINy4UJGLqdcI3nKZ8y+aOeKxz6aQ3DDVAg/QWrig6us=;ySsTv3Ti3l2o+2j4VufJOQ=="

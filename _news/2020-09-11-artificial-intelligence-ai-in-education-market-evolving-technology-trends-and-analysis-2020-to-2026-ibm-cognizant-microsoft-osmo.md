@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in packaging Market to Witness Tremendous Growth in Forecasted Period 2020-2027"
+    excerpt: "The recently released report by Market Research Inc titled as Global Artificial Intelligence in packaging market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate,"
+    publishedDateTime: 2020-09-14T08:47:00Z
+    webUrl: "https://galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/1006863/artificial-intelligence-in-packaging-market-to-witness-tremendous-growth-in-forecasted-period-2020-2027/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 41
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Bucket-Testing-Software.png"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "CuP//WmM7C/wLFvK4zTwavU9SgCxTzftFwTkhK0CFK2dDg8BEeaoqA80IDQYmUID+oFGslh6D7HApsT4s0ugUsNn0JYV0el1nxmnCbI+KjL5UJ+gupB5iUqQ1cxom0DBDvK6sNYwExl0vQzO5xAuTotdZyyKxqKYSJH7qYf7yLqbNXtdKgtGtTlbAA96uqr92uIQb5+IsvslzKpANOx/VP343g6l4PjJEPhhvX+PmDiFeAQh60N22k6qJLsppm7hEz2Zlz4a4gdqMLTMqkeoBDuOqjqBd+X570zh0Qf2onRiydC3LxQs1ShBxhMOTuLnFoIIen2F7F0CSZloy/d1upFx3jYbnf7nGZqYdZay3Bg=;j3Rk9m7Cu6xImXMdI24FQg=="
 ---

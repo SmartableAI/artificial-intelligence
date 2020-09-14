@@ -2,55 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-12-ai-weekly-what-ml-practitioners-are-doing-about-climate-change.md",
-      "title": "AI Weekly: What ML practitioners are doing about climate change",
-      "excerpt": "Projects are underway to use AI to address climate change and its impact from groups like Climate Change AI and Climate Trace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "originalUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1271593615.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
-      "publishedDateTime": "2020-09-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
       "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
       "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
@@ -329,7 +280,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
       "featuredContent": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -379,7 +330,7 @@
       "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
       "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
       "featuredContent": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -802,7 +753,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
       "featuredContent": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1002,7 @@
       "webUrl": "https://www.openpr.com/news/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
       "originalUrl": "https://www.openpr.com/news/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
       "featuredContent": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1081,6 +1032,55 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation.md",
+      "title": "Google claims its AI is becoming better at recognizing breaking news and misinformation",
+      "excerpt": "Google says its automated systems are becoming better at recognizing breaking news and detecting false and misleading information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/amp/",
+      "publishedDateTime": "2020-09-10T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

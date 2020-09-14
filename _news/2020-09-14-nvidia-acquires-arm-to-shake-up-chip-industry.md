@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-
 webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal"
+    excerpt: "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ..."
+    publishedDateTime: 2020-09-14T09:41:00Z
+    webUrl: "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition"
+    ampWebUrl: "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 59
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
   - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
     excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
     publishedDateTime: 2020-09-14T00:16:00Z
@@ -44,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1IB8I0fpKTFt2XikUsohnMJ0DRVlWkiiMVilgJsD4NH90HkK5lzNlh2Kf6gXYqQR2wiNULuRLjgZnzTOPcRoMDzb+5+jFt2J7IlNsxgfn9XJ5OKKzUmpfSLZe7buEPMZzqT0+poK0uRdf8oRsPU40o1fCTY3EFHXy8QVpZRizTGG2hF29UiRFPCRsuYZ8XI8nBXiyxk707Ev7v+CtBuJXrvlSUwTWhhsBvrW8yigwFtcDr7IFGx+IBMgFy7zLujg7pcWf6x0nnl7SCXQLso1Xwt6k5jDBkF7FUYOCG2jSXb5cTr+BJeitnGKtL9g6XTLHJE+gdB2m7X1FaKTa+bTDFwAUZx1HkXvibYTkLV7kXo=;Kkl9RYXjikN6qLE/5bxkDg=="
+secured: "vX03Jf187Co1gRKcopWi9sSTd/jQZqyUBeNMcXC9ehho56TnRybDsUdgB4hkaWAEtiEU2sWSfFQSdch3D4WQXsRq5OhHzXNVEOQmNVhUkK3vyzW2tu9TLZ4gRWGfVcaVaP0EHxyc95xfQdlaMKkfGGpRREka5+HYmsTU1lpmJKv2e2r1oTjwV//4wFBg3T7s9l/74nON1jR19yVfHhG4ggXs6eFUpLtfIK8R2V8xyA+mqpQ5DJHKR3W/UOVGgsgQmuaoxEUpL0ZWKJBYEu4A7dGkbc+lHLTaI1bocznrEw0wBEuCk9jx37P6UT27iberwkbRJLdYPhgmCWlPQkdm/+ZQlBhNNJbZ39tU5RUziHFjTACk0U7uipZU7q77lqBtHu5lx8JhScixirZvdXymdSZrZnwJ6mHL2jVo/j5rvSxwYbUydkMOrVuvnWIjbKiPgtU3opZJ62VDH9IMgz/XJL17+yuuxK9f/RWktClBfT0saUUFLHkzy/PrqF9TuGplROjg3qrQ2HThyPLnBVtyQQ==;7vEa4Fr5aX5OYc26Y48i4Q=="
 ---
 

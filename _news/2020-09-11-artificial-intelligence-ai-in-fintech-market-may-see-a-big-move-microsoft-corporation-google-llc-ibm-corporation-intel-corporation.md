@@ -57,22 +57,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Global AI in Fintech Market Investment Plans, Growth Opportunities And Strategic Business Model"
-    excerpt: "Global AI in Fintech Market Report” the new research report adds in Data Bridge Market Research’s reports database. This Research Report spread across 329 Page, 53 No of Tables, And 244 No of Figures with summarizing Top companies,"
-    publishedDateTime: 2020-09-09T15:57:00Z
-    webUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/980448/global-ai-in-fintech-market-investment-plans-growth-opportunities-and-strategic-business-model/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 47
-    images:
-      - url: "https://gnghockey.com/wp-content/uploads/2020/09/Market-To-Set-Magnificent-Growth-2.jpg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "4vLucxwtT54p0ifpd3GStoXZq9s333sr3UeMoN4ankrrqvCqVsr1du4iSbyf7eOf4iYkmQuWOXIRf/mKAUfj7ouaryD8PgjKvOFm3j+DD+7G/CrJfBNJIw2dotHEjFKFMeF6C1/lkwCK0/FbaKPB2XXGkoZy4CXtS2+Vwhc4uWlEwlq+vP/w43D2qgHhSgzXVbmyvGeJltnj6/k8IZI+NSvUCMx9LNXKZh5tsX6AZGPV3r68OeIXhwNbgnqqxR1VNLfkH3Czx1eFEhMoj1QQzvYvxfkZO91gbePW3UfEUDT2O25K1jL3qJUvm0wExC9lYtWGmJfvGwtACcgeZgXMucmb2SpHdpeoDFIg6chLAYfLB/kXRHeR8DJKK0NGtE6CyPJ8wLAdaRaT9ZKh3toZvTEU7jKGtYyX2v9wUJNKiwcx2PmguhhLXH2RwhC2UiWlue5xQpaGLV9ZOUz3iR3xGBle+sWaPWocp6PROECf15WeBJK/5YZkNJ64n5UFkx/muyfuucFVY5U8jaletQ2xMw==;WK3eT6fJlRe3BcoIiGQETA=="
 ---

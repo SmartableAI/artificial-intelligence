@@ -9,7 +9,7 @@
       "webUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
       "originalUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -109,7 +109,7 @@
       "webUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
       "originalUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -241,7 +241,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "featuredContent": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -554,47 +554,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-ignitarium-is-now-part-of-the-arm-ai-partner-program.md",
-      "title": "Ignitarium is now part of the Arm AI Partner Program",
-      "excerpt": "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "originalUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T909865043_g.jpg",
-          "width": 501,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
-      "publishedDateTime": "2020-09-10T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1370,6 +1329,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu.md",
+      "title": "Exxact Corporation Extends its Line of AI Development Servers to Support Latest NVIDIA A100 PCIe GPU",
+      "excerpt": "In addition, users also have access to the latest versions of GPU-optimized AI, machine learning, and HPC software from NVIDIA NGC, allowing users to build their solutions faster and achieve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200902la10022/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200902la10022/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

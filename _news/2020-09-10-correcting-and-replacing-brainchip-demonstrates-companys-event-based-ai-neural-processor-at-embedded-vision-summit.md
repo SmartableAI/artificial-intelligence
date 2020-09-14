@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BrainChip Demonstrates Company's Event-Based AI Neural Processor at Embedded Vision Summit"
-    excerpt: "BrainChip Holdings Ltd. , a leading provider of ultra-low power high performance AI technology, today announced its participation at the 2020 Embedded Vision Summit Virtual Conference taking place September 15 ?"
-    publishedDateTime: 2020-09-09T15:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19412921.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "vOLPnP2a4Z4OikV9RITNdF2fzXOmV0JOTkEs2z7MmD/TGebiowKK3sniUc51A2CJRoWkaSXUEsOCms9FMTdc/mI5hXFV5xOmmsbW2ubaKU7fBTeAh+Qy4bcY/iQcUCc85LtXudJHL+vBveK41Mk0V5ilnixWTmMFHm38AnCcWeqX9EcJvlkEarDAzlWsD5cuD16HpixtKENiQSmcVkP8FqB9gBnzCeLUVAJubSGpuEPXQlAbV/P64lqcdz5v6LPunrktBKxmc+C8i3aphaUgvuXuHTAW5Px8XQ1wIRFSfZhiwCfA1o0eqI8qQbX4LWDwZXGgZMIQnXCVXGrJb2ik9cFdDyfbAIc2Q/X7/ub6A1g=;hj281CC2iwjkCKfBCACBnQ=="
 ---

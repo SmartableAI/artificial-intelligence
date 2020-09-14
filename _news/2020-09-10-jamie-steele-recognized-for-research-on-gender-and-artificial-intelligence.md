@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
+    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The announcement comes on the heels of Dataiku’s $100 million Series D investment round,"
+    publishedDateTime: 2020-09-10T14:51:00Z
+    webUrl: "https://www.oaoa.com/news/business/dataiku-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-q3-2020-report/article_1048a8bf-e50e-51ae-8b22-ac61fe2d95a4.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/a/ba/aba81b21-90a4-5732-b107-88257472b9cb/5f5a3ffdbd2ab.image.jpg?resize=1200%2C628"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "TIBCO Named a Leader in Multimodal Predictive Analytics and Machine Learning by Independent Research Firm"
     excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven challenges. Today,"
     publishedDateTime: 2020-09-10T14:39:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI ruined chess. Now it’s making the game beautiful again"
-excerpt: "It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters, helped him dethrone Garry Kasparov in 2000 and spend several years as world champion."
+excerpt: "Chess has a reputation for cold logic, but Vladimir Kramnik loves the game for its beauty. “It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters,"
 publishedDateTime: 2020-09-13T11:10:00Z
-originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
-webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
+originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=80"
+webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=80"
 type: article
 quality: 69
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "PSel0HWY+FH47spgRbk5O99W+deMqLBSygOz3AI5OM5NiCXJJUoc6/aWAHE+365EvxCn6euAjldTfmur6e1KLrtGgy/YhllhUDKgc/vsNzPNgEhRWnYSf/u9kOuRtE6qzSybv0BaAlBfAiZ7PIwtH1KTBn9bjNUJWFxUI8zhhGVbIVj5VY29/gzNSd4CQ1s24n0Koh6J5tcGuPAVU7eiP1PP2n0mTJ0S8HKGWr4xCUrheGtgc8ag/IYCmIX8lp4TXM8jihKgRsxGdYnC6IOShMLky7nWJ1rSFXxjYD+fSEkuRYahC9WBj5cwWQ1hEhc79M2zG8Ak+txbTqoy1l5XU0bm9ReRCixGaJcfwraJA/4=;h2jfuZUz/NYrnTL0h+5XFg=="
+secured: "uUtorlOOx17+pprUVDNiiXWrVvkTNG4oUgQ3KDZmSmwZxy86EEYv9wPCTWaZKtMCoaML9PIksQULNzQsL9/5X0SCNzjiEhINJ82hDSQtu7C+Gg4E92eRlnupygXpXp3TSlVJZp1TDcCnJVYBOnzcMO7YJfoae+Eik/KXiApD8KVIkGaglL11OyI7OLBL0PILAUBOKj0BV6/6WNfhewG0bFiKj67zRm9N3dI5Dv4K8y9Gkws6TrvyRr9017Uy0Q+e2czuD6jluEtOj2CIxK5BtjLd51CqFkNFVjZEfak3taDhjsRpQs0BPfSa0C6L47uJYA8/L7+NrZtV0fNuV6hrmL1rdDeGivylL6LrMGTF0p8=;yuzcT3I3SjwDVGmNmJH9Gw=="
 ---
 

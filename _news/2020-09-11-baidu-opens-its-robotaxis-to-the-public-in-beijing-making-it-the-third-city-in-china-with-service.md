@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-r
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
         width: 763
         height: 509
+        isCached: true
+  - title: "Baidu launches Robotaxi trials in Beijing"
+    excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
+    publishedDateTime: 2020-09-14T08:39:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-launches-robotaxi-trials-in-beijing_id197697.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Baidu launches robotaxi service in China’s capital"
     excerpt: "Baidu has launched a robotaxi service in Beijing, China, that it claims will encompass the largest area and longest road network for self-driving cars. The area serviced in Beijing will run about 435 miles with nearly 100 pick-up and drop-off stations covering residential and business areas in Yizhuang,"

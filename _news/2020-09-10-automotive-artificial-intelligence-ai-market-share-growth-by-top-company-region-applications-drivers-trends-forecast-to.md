@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Company Share Analysis, Growth and Forecast 2020 to 2030"
+    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
+    publishedDateTime: 2020-09-14T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
     excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
     publishedDateTime: 2020-09-13T19:20:00Z
@@ -57,6 +71,20 @@ related:
       - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "AI (Artificial Intelligence) Speaker Market Analysis, Growth by Top Companies, Share, Trends by Types and Application, Forecast Analysis to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI (Artificial Intelligence) Speaker Market” research report includes analysis ofmajor raw materials suppliers, manufacturing equipment suppliers,"
+    publishedDateTime: 2020-09-14T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-analysis-growth-by-top-companies-share-trends-by-types-and-application-forecast-analysis-to-2026-2020-09-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025"
     excerpt: "The following report offers a comprehensive and an in detail assessment of the Enterprise Artificial Intelligence (AI) market and focuses on the key growth contributors of the market to help the clients better understand the current scenario of the market while taking into account the history of the market over the past years as well as the future scope of growth and forecast that have also been discussed in depth in the following report."

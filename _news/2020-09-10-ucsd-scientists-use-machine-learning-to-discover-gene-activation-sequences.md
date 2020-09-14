@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning aids gene activation discovery"
-    excerpt: "Scientists have long known that human genes spring into action through instructions delivered by the precise order of our DNA, directed by the four different types of individual links, or \"bases,\" coded A,"
-    publishedDateTime: 2020-09-09T15:06:00Z
-    webUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.html"
-    ampWebUrl: "https://phys.org/news/2020-09-machine-aids-gene-discovery.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-aids-gene-discovery.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/46-artificialin.jpg"
-        width: 1196
-        height: 771
-        isCached: true
   - title: "Artificial Intelligence Aids UCSD Gene Activation Discovery"
     excerpt: "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes."
     publishedDateTime: 2020-09-09T19:01:00Z
@@ -83,20 +67,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Artificial intelligence aids gene activation discovery"
-    excerpt: "Scientists have long known that human genes are activated through instructions delivered by the precise order of our DNA. With the aid of artificial intelligence, researchers at UC San Diego have solved a long-standing DNA activation code mystery."
-    publishedDateTime: 2020-09-09T15:11:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--aia090420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/242196_web.jpg"
-        width: 720
-        height: 464
         isCached: true
 
 secured: "UgsCME779ldqq0pxgPgqYCKVa2Rb6bJ9gp8gkzv/fgqean2PPSXC2dvtNN7w1DqlmRIRONZ2JFvsKadfm/QpMMLxRMSV3nlyCg0JwOtRHJJ7wstoyd3Tmt3Na3AdhRr+4I9sDpS3W1txVV6wqJL/kiwtZxo+eggy+Yjo8r8JH/upDiZI0+i+N8uUsv30TDKZ1QKRBrTamTYalWsB07wxvfptRd8lb0sM3Q9cieWyxMOFdsKuLRpKAOLzWRj9ZIqoK26N8Gz7dxzuUzehquOmBwogpobbM2uiZdLIoYkli6uW9BtNE42uoPbC20Gb7XmzUXKNDvKOQdfDmmaeUNror6Eh1gSsfQ7/1Z5AkI6nPJ7VkL1hVzlPDCTiPA0DmxPAmzTCn9OTrgJbL/asj+zrNplz0U1IWpE2J7imWEiJ5mNJD5B06gybY0/kAykD8zbpVYpCkuEBRpuXFZgTrnP4o3hVfC+WfIaOJoV0/0WjlG9JNFFnG0iuCkX/yqC3XKxKhJveP88Btb0fgNxXH498xw==;YtJBwrRryWavWeXOMKnDsQ=="
