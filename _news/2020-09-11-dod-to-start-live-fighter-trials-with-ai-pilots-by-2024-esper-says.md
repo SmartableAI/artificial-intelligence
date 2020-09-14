@@ -59,20 +59,6 @@ related:
         width: 619
         height: 316
         isCached: true
-  - title: "AI to dogfight against real-world fighter aircraft in 2024: Pentagon"
-    excerpt: "\"We see AI as a tool to free up resources, time and manpower, so our people can focus on higher priority tasks and arrive at the decision point, whether in a lab or on the battlefield, faster and more precise than the competition,"
-    publishedDateTime: 2020-09-09T20:34:00Z
-    webUrl: "https://www.flightglobal.com/fixed-wing/ai-to-dogfight-against-real-world-fighter-aircraft-in-2024-pentagon/140109.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 39
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/9/5/0/72950_boeing_ats_with_superhornet2_99437.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
 secured: "aNPT3Z0IyD1awQfmnIJ3kMk8PUBOXHy/neqeRySNEzi+iGsxKRHdhRYyDJa9T0Zw/hdp6F3JHEy/ofZciBvn0vhipeUUpNYwGkbdusqOx5gIO9xyfhx+YdPOjceXWiItwn8m2iDdhe1d01C+a619OYyl0B2e5r8jEn9qez0uYwQRibPxjvpEwsI7g5rmEujqPH7N9tfAfb3XlyKeL95lZPyWQNEdM2Gh6b+3JBThm7MZ9aqOM3RpkeifMXwi73Ho/icuBkYtwEjtYXEJ6M5xYNGEcTWsEvSIDjX7HMcpilcZTnBeRw4n546muVJCL2QU41VpVHdUVrOF00tdnewhEGMVC9mbmknzGwvp6LmMU5upOJyFPpRqcc7tp8PILJvjRFk6+QUqOVccTSoUhO3Et9KbnhhN2yh2e83xHseXN+ExsLrXaf9JaEQVKDDwEhoCjwZSHz6UFAxbRdutmdMLjFXypYXL9tMOBx9chBy4N5VeOoz8qZ+Z/QjPX/etdZtHLNZRc6myvdwzx1+ux6bRIg==;QPz4dO7wdeU4UkubRfI21Q=="
 ---

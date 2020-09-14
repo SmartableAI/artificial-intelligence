@@ -3,8 +3,8 @@ category: news
 title: "New Microsoft live dictation and transcription feature for Word is now available"
 excerpt: "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web."
 publishedDateTime: 2020-08-25T15:14:00Z
-originalUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=16&itm_content=2x2&itm_term=2376504"
-webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=16&itm_content=2x2&itm_term=2376504"
+originalUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
+webUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/"
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp"
 type: article
@@ -21,6 +21,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "97apNslAccQEO7Z94zWV0NSp+XRX6H4UrkY+RXWKlNbaUkCLdI9DMlVrAqNwIQhbx/Q5OAdrXZsGMGlk76pWS4dNwnCxWAyK5Az8eqsgH5aEMNLqnTza1B1gJThQlpTCHSt/1GJLU2bkpl3qDIVMCl/0ZCc/HljHHlGvSiVuOweffeV6ALhikgxKL0h5WweJTc8zy9CpLSaAJAx/0nWFwMNC1LfXxIprgzjVmGNJ2Pnd9C6Pj3zPt1vckN+KvvIZro4gd1f7/4G4dgwShKW+obzRWqD/hnPCqYIlO2RPgjDclKf4MHiBf/MDG3vgjz/688IptEYkqRhUJWD/MgKEPMCXc+caaecBjhnbforktSP1dHM9ppYkEclg0xt8rEAiSKbYjAzyQ7/cmm0VyBJfXur6UbO21oflPVhRouYnKUXP550ZnOCZ4bshTCoJHj58pe9SCCoE9FGWEbiLoKx0ChGu43Iz4TZvBPSCbZ2MZH3CzOn1vNeDCfshG/kemS1ofOCVvo5butNvzScnQblCtWKfMZofgGiwDyh6CerOrSo=;5/mjBAO+xXmGOQ022lgwtQ=="
+secured: "M+xEgzD5zHZjo8V1ifUD544Wb/SWDXs5iKIoIoI/yBCR+AbNvBVOylogkK+IH68QqjKkjip7H9V0A0IPLJ/oYhPQylXKwBJnt5HyU8YrIU2QKJMXlHyBy5ZlJLjsVJVQT4U3GaaTkGTMIr+ex68krZHBh0l+o+/xVm4G0yQPApylM3i/rWCnxFv+f5F4UNLuDzRSSLa0JGlrlyn0ip55Ol5XKlqXGUab5p/4YZG3jXpc0/drgIlAQSKxqNVU720I+zOn586FsPn3tizzthq4sIfboFkkreZGbEd8CQiBNo6zWZgWDkobCw5o8WtBmMBG1yysD6dBLb1iOWRrlN+z9bS8lcZp/Lf/03EEp2aPRfD3zAawH4ImEB1n+g3ComZIODc+rK6WdlkJIhf6pkuaUX+bX+b/FN9njgn3BOGXLNucu2rPwhjlFYBLmntxMX0pNGYNmp79IAPt5pYnYTG8SxZ4e4K0BVHG95WOSfQ9XK8bzmF7d1Q73+3k+0XhL35JpSDzZNrG3n1+LqmSEwoa0g==;UaSZBzEnVUNR3J6k9/VDBw=="
 ---
 

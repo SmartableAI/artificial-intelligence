@@ -31,12 +31,12 @@ related:
   - title: "iRhythm Technologies Announces NHS Funding After Winning Artificial Intelligence in Health and Care Award"
     excerpt: "SAN FRANCISCO and LONDON, Sept. 08, 2020-- iRhythm Technologies, a leading digital health care solutions company focused on the advancement of cardiac care, has today been named a winner of the Artificial Intelligence in Health and Care Award."
     publishedDateTime: 2020-09-14T10:46:00Z
-    webUrl: "https://www.nasdaq.com/press-release/irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in-0"
+    webUrl: "https://www.nasdaq.com/press-release/irhythm-technologies-announces-nhs-funding-after-winning-artificial-intelligence-in"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 32
+    quality: 30
 
 secured: "lg7TqQ5Fbljf116XHl9sdZb6ipTG5HareDtUwRW9LOoTFlU6pRNgG4f0a5ZrXGJppG/HljEGFMEiJ/CPkGv14NUYRUezYw4o74NlyF/WK4VHfucvPj+eKWfzuYnf5NJ2S/zv/bNC4zVv7xqI4JJHy3hzMo1vtVukelsQPYaN/w3MoqNiE8dbiUKNQn6BWyUPC0/1Ghdg18A11cv9nyp7JZq8Z+8WKPYkR4HeyTS7Fh8hffaulnlm8tVqmHtDK+ZnA9lNsC54Tg5Ym/XrKp0Yc2p2hK+rySnhYQdOZBpfhHcgnryHyCnH8Z5/dQ5KegnavKml6pmk+RRzPi+POhR2JWJeSpI4zR+G9O+o0Fz/W0o=;tFKPxyM4OSPA3SJlNlZCyw=="
 ---

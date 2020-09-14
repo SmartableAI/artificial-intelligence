@@ -1,22 +1,32 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to"
-publishedDateTime: 2020-09-10T21:49:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_3b7ec93c-636f-5309-bfb0-5f74d9360fe4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_3b7ec93c-636f-5309-bfb0-5f74d9360fe4.html"
+excerpt: "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy football players make more informed, fair trades throughout the 2020 season."
+publishedDateTime: 2020-09-10T23:26:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
+webUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
 type: article
-quality: 20
-heat: -1
-published: false
+quality: 70
+heat: 90
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
@@ -48,6 +58,6 @@ related:
         height: 440
         isCached: true
 
-secured: "Z48SrVDHahyC0h77h+xUsjWfNIcux20uUidLLD5P87uRwtNOIiWBxG7rgKr6rKpHabysGCviaqKzP8LpypAvbIg06qwEm/3lj77dZQSirGkzzAvPle/BkFw3qvc7pgjy9LJkjj6MeW04swORW4RD2lmp3yg1Vn7b7XUVeBmL8wVISf7ZDJJKp4tdxo6QwkYA1TwAcT+/5fIe4QMMQ1VfLHwdpOADX164RimSGcjOw2qJ9sbeDvfHYSB3ME6z8EK7CY3votjnGhjMwGZzSrc9tUncVIVZQUF08yYjUaVLHa1gwZNnQvPaTujgFEL+iB6aPEKVt13ui9SnzlPyBsP3T8fWqYDgyjoglEupG+jQWSkddFbljXfQkc9fJpcw7x0Voa3fZHvWuxA5dBO+5zFkvJd61x6eCOnde4uO+RaqU4S/s2ry5Uy+yZm5IYAutEhMk3sY7ufjuKKIAKCqbprxKkJSBdOVLk3m64KY4vtMz57xPFc6qUgypsbSaOIZEgOF44wqLAE1lvlIc62RjaJ8KaSsOqG/zwD+OXScPpm5rfg=;x8AXq4ABJWnfmsxxRp1SDg=="
+secured: "aw1bVi/Rk9i/aKYL6GEHKUEvh++QjJbLqWFQ/oW2eFd0TSAnsNxl4qrbWL1ziyqwVwVWF0L0VLYUBIuGCRx9i+9yNv1Y/5I9+2qiMlUw7yZiBrKjai7nEVPI4nsBiDrSKWhqJSM294NOW8RroXcOM5gfIIE7wQTfpFndyZnKMfFhqM48O1nimdT0HPiCnLD9BIoDrVC3yOvF4XgZsIVdbVW2KwyFmlF+Jj2BGyQpzCejzIFTJC0UmYyASRDbX+vzWVFyVVjMYSZf6ch7cirwLenI325Fq3u387mmgt/kFGL2FeqJ3KRTlqg5kumUqwZR9iGtyd5lj6jnCUm9z2rWJp9mMiQ7Cja6DgSSbQo1koM=;tbk65iI3b60Msm83O2bNUg=="
 ---
 

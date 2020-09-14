@@ -1,23 +1,30 @@
 ---
 category: news
 title: "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season"
-excerpt: "Leveraging Amazon SageMaker, AWS’s fully managed service for easily building, training, and deploying machine learning models quickly, the NFL was able to rapidly iterate and train multiple ..."
-publishedDateTime: 2020-09-09T15:04:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season"
-webUrl: "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and the National Football League (NFL) announced they will debut six"
+publishedDateTime: 2020-09-09T13:38:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09"
 type: article
-quality: 5
-heat: 5
-published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "W0VQO8s3/8NWVIJsbncTVFeU5Z7LXGewuZsFLJt8MWkko54CqVAv9slg57Rqhcs0fhmmN5q/l24nwfkopeEHWqEOsx2OD98+qaQzmUO6mrYE03AHa53/5/mD2X1o2Onfta5FxXvx7QI7tJ2x5qUdgK2uviljnycAfZ8q2l9Ej9c/u7a0XjlNekq5y5Bak3COd8EbAJ9d+3otu67HNTh4zQCaV9rb7pBgPDKTgJXVbG1kVqZEclK9Kkzm3oRH0Ycy6ENtktE3RyZcpY89wzj/gkKk/HLanI/fIpgf0uqKh6ZbUO6r2fy4ya3TkxRvWTBWcleHobyMcGxeYt9sO1ioQREXfHSH8DQeYyKbc91iNCE=;t3j1+ZdyscDOWp0dBf6/Hg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "FCak6jQjA+WzJtIIzva0BdTCEisIjdY85gWqzLMLwIn0eYNHRvV1eim+iziaevfz1rWPp9Xbrn/XJ8lYwujJNipgyDGmH9BBk1BHBx7pu4FIPM9XqV2mPahqahqXDtwYzGctXbYcR/cQU4LHxQjuYuThSEKS76mw9JnOOrtZ7oS4qUN7g5ZrlQpfGGc703EHLidvT67k9t20kxPUHn9sk4zAzIbdnhO8cwQtRl0z+LxfMyfhcBGABiFE0S6SEkXYfZu6r8gbAumzSg16IhBtHrAQpXwdiKXjsKHhm81n/lKKzReAtGbUIlUILNZT5kJJ/oM9Ul1EdPiSBV8RcSd2KBKN4I3DFO220H0dGD007QY=;UPVNxpo7naiEqIiAYyO7bA=="
 ---
 

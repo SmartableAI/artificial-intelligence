@@ -43,53 +43,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
-    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
-    publishedDateTime: 2020-09-14T09:49:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+  - title: "Government to examine sale of computer chip design firm Arm to US company Nvidia"
+    excerpt: "The Government is examining the sale of UK-based computer chip design firm Arm to US tech giant Nvidia, with Boris Johnson taking a personal interest in the deal, his spokesman said. Earlier on Monday,"
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.swindonadvertiser.co.uk/news/national/18719479.government-examine-sale-computer-chip-design-firm-arm-us-company-nvidia/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
+      name: Swindon Advertiser
+      domain: swindonadvertiser.co.uk
+    quality: 34
     images:
-      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "SoftBank is selling chip designer Arm to Nvidia for $40 billion"
-    excerpt: "SoftBank announced Sunday that it is selling Arm, whose chip designs power most modern phone processors, to Nvidia for $40 billion in cash and stock. Why it matters: The move will give Nvidia control of the company behind the core chip designs used by Apple,"
-    publishedDateTime: 2020-09-13T23:37:00Z
-    webUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    ampWebUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/dO6uHpSYGcoBxHhYVakw2L0XlqQ=/fit-in/1366x1366/2020/09/13/1600040285721.png"
-        width: 1366
-        height: 762
-        isCached: true
-  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
-    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
-    publishedDateTime: 2020-09-14T00:24:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
-        width: 1024
-        height: 549
+      - url: "https://www.swindonadvertiser.co.uk/resources/images/11805842/"
+        width: 1620
+        height: 1080
         isCached: true
 
 secured: "RzODxZuvFAzxRhX7rA+SUxYl1UGEOATlOVLoI2slCMP8d8Bu878NsOhs8JKv9q1Z22TpWZK159c+LEYzd9bmDkt3tm/PAXg7g2dR7XxWZuleq+6rpwo3Pcs/0xIpDNw7mKknAW5PKEREhxzpN0fznS9fedD15aYon4XafoUFRHBruMz9MluilO1Nxf5OtgMKKDzQBQ+aPRBObzH/g4yNpUrJUtP4bjmxh1qiwsOVIMrj8CHEL/wtrUh0VOsTe9oJyXHa3jhCGoAPqT5hhpwWLJWqFA1Do3xtYss+cxnTPdey94mCdX93eXbPZApUU1veNFRE94iJ6C6mAP96M+LmHP9QvEhIuDedw/E+y8S+EUM=;Q2ndOUF+eFjYODscWjPmZg=="

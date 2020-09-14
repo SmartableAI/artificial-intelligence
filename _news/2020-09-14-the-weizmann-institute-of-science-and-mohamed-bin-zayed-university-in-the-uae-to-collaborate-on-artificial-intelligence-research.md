@@ -1,28 +1,26 @@
 ---
 category: news
 title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
-excerpt: "New Delhi: A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in the United Arab"
-publishedDateTime: 2020-09-14T11:09:00Z
-originalUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/"
-webUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/"
-ampWebUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
+excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
+publishedDateTime: 2020-09-14T13:12:00Z
+originalUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-of-Science-and-Mohamed-bin-Zayed-University-in-the-UAE-to-Collaborate-on-Artificial-Intelligence-Research-nid-214053-cid-1.html"
+webUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-of-Science-and-Mohamed-bin-Zayed-University-in-the-UAE-to-Collaborate-on-Artificial-Intelligence-Research-nid-214053-cid-1.html"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: SiliconIndia
+  domain: siliconindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/ADNOC_MBZUAI-SIGNINGSeptember-12-2020-4.jpg?fit=1280%2C801&ssl=1"
-    width: 1280
-    height: 801
+  - url: "https://www.siliconindia.com/news/newsimages/qH7Zg9b6.jpg"
+    width: 570
+    height: 367
     isCached: true
 
 related:
@@ -96,6 +94,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "vHgyw/AcA74z0skyKaDXn3BgP/+zlMLW7T9vnBa2Ts2Aw4dIooH3jxDG+VqJyIsEqlPANomwo13317+pNkSp1P8goyjWaPyJZxruwy0wvLNpp6aTBxKGLAB0zA7s8nu8AoObnm8779eUmQtjw5mImps9GJLsjDjB+dB+kczha0LCxV0OzpUEM+l/fbCsL1ykxA0mwDLS3swpdzOd5qQ1O3EcXaQ0CWmtyiahJH1SDx6mBBSFQP6zNhOQiNE99cwv3VW6yTT0HQ8dN0MxkNe5zzmyckATW7lOMDD/5EPqfgTqDC4IxOziFjwh44emYcdVNTuUq9sYT5981N09xxUNjhaZGF+TsoMHlR4+IpyPeN8=;7OAhjimV29HTbMUIR+dD2w=="
+secured: "EyMi4SMwDubX495wwhCeBF5pIJ/gMLPXXQRX0Ju9SunWyhO7CDNEMvm0sa/iFfsPW/GF9S0f04UK4ordOyQdTvFr/MvEYXBY16/h67YfNAXp6Yo1M89uIMJM5l6ai/FqV+ZM+REI5F1wON2nOamMI5aGnWCIQC9JiroLbyEsc6dXRzDNH+4SBRF9fBSoZDCz0snfjw9Q8P6diOhtnmD/iA92Q3KV5lan+4/8rks5fO+vtLTlxn8Z5c3DSXKHpZAPy1JcCNFvnqlZ6+HU18AVJrnBpZE3pn7+JcqOljUgO2nET1NKuwXDSNT0OjZo83YvZNm3/Oez8hw7J/PnCyWPCJSIDpbgv83r7RVCgqzlDFY=;vjZvJiO1xBc/6mgEU4MIWQ=="
 ---
 

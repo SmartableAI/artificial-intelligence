@@ -50,22 +50,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
-    excerpt: "New Delhi: A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in the United Arab"
-    publishedDateTime: 2020-09-14T11:09:00Z
-    webUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/"
-    ampWebUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
-    images:
-      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/ADNOC_MBZUAI-SIGNINGSeptember-12-2020-4.jpg?fit=1280%2C801&ssl=1"
-        width: 1280
-        height: 801
-        isCached: true
   - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
     excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
     publishedDateTime: 2020-09-13T12:09:00Z
@@ -93,6 +77,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
         width: 2699
         height: 1414
+        isCached: true
+  - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
+    excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
+    publishedDateTime: 2020-09-14T13:12:00Z
+    webUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-of-Science-and-Mohamed-bin-Zayed-University-in-the-UAE-to-Collaborate-on-Artificial-Intelligence-Research-nid-214053-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 8
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/qH7Zg9b6.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "d0IAXXctUiQnrb65/A9Pg1BQZ+JowHsUYQtgx68F5h5I9bTWiHwbHhQZB5j7BkcIqDYO4WALevLSj2HSVJPsGqjHNSl7EnTfRI2Cnf7tG2sRJ/QtzVmGkRYrYo+NWnOPqBISl46knb1EUm2YaBon0Qx7X4WjUk1RYCzZVZYGdH4QgCtpHjaRzMd8J7OvXlk5SyLQ2Z793kJkRp9nRaYdDqcfsmeiwI5dVgZzVcsKM1r0T2qvJ3M3JvXM7rMgC2lnNMZY0zB+QFF6Kgcx79OG1NQOtYSGkUh9NW6PYcGrt2CSW5scx0DbLaPQGUrB9tc53eItr5aGJp31sEB5YMHHP8mq8HUIMar31rOiKzUZgMq2UCLsMioemo4jCHrSZxoHhIfqzad5yrIFLm1a4eOnjgFe093OgcZ35St/v8jousGCQLwCsrwPh3ENxIg5px1cWGdU8JfPsTGCDw1EZ2NB4ICkY4a6NX1S+Ak2Q+qQvXBb4AawNGJHOhednOJLF38V9HQXOko0PrG6z8U3Ma4jWw==;xi6y0hb+RrzoSWninItTow=="

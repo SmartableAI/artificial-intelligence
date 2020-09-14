@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study"
-excerpt: "Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research. The 6th annual report examines end user deployment and trends around data science and machine learning."
-publishedDateTime: 2020-08-31T13:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140"
-webUrl: "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140"
+excerpt: "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research."
+publishedDateTime: 2020-08-31T13:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17307001"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17307001"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "FyTTfI+rdmRD0OlqVyc90m0s2XwFeZB30LZXwc1FppayweN4qXF9G/8P1koysDaqPa0SxoAVAQbkwg7xC9BDKiR1fPyOf/1uvEgMo9esB8KIXYHtL+/dzrT7imLzT+moIYhi4M3rDTMZUYntEP63PdFT/LRyhzN0mcjd/U1zocZAJG4SkVbg/w2yTYqnAs8f4rXQOxmiIy/0NzR/8wu0+rc2BqQC4iMYPYM4yVR2lnDybneyq1mKkApQEwTodixE1LPmUldTrraeVuZdhM+Vz1eXbfeT4AQufa7L3KmUIb+d9iccyM2DyBOFD+71YiecCLq/c6doGxgcvjKV5zQNw2GyYXGUvO+b4CcgdR/yIUI=;rjDUgtYG955ud8zfmqtZ2Q=="
+secured: "8SjNf/LQGeImiW1ewdW1A3LfqoyKY5efjYQa4skBKo1ztE2ROfBLms62yKdvTjAQ5hyB3Lpv4pvocaZjDahW5Od937Hblbw3hfqVH+nFNy9YQUZGl4fzUb59pQnlCD66r9lIIhmpcDHt8Yc2vqNKx5vRcYbGhIymFDNGQIwByKACYf+ThXkj8LlEOFdBvS+KyVh3QcFH/4wJlOPIXPXhDUMlanFe+/4cHpheax9IgfrAhi0iOF0keukycv8sGcOoUf7MHMdbjqBte5lqs2k+Sd/cE91GOKE1x/UzS80FPsQzGB4Byb/H1lI6RmmZ2jbGFqpOhga0VKJMzaCGDd5797yN6vgXNJcbQVIOYuZhKl4=;RyPoTrIRihfurPQzpUst4w=="
 ---
 

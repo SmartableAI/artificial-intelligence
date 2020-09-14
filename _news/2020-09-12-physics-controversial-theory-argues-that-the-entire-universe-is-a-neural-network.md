@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8723239/amp/Physics-controversial-theory-argues-entire-universe-neural-network.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Physicist: The Entire Universe Might Be a Neural Network"
-    excerpt: "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us."
-    publishedDateTime: 2020-09-09T20:04:00Z
-    webUrl: "https://futurism.com/physicist-entire-universe-neural-network"
-    ampWebUrl: "https://futurism.com/physicist-entire-universe-neural-network/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Are we actually living in the matrix? Physicist attempts to redefine reality with controversial theory that the entire universe is a neural network"
     excerpt: "Vitaly Vanchurin of the University of Minnesota Duluth believes that - on a fundamental level - everything we know may be made up of various nodes that process and pass on signals."
     publishedDateTime: 2020-09-11T17:54:00Z

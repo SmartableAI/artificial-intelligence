@@ -57,22 +57,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
-    excerpt: "New Delhi: A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in the United Arab"
-    publishedDateTime: 2020-09-14T11:09:00Z
-    webUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/"
-    ampWebUrl: "https://indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/the-weizmann-institute-of-science-and-mohamed-bin-zayed-university-in-the-uae-to-collaborate-on-artificial-intelligence-research/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
-    images:
-      - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/ADNOC_MBZUAI-SIGNINGSeptember-12-2020-4.jpg?fit=1280%2C801&ssl=1"
-        width: 1280
-        height: 801
-        isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
     excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
     publishedDateTime: 2020-09-10T23:36:00Z
@@ -86,6 +70,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
         width: 2699
         height: 1414
+        isCached: true
+  - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
+    excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
+    publishedDateTime: 2020-09-14T13:12:00Z
+    webUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-of-Science-and-Mohamed-bin-Zayed-University-in-the-UAE-to-Collaborate-on-Artificial-Intelligence-Research-nid-214053-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 8
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/qH7Zg9b6.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing Reports Frost & Sullivan"
     excerpt: "Despite the COVID-19 pandemic outbreak, the expenditure is not expected to create a long-term negative impact on the C4ISR program Frost & Sullivan’s recent analysis, Assessment of the US DoD C4ISR Market,"

@@ -1,29 +1,26 @@
 ---
 category: news
 title: "iFLYTEK Corporate Social Responsibility (CSR) Report Details Efforts to Make a Better World with Artificial Intelligence"
-excerpt: "PRNewswire/ -- iFLYTEK, Asia's leading artificial intelligence (AI) and speech technology company, released its first global corporate social"
-publishedDateTime: 2020-09-08T15:54:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html"
-webUrl: "https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html"
+excerpt: "PRNewswire/ -- iFLYTEK, Asia's leading artificial intelligence (AI) and speech technology company, released its"
+publishedDateTime: 2020-09-08T16:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
+webUrl: "https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "HCgscKrrt9sbR0EhZyNApcK0jg/6fjSwzH+PWYs1tx/Bp38LPDN3aOyBXijGLqvtgU2/N+2sVVVT0z57mRfok/JTitaJOSFyTYcuGdp75fyoAWLICUPaeUBaugZhvKV1z2DIa8RP38F71ntQ3Q1xdeMvtCDA3vPF7Q9bgiWlZVENA+xKe4LAWs7d+CzwLmGivYdzxfQWjbQp2H9oZ/AJ8tSTwZaeMJ4NrkPhszFqGoLbXeYiofrSMClGg5bb/+KCVNRXp9vl7p3yUiSUAwJ2ftqgl26sbN0Tt6z+C59GRyGsa4AprP9PYa/LuCve5DvDmkEe3Lxm/pfd708oSLRTdfGOYt9IdPZvqMK5RgSfe8M=;B50K5KUWLFUMiWBQeFt3fw=="
+secured: "LlbthfmMKVGJZnrky5pZnORbGpQ9IgGeHtHqx/GvhD1PPckSvEjIwavfCK8NCMir0hU4+BkoRFjr5n0KKfjkA1hFjnjXTFVTQW655pDJm/W/o1Yi+e437Acu43OOspA9HxBwjy75jC+6miQ1Oiklh1FEr6oTJHqaojAz+XOLKKUeUc+2tBsn35eoM08J7N4EKogqIpEse9ce9asL+KrmSq7eyDASH3h9RM0qh2b2A76UtHw889Yztk8/9S6aYad7GXyqUIeLcTaZkHSBY/HK7BplSFGLOltyC3hstkS85oakhyaTasZFi9F7CqDOtNe5awjOm4yf2pbem0xVYXKObhF7IdF7Q9FIgEmRRFH9Re0=;9zIxOd62dle73blkBH4iAw=="
 ---
 

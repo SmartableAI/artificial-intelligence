@@ -41,6 +41,20 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Facial Recognition Goes Beyond Simple Loss Prevention"
+    excerpt: "This is especially true in the retail industry, where the benefits of improved security technology go far beyond the obvious loss prevention applications. Facial recognition technology in particular has proven that it cannot only help retail locations protect their assets and employees but can have a positive effect on customer service capabilities as well."
+    publishedDateTime: 2020-09-11T17:13:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152248/facial-recognition-goes-beyond-simple-loss-prevention"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/GettyImages_1097126750.5f496afd97a46.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "hv+cEesaXaBghxTwSt6zINsyJ4UzUKnLOVMOdKgiJs4JRhgFKIHsPIS+3YJOmnTlYs4Aywfg4JAC7qIN4IlkyCc0pKgaJUTJsZnHc7ge296OpqNT/q0UCQQx98wMQdy7nveFbpJyN/zZfLf4Cb3pCSD26mzmWHsj0+8QECGBoPe57ndwGXr0UG11THbITFv+Y2xqBJduI/o//U2Bc/iSDmnXG6kBzBjdVeHGdCEfO+zBuKE9ptiWM1DUiW6vCUZ+psoghoiLfgJmPFOz7MRs0vor1cLLgIQK5VrhoC9qWpbYXGG30jbxnXzpcWnKuJQYlL+YyMJ6Yyh+119Uy+HOxiycS7KNQbrJ8yps1p8IwtM=;SIdCltzBRwFHQcQughvrRw=="
 ---

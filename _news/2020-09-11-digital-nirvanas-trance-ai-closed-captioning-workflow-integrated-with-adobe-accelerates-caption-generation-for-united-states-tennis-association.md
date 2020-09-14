@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications"
-    excerpt: "\"With this achievement by Rambus, designers of AI and HPC systems can now implement systems using ... HBM2E PHY and Memory Controller IP using TSMC's N7 process and CoWoS ® (Chip-on-Wafer-on-Substrate) advanced packaging technologies."
-    publishedDateTime: 2020-09-09T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rambus-advances-hbm2e-performance-to-4-0-gbps-for-aiml-training-applications-301126070.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1250499/Rambus_HBM2E_Interface_4_Gbps_Transmit_Eye.jpg?p=facebook"
-        width: 1472
-        height: 771
-        isCached: true
 
 secured: "BQl1pjiwVSJwa9qvwI5eHxSPFJVqUYfaOnhHBU027c8yf+cEUcKxL/4aUySrAbbB1YfcjOvl3IfsXvISt901Us/1fiLKvUBtlpLgRMyXGyUlirPAMab5T3KAa0Tf28T7QzcQPKqqUikEx6D0kV5oOeKnW+nz3t0J2i4garJ1R/R9OzRFzBft1lfx8aD+aR8njciMhOeOn2lZ/oqenPj2Knr06FDXCTQb1lhWgZaarIdLVs1sp3rC1KL83YwKf51cw/R8rQdmZ3rzH49tLyl8mzMauMJ+WsJxPjavRVT1npLkxvQih4lZndVOGngm/VulKoqGccT/k965LKJXO0e7JwxNjQe0e9FoRCsElOEL+AF2oE3lQ22KaTa2SkGe2UwQ26hVcYMbG+TWy0Z/nf14Wm88T7T2psCnT+mNEde42Hoh3E7IIn5xS7tPCUIhpdiEGh7q4nub9KR8PlH7Luw3w8SgAiUcn4LoWO/FPv/OFe5DJTvhIicQQ7lkGAA9p1JAL/fG3EmXgPKo5JPfJmHu7A==;B6IVJobw/ffbF55JTq5e9Q=="
 ---

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/</loc>
+    <lastmod>2020-09-14T06:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132</loc>
+    <lastmod>2020-09-14T06:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/</loc>
+    <lastmod>2020-09-14T05:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/</loc>
+    <lastmod>2020-09-14T04:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html</loc>
     <lastmod>2020-09-14T03:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,6 +37,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/</loc>
+    <lastmod>2020-09-14T02:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry</loc>
     <lastmod>2020-09-13T23:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +51,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/</loc>
     <lastmod>2020-09-13T21:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html</loc>
+    <lastmod>2020-09-13T20:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -265,6 +301,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
+    <lastmod>2020-09-10T16:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -493,6 +535,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/</loc>
+    <lastmod>2020-09-09T14:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html</loc>
+    <lastmod>2020-09-09T14:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/</loc>
     <lastmod>2020-09-09T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -559,6 +613,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fiercebiotech.com/medtech/recursion-pharma-nets-239m-plus-ai-research-contract-bayer</loc>
+    <lastmod>2020-09-09T09:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/quizlet-is-betting-ai-machine-learning-can-tutor-students/</loc>
     <lastmod>2020-09-09T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -609,6 +669,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/</loc>
     <lastmod>2020-09-09T06:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09</loc>
+    <lastmod>2020-09-09T06:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -757,14 +823,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
+    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2053,6 +2125,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01</loc>
+    <lastmod>2020-09-01T06:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume</loc>
     <lastmod>2020-09-01T06:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2155,8 +2233,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
-    <lastmod>2020-09-01T02:17:00-07:00</lastmod>
+    <loc>https://kesq.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/</loc>
+    <lastmod>2020-09-01T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2305,6 +2383,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?time=1598874693</loc>
+    <lastmod>2020-08-31T07:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/</loc>
     <lastmod>2020-08-31T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2337,6 +2421,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/</loc>
     <lastmod>2020-08-31T06:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study</loc>
+    <lastmod>2020-08-31T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2421,6 +2511,12 @@
   <url>
     <loc>https://news.mit.edu/2020/spot-robot-vital-signs-0831</loc>
     <lastmod>2020-08-30T21:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp</loc>
+    <lastmod>2020-08-30T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3391,7 +3487,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?itm_source=16&amp;itm_content=2x2&amp;itm_term=2376504</loc>
+    <loc>https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/</loc>
     <lastmod>2020-08-25T08:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

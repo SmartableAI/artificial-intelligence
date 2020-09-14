@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-
 webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
-        isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
-    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
-    publishedDateTime: 2020-09-14T00:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "vX03Jf187Co1gRKcopWi9sSTd/jQZqyUBeNMcXC9ehho56TnRybDsUdgB4hkaWAEtiEU2sWSfFQSdch3D4WQXsRq5OhHzXNVEOQmNVhUkK3vyzW2tu9TLZ4gRWGfVcaVaP0EHxyc95xfQdlaMKkfGGpRREka5+HYmsTU1lpmJKv2e2r1oTjwV//4wFBg3T7s9l/74nON1jR19yVfHhG4ggXs6eFUpLtfIK8R2V8xyA+mqpQ5DJHKR3W/UOVGgsgQmuaoxEUpL0ZWKJBYEu4A7dGkbc+lHLTaI1bocznrEw0wBEuCk9jx37P6UT27iberwkbRJLdYPhgmCWlPQkdm/+ZQlBhNNJbZ39tU5RUziHFjTACk0U7uipZU7q77lqBtHu5lx8JhScixirZvdXymdSZrZnwJ6mHL2jVo/j5rvSxwYbUydkMOrVuvnWIjbKiPgtU3opZJ62VDH9IMgz/XJL17+yuuxK9f/RWktClBfT0saUUFLHkzy/PrqF9TuGplROjg3qrQ2HThyPLnBVtyQQ==;7vEa4Fr5aX5OYc26Y48i4Q=="

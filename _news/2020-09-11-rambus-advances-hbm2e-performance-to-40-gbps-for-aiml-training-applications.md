@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-pe
 webUrl: "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications"
-    excerpt: "\"With this achievement by Rambus, designers of AI and HPC systems can now implement systems using ... HBM2E PHY and Memory Controller IP using TSMC's N7 process and CoWoS ® (Chip-on-Wafer-on-Substrate) advanced packaging technologies."
-    publishedDateTime: 2020-09-09T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/rambus-advances-hbm2e-performance-to-4-0-gbps-for-aiml-training-applications-301126070.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1250499/Rambus_HBM2E_Interface_4_Gbps_Transmit_Eye.jpg?p=facebook"
-        width: 1472
-        height: 771
-        isCached: true
   - title: "Digital Nirvana’s Trance AI Closed-Captioning Workflow, Integrated With Adobe, Accelerates Caption Generation for United States Tennis Association"
     excerpt: "Digital Nirvana, a provider of leading-edge media-monitoring and metadata generation services, today announced that its Trance automated postproduction captioning solution with advanced AI is powering the closed captioning workflow for the United States Tennis Association (USTA),"
     publishedDateTime: 2020-09-11T15:52:00Z

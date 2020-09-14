@@ -2,11 +2,195 @@
   "page": 85,
   "value": [
     {
-      "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
-      "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
-      "excerpt": "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
+      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
+      "title": "Defending Black Lives Means Banning Facial Recognition",
+      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/7208593b875025f54adbc52c6713c4c0",
+      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "publishedDateTime": "2020-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
+      "title": "How AI Could Revolutionize The Future Of Mobile",
+      "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda5daa543d4d0006ab099e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
+      "publishedDateTime": "2020-07-10T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
+      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
+      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "publishedDateTime": "2020-07-10T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
+      "title": "Natural Language Processing (NLP) Market to reach...",
+      "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16582536/natural-language-processing-nlp-market-to-reach-us-41-billion-by-2025-global-insights-on-trends-le",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582536",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582536",
+      "publishedDateTime": "2020-07-10T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
+      "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
+      "excerpt": "Yet Facebook, Microsoft and others are arguably ... Huawei’s 5G and various basic research platforms, all of which are exploring the business opportunities of AI in the future. Technology is making life better and closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -16,7 +200,7 @@
           "url": "https://apnews.com/images/PaidContent3.png",
           "width": 700,
           "height": 450,
-          "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+          "title": null,
           "attribution": null,
           "isCached": true
         }
@@ -24,11 +208,151 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T00:00:00-07:00",
+      "publishedDateTime": "2020-07-10T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
+      "title": "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
+      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
+      "excerpt": "Announced on Friday, July 10, ahead of the International Conference on Machine Learning, Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "publishedDateTime": "2020-07-09T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -43,410 +367,36 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
-      "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
-      "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
+      "path": "_news/2020-07-10-chinese-self-driving-start-up-weride-to-test-fully-driverless-cars-in-guangzhou.md",
+      "title": "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou",
+      "excerpt": "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/10/f6c28a28-c267-11ea-8c85-9f30eae6654e_image_hires_124612.jpg?itok=sr-PXq_S&v=1594356378",
           "width": 1200,
-          "height": 750,
-          "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+          "height": 630,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
-      "publishedDateTime": "2020-06-21T21:30:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
+      "publishedDateTime": "2020-07-09T21:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
-      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "publishedDateTime": "2020-06-21T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
-      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
-          "width": 715,
-          "height": 450,
-          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "publishedDateTime": "2020-06-21T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report.md",
-      "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
-      "excerpt": "AI interfaces and chatbots have significantly improved customer service. The AI-focused Fintech market is expected to grow at a CAGR of about 21% in the next 5 years. In another new report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
-      "publishedDateTime": "2020-06-21T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
-      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "publishedDateTime": "2020-06-21T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-fortude-first-from-sri-lanka-to-join-microsoft-ai-for-accessibility-program.md",
-      "title": "Fortude first from Sri Lanka to join Microsoft AI for Accessibility program",
-      "excerpt": "The work they have done is an important step in scaling accessible technology and building on our recent advancements in Microsoft Cognitive Services and Machine Learning to develop accessible and intelligent AI solutions for all,” added Hasitha.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/2020/06/22/fortude-first-from-sri-lanka-to-join-microsoft-ai-for-accessibility-program/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/06/Fortude-AI4A-Sri-Lanka-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": "Fortude first from Sri Lanka to join Microsoft AI for Accessibility program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing.md",
-      "title": "Salesforce Research aims to capture the nuances of natural language processing",
-      "excerpt": "The Salesforce Research team is attempting to capture the nuances of natural language processing with a new generalized model. The team described its approach in a recently published a paper on ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/06/socher820.png",
-          "width": 820,
-          "height": 453,
-          "title": "Salesforce Research aims to capture the nuances of natural language processing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
-          "width": 862,
-          "height": 320,
-          "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
-      "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-      "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "publishedDateTime": "2020-06-21T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -467,235 +417,36 @@
       ]
     },
     {
-      "path": "_news/2020-06-21-victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing.md",
-      "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-      "excerpt": "Why bother with messy official approvals, tedious legal and privacy assessments, or even ethics when cops use facial recognition? 'Feel free to run wild with your searches,' says Clearview.",
+      "path": "_news/2020-07-10-exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-13-billion-deal.md",
+      "title": "Exclusive: Amazon plans at least $100 million to keep Zoox talent after $1.3 billion deal",
+      "excerpt": "Amazon.com Inc plans to create at least $100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/21/4255271c-e78c-453d-8441-0131f1324aae/clearvew-email.png",
-          "width": 1138,
-          "height": 960,
-          "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "publishedDateTime": "2020-06-21T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-why-ai-is-the-future-of-remote-security-monitoring.md",
-      "title": "Why AI Is The Future Of Remote Security Monitoring",
-      "excerpt": "The computer scientists and data modeling experts who created the popular machine learning framework TensorFlow have found that convolutional neural network-based models are the most effective at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eefc5f6db254b0006295634%2F0x0.jpg",
-          "width": 1200,
-          "height": 681,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200709&t=2&i=1525229344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG681UD",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "publishedDateTime": "2020-06-21T15:48:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "publishedDateTime": "2020-07-09T20:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35.md",
-      "title": "Dive into AI and machine learning for just $35",
-      "excerpt": "It’s no secret that some of the world’s most important technologies and innovations are increasingly fueled by Artificial Intelligence (AI) and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F8976d670-b19d-11ea-bf3c-cfa9c5973137&client=amp-blogside-v2&signature=897136f6e645595efaee92715fc68511ec724c1a",
-          "width": 600,
-          "height": 350,
-          "title": "Dive into AI and machine learning for just $35",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "publishedDateTime": "2020-06-21T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
-      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "publishedDateTime": "2020-06-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
-      "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-      "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/brainstorm.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "publishedDateTime": "2020-06-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -715,111 +466,21 @@
       ]
     },
     {
-      "path": "_news/2020-06-21-can-artificial-intelligence-guess-your-age.md",
-      "title": "Can Artificial Intelligence Guess Your Age?",
-      "excerpt": "Some of us are able to hide our age from each other but what if you can’t hide your age from artificial intelligence (AI)? Scientists at the Institute for Neural Computation at Ruhr-Universität Bochum (RUB) have developed an algorithm that can catch ...",
+      "path": "_news/2020-07-10-ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023.md",
+      "title": "AI in Fintech Market 2019: UpStream and Downstream Fundamentals, Import-Export Data, Rapidly Increasing Growth Rate and Revenue Share Till 2023",
+      "excerpt": "According to the latest research “AI in Fintech Market” share is predicted to gain better growth in upcoming years.",
       "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1534768654272-e97681c3a2c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-          "width": 750,
-          "height": 500,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age/amp",
-      "publishedDateTime": "2020-06-21T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
-      "title": "How Ethical Is Your AI?",
-      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Ethical Is Your AI?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
-      "publishedDateTime": "2020-06-21T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
-      "title": "Model inference using TensorFlow and TensorRT",
-      "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/inference/resnet-model-inference-tensorrt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Model inference using TensorFlow and TensorRT",
           "attribution": null,
           "isCached": true
         }
@@ -827,14 +488,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T21:56:00-07:00",
+      "publishedDateTime": "2020-07-09T18:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -850,228 +511,38 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-what-to-know-about-computer-vision-syndrome.md",
-      "title": "What To Know About Computer Vision Syndrome",
-      "excerpt": "Computer vision syndrome (CVS) is the term for a group of eye and vision-related problems that develop following the prolonged use of devices with digital screens.",
-      "sourceUrl": null,
-      "webUrl": "https://southfloridareporter.com/what-to-know-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/southfloridareporter/wp-content/uploads/2020/06/20183231/asian-woman-worker-eye-pain-with-eyeglasses_34670-739.jpg",
-          "width": 626,
-          "height": 417,
-          "title": "What To Know About Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SouthFlorida Reporter",
-        "domain": "southfloridareporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
-      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
-      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
+      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
+      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
+      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
+      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
+          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
           "width": 600,
-          "height": 350,
-          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+          "height": 337,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
-      "publishedDateTime": "2020-06-20T19:46:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "publishedDateTime": "2020-07-09T18:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
-      "title": "What does that tattoo mean? AI app decodes extremist political symbols",
-      "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/6V802LNr692jWjxRHZJDKMoiJEo=/756x567/2020/06/19/db54e33c-a93f-42a3-abe1-888a4258a06c/gettyimages-863111282.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "What does that tattoo mean? AI app decodes extremist political symbols",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "publishedDateTime": "2020-06-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
-      "title": "Dangerous AI algorithms and how to recognize them",
-      "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Dangerous AI algorithms and how to recognize them",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
-      "publishedDateTime": "2020-06-20T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-20-pakistani-man-wins-facebook-ethics-in-ai-research-award.md",
-      "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
-      "excerpt": "A scholar Junaid Qadir from Pakistan has become the winner of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/20/Pakistani-scholars-win-Facebook-Ethics-in-AI-Research-award.png",
-          "width": 640,
-          "height": 356,
-          "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/",
-      "publishedDateTime": "2020-06-20T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1081,17 +552,56 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
-      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-      "excerpt": "It features UI-driven AutoML capability with sophisticated but intuitive controls, allowing users to quickly configure the software, obtain results, tune and iterate. New visualization and ...",
+      "path": "_news/2020-07-10-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
+      "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
+      "excerpt": "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),",
       "sourceUrl": null,
-      "webUrl": "https://www.newkerala.com/news/2020/90361.htm",
+      "webUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
+      "publishedDateTime": "2020-07-09T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-automated-machine-learning-is-the-rising-star-of-ai-driven-industrial-analytics.md",
+      "title": "Automated Machine Learning is the Rising Star of AI-Driven Industrial Analytics",
+      "excerpt": "To that end, our SKF Enlight AI maintenance 4.0 solution is built on Automated Machine Learning (AutoML). Freddy Hernandez, Director Connected Technologies at SKF explains. Unscheduled downtime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/automated-machine-learning-is-the-rising-star-of-ai-driven-industrial-analytics-2020-07-10",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1100,11 +610,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T17:00:00-07:00",
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Kerala",
-        "domain": "newkerala.com",
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1119,34 +629,43 @@
       ]
     },
     {
-      "path": "_news/2020-06-20-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "path": "_news/2020-07-10-deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive.md",
+      "title": "DeepMind's 'StarCraft' Victory Was as Worrying as It Was Impressive",
+      "excerpt": "At the risk of underselling everything that preceded it, the real Oh Shit moment of DeepMind’s StarCraft II demonstration didn’t arrive until the ninth game. To be fair, the entire event had ...",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "webUrl": "https://www.vice.com/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": "TensorFlow Robot Recognizes Objects",
+          "url": "https://video-images.vice.com/articles/5c5b566ffdd31300072783c6/lede/1549489801706-LegacyoftheVoid2.png?crop=1xw:0.9302325581395349xh;center,center",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T17:00:00-07:00",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1156,10 +675,50 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "TensorFlow"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-tesla-near-autonomous-vehicles-goal-musk-says.md",
+      "title": "Tesla near autonomous vehicles goal, Musk says",
+      "excerpt": "Tesla Inc CEO Elon Musk speaks in a video during the opening ceremony of the World Artificial Intelligence Conference in Shanghai ... Tesla is racing against the likes of Alphabet Inc’s Waymo and General Motors Co’s Cruise to attain the pinnacle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2020/07/10/2003739659",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2020/07/10/P10-200710-317.jpg",
+          "width": 1181,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],
-  "nextPage": 86
+  "nextPage": null
 }

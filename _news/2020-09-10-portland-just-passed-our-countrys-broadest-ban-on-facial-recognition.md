@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon Spent $24,000 To Kill Portland's Facial Recognition Ban"
-    excerpt: "The legislation would be the strongest ban on the technology in the US, blocking both government and commercial use."
-    publishedDateTime: 2020-09-09T19:15:00Z
-    webUrl: "https://www.vice.com/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/g5p9z3/amazon-spent-dollar24000-to-kill-portlands-facial-recognition-ban"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com//articles/5f592142fafbbe00943f97f5/lede/1599678133842-gettyimages-1220178244.jpeg?crop=1xw:0.8665xh;0xw,0.0392xh"
-        width: 5037
-        height: 2829
-        isCached: true
   - title: "Portland, Oregon, passes toughest ban on facial recognition in US"
     excerpt: "The ordinance outlaws the use of facial recognition not only by government agencies, but also by private businesses."
     publishedDateTime: 2020-09-10T00:47:00Z

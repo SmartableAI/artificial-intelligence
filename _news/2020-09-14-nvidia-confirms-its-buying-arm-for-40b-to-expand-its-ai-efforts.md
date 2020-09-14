@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA acquires chip maker Arm for $40 billion"
-    excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
-    publishedDateTime: 2020-09-14T04:58:00Z
-    webUrl: "https://www.sify.com/finance/nvidia-acquires-chip-maker-arm-for-40-billion-news-topnews-ujoe4Bfjbjdbf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_ians_ujofyhbcgidcd.jpeg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Nvidia to buy Arm for up to $40B, combining smartphone, GPU powerhouses"
     excerpt: "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology."
     publishedDateTime: 2020-09-14T01:45:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/dreamstime_s_164869732_1.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
+    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-14T13:39:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 25
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DvJsKx8sd9hpfJsrwgSpzSzGimjRZZWPRww/pkXFABPPpYf4LhYnvGewsM7FfvmtUpxsKiCJfPsKGx+jR0kqap12hkwxQ1W/oHI6Qfg2dymAeriHR41nNLdMZNP88bnz0+N+9xYn3Wq7AIWQs+gFj+fdHxOaZv1fH2oBolOthyZ+rJomGJie3k4p17A999BHRz7XdpK5bBnEiHQKVtu9cdWlFYBP40J1UFM5Yim9tGsx7dJ1ynMRH42JLYYK6QtAvAEHHI9+QmjXDjrum+onaryMVBp77+6/dXk0htEDEfvG5YBMkglT/+gt0qk2jPY1tppj3we21BfKommk4JrjcfKNZkMVFCIIlSmOJJ38yYkIUikd7M4eoIFdSLSI58+t/9FQlA7AenLwuR2X/ghxBkC7MQGI7RoaXthL8c3Wr8zdGD61XhGwgSXdL07qtxx8YdVLwEhtrUPnoZGofIZlBmgwxBH56vk+1vvQHjBs1Vxb65FVG1XbCdsYseaIWICjvuk5PSpyjgSsDHJNlLvSYw==;mMYYQKTqntxlW5lbFU6L+A=="

@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-31-getting-started-with-the-amazon-kendra-sharepoint-online-connector.md",
+      "title": "Getting started with the Amazon Kendra SharePoint Online connector",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning (ML). To get started with Amazon Kendra, we offer data source connectors to get your documents easily ingested and indexed. This post describes how to use Amazon Kendra’s SharePoint Online connector.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/4-Select-connector-type.jpg",
+          "width": 900,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T12:14:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-30-theres-not-a-company-name-cute-enough-to-mask-the-dark-side-of-corporations.md",
       "title": "There’s Not a Company Name Cute Enough to Mask the Dark Side of Corporations",
       "excerpt": "Businesses today — with their fuzzy, friendly names — all seem to want to cozy up to you. But there are plenty of reasons to keep your distance.",
@@ -1300,47 +1350,6 @@
       "provider": {
         "name": "Armed robbery in Revesby",
         "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability.md",
-      "title": "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability",
-      "excerpt": "Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

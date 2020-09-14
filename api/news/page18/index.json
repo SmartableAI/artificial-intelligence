@@ -2,6 +2,767 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-08-30-watch-elon-musks-ai-brain-chip-startup-neuralink-debut-its-massively-hyped-technology.md",
+      "title": "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology",
+      "excerpt": "PGlmcmFtZSBzcmM9Ii8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL0RWdm1nakJMNzR3ICIgc3R5bGU9IndpZHRoOjY1NnB4OyBoZWlnaHQ6IDM2OXB4OyIgZnJhbWVib3JkZXI9IjAiPjwvaWZyYW...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.markets.businessinsider.com/image/5f49d29e60bf1f002807959f-2400/Screen-Shot-2020-08-28-at-5.58.08-PM.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
+      "publishedDateTime": "2020-08-29T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-30-human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning.md",
+      "title": "Human meets AI: Intel Labs team pushes at the boundaries of human-machine interaction with deep learning",
+      "excerpt": "Working with a variety of technologies, including GPT-2, OpenAI's generative deep learning model for text, Nachman and team are pushing at the boundaries of how a person can exist in a give and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/29/3f7c04f8-4ea3-4718-bb58-fa91c8069d7a/peter-scott-morgan-cardiff-productions-690x460.jpg",
+          "width": 690,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/human-meets-ai-intel-labs-team-pushes-at-the-boundaries-of-human-machine-interaction-with-deep-learning/",
+      "publishedDateTime": "2020-08-29T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-ai-startup-what-you-need-for-your-investor-pitch-deck.md",
+      "title": "AI Startup: What You Need For Your Investor Pitch Deck",
+      "excerpt": "The funding environment for AI startups remains robust—and some of the rounds have been substantial. Just recently Dataiku, which operates a machine learning platform, announced a $100 million Series D investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4a87023f7672338024f9e6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D292%26cropY2%3D3532",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/29/ai-startup-what-you-need-for-your-investor-pitch-deck/amp/",
+      "publishedDateTime": "2020-08-29T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-chinas-new-ai-trade-rules-could-hamper-a-tiktok-sale.md",
+      "title": "China's new AI trade rules could hamper a TikTok sale",
+      "excerpt": "The Wall Street Journal reports that China has unveiled new restrictions on AI technology exports that could affect TikTok. The new rules bar the exports of tech like content suggestions, text analysis and voice recognition unless a company receives a license — technology TikTok uses in some cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
+      "originalUrl": "https://www.engadget.com/china-ai-export-limits-may-hamper-tiktok-172639213.html",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F42864630-dc4d-11ea-b7f7-87020bf464f2&client=amp-blogside-v2&signature=5e113a2016f80a0bb00111527d139e0e2c2b39a6",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-ai-export-limits-may-hamper-tiktok-172639213.html",
+      "publishedDateTime": "2020-08-29T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-how-to-tell-if-computer-vision-can-transform-your-business.md",
+      "title": "How to tell if computer vision can transform your business",
+      "excerpt": "As computer vision proliferate across new sectors, business leaders should be assessing how it could impact the trajectory of their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
+      "originalUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/29/how-to-tell-if-computer-vision-can-transform-your-business/amp/",
+      "publishedDateTime": "2020-08-29T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-google-cloud-updates-anthos-with-bare-metal-and-hybrid-ai.md",
+      "title": "Google Cloud Updates Anthos With Bare Metal And Hybrid AI",
+      "excerpt": "Google updates Anthos for bare metal, which lets Anthos run on-prem and at edge locations without a hypervisor, and brings Speech-to-Text On-Prem to Anthos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f207f7e16412747cf53f32f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5315%26cropY1%3D269%26cropY2%3D3260",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/08/29/google-cloud-updates-anthoswith-bare-metal-and-hybrid-ai/amp/",
+      "publishedDateTime": "2020-08-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
+      "title": "Google offers to help others with the tricky ethics of AI",
+      "excerpt": "The company plans to launch new AI ethics services before the end of the year. Initially, Google will offer others advice on tasks such as spotting racial bias in computer vision systems or developing ethical guidelines that govern AI projects.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/ai-artificial-intelligence-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-artificial-intelligence-is-the-next-top-gun.md",
+      "title": "Artificial Intelligence Is the Next Top Gun",
+      "excerpt": "We were both skeptical that the artificial intelligence program that would be piloting one of the virtual aircraft would be able to outfight the human pilot, call sign “Banger,” from the Air Force's equivalent of the Navy’s legendary TOPGUN fighter-tactics instruction program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjdmh0OUMWc/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-08-29/u-s-and-china-ai-is-the-next-top-gun",
+      "publishedDateTime": "2020-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-lexinfintech-wins-the-asian-banker-award-for-best-ai-and-innovation-lab-in-china.md",
+      "title": "LexinFintech Wins The Asian Banker Award for Best AI and Innovation Lab in China",
+      "excerpt": "(GLOBE NEWSWIRE) -- LexinFintech Holdings Ltd. (“Lexin”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, has been awarded the Best AI and Innovation Lab Award in China by The Asian Banker,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
+      "originalUrl": "https://apnews.com/e56ee21690d6c6819cb428bd14d8c958",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-29T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-robot-boats-leave-autonomous-cars-in-their-wake.md",
+      "title": "Robot Boats Leave Autonomous Cars in Their Wake",
+      "excerpt": "Driverless ships don’t have to worry about crowded roads. And they don’t need bunks—or toilets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226255/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
+      "publishedDateTime": "2020-08-29T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-elon-musks-neuralink-brain-computer-watch-working-demo-replay.md",
+      "title": "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay",
+      "excerpt": "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=sr8hzF3j2fo",
+      "originalUrl": "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-how-to-watch-working-demo-reveal-live/",
+      "featuredContent": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.md",
+      "title": "Stocks start September in high gear as Apple and Tesla split, and markets await the August jobs report",
+      "excerpt": "Stocks could start the historically weak month of September on an upswing, after what is so far the best August for the S&P 500 since 1986.",
+      "sourceUrl": null,
+      "webUrl": "https://jobs.apple.com/en-us/search?search=%23aimlresidency&sort=relevance",
+      "originalUrl": "https://www.cnbc.com/2020/08/28/stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.html",
+      "featuredContent": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour.md",
+      "title": "Facial recognition technology is biased with higher error rates against people of colour",
+      "excerpt": "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "originalUrl": "https://scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/124346-kfgetldkjs-1598371183.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/971374/facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour",
+      "publishedDateTime": "2020-08-28T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
+      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
+      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
+          "width": 600,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "publishedDateTime": "2020-08-28T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-le-machine-learning-automatise-va-t-il-remplacer-le-data-scientist.md",
+      "title": "Le machine learning automatisé va-t-il remplacer le data scientist",
+      "excerpt": "DataRobot, Google AutoML, H2O.ai... Les solutions d'automated machine learning se multiplient depuis quelques années. Leur ambition ? Automatiser la création de modèles d'apprentissage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
+      "originalUrl": "https://www.journaldunet.com/solutions/dsi/1493101-le-machine-learning-automatise-va-t-il-remplacer-les-data-scientists/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-0.journaldunet.com/Cihe4Jc1q_3pnLXW_i67tdAQY7Y=/540x/smart/63c71b725da14af3ab53c43b85a79543/ccmcms-jdn/17238006.jpg",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "journaldunet.com",
+        "domain": "journaldunet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-how-amazons-new-health-tracker-will-use-ai-to-monitor-your-tone-of-voice.md",
       "title": "How Amazon’s new health tracker will use AI to monitor your tone of voice",
       "excerpt": "Amazon's Halo will include a feature called Tone that offers users feedback about how happy or tired they sound.",
@@ -430,745 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars.md",
-      "title": "It Is Nearly Unthinkable That ‘I Think, Therefore I Am’ Applies To AI, Possibly Even Self-Driving Cars",
-      "excerpt": "You have undoubtedly heard the famous phrase “I think, therefore I am.” Written oftentimes in its Latin form, the saying is known as ergo cogito, ergo sum. If you want to be smarmy and impress your friends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F599006572%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D4903%26cropY1%3D0%26cropY2%3D3463",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/amp/",
-      "publishedDateTime": "2020-08-28T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-facial-recognition-tech-a-safe-way-forward-for-policing-retail-business.md",
-      "title": "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business",
-      "excerpt": "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
-      "originalUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
-      "publishedDateTime": "2020-08-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
-      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
-      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
-      "publishedDateTime": "2020-08-28T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-memers-are-making-deepfakes-and-things-are-getting-weird.md",
-      "title": "Memers are making deepfakes, and things are getting weird",
-      "excerpt": "Grace Windheim had heard of deepfakes before. But she had never considered how to make one. It was a viral meme using the technology that led her to research the possibility—and discover that it was super easy and completely free.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
-      "originalUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
-      "featuredContent": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/deepfakememes.jpg?w=1920",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
-      "publishedDateTime": "2020-08-28T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open.md",
-      "title": "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open",
-      "excerpt": "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c7/0c7d77e7-796c-5913-920d-0aa2dd75f7ba/5f491c9243677.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach.md",
-      "title": "Deepfake reality check: AI avatars set to transform business and education outreach",
-      "excerpt": "AI avatars and synthetic video production could provide organizations with entirely new capabilities for training and multilingual global communication in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "originalUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "publishedDateTime": "2020-08-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live.md",
-      "title": "How Kabbage processed $7 billion in Paycheck Protection Program loans with machine learning (VB Live)",
-      "excerpt": "Using ML, Kabbage processed almost 300,000 PPP loans by the time the program ended, making it the second largest issuer of PPP loans in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1258025082.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "publishedDateTime": "2020-08-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-apple-launches-aiml-residency-program-to-attract-niche-experts.md",
-      "title": "Apple launches AI/ML residency program to attract niche experts",
-      "excerpt": "The company behind Siri is looking for U.S. and European residents with programming and niche science backgrounds to immerse in the world of AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/apple-siri.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/apple-launches-ai-ml-residency-program-to-attract-niche-experts/amp/",
-      "publishedDateTime": "2020-08-28T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ais-role-in-digital-transformation-for-financial-services.md",
-      "title": "AI's Role in Digital Transformation for Financial Services",
-      "excerpt": "As we look to the future, and the possible shocks yet to come, what role does AI have to play in this mission, and what broader digital transformation is needed to ensure these organizations stay stable and continue their growth?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
-      "originalUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ais-role-in-digital-transformation-for-financial-services-2020-08-28?amp",
-      "publishedDateTime": "2020-08-28T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
-      "title": "Google Offers to Help Others With the Tricky Ethics of AI",
-      "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "originalUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "publishedDateTime": "2020-08-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-are-robots-eating-our-jobs-not-according-to-ai.md",
-      "title": "Are Robots Eating Our Jobs? Not According To AI",
-      "excerpt": "AI is replacing jobs while creating new ones and new job roles — profound benefits to the global economy await their arrival.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "publishedDateTime": "2020-08-28T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-us-open.md",
-      "title": "IBM will use AI to pipe in simulated crowd noise during the U.S. Open",
-      "excerpt": "IBM plans to apply AI and machine learning solutions to new challenges brought on by the pandemic during the 140th U.S. Open.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "publishedDateTime": "2020-08-28T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud.md",
-      "title": "US Open won't have spectators, but it will have IBM's AI and hybrid cloud",
-      "excerpt": "Fans will be able to use IBM's new tech features as they watch the Grand Slam event from home this year.  This year, IBM has developed three new tennis-based digital experiences for fans of the US Open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "originalUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "publishedDateTime": "2020-08-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-the-duke-reporters-lab-used-the-political-conventions-to-perfect-its-automated-fact-checking-program.md",
-      "title": "How the Duke Reporters’ Lab used the political conventions to perfect its automated fact-checking program",
-      "excerpt": "The eight nights of both political conventions provided the perfect soil to see how well Gardener could improve Squash.",
-      "sourceUrl": null,
-      "webUrl": "https://reporterslab.org/tech-and-check/",
-      "originalUrl": "https://www.poynter.org/fact-checking/2020/how-the-duke-reporters-lab-used-the-political-conventions-to-perfect-its-automated-fact-checking-program/",
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://reporterslab.org/wp-content/uploads/2020/02/Squash-logo.001-4.jpeg",
-          "width": 499,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poynter",
-        "domain": "poynter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
-      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
-      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png",
-          "width": 813,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
-      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
-      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
-          "width": 678,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "publishedDateTime": "2020-08-28T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

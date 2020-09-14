@@ -2,6 +2,716 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
+      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
+      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
+      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
+      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
+      "title": "Why organizations might want to design and train less-than-perfect AI",
+      "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "originalUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/imperfect-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
+      "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
+      "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Platform_angle_full.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "publishedDateTime": "2020-08-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
+      "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
+      "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "publishedDateTime": "2020-08-05T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems.md",
+      "title": "Bulawayo based firm partners with Chinese company on facial recognition systems",
+      "excerpt": "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg",
+          "width": 665,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
+      "publishedDateTime": "2020-08-05T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techzim",
+        "domain": "techzim.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine.md",
+      "title": "Deep Learning Market 2019 Demand Industry Growth by Forecast to 2024 – Market Research Engine",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020.md",
+      "title": "Behavioral Signals Named as a Sample Vendor in the Gartner Hype Cycle for Natural Language Technologies, 2020",
+      "excerpt": "Natural language process (NLP), Large-Scale Pretrained Language Model, Natural Language Processing(NLP) and Natural Language Understanding also have similar adoption rates. Emotion AI technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "publishedDateTime": "2020-08-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Innovations, Trends, Technology And Applications Market Report To 2020-2025",
+      "excerpt": "Artificial Intelligence (AI) refers to the creation ... clinical practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-ai-chip-market-set-for-rapid-growth-to-reach-cagr-of-over-449-by-2030-nvidia-xilinx-ibm.md",
+      "title": "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM",
+      "excerpt": "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india.md",
+      "title": "Airtel, AWS join hands to accelerate digital transformation of business in India",
+      "excerpt": "New Delhi: Bharti Airtel (“Airtel”), one of India’s largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orissadiary.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "publishedDateTime": "2020-08-05T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications.md",
+      "title": "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications",
+      "excerpt": "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp",
+      "publishedDateTime": "2020-08-05T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-make-ai-enhance-your-productivitynot-a-surveillance-state.md",
+      "title": "Make AI Enhance Your Productivity—Not A ‘Surveillance State’",
+      "excerpt": "Artificial intelligence is a powerful tool that can augment employees' experience in the workplace. But, like any tool, it needs to be stewarded properly. Make AI work for you by using it to amplify your productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2a47138f73fb534f393965%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/amp/",
+      "publishedDateTime": "2020-08-05T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-your-amazon-echo-speaker-just-got-blocked-from-using-a-vital-new-feature.md",
+      "title": "Your Amazon Echo speaker just got blocked from using a vital new feature",
+      "excerpt": "AMAZON confirms that it has blocked Echo owners in the UK from using a useful feature that went live late last month. Those who signed up to the Alexa Guard service before it was pulled are now being offered compensation as a gesture of goodwill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.com/b?ie=UTF8&node=18021383011",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized_layout1._CB468670774_.png",
+          "width": 350,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-amazon-sagemaker-tensorflow-.md",
+      "title": "如何用Amazon SageMaker 做分布式 TensorFlow 训练？（千元亚马逊羊毛可薅）",
+      "excerpt": "Amazon SageMaker 是一项托管服务，可通过主动学习、超参数优化、模型分布式训练、监控训练进展，部署培训模型作为自动扩展的 RESTful 服务，以及对 ...",
+      "sourceUrl": null,
+      "webUrl": "https://tech.sina.com.cn/roll/2020-08-05/doc-iivhvpwx9330576.shtml",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://n.sinaimg.cn/front20200805ac/740/w1080h460/20200805/f373-ixkvvuc1691042.jpg",
+          "width": 1080,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "新浪网",
+        "domain": "sina.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-engineer-who-took-googles-self-driving-secrets-to-uber-sentenced-to-18-months.md",
       "title": "Engineer who took Google's self-driving secrets to Uber sentenced to 18 months",
       "excerpt": "Former Uber engineer Anthony Levandowski has been sentenced to 18 months' imprisonment after pleading guilty to stealing trade secrets from Waymo, Google's self-driving car division. He's also agreed to pay over $756,",
@@ -395,765 +1105,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-the-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as the most serious AI crime threat",
-      "excerpt": "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "publishedDateTime": "2020-08-04T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate.md",
-      "title": "IDC: AI market revenues continue to grow but at a slower rate",
-      "excerpt": "IDC has said that it expects to see worldwide revenue in the artificial intelligence (AI) market rise this year by around 12.3% compared to 2019. With the increase factored in, the analyst said that the market could see $156.5 billion in revenue this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/08/1596574155_1920px-international-data-corporation-logo.svg_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "publishedDateTime": "2020-08-04T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-behind-the-code-meet-young-suk-lee.md",
-      "title": "Behind the Code: Meet Young-Suk Lee",
-      "excerpt": "\nYoung-Suk Lee first learned about machine translation while studying English linguistics and literature. Now as a machine translation developer, she works on the multilingual systems that power Watson Language Translator. We talked to her about her first exposure to machine learning tech, the themes",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/2020_07_28_Blog_BehindTheCode_YoungSukLee_Leadspace.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T14:17:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-helps-doctors-fight-covid-19-in-brazil.md",
-      "title": "AI Helps Doctors Fight Covid-19 in Brazil",
-      "excerpt": "Under-testing remains a huge problem in the sprawling South American country, but AI is helping fill the gap, thanks to a system called RadVid-19 developed using algorithms from German company Siemens and Chinese firm Huawei. Brazil has been hit harder by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/Virus.Favela-scaled.jpg?fit=2560%2C1707&#038;ssl=1",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "publishedDateTime": "2020-08-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection.md",
-      "title": "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection",
-      "excerpt": "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook",
-          "width": 1645,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-university-of-chicago-researchers-are-building-a-tool-to-protect-your-pictures-from-facial-recognition-systems.md",
-      "title": "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems",
-      "excerpt": "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "publishedDateTime": "2020-08-04T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
-      "title": "Federal bill would ban corporate facial recognition without consent",
-      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "publishedDateTime": "2020-08-04T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models.md",
-      "title": "The problem of underrepresented languages snowballs from data sets to NLP models",
-      "excerpt": "Just how comprehensively do natural language processing (NLP) pipelines support widely spoken languages? A recent study coauthored by researchers at Clarkson University and Iona College sought to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "publishedDateTime": "2020-08-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-bernie-sanders-and-jeff-merkley-have-a-plan-to-protect-you-from-facial-recognition.md",
-      "title": "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition",
-      "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "publishedDateTime": "2020-08-04T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
-      "title": "Key brain region was 'recycled' as humans developed the ability to read",
-      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
-      "title": "The survivor: last Korean war criminal in Japan wants recognition",
-      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
-          "width": 799,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN25002W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W",
-      "publishedDateTime": "2020-08-04T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps.md",
-      "title": "Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps",
-      "excerpt": "Microsoft’s venture capital fund, M12 Ventures, has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/amp/",
-      "publishedDateTime": "2020-08-04T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model.md",
-      "title": "Microsoft researchers claim ‘state-of-the-art’ biomedical NLP model",
-      "excerpt": "Microsoft researchers propose a new training technique that achieves state-of-the-art performance in natural language processing biomedical tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
-      "publishedDateTime": "2020-08-04T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-driven-fitness-making-gyms-obsolete.md",
-      "title": "AI-Driven Fitness: Making Gyms Obsolete?",
-      "excerpt": "And a staggering 80% of men are exercising more now without access to their gyms than before Covid-19, according to data from Freeletics, an AI-based fitness app with 47 million users in over 160 countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f298efbe2252631e7028543%2F0x0.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
-      "publishedDateTime": "2020-08-04T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ford-ceo-jim-hackett-is-retiring.md",
-      "title": "Ford CEO Jim Hackett is retiring",
-      "excerpt": "Ford and other legacy automakers have spent the last few years grappling with potentially existential threats like Tesla, self-driving cars, ride-hailing services, and micromobility. Hackett ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TJlhuNA0ndUDjHAg7UdM2sQvA-Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67153374/sokane_191117_3793_5957.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
-      "publishedDateTime": "2020-08-04T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks.md",
-      "title": "Kite brings its AI-powered code completions to Jupyter notebooks",
-      "excerpt": "Using AI to help developers is not an original idea. Nowadays you have startups like DeepCode offering AI-powered code reviews and tech giants like Microsoft working on applying AI to the entire ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/kite-jupyterlab-code-completions.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
-      "publishedDateTime": "2020-08-04T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

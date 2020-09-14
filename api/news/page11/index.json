@@ -2,6 +2,560 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-03-space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
+      "title": "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off",
+      "excerpt": "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
+      "publishedDateTime": "2020-09-03T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-doing-the-hard-things-ai-space-and-climate-science.md",
+      "title": "Doing The Hard Things: AI, Space, and Climate Science",
+      "excerpt": "This is not a time for an international arms race in AI. Rather, it is a time for collaboration across governments, corporate R&D, academia, and startups. It is a time to push the frontier of AI and space for climate science and humankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
+      "originalUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e4de532ba948991b167b8%2F0x0.jpg%3FcropX1%3D9%26cropX2%3D1084%26cropY1%3D662%26cropY2%3D1267",
+          "width": 1075,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/amp/",
+      "publishedDateTime": "2020-09-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-invest-in-miso-robotics-now-for-the-kitchen-of-the-future.md",
+      "title": "Invest in Miso Robotics Now for the Kitchen of the Future",
+      "excerpt": "Miso Robotics is focused on two red-hot areas of technology: artificial intelligence (AI) and yes, robotics. This helps explain why the startup has been so successful with its equity crowdfunding campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "originalUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03?amp",
+      "publishedDateTime": "2020-09-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-what-coronavirus-means-for-the-future-of-self-driving-cars.md",
+      "title": "What coronavirus means for the future of self-driving cars",
+      "excerpt": "It's 2025 and driverless cars still aren't zooming around everywhere. Where are the chilled out passengers on their phones, or napping, as an invisible \"driver\" navigates a crowded intersection? They're still mostly stuck in the backseat as a human driver shuttles them around.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F03%252F6f%252Fa6d4e4206f524273a456c835e927fc6a.f164f.jpg%252F1200x630.jpg?signature=Gkxu5UScrquIxeAET3ZxIXak-BE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicles-2025.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicles-2025.amp",
+      "publishedDateTime": "2020-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-garmin-catalyst-is-an-ai-racing-coach-that-that-literally-shows-you-how-to-be-faster.md",
+      "title": "Garmin Catalyst is an AI racing coach that that literally shows you how to be faster",
+      "excerpt": "Garmin's new performance analyzer coaches drivers to faster lap times by generating a seamless video based on captured race data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8L8TePMz_n4e-RBSBhQNYCc5Do8=/2020/09/02/af4cb264-c1ef-4bc6-b98b-1ff0bc1bc635/ogi-catalyst-hr-1002-4.jpg",
+          "width": 6290,
+          "height": 3302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "publishedDateTime": "2020-09-03T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025.md",
+      "title": "Artificial Intelligence in Retail Market Advancements and Business Opportunities 2020-2025",
+      "excerpt": "The report provides a detailed assessment of the 'Global Artificial Intelligence in Retail Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies.md",
+      "title": "NASA’s impressive new AI can predict when a hurricane intensifies",
+      "excerpt": "NASA has developed a machine learning model that, in tests, predicted when a hurricane will intensify more accurately than an existing operational model.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T103620.842-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "publishedDateTime": "2020-09-03T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
+      "title": "NITDA plans centre for artificial intelligence, robotics",
+      "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "publishedDateTime": "2020-09-03T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
+      "title": "The distributed cloud era has arrived",
+      "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cso_nw_cloud_computing_distributed_decentralized_network_connections_iot_internet_of_things_thinkstock_853701240_3x2_1500x1000-100801371-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
+      "title": "Using robotics and immersive technologies to support work-from-home employees",
+      "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/remote_worker_working_from_home_self_employed_contractor_freelancer_digital_nomad_by_allensima_gettyimages-1151404751_2400x1600-100853245-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-qualcomm-promises-better-ai-for-its-next-snapdragon-pc-chip.md",
+      "title": "Qualcomm promises better AI for its next Snapdragon PC chip",
+      "excerpt": "The Snapdragon 8cx Gen 2 follows up 2018’s Snapdragon 8cx, and back then the company said the “x” in the name stood for “extreme” power. While the actual performance promises of the Snapdragon 8cx Gen 2 don’t seem like a great leap forward,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "originalUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F69ee12e0-ed53-11ea-affb-7e404ac7d914&client=amp-blogside-v2&signature=713ef55e102c617daf5c8b3162330b9def48aa09",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "publishedDateTime": "2020-09-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic.md",
       "title": "AI In Aviation Market Key Insights Based on Product Type, End-use and Regional Demand Till 2023 | Impact of COVID-19 Pandemic",
       "excerpt": "AI In Aviation Market Research Report by Type (Hardware, Software, Services), Equipment (Autocollimator, Measuring Microscope, Profile Projector, and Others), Technology (Machine Learning, Natural Language Processing,",
@@ -616,579 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-low-code-can-lower-the-barrier-to-entry-for-ai.md",
-      "title": "Low-Code Can Lower the Barrier to Entry for AI",
-      "excerpt": "Organizations that want to get started quickly with machine learning may be interested in investigating emerging low-code options for AI. While low-code",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
-      "originalUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/low_code_shutterstock_Visual-Generation.jpg",
-          "width": 1000,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
-      "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
-      "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/bigstock-Football-field-114165206-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/amp/",
-      "publishedDateTime": "2020-09-02T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-hypatos-gets-118m-for-a-deep-learning-approach-to-document-processing.md",
-      "title": "Hypatos gets $11.8M for a deep learning approach to document processing",
-      "excerpt": "Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting startup,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-601035416.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
-      "publishedDateTime": "2020-09-02T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
-      "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
-      "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1027974140.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "publishedDateTime": "2020-09-02T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
-      "title": "Cognizant to acquire PE-backed 10th Magnitude",
-      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PE Hub",
-        "domain": "pehub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai.md",
-      "title": "iZotope’s new RX8 repair tool cleans up your noisy audio with AI",
-      "excerpt": "RX8, the latest release from the audio experts at iZotope, today launched with a bevvy of new features and an an updated interface. As you can guess from the sub-heading, I’m most excited about the all-new guitar de-noiser.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/RX8-796x487.jpg",
-          "width": 796,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
-      "publishedDateTime": "2020-09-02T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
-      "title": "How to make complicated machine learning developer problems easier to solve",
-      "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "publishedDateTime": "2020-09-02T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters.md",
-      "title": "Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters",
-      "excerpt": "Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/dogpose.jpg?w=1024",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "publishedDateTime": "2020-09-02T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants.md",
-      "title": "Trump plans to collect DNA, eye scans, and voice prints from immigrants",
-      "excerpt": "The Trump administration's plans to expand the collection of biometric data from immigrants would let the government \"surveil and target our communities.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/30020836983_181ebce05e_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "publishedDateTime": "2020-09-02T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-google-cloud-secures-us-military-ai-cancer-research-contract.md",
-      "title": "Google Cloud secures U.S. military AI cancer research contract",
-      "excerpt": "Google Cloud will provide AI for cancer diagnosis research and augmented reality microscopes to Veterans Affairs hospitals as part of a new contract.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/veterans-affairs-san-francisco.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
-      "publishedDateTime": "2020-09-02T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-getting-a-batch-job-completion-message-from-amazon-translate.md",
-      "title": "Getting a batch job completion message from Amazon Translate",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation is a form of language translation automation that uses deep learning models to deliver more accurate and natural-sounding translation than traditional",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/13/translatebatchpoller_arch.png",
-          "width": 842,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T10:32:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ttecs-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award.md",
-      "title": "TTEC's AI-powered Learning Solution Wins Disruptive Technology of the Year Award",
-      "excerpt": "TTEC's revolutionary proprietary RealPlay technology simulates real-world customer scenarios that associates experience before they take live calls A mix of AI-powered bot, interactive digital sandbox,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "publishedDateTime": "2020-09-02T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
