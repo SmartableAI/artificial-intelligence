@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2019/10/18/ef1aeddf-daa9-4a92-a203-d83689b1f7b9/gettyimages-10356842641.jpg"
-    width: 4256
-    height: 2832
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg"
+    width: 1055
+    height: 554
     isCached: true
 
-secured: "d2OapJGMy33uv8g2sapEV1h8zfIKgpeV3pCAM2KCn0nHwU1Lp1pdCWuxxAb4bfqB/Gnc56p4pGjOSdztVarwdmqWqesBNt8F0ldtdkPVRcU2bbv/y+GWJ+++OPCjHXtEWLzF6hbhAFmKVSX2wsHq8qrXtzlIfK5PL55WoxOeMIE+3qSzDYZMv8+ccGJ7DNq1EimgNJyaWFkJwKOlFrIWTiujr1RE/QKIHcMlmKXAPZVUQrT9fMAoH4wYJisVHLLkfGnMeW8eGSNLNyRlilVjc4y2z2uqjgm0jXpxglBmuAPGJ+55wO1SUnYaFUDPtV9xDtFZTa+rGboGtyC+z7UDtjNSMOz53zTtPvc7xtzho1LYWITXVH7M0Jc61bVB2ORSVgdJ72ugq+f3mTb5FsCtzOdxWjspYh+XRUpW8mwbiZF4PTDUYGVwsXkw555N/WVDUYPxItMQ8WlmpuTESvm5SyyMu90fpJWFF7Pl4rimlz0sv5GoiOLZ/w/dQrcJ7tRqfKKVJDfpi4jpos4Xi0MXlkVBCBNkxcS0DAEMMJPdeLQ=;JVe5Hsz6QTk+yeKMtRiUtA=="
+secured: "lmp79qt97VT0I4W6OdCsy8QdJcB65QoXA/ubUh29zCBZif+32JX7rj0YDkmQIRFMI1LDNNy1e/InQYr50cMnOcMh9R77k8v2uM4gqfvdWQMY4RA30Ial137WVIg7ZQwzXd1rWVKwFQTJbD67GJEJhhCaDu2bsaJkI4YA3e3Wg5BtzF88FR9JFFgSNx+W8+VjxTlHzhMK55lInjPdO5KzYZne6PnwNpmhLe1JHon2aHHFqLf2gFpcDezi2aPUGtwd/fwvdZ+q5ZaKNKb/SWXTQNAioTa3l8U/CPCPwWJtqKIlyWycrBRdJTzaWaIFliP5UKLzXu+2qPLHE6TOePY4+eeuXbVWHF7VBgxTM91pQQE=;q0Rq6BqGxMwiGAtKliWdEg=="
 ---
 

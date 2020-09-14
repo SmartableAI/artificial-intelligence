@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
         width: 1200
         height: 495
+        isCached: true
+  - title: "IBM calls for new controls to limit US facial recognition systems exports"
+    excerpt: "IBM has said the US Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-13T23:40:00Z
+    webUrl: "https://www.arnnet.com.au/article/682879/ibm-calls-new-controls-limit-us-facial-recognition-systems-exports/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 38
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_id_19577771__tomasz_bidermann__dreamstimecom.jpg"
+        width: 740
+        height: 483
         isCached: true
   - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
     excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "ARM: UK-based chip designer sold to Nvidia"
-excerpt: "UK-based computer chip designer ARM Holdings is being sold to the American graphics chip specialist Nvidia. The $40bn (£30.8bn) cash-and-stock deal has been struck by the firm's current owner, Japanese tech conglomerate Softbank,"
-publishedDateTime: 2020-09-13T23:43:00Z
-originalUrl: "https://www.bbc.com/news/technology-54142567"
-webUrl: "https://www.bbc.com/news/technology-54142567"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-54142567"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54142567"
+excerpt: "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of"
+publishedDateTime: 2020-09-14T01:37:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story"
+webUrl: "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54142567"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567"
 type: article
-quality: 89
-heat: 99
+quality: 59
+heat: 79
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI Hardware
@@ -47,7 +43,23 @@ related:
         width: 1366
         height: 762
         isCached: true
+  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T00:24:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
+        width: 1024
+        height: 549
+        isCached: true
 
-secured: "H0KG9cwm/DNvB9yaQr2A7Me0xv8Z53KiX4meOuwu1Do8clNM7hUGkdIS8rRGmlZ8dgzsfLEWLMDg0Kp460VHNwZswnS0vgJTMPi+9GiiAU4wmsgQM5o9rP0DAgjMgVUlh6Y3llY3MfAXg/+jgFgL6ke70sOGrxDAzPOOvx2wJON4h39iqkc9b0nL6QdJbemaEDCj5IqV1wvYECyI/LQDrX7Q2dB6UTVMajufBA3TXRK6Am7PauqsX8fXZR5XVQeThwNWfM+xTS6e/H3cDmuX6XMFDKzvXyEucaCVTWNCOp48wXEcc3aNeoew6JFxL670/OP5j6ZlfJuMt5C7fmhUCftX0JgcN5KIvoq7XFJkYDk=;VNY9afEPMzJVK8IOofP6tQ=="
+secured: "0ueTKjXQT9h+yd9ZaaooeIc7cP9JNA2b1mHYKe5QLbT0I7ra8eehQv5cAWGTuTXyKtKPL6ynzFXjQjv5gpFqxiAThdY2+ceNDm8o6VFDqY61t6tOER2PUh6U6YBlx1ZSqaP7LvghZOSmhQvV5ZbM/0K6MfqCAOTi5fD1mvtvD5FB3oSczIabzMOYavS/t1RovpsG5QtlvvvkRPzVGp56EZ+5tVocWQYtIDQ5kgrJVRZ6IyByolYZbqcNvkNy4SOue/RTn43kys294NdQMEmu51AeWcdFeeKqeT4Uqo+u6vvWawnhniz5MuMWrtwc5lzZdIxp0GD81lQIDshplkRX24wmelYeeN8+CvkoO3Ve+tg=;D0xY+96HE4SXWmA6L7ty3A=="
 ---
 

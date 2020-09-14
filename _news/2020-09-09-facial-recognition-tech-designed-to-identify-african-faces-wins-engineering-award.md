@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-tech-designe
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -62,34 +62,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/9/b2/9b219aca-f2b3-11ea-a402-57cc48af7413/5f58f907707d3.image.jpg?crop=588%2C481%2C0%2C926"
         width: 588
         height: 481
-        isCached: true
-  - title: "Council to consider banning Face Recognition Technologies"
-    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
-    publishedDateTime: 2020-09-09T08:39:00Z
-    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
-    type: article
-    provider:
-      name: Portland Tribune
-      domain: pamplinmedia.com
-    quality: 39
-    images:
-      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
-    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
-    publishedDateTime: 2020-09-09T07:55:00Z
-    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
-        width: 4000
-        height: 2110
         isCached: true
 
 secured: "SuFQs35TvbWnCr3W5FdttomJPd2xVIt6zSRBhpU86PlkKVSjCGDICH4nRgqlETyox3kKnNajj4AHntJL/SgtpdV8syA3LIwXlTZ2HtLbTS2zjLNoYSFwqAMP10SUD5snvru0FUx6YwEqOfKdLgOP2CZxryMZeC9V+iZdNJB+V0ilRI1abyli6VzLkbaej0aYmCcFfxIOxQe947qQg0Zx7tMttMP5alrAfDHSPkUe+bjMYav9PNiHMzDZDfNcsQa4kWZ3MFjFiZknUuMbxYPR8Y8DIFAIYxUkUCtRgXdd7jpQ3Dtwhmaq2uVxMoeEDQ/5BGOaZkjYZpHiE9+yptLdUtSrquQWTNFHR6oA4X2Gg5VZjjuGRF/5imP+8SOqzqe+Y3FnFBgscaeYQrkCr4KXx3KQsZ+Nh5FBGzJmpymx7UuV7ilzOGtUEnsd97tEkgDMlNoYuSvu42UkTuAW9ieYiqUrJKLdFUG3kz6ie6pI1vZNlWBvVzNZgfkonYU9mG+H7WGCbnVHRfiuIbtWDqqZ5bdkjjoNXrdLcwhgj9LVNd4=;gU4km2gTmJn2h2nb3edA4Q=="

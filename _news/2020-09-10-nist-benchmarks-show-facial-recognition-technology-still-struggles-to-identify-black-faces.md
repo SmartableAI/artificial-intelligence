@@ -63,34 +63,6 @@ related:
         width: 588
         height: 481
         isCached: true
-  - title: "Council to consider banning Face Recognition Technologies"
-    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
-    publishedDateTime: 2020-09-09T08:39:00Z
-    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
-    type: article
-    provider:
-      name: Portland Tribune
-      domain: pamplinmedia.com
-    quality: 39
-    images:
-      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
-    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
-    publishedDateTime: 2020-09-09T07:55:00Z
-    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
-        width: 4000
-        height: 2110
-        isCached: true
 
 secured: "t2QBje/qzDbeABb4n+cz7509vcblwzlFe2efkzinVx+mln0RGmGA5/CD3VtbBcgC+T+d/v6xh0SkN1TN2XfuST+G6fswxkICV46iUo7jvw3SIh5pMzM9xPerekHO2wIehaWiUpbtFGuXItjjIrp9SVKuABrE0/gtsUEAxTS47RRs0WdmixHaJbBxHO5QJtnhqMqxFqCW+7PVGwOfvsxVayEu/4+47G301e3vruqgLpFv3w4AwDWToLwgTcGncxzrlMkbNm2Lnbx3rqft3ywpQchkDxBu9OQqZYpVydJdPKSecIIllItp3T79z2E4i986s/YlQMrJv7V1Go0IhkH3V4h5pE33G+fVYxlDd35APPe+aDf+tg+S9j1y5n9y8KS2qSAjnAxY6ctGsXuP3ewGSEMcL6KsWS376fkhkZPET5XgF8SzxTw58NRCJLyLEJskMSh/agLIpdFp0uzZSLJEYlo2tvdpM5ZHYeQLyR+uD9PAJjZdDWqkYGtchB9juS6gCpwIGqI5pFkj0pPhvCnZMh3Fm426orblnWZulltV4Cw=;KcUnBz5/ZdsgvDt2qPMfxA=="
 ---

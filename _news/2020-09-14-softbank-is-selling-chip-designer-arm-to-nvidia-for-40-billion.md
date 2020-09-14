@@ -28,22 +28,38 @@ images:
 
 related:
   - title: "ARM: UK-based chip designer sold to Nvidia"
-    excerpt: "UK-based computer chip designer ARM Holdings is being sold to the American graphics chip specialist Nvidia. The $40bn (£30.8bn) cash-and-stock deal has been struck by the firm's current owner, Japanese tech conglomerate Softbank,"
-    publishedDateTime: 2020-09-13T23:43:00Z
-    webUrl: "https://www.bbc.com/news/technology-54142567"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-54142567"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54142567"
+    excerpt: "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of"
+    publishedDateTime: 2020-09-14T01:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54142567"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 89
+      domain: bbc.co.uk
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_113835808_armchip.jpg"
         width: 1024
         height: 576
         isCached: true
+  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T00:24:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
+        width: 1024
+        height: 549
+        isCached: true
 
-secured: "7jjzKmTv18QdOYWR3R8Cdv9Ho+unCE6BzsQ/YA4WmecAgCb1oAD4QyZkCHPQpyFKBmudSi73Eh2yVs/ZrVgRhuq0ROrkIbzj9o1OJDzRE2vbUB/PJvbw1ZZszLCx8HyM9QqnOO/+7kkwzEh3bHORqlXNPtGB/HX6366sqGyqqcU9/oL9uRImBz4BgobS6BnD4JKeucxxquQyPy1kFQ/o+nLYD/hZIm/3vFUaCTDpcmx003H6AiDtK8ZI+ArsOnQjiy3yMecBizCnkTPC3hFKARg8U9gkdB06ATX5oZiFLucN2HAFDjvCPs2kx4GZdQdUJdeISb44JLkVHkNe2p0RgGorlH0lkQ2MfX/T+zO/kRE=;7AX+v3fqZ1fr80TDkcg/qQ=="
+secured: "8BHuoU9zwtG/KnJ7B3yTW5n3vLFoTd/xUEcLTDrKFY0pBoFFZKU4l+AIlvfQta2nt0Tb0wRkf5FJ1zggDvUbPKujnrwE8xqOsoMng3cFL3lBpdti3SVXc4u/NPyIQpSkTny4APnS/E4XiF6rK/H0RQs/W+WQTqOUp0LsldYd35jI64lZxBQw+mVHV8T3gLg8ETfhrS2zSaZMqxwPx577S/jSZgMDT2g7Jmp8H56m1o1sdbGu5JDbEkbGtI4Kj3sbWHkOuQdtefK8BgC8sFhL3YOceqFpAf1MUHgcw2vDATMm4lUc/hnitOT2VCw/lC+3HD5x07/OhA5iMlvHYXlQO7QeFNKKu09LJHKN9fiemNZ7QcnbDYvmdN71ETDhwn/HETYLHcoi7XnxTOnTVCer4rXabPU/sO8UAi7bhiAqdvFjM7JW2zvDTaUckqDIudOfgVnI+6dpxwGDgkpoZoIwTwwpzXZzrdIqoNgKlUkmFdMPs7TqdmKxQ58g9LvyrS2XwY1Ky6bPHuYSbjs3imLxKw==;aiGhDH2GLVRFZ5Kdu4HqAg=="
 ---
 

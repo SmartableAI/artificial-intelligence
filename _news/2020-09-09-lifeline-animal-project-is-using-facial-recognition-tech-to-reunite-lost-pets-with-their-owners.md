@@ -59,34 +59,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Council to consider banning Face Recognition Technologies"
-    excerpt: "The City Council is scheduled to consider what may be the strongest bans on facial recognition technologies in the county on Wednesday. One ordinance would prohibit the acquisition and use of such technologies by city bureaus."
-    publishedDateTime: 2020-09-09T08:39:00Z
-    webUrl: "https://pamplinmedia.com/pt/9-news/479432-387355-council-to-consider-banning-face-recognition-technologies"
-    type: article
-    provider:
-      name: Portland Tribune
-      domain: pamplinmedia.com
-    quality: 39
-    images:
-      - url: "https://pamplinmedia.com/images/artimg/00003682419156-0644.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Why Facial Recognition Technology Was Deemed Unlawful"
-    excerpt: "Shutterstock.com. In a landmark decision on 11 August, the Court of Appeal ruled that an ongoing pilot of facial recognition technology was"
-    publishedDateTime: 2020-09-09T07:55:00Z
-    webUrl: "https://www.law.com/international-edition/2020/09/09/why-facial-recognition-technology-was-deemed-unlawful/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2020/01/Facial-Recognition.jpg"
-        width: 4000
-        height: 2110
-        isCached: true
 
 secured: "GuC97dnKZID3K/iY+9CVX3s8ULSM6+UgHslZc4GSlpO+NjhqhnRnryEMqCDe3c5e6A24eCmv2zc3VIVfx8pmQItkn6u0A4K5CLJYdM1B0gvKTXgYDDdUJm3rfokbZedZT/7hQuiesutqR9URXrZd5tZvTU+yiVecC7D9JRi8609pY2Aom3Jyjvit26SuEcFxZw+22ongYM19fVSrLBQH25zM4fN2CQRSZqZknqk137GbklDDGVOb2pbsDKqAWpp3w7Mv14+T1mKCJoSoHLQkfmFdboPbQtc0ERyFDVoBx5oy1FQbBo4YEO5mSo+/XwTdqXdEf5w7vbGaUa0PgDd2ifMoGnSBNlXy3BsVKFNOq7g=;Mtp9VIur/a40INm/g5khbA=="
 ---

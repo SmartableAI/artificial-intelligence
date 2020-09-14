@@ -1,22 +1,17 @@
 ---
 category: news
-title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
+title: "Japan Looks to AI as Coronavirus Challenges Go-And-See Quality Control Mantra"
 excerpt: "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century."
-publishedDateTime: 2020-08-31T12:34:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN25R0CP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP"
+publishedDateTime: 2020-08-31T07:27:00Z
+originalUrl: "https://www.nytimes.com/reuters/2020/08/31/technology/31reuters-health-coronavirus-japan-factory.html"
+webUrl: "https://www.nytimes.com/reuters/2020/08/31/technology/31reuters-health-coronavirus-japan-factory.html"
 type: article
-quality: 86
-heat: -1
-published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,68 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J"
-    width: 744
-    height: 545
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Japan explores AI as the pandemic curbs in-person quality control"
-    excerpt: "At a Japanese factory, robots have started sharing the work of quality-control inspectors as the pandemic accelerates a shift in mass production."
-    publishedDateTime: 2020-08-31T15:08:00Z
-    webUrl: "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/"
-    ampWebUrl: "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Japan looks to AI as coronavirus challenges go-and-see quality control mantra"
-    excerpt: "Robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
-    publishedDateTime: 2020-09-01T02:18:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/31/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 56
-    images:
-      - url: "https://img.jakpost.net/c/2020/08/31/2020_08_31_103401_1598862125._medium.jpg"
-        width: 747
-        height: 546
-        isCached: true
-  - title: "Toyota, others look to AI as coronavirus challenges quality control practices"
-    excerpt: "That has spurred the increased use of robots and other technology for quality control, including remote monitoring which was already being adopted before the pandemic. In Japan, such approaches represent an acute departure from the \"genchi genbutsu\","
-    publishedDateTime: 2020-08-31T11:36:00Z
-    webUrl: "https://europe.autonews.com/automakers/toyota-others-look-ai-coronavirus-challenges-quality-control-practices"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TOYOTA%20BADGE_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AI quality inspection robots playing bigger role at factories in Japan"
-    excerpt: "At a factory south of Toyota City in Aichi Prefecture, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionize mass production in the 20th century."
-    publishedDateTime: 2020-08-31T19:32:00Z
-    webUrl: "https://japantoday.com/category/tech/japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
-
-secured: "RpZ7Q+ZgzW+2dz+bY7Un/hH4hXpPwGUiqmx9iQM04pVSUf2qsEbc3BZsAxrxeuBrucQM+f2RVjmUGLglj4G9vL+bSn04LnOuKXy8/0OqxTNPo8Hw8do2E+Y4Yfssd88idxr4LgoUjRfEYnTiVJY6CLcgMZ1cEnt4DY4u8bSvflx5WQGPjAIYhX3PjqC78zTUKgdBW4f9WicXJwAl06P2i4x8Gxx/0zLlPf5zX9qbuAWLSMko6/Jc5LGc8sDHBPXemkOnqsIHa/hJzo4YVYFbbShoxaDSsg80E1SLSYyotiPzzVMiCpdZm4fl1/bL+Ht/sALTLL9xNCSmPqbLtIN12WtEwINPE8erkDBGym8q2OCG9sQmnnNpOq4xzBQhhfNDke4n8b5+iCEpUew/3J8ZluWtH0M1XFt3PP/twmi73JohiWLXAm7gWFzuZHeEDmL6VIcg6VTm0bALSd92RQ5BEeZRqtR5fpWa9Qc33ednIQydSVD74zTcy9TIGGnx7FQL/AorPb7vQsF8nC2oAoQt0w==;mWM0DY5vflQbh1EI2kgBaA=="
+secured: "DZN2TTJvAqHM0CNQrwnlO6QGn+RFVomCeZQSo6mA6e4n3BxFrvX2QhMxLvNK/KIz5yHdOMwlrurlRi6Hvt+mRh9hUT8BPn1kGqCZZfXcq35u0XDI7x5WOg+7VdTvW62orKTo0+1EbJ/ZdHkvAhdbZh3igbJKoRMHPbg0bSmdkYT5VnaMTDGRmyQH3F51Opi3rzYnPAMJ27uWA6RUizLZqk3thxtOieRajvht7LkCMpSJUjRwhECM+/p2zIrxN30YgBWU/E/7G0yHGmBTVafpps/w9Km9gXHp6tBO/FOFgRiN5/pLT5Bs0oERmrUCXVTS0BUME4Qr3p/2Wm7iEBN4Sb18RGSJofVXRh5PLkHOSo8=;oywyc/6q3MWdn6MEB/MnAA=="
 ---
 

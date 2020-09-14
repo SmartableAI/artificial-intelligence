@@ -57,6 +57,20 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "IBM calls for new controls to limit US facial recognition systems exports"
+    excerpt: "IBM has said the US Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-13T23:40:00Z
+    webUrl: "https://www.arnnet.com.au/article/682879/ibm-calls-new-controls-limit-us-facial-recognition-systems-exports/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 38
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_id_19577771__tomasz_bidermann__dreamstimecom.jpg"
+        width: 740
+        height: 483
+        isCached: true
   - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
     excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
     publishedDateTime: 2020-09-11T19:11:00Z
