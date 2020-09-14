@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-c
 webUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CORRECTING and REPLACING BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit"
-    excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology today announced its participation at the 2020 Embedded Vision Summit Virtual Conference taking place September 15 –25,"
-    publishedDateTime: 2020-09-10T00:55:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200909005412/correcting-and-replacing-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "qyfDg99sPs5PyyEXw/qqx/k3otQ2/1b6U4YYZ2cjEPw84XL+YIAsGZSVqOg0NuvR9m+TWc9GkdUcerrTfs3NVuj8+m1skexN7ctTswpSlYHirY3X8RbS1/KfTbuPeRTpv+78ybVMvpzr5rsRYiNszqnUF2gGFtkr55rnGlZErFjjTSeS+QlV4JYDspr6hQUxkfHl3T7mrjbMrHt/EJXS/h5RxIzVW4w7ZNDI8Z1RHEh0zBW2SCVU2pkSdm/ZmztfxzCTiJRPSrLCbv1JvzSrvA12si7UL6nE0iKIHmFibvLaoLrz6qOjnnamvooxhMBIrDE/tU4pvWOmxpmIiJcsfjB9pZQpyiBC9/Hbo+DOw2s=;z7DbL7geGhl564XpTpB6TQ=="
 ---

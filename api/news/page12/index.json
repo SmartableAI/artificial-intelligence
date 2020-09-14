@@ -2,6 +2,841 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-garmin-catalyst-is-an-ai-racing-coach-that-that-literally-shows-you-how-to-be-faster.md",
+      "title": "Garmin Catalyst is an AI racing coach that that literally shows you how to be faster",
+      "excerpt": "Garmin's new performance analyzer coaches drivers to faster lap times by generating a seamless video based on captured race data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8L8TePMz_n4e-RBSBhQNYCc5Do8=/2020/09/02/af4cb264-c1ef-4bc6-b98b-1ff0bc1bc635/ogi-catalyst-hr-1002-4.jpg",
+          "width": 6290,
+          "height": 3302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
+      "publishedDateTime": "2020-09-03T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025.md",
+      "title": "Artificial Intelligence in Retail Market Advancements and Business Opportunities 2020-2025",
+      "excerpt": "The report provides a detailed assessment of the 'Global Artificial Intelligence in Retail Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies.md",
+      "title": "NASA’s impressive new AI can predict when a hurricane intensifies",
+      "excerpt": "NASA has developed a machine learning model that, in tests, predicted when a hurricane will intensify more accurately than an existing operational model.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T103620.842-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/amp/",
+      "publishedDateTime": "2020-09-03T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-nitda-plans-centre-for-artificial-intelligence-robotics.md",
+      "title": "NITDA plans centre for artificial intelligence, robotics",
+      "excerpt": "In an effort to achieve a robust digital economy, the National Information Technology Development Agency, (NITDA) is set to establish a Centre for Artificial Intelligence and Robotics in Nigeria (CFAIR).",
+      "sourceUrl": null,
+      "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.today.ng/wp-content/uploads/2017/08/NITDA.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "cdnAmpWebUrl": "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206/amp",
+      "publishedDateTime": "2020-09-03T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TODAY",
+        "domain": "today.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-the-distributed-cloud-era-has-arrived.md",
+      "title": "The distributed cloud era has arrived",
+      "excerpt": "The rise of distributed clouds and app-to-app networking dictates the use of cloud-native network and security infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cso_nw_cloud_computing_distributed_decentralized_network_connections_iot_internet_of_things_thinkstock_853701240_3x2_1500x1000-100801371-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-using-robotics-and-immersive-technologies-to-support-work-from-home-employees.md",
+      "title": "Using robotics and immersive technologies to support work-from-home employees",
+      "excerpt": "According to a recent enterprise survey by 451 Research, the emerging technology research unit of S&P Global Market Intelligence, 80 percent have implemented or expanded universal work-from-home policies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/remote_worker_working_from_home_self_employed_contractor_freelancer_digital_nomad_by_allensima_gettyimages-1151404751_2400x1600-100853245-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.amp.html",
+      "publishedDateTime": "2020-09-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-qualcomm-promises-better-ai-for-its-next-snapdragon-pc-chip.md",
+      "title": "Qualcomm promises better AI for its next Snapdragon PC chip",
+      "excerpt": "The Snapdragon 8cx Gen 2 follows up 2018’s Snapdragon 8cx, and back then the company said the “x” in the name stood for “extreme” power. While the actual performance promises of the Snapdragon 8cx Gen 2 don’t seem like a great leap forward,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "originalUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F69ee12e0-ed53-11ea-affb-7e404ac7d914&client=amp-blogside-v2&signature=713ef55e102c617daf5c8b3162330b9def48aa09",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/qualcomm-snapdragon-8cx-gen-2-073041304.html",
+      "publishedDateTime": "2020-09-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition.md",
+      "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
+      "excerpt": "Windows 10 has a new preview version which improves the operating system’s integrated voice recognition, and introduces a thoroughly overhauled emoji picker and refreshed touch keyboard. Build 20206,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "originalUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/siQHALnsW9itubbrJGKDn7-1200-80.jpeg",
+          "width": 1175,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "publishedDateTime": "2020-09-03T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic.md",
+      "title": "AI In Aviation Market Key Insights Based on Product Type, End-use and Regional Demand Till 2023 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Aviation Market Research Report by Type (Hardware, Software, Services), Equipment (Autocollimator, Measuring Microscope, Profile Projector, and Others), Technology (Machine Learning, Natural Language Processing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
+      "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-storelift-launches-autonomous-convenience-stores-using-ai-and-computer-vision.md",
+      "title": "Storelift launches autonomous convenience stores using AI and computer vision",
+      "excerpt": "But a French startup called Storelift believes it can create a new convenience store concept that leans on many of the same AI and computer vision tools used in Amazon Go stores to reinvent the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/exterior-e1599074003834.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "publishedDateTime": "2020-09-02T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-biofourmis-raises-100-million-for-ai-remote-medical-tools.md",
+      "title": "Biofourmis raises $100 million for AI remote medical tools",
+      "excerpt": "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/e72b0f95-315b-4e77-9a52-734c389a47cd-e1598639733609.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/amp/",
+      "publishedDateTime": "2020-09-02T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-biofourmis-raises-100-million-financing-led-by-softbank.md",
+      "title": "Biofourmis Raises $100 Million Financing Led by SoftBank",
+      "excerpt": "Biofourmis, which is using artificial intelligence-based analytics to monitor patients affected by Covid-19, has raised a $100 million financing led by SoftBank Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
+      "originalUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
+      "featuredContent": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-227978/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-these-students-figured-out-their-tests-were-graded-by-ai-and-the-easy-way-to-cheat.md",
+      "title": "These students figured out their tests were graded by AI — and the easy way to cheat",
+      "excerpt": "That wasn’t on a practice test — it was his real grade. “He was like, I’m gonna have to get a 100 on all the rest of this to make up for this,” said Simmons in a phone interview with The Verge. “He was totally dejected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "originalUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PnEUlNVe6AoLUQpgQuPBlyPHCaQ=/0x0:2040x1364/1400x933/filters:focal(857x519:1183x845):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67345411/pesposito_200420_3983_0009.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
+      "publishedDateTime": "2020-09-02T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
+      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
+      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
+          "width": 607,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "publishedDateTime": "2020-09-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
+      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
+      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "publishedDateTime": "2020-09-02T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
       "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
       "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
@@ -364,799 +1199,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
-      "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
-      "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1027974140.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
-      "publishedDateTime": "2020-09-02T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
-      "title": "Cognizant to acquire PE-backed 10th Magnitude",
-      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PE Hub",
-        "domain": "pehub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai.md",
-      "title": "iZotope’s new RX8 repair tool cleans up your noisy audio with AI",
-      "excerpt": "RX8, the latest release from the audio experts at iZotope, today launched with a bevvy of new features and an an updated interface. As you can guess from the sub-heading, I’m most excited about the all-new guitar de-noiser.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/RX8-796x487.jpg",
-          "width": 796,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
-      "publishedDateTime": "2020-09-02T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
-      "title": "How to make complicated machine learning developer problems easier to solve",
-      "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
-      "publishedDateTime": "2020-09-02T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters.md",
-      "title": "Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters",
-      "excerpt": "Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/dogpose.jpg?w=1024",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "publishedDateTime": "2020-09-02T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants.md",
-      "title": "Trump plans to collect DNA, eye scans, and voice prints from immigrants",
-      "excerpt": "The Trump administration's plans to expand the collection of biometric data from immigrants would let the government \"surveil and target our communities.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/30020836983_181ebce05e_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "publishedDateTime": "2020-09-02T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-google-cloud-secures-us-military-ai-cancer-research-contract.md",
-      "title": "Google Cloud secures U.S. military AI cancer research contract",
-      "excerpt": "Google Cloud will provide AI for cancer diagnosis research and augmented reality microscopes to Veterans Affairs hospitals as part of a new contract.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/veterans-affairs-san-francisco.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
-      "publishedDateTime": "2020-09-02T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-getting-a-batch-job-completion-message-from-amazon-translate.md",
-      "title": "Getting a batch job completion message from Amazon Translate",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation is a form of language translation automation that uses deep learning models to deliver more accurate and natural-sounding translation than traditional",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/13/translatebatchpoller_arch.png",
-          "width": 842,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T10:32:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ttecs-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award.md",
-      "title": "TTEC's AI-powered Learning Solution Wins Disruptive Technology of the Year Award",
-      "excerpt": "TTEC's revolutionary proprietary RealPlay technology simulates real-world customer scenarios that associates experience before they take live calls A mix of AI-powered bot, interactive digital sandbox,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "publishedDateTime": "2020-09-02T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu.md",
-      "title": "GPU company Imagination Technologies to teach students how to design a CPU",
-      "excerpt": "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
-      "publishedDateTime": "2020-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms.md",
-      "title": "TikTok Deal Talks Are Snarled Over Fate of App’s Algorithms",
-      "excerpt": "Deal talks for TikTok’s U.S. operations have been complicated by the key question of whether the app’s core algorithms can be included as part of a deal, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
-      "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "featuredContent": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-227247/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
-      "publishedDateTime": "2020-09-02T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness.md",
-      "title": "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness",
-      "excerpt": "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
-      "publishedDateTime": "2020-09-02T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-intel-10nm-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall.md",
-      "title": "Intel: 10nm Tiger Lake CPUs will be in 50 new laptops coming this fall",
-      "excerpt": "Intel took the wraps off its not-so-secret central processing units (CPUs) codenamed Tiger Lake, built with a 10-nanometer manufacturing process. It may as well have been called Tiger Leak.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
-      "publishedDateTime": "2020-09-02T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
-      "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
-      "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1162201571.jpg?w=1000",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
-      "publishedDateTime": "2020-09-02T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
-      "title": "Pershing takes ‘step forward’ to a password-less future",
-      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-google-partners-with-nsf-to-fund-human-ai-research-initiative.md",
-      "title": "Google partners with NSF to fund human-AI research initiative",
-      "excerpt": "A new institute will study how humans and AI working together can make better decisions than either on their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "originalUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "publishedDateTime": "2020-09-02T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-business-imperative-for-ethical-ai.md",
-      "title": "The business imperative for ethical AI",
-      "excerpt": "Artificial intelligence (AI) tops the agenda for many organizations, but the anticipated opportunities come with a host of challenges, many of which",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "originalUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/08/785jf03jr3.png",
-          "width": 587,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
-      "publishedDateTime": "2020-09-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

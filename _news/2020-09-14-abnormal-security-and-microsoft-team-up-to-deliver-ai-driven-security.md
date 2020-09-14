@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-14T10:29:00Z
 originalUrl: "https://apnews.com/business-wire/58ff53e04d5e419ab925320b1d0bcf5b"
 webUrl: "https://apnews.com/business-wire/58ff53e04d5e419ab925320b1d0bcf5b"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

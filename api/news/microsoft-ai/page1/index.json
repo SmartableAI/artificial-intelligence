@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
+      "title": "Microsoft adds more AI security protection for Azure clients",
+      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
+      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
+      "publishedDateTime": "2020-09-14T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-amazon-google-and-microsoft-take-their-clouds-to-the-edge.md",
       "title": "Amazon, Google, and Microsoft take their clouds to the edge",
       "excerpt": "As enterprises ramp up edge computing deployments, the big three clouds are ponying up a surprising array of edge options for a broad range of needs.",
@@ -49,6 +90,97 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
+      "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
+      "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "originalUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg",
+          "width": 954,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T03:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
+      "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
+      "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "originalUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg",
+          "width": 1637,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1215,121 +1347,6 @@
       "provider": {
         "name": "cmo.com.au",
         "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
-      "title": "Arize AI Helps Us Understand How AI Works",
-      "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3827887b0409ce0d3c823f%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/09/01/arize-ai-helps-us-understand-how-ai-works/amp/",
-      "publishedDateTime": "2020-09-01T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield.md",
-      "title": "IBM Deep Dive: Strategy Shift Driving Growth; Attractive Share Price And Dividend Yield",
-      "excerpt": "IBM is successfully pivoting itself away from its declining legacy products and towards growth as a cloud, software, and services company.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
-      "originalUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
-      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
-      "excerpt": "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17320531",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531",
-      "publishedDateTime": "2020-08-31T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

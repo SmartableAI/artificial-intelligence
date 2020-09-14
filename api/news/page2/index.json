@@ -2,6 +2,494 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts.md",
+      "title": "Nvidia confirms it’s buying Arm for $40B to expand its AI efforts",
+      "excerpt": "Graphics hardware and AI giant Nvidia has confirmed its long-rumored acquisition of UK-based chip design firm Arm in a $40 billion transaction.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/ARM-x-Nvidia-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/",
+      "publishedDateTime": "2020-09-13T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.md",
+      "title": "Nvidia will buy Arm for up to $40 billion, combining smartphone, GPU powerhouses",
+      "excerpt": "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "originalUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/nvidia-volta-tesla-v100-2-100722222-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html",
+      "publishedDateTime": "2020-09-13T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-arm-uk-based-chip-designer-sold-to-nvidia.md",
+      "title": "ARM: UK-based chip designer sold to Nvidia",
+      "excerpt": "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_113835808_armchip.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-54142567",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567",
+      "publishedDateTime": "2020-09-13T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-cambridge-technology-renews-the-aws-managed-service-provider-msp-program.md",
+      "title": "Cambridge Technology Renews the AWS Managed Service Provider (MSP) Program",
+      "excerpt": "Cambridge Technology Inc, today announced renewal into the robust Amazon Web Services (AWS) Managed Service Provider (MSP) Partner Program for the fifth consecutive year. The AWS MSP Partner Program is an elite partner category requiring continued focus and distinguished capabilities along with continued investment in developing skills and commitment to deliver customer value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality.md",
+      "title": "NVIDIA to officially buy Arm, focus on AI, promises neutrality",
+      "excerpt": "Putting all speculation to rest, NVIDIA has finally announced that it is making an official bid to acquire Arm Limited from SoftBank. While the final say will be with regulators, this would mean",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
+      "originalUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/09/nvidia-arm.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/",
+      "publishedDateTime": "2020-09-13T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-how-forza-uses-neural-networks-to-evolve-its-racing-ai.md",
+      "title": "How Forza Uses Neural Networks To Evolve Its Racing AI",
+      "excerpt": "Today on War Stories, Ars Technica is joined by Dan Greenawalt, Creative Director of the Forza franchise, who takes us through the colossal potential (and many challenges) of utilizing deep neural networks to build sophisticated racing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "originalUrl": "https://arstechnica.com/video/watch/war-stories-how-forza-uses-neural-networks-to-evolve-its-racing-ai",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1599844552/arstechnica_war-stories-forza.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-waymos-head-of-lidar-explains-how-the-advanced-laser-tech-went-from-science-fiction-to-being-a-vital-tool-for-self-driving-cars.md",
+      "title": "Waymo's head of lidar explains how the advanced laser tech went from science fiction to being a vital tool for self-driving cars",
+      "excerpt": "Verghese spends his time developing new laser radars to compliment the evolving Waymo suite of hardware and software technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
+      "originalUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f4e8ac07ed0ee001e25cc32?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9?amp",
+      "publishedDateTime": "2020-09-13T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-this-stanford-professor-says-ai-hiring-tools-are-flawedheres-how-to-get-a-fair-shake.md",
+      "title": "This Stanford Professor Says AI Hiring Tools Are Flawed—Here’s How To Get A Fair Shake",
+      "excerpt": "If you’re looking for a job, you may need to impress a bot before you even get the chance to wow a recruiter. Here’s how to put your most AI-friendly foot forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
+      "originalUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be5a932ae9d68f2ef8e58%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
+      "publishedDateTime": "2020-09-13T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success.md",
+      "title": "How proquo ai Turns Marketing Art Into Science To Power Challenger Brands To Success",
+      "excerpt": "In a commoditised marketplace, it's your business's brand that will determine your success, believes proquo ai founder Nadim Sadek",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b950c00de1f2a3aef8e58%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D1372%26cropY2%3D3073",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
+      "publishedDateTime": "2020-09-13T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-even-if-elon-musks-neuralink-brain-chip-never-gives-us-telepathy-it-could-do-wonders-for-animal-testing.md",
+      "title": "Even if Elon Musk's Neuralink brain chip never gives us telepathy, it could do wonders for animal testing",
+      "excerpt": "Elon Musk hosted a live demo from his company Neuralink showing a pig named Gertrude with a computer chip in her brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
+      "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5b555b7ed0ee001e25eb96?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
+      "publishedDateTime": "2020-09-13T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling.md",
       "title": "Switch 4K gaming could be added with new dock chip swap, AI upscaling",
       "excerpt": "Nintendo reportedly tells developers to update their games to run at 4K, hinting the new Switch model revision will output 4K.",
@@ -50,7 +538,7 @@
       "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
       "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
       "featuredContent": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -133,7 +621,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -704,476 +1192,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
-      "title": "Voltas to invest in smart products led by AI, robotics",
-      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
-      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
-      "publishedDateTime": "2020-09-11T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence.md",
-      "title": "Convergence Of Financial Institutions’ Risk Management Aided By Artificial Intelligence",
-      "excerpt": "People have recognized the need for AI at the transactional level,” said Mr. Tengwell. “What’s now being seen is that the convergence of physical security and other risk management tools and processes is an important issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/",
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-09-11T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-researchers-claim-masks-muffle-speech-but-not-enough-to-impede-speech-recognition.md",
-      "title": "Researchers claim masks muffle speech, but not enough to impede speech recognition",
-      "excerpt": "But masks attenuate speech, which has implications for the accuracy of speech recognition systems like Google Assistant, Alexa, and Siri. In an effort to quantify the degree to which mask ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/",
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1241738009-e1599840312418.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/amp/",
-      "publishedDateTime": "2020-09-11T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-why-is-baidu-investing-in-an-ai-powered-biotech-start-up.md",
-      "title": "Why Is Baidu Investing in an AI-Powered Biotech Start-Up?",
-      "excerpt": "Chinese tech giant Baidu (NASDAQ:BIDU) is in talks with interested parties to invest up to $2 billion in a biotech start-up over the next three years, according to Reuters. The company has been incubating the idea over the past six months,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591230%2Fgettyimages-1185375168.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
-      "publishedDateTime": "2020-09-11T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-varian-expands-access-to-advanced-cancer-treatment-with-ethos.md",
-      "title": "Varian Expands Access to Advanced Cancer Treatment With Ethos",
-      "excerpt": "Varian Medical Systems, Inc. VAR recently announced that Goshen Center for Cancer Care in Goshen treated its first patient with Ethos Therapy. This marks the first availability of this advanced cancer treatment in Indiana.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11",
-      "originalUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11?amp",
-      "publishedDateTime": "2020-09-11T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service.md",
-      "title": "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service",
-      "excerpt": "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/b8a264c2-f3fc-11ea-8f3b-07283e3f3bd8_image_hires_160937.jpg?itok=_zKbtl1Z&v=1599811784",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
-      "publishedDateTime": "2020-09-11T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
-      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
-      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
-      "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
-      "featuredContent": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2621PV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV",
-      "publishedDateTime": "2020-09-11T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry.md",
-      "title": "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry",
-      "excerpt": "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9816197f1db12502f9e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
-      "publishedDateTime": "2020-09-11T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications.md",
-      "title": "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications",
-      "excerpt": "PRNewswire/ -- Rambus Inc. (NASDAQ: RMBS), a premier silicon IP and chip provider making data faster and safer, today announced it has achieved a record 4 Gbps performance with the Rambus HBM2E memory interface solution consisting of a fully-integrated PHY and controller.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires.md",
-      "title": "California Utilities Hope Drones, AI Will Lower Risk of Future Wildfires",
-      "excerpt": "Artificial intelligence may be able to spot fire risks created by faulty distribution and transmission equipment, utilities say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
-      "originalUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-230887/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
-      "publishedDateTime": "2020-09-11T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,467 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-11-mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year.md",
+      "title": "MediaTek to announce 6nm Arm chips for Chromebooks next year",
+      "excerpt": "MediaTek has had a pretty impressive year in the mobile and TV market. A new report says it plans to launch a new processor for affordable Chromebooks that will be similar to Apple’s upcoming Arm-based processors for MacBooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
+      "originalUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/05/MediaTek-Chipset-White.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios.md",
+      "title": "Cruise’s AI enables driverless vehicles to navigate uncommon scenarios",
+      "excerpt": "GM-backed autonomous car startup Cruise uses a framework dubbed the Continous Learning Machine to train perception models on uncommon scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/amp/",
+      "publishedDateTime": "2020-09-10T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-new-wsu-smart-factory-to-have-artificial-intelligence-robotics-as-it-looks-to-future.md",
+      "title": "New WSU smart factory to have artificial intelligence, robotics as it looks to future",
+      "excerpt": "A new smart factory at Wichita State University will explore manufacturing possibilities through a partnership with Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "originalUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998028001/dea73a44-1daa-42fa-a764-e842fd4a899c/e24cb380-15bf-4dad-998c-b4735c284642/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/news/business/article245609400.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article245609400.html",
+      "publishedDateTime": "2020-09-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars.md",
+      "title": "DuckieNet lets developers test autonomous vehicle systems using toy cars",
+      "excerpt": "DuckieNet is an open source platform for developing, testing, and evaluating autonomous navigation and perception algorithms with miniature car models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/e07586e7-ad6b-42c4-8d7c-eac746decddd-e1599752755921.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
+      "publishedDateTime": "2020-09-10T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-startup-raises-45-million-to-predict-faults-in-chips-before-they-fail.md",
+      "title": "Startup Raises $45 Million to Predict Faults in Chips Before They Fail",
+      "excerpt": "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-lockdown-couldnt-keep-waymo-from-testing-self-driving-cars-in-a-fake-city.md",
+      "title": "Lockdown couldn’t keep Waymo from testing self-driving cars … in a fake city",
+      "excerpt": "Waymo uses a 113-acre closed-course testing facility to develop its self-driving cars. Called Castle, the facility became even more valuable during lockdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
+      "originalUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
+      "publishedDateTime": "2020-09-10T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
+      "title": "COVID-19 Pushing Investors into Logistics Robotics",
+      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
+      "sourceUrl": null,
+      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
+      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
+      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
+      "publishedDateTime": "2020-09-10T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Top",
+        "domain": "fincyte.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
+      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
+      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
+      "publishedDateTime": "2020-09-10T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
+      "title": "Why cloud gaming is the future of Xbox",
+      "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/QCdvipeA9j2ulMONU4Ajg-tzpuk=/1200x630/2019/06/09/588eedb7-ad23-409e-ae58-0ffca65b6d42/xbox-pricing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
+      "publishedDateTime": "2020-09-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
+      "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
+      "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1ab9a987-4ae0-43aa-b1d2-025974d9a659-e1599164184952.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
+      "publishedDateTime": "2020-09-10T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-5g-in-financial-services-evolution-not-revolution.md",
       "title": "5G In Financial Services: Evolution, Not Revolution",
       "excerpt": "G is a leap forward in technology, though the added complexity makes it essential for financial firms to have visibility across their entire network to ensure the best customer experience.",
@@ -249,7 +710,7 @@
       "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
       "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
       "featuredContent": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -710,460 +1171,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift.md",
-      "title": "Clean Energy Regulator to power up AI tools after Microsoft Azure shift",
-      "excerpt": "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
-      "originalUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
-      "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
-      "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
-      "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
-      "publishedDateTime": "2020-09-09T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
-      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
-      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
-      "featuredContent": null,
-      "heat": 482,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-09-09T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-visualizing-tensorflow-training-jobs-with-tensorboard.md",
-      "title": "Visualizing TensorFlow training jobs with TensorBoard",
-      "excerpt": "TensorBoard is an open-source toolkit for TensorFlow users that allows you to visualize a wide range of useful information about your model, from model graphs; to loss, accuracy, or custom metrics; to embedding projections, images, and histograms of weights and biases. This post demonstrates how to use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/3-Flow.jpg",
-          "width": 900,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T14:54:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-scaling-ai-in-your-organization-should-be-deliberate-not-rushed.md",
-      "title": "Scaling AI in your organization should be deliberate, not rushed",
-      "excerpt": "Don't believe the myths surrounding scaling up your artificial intelligence. An expert tells us how to do it properly and get the most benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
-      "originalUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/09/84304776-c23e-464d-a2ff-5516d2fd565e/thumbnail/770x578/4bf07fcb0bb78b83355e2d3d85a8ef95/20200908-mythsai-karen.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
-      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
-      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "publishedDateTime": "2020-09-09T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
-      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
-      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "publishedDateTime": "2020-09-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
-      "title": "Physicist: The Entire Universe Might Be a Neural Network",
-      "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
-      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/physicist-entire-universe-neural-network/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp",
-      "publishedDateTime": "2020-09-09T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
-      "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
-      "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "originalUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-230139/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "publishedDateTime": "2020-09-09T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
-      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
-      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "publishedDateTime": "2020-09-09T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

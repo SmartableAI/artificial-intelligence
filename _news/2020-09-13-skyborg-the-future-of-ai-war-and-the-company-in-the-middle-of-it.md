@@ -40,6 +40,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Artificial Intelligence and Investment Management: What are the future prospects?"
+    excerpt: "Investors have been looking for new investment options that offer much less volatility than these commodities that are badly controlled by the political players. The launch of commission-free apps has been the need of time as the focus on diversification has been more than ever."
+    publishedDateTime: 2020-09-14T15:13:00Z
+    webUrl: "https://www.investorideas.com/news/2020/main/09142Artificial-Intelligence-Investment-Management.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
+    images:
+      - url: "https://www.investorideas.com/news/2020/main/images/091420-2.jpg"
+        width: 622
+        height: 315
+        isCached: true
 
 secured: "DEt0T1RXrHa5QHWIpIkY70HV85ME5mkDFCcfugi6ShDh+nZ9/j8UyNvXzV6sP7DJ7f0CzF0tPcVTBnNZrBtkUxxioMQBXR8KOjhujP26F+DU4upYJuKZLkZTWqdZEYI8UkQALu/e2atFooviALwprweznwo3BUn25nxPIaAjyI6MLG1EwLM8OT1br85EJeXL6nu4um+VsEp9x8SGaoWsSQpyuMVOoFkUKosrpqC9vfZiV71d0rOtg7YrX1gtGzIhpVjbZ+rlH5BD8kGHGx19LsDYzNglElCvBVR6880Izhiqg/i644ladtafn4HE47pq/DAi7BE7HBxXFRzmqndfpb/2Iju4y+xoKzwH39H+8YLEdngHOKVh/uI3W/z/gMn/em02UxJy8bYac2yByYGnrHiJzr9vDSdHWJ6ZSgvgjYclbZYqjMP/UF3MsqD9FO8AC+nlxYUHgrqe+NmXayaLoVaFM4X4KtGy4WXJiczxqSoMn7mJAnolFyk0fHOL+4Bvie8iagFBVVw02qaHSz5+qw==;r8YaE3HSXvFfTyanE9/19A=="
 ---

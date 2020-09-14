@@ -59,6 +59,22 @@ related:
         width: 750
         height: 469
         isCached: true
+  - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
+    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
+    publishedDateTime: 2020-09-14T17:00:00Z
+    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
+    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
 
 secured: "UX9sLqnVdqWYnRaqfCwT8mud1N188bvh+VFxrO0iMybPywfEEPm6eIpejrETCQZqegSs3yTdOieCycCyZWBfEFH/eXFxRzo5N57nz1lwojKn3jNNxezKyhIex7qTA5SJkylC2Gx08VCe6QloQskbCjm2DN7HROkX9tSNDpXlmPd50tVMhCVGCX4voz3TGXtPKY/agE8YXqW+iCoMyaWJ+4U80nIpumNZ79eQ3+AnZ6TX/r7+VMNiuJkp2HvExY06g+gwXZKAggeOYej+3pLO2nU0ZjD7pYEDDXAz+SbuPVW7z92VPpIW4+G8Ol6K/DD37TM8Hf8aWeIxAUbSY82kQRJmRHJWjyl2NFktsr5EnTB6FpDLtF3Q41aOqkd2UIGjWNmj4zC9LfoMgU339+kLJXk0T8ODhE8g5UaR7CfLCMKYGThr8Pc7VTZnOaCDtWc20SFqpRWmX/+jkImZcCRlOe2+ttZxptZ31mKUO65PsLONBgWldbi8ExAJkyK1S2hIvezcTsp1gFEZ0KtC5H7olg==;ugVrt/5ylV2sYuNzyIteyg=="
 ---

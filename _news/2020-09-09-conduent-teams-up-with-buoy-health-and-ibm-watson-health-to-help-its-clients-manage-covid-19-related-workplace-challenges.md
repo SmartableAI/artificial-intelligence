@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges"
-excerpt: "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform."
-publishedDateTime: 2020-09-09T13:33:00Z
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. FLORHAM PARK, N.J., Sep 09, 2020 (GLOBE NEWSWIRE via COMTEX) -- Conduent Incorporated (Nasdaq: CNDT), a business ..."
+publishedDateTime: 2020-09-09T13:10:00Z
 originalUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627"
 webUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "FL4YJryFtQieCV80OjSqP/TIT3rSARUeTJulrQzb7LO3lWaIAfNZRrmQzuw1tkEUOZyimCfeOWPNaOuSvmlM8ItNmkiEyylhQNVafFYlRL27r76MawYMhqJtqBOJ3OKInP7iw3Drzunz9F8HQSCNloMH5kPrdg1aJYouSPLpcUJJqWQoDfq0SV1m2Wsa4lUCFxlj158+haXu1aBtVEdZIaulC53C+RRgMxR3lI0z1I5UNdRfd1DgxVwdeqd6h5Rf+MMRqujcfZBpZGNhgg0KRkt4+HEVknpifLnktiYCNEEDwZTsAIWftpDREpCkZ2TCIul2uxgMIMTFrDXHlHKvxogLovUN2rna2MCpitMoRYU=;0DTHREMeWxvNc4kYncyuFA=="
+secured: "4okcYMVKg8/BIF54tGIHXrMuHZ9nEHfWT2x6re7C2kC6VYLhgmbJ056g4MOmFHX9fxwJdwrPw7QB20RbBHOm04zl6t9lg8oH/zdK3dmCk8ON8o12Gu019ej9f3F2WcywnrWRB5q91llI6TlFvcxL6QrtefmPk+CEFatmOmp/9s2oM8MmmOdpCS3dQPSN/u870fWxte0dyQjUyHWbjGqfBo2zpZ0v32DlRfATpTQMygfIiglhp8eLa2MUrqExf+WJ+cDPuP5DFXbQksHlDRnMNdhb15alsKyLeVOOlcB5fpU/JSWJmBQzgFktZaa7/qd6U3pyznLIFo45oJhQunssRLVhutus5SERKBz9ZosExOk=;6kdW/DAFrOBF0/ddbsfmjg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-r
 ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
 type: article
-quality: 87
-heat: 97
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/805db944-ac89-46aa-af81-58aab953b66b/deepmind-game-outcomes.png"
@@ -29,22 +30,6 @@ images:
     height: 513
     isCached: true
 
-related:
-  - title: "The promise of conversational AI in helping restore the doctor-patient relationship"
-    excerpt: "EMR systems were designed with billing in mind, not physician efficiency, so it goes without saying that if technology can help alleviate the documentation burden, everybody wins"
-    publishedDateTime: 2020-09-09T23:29:00Z
-    webUrl: "https://medcitynews.com/2020/09/the-promise-of-conversational-ai-in-helping-restore-the-doctor-patient-relationship/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 31
-    images:
-      - url: "https://medcitynews.com/uploads/2019/08/GettyImages-1026660906.jpg"
-        width: 683
-        height: 512
-        isCached: true
-
-secured: "PmSerbbvIArUFQIp4ctsJELtMf0YDXI+CrWJgRNBLAABqaJwcId3C8lvw2dHO0dMUIcuW9clDbQdkvWKDakv5JA6YDoIbNM2yn/Tm+Xs+g+YLsce9slFYz0Wj43yM4pdjJQ6eFxrF1vMOZoKqx7ttHXY8NYaL/13vjmLiMnHEsO6SqKMHfp0WSDInqLh8FGBDUZNMgR1c5Gzr5kw6MX+O+EmqQoxHAyD8TSkWNGi4rbxAS0LE2ZB+a1i0wA3at7KWqdTjV64OhoWtBsAGD2Y2HSfK6JlQF0Bpk2Rd8DBDnTiCyjlBmjkVSf2grnNSqVGYW/tkpcno/zjPlkKTNe5G/N7/NcQEWHlsjgWE6KgK3o=;iMXCD1D4Z5PGS8aEIe+euw=="
+secured: "FQDUFQn/6Ld3LqYH3zkHkgdsrpoEtib3tuCUFDCsKT/uAyJdBii+7VTzxFO1Y8EiqxYBZWysdvhGxfYiLNGVYd+XrQBqmK2pLKwACW4yBZEqTMbQYDT9kl7rAGzV4RbAXgBW/bpBAFBbeFAQ/s7Bh8Hqtd/yz/QfEGoC82vkhWdUKy40qceevpHgPd2oLo2lSXFOmpRtjMfmopcRJongCaie3sZCft5lt93zG+4yS+JadTY8Y1yYbstOmwndiQ41WZ5C6gLafXgDr8f+h1RCmrY6tB36DwOPfC8KXQ//Is6kPBr51yg50KzU6g98vM4wMDd+ZA5/MPlUkqS8ITUMPP3eSWzBl7S7r6EMq/KZfjTZYbj78oZcNo/bHrvgP5XvlFzQpCpyxv+1IjToE4fZvR3i3kbjNsFwBTl5k1uHE6xOscSIoDBop2/xh/UuUTEwGai398v2R4xUXdTn2KA8YkyaHIkbRXydYK5DTd7gzA4aufws92julX/O7utLyY3+ou1DS0IdP4hHjQSxVZdLPJqsx+rcd93bYc0z3qfYPf0=;drsyfJO4qzm6RI2UFpuskQ=="
 ---
 

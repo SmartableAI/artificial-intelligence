@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-14-us-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks.md",
+      "title": "U.S. Fintech Flaist Unveils Conversational AI Tool “EVA” For Credit Unions, Community, & Regional Banks",
+      "excerpt": "Flaist, a U.S.-based fintech startup, announced on Monday the launch of its new AI tool, Eva, which helps credit unions, community, and regional banks better serve their existing customers and compete for new customers with larger financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/smatphone-priscilla-du-preez-unsplash-600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/amp/",
+      "publishedDateTime": "2020-09-14T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-artificial-intelligence-ai-in-fintech-market.md",
       "title": "Artificial Intelligence (AI) in Fintech Market",
       "excerpt": "A new business intelligence report released by HTF MI with title COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by",
@@ -1360,56 +1401,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-the-newest-fintech-unicorn-is-a-credit-card-and-its-betting-against-big-banks.md",
-      "title": "The newest fintech unicorn is a credit card, and it's betting against big banks",
-      "excerpt": "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "originalUrl": "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106660564-1597250463719-unicorncard.jpg?v=1597250781",
-          "width": 1080,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "publishedDateTime": "2020-08-13T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

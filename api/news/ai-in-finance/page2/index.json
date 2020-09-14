@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-the-newest-fintech-unicorn-is-a-credit-card-and-its-betting-against-big-banks.md",
+      "title": "The newest fintech unicorn is a credit card, and it's betting against big banks",
+      "excerpt": "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
+      "originalUrl": "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
+      "featuredContent": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106660564-1597250463719-unicorncard.jpg?v=1597250781",
+          "width": 1080,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
+      "publishedDateTime": "2020-08-13T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai.md",
       "title": "Singapore parks $182M for fintech innovation, with special focus on AI",
       "excerpt": "with added focus on artificial intelligence (AI). The move comes as the country wraps up a previous five-year roadmap that saw the emergence of 1,000 fintech companies and 40 innovation labs ...",
@@ -1276,56 +1326,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-how-the-coronavirus-is-turbocharging-hong-kongs-fintech-revolution.md",
-      "title": "How the coronavirus is turbocharging Hong Kong’s fintech revolution",
-      "excerpt": "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/07/13/fa81fb8e-c385-11ea-8c85-9f30eae6654e_image_hires_062204.jpg?itok=zG8-kynX&v=1594592533",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "publishedDateTime": "2020-07-12T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

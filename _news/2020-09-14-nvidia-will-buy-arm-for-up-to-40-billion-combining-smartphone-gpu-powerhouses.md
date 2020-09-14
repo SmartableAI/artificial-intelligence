@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-t
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/09/2020-02-silicon-valley-SVINDEX-Nvidia-03-1.jpg?w=1024&h=549"
         width: 1024
         height: 549
-        isCached: true
-  - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
-    excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
-    publishedDateTime: 2020-09-14T11:30:00Z
-    webUrl: "https://www.extremetech.com/computing/314934-nvidia-buys-arm-for-40-billion-plans-new-ai-research-center"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Nvidia to acquire chip designer Arm for $40 billion"
     excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."

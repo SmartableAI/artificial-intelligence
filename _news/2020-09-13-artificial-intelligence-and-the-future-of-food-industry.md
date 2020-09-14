@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artifici
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/9/12/saupload_Locutus.jpeg"
         width: 620
         height: 320
+        isCached: true
+  - title: "Artificial Intelligence and Investment Management: What are the future prospects?"
+    excerpt: "Investors have been looking for new investment options that offer much less volatility than these commodities that are badly controlled by the political players. The launch of commission-free apps has been the need of time as the focus on diversification has been more than ever."
+    publishedDateTime: 2020-09-14T15:13:00Z
+    webUrl: "https://www.investorideas.com/news/2020/main/09142Artificial-Intelligence-Investment-Management.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
+    images:
+      - url: "https://www.investorideas.com/news/2020/main/images/091420-2.jpg"
+        width: 622
+        height: 315
         isCached: true
 
 secured: "gd2DbJSU2udWXpxAMvfJ4Z/V7Be90dJjCTgPZ+CHxdwh2oD1lRBke/Yqpqi+i1oj7pMYDjrOrBg0wNQMSIAUAuSxO02nuEviPrxM1fW+fZY1KbEPxlQFy4qWGX41aeMNs4VFDfstRU/6+bkPwgWxxj8oR3W8bqEXrI8sIVBGzundspg2h8NGPtFLG0cQ7wp1EHRLhmh+Zcx3f/aeGiQCRXtTJhHgbozNdczor2gDaJquCqDyrTHhJoxMFkUzvMBFlOKzsW9nWjEQN4Z/+V39KPY9+v/O66PnUOEPct0w9EEG4EYWZU3Cixugf9LfjSO+N/AXuryKta04a0uXmiN/TYqG5dsJwAV6DRxIMC32Xn8dpb2tzMiiXEL/KqowwSZ9+btTQNkvVydYAlnMZ8nrtv3XKaQoJPByz2aJVWJg1vMjxdL+QuEA46X/cA46NGH2FaUQRNdzFwKoKU/oqDDjoBVisQo4Rp9dSpTG1eUjNtwk+aqPXAkJGc0tdtF8Ekjt2/KpMk5mD8N/G+k4U4hNsw==;GDg32j/840MVz2Y4IYc3Zw=="

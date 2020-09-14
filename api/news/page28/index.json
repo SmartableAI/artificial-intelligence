@@ -2,6 +2,795 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-08-23-the-term-ethical-ai-is-finally-starting-to-mean-something.md",
+      "title": "The term ‘ethical AI’ is finally starting to mean something",
+      "excerpt": "By framing ethical problems as narrow issues of fairness and accuracy, companies could equate expanded data collection with investing in “ethical AI.” The efforts of tech companies to champion fairness-related codes illustrate this point: In January 2018,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
+      "originalUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data_public.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/",
+      "publishedDateTime": "2020-08-23T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook Wants To Help Build AI That Can Remember Everything For You",
+      "excerpt": "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives.",
+      "sourceUrl": null,
+      "webUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "originalUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "publishedDateTime": "2020-08-23T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-ai-pilot-beats-human-in-clean-sweep-of-virtual-f-16-dogfights-human-fails-to-register-a-single-hit.md",
+      "title": "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit",
+      "excerpt": "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/F-16CM-Fighting-Falcon-3-DVIDS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep.amp",
+      "publishedDateTime": "2020-08-23T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
+      "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
+      "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.md",
+      "title": "Moravian Academy junior is helping harness artificial intelligence to spot COVID-19",
+      "excerpt": "The teenager from Allentown is working with a Texas company to help speed diagnoses of the coronavirus illness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "originalUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GUA32VEINVBNXI4NNEZKMB77CA.jpg",
+          "width": 1899,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "publishedDateTime": "2020-08-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace.md",
+      "title": "Is AI A Force For Good? Interview With Branka Panic, Founder And Executive Director At AI For Peace",
+      "excerpt": "When creating AI systems organizations should also consider the ethical and moral implications to make sure that AI is being created for good intentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4282b811cbf7133cbf05b7%2F0x0.jpg",
+          "width": 640,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/23/is-ai-a-force-for-good-interview-with-branka-panic-founder-and-executive-director-at-ai-for-peace/amp/",
+      "publishedDateTime": "2020-08-23T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-former-microsoft-leader-and-fiftythree-co-founder-georg-petschnigg-on-tiktok-surface-duo-more.md",
+      "title": "Former Microsoft leader and FiftyThree co-founder Georg Petschnigg on TikTok, Surface Duo, more",
+      "excerpt": "Georg Petschnigg learned a lot during an 11-year career at Microsoft, where he worked on various consumer products such as Word and Microsoft Courier. He also got an inside look at how the tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
+      "originalUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/tiktok-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "publishedDateTime": "2020-08-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human.md",
+      "title": "How ancient rules of logic could make artificial intelligence more human",
+      "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human",
+      "originalUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/20200820_aristotle_raffaello.jpg?itok=YrmnF2wF",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human?amp",
+      "publishedDateTime": "2020-08-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook wants to help build AI that can remember everything for you",
+      "excerpt": "(CNN)— On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html",
+      "originalUrl": "https://www.cnnphilippines.com/business/2020/8/23/Facebook-artificial-intelligence-AI-memory-research.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/08/02/Facebook-dark_CNNPH.png/jcr:content/Facebook-dark_CNNPH.png",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-23T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN Philippines",
+        "domain": "cnnphilippines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early.md",
+      "title": "First Woman Director At MIT CS AI Lab: “Want More Women In STEM? Inspire Them Early.”",
+      "excerpt": "To solve the gender inequality in technical roles, we need to kickstart our efforts in college or even high school. Daniela Rus, the first female director of MIT CSAIL (CS AI Lab) and the co-founders of STEMM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f420407a45e6fba7f4ddce3%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nancywang/2020/08/23/first-woman-director-at-mit-cs-ai-lab-want-more-women-in-stem-inspire-them-early/amp/",
+      "publishedDateTime": "2020-08-22T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-facial-recognition-market-size-industry-trends-leading-players-share-and-forecast-2019-2025.md",
+      "title": "Facial Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025",
+      "excerpt": "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 13 78 from 2019 to 2025 Face recognition images with saved face database It is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2119090/facial-recognition-market-size-industry-trends-leading",
+      "originalUrl": "https://www.openpr.com/news/2119090/facial-recognition-market-size-industry-trends-leading",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T822430956_g.jpg",
+          "width": 800,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2119090/facial-recognition-market-size-industry-trends-leading",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2119090/facial-recognition-market-size-industry-trends-leading",
+      "publishedDateTime": "2020-08-22T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook wants to help build AI that can remember everything for you",
+      "excerpt": "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology —",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.html",
+      "originalUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/a/23/a23779fe-95d4-5f39-aa3e-a85307ddf259/5f41ab074fe08.image.jpg?resize=1024%2C616",
+          "width": 1024,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.amp.html",
+      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.amp.html",
+      "publishedDateTime": "2020-08-22T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Atlanta",
+        "domain": "cbs46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-better-buy-alphabet-vs-facebook.md",
+      "title": "Better Buy: Alphabet vs. Facebook",
+      "excerpt": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Facebook (NASDAQ: FB) are the top two companies in the digital ad space. One dominates internet search, while the other holds domain in the social media sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "publishedDateTime": "2020-08-22T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
+      "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
+      "excerpt": "have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project, which is designed to survey the changes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
+      "title": "Key brain region was “recycled” as humans developed the ability to read",
+      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing — the ability to recognize written letters and words.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "originalUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202008/MIT-orthographic-processing-01.jpg",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-full-self-driving-cars-are-still-a-long-way-off-heres-why.md",
+      "title": "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why",
+      "excerpt": "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fe895e0243aa68130748d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2020/08/22/full-self-driving-cars-are-still-a-long-way-off--heres-why/amp/",
+      "publishedDateTime": "2020-08-22T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-save-on-a-subscription-to-aggregator-site-ground-news-premium.md",
+      "title": "Save on a subscription to aggregator site Ground News Premium",
+      "excerpt": "TL;DR: Access news from all around the world with a one-year subscription to Ground News Premium for $19.99, a 33% savings as of Aug. 22. Between the news feeds on Instagram, Twitter, and your standard media platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://mashable.com/shopping/aug-22-ground-news-premium-subscription-sale/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-aws-deepracer4-deepracer-13.md",
+      "title": "AWS DeepRacer入門：第4回 手を動かして強化学習を体験してみよう（自動運転ロボットカーDeepRacer編） (1/3)",
+      "excerpt": "連載目次 AWS DeepRacerは、自律走行を行うロボットカーである（第1回詳しく説明した）。 その走行エンジンの作成には、ディープラーニングの ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
+      "originalUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.itmedia.co.jp/ait/articles/1908/22/cover_news025.png",
+          "width": 841,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MONOist",
+        "domain": "atmarkit.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-an-ai-breaks-the-writing-barrier.md",
       "title": "An AI Breaks the Writing Barrier",
       "excerpt": "A new system called GPT-3 is shocking experts with its ability to use and understand language as well as human beings do",
@@ -311,848 +1100,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-heres-the-smallest-aiml-supercomputer-ever.md",
-      "title": "Here's the smallest AI/ML supercomputer ever",
-      "excerpt": "The SX-Aurora Tsubasa AI Platform supports both Python and TensorFlow development environments as well programming languages such as C/C++ and Fortran. NEC offers multiple versions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "originalUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "publishedDateTime": "2020-08-21T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
-      "title": "Here's the smallest AI/ML supercomputer ever",
-      "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "publishedDateTime": "2020-08-21T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good.md",
-      "title": "'Mum told me to give back to the community': the young Australian creating robots for good",
-      "excerpt": "Cheng co-developed an object recognition app, Aipoly Vision, that relays detailed information via text or voice about whatever the phone is pointed at – from the colour of a shirt (it can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "originalUrl": "https://www.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good-20200626-p556nl.html",
-      "publishedDateTime": "2020-08-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
-      "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
-      "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "originalUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "publishedDateTime": "2020-08-21T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign.md",
-      "title": "AI Weekly: Surveillance, structural racism, and the Biden 2020 presidential campaign",
-      "excerpt": "What Joe Biden and Kamala Harris said about tech at DNC 2020 and a look at the kinds of AI and algorithmic bias mentioned in the Biden 2020 plan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1267430321.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/ai-weekly-surveillance-structural-racism-and-the-biden-2020-presidential-campaign/amp/",
-      "publishedDateTime": "2020-08-21T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
-      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
-      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "publishedDateTime": "2020-08-21T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
-      "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
-      "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/21/arts/21coronation24/merlin_175985925_29d1caae-7ab7-46cc-95a8-f83acc9e127c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "publishedDateTime": "2020-08-21T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits.md",
-      "title": "ProBeat: Release your data sets to the AI research community and reap the benefits",
-      "excerpt": "Duolingo research director Burr Settles talks about how to leverage the AI research community -- start by releasing your data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
-      "originalUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-duo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/probeat-release-your-data-sets-to-the-ai-research-community-and-reap-the-benefits/amp/",
-      "publishedDateTime": "2020-08-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebooks-new-embodied-ai-project-aims-to-build-a-new-breed-of-robots.md",
-      "title": "Facebook’s new ’embodied A.I’ project aims to build a new breed of robots",
-      "excerpt": "Facebook wants to build an army of robot assistants that can wait on us in all kinds of new ways. Here's what it's working on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/",
-      "originalUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/",
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/us-politics-facebook-zuckerberg-1200x630-c-ar1.91.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-embodied-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-embodied-ai/?amp",
-      "publishedDateTime": "2020-08-21T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-releases-tools-to-help-ai-navigate-complex-environments.md",
-      "title": "Facebook releases tools to help AI navigate complex environments",
-      "excerpt": "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
-      "originalUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Title-Image-Updated-e1597900077579.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "publishedDateTime": "2020-08-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters.md",
-      "title": "CarbonChain is using AI to determine the emissions profile of the world’s biggest polluters",
-      "excerpt": "It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-495112746.jpg?w=1024",
-          "width": 1024,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/amp/",
-      "publishedDateTime": "2020-08-21T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-is-building-home-robots-to-help-you-find-your-ringing-phone.md",
-      "title": "Facebook is building home robots to help you find your ringing phone",
-      "excerpt": "Now, some new breakthroughs made by Facebook AI researchers suggest that home robots might be able to do the hard work for us, reacting to simple commands such as \"bring me my ringing phone.\" Virtual assistants as we know them are utterly incapable of identifying a specific sound,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/21/971abfc1-0652-4769-8468-9fef47e09515/facebook-embodied-ai.png",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "publishedDateTime": "2020-08-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-indias-logistics-saas-startup-fareye-bags-13-million.md",
-      "title": "India’s logistics SaaS startup FarEye bags $13 million",
-      "excerpt": "More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its Series D financing round at $37.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1208712080.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/amp/",
-      "publishedDateTime": "2020-08-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-how-a-designer-used-ai-and-photoshop-to-bring-ancient-roman-emperors-back-to-life.md",
-      "title": "How a designer used AI and Photoshop to bring ancient Roman emperors back to life",
-      "excerpt": "Machine learning is a fantastic tool for renovating old photos and videos. So much so that it can even bring ancient statues to life, transforming the chipped stone busts of long-dead Roman emperors into photorealistic faces you could imagine walking past on the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/parnimYG6TPATjWjkGiaHVr-njE=/0x0:938x528/1400x933/filters:focal(394x189:544x339):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67274650/1_N0Jv3LyLM5yFf4tK0Bh7AQ.0.jpeg",
-          "width": 938,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "publishedDateTime": "2020-08-21T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-microsoft-to-provide-ai-response-tools-for-disaster-first-responders.md",
-      "title": "Microsoft to provide AI response tools for disaster first responders",
-      "excerpt": "The US government will co-chair a consortium, which will use deep-learning algorithms for near real-time data to assist in the high-pressure decision making surrounding disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-to-provide-ai-response-tools-for-disaster-first-responders/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/21/4c060173-9c5b-4d77-9d4a-322fb517817f/resize/1200x/110ef44205a5f1ec7a52ecd6031c1043/istock-158554627.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-to-provide-ai-response-tools-for-disaster-first-responders/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-to-provide-ai-response-tools-for-disaster-first-responders/",
-      "publishedDateTime": "2020-08-21T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-dark-data-may-be-tamed-with-natural-language-processing.md",
-      "title": "Dark data may be tamed with natural language processing",
-      "excerpt": "IT policies, checklists, toolkits, and research for download (TechRepublic Premium) Mary Beth Moore, an AI and language analytics strategist at SAS, wrote about this and other serious medical conditions and how AI can help: \"Early diagnosis and rapid intervention is critical in sepsis treatment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "originalUrl": "https://www.techrepublic.com/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dark-data-may-be-tamed-with-natural-language-processing/",
-      "publishedDateTime": "2020-08-21T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-mobius-logic-brings-drone-flight-management-to-microsoft-azure.md",
-      "title": "Mobius Logic brings drone flight management to Microsoft Azure",
-      "excerpt": "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17190966",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966",
-      "publishedDateTime": "2020-08-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

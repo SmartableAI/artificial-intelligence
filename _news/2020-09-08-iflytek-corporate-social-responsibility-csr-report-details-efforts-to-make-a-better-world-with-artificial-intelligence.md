@@ -1,26 +1,26 @@
 ---
 category: news
 title: "iFLYTEK Corporate Social Responsibility (CSR) Report Details Efforts to Make a Better World with Artificial Intelligence"
-excerpt: "PRNewswire/ -- iFLYTEK, Asia's leading artificial intelligence (AI) and speech technology company, released its"
-publishedDateTime: 2020-09-08T16:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
-webUrl: "https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594"
+excerpt: "PRNewswire/ -- iFLYTEK, Asia's leading artificial intelligence (AI) and speech technology company, released its first global corporate social"
+publishedDateTime: 2020-09-08T15:54:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html"
+webUrl: "https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "LlbthfmMKVGJZnrky5pZnORbGpQ9IgGeHtHqx/GvhD1PPckSvEjIwavfCK8NCMir0hU4+BkoRFjr5n0KKfjkA1hFjnjXTFVTQW655pDJm/W/o1Yi+e437Acu43OOspA9HxBwjy75jC+6miQ1Oiklh1FEr6oTJHqaojAz+XOLKKUeUc+2tBsn35eoM08J7N4EKogqIpEse9ce9asL+KrmSq7eyDASH3h9RM0qh2b2A76UtHw889Yztk8/9S6aYad7GXyqUIeLcTaZkHSBY/HK7BplSFGLOltyC3hstkS85oakhyaTasZFi9F7CqDOtNe5awjOm4yf2pbem0xVYXKObhF7IdF7Q9FIgEmRRFH9Re0=;9zIxOd62dle73blkBH4iAw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "zCd5YuHo7Yql4QbxmIt5jPpAf89KUjKWFwfwWCWntHO65AacoW3fWNly4QVgsTN5oL69yXXH/vt8Md8/fcRL/t0tEiOxh+79jICo8fICE/99IBGSHk3D9KkKP0+ArDGf8Aan+aZeeEohilCnKZwlDvJEzWnUUJIFAyBDIjZG78v9awfjlPsbkgOUZ57d5I0tiaIN9SUWmwBl9FdKSKuLFHo1VsOBY5kys1Jx4HNCYCFzYefd23dPPEg1Y/Oh16hGfkYNS9ZDJz0BNu5qTtkL76P7q8EJ3ghAPCCZvlUB/+frvlV0KzUKTyAroyt44eTRcZItTtPpVrbeZT28aWAn2ylBVZA67SNCayLyqqrcMJU=;cFa7ZfRYtxc8mdHMySomSg=="
 ---
 

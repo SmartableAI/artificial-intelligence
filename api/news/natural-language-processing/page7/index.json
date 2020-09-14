@@ -2,6 +2,147 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-info.md",
+      "title": "Google machine translation helping disseminate Covid-19 info",
+      "excerpt": "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76918627.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "publishedDateTime": "2020-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-natural-language-processing-a-cheat-sheet.md",
+      "title": "Natural language processing: A cheat sheet",
+      "excerpt": "Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand, and duplicate human speech. It wasn't too long ago that talking to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/07/b27b579f-2498-4333-bafe-b4748deaf50c/resize/1200x/089a7e1aa216b3ae64c32ec52e724d16/natural-language-processing-concept-banner-header-vector-id1133656955.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
+      "publishedDateTime": "2020-07-10T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation.md",
+      "title": "Natural Language Processing (NLP) Market Opportunities And Analysis By Apple Inc., Google, Dolbey System Inc., Hewlett-Packard, IBM Corporation",
+      "excerpt": "Reports and Data released the research report of Natural Language Processing (NLP) Market, a study that offers",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation-2020-07-10?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
       "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
       "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",

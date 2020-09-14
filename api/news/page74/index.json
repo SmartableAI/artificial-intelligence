@@ -2,6 +2,875 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-07-18-50-of-food-grown-globally-is-wasted-can-ai-fix-it.md",
+      "title": "50% Of Food Grown Globally Is Wasted. Can AI Fix It?",
+      "excerpt": "We waste 1.6 billion tons of food every year while 25 million starve and another billion are malnourished. Can AI fix it? If one startup in Berlin is successful, just maybe. The global food supply chain is mind-bogglingly complex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f136ec41e6baf0007127258%2F0x0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
+      "publishedDateTime": "2020-07-18T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-the-daily-dash-fundraising-robots-and-who-rules-the-freight-world.md",
+      "title": "The Daily Dash: Fundraising, robots and who rules the freight world?",
+      "excerpt": "In today’s edition of The Daily Dash, an autonomous trucking startup is in search of funding, robots are taking over warehouses, and trucking still rules the freight world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Plus.ai-at-Monument-Rocks-Kansas.jpg",
+          "width": 1792,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
+      "publishedDateTime": "2020-07-18T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-profound-aitm-risk-receives-ce-mark-in-europe.md",
+      "title": "ProFound AI(TM) Risk Receives CE Mark in Europe",
+      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI(TM) Risk received a CE Mark",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025.md",
+      "title": "Cognitive Data Management Market Size Rising at more than 11.3% CAGR During 2020-2025",
+      "excerpt": "The global Cognitive Data Management market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 11.3% in the forecast period of 2020 to 2025 and will expected to reach USD 855.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-07-17",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-18T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
+      "title": "Work-at-home AI surveillance is a move in the wrong direction",
+      "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/surveillance.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
+      "publishedDateTime": "2020-07-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers.md",
+      "title": "OpenCV to launch budget-friendly 4K spatial camera kits for AI DIYers",
+      "excerpt": "OpenCV, an open source computer vision library, recently announced the crowdfunding launch of two OpenCV AI Kits (OAK-D and OAK-1). While it’s a bit unusual for a library to launch products, and on Kickstarter at that,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/opencvoak.jpg",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/amp/",
+      "publishedDateTime": "2020-07-18T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training.md",
+      "title": "Dive into Microsoft Azure and Prep for Key Certifications with this Training",
+      "excerpt": "“Machine Learning in the Cloud with Azure Machine Learning” uses real data and Azure’s UI and predetermined algorithms to build understanding with Azure ML. Data Management and ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "publishedDateTime": "2020-07-18T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality.md",
+      "title": "AI needs systemic solutions to systemic bias, injustice, and inequality",
+      "excerpt": "Griffin said that Hypergiant has a heuristic for its AI projects called “TOME,” for “top of mind ethics,” which they break down by use case. “With thus use case, is there a positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/DEI-breakfast-vb-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/amp/",
+      "publishedDateTime": "2020-07-18T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
+      "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
+      "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... mentioned will have to be used by people without an RTX GPU. This intelligently sharpens the upscaled image, so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4jz7DHRm7XADmwG6gGgrKm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "publishedDateTime": "2020-07-18T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-how-a-colombian-market-is-using-ai-to-combat-covid-19-outbreaks.md",
+      "title": "How a Colombian market is using AI to combat Covid-19 outbreaks",
+      "excerpt": "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-latin-america-53388656",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-latin-america-53388656",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656",
+      "publishedDateTime": "2020-07-17T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "The decrease in the staffing of an unspecified number of people was a result of the company relying on AI algorithms and models to do the work of the editors and curators. The Redmond giant has not publicly acknowledged these layoffs and sources say that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-after-jack-mas-holographic-appearance-at-an-ai-conference-shares-of-this-chinese-company-soared.md",
+      "title": "After Jack Ma’s holographic appearance at an AI conference, shares of this Chinese company soared",
+      "excerpt": ". But not in person – he appeared as a holographic projection at the event on July 9, which took place mostly online amid the coronavirus pandemic The day after Ma’s speech at the conference, shares for a relatively obscure Chinese company nearly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/18/b5a7e496-c7e6-11ea-86df-6d561651b5f4_image_hires_093712.jpg?itok=_yCoEWJZ&v=1595036239",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
+      "publishedDateTime": "2020-07-17T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
+      "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
+      "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... by people without an RTX GPU. This intelligently sharpens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4jz7DHRm7XADmwG6gGgrKm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "publishedDateTime": "2020-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-announcing-the-women-in-ai-awards-winners.md",
+      "title": "Announcing the Women in AI Awards winners",
+      "excerpt": "They have all made outstanding contributions in the AI field, from advancing the work in ethics and fairness in AI, to trailblazing research critical to AI innovation, to ensuring young women ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Women-in-AI-Awards-Transform-2020.png?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "publishedDateTime": "2020-07-17T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models.md",
+      "title": "Why Unity claims synthetic data sets can improve computer vision models",
+      "excerpt": "And, Romero said, those problems don’t go away with scale. For example, computer vision systems for AVs learn from road events like car accidents, which are (fortunately) so rare that it’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/unity-technologies-transform-2020-romero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "publishedDateTime": "2020-07-17T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software.md",
+      "title": "Homeland Security fears widespread mask-wearing will break facial recognition software",
+      "excerpt": "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
+      "publishedDateTime": "2020-07-17T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
+      "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
+      "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/e382c098-5b42-483a-a6fd-1bbcfc69881e-e1594767341313.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
+      "publishedDateTime": "2020-07-17T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "Microsoft has reportedly cut \"hundreds\" of jobs in its MSN, Azure, and sales organizations as part of its end of financial year re-evaluations. However, they are not as massive as the previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-how-pixar-uses-ai-and-gans-to-create-high-resolution-content.md",
       "title": "How Pixar uses AI and GANs to create high-resolution content",
       "excerpt": "Watch the final day of VB Transform live on YouTube! As digital animators continue to push the boundaries of technology and creativity, the technical teams that support them are turning to ...",
@@ -305,879 +1174,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
-      "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
-      "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/04/11/7f14de97-e97a-4051-a342-644378ddf1d4/resize/1200x/2fe4d638fcfc2c8d05a64a57d184b147/istock-912675036.jpg",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "publishedDateTime": "2020-07-17T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex.md",
-      "title": "Building a scalable outbound call engine using Amazon Connect and Amazon Lex",
-      "excerpt": "&shy; This is a guest post by AWS Machine Learning Hero Cyrus Wong. Staying connected with family, friends, and colleagues is easy for most people who live with or close to others. For educators who need to communicate lessons and schedules with their students, or businesses who communicate with new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/14/scalable-outbound-call-engine-001.jpg",
-          "width": 800,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T11:35:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-weekly-transform-2020-showcased-the-practical-side-of-ai-and-ml.md",
-      "title": "AI Weekly: Transform 2020 showcased the practical side of AI and ML",
-      "excerpt": "Luminaries including Google Brain ethicist Timnit Gebru and IBM AI ethics leader Francesca Rossi spoke about how women are advancing AI and leading the trend of AI fairness, ethics, and human ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
-      "publishedDateTime": "2020-07-17T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning.md",
-      "title": "Researchers warn court ruling could have a chilling effect on adversarial machine learning",
-      "excerpt": "Watch the final day of VB Transform live on YouTube! A cross-disciplinary team of machine learning, security, policy, and law experts say inconsistent court interpretations of an anti-hacking law ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/oblique_facade_2_us_supreme_court.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/",
-      "publishedDateTime": "2020-07-17T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-uber-tooling-is-a-critical-part-of-ai-development-and-deployment.md",
-      "title": "Uber: Tooling is a critical part of AI development and deployment",
-      "excerpt": "He revealed this tidbit during a session at VentureBeat’s Transform 2020 summit, during which he spoke about Uber’s use of AI and internet of things (IoT) technologies at the edge and in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "publishedDateTime": "2020-07-17T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai.md",
-      "title": "Nvidia: Edge AI solves specific business problems, won’t kill cloud AI",
-      "excerpt": "While \"edge AI\" has become a buzzword in recent years, the actual value of nearby, cloud-like servers has been somewhat amorphous. Nvidia has answers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/nvidiatransform2020-e1594212068141.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
-      "publishedDateTime": "2020-07-17T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot.md",
-      "title": "Intel VP: AI-aided defect detection is a killer app for industrial IoT",
-      "excerpt": "Computer vision has become one of AI’s most promising applications, combining ever-improving cameras with faster and smarter automated object recognition. During today’s Transform 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/inteltransform2020-e1594304433845.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
-      "publishedDateTime": "2020-07-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
-      "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
-      "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "publishedDateTime": "2020-07-17T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-commentary-combine-optimization-machine-learning-and-simulation-to-move-freight.md",
-      "title": "Commentary: Combine optimization, machine learning and simulation to move freight",
-      "excerpt": "On July 7, FreightWaves ran Commentary: Optimal Dynamics – the decision layer of logistics?, which kicked off a series that will focus on “AI in Supply Chain.” I believe that the incorporation of decision-making technologies in the supply chain is potentially the most transformative development in global industrial supply chains that we will see for the next two or three decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_071520_2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
-      "publishedDateTime": "2020-07-17T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
-      "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
-      "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can.md",
-      "title": "AI researchers say we’ve squeezed nearly as much out of modern computers as we can",
-      "excerpt": "Deep learning‘s reached the end of its rope. At least according to a group of MIT researchers who recently conducted an audit of more than 1,000 pre-print papers on arXiv. We’ve run out of compute, basically.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
-      "publishedDateTime": "2020-07-17T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-federal-agencies-concerned-face-masks-will-thwart-facial-recognition-tech.md",
-      "title": "Federal agencies concerned face masks will thwart facial recognition tech",
-      "excerpt": "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 298,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
-      "publishedDateTime": "2020-07-17T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-platesmart-alpr-helps-authorities-stop-domestic-terrorist.md",
-      "title": "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist",
-      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with both state-of-the-art cameras and video management ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
-          "width": 2079,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
-      "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-female-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast.md",
-      "title": "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast",
-      "excerpt": "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "publishedDateTime": "2020-07-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-after-george-floyd-french-police-face-fresh-scrutiny-over-alleged-brutality.md",
-      "title": "After George Floyd, French police face fresh scrutiny over alleged brutality",
-      "excerpt": "\"J'etouffe!\" It's French, for \"I'm suffocating\" or \"I can't breathe,\" and it was repeated seven times by a man in January as he was being pinned down by three police officers and as another filmed, near the Eiffel Tower in Paris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717115009-cedric-chouviat-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "publishedDateTime": "2020-07-17T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025.md",
-      "title": "Artificial Intelligence (AI) Market : Investigation and Growth Forecasted until the End of 2025",
-      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire.md",
-      "title": "French AI Defense Startup Tracks Geospatial Data With New Savoir-Faire",
-      "excerpt": "Earthcube is a Paris-based startup formed to develop a new set of more complex algorithms designed to analyze and identify objects and ‘situations’ from satellite images, geospatial data or data from open sources of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f117dadd0f077000607f3b5%2F0x0.jpg",
-          "width": 580,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "publishedDateTime": "2020-07-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

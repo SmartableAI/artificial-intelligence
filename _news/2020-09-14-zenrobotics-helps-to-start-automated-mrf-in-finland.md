@@ -1,29 +1,29 @@
 ---
 category: news
 title: "ZenRobotics helps to start automated MRF in Finland"
-excerpt: "According to a news release from ZenRobotics, the new facility will show how artificial intelligence- (AI-) powered robots can be used to capture materials from waste streams in construction, trade and other sectors more efficiently than before."
-publishedDateTime: 2020-09-14T15:33:00Z
-originalUrl: "https://www.recyclingtoday.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/"
-webUrl: "https://www.recyclingtoday.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/"
+excerpt: "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,"
+publishedDateTime: 2020-09-14T16:19:00Z
+originalUrl: "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/"
+webUrl: "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Recycling Today
-  domain: recyclingtoday.com
+  name: C&D Recycling
+  domain: cdrecycler.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "http://www.recyclingtoday.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop"
+  - url: "http://www.cdrecycler.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop"
     width: 736
     height: 414
     isCached: true
 
-secured: "y7Gq/veLNrcT7DNGS0LUPyXAVZsC1KSp9fUtBvPba1lJYrg34aHG2VCjjfVgfdrHiVex1okw045gVPiLNldsM6LUC3ZW1sDmLjqj2nFgyNW2j7OPxC5ShyGKv5zuplRzeB4K1Rs+8Ya3lhoREXxFtqmKO4+F2HSniZ/S4twlBaDEoQuC2O7PH0NiOnYaHtgti/+mleC3s9O11OUxB3QbuILQ1/svGOqUtDoiygYOIIdVWK0QTl8hgp+3DCFYaVZ5M+n2vwal/Sj0IfNBTWlSOlH2CI7qDJHde0O+wTHVY4FqBkhhanAVCC7u+l/VFyvc1CzhlRiaPRSVvluVGB5lHAjBEPNfaz7oE6Akqu0QxCI=;M+gaNdmdLQkV+bZwJ+Mgbg=="
+secured: "jzrDrKPB9uTXn9t/W/Gn+FpouNVG8BMAqzJEKfGC4h1ZTjuumJ2elrL4NTMKepo4CPq2cJpWD46WxNbAuhryD0mcOLWwcyCSkTYrdE2g8N7Y4I4a9JQaJOgzjRf3iD0Swv0b74utu56oBGhnmXJs+grT0enXD3IAJORi2V8ws1A61ArRnzZMXQ7MXP1pw1EgttHMM0d/r+I1KOG/ivRqftK+FhU65JB+ZRN+nEvJoZ2rjwhW71+eKTapq7V0asfYZK0t9u1sNP3MvMGdbDmCHusZujqy+tFMSpfSllm28MnB4hGOr/xwvpUUnmCI9FzZDPpgzbq1zC4SZRoTrZSC1BBTZcigLTAtIyDRlIzeI8U=;LrIrN6ZRafza7bpPdhtNnQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Latin America Self-driving Car Market 2023| Strategic Assessment By Top Players"
 excerpt: "Sep 13, 2020 (AmericaNewsHour) -- Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
 publishedDateTime: 2020-09-13T05:54:00Z
-originalUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13"
-webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13"
+originalUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13?mod=mw_quote_news"
 type: article
 quality: 50
 heat: 50
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "PZ/6zJBrppS68EjKwgkIXAvf3y802vWOdgWVvYhdgeQFrdUlV4pEMt9g6qyGhVzdtls2r3aDpjk34P6S2H0D7oIs6YXlGsICcSM8M3iAt0yqeiNNG2khGpaxviPgVpLLU3mHzMw1CQHAfdmxr6sZXYbpi+9YAaJljZu2l+eci6wWxb9Q+NXhcZUDq2Fao31pL1V8A0ijpFFy/NkSHB3Dt67lZfi6ggtdzt66LiGTXmFntBS0VWEsITRNDmgJ8Fg4Ks+432SchAhVaZuJJm0mXmieJr37aJNnQaQ/j+thxaiMfHkcbMqBbraA3sqozkH1uV9X06E1mTqTczFGQT4cDqFTfwu34dhXna3Zh6pHOto=;QBbpUsqvukBdweCY+G0WeA=="
+secured: "ewBi/WGqWrBpY1y5p9exKSG6NTqWWSKrTNty50fMCeLDGATQkZFnJCfDaHXtERDY4sPV5cIWxJv6Zs30E4AXPQow4n2qotE6BcFHGZZpG3hm35GHqm/YVotVrgbcWytE7uScaopJ1f9JSwmWYYEIUOhAwHvC4qx25LRE/6nkg48vFvkH8x4lfSUfXONLL8B4nx5U5UhU85BqzwvLquwX6SB2Ih3U754aaF2IMRrAOTRSrY1xfjJCKB4lpAXUBR4lVbqGMx3KP1+oE6efbaqgURZ4xSzhG6Z99bAmAW3LzeHuKqUoSKTRvbEhfu5tA0m/a6ivymjubauzWB8/AUeT8u6lrZKO0oGnT96Pfc+IAh0=;Z59ZZamko5GHuL3w2q5o6g=="
 ---
 

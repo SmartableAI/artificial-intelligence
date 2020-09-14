@@ -2,6 +2,39 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
+      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
+      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "publishedDateTime": "2020-09-14T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
       "title": "AI ethics groups are repeating one of society’s classic mistakes",
       "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
@@ -9,7 +42,7 @@
       "webUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
       "originalUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
       "featuredContent": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -40,7 +73,8 @@
       "topics": [
         "AI",
         "AI Ethics",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Facebook AI"
       ]
     },
     {
@@ -191,6 +225,48 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
+      "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
+      "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "originalUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg",
+          "width": 1637,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -669,6 +745,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition.md",
+      "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
+      "excerpt": "Windows 10 has a new preview version which improves the operating system’s integrated voice recognition, and introduces a thoroughly overhauled emoji picker and refreshed touch keyboard. Build 20206,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "originalUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/siQHALnsW9itubbrJGKDn7-1200-80.jpeg",
+          "width": 1175,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "publishedDateTime": "2020-09-03T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1315,159 +1441,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-us-open.md",
-      "title": "IBM will use AI to pipe in simulated crowd noise during the U.S. Open",
-      "excerpt": "IBM plans to apply AI and machine learning solutions to new challenges brought on by the pandemic during the 140th U.S. Open.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/amp/",
-      "publishedDateTime": "2020-08-28T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud.md",
-      "title": "US Open won't have spectators, but it will have IBM's AI and hybrid cloud",
-      "excerpt": "Fans will be able to use IBM's new tech features as they watch the Grand Slam event from home this year.  This year, IBM has developed three new tennis-based digital experiences for fans of the US Open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "originalUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
-      "publishedDateTime": "2020-08-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
-      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
-      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png",
-          "width": 813,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

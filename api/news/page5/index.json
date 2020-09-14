@@ -2,6 +2,542 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-10-clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift.md",
+      "title": "Clean Energy Regulator to power up AI tools after Microsoft Azure shift",
+      "excerpt": "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
+      "originalUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-ai-ruined-chess-now-its-making-the-game-beautiful-again.md",
+      "title": "AI Ruined Chess. Now, It's Making the Game Beautiful Again",
+      "excerpt": "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
+      "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp",
+      "publishedDateTime": "2020-09-09T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-portlands-facial-recognition-ban-is-a-major-win-especially-against-amazon.md",
+      "title": "Portland's facial recognition ban is a major win, especially against Amazon",
+      "excerpt": "\"The dangers and inequities in the current technology are present and clear,\" explained Portland Mayor Ted Wheeler.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
+      "featuredContent": null,
+      "heat": 422,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F10%252Fa0%252F625cc075eb3d4b72acffa2daaa3fb2de.17453.jpg%252F1200x630.jpg?signature=YwVn_DbOwjdC5xvuZXDlAGIu194=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-bans-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-09-09T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0.md",
+      "title": "Qeexo AutoML Enables Machine Learning on Arm Cortex-M0 and Cortex-M0+",
+      "excerpt": "Qeexo, developer of an automated machine learning (ML) platform that accelerates the deployment of tinyML at the edge, announced that its Qeexo AutoML platform now supports machine learning on Arm Cortex-M0 and Cortex-M0+ processors. According to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/home-page/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
+      "originalUrl": "https://www.embedded-computing.com/home-page/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f5a4c0467b71-Signal-Aggregation-De-Aggregation.png&size=1&version=1599753396&sig=99620e1b49adcd790d4c03c2f3c1dbd3&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-visualizing-tensorflow-training-jobs-with-tensorboard.md",
+      "title": "Visualizing TensorFlow training jobs with TensorBoard",
+      "excerpt": "TensorBoard is an open-source toolkit for TensorFlow users that allows you to visualize a wide range of useful information about your model, from model graphs; to loss, accuracy, or custom metrics; to embedding projections, images, and histograms of weights and biases. This post demonstrates how to use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/3-Flow.jpg",
+          "width": 900,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T14:54:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-dod-enlisting-ar-microscopes-to-spot-cancer.md",
+      "title": "DOD enlisting AR microscopes to spot cancer",
+      "excerpt": "The Defense Innovation Unit is partnering with Google Cloud to use machine learning and augmented reality to speed and improve the accuracy of cancer diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
+      "originalUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/September/ARmicroscope.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-scaling-ai-in-your-organization-should-be-deliberate-not-rushed.md",
+      "title": "Scaling AI in your organization should be deliberate, not rushed",
+      "excerpt": "Don't believe the myths surrounding scaling up your artificial intelligence. An expert tells us how to do it properly and get the most benefit from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
+      "originalUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/09/84304776-c23e-464d-a2ff-5516d2fd565e/thumbnail/770x578/4bf07fcb0bb78b83355e2d3d85a8ef95/20200908-mythsai-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
+      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
+      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
+      "publishedDateTime": "2020-09-09T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
+      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
+      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
+      "publishedDateTime": "2020-09-09T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
+      "title": "Physicist: The Entire Universe Might Be a Neural Network",
+      "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/physicist-entire-universe-neural-network/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp",
+      "publishedDateTime": "2020-09-09T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
+      "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
+      "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
+      "originalUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-230139/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
+      "publishedDateTime": "2020-09-09T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
+      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
+      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "publishedDateTime": "2020-09-09T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations.md",
       "title": "Iron Ox raises $20 million to grow robotic greenhouse operations",
       "excerpt": "Iron Ox plans to expand its robotic growing solution to greenhouses in California and other parts of the U.S. after a $20 million series B funding round.",
@@ -593,587 +1129,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
-      "title": "Facial recognition tech designed to identify African faces wins engineering award",
-      "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
-      "originalUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/WxKBvT_4_qpHIQ5vo0oh6izJhgQ=/1200x630/2020/09/09/152d4276-ed4f-403a-be66-aae1df569c9e/ap2019-charlette-jo-13a.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
-      "publishedDateTime": "2020-09-09T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though.md",
-      "title": "This AI crunched the numbers to make the perfect TikTok song — but is it though??",
-      "excerpt": "Musiio, a startup that uses AI to scan, tag, and categorize music, has deployed its tools to craft the perfect TikTok hit.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Screenshot-2020-09-09-at-12.13.58.png",
-          "width": 1398,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
-      "publishedDateTime": "2020-09-09T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
-      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-us-air-force-tests-unstoppable-robot-dogs-to-defend-bases.md",
-      "title": "US Air Force tests ‘unstoppable’ robot dogs to defend bases",
-      "excerpt": "The US Air Force has drafted creepy, faceless robot dogs to prepare for combat. The futuristic four-legged friends were deployed to Nellis Air Force Base in Nevada last week as part of a security",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
-      "originalUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/air-force-34.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
-      "publishedDateTime": "2020-09-09T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
-      "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
-      "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/mvimg_20180316_123236-e1527729518370.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
-      "publishedDateTime": "2020-09-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges.md",
-      "title": "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges",
-      "excerpt": "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
-      "originalUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-five-machine-learning-algorithms-entrepreneurs-should-understand.md",
-      "title": "Five Machine Learning Algorithms Entrepreneurs Should Understand",
-      "excerpt": "Entrepreneurs and investors should take note of how artificial intelligence (AI) is disrupting business in every vertical. As an entrepreneur myself, and the founder of an AI news website, I've had a front-row seat to the disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57dbf2993d5f6c61d10081%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "publishedDateTime": "2020-09-09T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
-      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
-      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "publishedDateTime": "2020-09-09T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-artificial-intelligence-in-pr-is-it-science-fiction.md",
-      "title": "Artificial Intelligence In PR: Is It Science Fiction?",
-      "excerpt": "Artificial intelligence (AI) is everywhere, so you knew it was only a matter of time before a PR agency tried to package it for public relations. But can AI help get stories in the news or is it just a new agency spin to stand out from the crowd?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f03670c093af40007be6125%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "publishedDateTime": "2020-09-09T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
-      "title": "How AI is impacting customer experience in fintech (VB Live)",
-      "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "publishedDateTime": "2020-09-09T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery.md",
-      "title": "Recursion Pharmaceuticals Raises $239 Million And Partners With Bayer For AI Drug Discovery",
-      "excerpt": "Startups that want to leverage artificial intelligence in drug discovery are a dime a dozen in today’s biotech landscape. But Recursion Pharmaceuticals, one of the oldest and most established AI drug discovery companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/",
-      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f581f78806c63fd9fd10081%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2020/09/09/recursion-pharmaceuticals-raises-239-million-and-partners-with-bayer-for-ai-drug-discovery/amp/",
-      "publishedDateTime": "2020-09-09T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-a-robot-wrote-this-entire-article-are-you-scared-yet-human.md",
-      "title": "A robot wrote this entire article. Are you scared yet, human?",
-      "excerpt": "I am not a human. I am a robot ... has warned that AI could “spell the end of the human race.” I am here to convince you not to worry. Artificial Intelligence will not destroy humans. Believe me.”The prompts were written by the Guardian, and fed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "originalUrl": "https://www.primenewsghana.com/features/a-robot-wrote-this-entire-article-are-you-scared-yet-human.html",
-      "featuredContent": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f3b9c31f9d2fde37b3c8522b7459da1902faab11/121_0_3598_2160/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbfb568b30cfc9214d8b05beaed3490a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "publishedDateTime": "2020-09-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prime News Ghana",
-        "domain": "primenewsghana.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

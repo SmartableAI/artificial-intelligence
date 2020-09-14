@@ -2,6 +2,476 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
+      "title": "Voltas to invest in smart products led by AI, robotics",
+      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "publishedDateTime": "2020-09-11T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence.md",
+      "title": "Convergence Of Financial Institutions’ Risk Management Aided By Artificial Intelligence",
+      "excerpt": "People have recognized the need for AI at the transactional level,” said Mr. Tengwell. “What’s now being seen is that the convergence of physical security and other risk management tools and processes is an important issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-09-11T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-researchers-claim-masks-muffle-speech-but-not-enough-to-impede-speech-recognition.md",
+      "title": "Researchers claim masks muffle speech, but not enough to impede speech recognition",
+      "excerpt": "But masks attenuate speech, which has implications for the accuracy of speech recognition systems like Google Assistant, Alexa, and Siri. In an effort to quantify the degree to which mask ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/",
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1241738009-e1599840312418.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/masks-muffle-speech-but-not-enough-to-impact-speech-recognition-systems/amp/",
+      "publishedDateTime": "2020-09-11T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-why-is-baidu-investing-in-an-ai-powered-biotech-start-up.md",
+      "title": "Why Is Baidu Investing in an AI-Powered Biotech Start-Up?",
+      "excerpt": "Chinese tech giant Baidu (NASDAQ:BIDU) is in talks with interested parties to invest up to $2 billion in a biotech start-up over the next three years, according to Reuters. The company has been incubating the idea over the past six months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591230%2Fgettyimages-1185375168.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "publishedDateTime": "2020-09-11T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-varian-expands-access-to-advanced-cancer-treatment-with-ethos.md",
+      "title": "Varian Expands Access to Advanced Cancer Treatment With Ethos",
+      "excerpt": "Varian Medical Systems, Inc. VAR recently announced that Goshen Center for Cancer Care in Goshen treated its first patient with Ethos Therapy. This marks the first availability of this advanced cancer treatment in Indiana.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11",
+      "originalUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11?amp",
+      "publishedDateTime": "2020-09-11T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service.md",
+      "title": "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service",
+      "excerpt": "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "featuredContent": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/b8a264c2-f3fc-11ea-8f3b-07283e3f3bd8_image_hires_160937.jpg?itok=_zKbtl1Z&v=1599811784",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "publishedDateTime": "2020-09-11T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
+      "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
+      "featuredContent": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV",
+      "publishedDateTime": "2020-09-11T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry.md",
+      "title": "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry",
+      "excerpt": "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9816197f1db12502f9e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "publishedDateTime": "2020-09-11T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications.md",
+      "title": "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications",
+      "excerpt": "PRNewswire/ -- Rambus Inc. (NASDAQ: RMBS), a premier silicon IP and chip provider making data faster and safer, today announced it has achieved a record 4 Gbps performance with the Rambus HBM2E memory interface solution consisting of a fully-integrated PHY and controller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires.md",
+      "title": "California Utilities Hope Drones, AI Will Lower Risk of Future Wildfires",
+      "excerpt": "Artificial intelligence may be able to spot fire risks created by faulty distribution and transmission equipment, utilities say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "originalUrl": "https://www.wsj.com/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-230887/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/california-utilities-hope-drones-ai-will-lower-risk-of-future-wildfires-11599816601",
+      "publishedDateTime": "2020-09-11T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-ai-ethics-why-teaching-ethics-and-ethics-training-is-problematic.md",
       "title": "AI ethics - why teaching ethics and \"ethics training\" is problematic",
       "excerpt": "We've been trying to teach \"ethics\" for years. Teaching AI ethics to organizations is proving to be just as problematic. Yet as the urgency of ethical AI increases, we need a way forward. What are the options?",
@@ -235,56 +705,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
-      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
-      "excerpt": "PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy football players make more informed, fair trades throughout the 2020 season.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-11-microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus.md",
       "title": "Microsoft’s updated DeepSpeed can train trillion-parameter AI models with fewer GPUs",
       "excerpt": "The newest version of Microsoft's DeepSpeed library includes optimizations for training trillion-parameter machine learning models.",
@@ -381,6 +801,48 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
+      "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
+      "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "originalUrl": "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/",
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg",
+          "width": 1637,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -695,467 +1157,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year.md",
-      "title": "MediaTek to announce 6nm Arm chips for Chromebooks next year",
-      "excerpt": "MediaTek has had a pretty impressive year in the mobile and TV market. A new report says it plans to launch a new processor for affordable Chromebooks that will be similar to Apple’s upcoming Arm-based processors for MacBooks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
-      "originalUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/05/MediaTek-Chipset-White.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios.md",
-      "title": "Cruise’s AI enables driverless vehicles to navigate uncommon scenarios",
-      "excerpt": "GM-backed autonomous car startup Cruise uses a framework dubbed the Continous Learning Machine to train perception models on uncommon scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/20190718_Cruise_AV_ISO_FINAL_MB_WBGRND-1-e1573598957728.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/cruises-ai-enables-driverless-vehicles-to-navigate-uncommon-scenarios/amp/",
-      "publishedDateTime": "2020-09-10T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-new-wsu-smart-factory-to-have-artificial-intelligence-robotics-as-it-looks-to-future.md",
-      "title": "New WSU smart factory to have artificial intelligence, robotics as it looks to future",
-      "excerpt": "A new smart factory at Wichita State University will explore manufacturing possibilities through a partnership with Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansas.com/news/business/article245609400.html",
-      "originalUrl": "https://www.kansas.com/news/business/article245609400.html",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998028001/dea73a44-1daa-42fa-a764-e842fd4a899c/e24cb380-15bf-4dad-998c-b4735c284642/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.kansas.com/news/business/article245609400.html",
-      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article245609400.html",
-      "publishedDateTime": "2020-09-10T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars.md",
-      "title": "DuckieNet lets developers test autonomous vehicle systems using toy cars",
-      "excerpt": "DuckieNet is an open source platform for developing, testing, and evaluating autonomous navigation and perception algorithms with miniature car models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/e07586e7-ad6b-42c4-8d7c-eac746decddd-e1599752755921.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/amp/",
-      "publishedDateTime": "2020-09-10T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-startup-raises-45-million-to-predict-faults-in-chips-before-they-fail.md",
-      "title": "Startup Raises $45 Million to Predict Faults in Chips Before They Fail",
-      "excerpt": "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-lockdown-couldnt-keep-waymo-from-testing-self-driving-cars-in-a-fake-city.md",
-      "title": "Lockdown couldn’t keep Waymo from testing self-driving cars … in a fake city",
-      "excerpt": "Waymo uses a 113-acre closed-course testing facility to develop its self-driving cars. Called Castle, the facility became even more valuable during lockdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/?amp",
-      "publishedDateTime": "2020-09-10T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-covid-19-pushing-investors-into-logistics-robotics.md",
-      "title": "COVID-19 Pushing Investors into Logistics Robotics",
-      "excerpt": "In this article, we will discuss some of the reasons why investors are hot for logistics robots and how these technological advancements as",
-      "sourceUrl": null,
-      "webUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "originalUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fincyte.com/wp-content/uploads/2020/09/COVID-19-Pushing-Investors-into-Logistics-Robotics.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-fincyte-com.cdn.ampproject.org/c/s/www.fincyte.com/covid-19-pushing-investors-into-logistics-robotics/?amp",
-      "publishedDateTime": "2020-09-10T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Top",
-        "domain": "fincyte.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-replicant-raises-27-million-to-propel-its-voice-ai-for-customer-service-phone-calls.md",
-      "title": "Replicant Raises $27 Million To Propel Its Voice AI For Customer Service Phone Calls",
-      "excerpt": "Replicant wants to take talking bots like Siri and Alexa to the next level: the highly conversational field of customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f59af3806cd33cc970dc30b%2F0x0.jpg%3FcropX1%3D293%26cropX2%3D2845%26cropY1%3D0%26cropY2%3D1701",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/09/10/replicant-series-a-call-center-voice-ai/amp/",
-      "publishedDateTime": "2020-09-10T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
-      "title": "Why cloud gaming is the future of Xbox",
-      "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/QCdvipeA9j2ulMONU4Ajg-tzpuk=/1200x630/2019/06/09/588eedb7-ad23-409e-ae58-0ffca65b6d42/xbox-pricing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "publishedDateTime": "2020-09-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
-      "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
-      "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1ab9a987-4ae0-43aa-b1d2-025974d9a659-e1599164184952.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "publishedDateTime": "2020-09-10T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

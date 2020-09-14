@@ -36,18 +36,18 @@ related:
         height: 630
         isCached: true
   - title: "Baidu rolls out self-driving taxi service in Beijing"
-    excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
-    publishedDateTime: 2020-09-11T05:27:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
+    excerpt: "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ..."
+    publishedDateTime: 2020-09-11T06:01:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: China Daily
+      domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
-        width: 763
-        height: 509
+      - url: "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg"
+        width: 513
+        height: 342
         isCached: true
   - title: "Baidu launches Robotaxi trials in Beijing"
     excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
@@ -62,6 +62,20 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service"
+    excerpt: "HONG KONG, Sept 12 (SCMP): Chinese internet giant Baidu launched a public robotaxi service in Beijing on Thursday as the country accelerates the commercial application of self-driving technologies ..."
+    publishedDateTime: 2020-09-12T03:52:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/09/12/baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 25
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/12/856686.jpg"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "0rSIYW+S+lw5sdPKNdQ8gcyRRvZARQr5oifY/mvwBsCBqIuvjPQ6BAq3kPaT9/GtCh+SkbXjkAzpVzpCa28xj0bY3iTbL2WsS5hmOdAIBgHGf2EI+8gYArQopAagquJQC2TLscZBm0Ubhnt2xekGYPoV0NSgvr9s0Z+7NU/gAxthDqiXZcVou7YGozHwIY1zP8BakBM7CaQ/baJlDhaO0fGu/UukBzZ3bBe3UCb3ighhPgIsd1tah0Qsf9lTy+woA918BPdUObNIDFryqF1qUY9w2pNS74wzqB3T8E22WTkRSOx6x5bNhgHzYsA9JbLVHRK8yUh2y7M1AdxImXs79MHzeo0EYqHmRJn7Yn3gy3ADwnwOAbxx2l+TzoqtUblGrADNQiUBy70SCD61SJUjymnoGL6Fqm/qj0WitXo+SkAc7lHWO6u/0e+SMM1/DrWQBG+wqtth5eDsCWSuEIF6QmhsYuw9AXcvqdZxiEglWL1SbF/muk7882D6/6IrgciS5uzXKaYOYAUoQOPJGsxonA==;ludtPSFLBcq6FySWOWNnrw=="

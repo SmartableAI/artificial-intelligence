@@ -89,21 +89,7 @@ related:
         width: 1024
         height: 549
         isCached: true
-  - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
-    excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
-    publishedDateTime: 2020-09-14T11:30:00Z
-    webUrl: "https://www.extremetech.com/computing/314934-nvidia-buys-arm-for-40-billion-plans-new-ai-research-center"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
-secured: "uk95lBJ7aWaIMfJKqfhPoUO4QYFRBkf9EQmWrQYIfUat2+iSL7oyzKnVdvIZaXhwGEaOof/5FN5wrZaL0txy5Y7pQ7/aR2+KRi7BBDgCR1YyXZArISt+WzjAY3As9v2FvOD+HvwrKJeWCU4oNrCXuGIL68NH6EKUDDNOez7wyj/if3GYjEzDbKnhN1iyTU6XhRRgAKI/w8N1uk4Js7X9lLqdy7xl2dAYkimnkCRb5088iTHwRfsFAii9S5+g+bwZqYHNIHm5UQv0Xfv2BZI0I8VX44kmmawLcYrwrg3GwXEHSqiIOtHJGPwzQ4GAZ+WKKYRxL6FuhABxquimVv05hwgsjwPWwXhFC88jTgsu6VU=;u2z+WxZOEIPm3fmLLUA7yg=="
+secured: "Iu8fdfS9ck4j7/4cP/hfhGIYUvpIUcJT+SDFQFqDPZTQ6Z+1W69UIlX6rBp5BF1/+pq7z2Ocd2y5puKC0NwygXf8lL1PDKHqn3jkrNehBIl5N8yp6Jb+/H7OZmt2g4Hj7XD9d8uA1YwBLzfF8XdkcGvcp70mI8FEZDwVa0cNY8XuH1CoqRQdNn4DBv6ved6EEhyP1q44oYAW963OPs+SO+/+64pxlaTEHS8IY11IHiqUGCbATTceN7EdfJIp167o0JtkTWbUo//dF86wnysLat3ttcPXk2ACx+9LwKaNse29M8EJ06LV52XITRKPh6T/hGKMM/dMBbhQkHEdsleOXH8rvyIHbydmjXMQUAA3ERNm3s+A6tD9PXB74AW6t/Nwbs7/TJq7CLEJYicgNR6QOOOP70/qLmBBS1e6t7IYF2L5+09F6/xf3fTZDkIcwwt8cHotlFS5vX8xfq1CmeLoJP91I8kLxBEv2tPN45b1492oZru7F2q+tq2LUH9GD/w5FZYIIQ0FAfaLq43+Vsz11E5HVqmGAjcxAT3RaI5pjZc=;0ZZulMvTKm0Nk7HJQ/LEFA=="
 ---
 

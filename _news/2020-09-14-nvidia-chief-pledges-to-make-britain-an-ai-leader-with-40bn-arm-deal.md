@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
+    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
+    publishedDateTime: 2020-09-14T17:00:00Z
+    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
+    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
   - title: "Nvidia Is Buying Arm Holdings From SoftBank in the Largest Ever Chip Deal"
     excerpt: "Under the terms of the deal, Nvidia (ticker: NVDA) will pay SoftBank (9984.Japan) $12 billion in cash, including $2 billion payable at signing, and 44.3 million Nvidia shares wort"
     publishedDateTime: 2020-09-13T23:45:00Z

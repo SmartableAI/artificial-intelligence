@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-represent
 ampWebUrl: "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/GettyImages-1153022933_web.jpg?w=3000"

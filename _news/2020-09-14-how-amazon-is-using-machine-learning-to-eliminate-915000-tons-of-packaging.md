@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning
 ampWebUrl: "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 215
     isCached: true
 
-secured: "UOpO99PloB7dMPNrCLHp9egywxDMwKzcffgKse1MxL86NcJZpJU9CkxSSS1Z16N2K/9wsdULtsx9W6neQ0S8yip/5U+DaSN+4r2gfRAjMvivsgKrgIzoCfHkH7gMZ1ikC7LRQYiaLucjeJDVHWGbcukHWyWCOEJLS0JMLfxwd8XanBM4JZviSqz6TIfBIG3GSHiXlV0+XSiZUkN+fYYRZa7ZIUMcGBQGVrI6HgPRFHHNr8UYhHwiEKWJDu7ltkKbnCjM2uRMf1eh7UoZe32/vX2AXZqYojGEsaRkbON/HI3oxmeFhOdZUN12XDBkT8uhhqwRgHCexnrT5iNBPlCAuSem7I2YZMrhSTLCIy+aMoo=;SoGlUL0k1vCUZftcQVXt5Q=="
+secured: "i9uKo4nGF11WrDlqqig4DYECzz3lNeDgntQ+qj8QJ+vM6ko8I9VX/NOeFIHg82KAkkvCR/t+LK0+mvO5iagVgx0zjEzZXWZKYQgvaDp+p+F1yELib3uVAnwrhww8cs0Dt4zxO7e0hAy+OSFHYLYuSE4aqDkx/cvmmW04AtVvB4Ez1yzg6sanFkoXIXYoFYfbHOBNTpWhUiBSBaH0urxXMBLpfBhO5cONwZ2SaCVmnsRnUyeVhxJrOxl4A8WkROlSGpyiA6H+snGtf1KnyNpfHfGT4n/Fl3zMHKt0KPumZ51kJVUeOZOjIvZkF9/JUL+ptZTpM8GavFoj6kx05bInZUdOZZMHmheVyLDw+6t6I9BcLWiTnFQpLvomaJioDIYA1wGOLu5XdS78fl/p+7jJF7vE9Xl3fWOK24cWDLaiW13sb8VmIiXayN+BjoRPe0P/3TMrN40/j1h76U4MbOBRoscQyHIwbuuttFaprvaMcfWBpErLP8y3Y7Lj/xOY410H2DkDcqyAo7mDedyep4T4IFMjc0vhCOfchSUv6D6o2Rg=;GBuO+yFpxAqvbQF4uoKKvA=="
 ---
 

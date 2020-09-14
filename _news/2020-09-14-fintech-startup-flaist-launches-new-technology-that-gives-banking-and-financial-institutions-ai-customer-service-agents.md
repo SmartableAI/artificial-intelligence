@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19418451.html"
 webUrl: "https://www.lelezard.com/en/news-19418451.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,49 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "U.S. Fintech Flaist Unveils Conversational AI Tool “EVA” For Credit Unions, Community, & Regional Banks"
+    excerpt: "Flaist, a U.S.-based fintech startup, announced on Monday the launch of its new AI tool, Eva, which helps credit unions, community, and regional banks better serve their existing customers and compete for new customers with larger financial institutions."
+    publishedDateTime: 2020-09-14T15:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 58
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/smatphone-priscilla-du-preez-unsplash-600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Dubai International Financial Centre to Continue Working with Local Organizations on Fintech Projects"
+    excerpt: "The Dubai International Financial Centre (DIFC), which serves as an global financial hub in the MENA and South Asia region, has signed a Memorandum of Understanding (MoU) with the Dubai Future Foundation (DFF)."
+    publishedDateTime: 2020-09-14T01:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Burj-Khalifa-Dubai-United-Arab-Emirates-toa-heftiba-unsplash-251x300.jpg"
+        width: 251
+        height: 300
+        isCached: true
+  - title: "MEDITECH Launches Expanse Virtual Assistant through Strategic Conversational AI Collaboration with Nuance"
+    excerpt: "MEDITECH and Nuance Communications Inc. (Nuance®) are re-imagining the way physicians interact with their Expanse EHR by introducing intuitive voice-d"
+    publishedDateTime: 2020-09-13T14:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200909005192/en/MEDITECH-Launches-Expanse-Virtual-Assistant-through-Strategic-Conversational-AI-Collaboration-with-Nuance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "JluJdIq6jFE+OLgcPSCSUlkrb4N6wKkTBfq/tiCPENfkGWyudZPTQR8BIKQiP7z8ykVRGg4BH29TbifjaXNLlbsbP75+TVnpNPV1N45LmwVAU+vSlKFN97ls1Tzf1HQeuv3aIARvC0dC8Jxg1vJIUaHhZDFNg3vG5i9zcUDat42ULkOV1CzTyeFqHGjKx0g4q3f9x/TPXKI0oa7MKP0Y5WV5K81VMrb2gy5OkXmaABQRRETr22oEHKR21U3ABf7PeOBizH9mNS7Q72i6acSvPwhu8Nec2Qwc5OCrSr8ippSXrGcrM02MNm0tpr20qYX4iwnftTPfowaFkBrJujS65JNuNcWmwFQBo8Hno3heYyw=;ncWB0zPWt6TO9gw8ePk7tQ=="
 ---

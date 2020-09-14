@@ -2,6 +2,799 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
+      "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
+      "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1027974140.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/amp/",
+      "publishedDateTime": "2020-09-02T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-cognizant-to-acquire-pe-backed-10th-magnitude.md",
+      "title": "Cognizant to acquire PE-backed 10th Magnitude",
+      "excerpt": "Cognizant has agreed to acquire Chicago-based 10th Magnitude, a cloud specialist focused on the Microsoft Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PE Hub",
+        "domain": "pehub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai.md",
+      "title": "iZotope’s new RX8 repair tool cleans up your noisy audio with AI",
+      "excerpt": "RX8, the latest release from the audio experts at iZotope, today launched with a bevvy of new features and an an updated interface. As you can guess from the sub-heading, I’m most excited about the all-new guitar de-noiser.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/RX8-796x487.jpg",
+          "width": 796,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/amp/",
+      "publishedDateTime": "2020-09-02T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
+      "title": "How to make complicated machine learning developer problems easier to solve",
+      "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
+      "publishedDateTime": "2020-09-02T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters.md",
+      "title": "Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters",
+      "excerpt": "Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/dogpose.jpg?w=1024",
+          "width": 1024,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
+      "publishedDateTime": "2020-09-02T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants.md",
+      "title": "Trump plans to collect DNA, eye scans, and voice prints from immigrants",
+      "excerpt": "The Trump administration's plans to expand the collection of biometric data from immigrants would let the government \"surveil and target our communities.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/30020836983_181ebce05e_o-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
+      "publishedDateTime": "2020-09-02T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-google-cloud-secures-us-military-ai-cancer-research-contract.md",
+      "title": "Google Cloud secures U.S. military AI cancer research contract",
+      "excerpt": "Google Cloud will provide AI for cancer diagnosis research and augmented reality microscopes to Veterans Affairs hospitals as part of a new contract.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/veterans-affairs-san-francisco.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/amp/",
+      "publishedDateTime": "2020-09-02T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-getting-a-batch-job-completion-message-from-amazon-translate.md",
+      "title": "Getting a batch job completion message from Amazon Translate",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation is a form of language translation automation that uses deep learning models to deliver more accurate and natural-sounding translation than traditional",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/13/translatebatchpoller_arch.png",
+          "width": 842,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T10:32:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ttecs-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award.md",
+      "title": "TTEC's AI-powered Learning Solution Wins Disruptive Technology of the Year Award",
+      "excerpt": "TTEC's revolutionary proprietary RealPlay technology simulates real-world customer scenarios that associates experience before they take live calls A mix of AI-powered bot, interactive digital sandbox,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
+      "publishedDateTime": "2020-09-02T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu.md",
+      "title": "GPU company Imagination Technologies to teach students how to design a CPU",
+      "excerpt": "This does not necessarily bring Imagination back to CPU business right now as it yet has to announce any RISC-V products, but rather demonstrates the company’s interests. The course is called “RVfpga: Understanding Computer Architecture” and it includes theoretical and practical materials to help students understand the basics of processor architecture in general as well as modification or RISC-V cores and microarchitectures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
+      "publishedDateTime": "2020-09-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms.md",
+      "title": "TikTok Deal Talks Are Snarled Over Fate of App’s Algorithms",
+      "excerpt": "Deal talks for TikTok’s U.S. operations have been complicated by the key question of whether the app’s core algorithms can be included as part of a deal, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
+      "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
+      "featuredContent": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-227247/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
+      "publishedDateTime": "2020-09-02T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness.md",
+      "title": "Rolls-Royce announces breakthroughs in Artificial Intelligence ethics and trustworthiness",
+      "excerpt": "Royce has announced two breakthroughs in artificial intelligence ethics, which could help gain society’s trust of the technology and accelerate the next generation of",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
+      "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Rolls-Royce.jpg?fit=400%2C400&ssl=1",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/?amp",
+      "publishedDateTime": "2020-09-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-intel-10nm-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall.md",
+      "title": "Intel: 10nm Tiger Lake CPUs will be in 50 new laptops coming this fall",
+      "excerpt": "Intel took the wraps off its not-so-secret central processing units (CPUs) codenamed Tiger Lake, built with a 10-nanometer manufacturing process. It may as well have been called Tiger Leak.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
+      "publishedDateTime": "2020-09-02T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
+      "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
+      "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1162201571.jpg?w=1000",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "publishedDateTime": "2020-09-02T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
+      "title": "Pershing takes ‘step forward’ to a password-less future",
+      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
+      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-google-partners-with-nsf-to-fund-human-ai-research-initiative.md",
+      "title": "Google partners with NSF to fund human-AI research initiative",
+      "excerpt": "A new institute will study how humans and AI working together can make better decisions than either on their own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
+      "originalUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
+      "publishedDateTime": "2020-09-02T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-the-business-imperative-for-ethical-ai.md",
+      "title": "The business imperative for ethical AI",
+      "excerpt": "Artificial intelligence (AI) tops the agenda for many organizations, but the anticipated opportunities come with a host of challenges, many of which",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
+      "originalUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/08/785jf03jr3.png",
+          "width": 587,
+          "height": 227,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/the-business-imperative-for-ethical-ai/116050?amp=1",
+      "publishedDateTime": "2020-09-02T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-xrobotics-is-keeping-the-dream-of-pizza-robots-alive.md",
       "title": "XRobotics is keeping the dream of pizza robots alive",
       "excerpt": "Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there.",
@@ -233,6 +1026,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-02-exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu.md",
+      "title": "Exxact Corporation Extends its Line of AI Development Servers to Support Latest NVIDIA A100 PCIe GPU",
+      "excerpt": "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that they are now offering a wide selection of servers for AI featuring the new NVIDIA A100 PCIe GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
+      "publishedDateTime": "2020-09-02T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say.md",
       "title": "TikTok U.S. Deal Hits Roadblock After China Restricts Sale Of AI Algorithms, Reports Say",
       "excerpt": "China’s government has restricted the export of ‘personalized content recommendation’ tools like the one used by TikTok’s app.",
@@ -327,796 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-amazon-.md",
-      "title": "Amazon запретил полиции использовать технологию распознавания лиц",
-      "excerpt": "Технологический гигант Amazon запретил полиции использовать программы, которые помогают распознать лицо преступника и быстро найти его \"профиль\" в базе данных, как минимум до конца 2020 года. Это прои",
-      "sourceUrl": null,
-      "webUrl": "https://www.pravda.ru/science/1505941-Amazon/",
-      "originalUrl": "https://www.pravda.ru/science/1505941-Amazon/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.pravda.ru/image/preview/article/9/4/1/1505941_five.jpeg",
-          "width": 585,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pravda.ru/amp/science/1505941-Amazon/",
-      "cdnAmpWebUrl": "https://www-pravda-ru.cdn.ampproject.org/c/s/www.pravda.ru/amp/science/1505941-Amazon/",
-      "publishedDateTime": "2020-09-02T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pravda",
-        "domain": "pravda.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-how-to-make-better-hiring-decisions-with-ai-based-talent-assessments.md",
-      "title": "How To Make Better Hiring Decisions With AI-Based Talent Assessments",
-      "excerpt": "As a talent acquisition manager, you may have to deal with plenty of data about your prospective hires. Remember that what was once done manually can now be processed in a fraction of the time with AI-powered talent assessments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cfbc6819db54761d8eea3%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/02/how-to-make-better-hiring-decisions-with-ai-based-talent-assessments/amp/",
-      "publishedDateTime": "2020-09-02T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu.md",
-      "title": "Exxact Corporation Extends its Line of AI Development Servers to Support Latest NVIDIA A100 PCIe GPU",
-      "excerpt": "In addition, users also have access to the latest versions of GPU-optimized AI, machine learning, and HPC software from NVIDIA NGC, allowing users to build their solutions faster and achieve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200902la10022/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200902la10022/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-elon-musk-unveils-updated-neuralink-brain-implant-design-and-surgical-robot.md",
-      "title": "Elon Musk unveils updated Neuralink brain implant design and surgical robot",
-      "excerpt": "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
-      "originalUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dezeen.com/uploads/2020/09/neuralink-elon-musk-woke-studio-technology_dezeen_2364_hero-1-852x479.jpg",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
-      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/09/02/neuralink-elon-musk-brain-implant-technology/amp/",
-      "publishedDateTime": "2020-09-02T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-xanadu-launches-quantum-cloud-platform-plans-to-double-qubits-every-6-months.md",
-      "title": "Xanadu launches quantum cloud platform, plans to double qubits every 6 months",
-      "excerpt": "Xanadu, the quantum computing startup known for Pennylane and Strawberry Fields, has launched its photonics quantum computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/",
-      "originalUrl": "https://venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/xanadu-toronto-office.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/xanadu-photonics-quantum-cloud-platform/amp/",
-      "publishedDateTime": "2020-09-02T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-five-tech-innovations-that-could-change-healthcare-this-decade.md",
-      "title": "Five Tech Innovations That Could Change Healthcare This Decade",
-      "excerpt": "Modern-day researchers and scientists are rushing against time to invent, implement and imagine life-altering, lifesaving, life-enhancing creations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e47455e0c17f79712a595%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/02/five-tech-innovations-that-could-change-healthcare-this-decade/amp/",
-      "publishedDateTime": "2020-09-02T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-iridium-unveils-the-worlds-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations.md",
-      "title": "Iridium Unveils the World's First Machine Learning Algorithms that Decode the Value of Investor Relations",
-      "excerpt": "Four different Machine Learning algorithms were deployed to analyze 9 million data points across 673 global banks, including 65 GCC banks, to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iridium-unveils-the-world-s-first-machine-learning-algorithms-that-decode-the-value-of-investor-relations-1029555399",
-      "publishedDateTime": "2020-09-02T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-how-to-use-tensorflow-in-your-browser.md",
-      "title": "How to use TensorFlow in your browser",
-      "excerpt": "Take advantage of TensorFlow.js to develop and train machine learning models in JavaScript and deploy them in a browser or on Node.js",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3570444/how-to-use-tensorflow-in-your-browser.html",
-      "originalUrl": "https://www.infoworld.com/article/3570444/how-to-use-tensorflow-in-your-browser.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/tensorflow-js-iris-training-100855117-large.jpg",
-          "width": 1199,
-          "height": 985,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3570444/how-to-use-tensorflow-in-your-browser.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570444/how-to-use-tensorflow-in-your-browser.amp.html",
-      "publishedDateTime": "2020-09-02T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.md",
-      "title": "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know",
-      "excerpt": "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "originalUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "publishedDateTime": "2020-09-02T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects.md",
-      "title": "Python programming: Microsoft's latest beginners' course looks at developing for NASA projects",
-      "excerpt": "Microsoft has teamed up with NASA to create three project-based learning modules that teach entry-level coders how to use the Python programming language and machine-learning algorithms to explore space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
-      "originalUrl": "https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/19/582375c6-baec-47ee-9c55-236b4297a9c2/thumbnail/1200x675/3ea67f1e37cd4c543258f75a21aac7a2/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/",
-      "publishedDateTime": "2020-09-02T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics.md",
-      "title": "Rolls-Royce reports breakthroughs in practical artificial intelligence ethics",
-      "excerpt": "Royce announced on Wednesday that it had achieved two breakthroughs in the field of artificial intelligence (AI) ethics. These breakthroughs will be fully published later this year on the Rolls-Royce website under a Creative Commons licence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02",
-      "originalUrl": "https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-iit-delhi-establishes-school-of-artificial-intelligence.md",
-      "title": "IIT Delhi establishes School of Artificial Intelligence",
-      "excerpt": "Delhi has established an independent “School of Artificial Intelligence (ScAI)” on its campus. The institute is already a leader in the country and",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2019/03/IIT-Delhi2.jpg?fit=600%2C314&ssl=1",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-establishes-school-of-artificial-intelligence/?amp",
-      "publishedDateTime": "2020-09-02T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-vic-contact-tracing-now-ready-for-the-reopening-says-andrews.md",
-      "title": "Vic contact tracing now ready for the reopening says Andrews",
-      "excerpt": "Artificial intelligence is being used to bolster Victoria's contact tracing system as Premier DanielAndrews moved to reassure business and the community the much criticised system is in shape for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/policy/health-and-education/vic-contact-tracing-now-ready-for-the-reopening-says-andrews-20200902-p55rr7",
-      "originalUrl": "https://www.afr.com/policy/health-and-education/vic-contact-tracing-now-ready-for-the-reopening-says-andrews-20200902-p55rr7",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.3027%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/f5f8b061941c1e0c0b7344603dd56a0e852de2ff",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-anti-procrastination-glasses-will-use-ai-to-track-your-activities.md",
-      "title": "‘Anti-Procrastination’ Glasses Will Use AI To Track Your Activities",
-      "excerpt": "Speaking of which, new ‘anti-procrastination’ smart glasses have been launched that can keep you from procrastinating by tracking your activities and providing personalized insights. SEE ALSO: This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic The glasses called the ‘Specs’ have been launched by a startup named Auctify,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
-      "originalUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai-glasses-specs_n54f.620.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/16767/anti-procrastination-glasses-will-use-ai-to-track-your-activities?amp=1",
-      "publishedDateTime": "2020-09-02T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions.md",
-      "title": "The next generation of NLP: how new capabilities empower businesses to make data-informed decisions",
-      "excerpt": "Language is constantly evolving &#8211; it shifts to meet the changing dynamics of our society. The business world is no different &#8211; it has its own vernacular that evolves in response to new innovations, changing consumer expectations and world events. The language of business is documented in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/social-tile-2.png",
-          "width": 990,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T01:00:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
-      "title": "The best facial recognition security cameras of 2020",
-      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "featuredContent": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
-      "publishedDateTime": "2020-09-02T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
-      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
-      "excerpt": "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
-      "originalUrl": "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open.md",
-      "title": "Beyond the court: How IBM is powering first-ever spectator-less US Open",
-      "excerpt": "AI Sounds: IBM leveraged its AI Highlights technology ... In past years, AI Highlights used Watson to digest video footage and rank the excitement level of each clip to compile a highlight reel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/09/1-17.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/lite/",
-      "publishedDateTime": "2020-09-02T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
