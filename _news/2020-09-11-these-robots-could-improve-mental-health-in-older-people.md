@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/these-robots-could-impr
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/these-robots-could-improve-mental-health-in-older-people/article32582582.ece/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "‘Culturally competent’ robot improves mental health in the elderly"
-    excerpt: "Care home residents spent up to 18 hours over two weeks with the robot, Pepper, who could respond to their culture-specific needs and preferences."
-    publishedDateTime: 2020-09-09T09:07:00Z
-    webUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/"
-    ampWebUrl: "https://www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/culturally-competent-robot-improves-mental-health-in-the-elderly/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 59
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2020/09/featureimage-crop-443d2a0.jpg?quality=90&crop=4px,56px,931px,401px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
 
 secured: "BhWBC38TbXQru2GNEYQZw/t6cF2NZROK2/TL7RZ40iQ8I3LMc0UIZ2u1kjs9sN4w3vUCbNLKlAhwR3JgsIZ8pEuG6KgLbUxc3HIFGyq3LWLOGtC0R4QSjSQHiIKWlXI8mHdCCYDVEcy8DZ3OeH83H10BTknVnFd3sgR57CA+DoHGW5U09kSHdZ5/E9KF2VAwAqe13Hylasyx1q7dmq+yXym06zZ/6WhxyQhm5f/eynE23/OWy0Iq4p7aMNnfBqfR0IqElAe6t3F7TRkAwUKBVRpgqAuwFV/InaYaAvu+vtJTuY6Y002jY3z7MeqPmxJ0l04FjEZ5tzl4KgjZXWuExzoBCdoQ4+J/t76i87UZN9E=;anGxgr2MiPEVxVUYHs3y9w=="
 ---

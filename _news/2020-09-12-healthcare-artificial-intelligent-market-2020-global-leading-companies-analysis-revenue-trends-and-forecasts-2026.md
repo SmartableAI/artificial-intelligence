@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
-    excerpt: "The Artificial Intelligence in Healthcare market report provides analysis for the period 2018-2030, where in the"
-    publishedDateTime: 2020-09-09T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Share, Growth By Top Company, Region, Applications, Drivers, Trends & Forecast to"
     excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
     publishedDateTime: 2020-09-10T09:56:00Z

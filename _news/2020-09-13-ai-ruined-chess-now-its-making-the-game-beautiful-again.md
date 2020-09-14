@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI ruined chess. Now it’s making the game beautiful again"
-excerpt: "Chess has a reputation for cold logic, but Vladimir Kramnik loves the game for its beauty. “It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters,"
+excerpt: "It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters, helped him dethrone Garry Kasparov in 2000 and spend several years as world champion."
 publishedDateTime: 2020-09-13T11:10:00Z
-originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=0"
-webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=0"
+originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
+webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Google AI
   - AI
 
 images:
@@ -45,6 +46,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "gBTNlf7FyF3lfxQGQWH/yeQvmLUUJ7iWjZUeWbgAxrdBCNg4SrVZY1Q+KN9NHbZmLYquIxMm4Y4GktYi+nlbeJx8Vw7ZjfPA0vwnOns2rE9QErS8dFPd9ho7SBhebD59jYDVT/en+ycLY993Aqke7W2XUbkqqof+kDEHmR/Dy6CKqdvAbt1vBxOHx6Yy+jjzhvltuwMdHSg1j35lV/2EDj3bMl5nEFUpDS1pLRGndLiTcaJDBrjZAm1BeHMwwhK+vrj3S5xz1MgD9t1cFra17CxbnP8huiVQ18UHZgax/JZByNCnTXv56HWtQYSkynRoSgihLFRaRBelbuJYLZIzAL8pTVIXY9Az6vXqWS9Ikm8=;X7Qz1WIIFOjUX7a0jvQ4sA=="
+secured: "SEK6E48bKeS6VU8JbjFMB39dBCWyMhRF+l99wTuBqdpahnI0gUUVRgqWXYpMB7gZkrlbEVZV2GOXx73OKwcrdDimU4bioA2GtJc/vz3k6K+US3fIvO5rlBeyIXmYrXaZmgl0gdGVDO74/qyFzr5LPl3hYZih/SoH9QfTuBeDcOHNdGePbIp+7RAnlBAAzzH8Wt+/LjbhgNmmm8mQd5cp4IMG6EtGm6quv6kPPIbbJE2d/SxxJBlHEYz8F4RL2Srzm3Gad5CRRLNGZc2G1dXgOu5Pev9poFcDgVPxwwP7YPbl5+5VtzQq0K9qXcGq3w3N3AAasmk3IeVAXp4Ey0tCXL6iEJucvh+gLzioOXzCUSI=;f/1ONA9vTu+E/x2BqWkA7A=="
 ---
 
