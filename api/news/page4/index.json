@@ -2,6 +2,147 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-10-millions-of-indians-are-getting-connected-to-an-internet-they-cant-use.md",
+      "title": "Millions of Indians are getting connected to an internet they can’t use",
+      "excerpt": "Most Indian businesses, banks, and government services develop their websites and apps in English and Hindi. What about the users who speak other languages?",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
+      "originalUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2016-08-31T120000Z_705861842_S1AETYOUITAA_RTRMADP_3_RELIANCE-TELECOMS-JIO-e1599688175138.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/amp/",
+      "publishedDateTime": "2020-09-10T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-vibrosense-tracks-home-appliance-usage-via-deep-learning-and-lasers.md",
+      "title": "VibroSense tracks home appliance usage via deep learning and lasers",
+      "excerpt": "Advances in technology have made many household appliances more energy efficient, and even given outdated old ones some energy-saving smarts, but addressing the power usage of each individual device across the home is still a tall order.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
+      "originalUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1dcf0a2/2147483647/strip/true/crop/2000x1333+0+74/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2F53%2Fa0112d054ab18aca18b8bef4d205%2Fdepositphotos-42162953-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/?amp=true",
+      "publishedDateTime": "2020-09-10T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-ignitarium-is-now-part-of-the-arm-ai-partner-program.md",
+      "title": "Ignitarium is now part of the Arm AI Partner Program",
+      "excerpt": "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "originalUrl": "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T909865043_g.jpg",
+          "width": 501,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program",
+      "publishedDateTime": "2020-09-10T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift.md",
       "title": "Clean Energy Regulator to power up AI tools after Microsoft Azure shift",
       "excerpt": "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,",
@@ -182,47 +323,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future.md",
-      "title": "Robot dogs join US Air Force exercise giving glimpse at potential battlefield of the future",
-      "excerpt": "It looked like a scene from science fiction. Emerging from United States Air Force planes, four-legged robot dogs scampered onto an airfield in the Mojave Desert, offering a possible preview",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html",
-      "originalUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/a/6b/a6ba1b57-07af-5666-8b6b-f02d689dea42/5f594a199ab5c.image.jpg?resize=1024%2C569",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.amp.html",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.amp.html",
-      "publishedDateTime": "2020-09-09T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -605,6 +705,56 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces.md",
+      "title": "NIST benchmarks show facial recognition technology still struggles to identify Black faces",
+      "excerpt": "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/",
+      "publishedDateTime": "2020-09-09T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1018,158 +1168,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware.md",
-      "title": "Researchers’ data set pinpoints challenges adapting speech recognition models to new hardware",
-      "excerpt": "Researchers developed a data set -- Libra-Adapt -- designed to show the challenges in adapting voice recognition models to new devices and settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/mvimg_20180316_123236-e1527729518370.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/amp/",
-      "publishedDateTime": "2020-09-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-five-machine-learning-algorithms-entrepreneurs-should-understand.md",
-      "title": "Five Machine Learning Algorithms Entrepreneurs Should Understand",
-      "excerpt": "Entrepreneurs and investors should take note of how artificial intelligence (AI) is disrupting business in every vertical. As an entrepreneur myself, and the founder of an AI news website, I've had a front-row seat to the disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57dbf2993d5f6c61d10081%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "publishedDateTime": "2020-09-09T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
-      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
-      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "publishedDateTime": "2020-09-09T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

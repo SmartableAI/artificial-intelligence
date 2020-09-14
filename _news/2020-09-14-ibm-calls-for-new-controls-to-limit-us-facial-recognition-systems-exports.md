@@ -55,22 +55,6 @@ related:
         width: 810
         height: 539
         isCached: true
-  - title: "Norfolk police tried a controversial facial recognition app that has billions of photos — maybe yours"
-    excerpt: "The police chief ordered detectives to stop, saying residents “don’t trust it.” Clearview AI compares an unknown face with billions of images scraped from social media and the web."
-    publishedDateTime: 2020-09-09T14:51:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-clearview-facial-recognition-norfolk-police-20200909-pcuvhkos5rhmzbhkzthsnlex4m-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-clearview-facial-recognition-norfolk-police-20200909-pcuvhkos5rhmzbhkzthsnlex4m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-clearview-facial-recognition-norfolk-police-20200909-pcuvhkos5rhmzbhkzthsnlex4m-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 44
-    images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
-        width: 1200
-        height: 495
-        isCached: true
   - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
     excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
     publishedDateTime: 2020-09-11T19:11:00Z

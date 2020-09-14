@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-07-kick-ass-creator-mark-millar-backs-ai-cameras-in-scottish-football.md",
+      "title": "Kick-Ass creator Mark Millar backs AI cameras in Scottish football",
+      "excerpt": "Ass and Wanted to the big screen, and now he's taking Albion Rovers to your living room via robot cameras. Comic book writer and Hollywood producer Mark Millar is behind a far-out idea that will transport fans to Cliftonhill and other lower league grounds throughout Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/football/54062392",
+      "originalUrl": "https://www.bbc.com/sport/football/54062392",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A8F9/production/_114275234_gettyimages-479336231.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/amp/football/54062392",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/football/54062392",
+      "publishedDateTime": "2020-09-07T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-this-us-based-healthcare-startup-is-saving-healthcare-cost-by-unifying-patient-records.md",
+      "title": "This US-Based Healthcare Startup Is Saving Healthcare Cost By Unifying Patient Records",
+      "excerpt": "Till date, Innovaccer has saved over $600 million in healthcare cost and has unified records for over 24 million lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/355840",
+      "originalUrl": "https://www.entrepreneur.com/article/355840",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1599492386-MyPost32.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355840",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355840",
+      "publishedDateTime": "2020-09-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-from-robots-to-3d-printing-transformation-in-manufacturing-has-lead-to-efficiencies-and-also-worries-over-future-employment.md",
+      "title": "From robots to 3D printing, transformation in manufacturing has lead to efficiencies, and also worries over future employment",
+      "excerpt": "Transformation in manufacturing is well underway as robots, AI, and drones become factory fixtures. Some are concerned about leaving workers behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
+      "originalUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f50f3937ed0ee001e25d382?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9?amp",
+      "publishedDateTime": "2020-09-07T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review.md",
       "title": "ThoughtRiver nabs $10M to speed up deal-making with AI contract review",
       "excerpt": "ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane,",
@@ -1024,136 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub.md",
-      "title": "Artificial intelligence expert moves to Montreal because it's an AI hub",
-      "excerpt": "Irina Rish, now a renowned expert in the field of artificial intelligence, first became drawn to the topic as a teenager in the former Soviet republic of Uzbekistan. At 14, she was fascinated by the notion that machines might have their own thought processes.",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
-      "originalUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2020/09/0905-city-rish-1963.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub/wcm/64cef2dd-880d-4e7b-bbda-4a37f2676c0c/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub/wcm/64cef2dd-880d-4e7b-bbda-4a37f2676c0c/amp/",
-      "publishedDateTime": "2020-09-05T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is a hot topic these days. Many companies rely on machine learning and deep data analysis to take their business operations to the next level. Other companies want to supply the needed tools to make a reality out of those AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590693%2Fdata-security.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-09-05T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-on-public-roads-in-new-mexico.md",
-      "title": "Daimler Trucks tests self-driving vehicles on public roads in New Mexico",
-      "excerpt": "SANTA FE — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
-      "originalUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/03/PNM2/5219012c-f7d7-4ece-b613-65135b314c79-AP20121435862361.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.lcsun-news.com/amp/5709369002",
-      "cdnAmpWebUrl": "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5709369002",
-      "publishedDateTime": "2020-09-04T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Cruces Sun-News",
-        "domain": "lcsun-news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

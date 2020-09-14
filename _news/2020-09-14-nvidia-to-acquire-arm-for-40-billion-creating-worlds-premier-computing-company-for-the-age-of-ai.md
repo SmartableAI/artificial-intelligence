@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA seals deal to acquire Arm for $40 billion, 'Age of AI' coming"
-    excerpt: "NVIDIA announces a 'definitive agreement' to acquire Arm Limited from SBG and SoftBank Vision Fund in a deal worth $40 billion."
-    publishedDateTime: 2020-09-14T00:23:00Z
-    webUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
+  - title: "NVIDIA Acquires ARM to Shake Up Chip Industry"
+    excerpt: "NVIDIA’s massive purchase of ARM for $40 billion-plus will have some profound implications on AI and its rival, Intel."
+    publishedDateTime: 2020-09-14T06:07:00Z
+    webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://www.tweaktown.com/images/news/7/5/75144_01_nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/09/NIVIDA.Arm.logos.jpeg?alias=social_image"
+        width: 560
+        height: 300
         isCached: true
 
 secured: "hMJU8Jhb/+DMDu1ZGJUYUWo6FCbKro2yDBYEPm5ETGS9DLXBSPH6VDkV3dqjYMCj/HtEONlLvq1je8TLEv9fAe4pmXSv8x9SzGLeuZRIw0M2K3ODXcGgfyGiThpfm5x1NH6p5Re+G/0SLnJnx57SB9kGVLaYhwPbA4NZ46aufGOeUEkUlEsPY2lFBr1ebrj8dADKPMpHgApwhcHCTm/n1Hifh/zdwMghtbOgpx6rkvNswLmbN4PNBjnQZ87r2UMw7D17VvwNhICQadFrI7xpBopFmMXm60LZmWK/B5hEB/VkJPBbCWNAWgKk2LeBgyV8od1U5miEZ/7W46GZjRWZSyGLCzhvz5baHq7JU5K4vUs=;LbeS7pHXetOikwitfj5lRw=="

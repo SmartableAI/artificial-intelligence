@@ -9,7 +9,7 @@
       "webUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
       "originalUrl": "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043",
       "featuredContent": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -80,6 +80,56 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces.md",
+      "title": "NIST benchmarks show facial recognition technology still struggles to identify Black faces",
+      "excerpt": "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/",
+      "publishedDateTime": "2020-09-09T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -949,8 +999,8 @@
       "title": "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset",
       "excerpt": "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait",
       "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "webUrl": "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "originalUrl": "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -1277,47 +1327,6 @@
       "provider": {
         "name": "Scroll",
         "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-facial-recognition-tech-a-safe-way-forward-for-policing-retail-business.md",
-      "title": "Facial Recognition Tech A Safe Way Forward For Policing, Retail Business",
-      "excerpt": "Art inspires life as life inspires art. Sometimes, technology inspires art too. Bollywood had made a song and dance sequence on face-recognition technology way back in the 90s. It never was a hypothetical question,",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
-      "originalUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/",
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-28T205829.270-min-1.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/do-not-ask-the-cctv-camera-kabhi-koi-chehra-kya-tumne-padha-hai/amp/",
-      "publishedDateTime": "2020-08-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

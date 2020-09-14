@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2026"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-09-09T14:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-09-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Fintech Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
     excerpt: "Summary A New Market Study titled Artificial Intelligence in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports This report provides in depth study of Artificial Intelligence in Fintech Market using SWOT analysis i e Strength"
     publishedDateTime: 2020-09-09T15:19:00Z

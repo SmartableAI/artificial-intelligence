@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "New Universal OS Transforms Robots into Intelligent Collaborators that Interact and Learn from Humans, Other Robots"
-    excerpt: "Qobotix coordinates automation between manufacturers’ existing robots to boost productivity, lower costs; Enables flexibility to quickly adapt manufacturing processes while allowing for social distanc"
-    publishedDateTime: 2020-09-09T13:17:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/09/09/new-universal-os-transforms-robots-into-intelligent-collaborators-that-interact-and-learn-from-humans-other-robots/15669/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
-
 secured: "ks0oYhVNdsEizO6Xvvq+QFphMuc9aGBpxrwQ1GtgGS/hhcROGZvVkCExLPyIllbCUbR5ybnZu9mqw5SYkksRQBOHHtM+lFjvxNhYWjB6POLuZol/7tWcKx46gVGhZCrEzhHJ4lD4L4IkGoHMrrsdt4lb3R9TdOKjvf3RmZdXzT9YdqQBhsszYojniMeD8SvXPOysVd10W++JcSUttsCPZja9LTr4wUrPu7LqCHGDl0Pn+9esFuUm1gzdU3p+aQ1mAT7bnMX16M+Q1kfbLfRWf3rQ3gYVKcEDBCS6cAUnMDNhFa9AAg4bi7IUSLeclDrE1DlW3lXkVa+iUcDoZ9FPJ/y+f8ySjhldJlVAVVgtjHg=;VuvJ6x4aYHOM88xhuz9UTA=="
 ---
 

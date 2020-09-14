@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-projec
 cdnAmpWebUrl: "https://www-mdjonline-com.cdn.ampproject.org/c/s/www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-is-using-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_8ceffe66-f2b2-11ea-9144-9f201222e4ea.amp.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition tech designed to identify African faces wins engineering award"
-    excerpt: "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be."
-    publishedDateTime: 2020-09-09T14:22:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/"
+  - title: "NY-Based Facial Recognition Tech Company Wrangles With Judges in Two States Over Privacy Class Actions"
+    excerpt: "Clearview AI, which uses facial recognition technology to provide photographic information to law enforcement, is asking the JPML to coordinate nearly a dozen privacy class actions after lawyers failed to consolidate them before judges in New York and Illinois,"
+    publishedDateTime: 2020-09-10T20:08:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/09/10/ny-based-facial-recognition-tech-company-wrangles-with-judges-in-two-states-over-privacy-class-actions/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
+      name: Law
+      domain: law.com
+    quality: 23
     images:
-      - url: "https://cnet1.cbsistatic.com/img/WxKBvT_4_qpHIQ5vo0oh6izJhgQ=/1200x630/2020/09/09/152d4276-ed4f-403a-be66-aae1df569c9e/ap2019-charlette-jo-13a.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NIST benchmarks show facial recognition technology still struggles to identify Black faces"
-    excerpt: "NIST benchmarks suggest some facial recognition algorithms haven't corrected historic bias -- and are actually getting worse."
-    publishedDateTime: 2020-09-09T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/"
-    ampWebUrl: "https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/09/Facial-Recognition-Article-202009101535.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "GuC97dnKZID3K/iY+9CVX3s8ULSM6+UgHslZc4GSlpO+NjhqhnRnryEMqCDe3c5e6A24eCmv2zc3VIVfx8pmQItkn6u0A4K5CLJYdM1B0gvKTXgYDDdUJm3rfokbZedZT/7hQuiesutqR9URXrZd5tZvTU+yiVecC7D9JRi8609pY2Aom3Jyjvit26SuEcFxZw+22ongYM19fVSrLBQH25zM4fN2CQRSZqZknqk137GbklDDGVOb2pbsDKqAWpp3w7Mv14+T1mKCJoSoHLQkfmFdboPbQtc0ERyFDVoBx5oy1FQbBo4YEO5mSo+/XwTdqXdEf5w7vbGaUa0PgDd2ifMoGnSBNlXy3BsVKFNOq7g=;Mtp9VIur/a40INm/g5khbA=="

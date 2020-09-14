@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/09/10/e5a2fb74-f304-11ea-8f3b-07283e3f3bd8_image_hires_093026.jpg?itok=15o7AKBJ&v=1599701435"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese tech giant Baidu is reportedly in talks with investors to raise $2 billion for an AI disease diagnosis startup"
-    excerpt: "Chinese tech company Baidu reportedly plans to raise $US2 billion for a biotech startup that will use AI to develop drugs and diagnose diseases."
-    publishedDateTime: 2020-09-09T14:12:00Z
-    webUrl: "https://www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9"
-    ampWebUrl: "https://www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9/amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9/amp"
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 33
-    images:
-      - url: "https://i.insider.com/5ec2f42d1918240b364ce1ec"
-        width: 6000
-        height: 4000
         isCached: true
 
 secured: "3KCJX35Se4YntjuCV1btWYIJfa4U3R51VRA2FhxJw6pGFtuLx0+IJi4VumDKv9a6CNki47akrgvoOw9DzWOUoThlpP1Ok5oAnVaoVofEGdj78jJEoCJmMubrKONKgAXaNehjvxw25nZ84quSetrZqPEd13paXz4naRCHUdwGBMIY9RbfhrVPCx7GGGJaoKJ1hVNs6+1rM9K64kk+uBH3IIxsmPB/rT9s4cECKP/DUsQAxusg43yL/SgQpHohFQX634lotw9GelKoIQbQnjw/ssZafkIuSLNKIgrepplnfzFEndF4U04bn5vdXYT1DHeFmdmd+6a+739+JnjAMS86arROQvT/6mrzy0w+q6c7h7DhtfpWaDmEM2cnowb5L46KCLQf8++8Bm2M4s/BTd+svNLHvlTwOcCANejfmx9IqJrqhD1gs+ESldZ9ZGItj8gZB1WhgRavGt8hxGgYB7pFdAu09ZkOLl6rnHk4crO/lxtugqJwRghcVTeu0HdIsZei4FwNj65cMAHGqh9dDwM7fA==;kqijPE1D4UvGmW64cXeJAg=="

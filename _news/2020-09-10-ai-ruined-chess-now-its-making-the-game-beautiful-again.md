@@ -33,14 +33,14 @@ images:
 
 related:
   - title: "AI ruined chess. Now it’s making the game beautiful again"
-    excerpt: "Chess has a reputation for cold logic, but Vladimir Kramnik loves the game for its beauty. “It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters,"
+    excerpt: "It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters, helped him dethrone Garry Kasparov in 2000 and spend several years as world champion."
     publishedDateTime: 2020-09-13T11:10:00Z
-    webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=0"
+    webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/chess-760x380.jpg"
         width: 760

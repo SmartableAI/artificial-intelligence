@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry</loc>
+    <lastmod>2020-09-13T23:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/</loc>
     <lastmod>2020-09-13T21:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/</loc>
     <lastmod>2020-09-13T02:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://theprint.in/world/robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare/501708/</loc>
+    <lastmod>2020-09-13T02:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -421,6 +433,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361</loc>
+    <lastmod>2020-09-10T03:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/</loc>
     <lastmod>2020-09-10T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -475,12 +493,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.azfamily.com/news/us_world_news/robot-dogs-join-us-air-force-exercise-giving-glimpse-at-potential-battlefield-of-the-future/article_1653dbd5-a080-5c4c-a9f1-d64cd64d1b5c.html</loc>
-    <lastmod>2020-09-09T14:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/</loc>
     <lastmod>2020-09-09T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -525,6 +537,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/09/16-smart-ways-you-can-leverage-ai-to-boost-your-business/</loc>
     <lastmod>2020-09-09T10:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/09/nist-benchmarks-show-facial-recognition-technology-still-struggles-to-identify-black-faces/</loc>
+    <lastmod>2020-09-09T10:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -727,14 +745,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1813,7 +1831,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html</loc>
+    <loc>https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html</loc>
     <lastmod>2020-09-02T00:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

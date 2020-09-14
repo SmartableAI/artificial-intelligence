@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Tamr-on-Azure-Provides
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tamr-on-Azure-Provides-Flexible-Approach-to-Data-Mastering-142769.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
-    publishedDateTime: 2020-09-09T14:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Webee Corporation's No-Code IoT Builder Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Webee Corporation, a next-gen Industrial Internet of Things (IIoT) company, today announced the availability of Webee, its no-code visual IoT solution, in the Microsoft Azure Marketplace, an online store providing applications and services for use"
-    publishedDateTime: 2020-09-13T00:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-19414599.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 60
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "pX3v9t9VaxNo8MrWyX9ddDvpbumlHtlinRO2CQvz8Wujt2Dwegr943+giuii30suZ3/HjAxK9MFBtvlDH4BljJPvGljuqs8XjbiVbtPxXB+Ne48KYvV6Zo++ckfKc0KeFr4NKSc9js8pCzDXkA3ESbfNPk22CfOKHpaYh69+HwFOxdoa6yCb4efIklJ0GJxUgFtOCeb7Uv2e++bnMc/rkqtHAqjjBBbRQzVoLAwKpBuPQ2k8M7TmmnswJnJDRfcgi07WmesWFpKRIlZvbBy/sX6aPsxCD2/m3EBauO/rMjvzjHB6Kxek3SEwJRF/BKLvjCjwoFi1u+82HeyhatBthpa4Ciss1jZJKzvUs954uHY=;ssK8lSLbw2uwmujX9xkoIQ=="
 ---

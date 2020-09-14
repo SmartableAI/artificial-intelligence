@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 549
         isCached: true
+  - title: "UK's chip design giant Arm Holdings sold in $40bn deal"
+    excerpt: "America's Nvidia has pledged Arm will remain based in Cambridge but the business's co-founder described the deal as a disaster."
+    publishedDateTime: 2020-09-14T07:53:00Z
+    webUrl: "https://news.sky.com/story/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    ampWebUrl: "https://news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/16/08/1600x900/42dcee07ded5c06f53c535b3db49840c20a60f4af1691c3bc83c64ad8434fe5b_3756902.jpg?20160803094809"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "8BHuoU9zwtG/KnJ7B3yTW5n3vLFoTd/xUEcLTDrKFY0pBoFFZKU4l+AIlvfQta2nt0Tb0wRkf5FJ1zggDvUbPKujnrwE8xqOsoMng3cFL3lBpdti3SVXc4u/NPyIQpSkTny4APnS/E4XiF6rK/H0RQs/W+WQTqOUp0LsldYd35jI64lZxBQw+mVHV8T3gLg8ETfhrS2zSaZMqxwPx577S/jSZgMDT2g7Jmp8H56m1o1sdbGu5JDbEkbGtI4Kj3sbWHkOuQdtefK8BgC8sFhL3YOceqFpAf1MUHgcw2vDATMm4lUc/hnitOT2VCw/lC+3HD5x07/OhA5iMlvHYXlQO7QeFNKKu09LJHKN9fiemNZ7QcnbDYvmdN71ETDhwn/HETYLHcoi7XnxTOnTVCer4rXabPU/sO8UAi7bhiAqdvFjM7JW2zvDTaUckqDIudOfgVnI+6dpxwGDgkpoZoIwTwwpzXZzrdIqoNgKlUkmFdMPs7TqdmKxQ58g9LvyrS2XwY1Ky6bPHuYSbjs3imLxKw==;aiGhDH2GLVRFZ5Kdu4HqAg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-14T05:43:00Z
 originalUrl: "https://analyticsindiamag.com/how-this-startup-is-using-automatic-speech-recognition-to-assist-sales-reps/"
 webUrl: "https://analyticsindiamag.com/how-this-startup-is-using-automatic-speech-recognition-to-assist-sales-reps/"
 type: article
-quality: 20
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Untitled-1-min.jpg"
@@ -41,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+euFrZLStONg7ZMAgqUOCD1zIFq0HLi+4zM4tQQHJ8WYJ+0Uh28n7su7ZRMzDH5NGaaW9d1R9Fm2hjPxulmh+wnznqBNc1mg0s/kMPaLFnBBUkAuCXQ7CHwrIy9ULtz16ypMkFQenMWvWuYZG1DGFjDOV2KskYImOUb/jIx9tzmWokRU6hDA73NZ3e6g27krlQ+j8fQuUSIA+2Y9HZULgUF8Dtpiz1fHfwRn2BsOOJriEaYGy0MDdAN5/R7/G33OxXfIQqfa6HL5z9WjD47PTL3FXYCWl9JSb8KAwcQJL7F74YWFgmGqQvkCwOsPxQGQLblBkAqDhdkd9GzTlyik6E3ajOvFHFzzoGz2J1s3CyU=;2gkbDMJ+CchV5ipDAXYjZg=="
+secured: "ldZAM+57q5arK+W2V2RQ+h1FlkANN1/UqxoH+mtE96ZnmuVX2nYfoNAxg+U0UHaFrm1UnCMMKRwtU2CR5yBpWVJUI3OkolNyBaRP7l3LklbD7hMpRKSGwYQYpsO0gqg7PH79OUADEwXZdBJXG4MIoPdohc0oJvnQEdUO9yzNFS0s+wlAX5wE6l5pfJDs+fhjJ6KvE9nYU1ZCXppOrL5H3PYxMdKOUkjaEcEWISP+QxxI5EE5N3QRTY5bnDgszwT942CUo1JrKHhU562zjNRk2JGkbIS12nkjAjB/k3oHy39v6CY0ru+/7pjQ+CI8tXeOz02wAWEgzLHPCewfsBm4/q6qNwsjsp38Ox6UrnX6Vbk9VQqZWSbTirlYiWZnMbldqdLzekh+DRhntl1YZN6rDGjIGHaJhVyfqiflwV0+n/sJL+QQkeVLIcpldIe5h2ayKWUDlALMKKqIpUzzczSfgPbM99n9nSddju13jjhqw4AgZ+VyV3sYD7ygbqYT8XXUC7VCTK1o73JyhhHfoT+DbA==;j/93Qvnm3gSrayydO0Ic+w=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 567
         isCached: true
-  - title: "Chinese tech giant Baidu is reportedly in talks with investors to raise $2 billion for an AI disease diagnosis startup"
-    excerpt: "Chinese tech company Baidu reportedly plans to raise $US2 billion for a biotech startup that will use AI to develop drugs and diagnose diseases."
-    publishedDateTime: 2020-09-09T14:12:00Z
-    webUrl: "https://www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9"
-    ampWebUrl: "https://www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9/amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/baidu-talks-with-investors-raise-2-billion-for-biotech-startup-2020-9/amp"
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 33
-    images:
-      - url: "https://i.insider.com/5ec2f42d1918240b364ce1ec"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "nguQbuYv3kV23APAucBtk/axg7zpRfsNXWQK0vOeLx2Ks/qn0k4GMUrX+BYWGW0ec1b5ICIaZuiVK4jatu+c16PihzDlHBpsHaR2LriPiufKANRt7P2NDUACtXg/Xlk8XqUQo/ZZOmR3DElLjoNIExJM/zxvEfCOUezBOf0GtqgFbjh13vBkj94lYebRSIhIGE16+4tpkWot8fUmpUZoImauC+RDgK3jUeUf2Hr6i4YJZL4yUqAGuzctt7wyQ9TGzJCM24/wATUQmeKbfxF1I/wwsvmLfSgAX3v+BMdfPCLgEe5b7e51//a/H+dtzCWl9loH7kZssVwKEBWOaiHVf3R8rr6T8RVwOQMOb1S7odZe1O+KW/xa0PZkjkDYJ0lxYUtQl/xTvk2bnfZNApZ44J5gya8hQ16xNDwSw/P05lMJF7p4B3SXKY0v5UEp6HDR6Yx2hTx1PfCenxnb6XvejkLYw3moEn4u7YgVDDzUflvSbdZJeOgwmsPtrrMM0X0Z2QPghHRW0MXVxDOAeFjfPTRSn7LdqJv9Q0tGJvmWFzo=;kaTX0lv/2FatgOViF0+nGw=="
 ---

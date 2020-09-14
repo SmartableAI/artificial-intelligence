@@ -34,7 +34,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 20
+    quality: 37
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/09/Untitled-1-min.jpg"
         width: 1600
