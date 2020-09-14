@@ -2,6 +2,130 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-08-21-losses-mount-at-british-unicorn-graphcore-as-it-pours-cash-into-ai-chips.md",
+      "title": "Losses mount at British unicorn Graphcore as it pours cash into AI chips",
+      "excerpt": "The Bristol-based company said it had almost doubled the size of its headcount to accelerate development of the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/21/losses-mount-british-unicorn-graphcore-pours-cash-ai-chips/amp/",
+      "publishedDateTime": "2020-08-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba.md",
+      "title": "Reinforcement Learning Market to See Massive Growth by 2025 | Bonsai, Deepmind Technologies, Maluuba",
+      "excerpt": "Global Reinforcement Learning Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns & country along with competitive landscape, players market shares, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "originalUrl": "https://ipsnews.net/business/2020/08/21/reinforcement-learning-market-to-see-massive-growth-by-2025-bonsai-deepmind-technologies-maluuba/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2020/08/824-1597987804.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-object-detection-in-low-light-conditions.md",
+      "title": "Object detection in low-light conditions",
+      "excerpt": "Socionext and the Osaka University Institute for Datability Science have developed a method of deep learning, which enables image recognition and object de",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/business/object-detection-low-light-conditions-2020-08/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/object-detection-low-light-conditions-2020-08/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/08/21065509/789EA292-85BD-4B9C-9254-8674BF70BCA1.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-watch-self-driving-cars-need-to-learn-how-humans-drive.md",
       "title": "WATCH: Self-Driving Cars Need To Learn How Humans Drive",
       "excerpt": "Waymo, formerly the Google self-driving ... She is a computer scientist and engineer who studies the relationship between artificial intelligence systems, like self-driving cars, and humans.",
@@ -1024,148 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs.md",
-      "title": "Google Pixel Buds tap AI to alert users to sirens, crying babies, and barking dogs",
-      "excerpt": "Google Pixel Buds are getting an experimental feature that uses AI to alert users to the sound of a crying baby, siren, or barking dog.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/pixel-buds-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/google-pixel-buds-tap-ai-to-alert-users-to-sirens-crying-babies-and-barking-dogs/amp/",
-      "publishedDateTime": "2020-08-20T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu.md",
-      "title": "Microsoft Deploys AI ‘Supercomputing’ via Nvidia’s New Ampere A100 GPU",
-      "excerpt": "Microsoft is ramping up a new set of AI instances for its customers. The new Nvidia Ampere-powered servers are powerful enough to qualify for supercomputer status, at least in some configurations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/computing/314034-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu",
-      "originalUrl": "https://www.extremetech.com/computing/314034-microsoft-deploys-ai-supercomputing-via-nvidias-new-ampere-a100-gpu",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2020/05/Nvidia-A100-GPU-Ampere.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-researchers-improve-perception-of-robots-with-new-hearing-capabilities.md",
-      "title": "Researchers improve perception of robots with new hearing capabilities",
-      "excerpt": "Carnegie Mellon University researchers said their work is the first large-scale study of the interactions between sound and robotic action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/20/c5767581-65df-4ed5-a246-21b22b3f67bf/resize/1200x/ec160a4f64152df66088e6cdadf73782/human-hand-robot.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/researchers-improve-perception-of-robots-with-new-hearing-capabilities/",
-      "publishedDateTime": "2020-08-20T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

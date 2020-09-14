@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-13T13:08:00Z
 originalUrl: "https://nationalinterest.org/blog/buzz/would-russia-or-china-unleash-ai-weapons-without-human-control-war-168861"
 webUrl: "https://nationalinterest.org/blog/buzz/would-russia-or-china-unleash-ai-weapons-without-human-control-war-168861"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: The National Interest

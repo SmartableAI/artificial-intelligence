@@ -34,6 +34,36 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "UAE, Israeli educational institutions to collaborate on AI research"
+    excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""
+    publishedDateTime: 2020-09-13T19:22:00Z
+    webUrl: "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090"
+    ampWebUrl: "https://m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
+    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
+    publishedDateTime: 2020-09-13T12:09:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 25
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
+        width: 740
+        height: 416
+        isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
     excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
     publishedDateTime: 2020-09-10T23:36:00Z

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bbc.com/news/technology-54142567</loc>
+    <lastmod>2020-09-13T16:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9</loc>
     <lastmod>2020-09-13T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,12 +21,6 @@
   <url>
     <loc>https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/</loc>
     <lastmod>2020-09-13T05:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T</loc>
-    <lastmod>2020-09-13T02:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -141,6 +141,12 @@
   <url>
     <loc>https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/</loc>
     <lastmod>2020-09-11T09:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11</loc>
+    <lastmod>2020-09-11T08:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -523,12 +529,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/proteantecs-to-host-virtual-panel-on-datacenter-uptime-at-the-ai-hardware-summit-1029574606</loc>
-    <lastmod>2020-09-09T07:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/</loc>
     <lastmod>2020-09-09T07:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -573,12 +573,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
     <lastmod>2020-09-09T04:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -697,14 +691,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -824,6 +818,12 @@
   </url>
   <url>
     <loc>https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/</loc>
+    <lastmod>2020-09-07T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off</loc>
     <lastmod>2020-09-07T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1087,6 +1087,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/</loc>
+    <lastmod>2020-09-04T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/</loc>
     <lastmod>2020-09-04T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1113,12 +1119,6 @@
   <url>
     <loc>https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html</loc>
     <lastmod>2020-09-04T04:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1165,8 +1165,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcconnecticut.com/news/business/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2328323/?_osource=SocialFlowTwt_CTBrand</loc>
-    <lastmod>2020-09-03T23:31:00-07:00</lastmod>
+    <loc>https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html</loc>
+    <lastmod>2020-09-04T00:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1185,6 +1185,12 @@
   <url>
     <loc>https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php</loc>
     <lastmod>2020-09-03T20:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html</loc>
+    <lastmod>2020-09-03T19:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1605,6 +1611,12 @@
   <url>
     <loc>https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/</loc>
     <lastmod>2020-09-02T09:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360</loc>
+    <lastmod>2020-09-02T08:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3135,6 +3147,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere</loc>
     <lastmod>2020-08-26T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/08/200825110638.htm</loc>
+    <lastmod>2020-08-25T22:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

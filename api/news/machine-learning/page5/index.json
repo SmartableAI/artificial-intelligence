@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-04-ping-an-askbob-doctors-deep-learning-model-improves-diagnosis-of-kidney-disease.md",
+      "title": "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease",
+      "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865",
+      "publishedDateTime": "2020-08-04T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
       "title": "Get over 50 hours of training in machine learning for under £30",
       "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
@@ -1336,48 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy.md",
-      "title": "A New Brain-Inspired Learning Method for AI Saves Memory and Energy",
-      "excerpt": "Rather than processing big batches of data at once, the approach simply learns from data as it becomes available, cutting the required memory and energy.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "publishedDateTime": "2020-07-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

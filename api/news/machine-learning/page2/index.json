@@ -624,6 +624,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
+      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
+      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-astronomers-confirm-50-new-exoplanets-using-machine-learning-algorithm.md",
       "title": "Astronomers confirm 50 new exoplanets using machine learning algorithm",
       "excerpt": "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope.",
@@ -1342,48 +1383,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-targets-its-fastest-azure-ai-instance-to-date-at-large-neural-networks.md",
-      "title": "Microsoft targets its fastest Azure AI instance to date at large neural networks",
-      "excerpt": "Microsoft Corp. today previewed a new Azure instance for training artificial intelligence models that targets the emerging class of advanced, ultra-large neural networks being pio",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/",
-      "originalUrl": "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/microsoft.png",
-          "width": 818,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

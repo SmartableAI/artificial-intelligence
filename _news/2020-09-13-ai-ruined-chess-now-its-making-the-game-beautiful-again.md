@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-13T11:10:00Z
 originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=0"
 webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=0"
 type: article
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -18,6 +21,30 @@ provider:
 topics:
   - AI
 
-secured: "IylO4dD1GXMQCzICRNAQ1Uw2dY+5o3erKPhdsg/nEm+y06CEsxtkYUVl5y/aecjG1gAAwHSaoC4HvXpdxyg5tLvXl4Qq3qIUTIROg7iB9Ut2O+GpIqhTsk50KXg8poNpuagUURhZMwvzM0VZqYY/LRINL9SNY2G/ZJA3GkJdrfvivua1QL66Thlq0GZ1jlswyRcI5zCG036g6PgmB7LXkg/kFmM9iJBaPzIznJxvauyLj+virsSUVepK3sgvJlTkihCRDLTyA7NtLHnuYBsWGWVqzFxRyYxXBYd0opVHmZwwsEFeYunJJFi/V0+PRVWCs17rBXoI5x6glcif1eZ+xd79cjoKq7CjEifhzpabUGc=;OelDyhm2FRmCiyBMaxRH7w=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/chess-760x380.jpg"
+    width: 760
+    height: 380
+    isCached: true
+
+related:
+  - title: "AI Ruined Chess. Now, It's Making the Game Beautiful Again"
+    excerpt: "A former world champion teams up with the makers of AlphaZero to test variants on the age-old game that can jolt players into creative patterns."
+    publishedDateTime: 2020-09-10T02:08:00Z
+    webUrl: "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/"
+    ampWebUrl: "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/master/pass/business_chess_1200074974.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+
+secured: "46LuUdIwM3ubymmhEGIN2H7RuR7vpMOxQUfHcXvWmrik3Hu2MJbc0CUlMoC2YKNjlGXb/cu0pbJxHZ7wOqAXCIZZzvSUg4P57LwK9ewCHV1lLSSZNW+KqmNVRvtL0jnYLgNLg/sN3SdOJ7xumICsHOM+Ag8kvyGIIvTx2pSPvIwGysdvj58rdzqbheZk9Un2dFauutdiBiTcSKOw38CpwQqmARGC8Sr85RWnqWmjYRsFuUc5qd7Alve/yDd7LEdZ5hR6ITXJjWiHy+NgvjzrVOK5UNDNJM7ZdfTmCFHE8sJRQ6aV368lzlK9k0TUDdPzWY9KonAicYhhU21WBFM+8fQ73wBdmMFmnAnzEp3QS1Y=;C0pZdwQUTYTnFanMJ4Mm/g=="
 ---
 

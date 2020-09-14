@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-13T20:00:00Z
 originalUrl: "https://buffalonews.com/opinion/another-voice-drug-abuse-crisis-demands-a-government-response/article_c07fa5fc-f45a-11ea-9f5b-fbad0de6ccb0.html"
 webUrl: "https://buffalonews.com/opinion/another-voice-drug-abuse-crisis-demands-a-government-response/article_c07fa5fc-f45a-11ea-9f5b-fbad0de6ccb0.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Buffalo News

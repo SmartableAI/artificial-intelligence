@@ -16,6 +16,12 @@ topics:
   - Google AI
   - AI
 
-secured: "kgK7rqlMGUQihjSawWEtnGjesssJbqnJK2Rb3Nt++s0k17LwSyBJQp7GqCx2oGDNAIN90E2crmvNBonFtVB+uH6XgqpXgYEQk4S2qsRkbK/u5zUXx8I+EHz5V0uqzPAtG5K3ZAHNtU9EO0GayckOWtOCBdfbXdhIQpfzRYG3YTQmRYQPCJHeWTMonCCbqd/xZA8HQcBVJGVpiEkZUMLM83WGPrsRXCjkNDW1SvMKyAVQzILR0wwKDdn89DtTx37a/m8eoLgZaUNo0LqHWQy13pGeA4yV+jrl/Wu+QAIio0v0P+pH3cyxw5WIXKmvWC2IbPnHiR2Zoarwdy1L79SS5ccFihe+DWD7V75blWtA5/U=;UQAul+mQLsFeTMi/BbVUnA=="
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
+    width: 440
+    height: 440
+    isCached: true
+
+secured: "jtzgoVD+ocsrzAn99Iegc6CWpoFgOSadkKSD2DR+aoB9vTaCq7z4q/6EI8l/QplGdMFFUc4QkyqrL0wSyN/XofoDA5tILIvFntCYRfX0faxZwLew3z4Bf2q6qu47eajBcSxghOTzJwIvahTpLC0Xd4XbauAGJr93Zs0MmAwOALI3rNWC0IvjYdJALvU9kTwkQ7SHtkYhbYUgxat7aP+gueeEhnsM++d2DYAHtMK/x+90+unUTUvsyBXkuMe5e+l/nazEJxpDYQCaPujGUU9aFnsXxjPcbREVhLeQM0XlDumCeE7u3i+pG0EI3LzzDyD29IRcdI6xbfBAjoAQ61DdaJiM7hCtqjrR9V3X2Ww41CM=;sc20Fyan7zKk0LNUzehGlA=="
 ---
 

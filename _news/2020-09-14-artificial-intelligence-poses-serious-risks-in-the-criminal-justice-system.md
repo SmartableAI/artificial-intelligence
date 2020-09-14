@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-13T20:54:00Z
 originalUrl: "https://www.jhunewsletter.com/article/2020/09/artificial-intelligence-poses-serious-risks-in-the-criminal-justice-system"
 webUrl: "https://www.jhunewsletter.com/article/2020/09/artificial-intelligence-poses-serious-risks-in-the-criminal-justice-system"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Johns Hopkins Newsletter
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "rhx6AjcDHII3mmfK3dEI0QtSVhd7lUV7u+W1geuC2ktWheQDKNbwMhPg3kHiISUyJS3KOnws0TMzS5+fKbDdPPgpPjKCCUw3Nx3Bh7Ww/CdDQfu0JR4PTNgRDfXrRxMlw8r0xY4KYkyE3axW/+2PivFVbpG14wZhoSOzTo7w+sd9C16ChzaVFZDuQvl4pA5xkPLZsLKF2hiqffDHxPi8+ylRbAjMg3u1x3KaCGPlCfluy/R4VNeFAJpOXfD4c7GFRImTETMPV1Jd3t3YGdPxl9S8wOJiUxLVlC+lAJ/aPpcGuhLlundCFhDovD+sdeMGWR1BmKmNCuiORJqXouF+9hVQLiqM8qMq/3qaFfcoBwF3MvllMzp0sG/VNSD7Gsh5qWEatkAp0dtwdGqbdBksf4uv3Kf8INBjeDeaPQ6PJc9y2FonS5DhrHUjw/zDKQXYC+qUsVKu56kM7wmDSK+5Hs3QCWFA2om+bEqjWl0Vn8B0If/BMsInmQHhqgKALlJCw8smdCQN26vEAYNfXsGW+A==;i9vyokbmgR3NIrdMsUY2gA=="
+images:
+  - url: "https://snworksceo.imgix.net/jhn/57570b82-030c-4692-af9d-67e6a40fcdeb.sized-1000x1000.jpg?w=800&h=600"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "HyGgeAr77R+RHjW8QjIdtTJDE8u27d2ee6SEJOcpnO/k6RNGkzYsd/YqfebHjKQyMaB48A6YW9d1uqQorkev7MRUFQf28LJyWfqFQXCUNazKeJmgiW8mMG2U5vim1jMND2rH1SI8xdC5ZYRHr9ch0nED3lRlb36eZMHRb7XcMvv0rjNbq6Rvny9inyMqDRADRw6YpszTpinJZUntu3IxHijFnIupTJZnFbjvzhk0me4S6coWtKQQKKvbjvG6ulWhPfpmcuAtCi8FqXzdXZ8IbWNGCF3Qf3bM3IFSZ1rvSNisnhh4e39VlddI8rE1jCxCjaA4RB2qvQakg3zOTHBOTfd7UlPUbY0hkIjj3dAoSjE=;r9cq7cbYXo+IGoXxpX/FaQ=="
 ---
 

@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU - WAM"
-    excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together, UAE state news agency WAM said on Sunday."
-    publishedDateTime: 2020-09-13T09:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-israel-gulf-emirates-education-idUKKBN26408T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26408T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26408T"
+  - title: "Israel and UAE to collaborate on AI, cloud computing for COVID-19"
+    excerpt: "Abu Dhabi's Group 42 company, which specializes in artificial intelligence (AI) and cloud computing, is planning to open offices in Israel in order to collaborate on solutions to the coronavirus pandemic,"
+    publishedDateTime: 2020-09-12T15:25:00Z
+    webUrl: "https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036"
+    ampWebUrl: "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/462888"
+        width: 640
+        height: 428
+        isCached: true
   - title: "UAE, Israeli educational institutions to collaborate on AI research"
     excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""
     publishedDateTime: 2020-09-13T19:22:00Z
@@ -52,34 +57,29 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "UAE, Israeli Educational Institution Sign Artificial Intelligence MoU"
-    excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together,"
-    publishedDateTime: 2020-09-13T08:53:00Z
-    webUrl: "https://hamodia.com/2020/09/13/uae-israeli-educational-institutions-sign-artificial-intelligence-mou/"
+  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
+    excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
+    publishedDateTime: 2020-09-10T23:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/us-dod-to-focus-c4isr-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-893593665.html"
     type: article
     provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
     images:
-      - url: "https://images.hamodia.com/hamod-uploads/2017/06/Weizmann-Team-on-Track-of-Regenerative-Heart-Molecule-1024x682.jpg"
-        width: 1024
-        height: 682
+      - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
-    excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
-    publishedDateTime: 2020-09-13T10:55:00Z
-    webUrl: "https://www.lbcgroup.tv/news/regional/547269/uae-israeli-educational-institutions-sign-artifici/en"
+  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing Reports Frost & Sullivan"
+    excerpt: "Despite the COVID-19 pandemic outbreak, the expenditure is not expected to create a long-term negative impact on the C4ISR program Frost & Sullivan’s recent analysis, Assessment of the US DoD C4ISR Market,"
+    publishedDateTime: 2020-09-10T18:30:00Z
+    webUrl: "https://www.newswiretoday.com/news/173626/"
     type: article
     provider:
-      name: LBCI Lebanon
-      domain: lbcgroup.tv
-    quality: 37
-    images:
-      - url: "https://www.lbcgroup.tv/newsimages/News-P-547269-637355907631419226.jpg"
-        width: 836
-        height: 470
-        isCached: true
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "Y3nEySF0zeOmWncus2dX8kcBnHvGNKdhbCBL9Z2LIjyoX3tia2NonN9ATJ89UQAF2SmYItxnzUvaNq7gZKByBIjhFyJXX3aqq6i7DcKXdZzwdDE4wcc+8aQ93lv4qvv8wB+Yf867SCcmtCGW4Vh31YGDtpA6ybpjq5KuzOeUENPloUffDciX3DWPaStCUQJzOTVncQtJHn5UT/u7x5GBL5htCJ3sJdhB1+fkLWA+BFlovdOswSOyx2+E3VhRJgybL0aqbWiSqjq9DdfaIvuZ1SwxwwpTc3kihM/qzB3wAb9Hmvkc73PAmGFX8IoaLEGg1lZbHvDW5SDJSkAFgsl3/KAClN48+2ipsczojzUDr20=;tfKoqxB4y5Tp0BQPoZec3Q=="
 ---

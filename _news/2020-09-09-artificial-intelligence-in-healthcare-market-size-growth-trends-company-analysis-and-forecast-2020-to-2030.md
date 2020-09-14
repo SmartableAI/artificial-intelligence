@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
+    excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
+    publishedDateTime: 2020-09-13T19:20:00Z
+    webUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 48
+    images:
+      - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025"
     excerpt: "The following report offers a comprehensive and an in detail assessment of the Enterprise Artificial Intelligence (AI) market and focuses on the key growth contributors of the market to help the clients better understand the current scenario of the market while taking into account the history of the market over the past years as well as the future scope of growth and forecast that have also been discussed in depth in the following report."
     publishedDateTime: 2020-09-11T07:24:00Z
@@ -123,22 +139,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
-    excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
-    publishedDateTime: 2020-09-13T19:20:00Z
-    webUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 31
-    images:
-      - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Cyber Security Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "Global AC Servomotors Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025; Global Needle Roller Bearing Market 2020 Growth, Trend, An"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Conduent Teams Up with Buoy Health and IBM Watson Health to Help its Clients Manage COVID-19 Related Workplace Challenges"
-excerpt: "Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform."
+excerpt: "(GLOBE NEWSWIRE) -- Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, today announced a collaboration with Buoy Health and IBM Watson Health to integrate both companies' cutting edge technologies and timely health care resources onto Conduent's Life@Work platform."
 publishedDateTime: 2020-09-09T13:33:00Z
-originalUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627"
-webUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627"
+originalUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09"
+webUrl: "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09"
 type: article
 quality: 44
 heat: 44
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "PlxU4xZ5FeY9Mklo02qIrs4KraYGka3/byiavcUj3kwQM2KNw6l53XJXCPGYvKCNdyfQcurm10w/46MfTLBHX64BfAKDk7NR2xX2e0hCadjGAr0ckp3juywj+cNF9vowVl3jR/70vjCxyRQQI0gVR1l5RROSOcMy8tXSzZ+AEEkHN3uabix8qOTIi6d36H4vi4MNaoQqkO43rU6cwfuiff8kvQXHNxRBmclnDHCa1YhRoZIUZXnIprZE4qs3ZjyNfacvAIgIlZE9WRf5D6YL4zLIMkC7yhDtBp/grPOFaf2x/suTeFuacJlmIRRzQDVmuzlIhofwobMNY/Kq4zw/pOmlKOPo3dNb3+aj8d79ElA=;QTpYwB0dLVXcmHlqGCoPYA=="
+secured: "LQRfNBALwVoJeSZZCl0G/5I3DaLtV9rSI8ho4nAGo9ftW1gqMj77qySUbNCNznQFfVxVdteeOGz3lN5IOM4Z/tGt6K1W6jVayREJeZrBogj9ymev1ud5eH0GA5ANUfHqrbkKJ4J49hNLobkIhm+r4Xwpbye4BFI0XzsbXFMKpOuwj+p+6xqwvUCTmd77uaxIzQZo6a+fEmRaqsvTY9XX7g661hBuLvSfcE1zrYTRLITlSDC1hinXdmk7V2rxVhPx8rnggo2UoZMUzBqGKim7ObtYqgmqpnqvXcpr7ZJ4IJ9Rp4uRyKCbH/SGgnaLCTuiQxI+NsWNCL1JhfoX228HvZgY6X49Tn4/ze7pa/v/ckY=;sGwcbhYeCaHJaT3mD/EKfQ=="
 ---
 

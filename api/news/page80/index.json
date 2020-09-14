@@ -2,6 +2,155 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-07-14-pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai.md",
+      "title": "Pricefx raises $65 million to optimize product and service pricing with AI",
+      "excerpt": "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
+      "publishedDateTime": "2020-07-14T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers.md",
+      "title": "Microsoft Power Virtual Agents: Now you can build no-code chatbots without developers",
+      "excerpt": "Microsoft uses its low-code Power Platform to help you quickly author and deploy chatbots on websites or in applications like Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/09/9675ba33-f7eb-45a4-9555-94f67f48eeef/thumbnail/1200x675/91ca737ccb2619d4a34dc4c1a94d0d8d/20200608-lowcode-tom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "publishedDateTime": "2020-07-14T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it.md",
+      "title": "5 reasons AI isn't being adopted at your organization (and how to fix it)",
+      "excerpt": "In both the public and private sectors, these are the barriers to meaningful adoption of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/30/81ed5293-9a77-4ace-8a37-5ee3bb6e7441/ai-ml-3.jpg",
+          "width": 800,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "publishedDateTime": "2020-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
       "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
       "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
@@ -993,146 +1142,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-camera-clad-rubber-fingertips-allow-robots-to-manipulate-cables-and-wires.md",
-      "title": "Camera-clad rubber fingertips allow robots to manipulate cables and wires",
-      "excerpt": "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
-      "publishedDateTime": "2020-07-13T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-aws-deepracer-evo-and-sensor-kit-now-available-for-purchase.md",
-      "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
-      "excerpt": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T10:38:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-spinning-off-xiaoice-as-standalone-ai-venture-with-former-exec-harry-shum-as-chairman.md",
-      "title": "Microsoft spinning off XiaoIce as standalone AI venture, with former exec Harry Shum as chairman",
-      "excerpt": "Register today Subscribe to GeekWire's free newsletters to catch every headline Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Xiaoice-image-1600x900-1-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "publishedDateTime": "2020-07-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
