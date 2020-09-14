@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia to buy UK chip giant Arm Holdings for $40 billion"
+    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
+    publishedDateTime: 2020-09-14T13:16:00Z
+    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
+    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
 
 secured: "OaVedkMB8pEWGRV1qbBELbmJYdvVXnJU1o8GIEWbH9X/pIVXNCJrg8huHIxaC/Cnc9xiLg8YM74wnOy+7nM1fbiwB+S0EJPJLGgOV5W6bOJVXZjk6bcFLJPAsXFHmjSxsltOijOib0ZdzmHQo5p03GlejtEDrGjjtxB+iprtHN9aL9m1G4vTNjcwNFBhUpsJ3YbvNftf/7EFzpJzkl4NFf8mbW2meh4GIIBL6Gke9yPlu+cB3HpsI9XKjjnjbQvQm1+paM56C/X1kJcEBXo4/YSzDT541nIUZQoj4/3YiMgMeSpqDS35cCuozpYzNLsvj0CppgA7JTXzaKna/8wiB6CHm6K1wLpOixSha476ZlI=;FhCfeVwRddeVHhsCPlQ06A=="
 ---

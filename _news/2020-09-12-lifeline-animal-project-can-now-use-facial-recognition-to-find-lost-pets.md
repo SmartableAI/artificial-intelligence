@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew"
-    excerpt: "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates."
-    publishedDateTime: 2020-09-09T21:22:00Z
-    webUrl: "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
-        width: 1119
-        height: 630
-        isCached: true
   - title: "Facial Recognition Goes Beyond Simple Loss Prevention"
     excerpt: "This is especially true in the retail industry, where the benefits of improved security technology go far beyond the obvious loss prevention applications. Facial recognition technology in particular has proven that it cannot only help retail locations protect their assets and employees but can have a positive effect on customer service capabilities as well."
     publishedDateTime: 2020-09-11T17:13:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/GettyImages_1097126750.5f496afd97a46.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 798
+        isCached: true
+  - title: "NY-Based Facial Recognition Tech Company Wrangles With Judges in Two States Over Privacy Class Actions"
+    excerpt: "Clearview AI, which uses facial recognition technology to provide photographic information to law enforcement, is asking the JPML to coordinate nearly a dozen privacy class actions after lawyers failed to consolidate them before judges in New York and Illinois,"
+    publishedDateTime: 2020-09-10T20:08:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2020/09/10/ny-based-facial-recognition-tech-company-wrangles-with-judges-in-two-states-over-privacy-class-actions/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2020/09/Facial-Recognition-Article-202009101535.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "hv+cEesaXaBghxTwSt6zINsyJ4UzUKnLOVMOdKgiJs4JRhgFKIHsPIS+3YJOmnTlYs4Aywfg4JAC7qIN4IlkyCc0pKgaJUTJsZnHc7ge296OpqNT/q0UCQQx98wMQdy7nveFbpJyN/zZfLf4Cb3pCSD26mzmWHsj0+8QECGBoPe57ndwGXr0UG11THbITFv+Y2xqBJduI/o//U2Bc/iSDmnXG6kBzBjdVeHGdCEfO+zBuKE9ptiWM1DUiW6vCUZ+psoghoiLfgJmPFOz7MRs0vor1cLLgIQK5VrhoC9qWpbYXGG30jbxnXzpcWnKuJQYlL+YyMJ6Yyh+119Uy+HOxiycS7KNQbrJ8yps1p8IwtM=;SIdCltzBRwFHQcQughvrRw=="

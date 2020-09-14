@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia to buy UK chip giant Arm Holdings for $40 billion"
+    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
+    publishedDateTime: 2020-09-14T13:16:00Z
+    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
+    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
   - title: "NVIDIA acquires chip maker Arm for $40 billion"
     excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
     publishedDateTime: 2020-09-14T04:58:00Z
@@ -46,6 +62,6 @@ related:
         height: 400
         isCached: true
 
-secured: "6TNa+g/p7MRP5zaTIX7vsYELHtyApSMCPrd6zJ3xSeHee5L17QhlZtxgDQ6ir7tsZmoHhAbs442VHIajzdeW9oVaqd5qjeck6hgEbZVatQxEFrpWoOaQ8wFOra+wudubmmMbxAaQJXIsMFdgXWFcHkxxpbbdCwl3f+TNNrtw5WQXmhZiUWX5qr89n4sTGWiWkBAtmHPNHZMacTBZuM2XBopoRmHY+HrJpezg9HY04RYeK+/xyBegKvSe+bhitvy4YsJcb/ZaZrOegJqOSo/muAjW1MmxDhcm6P5c+Q7B9ugEJzvH8cOaAdsV0HgVMZL1JgcpekrNO4mvxiq8vPSqPNNP4k+gxMWtBkK9FUU4atA=;O+XGPajFtRuHx/p2zlOzug=="
+secured: "CLLH/wS0efC1RH9JIC2U+m77cJUSqPZJ9z1Sf6OR5aIn1GQk7knEKgEgQVms7w4453c8PNrPVF8w+nvnyoR2nrULBYNsEMic/OC9/HCclvxpo40TQawJwVAtiPRpmeiTK1u36XNNvPErYSpr9atJsQIpPPGHVXJ6V0HKVIqTT2GB9bdqBA/bV4ATlSSMetQPSezl2qu/c0V0/DZOzchNBDg7zw0xspyTzlJkx8I6TgjaQAuShABWYuK96cL6aoj00QBvwjC6nOv0ccY/riZYxMo+EBcVZoPI5d0DO+GKOzH1pg2CM1ctW3fIDfoonPhETCx9vCPpt0V3z19evWqi0GuEUZox3gfQNWwcRSTcKCAx+21J42HPhxgadm5fMpLJsStETSQcaOiTqUaOfY1GIWjus+oXvZOQcaB5LMLKd4hgW4+cnItVKH6TeKRLBtHbauFyHmk2qu/at4EA1dt8wz+JjZQ6GhtrfdZYwE/qClaBs5idNl+3ctLiZ5djfpjVEDBT+4ahVM3I3LDDj4y2rA==;gLtCMamh6k2498VYQEPxGg=="
 ---
 

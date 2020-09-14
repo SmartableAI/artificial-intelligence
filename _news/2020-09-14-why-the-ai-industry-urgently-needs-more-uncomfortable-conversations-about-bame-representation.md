@@ -25,22 +25,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "The promise of conversational AI in helping restore the doctor-patient relationship"
-    excerpt: "EMR systems were designed with billing in mind, not physician efficiency, so it goes without saying that if technology can help alleviate the documentation burden, everybody wins"
-    publishedDateTime: 2020-09-09T23:29:00Z
-    webUrl: "https://medcitynews.com/2020/09/the-promise-of-conversational-ai-in-helping-restore-the-doctor-patient-relationship/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 31
-    images:
-      - url: "https://medcitynews.com/uploads/2019/08/GettyImages-1026660906.jpg"
-        width: 683
-        height: 512
-        isCached: true
-
 secured: "YCwFwqMeRZHBbciAhmnXeQU/p2RPEo9j1noD3wjSxrs4FtfL1D1Wc952baM6zMdXll8eVBAg8/DpHOuyVmSlMJEqdaRyp1E7dWKE/SI52gz7vWuLOhVqZ2/OGosD1IZ+nc6C8h+EaifhRzLxmoqMh4qLkJH/3Xd9xr5lfogBlSa50Qyb08YPQOXupSfiiI5f8ykkEHbuXNWenKVP43LyDSrjigxCVAXPHTif+VlFwZPZ9HSM3qPSlk2G20KYlQHI364kl5b+TSR30P60EzYzcXT5khv62Mfcz/J4N3utPzJlGRKgnPW+R4PyX/WcVFtRyyu2dK00GHMSubUmVp5pGNVO92fApPCJJZRZi6W0tAY=;WKSa5PiYTw2IkcMueb1wRg=="
 ---
 

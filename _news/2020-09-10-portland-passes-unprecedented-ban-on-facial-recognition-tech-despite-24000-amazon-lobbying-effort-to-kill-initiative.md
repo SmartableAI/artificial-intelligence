@@ -498,20 +498,6 @@ related:
         width: 2000
         height: 1046
         isCached: true
-  - title: "IBM calls for limiting export of facial recognition software"
-    excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
-    publishedDateTime: 2020-09-14T08:34:00Z
-    webUrl: "https://www.sify.com/finance/ibm-calls-for-limiting-export-of-facial-recognition-software-news-topnews-ujoi4Cadagbih.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/rksghucichfic.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Portland approves strictest ban on facial recognition technology in the U.S."
     excerpt: "The new Portland facial-recognition ban prohibits businesses from collecting, using or storing people’s facial or biometric information gathered in spaces open to the public, such as parks or grocery stores."
     publishedDateTime: 2020-09-10T02:40:00Z
@@ -546,6 +532,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
+    excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
+    publishedDateTime: 2020-09-14T14:17:00Z
+    webUrl: "https://www.democracynow.org/2020/9/14/headlines/portland_or_becomes_first_us_city_to_ban_corporate_use_of_facial_recognition_surveillance"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 28
+    images:
+      - url: "https://www.democracynow.org/images/headlines/73/54473/full_hd/h18-portland-oregon-first-us-city-ban-corporate-use-facial-recognition.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
     excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
     publishedDateTime: 2020-09-10T11:18:00Z
@@ -560,6 +560,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IBM calls for limiting export of facial recognition software"
+    excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
+    publishedDateTime: 2020-09-14T15:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200914/3626202.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "kTGEq7/snxnS0f18E9hL/ty8GVDT/yawtDa0M/bioDYUtNxhwOOw7kmiooeWD2AO1jXu5D7onI+TV9LhaHEAT0cZJpFF+m3n2e8zf9CWuYcJMQXqrsqSW0a4It76jrnnPut57KCTCpbA+BKInuKgLT3w8UyphunOEJKsR9RZLD5wy/zmnlbXhdWE8srEY+6yJ9coHZ75l/klV0NySnc5TqblYnsfK++pCKiGgEvE2k3oscZLcqapxYjlxAhwYAD5w/c1AcnKsDORwKoIZ7+sWcTDsaepCR2JxLoaAsx1VU82SSKnDPnVnSKx8Mjfr2QRHLyDjVqcMJxxRIznKMMhsQ7i2nxf+zj15RzoY38RdJMQvUlYrpF3spgKl4dOSBq6D5N09sHm1AHR0xQWIj3YiRi9WurhVKNKRP6Htp9cUV0Gg3yqstO6eir0eIa5+astxp8hCecyRcPeyIOpTPS8Irxku0uGwHcA3an4Gqn0icNzr7XYj+5msSZMjfGcd5amPLKSx8V7VvrFoxX7j3yE+h10jGjg6y31o1nxtSuzW/w=;byMV8mRQnlBzj4WecJLAPQ=="
 ---

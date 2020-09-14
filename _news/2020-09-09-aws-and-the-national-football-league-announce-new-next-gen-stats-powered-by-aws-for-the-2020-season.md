@@ -1,30 +1,20 @@
 ---
 category: news
 title: "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and the National Football League (NFL) announced they will debut six"
-publishedDateTime: 2020-09-09T13:38:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09"
+excerpt: "Leveraging Amazon SageMaker, AWS’s fully managed service for easily building, training, and deploying machine learning models quickly, the NFL was able to rapidly iterate and train multiple ..."
+publishedDateTime: 2020-09-09T15:04:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season"
+webUrl: "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "FCak6jQjA+WzJtIIzva0BdTCEisIjdY85gWqzLMLwIn0eYNHRvV1eim+iziaevfz1rWPp9Xbrn/XJ8lYwujJNipgyDGmH9BBk1BHBx7pu4FIPM9XqV2mPahqahqXDtwYzGctXbYcR/cQU4LHxQjuYuThSEKS76mw9JnOOrtZ7oS4qUN7g5ZrlQpfGGc703EHLidvT67k9t20kxPUHn9sk4zAzIbdnhO8cwQtRl0z+LxfMyfhcBGABiFE0S6SEkXYfZu6r8gbAumzSg16IhBtHrAQpXwdiKXjsKHhm81n/lKKzReAtGbUIlUILNZT5kJJ/oM9Ul1EdPiSBV8RcSd2KBKN4I3DFO220H0dGD007QY=;UPVNxpo7naiEqIiAYyO7bA=="
+secured: "weZ1OCvpDtgZyjtZByD2HcJH8S/ilCuJWynTAoZtM3Cbb1ujvjTyzGWqaf4sQnC2jo0TGvfHQMzAPfXasahB9XyyR0xJIRuDbsghXdolgtis7srgd36StmtG5/43vkZqy7IBE3Te1yrZ1ce5saZ8L+0Td56oR3gOm7dGet1zxUHybrQ8fLatnwnVjmfpG6gTu1pyfoYf9FkSfd/tdrNSSEfTCihTcbvw+Lc3Pds9UMDvrySFnEyVjq9J0am8BQ/XNKRiInpC0OzaSxFC/fZyT+rrE6EiA6Hg+7o138C1TIChwYd6OZAgIheyY3h5DpbCf0xFN3p3fH4R3IcOyRywP7QUnnB9+9E0aQ0ITBO8lYc=;AEV0sCWbNQx7sqBLRRGmbA=="
 ---
 

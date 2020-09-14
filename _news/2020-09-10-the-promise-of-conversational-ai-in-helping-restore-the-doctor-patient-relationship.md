@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why the AI industry urgently needs more uncomfortable conversations about BAME representation"
-    excerpt: "Challenging thoughts from an inspiring campaigner for diversity and inclusiveness in the AI sector.  Bias in Artificial Intelligence (AI) and in all forms of autonomous and automated systems is a serious issue,"
-    publishedDateTime: 2020-09-14T10:45:00Z
-    webUrl: "https://diginomica.com/why-ai-industry-urgently-needs-more-uncomfortable-conversations-about-bame-representation"
-    ampWebUrl: "https://diginomica.com/why-ai-industry-urgently-needs-more-uncomfortable-conversations-about-bame-representation?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-ai-industry-urgently-needs-more-uncomfortable-conversations-about-bame-representation?amp"
+  - title: "DeepMind's AI is helping to re-write the rules of the chess"
+    excerpt: "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game."
+    publishedDateTime: 2020-09-14T14:42:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 46
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-09/mark-martin-headshot-800x.jpg"
-        width: 800
-        height: 420
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/805db944-ac89-46aa-af81-58aab953b66b/deepmind-game-outcomes.png"
+        width: 1200
+        height: 513
         isCached: true
 
 secured: "tBYrnizyG9V5VMHEulUb/rc1EAqPA2WkipuIsjLcZj59r5q/qwSZ0yQURJiOH5+WVBN6zHOtwcP2E9yD0tb3wOSCNik+58a7JuexmSwRlQr9Ytdr508ga20FWtMt7DqTcI0Di/6h3OHUuqe8h+DlWHfI7NCN0YOeESQKeyMy1DbNtsxIy+y1zx8kLfqf//V52RxoIn/zXkWnFqjwNEqFFwB8mBL8cJc3F/Vb2+ybxtJGFLJfOVIy0FwfPu9W1QLYAXmEDBECNNg/1GXew/N/pG4OuUF+0GGYKkta79b13WzHYvl2DJFks18kcPBh6FVmKwVLfmyYMtNX7FH9iwOHEsJ3IvkXmwPRtU1+A3kOLWdg7DfBHFYVl+B61PlyiBHKdyUI+zhM8SOFQ2wn32l3X3OgQaTyCUUyuvbSkmF6MG7mMhScDjnOyyuXjrb2U09w0dWUE4hfuxnMYoNl4OIUbrV6YHg7o46vfJCp3UUrSc94hBxRSh4mchd+F4fgdQELMrQ0zeQfUoo8hFb5yIky3DxfKyiWIl6bO9OD0hoTgsY=;fTVoahndoJrYzKyehWBe3g=="

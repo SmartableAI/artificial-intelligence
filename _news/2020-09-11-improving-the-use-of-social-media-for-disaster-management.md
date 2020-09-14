@@ -26,22 +26,6 @@ images:
     height: 552
     isCached: true
 
-related:
-  - title: "Improving The Use Of Social Media For Disaster Management"
-    excerpt: "A machine learning algorithm developed by Texas A&M researchers could quickly identify life-threatening situations through social media posts."
-    publishedDateTime: 2020-09-09T22:16:00Z
-    webUrl: "https://today.tamu.edu/2020/09/09/improving-the-use-of-social-media-for-disaster-management/"
-    type: article
-    provider:
-      name: AgriLife TODAY
-      domain: tamu.edu
-    quality: 24
-    images:
-      - url: "https://today.tamu.edu/wp-content/uploads/2020/09/CSCE-News-Huang-Social-Media-27Aug2020.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-
 secured: "UsNtbPaz53OMymBdfR3UsYKg8GIai7KYECgJeRyu3bI2czJighgfHCZ29xUf6lIMEQJOgfmyuToGP54c3mhJfOMPY/B1FPtcV//+g+EP6iNM6bhbKRDj+fKKQTxPc85Q7GNWiOHWM5DNquOVxnMTHaoa7KF80CcpT4KdAD0Q38+HITrqZ0etaFHDGWmRrc9jQpa/XcalxkEXg83YhsBgDFhz+zMhsmzPnzISbSH8irIVlckMIRDj0MiTGAnrroyKmGnZaCR7pH0XhbV3681UxVn7OnGz8/BmLc75bsijdvCmjURtO/drCQ2oBplpBO09YOjMZqtVrrlOFH87Oax0MYhyjBhN6T3P9+2fLhHwEd8J7pxzG+G/dx1J4stpVbAX6uECrUmJ3RVChGhiWqMEMV954xRy3jqsoHd06I78Zdxt+JOihM+D8bJauB13hM/sqwZr6YfUPNy4buhvjNA4fGqylTgAAaOcYZ23mr9wOKdnr3HGhupDqzZs9eBB5LhLEFlsMcTgTTB8SCLVc0QoRf1iRy/SdZDmphg4iQEil1I=;S8A633nt3g4oUZv+3wS3xQ=="
 ---
 

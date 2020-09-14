@@ -75,20 +75,6 @@ related:
         width: 1024
         height: 549
         isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
-    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
-    publishedDateTime: 2020-09-14T00:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
     excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
     publishedDateTime: 2020-09-14T11:30:00Z
@@ -102,6 +88,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Nvidia to acquire chip designer Arm for $40 billion"
+    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
+        width: 1024
+        height: 688
         isCached: true
 
 secured: "8BHuoU9zwtG/KnJ7B3yTW5n3vLFoTd/xUEcLTDrKFY0pBoFFZKU4l+AIlvfQta2nt0Tb0wRkf5FJ1zggDvUbPKujnrwE8xqOsoMng3cFL3lBpdti3SVXc4u/NPyIQpSkTny4APnS/E4XiF6rK/H0RQs/W+WQTqOUp0LsldYd35jI64lZxBQw+mVHV8T3gLg8ETfhrS2zSaZMqxwPx577S/jSZgMDT2g7Jmp8H56m1o1sdbGu5JDbEkbGtI4Kj3sbWHkOuQdtefK8BgC8sFhL3YOceqFpAf1MUHgcw2vDATMm4lUc/hnitOT2VCw/lC+3HD5x07/OhA5iMlvHYXlQO7QeFNKKu09LJHKN9fiemNZ7QcnbDYvmdN71ETDhwn/HETYLHcoi7XnxTOnTVCer4rXabPU/sO8UAi7bhiAqdvFjM7JW2zvDTaUckqDIudOfgVnI+6dpxwGDgkpoZoIwTwwpzXZzrdIqoNgKlUkmFdMPs7TqdmKxQ58g9LvyrS2XwY1Ky6bPHuYSbjs3imLxKw==;aiGhDH2GLVRFZ5Kdu4HqAg=="

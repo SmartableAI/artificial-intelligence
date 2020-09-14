@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.dw.com/image/54879435_403.jpg"
         width: 940
         height: 529
-        isCached: true
-  - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
-    excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
-    publishedDateTime: 2020-09-11T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-car-market-self-driving-vehicle-start-up-argo-ai-stands-at-75-billion-is-developing-virtual-driver-system-for-ford-2020-09-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "RQ/nhkNhWsEHh1qbl18eM8HqRI5YRlmCguzk3uaI/EDI94vyqpGSUjB7RlLqUa8GP5fpom9TE2w12M2pGmT6Ahr8PKuzVvXMSbn/m9E5lz2KMWIA3mhjB7TWrX5KuGSun+0IPfRs7eb/mghXMN8VEVxpPokNgle1O5MflxRqtuN9NYKa9CZRE7TIiVh7YSLyxuepsOoGyb5jhtx0xIUvDoBxIWAbnljBpmX0jtz94xR9mMZrWsmENvPy6SCuyG1eQS/x1W1f10YSo6ue/q74xObIoj3COTYr5VY96dVMd9mP4EnyVVkOLKm8EmJT4LphiFPnseSJlRLMKkEBooq43jZo+W2ui+mF9PdLqJGwm347FpvqkpP6L6N1ybvFhVfmiuNkL/ZUbOuJv0dfB03g8nTaPjBBqbK2GZkHhRKE8fMZ1tuKgU4qWLs5hhfq+beQceO4J2ieKkP6+Yx3lPJXyw3xXsQdhhOoRrawKnezvkb7Mcrg+5LYzRR+HA0yRiLTTbxYkLXfIviOP782Y1CsBA==;rlPMOwKKg6G8Z9RdMEGpew=="

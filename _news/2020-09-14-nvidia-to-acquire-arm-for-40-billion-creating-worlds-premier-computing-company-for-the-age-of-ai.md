@@ -1,113 +1,69 @@
 ---
 category: news
-title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
-excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
-publishedDateTime: 2020-09-14T00:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
+title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
+excerpt: "NVIDIA and SoftBank Group Corp. today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund in a transaction valued at $40 billion. SoftBank will remain committed to Arm’ s long-term success through its ownership stake in NVIDIA,"
+publishedDateTime: 2020-09-14T00:21:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
+webUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
-  - title: "Nvidia will buy Arm for up to $40 billion, combining smartphone, GPU powerhouses"
+  - title: "Nvidia confirms it’s buying Arm for $40B to expand its AI efforts"
+    excerpt: "Graphics hardware and AI giant Nvidia has confirmed its long-rumored acquisition of UK-based chip design firm Arm in a $40 billion transaction."
+    publishedDateTime: 2020-09-14T04:04:00Z
+    webUrl: "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/ARM-x-Nvidia-hed-796x419.jpg"
+        width: 796
+        height: 419
+        isCached: true
+  - title: "Nvidia to buy Arm for up to $40B, combining smartphone, GPU powerhouses"
     excerpt: "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology."
-    publishedDateTime: 2020-09-14T03:02:00Z
-    webUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html"
-    ampWebUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
+    publishedDateTime: 2020-09-14T01:45:00Z
+    webUrl: "https://www.pcworld.co.nz/article/682886/nvidia-will-buy-arm-up-40-billion-combining-smartphone-gpu-powerhouses/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 84
-    images:
-      - url: "https://images.techhive.com/images/article/2017/05/nvidia-volta-tesla-v100-2-100722222-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
-    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
-    publishedDateTime: 2020-09-14T09:49:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "SoftBank is selling chip designer Arm to Nvidia for $40 billion"
-    excerpt: "SoftBank announced Sunday that it is selling Arm, whose chip designs power most modern phone processors, to Nvidia for $40 billion in cash and stock. Why it matters: The move will give Nvidia control of the company behind the core chip designs used by Apple,"
-    publishedDateTime: 2020-09-13T23:37:00Z
-    webUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    ampWebUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/dO6uHpSYGcoBxHhYVakw2L0XlqQ=/fit-in/1366x1366/2020/09/13/1600040285721.png"
-        width: 1366
-        height: 762
-        isCached: true
-  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
-    excerpt: "Nvidia, a Silicon Valley graphics chip maker riding a hot streak, has reached a deal to buy a British chip designer, betting the transaction can propel Nvidia to a leadership position in a new computer era powered by artificial intelligence,"
-    publishedDateTime: 2020-09-14T07:22:00Z
-    webUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
-    ampWebUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/09/2020-02-silicon-valley-SVINDEX-Nvidia-03-1.jpg?w=1024&h=549"
-        width: 1024
-        height: 549
-        isCached: true
-  - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
-    excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
-    publishedDateTime: 2020-09-14T11:30:00Z
-    webUrl: "https://www.extremetech.com/computing/314934-nvidia-buys-arm-for-40-billion-plans-new-ai-research-center"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: New Zeeland PC World
+      domain: pcworld.co.nz
     quality: 39
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/dreamstime_s_164869732_1.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
+    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-14T13:39:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 25
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "hMJU8Jhb/+DMDu1ZGJUYUWo6FCbKro2yDBYEPm5ETGS9DLXBSPH6VDkV3dqjYMCj/HtEONlLvq1je8TLEv9fAe4pmXSv8x9SzGLeuZRIw0M2K3ODXcGgfyGiThpfm5x1NH6p5Re+G/0SLnJnx57SB9kGVLaYhwPbA4NZ46aufGOeUEkUlEsPY2lFBr1ebrj8dADKPMpHgApwhcHCTm/n1Hifh/zdwMghtbOgpx6rkvNswLmbN4PNBjnQZ87r2UMw7D17VvwNhICQadFrI7xpBopFmMXm60LZmWK/B5hEB/VkJPBbCWNAWgKk2LeBgyV8od1U5miEZ/7W46GZjRWZSyGLCzhvz5baHq7JU5K4vUs=;LbeS7pHXetOikwitfj5lRw=="
+secured: "NtxDtQszPFYexLMG/btsZ2PMxTzoT4oD5vsceIiEVhb+9VsX5/ygP12obQo4/fRQ0OwfvPJWRxpNb1XQKChWHqGIgj8MBmAm+BqSLwn1Y2wyGnWl3beQ1X6d3XyRmXHv2mO6Yiz9CzyuwQ5FGEpWitgV5BUDsjtdfmiKGn3oRUT8Zi5zuR9uxbGNpnuN+mHT693BvsP7Vo6aBzllicjglIZ0nUxz+RPAvWxdblHkckG4EaRe+StqHONuCcO+KsWfNzYDKC+5oXcw9bXOSaVu0RZ3q28CKta7IzAGiezA+TKtTYmzu2rZULNqIomPfy2+sQouynx2DZfB/pQWjy2tXY03rCEUC0M5KKz4/ukWFD8=;Dz/FCFl1bezpVi5K5vaS4A=="
 ---
 

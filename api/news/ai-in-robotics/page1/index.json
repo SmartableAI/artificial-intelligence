@@ -2,33 +2,74 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-13-robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare.md",
-      "title": "Robot dogs join US Air Force for major exercise, could be ‘key to next-gen warfare’",
-      "excerpt": "The robot dogs — four-legged, headless, mechanical creatures — were made to exit an aircraft and look for signs of danger at Nellis Air Force Base in the US state of Nevada.",
+      "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
+      "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
+      "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
       "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare/501708/",
-      "originalUrl": "https://theprint.in/world/robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare/501708/",
+      "webUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
+      "originalUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
       "featuredContent": null,
-      "heat": 78,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2020/09/Doggies.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/robert-playter-headshot.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://theprint.in/world/robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare/501708/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robot-dogs-join-us-air-force-for-major-exercise-could-be-key-to-next-gen-warfare/501708/?amp",
-      "publishedDateTime": "2020-09-13T02:05:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
+      "publishedDateTime": "2020-09-14T08:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-rise-of-the-robots-the-nasdaq-cta-artificial-intelligence-robotics-index.md",
+      "title": "Rise of the Robots: The Nasdaq CTA Artificial Intelligence & Robotics Index",
+      "excerpt": "Mark Marex, CFA, discusses the Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) and its performance: The Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) is a modified equal-weight index created by Nasdaq in partnership with CTA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
+      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
+      "publishedDateTime": "2020-09-14T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -203,47 +244,6 @@
       "provider": {
         "name": "Business Today",
         "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-why-journalists-should-not-fear-the-rise-of-ai-and-robots.md",
-      "title": "Why journalists should not fear the rise of AI and robots",
-      "excerpt": "We are faced with a future where the choice will be between authentic intelligence and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
-      "originalUrl": "https://www.iol.co.za/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/4896x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9b08343c-0ba3-522a-a6ec-dc02ad7bf237&operation=CROP&offset=0x325&resize=4896x2754",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/why-journalists-should-not-fear-the-rise-of-ai-and-robots-21e2613f-3854-4dbd-bfa0-95d7fa94145d",
-      "publishedDateTime": "2020-09-11T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
         "images": null,
         "publishers": null,
         "authors": null

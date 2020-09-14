@@ -3,12 +3,9 @@ category: news
 title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
 excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
 publishedDateTime: 2020-09-07T20:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
-webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
+originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07?mod=mw_quote_news"
 type: article
-quality: 67
-heat: 87
-published: true
 
 provider:
   name: MarketWatch
@@ -28,36 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Insights on the IoT Chip in Healthcare Global Market to 2025 - Key Drivers and Restraints"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The IoT chip in healthcare market was valued at US$1,507.165 million for the year 2019. Rising healthcare expenditure is boosting the adoption of digital technologies including Internet of Things (IoT),"
-    publishedDateTime: 2020-09-07T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-iot-chip-in-healthcare-global-market-to-2025---key-drivers-and-restraints-301125109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-
-secured: "DRO5j/CqN4TMlzavTtqWKrlko38d6YvzDQwGJiaXs6oyU/TTsgNUljl5PHiEwsP+Dp5fik62A0KEImMZJlwIyP7scGC4c1qgRyfQpN6qSsddkwJJ/QXl0aynb3PZuIzU5/93ThIomjLWCysLHuxdmuKUC1blF3fFX0grC1fIRd+r8bw3IWZZbpNOUAeXtkqIq0NZmg5dQCg5OyelXUNDIn2GeH7uJSwlbIe0Aq5AHorq0W1aka2/6yYyycYOSPCzf6ytoy2wjruRH7Fv805XfM9LJVbWfBQ7ErCQSJQP6D/xfcaQrXH2HJy/GPHI8m0dz3zJakRotO8qL57OedOm2/5maF5Yp++CK+iox86q+Wo=;/cLqJeJW5NPseKZchdfVmg=="
+secured: "+bejubPVykySDHakYA7xST0LtxvzoKbHq4HWzNcvYIG+9KbC9MGCkO2cNNGrWRC26G/7PGLlkGO/4TsT/z6Cw0TOkIcQNnP1qyRF2bA+VzSQKfjBf7MTPxdnDlqYEPoa+isNHe/3FBTk1mCE/c3E2T/PRGbiw8ytlUVcvL7KG4bcPN7T+SS9RhpiKpDT5Z2vMqhIQBwularXV9jKupRxHB0ESLo6YF3cztD7BGY6vSDXLVdU1pTfHBiNCFLay2ykDqRcXQm1A6/jYwdt7a9CpLeZAAd2bFmwJdwkU70AOyi7veHccw5JOmNGAlur9dFHHOwcjqpL3OH7CM40/PB3Uup5hc4zrUrzBtWvqsLPbys=;2KPivNErZCeQlykXZSGl4g=="
 ---
 

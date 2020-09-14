@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
-    excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
-    publishedDateTime: 2020-09-11T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-car-market-self-driving-vehicle-start-up-argo-ai-stands-at-75-billion-is-developing-virtual-driver-system-for-ford-2020-09-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yxrJ68oddradQzobrFIj32UZWeEAzmiH+PBJSP8b0MB/AappsJvfxlaNLTv22IPfFWwZgcG/ikv2YS0hgEHWt5StZcDSXuNXiy+otPRPJlBLGONSVY4+M/5mEAQooYiI6NnmI4T045gL5jx8UAxFi56rX4Ea4A/C9cHTzHVf1bRwK1wmXFD4sx0/B/v3MpbyiO7gyd1wj8mF3zYGVQE/OfiTP4PwZ+u1mLQI++M7qUpOUTnPtoXx6DFzw0AYsLympSSx0aoPq9NKyn86W/DzC4eTtb74UNDxSbEEt3g9RT906MV12HpOfceTSt92SXPlcI/nQPwSuc7nI2tmWF1NABWhTHZUISaAsOOtRnM0/3RZk24PhScvNAQNFk+zaXNkvo93fVY4aVOhYHnGoUV4sdb9GxwGZ9SvCRRHnV+ZFkwfN4/3QcOV0HoiiKxz7Tz8iVDDJsaYiJVw5u4bAAunwsxaAuSJLQ+HTCArmQDHVIMSRDJzyzdtsM5riRVg52PuQOGVYuu1r0/+IGFJjzTYYA==;/VOMM4qq/nmkVp7ZaMIqTg=="
 ---

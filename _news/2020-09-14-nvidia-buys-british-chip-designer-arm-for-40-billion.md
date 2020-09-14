@@ -75,20 +75,6 @@ related:
         width: 1024
         height: 549
         isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
-    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
-    publishedDateTime: 2020-09-14T00:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
     excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
     publishedDateTime: 2020-09-14T11:30:00Z
@@ -102,6 +88,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Nvidia to acquire chip designer Arm for $40 billion"
+    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
+        width: 1024
+        height: 688
         isCached: true
 
 secured: "TdSPvo4svash1FCnaOgjm3fbsMrEAmQOH4J2lDpW+GpfTNWVfc8k+VPavny4lZzymFWhN7tcDKQ1bGzzmBHx6BHUu1HCiHiD6HZJcQMJwBz6kHD9llsnT3RoAdYNdLAN6sO/VW169A8lZg/WFtUM5ib1hWSKay0VpZwDqUruJlURunPo3jLhtdyf/QlVWdCuJVWaTVUQdelHjGGBs1xcdSEyyIGfeb//NYv01pvcUvyy+jM1C64M8SsO5rop5rFbqQ5xowBwYKv82U+88CzZOPX2k+PbxXprLXAEC5ZyXQdKHIMGekfONFhwv1zv2gMMoUyY9kKlKQoUifZRd5SI4nfEiwyjBywEVZbgGH6w+sXgLrs6rjPDH0iLb6nj30aEaCdZq2FcdHzjQ3fS5+7p/cn/YRgv1tJHG9sG0Qs0ZBxi+wI/EiS4XrlVOSa4s4EHH49lLhVeQm95OkgJTH7H6UgakYZb3zMf8Qc3p3rybxUSohS70ZjHx9U8jh+J3zTf8R3xTDHrBqfJYsb6d/12Dw==;m9emzz+8hU7zhRqTMZ5eBg=="

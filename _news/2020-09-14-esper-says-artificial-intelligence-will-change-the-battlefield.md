@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Esper Says Artificial Intelligence Will Change the Battlefield"
-    excerpt: "One aspect of the return of great power competition is the race to develop artificial intelligence, Defense Secretary Dr. Mark T. Esper said at the virtual Joint Artificial Intelligence Center"
-    publishedDateTime: 2020-09-09T21:25:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2340972/esper-says-artificial-intelligence-will-change-the-battlefield/"
+  - title: "First military to field AI will have huge advantage, says Esper"
+    excerpt: "Artificial intelligence has the potential to change the battlefield and the country that first to field it will have enormous advantages over competitors US Defense Secretary Mark"
+    publishedDateTime: 2020-09-10T17:02:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266358102/first-military-to-field-ai-will-have-huge-advantage-says-esper"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
     images:
-      - url: "https://media.defense.gov/2020/Sep/09/2002494225/1280/1280/0/200908-D-FW736-2001Y.JPG"
-        width: 1280
-        height: 853
+      - url: "https://cdn.bignewsnetwork.com/cus1599737667927.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "ssUO9nmCdgTivvGs1nrgfUatnf+JYKT+rY/pNDrg+d6IzdkhI1/fHE9l2UABUCrFJ0jyPeNr3yQuLWWwQhR9WXwebHJtehhZcOuAzdF/tIfn3lVklKST8gD8i+7d59VRsPToBufdi7RZo8+VayM9iwnZWVfE6LeHCnRGtxJzKB8fqJAsNrIKCoejmipKU8iQueKZwiGQo53I1NPoMeMyoPa2qFMr4wgQXVWTDvqAyL8/1CK6RhGnZzDgLKsHKTWRdp0pjnDZTec2opE9KOsyUJJvQmPnfbFcf9omRuInGTm6uUixYw5ZgKqvcSbvi9Z9HYU2LPcbHyKCAMKcdZ4Yk1FEVNkqaYc6UJOo/xTZOW8B+r5QW5SnRT+yOWjBTbrWK+5Lz1KXfL107G0htGK/Shl1XMyzWj3Cdy24TMgNS9RzsildsIm/Unl+2azt9f1QBbXC9dD5xWe9IjKrMe7/YGZieXgwZXweprirHRx+BnFFE3+bTXw23GD04sUbLU+RWws75HWf5wQ4JbrOhv9TRA==;IDvzUtlhXUejqUN5AZbemA=="

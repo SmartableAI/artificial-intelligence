@@ -24,6 +24,22 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Esper Says Artificial Intelligence Will Change the Battlefield"
+    excerpt: "One aspect of the return of great power competition is the race to develop artificial intelligence, Defense Secretary Dr. Mark T. Esper said at the virtual Joint Artificial Intelligence Center symposium."
+    publishedDateTime: 2020-09-14T11:34:00Z
+    webUrl: "https://www.defencetalk.com/esper-says-artificial-intelligence-will-change-the-battlefield-76325/"
+    type: article
+    provider:
+      name: DefenceTalk
+      domain: defencetalk.com
+    quality: 37
+    images:
+      - url: "https://www.defencetalk.com/wp-content/uploads/2020/09/Artificial-Intelligence-battlefield-warfighter.jpg"
+        width: 1516
+        height: 1080
+        isCached: true
+
 secured: "O5caC/FrBY0CmSMuGyrrkFArDKGuDxEy1T7SvoLCbYMY2B6cokKv6UF8qUetVtJtWNn44yIF3fHAs1kVF5Gu/dG8c3EATkEFFQgoefp+SNuwDcdnPQzq0RDyaViewcu2WYfWl0vA+TXYdJYd/PgP3msOGzk6fXjWsmjPhKtZplTbKJ23SQ4/lNJIdWCxgLQK9cSWIZLudf/Z1EDBUrHONgKaBWaxn6x7/hIFWx12YWFzILIeLDihd/Z+fMaCMS9sbMXZJJyd4SgOQiq2+BlVnM1Rk1VnhgFvasWfmJ2RRJlGzouGHp4lYwlEE4TEaLe3LRPc5SrYbdXRoB/jQ7MWqUVX/wRkS9k5MU7ElBV8Ly4=;tApLho4M7rijZiBc+5+HTA=="
 ---
 
