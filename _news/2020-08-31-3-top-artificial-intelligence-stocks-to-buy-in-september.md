@@ -2,21 +2,31 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in September"
 excerpt: "Many people have probably heard of artificial intelligence but may be unsure ... as quantum computing and self-driving cars with its Waymo subsidiary. Despite its formidable search business ..."
-publishedDateTime: 2020-08-31T14:17:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?time=1598874693"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?time=1598874693"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?amp"
+publishedDateTime: 2020-08-31T11:48:00Z
+originalUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+webUrl: "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "c1FMB9lQuzigUvFkAEVTm8SeEOns66e6fF5csllSf5MrN7l85DXHkO8Z520ygVptPJTxTwCaPU2/IkHSglY0l549OvE2iT7BdWTDUjpI+Nt3nLlK3duUuFUgucrvnobdQ6lzVMjjVQSOUbl9xQfI2u272lwEP/+p8EahbPsT6aKvE8Xj/FTkWunFikj9JQfQkWoYAFaMpKhbHFO81WzkJxwwQP0PvenOLwWnbwxXLCNW/O6LV1IoZe8ScS/7GwoFJ4SMiKi68+r/Pao8tRrbEYQ83+KLpZDimhhmm0zxLSC9YahCPXTgxiOzGz/pSWJzcDaC3kGTAm+z9vdxT0pGWW9qG9gofu2/e+iiLKB5VIA=;gpYLvlygjz6pkIc0ACLn1Q=="
+images:
+  - url: "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png"
+    width: 720
+    height: 503
+    isCached: true
+
+secured: "9PHBGVlHo3UwMHfCvGgJo9S6xvONgCwshiHBSefDxL2tZKvj60XynT2fHOZ0iSwQ4Yqcj/pbezGFpTsExhzLLlLFG+h1zrAEsAvl2Di+QYd/DW55YcGbA/HASY8lssquwcskRf3yNj6npKsLWKmgojW1te3kw+tTpVCUm/gIMjeGCdSCQICvDU24kxGUJunkamLWDdf9C46ymm7PJV9uHnw+bU9lmaotErvcNUVSINCOcEzBkHnLU5AcdTe9xKmLcukPvWPfr4ZJiHe18xJ1o/XwutWWpwkN404vkghQQ3Z0qcheB+ylAmlGyehdqEyHSiexRyqO7BOsfRz5VLDCH3gY5/rZlcJqxnKHkYN2j2c=;RbjZ0Mj5xm7aGSHiRSYq3g=="
 ---
 

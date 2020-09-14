@@ -3,6 +3,7 @@ category: news
 title: "Getting Started With AI Software"
 excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
 publishedDateTime: 2020-07-14T11:51:00Z
+originalUrl: "https://www.cio.com/resources/205772/getting-started-with-ai-software"
 webUrl: "https://www.cio.com/resources/205772/getting-started-with-ai-software"
 type: article
 

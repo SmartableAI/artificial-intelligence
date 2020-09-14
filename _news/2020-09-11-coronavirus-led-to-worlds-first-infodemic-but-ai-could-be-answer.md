@@ -3,8 +3,8 @@ category: news
 title: "Coronavirus led to world's first 'infodemic,' but AI could be answer"
 excerpt: "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies."
 publishedDateTime: 2020-09-11T16:00:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8722673/amp/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 382
         isCached: true
 
-secured: "qgleVkSVXy3YyV2uKQLLBtR5Tgbf36IEgl9O2gmnv60XoaZEuRiX6DM/RuK2QhTTSdJWmTAr6Ozr8ni7ue8Lm3vOmnrALzpIQBIPeXkbJML9p6nPH5GyTKXpzeoP0KO5Dbj+1+QEl8+SAmgmKenFA5RnOv8kkdwz0sSCgIOoikMHFCBhN5NDzIXNg7A3ZYbLPjLdpHVURP1d1JFvQsgAgwmTX7dY9DF+ThNLPGKz41cq7qwcflDYKYwL/SRZSLlWcKESqivUH0vOsvJfgsNFyJlHMgbSe1KMEwV5u1SZ2ypVdll8T9gJlyyK6jrGSXS3SxETBp+naESm/azfl6ajWJLzMIvxirqSfch3qeQ9AJQ=;0Zc7/l0BxYlyp57TBzVfZA=="
+secured: "mLKYXrE5C2Ra+yONngG3PEx/coYSibFK7oDnoVVcwujuGS4I4cCpFW5BET4rQpcUT64XMBrGJBvvZfjZV1k4qlJ1Bi0WcNXmWTOqJcno8s5LYLnqgwCyo6JYMUGc89g6XjGlSUL7IFn+OWHkM8Zcq0EtzXeFWWNhVddJANH6GBJ4aL11M3tGhHr5QwJLuptM4ovCXJysk5xKzbqdtjw9um/8FKoFtaDZ4Pz4lgk52Toai7F6IlC1XGmQ9/01ob88Jnm/Ar8SMpFXXYuUWyI7xk108sFtrlPOnsX98ZSIkX5bKSHEZc+MtoQuQiLXHs4DhEEiJtF+iyMLPjtTQwHrWlrRM1ESYofYVJ33GjyA28k=;RUnFeqZrg84rLWo90BmVBA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: RCR Wireless News
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Closes $40B Arm Acquisition, Creating Chip Superpower In Largest Deal Ever"
-    excerpt: "“In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,” said NVIDIA CEO and founder ..."
-    publishedDateTime: 2020-09-13T23:56:00Z
-    webUrl: "https://hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52832/content/Nvidia_Jensen_Huang.jpg"
-        width: 708
-        height: 450
-        isCached: true
   - title: "Nvidia Acquiring Arm: 10 Things to Know About Pending Chip Giant Buyout Deal"
     excerpt: "Nvidia's massive chip company buyout of Arm Limited from SBG & SoftBank faces regulatory & competitive questions. Here are 10 things to know."
     publishedDateTime: 2020-09-14T10:43:00Z

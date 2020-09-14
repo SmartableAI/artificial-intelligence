@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu rolls out self-driving taxi service in Beijing"
-excerpt: "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ..."
-publishedDateTime: 2020-09-11T06:01:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
-webUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
+excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
+publishedDateTime: 2020-09-11T05:27:00Z
+originalUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
+webUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: China Daily
-  domain: chinadaily.com.cn
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg"
-    width: 513
-    height: 342
+  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "zWyeTlgNmIRvk1Y5BZqljwvCp5HwISuDiaY23UD/MEIJlimX7t16lWDtZAhdG9ILdEtk2U6TIFY+wGGhDOWKXWABpc3pZtcdYt/M/2A7+PeuFTgEefIosJZ6NTIxYGttN/kzHtRxcHNUvhSfFMR2M7bcODe9aNZyfJKffcBsbPfruoOMVHMb+Z5G70PO/qOKPOhsXiUgD+dAHfz/Qur07O6Eg/BHMxKs01qRl9WsQ9BTeKSv4BcDdQYKG5CQldyIfYxjKVmLPFBo3TUVL8FUs2YoEDeEY9MvIweyW3okm5YGKTWmOTbZ4TPvm0ujox3FWNhSFyxzkbHnAbjkZhK+6i9IlclexCP+y+A2zmPnppU=;DnTA/4YiIf3YK82jWc1tlQ=="
+secured: "QM7bRkSvk70Jm5DbDqLb2k2LNcTPdxRxjQmcci9McMODK53G3cJXqCUupdyVLHgjNrZxKaRlx2Q5dqEaatLfNmOvxhqwuXvEepqVCwziRFFoKkcH8XbEd1GjN4NZV3JSvN7vniBuDacl/6XMncmqzFRBBS8ewBwEHTEhkT6VCkrQGn3BmL9dDHsQdE50LsT1YiqhMqXlo9GBGK74MMyz6uFkA8FMwsLfsIp9tHfNeQEptT+MOESO2kEufCz0VGeD/5gzk0I5SIyVw21pknma6JzgHv1ZXP7ohVosbgnTu9+8459dBS7ip8hmc1nhyA5YbmNr+sfI3K8qls6N9FKpqxSjTXIKu4mWn8MS30lDkdY=;m5FY50XeYVIy4Yl0Fcwk6Q=="
 ---
 

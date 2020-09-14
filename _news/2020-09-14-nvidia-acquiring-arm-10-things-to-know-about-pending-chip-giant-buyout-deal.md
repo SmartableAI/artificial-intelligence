@@ -35,22 +35,6 @@ related:
         width: 1590
         height: 892
         isCached: true
-  - title: "NVIDIA Closes $40B Arm Acquisition, Creating Chip Superpower In Largest Deal Ever"
-    excerpt: "“In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,” said NVIDIA CEO and founder ..."
-    publishedDateTime: 2020-09-13T23:56:00Z
-    webUrl: "https://hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-to-acquire-softbank-for-40-billion-softbank"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52832/content/Nvidia_Jensen_Huang.jpg"
-        width: 708
-        height: 450
-        isCached: true
 
 secured: "yR5cxhN3WgHqu/JnalDTpHvlkLfkUIajru71WgRltYPc8nrpYoGLpvU1wweq/kdxnlVF+MdWhwULDPC+oX0BuFMw9B3vLnA9FskfD1ZYUeL8S/n2HZ3KCc3Su1f+f3EkW+YKkrLj6T94+3WYm2o31oV0KbE13BBSvIfeNdDKz3h1+XPCvAA7WIkCuUfe2C0tHjp5CpjYWyTSMWWtSyI8HtlebpQXKP9k1cL/+18RnsJG+JAo/S6Ok4Z+uca4ZCpeLJJKQs7snteQzIiMonJvTCa8ncdCGKt9muYTBGTwvi2HCwT99pPOJyzk30FuWB8wFuwGw7EBc/kR+nQh0qDKzJLndEaG5Sk7/Q+udPQCocoTH82oTTneH1ISWeirq3zz8PiVK929LHcdLnKw7GsrbAxC8iEPpga2Gu4NAxzcQJuFJhEHyz6I+14fc7OuytV42paD2fA0ZBmjtD9dYHVbwGcSl0/YMsHLEGnoeXxf6UOeEO4MfhNquGpMTK/5YkJTfyGZyf3LUP2c9w99KaECEg==;uvshxTlRs3Ko5VWZsbitrQ=="
 ---

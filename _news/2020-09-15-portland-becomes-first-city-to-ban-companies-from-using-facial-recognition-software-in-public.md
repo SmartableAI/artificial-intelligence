@@ -205,17 +205,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Portland bans private and public use of facial recognition tech"
-    excerpt: "The city of Portland, Oregon has unanimously passed an expansive new piece of legislation that bans both the private and public use of facial recognition tech."
-    publishedDateTime: 2020-09-10T04:34:00Z
-    webUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/portland-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
     excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
     publishedDateTime: 2020-09-11T16:22:00Z
@@ -306,6 +295,22 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/Camera%20Surveillance_0.jpg?itok=qItuW4kd"
         width: 500
         height: 333
+        isCached: true
+  - title: "Portland Just Passed The Broadest Facial Recognition Technology Ban In The U.S."
+    excerpt: "Portland, Oregon’s city council unanimously approved bans on city and private business use of facial recognition technology on Sept. 9. The ban will apply to city departments such as the Portland Police Department as well as public businesses ..."
+    publishedDateTime: 2020-09-12T12:23:00Z
+    webUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/"
+    ampWebUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
+    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
+    type: article
+    provider:
+      name: KRISTV.com
+      domain: kristv.com
+    quality: 55
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/79de320/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAdobeStock_62385205-500x333.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "City Ban on Business Use of Facial Recognition Tech Said to Be a First"
     excerpt: "The city council in Portland, Oregon this week unanimously voted to prohibit the use of facial recognition technology by city agencies, as well as by private companies in public places. Civil liberties groups said Portland’s new restrictions on the use of the technology by businesses is a nationwide first."
@@ -449,6 +454,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "Ic57vQ0za6rT15W7EBh2XPcct1UBWaSV6r/fgldStZII1CedLpKCYmLw7T3wkW78nz+TIih1Me/Ni88GvRXsKxF4vniFfLx4UDz8swV64weMaMdKClutxNT7SmmQhvUZe4wCtmwStBMVKfLTmX/yJ+VLK973zTE2os1Cej/ELjqlxdUZuVw9+SwXe13dzmugZUX5pkC3jH+kdqUTK0erNiGtARGcD9UU4mVi4utve/mF0CDZB5m1FHdZfPHpnZsRP4x36vM++ehcgpCblkzUMe6mKUIRCydti88VdUl+swi//5F0ffRGJ59g61OX6qQbDpecLLTfhrCn6nl+cnM/v2SA4/0ntXu7UuQdNKVgbA0=;PPO5vWyvGluV8u7qGwLkjw=="
+secured: "IzbFyk+OlEbWlzsA7F7GXeIAYNxZ5EVFDwO08miKzjlVlZR1GhAvRY6SGnM4HE+L5nIzEk+ObsFXaIBMgtfGVHQLLW4Tnnt8yCWSDQhFPI7TczqX7SZM2Cj74spQEfg3zO9BkOCXJqOlv0G7HPILMUDnJz3xZ2aXNAuNnpn41km7wCfydLM2fDXr355svIiNsSncQMG+Z/AH8D4ssXf2Z8gkyLdURFkLqI8djif8IGqm8nqLyMbFhVeEIWbOAnAlJb0HAGwRRpHC2Y68J/r/JFk3THp6peXJCRzf/KpqjICgD/ikwwiedrsd4YyxbntYK3uQ8LXGr9q2NVzuOo0/jYFscqzEow5EtVWcDbo4ijx1baP4ep3cvRtvEfsHkylKCfw+uvbFfq2jYTtY+Mh5Ia/FJ38265vxxeGym5ZXdbpI6JdkMyUJCJShYtB/eUIvcZ8hpwaKOSMV+nSr85XoDQlHfCalhDO5bxfMNtmcP/KkzNSC9HRZoITun7QCBtzpfajdX5wbj2ICS+WM4BzYkw==;idEUmRRA8itN3SU1HBKmOQ=="
 ---
 

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/</loc>
+    <lastmod>2020-09-14T14:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/</loc>
+    <lastmod>2020-09-14T13:44:02-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thestreet.com/tech/news/nvidia091420</loc>
+    <lastmod>2020-09-14T10:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html</loc>
     <lastmod>2020-09-14T10:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,12 +81,6 @@
   <url>
     <loc>https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/</loc>
     <lastmod>2020-09-14T07:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition</loc>
-    <lastmod>2020-09-14T07:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,14 +295,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:19:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
+    <lastmod>2020-09-11T14:07:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
-    <lastmod>2020-09-11T14:07:21-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,7 +901,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
+    <loc>https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
     <lastmod>2020-09-08T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1195,7 +1207,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/</loc>
+    <loc>https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/?change_country=LAT</loc>
     <lastmod>2020-09-06T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1807,7 +1819,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nrtoday.com/ap/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_1e1a94af-1d98-5dc6-861e-08e8688205da.html</loc>
+    <loc>https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html</loc>
     <lastmod>2020-09-02T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2545,12 +2557,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-september-2020-08-31?time=1598874693</loc>
-    <lastmod>2020-08-31T07:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/31/allen-institute-open-sources-allenact-a-framework-for-research-in-embodied-ai/</loc>
     <lastmod>2020-08-31T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2625,6 +2631,12 @@
   <url>
     <loc>https://www.geektime.com/hailo-announces-japanese-expansion/</loc>
     <lastmod>2020-08-31T04:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/</loc>
+    <lastmod>2020-08-31T04:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

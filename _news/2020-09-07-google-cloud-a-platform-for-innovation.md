@@ -3,8 +3,8 @@ category: news
 title: "Google Cloud: A platform for innovation"
 excerpt: "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ..."
 publishedDateTime: 2020-09-06T23:59:00Z
-originalUrl: "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/"
-webUrl: "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/"
+originalUrl: "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/?change_country=LAT"
+webUrl: "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/?change_country=LAT"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "tK9PDwUYmnHiFaLKkcd5WgkY9LPmH8TXNa0WMfOVlWd43jVR1E2AfjWKENXsEIlmre/HTAWGbkMgeEZLJ4al6QlhfGwZxmPm3WA9sRnA0/ozPuk9L+aSokCnuVtqhWJ6n8rCGGbe5le6qcKrEVCc7u0IY1rw7dOuyJT3S1/LFG/5grqUh9Jz+/0NVdJEjZsEFO+vQwGV4hhR5VsNfxz7K20Fg+eRPeXTbvONtxh5eKphKG+7UwLefspnJeyCp1rGTq97vKhRes2mvUfHmenRV6UnBpn89HePOzotYdxMksO3d3yls0Uhd7LeefBnubO5qgFxP53xjgENojJOin4ySfSYiNg7XnMMsKGeRjKtHEw=;IxixZWMGJaumK/Y2Z8dGMQ=="
+secured: "q9RvZBJr9655r964Eahfgv9BeliOK7KNGmJfyQplggb1n54W0bOXO9u68ntQwaQcnWA8IRMrSNJGEetpOfA7XU5mmhRtHVOhqKLZQmsBQnFGJYzPexrlPjLnuWRQ380Mep7dABvhD+M8oPVLeGmgMY/9uho9+l69/tVJkk7OMqCRN8q7sSV6Db+j7BS/pd319psShLU6qjboBhcIKvSCBQS4TamWTXAUjjbYCbNDJZ0QxV2ydZGItdID00rm2i1qqvrlpBrYYPrl49LZhBTBKWn6qTnn8SvM12bOBFfzDKyK5p2MImuF542ZbFcGDyI92dRh5f7XoC7fgZbP3LTsml6yYMQV0hHG7KSDv7WJSLM=;zuRt5lmi8Qn59z7z9spqTw=="
 ---
 

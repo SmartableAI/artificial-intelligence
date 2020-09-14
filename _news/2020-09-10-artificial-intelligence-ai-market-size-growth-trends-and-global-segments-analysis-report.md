@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
 type: article
 quality: 73
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning Market Analysis, Size, Share, Growth, Trends, and Forecast"
+    excerpt: "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during"
+    publishedDateTime: 2020-09-13T11:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Healthcare Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
     publishedDateTime: 2020-09-14T07:52:00Z
