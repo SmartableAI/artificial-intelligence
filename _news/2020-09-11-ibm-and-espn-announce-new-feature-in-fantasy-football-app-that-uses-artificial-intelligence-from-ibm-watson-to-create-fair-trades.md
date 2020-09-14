@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-    excerpt: "... and IBM's efforts to make playing Fantasy Football more engaging by utilizing artificial intelligence (AI). Trade Assistant with IBM Watson is designed to reduce the complexities of fantasy football trades by suggesting trades that assess the fairness ..."
-    publishedDateTime: 2020-09-10T01:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/10/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1252367/Trade_Assistant_combined.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "IBM adds new feature to ESPN Fantasy Football App"
     excerpt: "IBM and ESPN announced the addition of Trade Assistant with IBM Watson as a new feature to the ESPN Fantasy Football app."
     publishedDateTime: 2020-09-11T12:04:00Z
@@ -65,6 +51,6 @@ related:
         height: 440
         isCached: true
 
-secured: "xHe5cSOogExlc/+Vu+/LJsvQLVgf43soJVjnLHOveCwFmxHZvGdbbTNUX6mEqdrmw0XGI/6V88+Mxx4F/ZhHVtZUIRLAyDidJjD5Bii6E/ifEh5zQuCo8nN/KJR/MNkOdq6PmMmUYJ7akFCD7X88rkNf+nG/SKm8kbc0ZKjgPPgWuSyT3Zkw2fXAtPzxNnc434Wv3KUAvTRP14bFalesbn9bhZBB1XYN5ZVRF+Tc2oRHLWnslP4s9TL+JguL80rRUWqKes5r2VFnDHDdwPGgxdgH9EukOjmgWEso6lH7nxsLFajEYk95P7WSGKR9UFtUfOPkPialAYdUTnXmEoP6PQ5c+qBt6uHKY5orzgFBLfk=;lh7pT7h45wAJeQWIF+WiPA=="
+secured: "IkCSCfKWttLBG+erCx7BVsGT+CxDOmhQAasQsYyvD+RnxaFS/uzQCBkVpWQeLPsQIaZm4e5lGyZpWEPSk2fH57XItAwnEfIEf8YmSrHrqi2SOcDNZ3MHN+Uc3AGvdOViLrXbnD9wyxxZSq9+cAkeReVy9zrDiWVvZqZpipBeReK+5x+jEs16LKy03Ypovr7qSnA0NqLQoXaQ2Cg1ZZphaq55dqNfa3rW2ipln+MwKirNpBgceOKwwLmlZ1WO7O68VNTZeCzGIdZd6GgklXQAS6HuhSfCc3mdhDH31PlEgELGxFJlCQoTsN2anTs+TxQBR4GmvqqBqrYtPYXs212loZ6vz0r17JGjS8ak6tTmKn8=;AYbTGxOmgVl9Ft5LMq3Wtg=="
 ---
 

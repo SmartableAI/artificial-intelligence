@@ -704,6 +704,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-stephen-hawking-was-wrong-about-ai-killing-humans-says-robot.md",
+      "title": "Stephen Hawking was wrong about AI killing humans (says robot)",
+      "excerpt": "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "publishedDateTime": "2020-09-09T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-future-of-defense-artificial-intelligence-robotics-driving-modern-day-military.md",
       "title": "Future of Defense: Artificial Intelligence, Robotics Driving Modern Day Military",
       "excerpt": "With 5G, advanced satellite communication and integration of artificial intelligence and robotics, the future defense system may need minimal human intervention.",
@@ -1266,48 +1307,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
-      "title": "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off",
-      "excerpt": "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "publishedDateTime": "2020-09-03T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Outbreak- Global Artificial Intelligence in Construction Market 2020 Key Players, Industry Overview, Supply Chain and Analysis to 2026"
-    excerpt: "The global “Artificial Intelligence in Construction Market” report can help to understand the market and strategize"
-    publishedDateTime: 2020-09-10T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-outbreak--global-artificial-intelligence-in-construction-market-2020-key-players-industry-overview-supply-chain-and-analysis-to-2026-2020-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "v9uEjW/2Xipu2fXZq8PIyF616Pm95tQrPfq8rHZioLwaXSx7ItGYq8OleIy1XYMvW5sh83BGmFyU7z+PGQ5LB0fT4qukdb4EiLo0XGiENVv+WOqsovBV4bBrfWAMft99X+73ACcJyJB9gbas+1GsnqGY52nYGmVzMdIFJGdJntu2V00wNgE3aTBx/5IssZ6ScIjax/H57uIo97dEgoGIAIAwvAhkFRLuo9CtgUL/9r12HtxxARsklCJuCmFb8y/W78Tzrhap0vaQIXH9lInK1s+CtUeusIS9frD9d7yeAwEH6FaGj/p9WnZLL86KfRNkBR9+9PZaktNJD5KnhZoFWzCmMN654y0fZ4SiQMyUssE=;zhaNgE7Uaj1/1/XgH27KZg=="
 ---

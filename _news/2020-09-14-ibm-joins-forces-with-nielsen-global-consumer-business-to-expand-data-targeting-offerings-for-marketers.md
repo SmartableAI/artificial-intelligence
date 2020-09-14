@@ -39,6 +39,17 @@ related:
         width: 400
         height: 290
         isCached: true
+  - title: "IBM Partners With Nielsen (NLSN) Global Consumer Business To Expand Data Targeting Offerings For Marketers"
+    excerpt: "IBM (NYSE: IBM) has announced the launch of Watson Advertising Weather Targeting — which is a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers."
+    publishedDateTime: 2020-09-14T17:44:00Z
+    webUrl: "https://pulse2.com/ibm-partners-with-nielsen-nyse-nlsn/"
+    ampWebUrl: "https://pulse2.com/ibm-partners-with-nielsen-nyse-nlsn/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ibm-partners-with-nielsen-nyse-nlsn/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 6
 
 secured: "5MEiiVl5uDNqys7K04Ui/NL/0QIVSBsVLAtn0vHT2v5615ixGstIr8DzdbODdb5erWUydmbsC2kTa8owykmOURn6Xqs3RAWm26L4wfnHS5+LMWXVLghpSGSj8Df3JlHmPHF32GM70WgG4oYqejOJcISKZudtCEXA1eEmq8xw1wTvj6/DVOlI4Q+0P3sCrS7Aakzplr57CiKJN6cr32GYaAQ/W/WEacoYbL+R6fRniqJ8q0/fqhg1YQN7kdt8jaYXqBOIm/MPYpE2Gr0SUSnlOOlKhYK43WyRG2FdXXj8j6Et3o+/SG9YIAovW+1/be6kFbjvkMcopxlIHATtn1GnegWeexMsXgJOYld8cPfNy09Sqz0NDO61gG8E14fRdE5KLmDWshZDeZvKCfIOyVbmvQGQBaH3uivfNYI5pdLdr0RzzNR8aih0dyBmY5M/XohvR+wOz+vVAVFmJYGSg9fCkP4SXo4kiIReikkUkJjSs8stsUtlPVUJrFWXoGWq8tNR5v7G3FFIFFjZk/DaJQAW2n+1hEOFDMLTN4s3ALq8KVk=;BU0rmfJ9bShmq4bluP4Y6A=="
 ---

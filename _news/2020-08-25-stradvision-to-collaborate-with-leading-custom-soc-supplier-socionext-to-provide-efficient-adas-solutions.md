@@ -1,26 +1,22 @@
 ---
 category: news
 title: "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions"
-excerpt: "Through this collaboration, the two companies will provide state-of-the-art object recognition technology with software and hardware specialized for deep learning to the Advanced Driver Assistance ..."
-publishedDateTime: 2020-08-24T21:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions/article_c1ccf754-d6de-59b4-9e40-e512448877a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions/article_c1ccf754-d6de-59b4-9e40-e512448877a7.html"
+excerpt: "SAN JOSE, Calif., Aug. 24, 2020 /PRNewswire/ -- StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision's deep ..."
+publishedDateTime: 2020-08-24T21:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17218459"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17218459"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "Cx4JRZJKUDS0n+Wqpt6VOn05sgMq63/KyYibwvjfUYPLD116/9YGCcOr1CG+fz3RE/ZXHuIlTf7DhRFs4ZEiF4zk4cKh7B/TL5oQOfo0kDDE/GZq50BpMQZERjTaRlPSql8eKlDwZojVrRFINlpDtRqVARH+yyxeF0dc0DW6pHPCymJpcVFvifYCzQfrGfNkxfuM8gtB2NLqIG900R2g8xaiKorigucNc90njJFKXo/Z/xRVV+Ug1yexK/xalOKXszw0WoOxLuAe4mHMuJL5dn5omplTRViwjnb7BdOUABiX+VKwM1xAk+tiVD/FX9irustoxAkEtqE6FzkQInTW0QswL1r1PWIkBoNmVXvB6Vg=;3Cumaze9wj4fXNe7mI5H7Q=="
+secured: "B+7suUUGqF2BuMGvncvGFJhD+c5wtJE4ds2340vqRZy897LHKl/GPHeCAvj3zRvnD5jzjvzgikJeYiccbOVHTj4gDjAlWEn/mmkZemxj9RGEloO4hJ8rVqtNrbbJdp+hOuV4GvNfBCzvPnLh6WlzWYbtYiE4/31WmqYbdyLXsfrKid/SFOuxnrPEo6TAz3fllLIm3nP6nG7priA6zNoJoVbjJeQlPuzXD4k7V8ibZIyf/WIO0PXKec18KLpwIBfcHIk05VdbRSUA4sF7YC50n41vLqcQK+dNxwn38V8To3Ka2E+lmLsan/bULNn+azI0OZN9j1J4KCTW9+B+10+3koB/XzKOGUQfb74LDd+Oo+o=;3lXPs1kUX8a5LBVy7rEMIA=="
 ---
 

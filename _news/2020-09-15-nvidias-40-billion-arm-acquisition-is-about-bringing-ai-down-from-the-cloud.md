@@ -8,7 +8,7 @@ webUrl: "https://www.theverge.com/2020/9/14/21435890/nvidia-arm-acquisition-40-b
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/3adfYOvSIiFfP9hVnSwmh87f7ac=/0x0:1785x1186/1400x933/filters:focal(751x451:1035x735):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67403580/1124597225.jpg.0.jpg"
@@ -61,6 +62,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "l1Y0hFGUUsuBG92R+3SuQN3eocFwv6WXw/ZJt0QflI/EsVUyAhD6hNY5xuj0skOI4xEPd3ua1rTULwwq/WQcTUUOEIqp8s1HNKoEWDY2lg3Ffs1VQLttf/uS3WxM/OkiOmuA4xWwtgdC25aZ2SSnVtHkar6LlBD5nodMuaZIEbzykMHLrLPJmx8fTcuz2em1+QUUstBJxUvshas4sDYGX8AhMYYD1Z28acp6nE8pbepaw0xOwE+UO4cUgXYI4MxXCWFpth5T+9KUq6agZPKiLBDP4qxYII35F17E2YQ9g9ERUqs3r4eW70/MC3lKAqIILGoZdClERcRnZAeOSjqpZiVNMweYKsA/4tZ/RW3aszg=;Vm4me9bxbXe+dkk1qh8Hug=="
+secured: "Y8xUCfOt1ZKm0QQMamsYOJx4I/g4pM2d5E+W8/pZ/qdWv+nJJpNB/Gt95/m+UAqs/DXPIYJnYfv/3+To2mwb4F1r5+jca94Wmn0VJ3C0jgSKhNE4IJ9R09a8dHn9ph/fheg/X4u7KOwNT0KxXCmVxpFF6gbSpey56lQJFhJpk1crWW/gS7NL6V77WPeueq0HL0WJo27JybCUK7DTizchO9fSClIL6sXmKQ1plVu8s4/7vKyt9frIPnrI23CED6kOWjSzfUcaAiAMKP1t71BC+jrGfoewc2R12XKoGC8cZWCFU/1ucjhM9gEB93xj48/TRWek0RXI4YvptV7s4VwoWRsVU6rQYyZzJt3tIG5noPQqfpuWcZOB3sLpFmWBO3qiDAnvNUAojpVTrVPIo9Q1v2PnIsuTG30+iAATfk7fCPCKJabzkxmk/GXVVaAjtBS9WK+I8AronrIsQelucL9fgNYsR0/0gjeWan20fj8GCxYG8s7KSMMRFjJX3Kz6k6E575JUF3Zzf0kZX+XoWAzKow==;4Tn2+KT4d70/fJ/i1afeMQ=="
 ---
 

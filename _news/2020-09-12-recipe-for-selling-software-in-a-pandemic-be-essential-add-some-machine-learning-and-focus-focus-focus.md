@@ -2,14 +2,14 @@
 category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
-publishedDateTime: 2020-09-11T21:07:00Z
-originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+publishedDateTime: 2020-09-11T21:19:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 73
-heat: 73
+quality: 71
+heat: 71
 published: true
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
@@ -31,6 +30,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "STjbGQTpEn7qjaRE/4RKP//XqIHxcLVb9u/SO+UW51HrPwDpTMqq5LyQO31ZnVLRDNyUkXp6+BSpxMMX/yxS3j79HIjWLsNTL3HrJrqK1C0Hvxp0Q7awlE8Jn+MW3mGgWUnDJ6sMmX32aC47ip6hFLQvKMumoY7CKHb51KKwGJmQPgFxIyl7c6SXMbL/ayEQhTL7qyWQpduURm6w7/+YEpI8TF/P+wwUjr7aA9FXp1Si2xCC8XxvPMLzh9Bu/6yXRDcat4hQJ4BJeXZTrAi514Xp7T1uAfTWXkI5f0UOdughcrAscJ9UNKfhjPxEGLZxetaHTbdEtd+DzOfnojqlcCZ79UJM/7q+CRDAhHWMK13U8sE66mDfp+HdBqXRNdXRxJwYOPLfNdmNT5PW4SU0Y3fFK/WXGmVFnobt2If/dCMLpd3gRAsKZ//U51ZBEe50GHDxWKBWYLWvK5zurxumpfxS0UtSMhmObsfTGbVDCyMD6+tesSyhl6dCOGttnV8KKLQqC0eTt0HMBI7cwnx7xQ==;W67tTVRqf7noxhNIvH+eGQ=="
+secured: "JqNNXZtO37gKlKI+15fLAWooMljVkDdYIeL9X9+TCJXbgtUBSLTw2roRydsD/MClCSGE9R09Oemry0LS/phQgNtFZXfu7GCtmwx2WmfMiTJpTfIe0XEqXr+I5TIgMXETI788DRCZAvCgwUHyR4anW9adie53PtTDanH8kKn9rNuhJgNIO9qQQJaa3qRRUC3zzlBqMtJWEpSSYrRmiNHA8BN6OlNbdbLzB1xtlHZbNcsCQzEGSCC5C56kBK0TO1179814lFD4qVRazG4cqzHW94YWqGLjgopc9cWWgWD0uj+mK7YXyhCj7fNdU6Zjc5JCEgagumDAeYcRMZmQFgqFWvkuNWX006acndt6ZJHnHrU=;uzgRZyl/hbNQuloNKN9hMw=="
 ---
 

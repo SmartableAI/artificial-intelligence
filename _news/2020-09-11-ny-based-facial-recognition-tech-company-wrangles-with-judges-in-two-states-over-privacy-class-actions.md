@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Goes Beyond Simple Loss Prevention"
-    excerpt: "This is especially true in the retail industry, where the benefits of improved security technology go far beyond the obvious loss prevention applications. Facial recognition technology in particular has proven that it cannot only help retail locations protect their assets and employees but can have a positive effect on customer service capabilities as well."
-    publishedDateTime: 2020-09-11T17:13:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152248/facial-recognition-goes-beyond-simple-loss-prevention"
+  - title: "Portland becomes the first city to ban the use of facial recognition technology by government agencies and private entities in public spaces"
+    excerpt: "Portland's ban goes further than any other city in the US and allows people to sue private companies and individuals who refuse to follow the law."
+    publishedDateTime: 2020-09-10T04:43:00Z
+    webUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/portland-passes-landmark-ban-on-facial-recognition-technology-2020-9?amp"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/GettyImages_1097126750.5f496afd97a46.png?auto=format&fit=max&w=1200"
+      - url: "https://i.insider.com/5e4dd9c52c24b6050b4d6d68?width=1200&format=jpeg"
         width: 1200
-        height: 798
-        isCached: true
-  - title: "LifeLine Animal Project can now use facial recognition to find lost pets"
-    excerpt: "Facial recognition technology is already commonplace for humans, but LifeLine Animal Project is the first in the Atlanta area to use it to reunite pet owners with their furry loved ones. LifeLine, which operates animal shelters in DeKalb and Fulton counties,"
-    publishedDateTime: 2020-09-11T20:25:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/lifeline-animal-project-can-now-use-facial-recognition-to-find-lost-pets/4TBM4ZQ3EZAIPFKWLUTDGA6Y4E/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 38
-    images:
-      - url: "https://www.ajc.com/resizer/4ooxhafuejSshGOd66gb8TcZP9Q=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/3HAS5HLVSCD4QCMSJABFJSIMGU.jpg"
-        width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "KD0q+8axCisMeUtb2FBZtcgDBJEv0a55MZttiZwk8scBnkdXu7qaIUAEpaOsD5uPmx2EbcapxNzrk7GHlmN0j6sYTPSS5rRE5mGZ/RLbzrHVSl9WbpFO6GxxbKTSiko0eH6cuF1VSFzHvuI/VeheO00zZlyvgavuQLyOrn7+e1nm+2XeGKAKtGMK/7AgcurPY7IvoI4y012X6xSP8FIH5FwufC2lbk3EdWHA7uqWnXqm5dckx5oJCNMghoIh+NV0kTqjH1KRSBOeCzCeObHCmdMUzdQ60vtUzkAdNF1j0gxqG3AzV4tjDIJdDukqhHM+woIWA5OYV0hwLnnOLihTdSydHV51TLfwcRF9yOYitro=;KDyxYVwTzlBJVzAJ2DFVnA=="
