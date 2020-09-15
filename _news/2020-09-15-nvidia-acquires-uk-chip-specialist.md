@@ -39,6 +39,17 @@ related:
         width: 560
         height: 300
         isCached: true
+  - title: "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus"
+    excerpt: "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,"
+    publishedDateTime: 2020-09-15T14:18:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal"
     excerpt: "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ..."
     publishedDateTime: 2020-09-14T09:41:00Z
@@ -55,6 +66,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Nvidia sends shockwaves through chip industry with Arm deal"
+    excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
+    publishedDateTime: 2020-09-15T14:19:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "4JeL/nxFLrwbIe1C+qVL2M0vr/VyEkVMCEoPhsV4kmcEVMQviSPXlrEzRI6vJGLW+HcGdlqGq+I+XPgetbBTbCRj9515WmV3DkPfG3ELWiZNpD5kgCj6hdovPh6+Hh1HdU930CQPreY4h3hwRiUxB8QE45DoTS1i3MCy8YqJMyuqs3DmILXbeWFC9aLrFIfHVJDUOa6nqiV63OQth4K5IKp1mdTyUdlDniLB3XDT1H7xTftr/OKbIZnXm4154TyXF7btzVXO4bOWHkMA9m2f2H7hA2G8DAyk0QImx1S9eUTgqtCOIvJ0vVGF13GjQTbi9xrpU5947S58QQTvP1tbpXC/WveezArAJGd7i25fqNc=;1kM3AZKTRI2aBN8dMfd5Ug=="
 ---

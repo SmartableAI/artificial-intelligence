@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Former Bank CEO and Two Fintech Unicorn Entrepreneurs Join Forces with Team8 to Launch New Fintech Venture Powerhouse"
     excerpt: "PRNewswire/ -- Team8, company-building venture group backed with strategic funding from Microsoft, Walmart, Barclays and Moody's, among others,"
-    publishedDateTime: 2020-09-15T11:19:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/former-bank-ceo-and-two-fintech-unicorn-entrepreneurs-join-forces-with-team8-to-launch-new-fintech-venture-powerhouse-301131054.html"
+    publishedDateTime: 2020-09-15T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/former-bank-ceo-and-two-fintech-unicorn-entrepreneurs-join-forces-with-team8-to-launch-new-fintech-venture-powerhouse-301131054.html"
     type: article
     provider:
       name: PR Newswire
@@ -56,6 +56,6 @@ related:
         height: 670
         isCached: true
 
-secured: "ke+bxfmV8cVC744PYbto7QKwwfKQyvTn9M3E9DgEp9gM9xVwpp3Zroo814tZXzBmHuIFs4EgtuRCHDN92+eIxl7bhNQSJh/fOGLzrTwN/N3H98J4VedRvD4w43MlTiZapFQHj8j3vXp1+qHZZXrm7QEox3OJ8tcHZnp4SSQcooqlst1CFDIQi3YDyXaD5wJ/VqO96nWGVJT0kwWxlirsWeUYUFIiDxMOwFhXPKZL6WuPFiFElj4fP2MjbDNsOaRgLIkOKYLJes2FO7dqu9BFyoEWBN8rOQ9bPGs97AJwgU9aQz/UpHxGHkLYXtIdUaepfcfS9yM0hTmU59H/o36GPUR30qAuEOgfQLqqOdL7lP0=;+yxNc7o0H3S11QhQWGb+Ww=="
+secured: "7CrrkzuoSwxLuXdiJVMw28LS+LMBwd1hiIJQB9tTae64ivzZE/wpiIYEC764g48Uc2fDrjd8CZqgd3pLxBnJJH7Fk79zpguxHTFIVckvUfW4GDOuokopeIjvj5rGA61F4e4P1Lp8ry1FPGV3gcRN9HkvIrZc3UoGD1tNI0OoE2Z0SaC0/u63+Be4bZwRCEIF+Dx5rf9EJ2HQaumvsYvhZTl7yMCTtFVVdWI3aCpY623hJn2nRGc20spjg0BscmrQL/fvYo4M+jqbEaQZ2SQ9FofFOO+9wfzd4yFDX7duQ/A+5+Y0dinazINciMm1WILb6ldA76IFr3H8LF4XEyiuC+/yaGbDE6s4vU8Z7HXAc3qkiZr+nXUjNaNASuzGBFtJOyutB1N88yb3y0E/G90pfcj9lMmgqvoDZtxv5pZ0KgTPvOXCVYs9E0CzfaJ9ZN9zQV7/k/ZZANFRLJC+h8rSdZfiykTMxVU/6wfxVPLsRVTGLT3dKs2wmZHZgMp2uAIJQupYR/43hCs829P2Sqp8JFk+NDtKsMOeiAqSIELD1KI=;QfxqAlBSvsbA8Lj/CsqTfQ=="
 ---
 

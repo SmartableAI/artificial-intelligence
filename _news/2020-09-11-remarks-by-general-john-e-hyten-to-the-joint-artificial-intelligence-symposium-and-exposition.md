@@ -7,7 +7,7 @@ originalUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/23
 webUrl: "https://www.defense.gov/Newsroom/Transcripts/Transcript/Article/2344135/remarks-by-general-john-e-hyten-to-the-joint-artificial-intelligence-symposium/source/GovDelivery/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition"
-    excerpt: "Dana Deasy, the Defense Department’s chief information officer, delivered remarks at the DOD's Artificial Intelligence Symposium and Exposition."
-    publishedDateTime: 2020-09-10T21:40:00Z
-    webUrl: "https://www.defense.gov/Newsroom/Speeches/Speech/Article/2342193/dod-cio-remarks-at-dod-artificial-intelligence-symposium-and-exposition/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2019/Aug/07/2002168198/1280/1280/0/190807-D-EX074-026.JPG"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition"
     excerpt: "DOD CIO Remarks at DOD Artificial Intelligence Symposium and Exposition. As prepared for delivery by Honorable Dana Deasy, DoD Chief Information Officer"
     publishedDateTime: 2020-09-12T21:23:00Z

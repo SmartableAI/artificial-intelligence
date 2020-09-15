@@ -25,26 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "FeverIQ by Enya.ai Helps Cooey Health Bring Equity to Healthcare"
-    excerpt: "By accessing Enya.ai's FeverIQ Health Check API, value-based healthcare platform Cooey Health has been offering bilingual (English and Spanish) COVID health monitoring solutions to its customer base of medical professionals and their patients,"
-    publishedDateTime: 2020-09-15T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174"
+  - title: "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry"
+    excerpt: "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies."
+    publishedDateTime: 2020-09-11T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-  - title: "Philips’ Future Health Index 2020 report reveals new insights into younger doctors’ commitment to improving healthcare during COVID-19"
-    excerpt: "COVID-19, overtaking artificial intelligence 47% of younger doctors reported greater appreciation from patients; 44% experienced greater collaboration with colleagues across different skill sets Only 9% of"
-    publishedDateTime: 2020-09-13T09:45:00Z
-    webUrl: "https://www.nasdaq.com/press-release/philips-future-health-index-2020-report-reveals-new-insights-into-younger-doctors-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9816197f1db12502f9e4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "47dy8arXN2xCdL3TodcJkgiyGH583L04AgB0qlYbfstEMhRuFCaPhrw7uJcGswd8CkL52JePXUS7JSudSPbuBFys87mzUZJn8wypb4NloIzgtafcTcqeHk/2eJkhV+zlTx/JIMBVyWygYy9rJcrcRuHir5yMmBUjjZtp2E5+033u0j9ZuF7teo8zm+zxuQ9Tsfl037BOjqDF/re1OqXvKuy49DBBgexZ8X0agoWPVcsDdvpv7YcZ0PT0cDDXqCKFnQrTjPIMjhN7iM+1+9+xHO/uncPIj2P4MXMlw1udK7TlPFHW7cOYbqKezy9uOfcm2C5oiJJIiBbUGVSuCDsLQj0wQ7HWDdDZmA2uRiAwFyE=;qyftSVl62EurqVNQsFbCmg=="
 ---

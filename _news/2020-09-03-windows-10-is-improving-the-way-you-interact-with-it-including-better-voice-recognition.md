@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Windows 10 is improving the way you interact with it – including better voice recognition"
-excerpt: "Windows 10 has a new preview version which improves the operating system’s integrated voice recognition, and introduces a thoroughly overhauled emoji picker and refreshed touch keyboard. Build 20206,"
+excerpt: "Build 20206, which has been released to testers in the Dev Channel, comes with a new and improved version of Windows dictation which has been renamed Windows voice typing. As was the case with dictation,"
 publishedDateTime: 2020-09-03T09:20:00Z
-originalUrl: "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-webUrl: "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+originalUrl: "https://www.techradar.com/in/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+webUrl: "https://www.techradar.com/in/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+ampWebUrl: "https://www.techradar.com/in/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 661
     isCached: true
 
-secured: "vOYdj07EMdgDbGR2F0QOcuBxxiE6VTbDghO1tPJQkqT6OiytE1f1u+sg/d1BFvJ7M+yb2FfjojdbCZN2/pwU0nqGmMM5h3D96dPv6p5rLqjTShJuuvik6Co7ywEpYscRpgEaIZFSfGSsTtLgZ1rS/PQSTzl+AhZ845nG7+qdsb+F5aZUMvwg+6h0vAjCU+WtHiZe6DuIPoo+1DbULCXEwO1HprSaa5Ym2+e14W8uIG9etwa4ok48DuXUXbHd3gKhAcHTqkmf/pmxYxoro+VdvFGuXxR6jfolDAv1WbKeRx5RW7MlYFZL4i3DHcqOMtjzEPvDUButfI2o/uxHLM1SEJhvYe+/pnp+xbhDsyeKbisQOGiLy+Vcxe4QM+LKhPl7mPFGKSP/v+NH7+XXxhWCNFbvSJIz+o9iHvWOJRyoKtwrgbpKhjY5PSU0jmpJMpxCP6NiJsq906MKePiuMonnoU1/p0k6huCpbhSg6LaSUzHhXmZIcjV4bFIzcWnJJ3sPZc2qVD6Cn+MezcYSiPh6SvmabQYSYAFp6HOgKIgzapM=;RKuF02w/eJfgKuDc3W88mA=="
+secured: "LWYtjhk35xGPiK170egzUpi1Ys5u/2JgbPgEcYnqWzLKLkD9ZVTb8t9pewDnw1LzCF5drrclQcVkiC928xxg/GYRSEKR46QJcqTs8QBavY/1QMbBNvWK9FVtrKsAFLnccnryHtnCtPLaoYK+Rn2+KELAggZ6JdbbYCSwQPi3U5CyOdP+W0TdlSYH5kz4TJlfHmdZt34kD3YI+S/ZkcJaC17HUDDAmrMzZxJY3qLkaNrybR07Of4Q8VFaP9XzkR/Vu42VB0noFnuWBglFkhAUh+vbHcDVUms7eiFqh4sDOiZ1TPw5hHjVpr15Z1FlTassTDUtLWvbQpsz5chWuxHErTYhzp5YsG4qkCV1Hs7gt0w=;S/SFNg5b32eCMQINvzQulg=="
 ---
 

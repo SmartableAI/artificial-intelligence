@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 167
+    quality: 184
     images:
       - url: "https://www.chessgames.com/f/12295.jpg"
         width: 350

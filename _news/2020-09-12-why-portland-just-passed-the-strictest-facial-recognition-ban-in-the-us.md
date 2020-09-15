@@ -91,22 +91,6 @@ related:
         width: 861
         height: 484
         isCached: true
-  - title: "Portland Passes Unprecedented Restrictions on Facial Recognition Technology"
-    excerpt: "Cities have taken the lead when it comes to regulating facial recognition technology. Currently, there is no federal regulation on this kind of technology, nor any policy in place to govern the use of"
-    publishedDateTime: 2020-09-10T22:59:00Z
-    webUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-passes-unprecedented-restrictions-facial-recognition-technology"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/Camera%20Surveillance_0.jpg?itok=qItuW4kd"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Portland Just Passed The Broadest Facial Recognition Technology Ban In The U.S."
     excerpt: "Portland, Oregon’s city council unanimously approved bans on city and private business use of facial recognition technology on Sept. 9. The ban will apply to city departments such as the Portland Police Department as well as public businesses ..."
     publishedDateTime: 2020-09-12T12:23:00Z

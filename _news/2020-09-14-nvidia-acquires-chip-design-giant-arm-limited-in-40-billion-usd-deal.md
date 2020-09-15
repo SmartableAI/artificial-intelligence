@@ -41,6 +41,17 @@ related:
         width: 560
         height: 300
         isCached: true
+  - title: "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus"
+    excerpt: "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,"
+    publishedDateTime: 2020-09-15T14:18:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Nvidia acquires UK chip specialist"
     excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
     publishedDateTime: 2020-09-15T09:34:00Z
@@ -55,6 +66,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Nvidia sends shockwaves through chip industry with Arm deal"
+    excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
+    publishedDateTime: 2020-09-15T14:19:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "PT19497WRRUpByNAxdvBlOvONOx8NGpYPpKfwJQWa1r0LTg+fYcHRumPjrUrWhcb2ysWsqsacLn9rXc7ZkP1CYovx8i4z9DFJOM0mpE/tmv/W9s5A2lxRgz8O8cEhLeJ8mUzgWT7YwT6MtBJvV5Ez4CIpK7Qy3S1DXkrNfEBDbka+o90Ufo1SEuiAN/yKIRO2Siiru6zKwWv4E/e1ILQy0sy8Oyarv11dnzwjtxcnqxbW4da+LQf6BTWizbHwJ40uEFIpghWRcSs5anAn6FWVUI7jRG/HBzWVV8Dv8jYKkCJHLcncBCDbGqBC8f9s1kRhfY83xLG3oBl5rP5pZiWybvxuujuWcDfx/n4hTjBA251JDv2KeGaD1HJ2caj44RHdRMUzpOmN32shCCQM9Fn2+EfgPGBJCImalSxHqdNm9Gyu1yu1YWTyTDLzv8al2o3i6/8bqFMXQUWwYxpK4H2cMMS57jNK5rfepxFPbOQLS2jtoHsRnwADPEzahLFIL1JLjEd42+HbttdckojWHKiXw==;jmXgkZYeEOqn1IgghbtWFA=="
 ---

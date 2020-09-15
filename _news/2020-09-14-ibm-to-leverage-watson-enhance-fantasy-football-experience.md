@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fanta
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
         width: 650
         height: 440
         isCached: true
-  - title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-    excerpt: "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ..."
-    publishedDateTime: 2020-09-10T21:20:00Z
-    webUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 20
 
 secured: "efV3DPK+CX5fAxBXzamO7NDqcjDyGj1Ue6rrVchUi2Q4MNJuVtHLtEC2M+mWUwjFC0jtk24RevbC1DmyrnxzHs8XWpdoyOPeaqe1QGZDWWuIF142fPmAdUaCG/Ri+l0hz6jHQN7fQfmKTG5j/5wsxHkOsoAXSCUCEiINyaRDo7kETopVNdFNKovtBW1s6+ygQpKE1HIduwOQv2tzZbE0yenAjF61/ac9gXzc83zZ+occVd+e2cMAz7Tj0mArLYlXb7FnOFLD2rwR4bWyhz49/EgW6mC/g/CpA0gXWqX0q6/+/lopPxW+g5DS4l/oyVZYj8PmHv2ZRNbadH35Fw4/fRgrJq7HJ6IEpSqjokSOq9s=;er8yHlaEUhn8opZIii09mQ=="
 ---

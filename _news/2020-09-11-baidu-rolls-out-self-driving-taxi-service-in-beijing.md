@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu (BIDU) Expands Apollo Go Robotaxi Service to Beijing"
+    excerpt: "The company recently revealed that the Apollo Go Robotaxi service is now available in Beijing, China’s capital. The service covers about 700 kilometers across China, and features about 100 pick-up and drop-off stations across several residential as well as business areas in the Yizhuang,"
+    publishedDateTime: 2020-09-15T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Baidu launches Robotaxi trials in Beijing"
     excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
     publishedDateTime: 2020-09-14T08:39:00Z
@@ -79,6 +90,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "QqTOYkkpqOYZDwhV6kQz/eK0NLT/DGiK2GqlZDfqH1YNYG68wQ7rm+gVKqGonpS8m6MHYkUUkg8TOaaO6oB+j2tYa5x0ZHzqIfDl5c8J1NqhCNcC6PSxJxl48rMm+B9QbwcaXRgmVpinZn0od3qjR/aozYpVe7SkinFD3SxT5aA7sVq1frd9WJnznBv1xue0x9HTVMDxsEpCz/muMW8k+dJ/xS/v0zuQ3BF/glppL6ACfhESIvPlaYhKwCSTndVrPBCsy5AYJry0O9Jxv74zgoUhrLgmdbbrDKCgKSRozoYQ8uRnB9koIkAJdHcoH+/Pz1moE8A4ZMy3Ho1YWIRMbX3xVAyIv8pzzdl451FVgbA=;vXclx1N3HQqlUhR+afu5tg=="
+secured: "HkVTJkrTRGC17BFg+m8CCGeb4ZuP3G0cBzxiy9r7xpM9IKTKOHLQH4ap3sSZcXtIWw6Z9T0XawoQHMWRKclME0k9TLME0aQFkMglDQdGPIK6I4BWz5ua0b+zEl0djlveFIhJdSmOXpNVnWugDeheSAsrlpgTW943FakZDjuWYFBMGvVYvQWT4xeQ3j8rsU9/Bu3PGJDmOdIfKUERCne80fx3Fmf24n4LK2c4XiDwwRnKpa9VYjtfhiD1KM8Tz766wZf03WwaxeWUWmEaS2Rp3JJiFFP8beu/d5p7NUTW9E4BC5QBnIMH+eE3yuW1ZvQVeFDDmeIk2uh+vSGnBATs/PtyBVKODfjnF6THt99oEBg=;rGCKLSUfA/9mXRJPD9FlWA=="
 ---
 

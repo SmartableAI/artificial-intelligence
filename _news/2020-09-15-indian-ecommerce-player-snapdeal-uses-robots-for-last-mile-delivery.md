@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Indian eCommerce player Snapdeal uses robots for last-mile delivery"
-excerpt: "Snapdeal says it joined hands with autonomous mobility startup Ottonomy IO to complete last-mile delivery on orders that were placed from select locations in the Delhi NCR region. The packages that were delivered to the doorstep also were sanitized on the way."
+excerpt: "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots."
 publishedDateTime: 2020-09-15T11:31:00Z
-originalUrl: "https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-webUrl: "https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-ampWebUrl: "https://www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+originalUrl: "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+webUrl: "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+ampWebUrl: "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
 type: article
 quality: 89
-heat: 99
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Snapdeal Deploys Robots In Its Delivery Fleet"
+    excerpt: "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously."
+    publishedDateTime: 2020-09-15T14:38:00Z
+    webUrl: "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/"
+    ampWebUrl: "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/09/31-1.jpg"
+        width: 1360
+        height: 630
+        isCached: true
+  - title: "Snapdeal to deliver packages using robots"
+    excerpt: "Snapdeal to deliver packages using robots. In collaboration with autonomous mobility start-up Ottonomy IO, Snapdeal has successfully tested last-mile delivery using robots in select locations of Delhi-NCR."
+    publishedDateTime: 2020-09-15T14:43:00Z
+    webUrl: "https://www.rediff.com/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 59
+    images:
+      - url: "https://im.rediff.com/345-230/money/2020/sep/15export.jpg"
+        width: 345
+        height: 230
+        isCached: true
+  - title: "Snapdeal Is Testing ‘Contactless Last-Mile Delivery’ In Autonomous Robots & This Is The New Normal"
+    excerpt: "We've already seen a lot of companies get on board the idea of autonomous delivery. Now, it looks like Snapdeal is also trying to get a taste of it. Yes, the e-commerce giant is now testing using autonomous robots for last-mile delivery."
+    publishedDateTime: 2020-09-15T13:38:00Z
+    webUrl: "https://www.mensxp.com/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
+    ampWebUrl: "https://www.mensxp.com/amp/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
+    cdnAmpWebUrl: "https://www-mensxp-com.cdn.ampproject.org/c/s/www.mensxp.com/amp/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
+    type: article
+    provider:
+      name: MensXP
+      domain: mensxp.com
+    quality: 45
+    images:
+      - url: "https://img.mensxp.com/media/content/2020/Sep/Snapdeal-Is-Testing-Contactless-Last-Mile-Delivery800_5f60c3af87b71.jpeg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
     excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
     publishedDateTime: 2020-09-15T11:13:00Z
@@ -41,6 +89,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "haRaEaYYpB6dHXXP+ZSeQCg7VQFpHeOcDr0HvYcH9LTVVSX207hhbD+5kjkPXJ6JC6CJItT27L4MnV4CKAcHXydp43klVESqeSfhrjiX8K1ZIZVz/w1lH9ij5BwlF3heGGmwcLsChnGH5CPlpAevqO9QnmaXeEmDVFspH7v/9q8Lh6qcVa67si+1C2buNPsa2BSuTzQbAySIaAlTPYTzMhqKmmu8xKU1tHVM1oN1z2s63Cmuvk2qJwJ0RHTe/zeFZvbx99+OlbrFDKM4E6wRsJyKdZhFpBsKkc8olnowUmZScr2So5AEYr6GihM7HGGGHY9Ypb+RKx2hT8lRj1TCtwL6MuOAf3G5c2lWlDiAHxc=;URlkP700Gipwz8HyFHS24Q=="
+secured: "uJlvThky/JSA1lQ13SyxF8gBRdb6nlQjuuyQ9LH7jL5OmOfjRd0/o6u9ulVIahA6cLq4qJxbQaLQu5F0yo2twm7Sz81ROs9AswmIer6U9XreL7MsZDUj0G7bdv2L27HLRpjLDbFtrjwwFHXXNb7wwdMVCFvQo8pee28E/G6iOXJmCm9ZEqIJE33ZXk/x89vfE183eBlJu9RfVBQ9SAWZU8YDZy8MXLNCRCLAytizUhrWWljy4O0zhSk4L6skPmMk6VADFRLmxfR+ih4a3A8oQKwL7xA1n5TBK5tBAWLusUjEhPX4qNUx5hIw+A5tUfhN2go04Lk9Qcs+gUxtgarwySjNYsXFla7U7Q3QCEhYq80=;szZMb5C48lF8nz6JBflN/w=="
 ---
 

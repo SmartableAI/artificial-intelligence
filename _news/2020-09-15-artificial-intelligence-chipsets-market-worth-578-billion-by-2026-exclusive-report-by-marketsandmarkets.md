@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-15T13:33:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50706540-artificial-intelligence-chipsets-market-worth-dollar-57-8-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50706540-artificial-intelligence-chipsets-market-worth-dollar-57-8-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027 at a CAGR of 45.3%| Impact of COVID-19 on this Market"

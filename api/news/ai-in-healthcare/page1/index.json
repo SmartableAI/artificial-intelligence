@@ -2,47 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-15-feveriq-by-enyaai-helps-cooey-health-bring-equity-to-healthcare.md",
-      "title": "FeverIQ by Enya.ai Helps Cooey Health Bring Equity to Healthcare",
-      "excerpt": "By accessing Enya.ai's FeverIQ Health Check API, value-based healthcare platform Cooey Health has been offering bilingual (English and Spanish) COVID health monitoring solutions to its customer base of medical professionals and their patients,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174",
-      "publishedDateTime": "2020-09-15T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-big-data-reveals-new-insights-into-what-our-dreams-say-about-us.md",
       "title": "Big Data Reveals New Insights Into What Our Dreams Say About Us",
       "excerpt": "Some scientists enthuse about possible uses in therapy; Covid-fueled dreams of massive bug attacks.",
@@ -112,6 +71,56 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry.md",
+      "title": "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry",
+      "excerpt": "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9816197f1db12502f9e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/amp/",
+      "publishedDateTime": "2020-09-11T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
