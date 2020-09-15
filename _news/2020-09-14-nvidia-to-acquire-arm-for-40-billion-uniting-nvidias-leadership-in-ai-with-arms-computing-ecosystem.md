@@ -56,6 +56,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
+    excerpt: "NVIDIA and SoftBank Group Corp. (SBG) today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, “SoftBank”) in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-13T23:21:00Z
+    webUrl: "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "gYpWBQUOo60I9Siso7SyfSZQFQV2CHf76CxOAPgLnB2LpwtlifyACsbH771nMvrA2+R9ahgnQ4aNC69+xGkg/bW1zsnWqjoMIpENr9KdA6beKZvTzEysdnebEht/ysLA8txgUulkHyr2OAuFPfWTLHSQmocHVUc0I5ETwcgDi7orRtI/DrcRoGCLz+edm5tEokovYP/cO2oHVNffbPei22pvAl6TSwljq0OO0BvOm3/p29PRjySGEIK6UC1GV6SjUoqBjtnLvIs3AH2vVWpe6o80Ck+LX+GQQjX+UrQkiFWF9q+AztjTux6bfjaa1qSHniffXOxgVTWY/3fH4dtyBOogRwCyeE6Eq4fFedx7tsY=;5Ris+kbaIqfSSZJdgOjosA=="
 ---

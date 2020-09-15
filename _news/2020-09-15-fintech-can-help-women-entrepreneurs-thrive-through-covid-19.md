@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Team8, Israeli Entrepreneurs Launch Fintech Venture"
+    excerpt: "Team8 Fintech will be led by a former president and CEO of Israel's largest bank, Leumi Group and the founder and president of Payoneer."
+    publishedDateTime: 2020-09-15T08:40:00Z
+    webUrl: "https://nocamels.com/2020/09/team8-fintech-venture-launch-israel/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 24
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/team.png"
+        width: 1199
+        height: 542
+        isCached: true
+
 secured: "lWbMgDYOm5lae/KlFydSbwKl/eo9dKrvnWfMX7+xoZ3hw/l2Jq+XB30JXGCKHs5R1L2wjPhqMzNarPR1agWcPowUcbk37g2pvqT5xBsk8DUTjpDw+QbY7Uq7iio/dHNY0yY63vEAeQ7KjTkAj6cEIRdODyX6+w4UQZ2Gk9opeqZKQSMhjrRi40x950wD5huLFfTesJwko4uCwbQ5+VeDRnfEXhbu8PESk0Ot48qge65Mi8zO3SNyNHHteoGEtgs5rhGUlHbwG4Ix13CyWbkSo9NAvY9EzAlR96vTkbrlgkRZp+l2iqGvrgRU2yGwHNcFvwjW+IlDzzzL8Rp/XA/u8UrBVZDajvo97ieVCQfP4+AnB98A9Gh9lyH616L/5sInBjuksYK0ZeXWIhqk7g4ML+MWaxRR0XzWCcLYuUdYsr1tReetMZFbCrFvKOppJEH3SAdXzPHZx8q4D4O2yV0EDacU4NtyeC4QZlE9BO+gmh1SGplj997tsyna7EgAV9KXmMDJWM11rormLpCdhZIR/r8Gha/C1jvojjZBhEFrqUM=;Lo+vNBeX5R0ibXM8DE75OQ=="
 ---
 

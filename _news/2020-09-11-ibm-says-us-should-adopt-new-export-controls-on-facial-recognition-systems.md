@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
 type: article
 quality: 86
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
+    excerpt: "International Business Machines said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial"
+    publishedDateTime: 2020-09-11T20:11:00Z
+    webUrl: "https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
+    excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
+    publishedDateTime: 2020-09-11T16:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "IBM pushes for US to limit facial recognition system exports"
     excerpt: "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,"
     publishedDateTime: 2020-09-14T01:03:00Z

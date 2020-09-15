@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Portland Just Passed Our Country's Broadest Ban On Facial Recognition"
-    excerpt: "Portland, Oregon might be best known as the home of bohemian stereotypes a- plenty and some of the wildest donuts you can find in the state. Now it’s also earned the reputation for ambitious privacy legislation after passing the country’s broadest ban on facial recognition technology to date."
-    publishedDateTime: 2020-09-10T15:38:00Z
-    webUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594"
-    ampWebUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Pardon the Intrusion #26: Facial recognition? That’s a no from me, dog"
     excerpt: "Portland, Oregon has become the first US city to ban the use of facial recognition tech by both public and private businesses."
     publishedDateTime: 2020-09-11T02:53:00Z
@@ -50,22 +34,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/09/ptl-newsletter-hed-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
-    excerpt: "International Business Machines said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial"
-    publishedDateTime: 2020-09-11T20:11:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Portland becomes first city to ban companies from using facial recognition software in public"
     excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
@@ -83,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Portland’s facial recognition ban: Why businesses — including Amazon — fought the groundbreaking law"
-    excerpt: "The Portland City Council on Wednesday unanimously passed a groundbreaking ban prohibiting use of facial recognition in privately-owned places accessible to the public such as stores, banks and"
-    publishedDateTime: 2020-09-10T16:07:00Z
-    webUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/"
-    ampWebUrl: "https://www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/portlands-facial-recognition-ban-businesses-including-amazon-fought-groundbreaking-law/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/07/RN-SAFR-Register-3-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
     excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
     publishedDateTime: 2020-09-10T19:32:00Z
@@ -114,33 +66,6 @@ related:
       - url: "https://images.wsj.net/im-230642/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
-    excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
-    publishedDateTime: 2020-09-11T16:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Portland passes broadest ban on facial recognition technology in US"
-    excerpt: "Councilmembers in Portland unanimously approved to prohibit public and private use of facial recognition technology."
-    publishedDateTime: 2020-09-10T15:15:00Z
-    webUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/"
-    ampWebUrl: "https://nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/10/portland-passes-broad-ban-on-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/200910-portland-ted-wheeler.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "We need clear rules for facial recognition tech"
     excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"

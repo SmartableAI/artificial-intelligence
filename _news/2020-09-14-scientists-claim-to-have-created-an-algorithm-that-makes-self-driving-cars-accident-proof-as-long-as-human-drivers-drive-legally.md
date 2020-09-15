@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How Safe Are Driverless Cars?"
+    excerpt: "And since such situations are so rare, De Freitas and colleagues argue, there’s really no need to expend so much effort on trying to figure out how we can program our driverless cars to make the right moral decisions in these hypothetical cases."
+    publishedDateTime: 2020-09-15T07:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4"
+        width: 384
+        height: 504
+        isCached: true
 
 secured: "jh2xVEieYzVgJIjnPl4l4oCTdSUxAwtHcAK35+CwsjHfB8vvMzCvYVBsZwAwyyHnQYO2l9ArU4sRzhTvlNZbsTYZWchwjqbQVF6bgvqxCY2FAwJa4dvxtkqohEzfnZgZUj5ahkY7udW3tbougQEhiHOUJEJtW7WLANvXo1yj+8G9sCi7DGyIhLVfJhxI01NumARYYw/VPBEb8Nf19OFQz6dnwG/aECS/gR57IcH6LyOmrLfBVUaX4AWQUxK7yPF1D3F8gugqJveRP+KTOi+2BLuywM6f/T1Kdf52XOZrI2/ovyW7OqYJlwxLb+CUnDCvrzAuRk+FYrTjLozNAk0UPgpWHJ/jtNnbhFo/Yw/ESZM0TzNzr7xubIOATXO3dXC/KT5mGJ9vUQnaMIzqMisM7VwI+kWPFuI9MPiO2vQOXyc0A0MPbdvme22vEgTpuyGg0N/m7cK0CbfoSsotcPISf7Z/Ey5b3A7vggVgsLTU6QZvB76HXh2ZgR8oIPf/CkQxBuMuC1j3Cibp4HAZv8OrUw==;4jMj+ILjZyojGkyBwrJmCA=="
 ---

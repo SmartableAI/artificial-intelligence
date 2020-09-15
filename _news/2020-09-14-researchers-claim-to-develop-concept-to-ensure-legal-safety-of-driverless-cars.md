@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishexaminer.com/world/arid-40048664.html?type=amp"
 cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Safe Are Driverless Cars?"
+    excerpt: "And since such situations are so rare, De Freitas and colleagues argue, there’s really no need to expend so much effort on trying to figure out how we can program our driverless cars to make the right moral decisions in these hypothetical cases."
+    publishedDateTime: 2020-09-15T07:20:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4"
+        width: 384
+        height: 504
+        isCached: true
   - title: "Scientists claim to have created an algorithm that makes self-driving cars 'accident-proof' - as long as human drivers drive legally"
     excerpt: "German researchers developed the algorithm with data collected from driving vehicles in the real-world and tested it in computer simulations."
     publishedDateTime: 2020-09-14T16:48:00Z

@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort"
-    excerpt: "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say."
-    publishedDateTime: 2020-09-10T16:55:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 35
-    images:
-      - url: "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "sX94LXHhpEUmWKxwpWhihsCvaFOzF8Yt3FaxBB+ysebButC+gkrWEThX364MdUuCsJW2sfjUB9uh8/WpINJj+rC07FaFZBK+M/gReHAlAOofQIbX56ReqEM50YBdTLiy8486Fto78Tqk8UkAqaZ2O+PEKJkLRP5J+asJYn8gWjxm6h3RSlZF2mnhXy7fIMXAIfe6DREKnt+/9j/0IP7Jfac71RtRI2fN6WOVQ0wpuXrPbeiH21LrYUNXWwvoHhzfw/lcfh+X+xuYoIYwBAC0WPl/V+qSBaXYCoZslDw/cTA0FSGhPFSg7SaZSOoqFOW+uSG/TUrI8rxOF8MpDR6zHJakgtfz42Z/gStGlzoJmcM=;HNnbQwHnaaBsDv6Dfk2HdA=="
 ---

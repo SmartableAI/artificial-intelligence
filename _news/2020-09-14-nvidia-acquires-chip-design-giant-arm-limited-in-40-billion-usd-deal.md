@@ -41,6 +41,20 @@ related:
         width: 560
         height: 300
         isCached: true
+  - title: "Nvidia acquires UK chip specialist"
+    excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
+    publishedDateTime: 2020-09-15T09:34:00Z
+    webUrl: "https://www.just-auto.com/news/nvidia-acquires-uk-chip-specialist_id197733.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "PT19497WRRUpByNAxdvBlOvONOx8NGpYPpKfwJQWa1r0LTg+fYcHRumPjrUrWhcb2ysWsqsacLn9rXc7ZkP1CYovx8i4z9DFJOM0mpE/tmv/W9s5A2lxRgz8O8cEhLeJ8mUzgWT7YwT6MtBJvV5Ez4CIpK7Qy3S1DXkrNfEBDbka+o90Ufo1SEuiAN/yKIRO2Siiru6zKwWv4E/e1ILQy0sy8Oyarv11dnzwjtxcnqxbW4da+LQf6BTWizbHwJ40uEFIpghWRcSs5anAn6FWVUI7jRG/HBzWVV8Dv8jYKkCJHLcncBCDbGqBC8f9s1kRhfY83xLG3oBl5rP5pZiWybvxuujuWcDfx/n4hTjBA251JDv2KeGaD1HJ2caj44RHdRMUzpOmN32shCCQM9Fn2+EfgPGBJCImalSxHqdNm9Gyu1yu1YWTyTDLzv8al2o3i6/8bqFMXQUWwYxpK4H2cMMS57jNK5rfepxFPbOQLS2jtoHsRnwADPEzahLFIL1JLjEd42+HbttdckojWHKiXw==;jmXgkZYeEOqn1IgghbtWFA=="
 ---

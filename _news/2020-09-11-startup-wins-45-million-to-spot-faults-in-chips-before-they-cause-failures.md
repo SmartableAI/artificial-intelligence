@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Raises $45 Million to Predict Faults in Chips Before They Fail"
-    excerpt: "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,"
-    publishedDateTime: 2020-09-10T15:43:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 54
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 641
-        isCached: true
   - title: "Startup Raises $45 Million to Predict Failures in Chips Before They Happen"
     excerpt: "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,"
     publishedDateTime: 2020-09-10T17:16:00Z
@@ -48,20 +34,6 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 52
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 641
-        isCached: true
-  - title: "Startup Adds $45 Million to Predict Faults in Chips Before They Become Failures"
-    excerpt: "Tecs sells tools to identify areas for improvement in new chips and anticipate potential failures in the field. The company said it serves \"some of the largest\" electronics vendors in the data center,"
-    publishedDateTime: 2020-09-10T15:32:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-adds-45-million-to-predict-faults-in-chips-before-they-become-failures"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 50
     images:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/09/28436328267_c1fd36f23d_o.5f5a433841886.png?auto=format&fit=max&w=1200"
         width: 1200

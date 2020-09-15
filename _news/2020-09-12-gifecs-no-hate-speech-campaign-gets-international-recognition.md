@@ -7,7 +7,7 @@ originalUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GIFEC-s-No-Hate
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GIFEC-s-No-Hate-Speech-campaign-gets-international-recognition-1057750"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Speechmatics and Nuix transform speech recognition technology"
-    excerpt: "A new and powerful union between Cambridge UK-based Speechmatics and global software innovator Nuix promises to accelerate historic speech recognition capability to businesses worldwide. Nuix creates software that transforms data into actionable intelligence."
-    publishedDateTime: 2020-09-10T16:54:00Z
-    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speechmatics-and-nuix-transform-speech-recognition-technology"
+  - title: "An Article in French Signals Greater International Ambitions for the Washington Post"
+    excerpt: "It's another step toward the paper's evolution from \"regional to national and now international,\" as an editor puts it."
+    publishedDateTime: 2020-09-11T18:40:00Z
+    webUrl: "https://www.washingtonian.com/2020/09/11/an-article-in-french-signals-greater-international-ambitions-for-the-washington-post/"
     type: article
     provider:
-      name: Business Weekly
-      domain: businessweekly.co.uk
-    quality: 39
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 17
     images:
-      - url: "https://www.businessweekly.co.uk/sites/default/files/styles/promo_blocks/public/awards-taster.jpg?itok=3neMw2RL"
-        width: 670
-        height: 250
+      - url: "https://www.washingtonian.com/wp-content/uploads/2017/03/washingtonpost-10.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "d7EWUUwQfgGsxRPFYaQpRMPX/mg63d3st5jtmpirAWqtWFLltmpPKiZOvu1wtlMhS5lBB/iKYbGlJSJzCtJ7KMMEB9pVpYqNjKYdUIVWHTFwXrbew4bmZBcIK/Hp8OPFzeEyvuOSyFMf+NKmOHbMkWidi/rotYZysqLhLcjCt/5lsMsNAnJtXn0X7lKptVxG1Ywh+0Qv0CerUGNSxpi8BcayquiWq6JZApvCnJvQPazXlIV3zVt6rwTz1uWjKPHjacxb0yeMCAg0HZRHAefo4zGZ/CJBRE/u/UTJJzOYH8tZJ6LvjIPcUyeWwBFmHO2HZRBS34znqc7YzlUHltI6eUIb13VDB5RVc+7UZl6BRp+KDTEJWGRLWZRgKz1fKKLy9aO9i+Gr5lcaRua8ZkQNEVr7GVwz757Fe2ln/VJKwVuVAgiHR6V7Voq64HX+sX7VCLgdk978LWIHAGPuL4P7Rsq9pNjAQMEWEnQCSagvEKhaUN4ZmLg+9l/dMR1LaXzAU0cQ0I4JQeM3DINIFnzhFGHmPfvILfVFY6Tb9FFpxSk=;15MXY/nCd36FKYVFqWciDA=="

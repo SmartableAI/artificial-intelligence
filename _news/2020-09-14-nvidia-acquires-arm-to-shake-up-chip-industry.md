@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-
 webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
+        isCached: true
+  - title: "Nvidia acquires UK chip specialist"
+    excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
+    publishedDateTime: 2020-09-15T09:34:00Z
+    webUrl: "https://www.just-auto.com/news/nvidia-acquires-uk-chip-specialist_id197733.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "vX03Jf187Co1gRKcopWi9sSTd/jQZqyUBeNMcXC9ehho56TnRybDsUdgB4hkaWAEtiEU2sWSfFQSdch3D4WQXsRq5OhHzXNVEOQmNVhUkK3vyzW2tu9TLZ4gRWGfVcaVaP0EHxyc95xfQdlaMKkfGGpRREka5+HYmsTU1lpmJKv2e2r1oTjwV//4wFBg3T7s9l/74nON1jR19yVfHhG4ggXs6eFUpLtfIK8R2V8xyA+mqpQ5DJHKR3W/UOVGgsgQmuaoxEUpL0ZWKJBYEu4A7dGkbc+lHLTaI1bocznrEw0wBEuCk9jx37P6UT27iberwkbRJLdYPhgmCWlPQkdm/+ZQlBhNNJbZ39tU5RUziHFjTACk0U7uipZU7q77lqBtHu5lx8JhScixirZvdXymdSZrZnwJ6mHL2jVo/j5rvSxwYbUydkMOrVuvnWIjbKiPgtU3opZJ62VDH9IMgz/XJL17+yuuxK9f/RWktClBfT0saUUFLHkzy/PrqF9TuGplROjg3qrQ2HThyPLnBVtyQQ==;7vEa4Fr5aX5OYc26Y48i4Q=="
