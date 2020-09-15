@@ -2,7 +2,7 @@
 name: "Algorithmia"
 overview: "AI-powered business insights. Complete research in record time. Find what others miss."
 type: "profile"
-heat: 72
+heat: 0
 
 website: https://www.algorithmia.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "iWtEdgJ90SAII8/flKvx9QqxNMzrp9u/gCQ2JAD9eF7CIfZBj+v2eLNKf+EY4oV/F4bSao7VaMNd1pQz7R1qYHjDd06qKQMJMlDmailZK3k4UDFtxhGZenZSzLsAph065VXvi9a50E0ixp/1/+X/zdNeyACcLd3Ffq788R1wVzx3YGgk3gsL/92Fqk3on8m3BGdYEGJNIimUvTZleu/byT/pwzXr8OQjJgKVa2nymcFWtysS+4Ofj8B3TGdwW4zMdbj4bLuuMiyqSwqjaJNNisoXJkhvwdPegrrxq3bDHntHMdWCdwsU1lOyda8oZay9UwEVn4vVRn+cGbDRY0NLQcRPzIhug6o0nGZBRWxy2M9XgoJvB5i90IhkKfXOcTm8IJRsle9vhKdWzt0BE2ScrxAOp1Msxx4NRdwZ8S2iPs0=;Aycc6WRnSVoWnuGlfXWhhw=="
+secured: "ysm6q2PJu0D8ZM0YXKQNak9gDjbBWi1nwIApM9tQ41vCSN/CLSJ7CxoVM4a0HyrXMc3RHxR8wO2jjEAnZ9oxOVBV7mRNNcYSsEqrlebVUQFQh2Th33GuhInNPB3RItv2QQxKLHWW6PS+Ik3JKlCCm/0Dpm02naNdzwBKleeZWRjngWplHvIPJGWUgKuS4i/djHgN1u2tHe237A29+zmQL5cgmLrPcrFn9pvyzbMiV0lUHyARg0Cs5aVv9wAYVqWPPQXs37on1Ksb5BCF+11sQ9V4b9xa3c1bc6zkP4aASBVZjjn6+9EBpkXMQscWu/CQMKoithu1vA6AX0LPlklLmjb4Qlc0IwyvvgrGps6GOQAw8BHhlKBh+/j34R/u76ELT/cLgdA8s6GdJnQgg+QxmxLHRIh49SBtOq/O/OVO8RQ=;tgg5U1NwG1azfn9IfEM98g=="
 ---
 

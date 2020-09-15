@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "textio"
   url: "https://twitter.com/textio"
-  followers: 7767
+  followers: 7768
 
 size: 51-200 employees
 yearFounded: 2014
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
 
-secured: "Eu4eKy5aHQd6bC+4AvpYiWAnTablhwlmIzuahwsIN6K7Sumz4s6PG+aW9jbfoaChzpoHPKbgN4E7GhN58fTMhsr9/ryTUB7qaoLircFIVKui8R3daBoVZVbIGFAkb5LJlzJeXQZl2J+Y2WvbzJ/ifIcozTz+uuYRn3TWmotgrQnjfvckKrTSFKMm5f3W9UyGTgO31WHjvh4x4Z3wlpc/psZ2Z9LBsujq0k3Meaa+ewi0SbsJUP4t0zuqY54+5YFjpf0ftbJbImSo8UnnhVsoSKsb1KKFKdO5XWdMlKB2JzfxfAvhqeqRrdPrdcHSf9Kam/2B3zr113NW145pVc0sGiWe3AVjYmQnXr62XNXEWQVUP45Qx8YfS/kM6kD6BmkTJ9o/aXkHAIpd1kZW7f+7JOil1OS3AEvVNj8gRjgH6Cw=;DFwfiYLvtJ49xrnl5CMKoA=="
+secured: "rqoCchDzs97Dcjtj3zUWlSGvC5D11bDCxjNQJa4pGxeyjvAKx2ytTRuVY8lsi9GN8yqrFpc/n/rZRaUkupwD5mo9k9GnEWtXccU5rPYGeyB31ZLAk80aAyKtRydTHHMKoMY3KsVViAj8GpYpAujaIRHduuSfNRdyjSNngLVKhxH8ufD/jG+J7+v2QDyePSO+E2es2ASfJNaB1khIoZd/y3N25bG+eiPToUcMO0ZkVumMCV+ImyO1h/drz2WnnVb31SAEVASWB6LlUi5Lso4/QQaQ0SWe9CPGhoIfpPjCw5XJbNxIpvBmWLimSlfBOapLsL9ciIR+zF50HENKDs/LjXOKMs21QoU5cdh0yyegA9tpOmB9rzxWHHzEYRT4CJ0Cuyvaa/1uPAd9MWh1pFzbnd/m5GE4dEessgWDwc9qENg=;UF68jruZi3IvFrKfToHqOw=="
 ---
 

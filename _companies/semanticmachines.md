@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "semmachines"
   url: "https://twitter.com/semmachines"
-  followers: 436
+  followers: 437
 
 size: 11-50 employees
 yearFounded: 2014
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DxrJWSi_IWo"
 
-secured: "UiFEPWOjTtoFhoMUWbuAw0Mu2LsTmJ2knvOPXiKP7ApslM6ruEM8aLtm0gZIB7cEglM5JYPjiJUPlAASo1qW3iLajXyHq7fk8FPQRtPIckbOlLt3zUGtNOXvsJAT48e09XgbsubTJN75wNZA5MOTshSp78nItJidYQwF9XY2LO72PKVHd93KWmuBE7LZNHlIjsMaHPnzbEhudy++s8Xu2WdZAGMGJJVtrD4infaCCabXv2w4p2QmC38r9fXk0XxfWB3PPv0vCVfze8YRS1kktCxv329IaW60MKmIGYESB5/u4juIGWQ7ZXlmZTyg9GscbWeRap4LT9s7o9lX0C4isHXmOas35sgoSR/3ZYsC93lfYoL4XvJOg21QH0yvqQzbccoHLI6FIC/d9QLl9ZP/Gw==;h1ljajV1j0hlZZoQIUlWdQ=="
+secured: "nYwQujnAF76a81uVJz7IH/K0FGH64TlRKnrGBo39oSygeC6QbygMo/o5Aa3MCt89vufEElNgD4ABhLdPZwDcPpURhbr8qknl1dE+FmfDjObHY8KKKDR8JlbMXr7l/Xm7sYf0MUNF7iOorA5nzFmgEeqO19Ew/UOrCZLzB2hJ3yYR3JayAjq9w90z0a95M9crGWT4qVrorZH/RZxNw8c+Z6VnjJdjMTEKYIMb/8Tc9FoZ9aY+onybvGIFj2udFoxxTwAdAfSFwP7Voh/LwCW8geUksKQ6X5TkO59n1aHwERdyG8zJq0C+UOPpO8hHuG/dDYD7u0Qo1F+8rxYEDyMhSJt8Ef4GmP61Xx74EcGdroty3RvR4f4AF03Q6rtB7Im5pSeSxd7aPcESOwccrecs8Q==;7fckhoyCv7Yu1WmAJb5USA=="
 ---
 
