@@ -708,15 +708,24 @@
       "title": "Stephen Hawking was wrong about AI killing humans (says robot)",
       "excerpt": "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "webUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "originalUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2015/10/16/5f7074dc-9a8d-4085-b278-7fbcbee1d3d5/dwf15-979587.jpg",
+          "width": 2200,
+          "height": 1595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
       "publishedDateTime": "2020-09-09T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {

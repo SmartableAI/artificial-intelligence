@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-12T20:13:00Z
 originalUrl: "https://www.finextra.com/researcharticle/153/machine-learning-best-practices-in-financial-services"
 webUrl: "https://www.finextra.com/researcharticle/153/machine-learning-best-practices-in-financial-services"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/finextra-images/research/153.jpg"

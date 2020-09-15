@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
+      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
+      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "publishedDateTime": "2020-09-14T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
       "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
       "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
@@ -192,7 +242,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
       "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -333,7 +383,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
       "featuredContent": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -977,8 +1027,8 @@
       "title": "Neousys Technology Launches NRU-120S, NVIDIA Jetson AGX Xavier Powered Edge AI Solution",
       "excerpt": "NRU-120S series is a new rugged edge AI-based video analytics solution capable of video recording, transcoding, real-time inference, etc.",
       "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
-      "originalUrl": "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "webUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "originalUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -1318,47 +1368,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-nvidia-shares-more-details-on-geforce-rtx-30-series-gpus-rtxio-pcie-40-hdmi-21-more.md",
-      "title": "NVIDIA shares more details on GeForce RTX 30 series GPUs; RTXIO, PCIe 4.0, HDMI 2.1 & more",
-      "excerpt": "NVIDIA recently shed some more light on some of the features regarding its GeForce RTX 30 series graphics cards",
-      "sourceUrl": null,
-      "webUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
-      "originalUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/NVIDIA-Ampere-GPU-general-header-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
-      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
-      "publishedDateTime": "2020-09-03T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Side Of Gaming",
-        "domain": "dsogaming.com",
         "images": null,
         "publishers": null,
         "authors": null

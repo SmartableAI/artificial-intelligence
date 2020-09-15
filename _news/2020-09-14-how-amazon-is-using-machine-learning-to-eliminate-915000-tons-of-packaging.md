@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 323
     height: 215
     isCached: true
+
+related:
+  - title: "Dystech using artificial intelligence to help speed screening for learning disorders"
+    excerpt: "The cost is not hundreds of dollars, it's thousands; it's just very expensive and very inaccessible.\" The app, which leverages artificial intelligence (AI) and machine learning and has been built on Amazon Web Services (AWS) infrastructure, takes users ..."
+    publishedDateTime: 2020-09-15T07:16:00Z
+    webUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2014/04/24/51566025-9abe-4021-bf5c-7a32ef9c9320/reading-a-book-speed-read-flickr.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "dT21VNiUYYIO0H8TxBBCt+v6UAIue3YXcNMtdXKySjL6tYwZsO55nYFezcliRs9e5irLWWlbE20teHRLxEtyw75bQHzmNYk4UZHtsk/Fydd7zdG4klyQTVpUBiXEyf3qFjE673TkLLfq5GG+WdayyGtvMbq/AKV5X81/pnWJJd9wZRnLpSpoQUtKXpqmhkW9OzRfoqtyN7JfT3yWpan5jdHhqFgtea/XoBWczHPZCLaca+AWCndPhLHRE89YnTDPSH+LMrXssuop2cegQRhkbtWydCr19Yct5fZwVL5u1PuAIkATQLgiceIcRZZ35ZVkjk8mE/9e5oUE92XR3OAYdTUY4nq7IzcVmdXe7ws375XJpIybrXMvfOtq2zty/xzZIu+PVISi5YPNSWezLqh/irpTjLEZEFi0f9aJM6phiQPKcmOVVJnVxtbzz2NmwbA94ah8Eil/TEtosJBXo5SFCSdxv7Ke/J/YTIxJgs25UFGX09UO5n6MvofzEsrijFUv7Jku0Uc5yDHJ92XIsn1Vo6AQ1eJOb39D1aWr7m4Y9aU=;c1KyM0qefboYuvmJ1E+W6Q=="
 ---

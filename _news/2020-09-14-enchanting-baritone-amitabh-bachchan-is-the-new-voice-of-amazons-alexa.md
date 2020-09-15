@@ -26,6 +26,24 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Baba baritone: Bollywood star Amitabh Bachchan is the new voice of Amazon’s Alexa"
+    excerpt: "India’s biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world’s second-most populated nation to its services. The 77-year-old Bollywood patriarch’s image is ubiquitous across the country on advertisements for everything from hair oil,"
+    publishedDateTime: 2020-09-15T05:17:00Z
+    webUrl: "https://www.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    ampWebUrl: "https://amp.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 39
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1077809:1600150583/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 674
+        isCached: true
+
 secured: "JstRXpJn1pazbTYd4vkXti+Dv+AYqvhg3ReBq7LDfnsN4dJnBTMDJkR6aBxXp/MPZ0VmzRL1ETzocndh4OYmx/RJv6ysLzuhqV5WwinTKmh99NBOghdGuLsa9bfoKHJo2ZSOHlOZh2+PcwZz58x34OY//j8NahZfy3a/HMx1W66nqpMQOvSsdO0EZA3mYXbBYUi4nQNAwLfnFpdxCSeGFEd9fkjyyy03TxCHgNf8EFpv+iwMo+ZXSOiZbX4TzzxVN97nEWTSNXgjqoURurCNsxCfSVCf+HTKZp+DyMpEpTr6lmOEz33jQWYMsunasxqdcxmhToS6dHtO4lTqdFRcPmptYOFGQNeNtga04ZurK+s=;D/cE1fIzxT65E9N5/sTHRQ=="
 ---
 

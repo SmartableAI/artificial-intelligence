@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM pushes for US to limit facial recognition system exports"
-excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
+excerpt: "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,"
 publishedDateTime: 2020-09-14T01:03:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+originalUrl: "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+webUrl: "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
 type: article
 quality: 69
 heat: -1
@@ -88,6 +88,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "gpuEx8QZvxB6zq3kPVdGtKu5KGZYQEO582cFe9t5AFMYLG1wavdCIcx+6DHOmJ+Gf50hJm1AlKtpq7noHOY7CXFn9Lic38y8QOUlUCjOPcPcmLMu/6y/WWCqsjgUBL6gnj2lW9ge9FQw3l8Lxn25pw6lVrtVIeEu1X+kGuGTWnlU4QkqBPv1yDb8sQjCSx4gJ8qI6PCj2jBZbLksxh00wFjs7JbMja7OYrCI8CL6k3tnawds369QPYjs+lqlH717LgXfHzECYBp7oCig//OA/zNZJ8ftnD8OpNH6hA1nH4Pfpuj/Cwdp21nshylESu+uTymadxhLpYErxI0zsFypcqXrLrXHjPcfJM56cheR2wxv7uKCOoUhFVwaf3XTkXGydDL1nJH10ACJV8dL+zQ9VudFqKI5nr/3MM9dxOTesJFnDGXq0jwk0pUBuBJgksOrlyfTYGM0NcbwL/hJyDIqzWClLKrFYd0kaYVJolZkUTUmYmQpqIzUMpOfjiskPpSACP2vH8wdeAWD2JK0DYjxVQ==;EgFtJ+aBx/Y7vy9gXesBmA=="
+secured: "bRiGZtzLLS1hDRHg2l2zWZKBLZbeUvfD1ct1wCR7XYApkgsZfmAt2UpQ2FtinG7pO+CRJnQBamilrX4tYOlmQRYxgqox8/XG65C9WIgmCzXN/xg/XKFUN4FoybO76ZWDFZumk33XQHdRTh82Ueew6T7PxhJcItihal591Gur72Jbugk7vg2uTaoQ7R4VvvBd3P9U8IOSBYbb5h78BJgQ4YZW1hv0iyA4g4pVROdUi4YdAzuJSyF4a0eixKleVwyuQpOLIGdFOfiqi7iqEPYMcVtVe/kqbMSA1HxDka7Vk+Z8Lb0vdVdO1TerHz/5Xj1bABdTZYmzyQ3YNCoB+KPkKem6b+go8xfPTvkOhGfwPPR0bq0Z/MapRQJM6JAh4FhYMZFxuypM2l7k0h4Pa6zTK4rplEm5EVKHXII1Rz6AUyFt+VXzF10nXQHMNShqXG63yd+GX5rRx6wuTkQkAGsERYpCnaT65u0JW1QViOC8uFW/NYaP0Ry1eOnca6pvJ9xGMMyG0cnbUHX7dLrAGEk3TndlXuveWXJGI+C/WqqkoNo=;9njz/RmxgUwLlXLjSIzuMg=="
 ---
 

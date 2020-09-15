@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Automakers may be hyping self-driving cars, report warns"
+    excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
+    publishedDateTime: 2020-09-11T14:51:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Humans — The biggest hurdle for self-driving cars"
     excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
     publishedDateTime: 2020-09-12T07:43:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://www.dw.com/image/54879435_403.jpg"
         width: 940
         height: 529
+        isCached: true
+  - title: "Even self-driving cars need driver education"
+    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
+    publishedDateTime: 2020-09-12T04:38:00Z
+    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
+    type: article
+    provider:
+      name: WHAT HAS
+      domain: theindependent.sg
+    quality: 24
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
+        width: 496
+        height: 372
         isCached: true
 
 secured: "RQ/nhkNhWsEHh1qbl18eM8HqRI5YRlmCguzk3uaI/EDI94vyqpGSUjB7RlLqUa8GP5fpom9TE2w12M2pGmT6Ahr8PKuzVvXMSbn/m9E5lz2KMWIA3mhjB7TWrX5KuGSun+0IPfRs7eb/mghXMN8VEVxpPokNgle1O5MflxRqtuN9NYKa9CZRE7TIiVh7YSLyxuepsOoGyb5jhtx0xIUvDoBxIWAbnljBpmX0jtz94xR9mMZrWsmENvPy6SCuyG1eQS/x1W1f10YSo6ue/q74xObIoj3COTYr5VY96dVMd9mP4EnyVVkOLKm8EmJT4LphiFPnseSJlRLMKkEBooq43jZo+W2ui+mF9PdLqJGwm347FpvqkpP6L6N1ybvFhVfmiuNkL/ZUbOuJv0dfB03g8nTaPjBBqbK2GZkHhRKE8fMZ1tuKgU4qWLs5hhfq+beQceO4J2ieKkP6+Yx3lPJXyw3xXsQdhhOoRrawKnezvkb7Mcrg+5LYzRR+HA0yRiLTTbxYkLXfIviOP782Y1CsBA==;rlPMOwKKg6G8Z9RdMEGpew=="

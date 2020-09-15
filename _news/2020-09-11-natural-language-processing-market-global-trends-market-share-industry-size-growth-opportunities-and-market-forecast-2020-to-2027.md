@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
+    excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
+    publishedDateTime: 2020-09-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
     publishedDateTime: 2020-09-11T10:08:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
-    excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
-    publishedDateTime: 2020-09-14T12:13:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Speech-Recognition.jpg"
-        width: 1680
-        height: 840
         isCached: true
 
 secured: "G5ofYxQlf+4cGPlFE+RVijxSilLht9XTBi60NtX6SWFxivFZmjD38pf7QLEDI0akzvWjoEU6/a4uJl4KAJNcj+bYWFpPDeIZfc57SZ+yhTufEXCFUemjrYrCNWH4maYWGIx1Vu2r54j19kGBFobNmtrAswbVZ+LzgJfWU+fKqTUo6raQpBzSlpHCFAnS0iUve8vwoaZErxiK92M+UbAQSdP7iDkSKmFwdPTzkE7PAh4QCx9XYGI6cFzPo+5sr6cBMjzJyPHwmCFTKbR9wHn+0dsa1KgWbbodYKeWWURnvdn8h0GlbbvFGuxb3/kXtu4kTN8nLBCacDdp7Sy/Rp+M9BmtPJQkzko92dAgsIoqRs4=;AUoHZsSpVawsWCWJz3wBWw=="

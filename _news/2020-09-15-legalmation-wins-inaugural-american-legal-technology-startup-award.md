@@ -8,6 +8,7 @@ webUrl: "https://www.prnewswire.com/news-releases/legalmation-wins-inaugural-ame
 type: article
 quality: 22
 heat: 22
+published: false
 
 provider:
   name: PR Newswire

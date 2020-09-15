@@ -3,8 +3,8 @@ category: news
 title: "Pentagon raises AI ambitions"
 excerpt: "Defense Secretary Mark Esper said he wants to expand DOD's in-house AI community by increasing the Pentagon's Joint AI Center's nine-week training program available to all components over the next year."
 publishedDateTime: 2020-09-11T17:42:00Z
-originalUrl: "https://fcw.com/articles/2020/09/11/dod-ai-ambitions-expand.aspx"
-webUrl: "https://fcw.com/articles/2020/09/11/dod-ai-ambitions-expand.aspx"
+originalUrl: "https://fcw.com/articles/2020/09/11/dod-ai-ambitions-expand.aspx?admgarea=TC_Agencies"
+webUrl: "https://fcw.com/articles/2020/09/11/dod-ai-ambitions-expand.aspx?admgarea=TC_Agencies"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 368
     isCached: true
 
-secured: "iVw+GMmMVtvJjW/oowZ9h7QDeKCoz1IDN8oJ7T7xipEXhbJ4VzZLpGAyVF78r/WNMoWBp0T7bFcfJW16aWYMcGj735mOlOl5/itOV2hf0OUZHZomZSDqsym7Yq2MWfk86LrNKHwVmdd1qD2pYAnvfNG5vqGSlMERfCZkxZMtYAq+g+yr8i3Ewb+85Pk30oI1zlF5mvOpIr+Umi+SOvViAO3CozRJlatXSVYdrQwUnY7/tqAeERdSB0AsqLGQxIZum9SnP7m1XJr8DqS1IkT/KWkvfKV8svFPqq0nwf9GcjYpoByx60iwkN3rEv8Nt+3j9uTfaNT07WrpzzFvGd/+gjNfU1qtTzU5ELYUKdABIw8HVKoxyGcY80ZZsT7GVjbGAAktZC8/NDbEJFoq1xXRjipHHrmsSxbslYk7s8ZozwL2dDuRHHV1Eex/eOTgQUV+pbgFmHRuUcARp3tIhPI9k9gC7tPayUh9+6RigghMEGmRxqASOMcts0BXpD0QWVlhC0UKlYG3Jx1ONMq7oPGxpw==;CHTiZ3ZPo68p6zp22gx+nA=="
+secured: "yOG/uC8VQX/QCg1qRK2VAEN8HrGKtP890sikIJZ4KZW8uWaWK6mAti5plhJghWczXbEs+lnrYh305ZNhKCdKXi+GncOnGTn1Uog4F+MCK41GmfrCulXMhPo8yZh7c1iE/H26XinCkmRHjDIiAKzgjNwWWf92kAnnA9d27XeJN3DTa2iSaixhz8MW1ukc/N/54gsLx7SseTLukfGH+4NG+R+toFHlr/2PcioEardZaGqQldWMNwsTeA0aiO8xeBTZCgVK1id3vIyFi/oafYhheahyuq03xIH1N4BibxSdyRaiVLgMGmEeD/pkWwfSMdqBrMgB860I70h+ZnLYPhKyFixhKqEIe8+ef9lCe5Gnq5U=;YI3Q4xZt+DKS8oPcEI3M/g=="
 ---
 

@@ -7,7 +7,8 @@ originalUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvid
 webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
 type: article
 quality: 68
-heat: 68
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -27,6 +28,40 @@ images:
     height: 380
     isCached: true
 
-secured: "EZh4lMLE4pDXJhrYRFSP1alyNIpLO6ymUv1xkeLWP3XmemWLznB3gf7lk4a0HLuBE8Z6dxY++ENCt4kAmzdchcej0t7EjSmiqwSizzyJbH5z/0XhkdY0mKxc++zJtkcRylORWtypDhvBD+kFfPjzt/GLTdo26BLSd7CXKJpTi2nicEJyr9so2VVbGnDZ5T2YYTLBIbYZujQLB0942znNaGAR4DVomAdXk07nVK4QmYbYETOGlA3DfVlvpsm5qayHHxUsVj9CExPCec321mifFNzuxSTgij5F9wQfQC1LRjjuagClPTkfGKVXykI/h+UzVa9gLA9YMijhM69u8zE2oN8nNQ5rgjUHpqVdhUctQ2s=;FJ0cRksg6lyUsHCNXvD7ug=="
+related:
+  - title: "NVIDIA to officially buy Arm, focus on AI, promises neutrality"
+    excerpt: "Putting all speculation to rest, NVIDIA has finally announced that it is making an official bid to acquire Arm Limited from SoftBank. While the final say will be with regulators, this would mean"
+    publishedDateTime: 2020-09-14T00:27:00Z
+    webUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/09/nvidia-arm.jpg"
+        width: 1280
+        height: 800
+        isCached: true
+  - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
+    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2020-09-14T14:28:00Z
+    webUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/"
+    ampWebUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 58
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
+        width: 800
+        height: 360
+        isCached: true
+
+secured: "TMQccqLZy5kzEHpAdpuZC2nYSvLrA49Cun4YMYaM9WQKDqJnN7W9hhvwZeZGIq3Xd71BiCWgkOT76/wtrb7aqTV1g5eaV+OGjtiv2PgbihYbNiUFn5TznMrDL+H2AgNgNzHSxFKOiP2ValibC6mw+kKExv2grsmi3jYMp7z26xbiHesd6N+co4AqnyBRzYxo5yhI6BsKceknfnVjZ7snDewHJWtIKJXX9Awi2o4DQj0l8wSAF/umNE/Ew5B9yBHHCUX3bfkGZ8g0LcfEY4KY7z4THRLp6wZUftPjPBAJsNtl/eEVw8PHnWSP2TAeqAdt1NlYmzpK4KsdXxYD9W93doL+5/r3NrmKtwIrE2LTZJJbDhWz4EWNRs8gQsnJ+qBBbNPoO+SQXQwWJSE6xcr83F5N3WSzwqNuG/6mM35cBz7WGzrTZk8VVzBDGDKcJtZheq97PbcMlE70JVVuY8RdQ3QTLUKWuEx6DrdCDCFraJVf0eOZ0MgWr4mfEWdMFcWaexvZ3uLCtp8I3GMN8OYhy5rGw/utHW4d4lHVs00rwyQ=;aPOzmiAcBbQRKB9NjdyTZQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19418459.html"
 webUrl: "https://www.lelezard.com/en/news-19418459.html"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

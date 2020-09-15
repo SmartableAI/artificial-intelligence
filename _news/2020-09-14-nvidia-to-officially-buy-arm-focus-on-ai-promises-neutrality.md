@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-p
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia will keep ARM licensing “neutral,” wants to license GPU tech, too"
+    excerpt: "Nvidia has officially announced that it is buying ARM from SoftBank for $40 billion. The deal is one of the biggest tech acquisitions of all time and will see Nvidia control the world's most popular CPU architecture."
+    publishedDateTime: 2020-09-14T18:38:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
     excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
     publishedDateTime: 2020-09-14T14:28:00Z

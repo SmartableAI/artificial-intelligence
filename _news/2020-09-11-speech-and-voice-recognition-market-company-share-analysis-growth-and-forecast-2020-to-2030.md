@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
-    excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
-    publishedDateTime: 2020-09-14T12:13:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
+  - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
+    excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
+    publishedDateTime: 2020-09-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Speech-Recognition.jpg"
-        width: 1680
-        height: 840
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Natural Language Processing Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "Natural Language Processing Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2027"

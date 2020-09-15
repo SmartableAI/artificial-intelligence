@@ -2,6 +2,88 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
+      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
+      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "publishedDateTime": "2020-07-28T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-aws-announces-general-availability-of-amazon-fraud-detector.md",
+      "title": "AWS Announces General Availability of Amazon Fraud Detector",
+      "excerpt": "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
       "title": "This AI will turn your ugly face into a cute cartoon",
       "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
@@ -1072,96 +1154,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-hillrom-inks-partnership-with-aiva-to-facilitate-voice-enabled-clinical-workflows.md",
-      "title": "Hillrom Inks Partnership With Aiva To Facilitate Voice-Enabled Clinical Workflows",
-      "excerpt": "PRNewswire/ -- Hillrom (NYSE: HRC) today announced a new commercial partnership with Aiva, enabling hands-free communication for both patients and staff utilizing an in-room voice assistant and Hillrom’s Voalte® Mobile solution.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/67996d718036762ebca7c59be0744f21",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime.md",
-      "title": "ComplyAdvantage nabs $50M for an AI platform and database to detect and stop financial crime",
-      "excerpt": "The growth of digital banking has opened up a wealth of opportunities for making the world of finance more accessible and transparent to a greater number of people. But the darker underbelly is that it has also created more avenues for illicit activity to flourish,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-909208346.jpg?w=1024",
-          "width": 1024,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
-      "publishedDateTime": "2020-07-28T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

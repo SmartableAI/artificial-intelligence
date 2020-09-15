@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-compani
 webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1680
     height: 840
     isCached: true
+
+related:
+  - title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$10.6 Billion in 2026"
+    excerpt: "The value of data is increasing, and that value is stimulating the Internet of Things (IoT) Advanced Analytics Market, with the emergence of accessible out-of-the-box and off-the-shelf machine learning (ML) and artificial intelligence (AI) solutions."
+    publishedDateTime: 2020-09-14T21:38:00Z
+    webUrl: "https://www.abiresearch.com/press/iot-machine-learning-and-artificial-intelligence-services-reach-us106-billion-2026/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 27
+    images:
+      - url: "https://cdn.abiresearch.com/media/social_images/AN-2420-SS-Media-Card.jpg"
+        width: 1650
+        height: 825
+        isCached: true
 
 secured: "3IAtd8YjXgqlbo4KROeUbhDFYxXKvib3+k/GHYvmkcH11oT6LRobdiQDDOALaLpuJb8egev94vEo/Tn5/pa4DTLnnlnFrBorKIusWg6ltjDJ8yy6Bn8/334VEdnyvQqVO5hgLSTtDzamlbjzD9F9VmueuLCJfuWBijembDjLhg8hmqmonJuIWHFmUCgxA6wIiXiCMRAFD95RjOHWFYPOqFQJfUE2xItiTiSEoYItKLFo/tKkOi0tj724LfW41vWXqmz9t8059EpXHOvv+6b8rl9BSlMU0b413VZQirq44tb/KUU5Bg57Cp1orLGSj9JA3jaDLlag8LeYwYOjo+J6nlvg4BSWaFpAH+Ud2DsYPiRtNnDDZkoeT22av2L+bgVR8EunnbwxRdQ03wN/SyQWnWe+GrPwikzVdmJalUGHcscebol8r/q0tR21ljjf1GzfLPiFbmUuItCs3CASHQSciys143CUeBXT3yoKnhBAsqxk79HAS7HYeNZtBYrHFZJT0YW6a8BC4thEuepSGsq2iQ==;Det4A5kQmlUrrrsm4Tkv3Q=="
 ---

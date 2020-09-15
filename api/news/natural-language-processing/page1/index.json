@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-15-cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027.md",
+      "title": "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027",
+      "excerpt": "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
       "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
       "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
@@ -769,8 +819,8 @@
       "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
       "excerpt": "Windows 10 has a new preview version which improves the operating system’s integrated voice recognition, and introduces a thoroughly overhauled emoji picker and refreshed touch keyboard. Build 20206,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "originalUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "webUrl": "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "originalUrl": "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -785,8 +835,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "publishedDateTime": "2020-09-03T02:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1391,56 +1441,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach.md",
-      "title": "Deepfake reality check: AI avatars set to transform business and education outreach",
-      "excerpt": "AI avatars and synthetic video production could provide organizations with entirely new capabilities for training and multilingual global communication in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "originalUrl": "https://www.techrepublic.com/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/08/28/fda2e537-1cb3-4540-a59c-f222694c0371/resize/1200x/0cda1f628ff0e21a26e6d3cb6b7405bc/synthesia-3.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepfake-reality-check-ai-avatars-set-to-transform-business-and-education-outreach/",
-      "publishedDateTime": "2020-08-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -59,7 +59,7 @@
       "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
       "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -110,7 +110,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11",
       "originalUrl": "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11",
       "featuredContent": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -250,6 +250,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus.md",
+      "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
+      "excerpt": "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png",
+          "width": 2614,
+          "height": 1379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "publishedDateTime": "2020-09-11T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -651,47 +702,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook.md",
-      "title": "Europe AI in Social Media Market, Forecast to 2025 with Profiles of 10 Leading Players Including Microsoft, Google, AWS, Adobe and Facebook",
-      "excerpt": "The European AI In Social Media Market is expected to grow at a formidable rate during the forecast period. The European AI In Social Media Market is driven by the utilization of the AI technology for effective advertising campaigns on different social media platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405",
-      "publishedDateTime": "2020-09-07T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {

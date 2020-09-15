@@ -2,6 +2,97 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-03-openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap.md",
+      "title": "OpenAI reveals the pricing plans for its API — and it ain’t cheap",
+      "excerpt": "The company says developers can apply it “to any language task — semantic search, summarization, sentiment analysis, content generation, translation, and more — with only a few examples or ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T133902.980-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
+      "publishedDateTime": "2020-09-03T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy.md",
+      "title": "Apple may add infrared thermal imaging to the iPhone to help AR accuracy",
+      "excerpt": "Future iPhones could use thermal or infrared imaging to supplement regular vision cameras, making it easier to use Apple AR in dark or busy environments.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
+      "originalUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/37477-70376-000-lead-Apple-AR-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
+      "publishedDateTime": "2020-09-03T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-nitda-set-to-establish-centre-for-artificial-intelligence-robotics.md",
       "title": "NITDA set to establish centre for Artificial Intelligence, robotics",
       "excerpt": "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics.",
@@ -732,8 +823,8 @@
       "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
       "excerpt": "Windows 10 has a new preview version which improves the operating system’s integrated voice recognition, and introduces a thoroughly overhauled emoji picker and refreshed touch keyboard. Build 20206,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "originalUrl": "https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "webUrl": "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "originalUrl": "https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -748,8 +839,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "publishedDateTime": "2020-09-03T02:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1056,104 +1147,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
-      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
-      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
-          "width": 607,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
-      "publishedDateTime": "2020-09-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
-      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
-      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
-      "publishedDateTime": "2020-09-02T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

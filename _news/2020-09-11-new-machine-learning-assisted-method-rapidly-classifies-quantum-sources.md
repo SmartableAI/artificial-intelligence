@@ -1,45 +1,31 @@
 ---
 category: news
 title: "New machine learning-assisted method rapidly classifies quantum sources"
-excerpt: "Purdue University engineers created a new machine learning-assisted method that could make quantum photonic circuit development more efficient by rapidly preselecting these solid-state quantum emitters."
-publishedDateTime: 2020-09-10T19:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php"
+excerpt: "For quantum optical technologies to become more practical, there is a need for large-scale integration of quantum photonic circuits on chips."
+publishedDateTime: 2020-09-10T20:28:00Z
+originalUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.html"
+webUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.html"
+ampWebUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/242677_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-newmachinele.jpg"
     width: 1440
     height: 1094
     isCached: true
 
-related:
-  - title: "New machine learning-assisted method rapidly classifies quantum sources"
-    excerpt: "A schematic of the machine learning-assisted method is available via Google Drive. Journalists visiting campus should follow visitor health guidelines. WEST LAFAYETTE, Ind. — For quantum optical technologies to become more practical,"
-    publishedDateTime: 2020-09-10T14:08:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q3/new-machine-learning-assisted-method-rapidly-classifies-quantum-sources.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 39
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/boltasseva-machineLO.jpg"
-        width: 800
-        height: 608
-        isCached: true
-
-secured: "dGi+eKFlbZjc1A0Od3ZJ/8QI0cnpO8JnpZ4s0hoBW7pDebWuam/D0hIeqiNo5toE2F0u+6GNeZXUJ2wJ/baYKlHBKWGXkzEJg+6r8t7ZjBWDsYfUB0H3AwPZvzyfDwee0gW/+eQBM6ElmdayTCKef/pOujnZ0y/mtLsj2H1k6oPk4l3GsLHvmnPIXQAgIdHIM3TBWcoHkxMk+ZRsNkl7jME5KNSX7pfGsJ6hOvwpHc6i0GP4M5cBHmac5icA95zZw+927FI0SMuRfU3Ex8J7xtZ2bxwy3jsvxPIg8WTIyfUnVcIhEhCd6wN+lbFTPOxwDuHZmJiQNMYkuWpKpooElGTTbQFo3k60w5uKUqVsiGQ=;MNPcOPurQjafdYdR1Pzmjg=="
+secured: "j+4WZa515NigUiuGWr/rYm9tmx3g121lDuGMcr+q8dwZRv4q5Ngnz9NS8rNEoSmye//e1qdgPoH7TNJ64/AEBNXZy5meCnR+l4uY9mEICwQVyygj8kGz+d/0OMfCtA1v597A3H28rnl4GZHxcxhYecDctbaol6euNl2NpfIzLQhWEbtdXujHoFkm/xaMzwh/FZUtQiDZPYEaz9IDOnf8EfOFL+y//N5Eqel+mQcZGuitabJLNQn0ZeA+URAIYnQNYStueDujJ8pEwYCBBISl/ndzCdsxE2l2N28+2Cy8OIlkoxzmvloPx4sQ/wFwE5rJ9NDvcZN12X0gPZE8VRvdQ6F31dbX/4uWBcdErzfDj5o=;si+gL3Da3bJ3jVUf0+H3Sw=="
 ---
 

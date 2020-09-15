@@ -8,6 +8,7 @@ webUrl: "https://ipsnews.net/business/2020/09/15/gpu-database-market-may-set-new
 type: article
 quality: 34
 heat: 34
+published: false
 
 provider:
   name: Inter Press Service

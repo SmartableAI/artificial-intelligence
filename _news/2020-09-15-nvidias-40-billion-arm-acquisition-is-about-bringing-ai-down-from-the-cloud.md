@@ -47,6 +47,20 @@ related:
         width: 881
         height: 537
         isCached: true
+  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
+    publishedDateTime: 2020-09-14T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
     excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
     publishedDateTime: 2020-09-14T11:30:00Z

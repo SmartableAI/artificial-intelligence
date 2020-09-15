@@ -8,6 +8,7 @@ webUrl: "https://www.altfi.com/article/7033_fintech-can-help-women-entrepreneurs
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: altfi.com
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fTvZ21RKkvDSTd6A+aE+3GinuZ2/V1CZjxPAPaaVIuMe7YGk1atmbqOjXj+vu0kb++TgNWNmedBURXVec46JjNsnXhr+vR6Kw7cXpOPWzObEydELJ0t218y33w5iulkHhXhFGh7b5VQuvGuG+b970dlKu39Up8iw4XCztxPEev7jbbhXNWtrsI0kWG5Ho0sAEhr9A/FIA1Z92jYbO49hOsaEqY74mGc9GTMSnLTITuglrrf7Eefewv09RSferU0jFFzzWO+4/rIpQfn1D2UemEIdxw0ieXXElSNxP1SOx2JDkse5ijFOK/Ul1GVC+fWg34Fl8xtDTX3YzNKy8rHAgbb3FUr9V+fhI/6s4UBwXTQ=;ucRtbWCTC3YMGUPCNbe+Ew=="
+secured: "lWbMgDYOm5lae/KlFydSbwKl/eo9dKrvnWfMX7+xoZ3hw/l2Jq+XB30JXGCKHs5R1L2wjPhqMzNarPR1agWcPowUcbk37g2pvqT5xBsk8DUTjpDw+QbY7Uq7iio/dHNY0yY63vEAeQ7KjTkAj6cEIRdODyX6+w4UQZ2Gk9opeqZKQSMhjrRi40x950wD5huLFfTesJwko4uCwbQ5+VeDRnfEXhbu8PESk0Ot48qge65Mi8zO3SNyNHHteoGEtgs5rhGUlHbwG4Ix13CyWbkSo9NAvY9EzAlR96vTkbrlgkRZp+l2iqGvrgRU2yGwHNcFvwjW+IlDzzzL8Rp/XA/u8UrBVZDajvo97ieVCQfP4+AnB98A9Gh9lyH616L/5sInBjuksYK0ZeXWIhqk7g4ML+MWaxRR0XzWCcLYuUdYsr1tReetMZFbCrFvKOppJEH3SAdXzPHZx8q4D4O2yV0EDacU4NtyeC4QZlE9BO+gmh1SGplj997tsyna7EgAV9KXmMDJWM11rormLpCdhZIR/r8Gha/C1jvojjZBhEFrqUM=;Lo+vNBeX5R0ibXM8DE75OQ=="
 ---
 

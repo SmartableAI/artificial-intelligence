@@ -8,6 +8,7 @@ webUrl: "https://www.newsletter.co.uk/business/fintech-envoy-meets-nio-minister-
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: The News Letter
@@ -23,6 +24,6 @@ images:
     height: 2667
     isCached: true
 
-secured: "/eDFZd3mCKhDvf41+/TdBb89Ibh7zTTdFhC0KgLMW040gjft+Upfz3j1TBjtuZnFHGyVPnZwHAzsxYmNTKuHiCUgWfh2JdP77Wmsf4MYXii6L6p4qcl3cJNajchCBmhtiSG64lOluI/HlWvTyCMCpAK+DnD9jX55Xr2ERFjl8fDJ2xnCLDJANKMsWhAKikXYazmyhOQdIQTJfxRxcpoLrtueMIKclr8fvAxG2TbLxto4n6XspAKZwHtco2UIYlfHGkdDQrW9cfeMEhee9ijTzZfEbovq0+BqCtOubW0GzJV7CTsCKKDjs8RPSdi88ylrg6kdtI6C+UGYm3+t2P/tO42Y8MwISYbiULYhI6Z5O4w=;8B2+YPtHxirticdCgBUUoA=="
+secured: "BhhJM2EyknnCtYE/86e9iphI9IOxnXqCq+At7ZMc/mS1iV/Of8zP4LLfZMqx1e7Jbr2pNbh5/8uBceEnBJ6Oo+1Ye/Rm3CZh1ke3vtlDHMSa/ftT9lXcKt1eFmyqGeN4BaX9FtDa88t0TPmh8PRNPzJHHj1aoO+uJUrwE0uYAshFXsQMA1WnxxNP4EhzjjzVM4egTXq2Q5ORyL9Rp4x6Idk1oTtjw7T2gVsoNbD3W9Cacf/XpG5VjfF+9E5Z1Lu+4gKVz1T2EzfISfN4e3zbC1VWse304V/s/0rMwTspq/k6zzyS6ziBtfXleliQPtPcBhxGFJMLfC/DMMi+vi87+pzKMMIdYHhwTjXNZcH5vL1+beel+0SSGBzs0yaZTaFTbB2mIr4+a9+UMczGYhAxEwX4F9mcy1Rnh66Zmtr/BH2qZK+9b6/a/SdAqHugJKUf8ilgxokaAxPU7CF2bxKP3dnTuXu+nKheAfzITdJRf1ozPt1ct3LdnjiXnkKxUuLcg9/ZCZd7z+6pvn8i20QdTgbJVK9WnCmv391pLIsrwd8=;bfVeZcP+mwuJKmpieQrMbA=="
 ---
 

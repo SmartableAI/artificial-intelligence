@@ -99,38 +99,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Portland, Oregon Imposes Strict Ban on Facial-Recognition Technology"
-    excerpt: "Private businesses and government agencies can't use facial-recognition technology starting on January 1 next year."
-    publishedDateTime: 2020-09-10T13:58:00Z
-    webUrl: "https://www.entrepreneur.com/article/356019"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356019"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356019"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1599746294-facial-recognition.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
-    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
-    publishedDateTime: 2020-09-10T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-230642/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
     excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
     publishedDateTime: 2020-09-10T19:32:00Z
@@ -146,36 +114,6 @@ related:
       - url: "https://images.wsj.net/im-230642/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Portland enacts most stringent facial recognition technology ban in US, barring public, some private use"
-    excerpt: "Portland City Council members voted unanimously on Wednesday to prohibit the public – and, in some cases, private – use of facial recognition technology."
-    publishedDateTime: 2020-09-10T13:39:00Z
-    webUrl: "https://www.foxnews.com/us/portland-facial-recognition-technology-ban"
-    ampWebUrl: "https://www.foxnews.com/us/portland-facial-recognition-technology-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/portland-facial-recognition-technology-ban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 72
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Wheeler-Hardesty-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Portland adopts strictest facial recognition ban in nation to date"
-    excerpt: "The Portland City Council voted on two ordinances related to facial recognition: one prohibiting use by public entities, including the police, and the other limiting its use by private entities. Both measures passed unanimously,"
-    publishedDateTime: 2020-09-10T14:32:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/09/portland-adopts-strictest-facial-recognition-ban-in-nation-to-date/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1140004895-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
     excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"

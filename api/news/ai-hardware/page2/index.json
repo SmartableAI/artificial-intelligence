@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-04-nvidia-shares-more-details-on-geforce-rtx-30-series-gpus-rtxio-pcie-40-hdmi-21-more.md",
+      "title": "NVIDIA shares more details on GeForce RTX 30 series GPUs; RTXIO, PCIe 4.0, HDMI 2.1 & more",
+      "excerpt": "NVIDIA recently shed some more light on some of the features regarding its GeForce RTX 30 series graphics cards",
+      "sourceUrl": null,
+      "webUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
+      "originalUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/NVIDIA-Ampere-GPU-general-header-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
+      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/amp/",
+      "publishedDateTime": "2020-09-03T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Side Of Gaming",
+        "domain": "dsogaming.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
       "title": "Space the place for Irish AI chip as PhiSat-1 satellite blasts off",
       "excerpt": "An artificial intelligence (AI) processing chip developed in Ireland has been included on board a satellite that blasted off into space from French Guiana early this morning. The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how on-board deep-learning technology can speed up the rate at which observation data is processed and transmitted to Earth.",
@@ -1296,47 +1337,6 @@
       "provider": {
         "name": "The Times of Israel",
         "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig.md",
-      "title": "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig",
-      "excerpt": "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety.",
-      "sourceUrl": null,
-      "webUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "originalUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg",
-          "width": 716,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "publishedDateTime": "2020-08-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
         "images": null,
         "publishers": null,
         "authors": null

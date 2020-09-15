@@ -8,6 +8,7 @@ webUrl: "https://ladailypost.com/neeper-has-social-complexity-acquired-artificia
 type: article
 quality: 17
 heat: 17
+published: false
 
 provider:
   name: Los Alamos Daily Post

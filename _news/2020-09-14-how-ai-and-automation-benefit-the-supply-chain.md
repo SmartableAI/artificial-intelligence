@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/home/blog/21175196/ai-and-automation
 webUrl: "https://www.manufacturing.net/home/blog/21175196/ai-and-automation-benefits-to-the-supply-chain"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety"
-    excerpt: "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?"
-    publishedDateTime: 2020-09-10T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2016/03/30/24d87bb9-0993-4b2c-85ff-8ed815d4347e/hybrid-cloud-scales.jpg"
-        width: 770
-        height: 577
-        isCached: true
 
 secured: "8dFep1QLK2p55B/S6OYD2sT4+KmvEMo6wGxIaovldWD8pGihefm0b2GQNusbTEGBWTYtESZOfImxD7cLx7+4qGfLV3fgyl2scLMemhPdjOd89dpEuLLczV3bL+hHKzh1FwXI8NskLBDLGf1gzEJOTBt9wolR8Lb25Q2ylH5EqAoRKY2TXCRlG64Tusn7BN3ZMP9/BdTUqbAgSc5ZlG44v2GK+WOvdKDBxrM4702wPq1nF8/swTyd2fT2RfkfxnJjcG/9/c3EANV3EYiR8tW43W1st9B7iJkikdliZiaC/b7ol+4iOQ4QqxB7/Ks1yK97tzo/b/SWBKghq0pzC/IRPV8CGjHt/o7fB2l2AWQ7y2w=;orj/lh/maooud/5Pl//Rhg=="
 ---

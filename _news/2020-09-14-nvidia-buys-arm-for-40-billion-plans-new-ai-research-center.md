@@ -57,6 +57,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
+    publishedDateTime: 2020-09-14T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Zpn2nwc8cEJSf4PPhFdlMhznDGEmBDITfGtG2D1vYpwZLyJPoqI6xqriTPZPPttcRbseKzSOJqvtR+lPKblpK+paBSmUMXPWPw/bCMpGkcSryc3Q1f+7hYR4m1fJCz1NPU/h9PxSKjB6plcN4PZBhUEKw2Bh8cZLUfMe6R9lv1LiBeurvn7KxVP+nhhmykGeBq9M/NK9lcR3Y+WtO4pKvrddYYKQ8CUfhYUOz+G90G5bv/hdZedpROl9mpfiAX2bS53X1OFIx2yx0V8BfTHp/rmk1F3+am9THNRMveiKwWElejG6k/3fU4T7ZCVvKrZh5zrBbg44BkEyRVzAe+duMi4y34PoU3Jrj1PtEOnSioULk5Xe1CYN5s3hSAm6RWjZUf7sl7M00Nx98LVko5yCAlQV+vvQ1SpMPpNRWygd+fSp/LctxUp/uxGaMnASCW/74euLtMWFdxEsW6dc4mSPIo/7mEXF9BGxH6nEMAvcgagNVfZxKdpZ8Pz0AteiMdh0Z5kpuq6U2kJNGE8dAfnT+w==;O4uE8nGJ36oYbVFoZ10LPQ=="
 ---

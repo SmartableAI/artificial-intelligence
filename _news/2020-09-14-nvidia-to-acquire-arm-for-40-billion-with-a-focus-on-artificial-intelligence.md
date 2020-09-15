@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Nvidia will keep ARM licensing “neutral,” wants to license GPU tech, too"
+    excerpt: "Nvidia has officially announced that it is buying ARM from SoftBank for $40 billion. The deal is one of the biggest tech acquisitions of all time and will see Nvidia control the world's most popular CPU architecture."
+    publishedDateTime: 2020-09-14T18:38:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "yRwv5U66hvd3jj3nkQpBKPlUBNXjlE9vVDzYNUTz5mAXltXyNdt0QCQHo9D03eUXIB4Rp08pwkXxmJe+Sr5pUOgN31m7TYLJaBJ+vt6LzgqqGU4oidHt3y7u4YdnQbN5ArKYN2rmNyKCEzvXZxAV0ukz3or7KlOzRYhgJNeuQHJK97ifvz9F1K2IV1v5atbm1jp5960BhdJSSaCrrOTnWM162fgf+Z8Ww7wE38Hf8v+q7JuGWtL9pt+V14egAOXAb6nwHjmxLMwDtCzrWEj6khPPGz/T4Pz0LNURvWE3gtb3uC2+j8wE/wstaefq8H0azllCm4hhJq1g/YOBJ3wWAWJAI40A51zqfCWZEyPOc9Rc/j3mkqJkEBRfKURWW6yO/4rP7JYFPlVbDwk+xzApW16WZ1l6NvphK2qlTVYMJ/DlujYmPkn1/ws37RzF3HpP0YWy3ZCqPHZWUEzncO0EK07OMapGU9YXSD2U/WBIXUv7szqawkjZyUw+MQMOQhqL6pK++IJOy6P2mIuUuQgKJQ==;YmpvWtOeGz++YWUqAAdNKA=="
 ---

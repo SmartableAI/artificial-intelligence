@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found.md",
       "title": "Nvidia Trounces Google And Huawei In AI Benchmarks, Startups Nowhere To Be Found",
       "excerpt": "For the latest training version 0.7, new workloads were added for Natural Language Processing (NLP) using Bidirectional Encoder Representations from Transformers (BERT), recommendation systems using Deep Learning Recommendation Machines (DRLM), and ...",
@@ -1327,38 +1368,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-sfl-scientific-named-partner-of-the-year-for-ai-services-delivery-by-nvidia.md",
-      "title": "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA",
-      "excerpt": "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200720005375/en/SFL-Scientific-Named-Partner-Year-AI-Services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

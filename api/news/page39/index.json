@@ -2,6 +2,97 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-08-14-horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs.md",
+      "title": "Horrific AI surveillance experiment uses convicted felons as human guinea pigs",
+      "excerpt": "When a convicted felon in the US completes their court-mandated sentence(s) they’re considered a free citizen with limited rights. Felons can only vote in two states, they cannot legally own a firearm,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/surveillance-hed-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "publishedDateTime": "2020-08-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability.md",
+      "title": "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability",
+      "excerpt": "Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS)",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
       "title": "There is a crisis of face recognition and policing in the US",
       "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
@@ -1019,97 +1110,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-robots-go-their-own-way-deep-in-the-ocean.md",
-      "title": "Robots go their own way deep in the ocean",
-      "excerpt": "\"Without AI autonomous underwater robots are pretty dumb - only being ... which owns a fleet of 12 unmanned underwater vehicles. It is about to start a two-year programme with Durham University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
-      "originalUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1678A/production/_113924029_eb91544a-5a93-45ee-8fa1-bc4b4a26880a.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-53218719",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53218719",
-      "publishedDateTime": "2020-08-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
-      "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
-      "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xqtsXikRmR2P9p7hgseakY-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "publishedDateTime": "2020-08-13T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

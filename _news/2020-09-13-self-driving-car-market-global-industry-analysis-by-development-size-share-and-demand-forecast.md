@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Car Market- Global Industry Analysis By Development, Size, Share and Demand Forecast"
 excerpt: "Sep 13, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
 publishedDateTime: 2020-09-13T05:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13"
 type: article
 quality: 41
 heat: -1
@@ -83,6 +83,6 @@ related:
         height: 630
         isCached: true
 
-secured: "B/LmBxX3zcIPLKV13Pab2/vxkEMS2G1xnlgHMlk5r5YbrpCmXOyjKprsUySG5QaXTNL8EHPFpW3d8CRRZu01x0t2PN78Q28sphVv8BYzG4MKaXn8XohddrUgTNf67FPR5Q846AXL+G0XAIOYBNH6TCchO6YzKWCP8WSUnYOTpeR31iujWKS9arAV5Z844BO9qVuS2M56kkkutZFhiHc1lVb/IiWP/3+UoASrJFGzPZ8KEMm849lbq3aNPlAHngLjILpOP9hGwFItOM31mY2LSvCz0xLH1dUVVmzjoGxvwMmWJooSzJWEBqsq/vpRofNwBAq9m4BPsmgVA688YkVGzQ2vAHd8FIbB2yRbNXHGcug=;ggPiN+UIqNcikMxzcDGVVA=="
+secured: "3ZrTnWLuhHIg91ipmrotLV94FzudceaIaSElCbhuAlP3qH0e+hXi6oa2FxnjOHEfxsUrSTqxORIt9ukHbFtrerpPWb6yfw8adX/fo090WXQnxG2iLZch6wB/ic+60fFB+F/Equqrqv7QZZoFsrsrI7TY3jAMgIyuNPbH4jltulwPFpvOizzZOA3G7YQuK2/Akq2DW8DdQYazF1zc0sRgpN90W15OW0aUqPLyLOgKNWRzxqUULiecqYLldqWWW9f0CG4DWb/XoSongB4K/tSK1cDworrDT4ZaKDLxBYoxaBDGvHAoRuXgBcPAiq33cF8+BgflMm2/ySp1xuR/SP88Xg5TuvF2jmk9Aih5x0Tjyas=;0jh79Kaf621HGL2a5D17BA=="
 ---
 

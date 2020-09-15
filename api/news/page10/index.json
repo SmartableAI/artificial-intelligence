@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
+      "title": "Daimler Trucks tests self-driving vehicles in US Southwest",
+      "excerpt": "SANTA FE, N.M. (AP) — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "originalUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "publishedDateTime": "2020-09-04T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-how-the-pandemic-could-accelerate-ai-powered-professional-sports.md",
+      "title": "How The Pandemic Could Accelerate AI-Powered Professional Sports",
+      "excerpt": "At first, the “new normal” of stadium sports and sports broadcasting seemed abnormal at best. But the potential is vast. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52797ed60df366c191ef01%2F0x0.jpg",
+          "width": 1199,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
+      "publishedDateTime": "2020-09-04T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-pentagon-reaffirms-award-of-jedi-cloud-to-microsoft.md",
       "title": "Pentagon reaffirms award of JEDI cloud to Microsoft",
       "excerpt": "The reaffirmation of the Joint Enterprise Defense Infrastructure cloud contract to Microsoft comes after the DoD asked a federal judge in March for several months to reconsider a specific data storage evaluation of its award to the tech giant after Amazon Web Services alleged the department made six technical evaluation errors during the source-selection process.",
@@ -47,8 +137,8 @@
       "title": "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming",
       "excerpt": "The core of Flight Simulator lies within Azure. From its hyper realistic flight handling to gorgeous visuals,’s cloud computing elevates the game into a technical marvel. In order to “somewhat accurately” create every inch of the entire globe with incredible detail,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "originalUrl": "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "webUrl": "https://www.techradar.com/nz/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "originalUrl": "https://www.techradar.com/nz/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
       "featuredContent": null,
       "heat": null,
       "tags": null,
@@ -63,8 +153,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
       "publishedDateTime": "2020-09-04T11:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -620,38 +710,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
-      "title": "Google Maps using DeepMind AI to predict your arrival time",
-      "excerpt": "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
-      "publishedDateTime": "2020-09-04T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world.md",
       "title": "Video Analytics Market Size, Share 2020: Global Industry Analysis, Size, Share, Growth, Trends, And Forecasts 2025| Says Market Reports World",
       "excerpt": "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion",
@@ -966,6 +1024,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-04-google-maps-using-deepmind-ai-to-predict-your-arrival-time.md",
+      "title": "Google Maps using DeepMind AI to predict your arrival time",
+      "excerpt": "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
+      "originalUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247",
+      "publishedDateTime": "2020-09-03T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-ai-start-ups-are-tackling-one-of-minings-oldest-problems.md",
       "title": "AI Start-Ups Are Tackling One of Mining’s Oldest Problems",
       "excerpt": "In a small town near Lake Balkhash, a Kazakh gold miner is relying on artificial intelligence to predict when an ore mill is about to overload.",
@@ -1011,96 +1110,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design.md",
-      "title": "3 Predictions For The Role Of Artificial Intelligence In Art And Design",
-      "excerpt": "Artificial Intelligence (AI) is transforming many aspects of our lives and businesses, and art and design are no different. In this post we look at the role AI will play in art and design and explore its role in enhancing human creativity as well as autonomous machine creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f51c38ba72e09805e578c53%2F0x0.jpg",
-          "width": 1199,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/amp/",
-      "publishedDateTime": "2020-09-03T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-commentary-happy-labor-day-while-there-are-still-jobs-for-folks-to-do.md",
-      "title": "Commentary: Happy Labor Day, while there are still jobs for folks to do",
-      "excerpt": "Robotics and computerized services are just business' most recent tools for reducing labor and overhead costs to increase productivity and profit. It's no surprise that the recessions of 1991, 2001 and 2008 were accompanied by spurts in the introduction of labor saving artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "originalUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/opinion/amp/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/opinion/amp/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
-      "publishedDateTime": "2020-09-03T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

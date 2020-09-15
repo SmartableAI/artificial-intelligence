@@ -2,6 +2,104 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-03-fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis.md",
+      "title": "Fujitsu and Tokyo Shinagawa Hospital to develop AI for COVID-19 pneumonia diagnosis",
+      "excerpt": "Fujitsu and Tokyo Shinagawa Hospital have announced a partnership to jointly develop artificial intelligence (AI) technology that can be used to help with early detection of COVID-19 pneumonia, even in cases where the possibility of infection is determined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/03/6a3a21c6-901a-4897-ab7b-8a4bdbac1bcf/fujitsu-tokyo-hospital-ai-research.jpg",
+          "width": 607,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
+      "publishedDateTime": "2020-09-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants.md",
+      "title": "Siri Shortcuts And Google Assistant Shortcuts Reveal The Future (And Danger) Of Smart AI Assistants",
+      "excerpt": "In iOS 12, Apple started rolling out Siri Shortcuts. In iOS 14, they’re getting much smarter and more pervasive. Now Google is rolling out shortcuts for Google Assistant. In doing so, they’re both showing us the near future power of AI-driven smart assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f50365db3264b95aba4c6aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/amp/",
+      "publishedDateTime": "2020-09-02T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
       "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
       "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
@@ -1075,87 +1173,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
-      "title": "Pershing takes ‘step forward’ to a password-less future",
-      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-google-partners-with-nsf-to-fund-human-ai-research-initiative.md",
-      "title": "Google partners with NSF to fund human-AI research initiative",
-      "excerpt": "A new institute will study how humans and AI working together can make better decisions than either on their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "originalUrl": "https://www.cnet.com/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/k5t5q-1Ql0SeC8jksbL2P0NerxQ=/756x567/2020/07/25/b0b10f7e-1ee0-498f-b535-f20bda6f570f/google-logo-phone-united-states-flag-4506.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-partners-with-nsf-to-fund-human-ai-research-initiative/",
-      "publishedDateTime": "2020-09-02T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

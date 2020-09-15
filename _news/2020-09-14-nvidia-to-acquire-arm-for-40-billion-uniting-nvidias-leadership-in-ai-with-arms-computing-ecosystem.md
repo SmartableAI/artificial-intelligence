@@ -56,15 +56,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
-    excerpt: "NVIDIA and SoftBank Group Corp. today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund in a transaction valued at $40 billion. SoftBank will remain committed to Arm’ s long-term success through its ownership stake in NVIDIA,"
-    publishedDateTime: 2020-09-14T00:21:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 35
 
 secured: "gYpWBQUOo60I9Siso7SyfSZQFQV2CHf76CxOAPgLnB2LpwtlifyACsbH771nMvrA2+R9ahgnQ4aNC69+xGkg/bW1zsnWqjoMIpENr9KdA6beKZvTzEysdnebEht/ysLA8txgUulkHyr2OAuFPfWTLHSQmocHVUc0I5ETwcgDi7orRtI/DrcRoGCLz+edm5tEokovYP/cO2oHVNffbPei22pvAl6TSwljq0OO0BvOm3/p29PRjySGEIK6UC1GV6SjUoqBjtnLvIs3AH2vVWpe6o80Ck+LX+GQQjX+UrQkiFWF9q+AztjTux6bfjaa1qSHniffXOxgVTWY/3fH4dtyBOogRwCyeE6Eq4fFedx7tsY=;5Ris+kbaIqfSSZJdgOjosA=="
 ---

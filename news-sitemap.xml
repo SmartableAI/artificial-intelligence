@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15</loc>
+    <lastmod>2020-09-14T23:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/</loc>
     <lastmod>2020-09-14T19:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/</loc>
+    <lastmod>2020-09-14T15:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/</loc>
     <lastmod>2020-09-11T13:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -357,12 +375,6 @@
   <url>
     <loc>https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/</loc>
     <lastmod>2020-09-11T09:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11</loc>
-    <lastmod>2020-09-11T08:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -465,12 +477,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/</loc>
     <lastmod>2020-09-10T13:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.defense.gov/Explore/News/Article/Article/2342385/ethics-play-important-part-in-ai-development-vice-chairman-says/</loc>
-    <lastmod>2020-09-10T12:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -661,13 +667,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.embedded-computing.com/home-page/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
+    <lastmod>2020-09-09T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/</loc>
     <lastmod>2020-09-09T14:54:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx</loc>
+    <loc>https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech</loc>
     <lastmod>2020-09-09T14:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -823,13 +835,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09?mod=mw_quote_news</loc>
     <lastmod>2020-09-09T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/</loc>
+    <loc>https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/</loc>
     <lastmod>2020-09-09T05:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -889,7 +901,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09</loc>
     <lastmod>2020-09-09T00:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -919,7 +931,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
+    <loc>https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
     <lastmod>2020-09-08T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -991,14 +1003,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
-    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
+    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
-    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1183,8 +1195,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-1029566405</loc>
-    <lastmod>2020-09-07T05:03:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html</loc>
+    <lastmod>2020-09-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1357,7 +1369,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
+    <loc>https://www.techradar.com/nz/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming</loc>
     <lastmod>2020-09-04T11:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1435,12 +1447,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1483,6 +1489,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems</loc>
     <lastmod>2020-09-03T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1513,7 +1525,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/</loc>
+    <loc>https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/</loc>
     <lastmod>2020-09-03T18:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1747,7 +1759,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition</loc>
+    <loc>https://www.techradar.com/uk/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition</loc>
     <lastmod>2020-09-03T02:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3865,8 +3877,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
-    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
+    <lastmod>2020-08-25T02:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

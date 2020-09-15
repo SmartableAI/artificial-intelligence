@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Automakers may be hyping self-driving cars, report warns"
+    excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
+    publishedDateTime: 2020-09-11T14:51:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Even self-driving cars need driver education"
+    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
+    publishedDateTime: 2020-09-12T04:38:00Z
+    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
+    type: article
+    provider:
+      name: WHAT HAS
+      domain: theindependent.sg
+    quality: 24
+    images:
+      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
+        width: 496
+        height: 372
+        isCached: true
 
 secured: "yxrJ68oddradQzobrFIj32UZWeEAzmiH+PBJSP8b0MB/AappsJvfxlaNLTv22IPfFWwZgcG/ikv2YS0hgEHWt5StZcDSXuNXiy+otPRPJlBLGONSVY4+M/5mEAQooYiI6NnmI4T045gL5jx8UAxFi56rX4Ea4A/C9cHTzHVf1bRwK1wmXFD4sx0/B/v3MpbyiO7gyd1wj8mF3zYGVQE/OfiTP4PwZ+u1mLQI++M7qUpOUTnPtoXx6DFzw0AYsLympSSx0aoPq9NKyn86W/DzC4eTtb74UNDxSbEEt3g9RT906MV12HpOfceTSt92SXPlcI/nQPwSuc7nI2tmWF1NABWhTHZUISaAsOOtRnM0/3RZk24PhScvNAQNFk+zaXNkvo93fVY4aVOhYHnGoUV4sdb9GxwGZ9SvCRRHnV+ZFkwfN4/3QcOV0HoiiKxz7Tz8iVDDJsaYiJVw5u4bAAunwsxaAuSJLQ+HTCArmQDHVIMSRDJzyzdtsM5riRVg52PuQOGVYuu1r0/+IGFJjzTYYA==;/VOMM4qq/nmkVp7ZaMIqTg=="
 ---

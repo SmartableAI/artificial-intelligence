@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
-    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The announcement comes on the heels of Dataiku’s $100 million Series D investment round,"
-    publishedDateTime: 2020-09-10T14:51:00Z
-    webUrl: "https://www.oaoa.com/news/business/dataiku-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-q3-2020-report/article_1048a8bf-e50e-51ae-8b22-ac61fe2d95a4.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/a/ba/aba81b21-90a4-5732-b107-88257472b9cb/5f5a3ffdbd2ab.image.jpg?resize=1200%2C628"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "TIBCO Named a Leader in Multimodal Predictive Analytics and Machine Learning by Independent Research Firm"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven challenges. Today,"
-    publishedDateTime: 2020-09-10T14:39:00Z
-    webUrl: "https://apnews.com/business-wire/d5cb8b42871e4fea8afbb428998aa50b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
     excerpt: "This year's report evaluated 11 multimodal predictive analytics and machine learning (PAML) platforms based on 26 criteria, which are grouped into three high-level categories: current offering, strategy and market presence. Criteria for the platforms ..."
     publishedDateTime: 2020-09-14T13:13:00Z
@@ -68,20 +40,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 14
-  - title: "Cloudera Recognized as A Leader By Independent Research Firm in Notebook-Based Predictive Analytics And Machine Learning Evaluation"
-    excerpt: "PRNewswire/ -- Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Machine Learning has been named a Leader by"
-    publishedDateTime: 2020-09-10T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and-machine-learning-evaluation-301127565.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/495570/Cloudera_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "9XEswD2kk52K5VpyN4puDunqx+7fTzKd/JjTR0jUo33y+Xnze4gCdfTjjLV8mEDA4QFViMIHWy/gm8UyfM/MNv8gzCWChqw4Z809X9yFUogbPfc6f2oRGFGMgDDAgt1PQf0eWi8otSZ0JDNjeHSoqGDcc1vSYGBG2+Jwq3M67S4ySAOQh0BopwWrouW5RUPzKXRMe+Zc3pTP/mWTXt8ulYb5yQCtkEWYdCu1ZrNOx/hVYjNn545f0D+t8QGy54zQROFcri1hBfVIPByasWsT/myNKyfC6aHsF58USLbviAWg4l0GODKRRyhztEcYZ7n7Hkq4U7w56JYmp4AU3cHeN1oftjsddtvb70MFzEughcI=;PceA0bX6WXNyil9h8DgX9w=="
 ---

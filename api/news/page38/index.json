@@ -2,6 +2,79 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-08-17-artificial-intelligence-loopholes-could-be-deadly.md",
+      "title": "Artificial Intelligence Loopholes Could Be Deadly",
+      "excerpt": "In 2014, IBM created its artificial intelligence division, IBM Watson. One of its divisions, Watson Health was seen as the future of AI health care solutions. IBM spent over $62 million to create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-07.png?itok=n2Gm_OfC",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly?amp",
+      "publishedDateTime": "2020-08-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-ensemble-deep-learning-in-bioinformatics.md",
+      "title": "Ensemble deep learning in bioinformatics",
+      "excerpt": "The remarkable flexibility and adaptability of ensemble methods and deep learning models have led to the proliferation of their application in bioinformatics research. Traditionally, these two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s42256-020-0217-y",
+      "originalUrl": "https://www.nature.com/articles/s42256-020-0217-y",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-intelligent-machines-are-teaching-themselves-quantum-physics.md",
       "title": "Intelligent Machines are Teaching Themselves Quantum Physics",
       "excerpt": "Last year, Google's DeepMind AI beat Lee Sedol at Go, a strategy game like chess, but orders of magnitude more complicated. The win was a remarkable step forward for the field of artificial ...",
@@ -1058,97 +1131,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs.md",
-      "title": "Horrific AI surveillance experiment uses convicted felons as human guinea pigs",
-      "excerpt": "When a convicted felon in the US completes their court-mandated sentence(s) they’re considered a free citizen with limited rights. Felons can only vote in two states, they cannot legally own a firearm,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/surveillance-hed-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
-      "publishedDateTime": "2020-08-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability.md",
-      "title": "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability",
-      "excerpt": "Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
