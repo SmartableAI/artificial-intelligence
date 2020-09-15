@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/</loc>
+    <lastmod>2020-09-15T12:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/</loc>
+    <lastmod>2020-09-15T11:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15</loc>
     <lastmod>2020-09-15T10:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/</loc>
     <lastmod>2020-09-15T07:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-15T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -955,6 +973,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/jon-devries-named-qlarity-imaging-chief-executive-officer-301126526.html</loc>
+    <lastmod>2020-09-09T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/</loc>
     <lastmod>2020-09-09T06:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -973,7 +997,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09</loc>
     <lastmod>2020-09-09T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1051,7 +1075,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09?mod=mw_quote_news</loc>
     <lastmod>2020-09-09T00:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1081,7 +1105,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
+    <loc>https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
     <lastmod>2020-09-08T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1153,14 +1177,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
-    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
+    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1915,7 +1939,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition</loc>
+    <loc>https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition</loc>
     <lastmod>2020-09-03T02:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3241,6 +3265,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/</loc>
+    <lastmod>2020-08-27T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.news-medical.net/news/20200828/Using-deep-learning-to-study-how-mental-disorders-affect-the-brain.aspx</loc>
     <lastmod>2020-08-27T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3391,14 +3421,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html</loc>
-    <lastmod>2020-08-27T05:21:00-07:00</lastmod>
+    <loc>https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology</loc>
+    <lastmod>2020-08-27T05:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html</loc>
-    <lastmod>2020-08-27T05:13:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html</loc>
+    <lastmod>2020-08-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pardon the Intrusion #26: Facial recognition? That’s a no from me, dog"
-    excerpt: "Portland, Oregon has become the first US city to ban the use of facial recognition tech by both public and private businesses."
-    publishedDateTime: 2020-09-11T02:53:00Z
-    webUrl: "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/"
-    ampWebUrl: "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/"
+  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
+    excerpt: "International Business Machines said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial"
+    publishedDateTime: 2020-09-11T20:11:00Z
+    webUrl: "https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/09/ptl-newsletter-hed-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-11T12:19:00Z
+    webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 818
+        height: 545
         isCached: true
   - title: "Portland becomes first city to ban companies from using facial recognition software in public"
     excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
@@ -57,6 +73,42 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
+    excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
+    publishedDateTime: 2020-09-11T16:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "IBM pushes for US to limit facial recognition system exports"
+    excerpt: "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,"
+    publishedDateTime: 2020-09-14T01:03:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
+    publishedDateTime: 2020-09-11T17:11:00Z
+    webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 810
+        height: 539
+        isCached: true
   - title: "We need clear rules for facial recognition tech"
     excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"
     publishedDateTime: 2020-09-11T10:00:00Z
@@ -73,22 +125,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial Recognition gets an Upgrade in a Mask Wearing Era"
-    excerpt: "FACIAL recognition gets an upgrade in a mask wearing era but could it be a step too far in data collection and invasion of privacy? Since the start of the"
-    publishedDateTime: 2020-09-13T17:58:00Z
-    webUrl: "https://www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
-    ampWebUrl: "https://www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
-    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2020/09/13/facial-recognition-gets-an-upgrade-in-a-mask-wearing-era/"
-    type: article
-    provider:
-      name: Euro Weekly News
-      domain: euroweeklynews.com
-    quality: 59
-    images:
-      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2020/09/shutterstock_1020957817-861x484-1.jpg?x72737"
-        width: 861
-        height: 484
-        isCached: true
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
     publishedDateTime: 2020-09-12T16:01:00Z
@@ -104,36 +140,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Portland Just Passed The Broadest Facial Recognition Technology Ban In The U.S."
-    excerpt: "Portland, Oregon’s city council unanimously approved bans on city and private business use of facial recognition technology on Sept. 9. The ban will apply to city departments such as the Portland Police Department as well as public businesses ..."
-    publishedDateTime: 2020-09-12T12:23:00Z
-    webUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/"
-    ampWebUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
-    type: article
-    provider:
-      name: KRISTV.com
-      domain: kristv.com
-    quality: 55
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/79de320/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAdobeStock_62385205-500x333.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "City Ban on Business Use of Facial Recognition Tech Said to Be a First"
-    excerpt: "The city council in Portland, Oregon this week unanimously voted to prohibit the use of facial recognition technology by city agencies, as well as by private companies in public places. Civil liberties groups said Portland’s new restrictions on the use of the technology by businesses is a nationwide first."
-    publishedDateTime: 2020-09-11T22:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/city-ban-business-use-facial-recognition-tech-said-be-first/168396/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/11/NGcamera2020911/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
     excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
@@ -188,19 +194,19 @@ related:
         width: 2000
         height: 1046
         isCached: true
-  - title: "LifeLine Animal Project can now use facial recognition to find lost pets"
-    excerpt: "Facial recognition technology is already commonplace for humans, but LifeLine Animal Project is the first in the Atlanta area to use it to reunite pet owners with their furry loved ones. LifeLine, which operates animal shelters in DeKalb and Fulton counties,"
-    publishedDateTime: 2020-09-11T20:25:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/lifeline-animal-project-can-now-use-facial-recognition-to-find-lost-pets/4TBM4ZQ3EZAIPFKWLUTDGA6Y4E/"
+  - title: "IBM calls for new controls to limit US facial recognition systems exports"
+    excerpt: "IBM has said the US Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-13T23:40:00Z
+    webUrl: "https://www.arnnet.com.au/article/682879/ibm-calls-new-controls-limit-us-facial-recognition-systems-exports/"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 38
     images:
-      - url: "https://www.ajc.com/resizer/4ooxhafuejSshGOd66gb8TcZP9Q=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/3HAS5HLVSCD4QCMSJABFJSIMGU.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_id_19577771__tomasz_bidermann__dreamstimecom.jpg"
+        width: 740
+        height: 483
         isCached: true
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
@@ -225,6 +231,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
+    excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
+    publishedDateTime: 2020-09-11T14:22:00Z
+    webUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits?source=sabrient"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "IBM asks U.S. Commerce Department for facial recognition export limits"
+    excerpt: "IBM (NYSE:IBM) says the U.S. Commerce Department should put new limits in place for exporting facial recognition systems to regimes committing human rights violations.IBM is getting in just under the September 15 comment period deadline for the Commerce Department's consideration of new export license requirements for facial recognition and other surveillance-related biometrics systems."
+    publishedDateTime: 2020-09-11T19:11:00Z
+    webUrl: "https://seekingalpha.com/news/3613333-ibm-asks-u-s-commerce-department-for-facial-recognition-export-limits"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
     publishedDateTime: 2020-09-14T15:30:00Z

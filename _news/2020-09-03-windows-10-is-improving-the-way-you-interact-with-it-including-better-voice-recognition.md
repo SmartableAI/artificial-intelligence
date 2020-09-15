@@ -3,10 +3,10 @@ category: news
 title: "Windows 10 is improving the way you interact with it – including better voice recognition"
 excerpt: "Build 20206, which has been released to testers in the Dev Channel, comes with a new and improved version of Windows dictation which has been renamed Windows voice typing. As was the case with dictation,"
 publishedDateTime: 2020-09-03T09:20:00Z
-originalUrl: "https://www.techradar.com/in/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-webUrl: "https://www.techradar.com/in/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-ampWebUrl: "https://www.techradar.com/in/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+originalUrl: "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+webUrl: "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 661
     isCached: true
 
-secured: "oJAASEo2qqmv5FzA7xq8mhQIL3ISHUMyoeDHbFP/+2g1YSOEx7MCSZtSgf4n2EJfrizKTgzWeQMMpJsLuoVOOwifUbhy96tDUocTUgFgcKQaSjVu86ZhBL0levqraKyX1Vvnk4sOIXpK5WSEWdnyaRL6mf61ikIAJgkeutpC9g12MUSDSdf6B7ZK9W60sm4kqPPM8K7ddGRz3y+ca7rPWvJnB7UEwBKp/P7zy6BglL7Hu6Jfb8pS5ykzfC+kpqf8kaKG4G45WRdMz89C7lu7vOdEEzrAn5wFeQ8+4SNSutNoVuL1BIFf0sHD6JBDLdnC1T6BhKMy7xC/q2W5OHMVUNUS9FTfycgHaQn5Hk/0A0Wv/U8dQswCVhneVyQOvwfFLWMS6+0lEUfUonCWemkmvY668nyhh90l/nxnj2Jq/Qz7FSafEkAw9uBvMj/R07CkAbejJzUYCe83nYpEaTAqu8gCRH9ncFIJF1DqNz+KQAI9QIHFtby08TvbfhmE4btnNMCgY7jWSUsnWtacV6vk7pB/IHiuQlqVp3A2bXmJ66U=;HVEXbLKlmahzIuIYXgJ5aw=="
+secured: "8G8XI4p4oWdmmSJk8PvZad5eo0EdmYevJqJqWwAVQzkhyca7fMFmx9BUuCR91m6fZNcz4PCUU8C/JQYbu8Eflhi2dD8CCe/wpLTWJ66LlugSswKfX2rWDJqAoPEAgH44VC2PJOc3+nVEJRASruZPelfuD2VKid6jMeWyk23iwFPyNc67SNHaCVrKQhaq8KP/3ObZhw+cF/49WvqSUad3Mx4P3Pia5k0lA7mdBeEQdxpgExkh4uAr4yPOyCoOBk9eeMoRysuYNv94fjo12ofwvsxhFE30nIT/FmiswBt3SZEMBjI+SAp0H4Pv50R4GEGAhvX4t6Qlmlihz5hWDjX/HmDetXpRH0ilIjuK7+MtD3s=;/WsAShFi3jp5wzlnTnzlQA=="
 ---
 

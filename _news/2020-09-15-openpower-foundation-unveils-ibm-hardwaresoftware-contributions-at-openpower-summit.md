@@ -34,7 +34,7 @@ related:
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 11
+    quality: 13
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/OpenPower_A2O-Power-processor-core.png"
         width: 800

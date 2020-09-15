@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54142567"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://e3.365dm.com/16/08/1600x900/42dcee07ded5c06f53c535b3db49840c20a60f4af1691c3bc83c64ad8434fe5b_3756902.jpg?20160803094809"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
+    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."
+    publishedDateTime: 2020-09-15T19:42:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "Government to examine sale of computer chip design firm Arm to US company Nvidia"
     excerpt: "The Government is examining the sale of UK-based computer chip design firm Arm to US tech giant Nvidia, with Boris Johnson taking a personal interest in the deal, his spokesman said. Earlier on Monday,"

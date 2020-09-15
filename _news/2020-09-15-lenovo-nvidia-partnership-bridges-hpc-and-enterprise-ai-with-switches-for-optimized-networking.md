@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-15T15:38:00Z
 originalUrl: "https://siliconangle.com/2020/09/15/lenovo-nvidia-partnership-bridges-hpc-enterprise-ai-switches-optimized-networking-cubeconversations/"
 webUrl: "https://siliconangle.com/2020/09/15/lenovo-nvidia-partnership-bridges-hpc-enterprise-ai-switches-optimized-networking-cubeconversations/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Kevin-Deierling-Scott-Tease-CC-2020.jpg"
@@ -23,6 +24,6 @@ images:
     height: 888
     isCached: true
 
-secured: "4VOg1v0XuyZ5UyutxlXwyNtIVZ0NV18pN7DbC+xjiBCL4tNygpW7UHRCHzbDnIkcUcv9XGZ82tVKZWYepa4KiSPts2vz9VgvuCvD9alpITbJjfxtOV26NAC93ldIK6nVSNwN1VNO2R3hCueKXfIVlHi+LHtHLuSltlHxn3wxBB+yxc+WDoT6A+CzuMTTEcT/5SOhDgJsHJPUipfv2mS7D/6lN6/RlmlhCLNYVJSEE/9KWCK+ASKFxnOBuOyS/Lcnqnst+A5qr1Ms5Vv6i6BTdlfeO15Wh0tqaY3t+vGoja36N1Wtvbk326BQLGHL6gAG59TXn61SZ8yOPczP9hPrJHE5WPlBSFljsGM0vOpPY9I=;BKUOH9qXojl5tQM/WdLXkQ=="
+secured: "Pyp934O1Fn6uu/4kC3vVwcSDcSqfrQQTd6bi1CtqBgv9aMvxuAhiWIgFW82CfF9Hz1rJn67MwpmKAMHb5gvc1tr/3KxmeZEfjmAJnZ9on0XVihEb4BpD/z6XEaGKao0vmkZjbgTiHorXuDhO/M/Wb7ugjrAUy4tUJvyzMezyPGkXcX8grcUZVgva6mLxqO5TCzSqe1CrDw8/EuMzGDkJNowuZNAx/EQTUFD/I7E2NshqNWIWo+Xvgy+0B5/DojTfXv5S/olj571k3jPF+0ZWBmrjvUm+UKwS3lMReKTuu009VsfNZom284PakKbKZL8+FwuJtoluOXAYpRpu4X3uuUkIHyjSE7Js+B2PT3g4nMmk0PpQ/nfby3kY3poYLKVhYt5Vzg1IN47QXI+fjN4y61YSV1gHClt/bBx5h/ecA8TyUv+/EIxoewcAzTEPkGUPhPGIvcnshMnGErFG4FBlXO/etsCV3miY2oxNijGNzcfLqN5CkYEB44FiDvL1F6rNeHk8c9vegEhe6nlQqpuXGr58FV4nuO8//VkCWsNQe5c=;ZXtMcCLf57PcWL8dUdNz8A=="
 ---
 

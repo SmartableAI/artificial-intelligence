@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-15T17:45:00Z
 originalUrl: "https://www.hpcwire.com/off-the-wire/openpower-foundation-introduces-ibm-hardware-and-software-contributions-at-openpower-summit-2020/"
 webUrl: "https://www.hpcwire.com/off-the-wire/openpower-foundation-introduces-ibm-hardware-and-software-contributions-at-openpower-summit-2020/"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/OpenPower_A2O-Power-processor-core.png"
@@ -40,6 +41,6 @@ related:
         height: 265
         isCached: true
 
-secured: "yxDu9+0VNGD7FIWMJPLfXC27oi11SELPVQfLS16BrzJ5tjX4+fFc2NdQh2YgGs3P7JeSOGzvFrgoSLovsZYLYgDts+sEp+lfxo/Sj+g4oJu9K7L+EFGEYF720QtIGkT5sbUZpT8Je5D5tSC3Gl/UCcjMaIIZYBz2TSuYXxArxe3Qyk31DauLn3ZVmhbegUDNX6A+xIibmHUwVrfBlJuFYCzKdh7Rh8Zn2BtatHU34yr/Z6ysJ6J8iIrTl0LQbgE52uIwEs0sJg4MaDTbq09dwC/G6ZoAp4zGAoZTG3p++CR+6bujtR3pe2/Ou1fEyEEsZh9PD1OWKwzSrsa6IH+tpL3waIR+4qD7JXQqhIwoJvY=;NjTP1MXKs45fV0dRi7Da9A=="
+secured: "7LkO+lStscQa08GvPN6rKWxRav/ILBiuUzDiHgeY+GZ+QH6pIExCDniPWp2+w7qrXT4YG0az8LmhuJYp4/NlxrohmMTAveguc0GGq/2IjqwFchsoUBiEDM+eiEqUrN/+DL7K6UsLK6L1Enb+U/uuiKVUnew39KUEbLvQLDkZBBxBmFEiPwYi6tz7EVR91l4KIXlCTLTaCmHe2TGZX4BUsy/T0D44Tw96dC8wvUzT6ECFibho6TtbbL/RWzY3R+LVfmT/nKm8WLu9+lG9c+1CBQ1avb/c/crMUm9maA4Djk03Y7yL2gBOZ4ZR9esg0mpFfmm2xiZflcClDZ59fxaCRLYLCziy2V7f0JOZbkRTEEcKuKH4AU8X+6E5dXkSi2oNW+by3YjgzIOKDE2Huk9XowcDL6ZHzLRs+2lf71xmHdoihWw4NrnvK7F9KX/kN0Sc+tmf7qk9u9Gg+XGeyT0GIdAjAfuEH0lDUGs9Ta6gB//SEbtxcrOaE+6pidYeLZ08JD0XJbPjEKtbIzGXnNV6xMwI37Pp1WkeKQi3jh4kwu0=;+iPxghXZJ2nW83VffKHmRw=="
 ---
 

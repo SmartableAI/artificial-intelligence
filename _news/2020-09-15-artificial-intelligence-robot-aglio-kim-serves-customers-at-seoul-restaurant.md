@@ -59,6 +59,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AI Robots serve restaurant customers in South Korea"
+    excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
+    publishedDateTime: 2020-09-15T18:57:00Z
+    webUrl: "https://www.sfgate.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "wlMrTIG/GZ1sBEpL7H0pZdoKpNXBfMOHUT+sr5dzYLOPZlX46ZIRh79EQiFw6sUMn1GAC+xkwUaoLTDToOtOLeIXx3vYMb4Yap0MQepdQo5n3ETL6DeIlFPdiVBe4SVEiS3SERJDoqYeAwNIOGM/zAG2DuPctWWJ9GqZhXP41eOHQ0PbtNlxbVuIJVzeSm0CJQDAXFg1fM8SFB0FIBODse2gKw3/FIoBSGmUcJWSAbjTpssdf9tF70Ft/Fo3FIDNB8cnqd0OJOnPrk+sMgVhqNwQb+CfzAFOj8QjnfBJpIpwiEV8bNw9f3YYWDQxmwPco7qhMbjt4804MBmX05rC2Z9a5tNWodhWqUTHcWap5uIvfWeS/fwZ4eeOZari0jOU5kgHuUkvnWdyBl198j2zow4hbuFOtcM+O8eDN5HOygAOuAPyERP6uqZQLVSoTEIM7OANNYQlDN8nmg9U8IzAPiLFR1Uby7vPRS8UnHFcVkSu1tHfaqGRWs8b8LIDsGC23HG20ArB4zdnfBKh4gKSikCBmlcXW3VZdufglUjmCV4=;ZFwNC5TZGIdvrW72KnNaRg=="
 ---

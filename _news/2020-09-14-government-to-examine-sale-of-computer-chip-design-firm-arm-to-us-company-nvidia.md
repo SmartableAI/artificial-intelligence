@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
+    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."
+    publishedDateTime: 2020-09-15T19:42:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "fPHWh+38bnS5atPKeuBjd5gBahicWUMATqQVV+wEcxbtwGGgyqyRebjun4h1GNkNnJSjujFLeb1EUnlYFSVWmQwsjTcdCC5umB/kbaOk4RL2dI34OLDI5FqbaxnolEJ882Ocd/DSACVW/3YPp3dxfBXvIas6/4gnCd4PQf1Eut+PqCAAG0/C8BGXj6D2JpC0ZQ1qUnIVl53DotpmCgHRjlJPUsbtUCUSWbdzy5BsIXA+30SWlfuhlUrrNdRHrAE/34+1M76HzGoiM84UmBDsDRmYceHOT25kJfiTnXF11W1kEvcPSpwzcvD8fLHdMKGecZLPzvJJJ+3KJppAfZjqXE+2le3AfD8t031NrjU6D4o=;aOah8VlW9h7jxkDnIhfA3Q=="
 ---

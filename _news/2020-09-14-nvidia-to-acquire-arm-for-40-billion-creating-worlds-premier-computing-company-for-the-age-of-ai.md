@@ -1,22 +1,28 @@
 ---
 category: news
 title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
-excerpt: "NVIDIA and SoftBank Group Corp. today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund in a transaction valued at $40 billion. SoftBank will remain committed to Arm’ s long-term success through its ownership stake in NVIDIA,"
-publishedDateTime: 2020-09-14T00:21:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
+excerpt: "NVIDIA and SoftBank Group Corp. (SBG) today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, “SoftBank”) in a transaction valued at $40 billion."
+publishedDateTime: 2020-09-13T23:21:00Z
+originalUrl: "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2"
+webUrl: "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2"
 type: article
-quality: 35
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Nvidia confirms it’s buying Arm for $40B to expand its AI efforts"
@@ -64,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H4/AXqPw4M4Wv7/cNjM9OTH45QNezC7cdNmPsBmKx83FL6Y//bfy1kEo/i8pdlBxc4/rCO5E7R+w4cgXh9/sWrN0LzU324cuHhYXtQJBZ0x1d9nN8fORAPQPIBYn650cVg42m5YjSXJa8U6t7/RFo9PK7WTTNV3BmAiZ3uJ6dqmw81Bm2tGXFbLD45GSp2rkCStwmWRyoP+cSdyNLGSu5gGpnhYe2pLIlo+SsingDswu8jvVb6xYj0CsP9XB2GMjyhb2edJvZQabSY1SL1rykaC/5uOlFTKCMEFeCMFIyJNffw90iJ9JD4lxa9z9SY8xV5nxJH60kk+Clubb8arLaQeeSdmSt2t+fMfEL1+lQR4=;Sbyhx9F4EWaNg5wlVFDEXw=="
+secured: "28LNLIQ7xnB6cVqhg8i8v5JpY5Y2lgUL2p2Dc0bOsbZ2yCpQv5x8RmE98lIOwiEe6U+2rkMPjWcH5EQBNiNK1rlUieLCUIc/Ao/D1Q8JyOrvyk2EFkkO6rxsleQrmlCjyHWCXXomQcwxQanonuVHtlmWnk0bIUTI/2oYlFhvL18yOJ5cannf4GwhRRNvmnBa19A1qPr4LstChWQfGvISPAhzrECA57VZZo/yTwKNA2OqmOPdTHzjL8IxmuC20aLgNpj7CxN1QMl1FcD5dz3tYlfwDkrcBfgeMtSrmLa/xRqs0IQtlKwxm9EZFBAtdUbcGODIPkO3Up8UmzcPirzBDE0P0hb1NHgdVbrQduYIhpA=;yWJkx3LR1cKXLz4LpDkmcg=="
 ---
 

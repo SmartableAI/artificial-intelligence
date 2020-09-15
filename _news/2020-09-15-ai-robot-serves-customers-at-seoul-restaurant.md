@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "AI Robots serve restaurant customers in South Korea"
+    excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
+    publishedDateTime: 2020-09-15T18:57:00Z
+    webUrl: "https://www.sfgate.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
     quality: 57
     images:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
