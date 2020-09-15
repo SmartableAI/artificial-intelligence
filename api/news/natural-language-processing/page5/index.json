@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-30-microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook.md",
+      "title": "Microsoft is taking this Windows 10 Linux tool back from...Facebook?",
+      "excerpt": "Microsoft has revealed it has taken control of a popular open-source machine learning library for Windows 10 Linux systems that was originally created by Facebook. Used by developers across Linux and Windows,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UVoJtVCqMw4zd4UHG7SaYa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook",
+      "publishedDateTime": "2020-07-30T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-why-developers-should-use-graph-databases.md",
       "title": "Why developers should use graph databases",
       "excerpt": "Graph databases are proven architectures for storing data with complex relationships. Why aren't more companies using them?",
@@ -1305,56 +1355,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit.md",
-      "title": "Leaders from Google, Adobe, and more talk benefits and bias at the Conversational AI Summit",
-      "excerpt": "An AI-based catalog ordering system for ... it does not recognize how to appropriately translate gender in gendered languages; and some very gender-biased source material, including the Bible ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/voice-recognition.NLP_.GettyImages-1018231894.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/amp/",
-      "publishedDateTime": "2020-07-21T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

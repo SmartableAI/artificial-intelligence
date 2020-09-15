@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200914/New-x-ray-microscopy-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200914/New-x-ray-microscopy-technique-could-help-accelerate-efforts-to-map-neural-circuits.aspx"
 type: article
 quality: 38
-heat: 58
+heat: 38
 published: false
 
 provider:

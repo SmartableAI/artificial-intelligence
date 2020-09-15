@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-joins-forces-with-n
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
 type: article
 quality: 38
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Watson Advertising expands data targeting with new weather solution"
+    excerpt: "IBM has announced the launch of Watson Advertising Weather Targeting, a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers."
+    publishedDateTime: 2020-09-15T10:58:00Z
+    webUrl: "https://www.retailtimes.co.uk/ibm-watson-advertising-expands-data-targeting-with-new-weather-solution/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 39
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
   - title: "IBM’s Watson Advertising Broadens Its Weather Targeting With Nielsen Sales Data"
     excerpt: "How do you target people without cookies or device IDs? IBM Watson Advertising released a tool that combines weather, location and POS data from Nielsen."
     publishedDateTime: 2020-09-14T13:00:00Z

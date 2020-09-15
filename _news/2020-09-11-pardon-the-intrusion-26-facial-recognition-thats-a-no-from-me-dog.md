@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
-    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
-    publishedDateTime: 2020-09-10T19:32:00Z
-    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
-    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-230642/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "We need clear rules for facial recognition tech"
     excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"

@@ -57,6 +57,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "US DoD to focus spending on commercial IT advances in artificial intelligence and cloud computing"
+    excerpt: "Procurement will overtake research, development, test and evaluation (RDT&E) for the largest share of spending by 2024, says Frost & Sullivan"
+    publishedDateTime: 2020-09-15T13:26:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/us-dod-to-focus-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-260450/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 24
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2020/09/US_DoD_C4ISR_Market-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
     excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
     publishedDateTime: 2020-09-10T23:36:00Z
@@ -71,6 +85,15 @@ related:
         width: 2699
         height: 1414
         isCached: true
+  - title: "Elsevier and Pending.AI collaborate on AI-driven chemistry retrosynthesis tool"
+    excerpt: "Elsevier, a global research publishing and information analytics provider, is collaborating with Pending.AI (PAI), a start-up focused"
+    publishedDateTime: 2020-09-15T13:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/elsevier-and-pendingai-collaborate-on-ai-driven-chemistry-retrosynthesis-tool-301127890.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
   - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
     excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
     publishedDateTime: 2020-09-14T13:12:00Z

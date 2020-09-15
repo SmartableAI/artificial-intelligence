@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-compani
 webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 1680
     height: 840
     isCached: true
-
-related:
-  - title: "Voice Recognition Market : Regional Segment Analysis & Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-09-15T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-regional-segment-analysis-forecast-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
-    excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
-    publishedDateTime: 2020-09-11T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Step Ahead Chattanooga Receives National Recognition For Communications Strategy And Impact"
-    excerpt: "Local nonprofit A Step Ahead Chattanooga will be recognized on Sept. 25 as the annual winner of the Clarence B. Jones Impact Award. Named after Civil Rights hero Dr. Clarence B. Jones, this award recognizes “communications for good."
-    publishedDateTime: 2020-09-10T17:51:00Z
-    webUrl: "https://www.chattanoogan.com/2020/9/10/414967/A-Step-Ahead-Chattanooga-Receives.aspx"
-    type: article
-    provider:
-      name: Chattanoogan.com
-      domain: chattanoogan.com
-    quality: 0
 
 secured: "3IAtd8YjXgqlbo4KROeUbhDFYxXKvib3+k/GHYvmkcH11oT6LRobdiQDDOALaLpuJb8egev94vEo/Tn5/pa4DTLnnlnFrBorKIusWg6ltjDJ8yy6Bn8/334VEdnyvQqVO5hgLSTtDzamlbjzD9F9VmueuLCJfuWBijembDjLhg8hmqmonJuIWHFmUCgxA6wIiXiCMRAFD95RjOHWFYPOqFQJfUE2xItiTiSEoYItKLFo/tKkOi0tj724LfW41vWXqmz9t8059EpXHOvv+6b8rl9BSlMU0b413VZQirq44tb/KUU5Bg57Cp1orLGSj9JA3jaDLlag8LeYwYOjo+J6nlvg4BSWaFpAH+Ud2DsYPiRtNnDDZkoeT22av2L+bgVR8EunnbwxRdQ03wN/SyQWnWe+GrPwikzVdmJalUGHcscebol8r/q0tR21ljjf1GzfLPiFbmUuItCs3CASHQSciys143CUeBXT3yoKnhBAsqxk79HAS7HYeNZtBYrHFZJT0YW6a8BC4thEuepSGsq2iQ==;Det4A5kQmlUrrrsm4Tkv3Q=="
 ---

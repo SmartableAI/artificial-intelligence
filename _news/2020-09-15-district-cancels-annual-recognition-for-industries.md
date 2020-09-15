@@ -7,7 +7,7 @@ originalUrl: "https://www.kentuckynewera.com/news/article_578eed86-7ac1-5fd8-b3a
 webUrl: "https://www.kentuckynewera.com/news/article_578eed86-7ac1-5fd8-b3ac-8e42f37f5428.html"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

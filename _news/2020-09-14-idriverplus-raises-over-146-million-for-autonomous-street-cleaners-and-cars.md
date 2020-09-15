@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Seegrid closes a $52 million round for self-driving industrial vehicles"
+    excerpt: "Seegrid, a company that builds self-driving vehicles to carry materials in industrial environments, has raised a further $27 million in funding."
+    publishedDateTime: 2020-09-15T13:14:00Z
+    webUrl: "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
     excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
     publishedDateTime: 2020-09-11T08:21:00Z

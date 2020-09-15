@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson Advertising expands data targeting with new weather solution"
+    excerpt: "IBM has announced the launch of Watson Advertising Weather Targeting, a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers."
+    publishedDateTime: 2020-09-15T10:58:00Z
+    webUrl: "https://www.retailtimes.co.uk/ibm-watson-advertising-expands-data-targeting-with-new-weather-solution/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 39
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
   - title: "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Weather Targeting, a new suite of"
     publishedDateTime: 2020-09-14T14:05:00Z

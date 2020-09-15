@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artifici
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
 type: article
 quality: 48
-heat: 78
+heat: 48
 published: false
 
 provider:

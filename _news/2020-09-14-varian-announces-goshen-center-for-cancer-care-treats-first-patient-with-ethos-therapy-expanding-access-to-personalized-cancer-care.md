@@ -30,6 +30,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Varian (VAR) Expands Presence With Germany's Ethos Order"
+    excerpt: "Varian Medical Systems, Inc. VAR recently announced that it has received Germany’s first order of Ethos therapy from the German Cancer Center (DKFZ) in Heidelberg. Notably, the first Ethos therapy in Germany is set to be installed and will commence treatment of patients by early 2021."
+    publishedDateTime: 2020-09-15T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "N96K1OrcUoz+i5KwWzWdN0vWatPw6BQwtqo87Aq/OIHFmUYXhybPX3Q35mQIaJ2PnBmYyujONHHskMGKGqI+n0FEdERLesn8WXkwFvsvRx7SshC3kPU/0FCvD1W6BRkSNN7+tQJlfW3Pii2bFTuC51sw0OqZR45Tkh7kzZsqir8TCBrGw29Q78b/bcd8XjUFTeDdqJofad3DPi/CCELGpjZq/FgN8FPeZTz/UyBIWpbmY+sK1nWm9YjQ5hibu76PYOeUNuSNjSFnx/C4XdHn5gS4RTFbrXyVozbpzOege8mHRjaUlRqm8fhGuHRNMUwOfL4VH1Hlx5m5quiuZfvs1c9A/8mLzVijfjXjCG6rVU0=;giQgWxwCpuyjIBVpyr+j5g=="
 ---

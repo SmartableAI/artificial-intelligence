@@ -7,7 +7,8 @@ originalUrl: "https://en.globes.co.il/en/article-team8-launches-fintech-foundry-
 webUrl: "https://en.globes.co.il/en/article-team8-launches-fintech-foundry-led-by-former-leumi-ceo-1001342788"
 type: article
 quality: 39
-heat: 39
+heat: -1
+published: false
 
 provider:
   name: globes.co.il
@@ -23,6 +24,38 @@ images:
     height: 392
     isCached: true
 
-secured: "fiA5sMZ/k3jH6QP+pxdVX7RRZ3D/QG2/0Z3yUwY0GA8HibhISTEK+ENt2qEHfJGX06YqA9qm54HBm1PEca18KG5XIZwe9SalPIeYGNvO8/lUFBMTROceUMRFt4LSPEdnGZ8uzW7uFendLEzpaR/tejAHAAPle5gm99DgpBX5F7NT1YAWaAc0SdMiQJ6E2TfNUkJiX5oDVWGqCGnoRMCz2WTxJ68rBeS80tg2DXLcW4yj7AfegwgkZHK5dgMeh+JEiUd38F3DJgNoz8f45/uLvaTyhStHOn1zjdcWfJfJQ019yXc+7w6WUoggMfwAHQjMLP4Z6YC7e0HE3CGuw3K7w82pb9mFg6lVmn0B7uPp5EU=;4EZr5a9jVVkWXRtvVNl8qw=="
+related:
+  - title: "Team8 nabs former Bank Leumi CEO Rakefet Russak-Aminoach for Fintech team"
+    excerpt: "Team8 Fintech will focus on founding, investing and growing fintech companies, the company says; Team8 sets up cyber and data companies, and has a VC arm"
+    publishedDateTime: 2020-09-15T13:41:00Z
+    webUrl: "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/"
+    ampWebUrl: "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 58
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/09/Team8-Fintech-team-e1600079367171-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "Former Bank CEO and Two Fintech Unicorn Entrepreneurs Join Forces with Team8 to Launch New Fintech Venture Powerhouse"
+    excerpt: "PRNewswire/ -- Team8, company-building venture group backed with strategic funding from Microsoft, Walmart, Barclays and Moody's, among others,"
+    publishedDateTime: 2020-09-15T11:19:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/former-bank-ceo-and-two-fintech-unicorn-entrepreneurs-join-forces-with-team8-to-launch-new-fintech-venture-powerhouse-301131054.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1273585/Team8_Fintechs_leadership_team.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
+
+secured: "YzzbWMXdJRlf4tPpoPzD303RjIuNQ5YCyeYdDrOU0ImsU4S8TUilQ5u/etdmzNQ9BDV/69Z56cUhIdjlzyOjuroGR6Y3QsYkQt1+BJdxdyRr+KIPzgE37JyzPUmrvtnNY62O7BZKRCDZRldzJLx7bUzakc91SvkjCmBiUp4v3rkaMytMnQ+wm1GmOLRV+PUWkyiDk8KbYg2dDjRLxgiJyiKWB+FNrwJluK9ILA8b4jk0H59Y6taEgvQ8o9Iz7h6u8TsuZiqjJn+qcVPm9HOEcmKsfVi3tIyKhp+wboRLe89iUsGMykfWkjRybH5dSkebmQDTiips26NhodAquuHW4AA+aXRVjUWGgQSI9nMQb0TqcPHMycHUJdDcuAWESABxDvyi5INCjXzU0qVgOakSkMQ6zckZWXOiP+fU5dOV0QL+LhFxwqlMFX4SQCb3hmDxl8xs0kzGB/F961FKQJovCL8tRckXBzUZ/buNkABNgOQag/KnFTiUK818EHRImmPgaVmh6cidFTLzFmgPBNFwBPUZ9hPG7zXFh5gkLPYVUaM=;JBul7MxAg4pHHWxSRr6mQw=="
 ---
 

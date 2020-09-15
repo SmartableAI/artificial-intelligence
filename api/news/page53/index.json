@@ -2,6 +2,676 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-08-04-deep-learning-on-cell-signaling-networks-establishes-ai-for-single-cell-biology.md",
+      "title": "Deep learning on cell signaling networks establishes AI for single-cell biology",
+      "excerpt": "This field has seen massive progress over the last years. Most notably, deep learning enabled groundbreaking progress in areas such as self-driving cars, computers beating the best human players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/crcf-dlo080420.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/239307_web.jpg",
+          "width": 1440,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-3-ways-artificial-intelligence-will-change-healthcare.md",
+      "title": "3 Ways Artificial Intelligence Will Change Healthcare",
+      "excerpt": "In healthcare, artificial intelligence (AI) can seem intimidating. At the birthday party of a radiologist friend, she gently expressed how she felt her job would be threatened by AI in the coming decade. Yet, for most of the medical profession, AI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25fd2fd8f0e8a4e8cf29d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2084%26cropY1%3D0%26cropY2%3D1172",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
+      "publishedDateTime": "2020-08-04T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages.md",
+      "title": "The ultimate in working from home: Amazon's engineers are building robots in their garages",
+      "excerpt": "The next generation of Amazon's Scout bots – the fully-electric autonomous delivery devices the company is hoping to deploy soon – is currently being designed and built by a team of mechanical engineers in Seattle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/04/a48894c3-dd55-4379-8cd7-4a5c4bac7e0b/jeff-gorges-on-back-patio-in-seattle-testing-updated-drivetrain-for-scout.png",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/",
+      "publishedDateTime": "2020-08-04T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-inspur-nf5488a5-breaks-ai-server-performance-record-in-latest-mlperf-benchmarks.md",
+      "title": "Inspur NF5488A5 Breaks AI Server Performance Record in Latest MLPerf Benchmarks",
+      "excerpt": "and intelligent language processing. About Inspur Inspur Electronic Information Industry Co., LTD is a leading provider of data center infrastructure, cloud computing, and AI solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200804005429/en/Inspur-NF5488A5-Breaks-AI-Server-Performance-Record",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200804005429/en/810139/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
+      "title": "L&T Technology Services expands collaboration with Microsoft to offer workplace transformation solutions",
+      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/08/LT-Technology-Services.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/lt-technology-services-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/2044273/lite/",
+      "publishedDateTime": "2020-08-04T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
+      "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
+      "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "publishedDateTime": "2020-08-04T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
+      "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
+      "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04Virus-Robots-01/04Virus-Robots-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "publishedDateTime": "2020-08-04T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
+      "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
+      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-syntiant-raises-35-million-for-ai-speech-processing-edge-chips.md",
+      "title": "Syntiant raises $35 million for AI speech-processing edge chips",
+      "excerpt": "Syntiant, a startup developing AI and machine learning edge hardware for voice processing, has raised $35 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/004990b4-5a1a-4216-8477-e262b957b5ab-e1596485443668.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
+      "publishedDateTime": "2020-08-04T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures.md",
+      "title": "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures",
+      "excerpt": "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant NDP100(TM) and Syntiant NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
+      "title": "'Deepfakes' ranked as most serious AI crime threat",
+      "excerpt": "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "publishedDateTime": "2020-08-04T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "publishedDateTime": "2020-08-04T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-the-deepmind-scholarship-2020-21.md",
+      "title": "The DeepMind Scholarship 2020-21",
+      "excerpt": "Value: Each DeepMind Scholarship will cover home tuition fees of £10,900, a living allowance of £15,480, an annual £2,000 travel scholarship and a one-off equipment grant of £1,500. The DeepMind Scholarship at Queen Mary University of London is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.qmul.ac.uk/scholarships/items/the-deepmind-scholarship-2020-21-.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Queen Mary University of London",
+        "domain": "qmul.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising.md",
+      "title": "How Machine Learning And Automation Give Brands A Boost In E-Commerce Advertising",
+      "excerpt": "Advertising, in particular, requires a new approach. In my view, e-commerce advertising has changed permanently, and brands should use automation and machine learning to develop effective campaigns. Here's a bit of history. As their understanding of e ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
+      "publishedDateTime": "2020-08-04T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis.md",
+      "title": "Study finds artificial intelligence-enhanced ECGs speed heart failure diagnosis",
+      "excerpt": "WASHINGTON D.C.: When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the cause is heart failure, according to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis-11596539192747.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/PTI29-04-2020_000145B_1593188447489_1596539886462.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html",
+      "publishedDateTime": "2020-08-04T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-cloak-your-photos-with-this-ai-privacy-tool-to-fool-facial-recognition.md",
       "title": "Cloak your photos with this AI privacy tool to fool facial recognition",
       "excerpt": "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ...",
@@ -443,655 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-artificial-intelligence-ai-in-healthcare-market-next-big-thing-major-giants-intel-nvidia-google.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Next Big Thing | Major Giants Intel, Nvidia, Google",
-      "excerpt": "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence (AI) in Healthcare Market Insights, Forecast to 2025\" is designed covering micro level of analysis by manufacturers and key business segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/frc1597088231.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-ai-in-healthcare-market-next-big-thing-major-giants-intel-nvidia-google.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Next Big Thing | Major Giants Intel, Nvidia, Google",
-      "excerpt": "A new business intelligence report released by HTF MI with title “Global Artificial Intelligence (AI) in Healthcare Market Insights, Forecast to 2025” is designed covering micro level of analysis by manufacturers and key business segments. TheGlobal ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2020/08/04/artificial-intelligence-ai-in-healthcare-market-next-big-thing-major-giants-intel-nvidia-google/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-deep-learning-on-cell-signaling-networks-establishes-ai-for-single-cell-biology.md",
-      "title": "Deep learning on cell signaling networks establishes AI for single-cell biology",
-      "excerpt": "This field has seen massive progress over the last years. Most notably, deep learning enabled groundbreaking progress in areas such as self-driving cars, computers beating the best human players ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/20-deeplearning.jpg",
-          "width": 1440,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
-      "publishedDateTime": "2020-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing.md",
-      "title": "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing",
-      "excerpt": "Increasing Adoption of AI Chips in Data Centers to Boost Growt",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
-      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
-      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "publishedDateTime": "2020-08-03T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-the-ethics-of-using-chatbots-for-legal-services.md",
-      "title": "The Ethics Of Using Chatbots For Legal Services",
-      "excerpt": "Delegating legal work to robots involves several risks, including running afoul of statutes dictating unauthorized practice of law, but with the right precautions, law firms can lawfully employ artificially intelligent chatbots that can imitate human conversations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1296973",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1296973",
-      "publishedDateTime": "2020-08-03T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-university-of-chicago-engineers-develop-tool-to-protect-your-photos-from-facial-recognition.md",
-      "title": "University of Chicago engineers develop tool to protect your photos from facial recognition",
-      "excerpt": "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai.md",
-      "title": "Improving speech-to-text transcripts from Amazon Transcribe using custom vocabularies and Amazon Augmented AI",
-      "excerpt": "Businesses and organizations are increasingly using video and audio content for a variety of functions, such as advertising, customer service, media post-production, employee training, and education. As the volume of multimedia content generated by these activities proliferates, businesses are demanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/improving-speech-to-text-1-1.jpg",
-          "width": 1000,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:13:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-this-ai-powered-choose-your-own-adventure-text-game-is-super-fun-and-makes-no-sense.md",
-      "title": "This AI-Powered Choose-Your-Own-Adventure Text Game Is Super Fun and Makes No Sense",
-      "excerpt": "AI Dungeon debuted as a free text adventure game. Now the game’s AI system has been upgraded to GPT-3, or Generative Pre-trained Transformer, which has a language model that uses deep learning to produce human-like text.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bh9ni0rqlv4zfseavxe4.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "publishedDateTime": "2020-08-03T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
-      "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
-      "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
-      "sourceUrl": null,
-      "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png",
-          "width": 1280,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
-      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
-      "publishedDateTime": "2020-08-03T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsJournal",
-        "domain": "paymentsjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "Top 5 Robotics and Artificial Intelligence Stocks To Buy According to Hedge Funds",
-      "excerpt": "What are the best robotics and artificial intelligence stocks to buy today? In this time of uncertainty characterized by volatile market movements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds-868578/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/08/14050949/robot-1635794_1920.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-mit-ai-system-knows-when-to-make-a-medical-diagnosis-or-defer-to-an-expert.md",
-      "title": "MIT AI system knows when to make a medical diagnosis or defer to an expert",
-      "excerpt": "AI can now detect lung, breast, brain, skin and cervical cancer. But in the world of medical AI, figuring out when to rely on experts versus algorithms is still tricky. It’s not simply a matter of who is “better” at making a diagnosis or prediction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ff6d57ac0-d5a4-11ea-8bf7-38a22e990be1&client=amp-blogside-v2&signature=59354a4c2e0eba529c9eb2f13bf61de91a6af999",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-csail-ai-medical-diagnosis-hybrid-163423281.html",
-      "publishedDateTime": "2020-08-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits.md",
-      "title": "New ‘unselfie’ AI technique makes your selfies look like posed portraits",
-      "excerpt": "Researchers have developed an AI technique that transforms selfies into 'pose-neutral' portraits with relaxed arms and torsos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Screenshot252056_photos_v2_x2_photos_v2_x2-e1596470495839_photos_v2_x2-e1596470569733.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
-      "publishedDateTime": "2020-08-03T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws.md",
-      "title": "The Continuing Growth Story of Artificial Intelligence (AI) in Cybersecurity Market | Darktrace, IBM, NVIDIA, Intel, Xilinx, AWS",
-      "excerpt": "The latest 160+ page survey report on Global Artificial Intelligence (AI) in Cybersecurity Market is released by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws-2020-08-03",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Seegrid closes a $52 million round for self-driving industrial vehicles"
+    excerpt: "Seegrid, a company that builds self-driving vehicles to carry materials in industrial environments, has raised a further $27 million in funding."
+    publishedDateTime: 2020-09-15T13:14:00Z
+    webUrl: "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "IwkTXLJhH422B1J5OWxlBlZ27Dsb/ieQ0H0I6on+BHUoxPXNZsxOwdSF15BZVQGkLUZPqHQEa6Jr4O+Y4HWtUvnn7+RIqqtyEFcEOZm4CKGub7qv6h32xk3T/kSqhuu2qeqQbJz7rxtdDNNe8sFW9XEwdBgB9HS3K+leJVQ9LekWMGq3IE0R1Psgp6yIUwaRjuTrd5A1jUOohNqFGku4VfZX0wE9XP/CztyLOJ6p2FBx3ymrmASoUiq7NGkx7zhuhe/CkmAMaO7+XxgvzMGb43INfQ4cQqKSIxnU4SGYnF2icvIV3GqCS61v8tiyKD174vTRImEe1RvOd3HImLR07qMMEBjMkcGc+GuXyWdEvI4=;Pb3iq6ZkIrnEMum40fx2Wg=="
 ---

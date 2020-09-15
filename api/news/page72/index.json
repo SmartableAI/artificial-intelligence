@@ -2,6 +2,683 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
+      "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
+      "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/immervision-Montage_Telephone-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
+      "publishedDateTime": "2020-07-21T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-machine-learning-artificial-intelligence-market-next-big-thing-major-giants-aibrain-amazon-anki-cloudminds.md",
+      "title": "Machine Learning Artificial intelligence Market Next Big Thing | Major Giants AIBrain, Amazon, Anki, CloudMinds",
+      "excerpt": "A New business Strategy report released by HTF MI with title Global Machine Learning Artificial intelligence Market Study Forecast till 2026 This Global Machine Learning Artificial intelligence market report brings data for the estimated year 2020 and forecasted till 2026",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T721816721_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
+      "publishedDateTime": "2020-07-21T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023.md",
+      "title": "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023",
+      "excerpt": "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-how-nasa-built-a-self-driving-car-for-its-next-mars-mission.md",
+      "title": "How NASA Built a Self-Driving Car for Its Next Mars Mission",
+      "excerpt": "Perseverance is significantly more autonomous than any of NASA’s previous four rovers and is designed to be what Philip Twu, a robotics system engineer at NASA’s Jet Propulsion Laboratory, calls a “self-driving car on Mars.” Like the ones on Earth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f15b1cc3be74bc75e5b4ca0/master/pass/Science_Marscomputer_PIA23469-IOTW-full_res.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "publishedDateTime": "2020-07-21T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-smarthops-ai-tool-matches-small-freight-carriers-with-available-loads.md",
+      "title": "SmartHop’s AI tool matches small freight carriers with available loads",
+      "excerpt": "SmartHop, a startup leveraging AI to match small freight carriers with available loads, has secured $4.5 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Smarthop-1.jpg?w=1200&#038;strip=all",
+          "width": 1152,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "publishedDateTime": "2020-07-21T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/ecqg7rq6c6zaep669ex5.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
+      "cdnAmpWebUrl": "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
+      "publishedDateTime": "2020-07-21T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mynewsdesk.com",
+        "domain": "mynewsdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-5-ways-to-reduce-eye-strain-after-staring-at-your-screen-all-day.md",
+      "title": "5 Ways to Reduce Eye Strain After Staring at Your Screen All Day",
+      "excerpt": "Our computer, smartphone, and TV habits put our eyes under a lot of strain every day. Staring at a device that's just inches away from your face can cause pressure between the eyes and even lead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.menshealth.com/health/a33368634/doctor-explains-computer-vision-syndrome/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/m-starting-to-lose-sight-of-success-royalty-free-image-1595268003.jpg?crop=1.00xw:0.752xh;0,0.118xh&resize=1200:*",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.menshealth.com/health/amp33368634/doctor-explains-computer-vision-syndrome/",
+      "cdnAmpWebUrl": "https://www-menshealth-com.cdn.ampproject.org/c/s/www.menshealth.com/health/amp33368634/doctor-explains-computer-vision-syndrome/",
+      "publishedDateTime": "2020-07-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Men's Health",
+        "domain": "menshealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit.md",
+      "title": "Leaders from Google, Adobe, and more talk benefits and bias at the Conversational AI Summit",
+      "excerpt": "An AI-based catalog ordering system for ... it does not recognize how to appropriately translate gender in gendered languages; and some very gender-biased source material, including the Bible ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/voice-recognition.NLP_.GettyImages-1018231894.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/amp/",
+      "publishedDateTime": "2020-07-21T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-d-waves-quantum-computing-cloud-comes-to-india.md",
+      "title": "D-Wave’s quantum computing cloud comes to India",
+      "excerpt": "Canadian quantum computing company D-Wave Systems is launching its cloud service in India ... and software have been used in financial modelling, machine learning and route optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece#!",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/390xp/article32145944.ece/ALTERNATES/LANDSCAPE_615/D-Wavejpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece/amp/",
+      "publishedDateTime": "2020-07-21T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-alipay-allows-pet-owners-to-buy-insurance-by-using-facial-recognition-on-their-cats-and-dogs.md",
+      "title": "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs",
+      "excerpt": "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "publishedDateTime": "2020-07-21T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ameritas-now-offering-enrich-financial-wellness-program-to-employees.md",
+      "title": "Ameritas Now Offering Enrich Financial Wellness Program to Employees",
+      "excerpt": "Ameritas is now offering iGrad’s Enrich™ financial wellness platform to its 2,500 employees nationwide. Ameritas, an insurance, employee benefits and financial services provider, is offering the Enrich online financial literacy platform to its employees through Virgin Pulse,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR.com/dcbe5881f881e89a405cde1e828cb685",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-aws-aws-deepracer-womens-league.md",
+      "title": "AWS เปิดตัว การแข่งขัน AWS DeepRacer Women’s League",
+      "excerpt": "อะเมซอน เว็บ เซอร์วิสเซส อิงค์ (AWS) บริษัทในเครือ Amazon.com เปิดตัวการแข่งขัน AWS DeepRacer Women’s League เป็นครั้งแรกของโลก ในเอเชียตะวันออกเฉียงใต้ โดยเป็นการแข่งขันที่ใช้รถยนต์ย่อส่วนที่ใช้ระบบข",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/s/prg/3143656",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ryt9.com/img/files/20200721/iqe02c36e6aea65e1bf22cb163e472ac87-0.jpg",
+          "width": 795,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-falling-tech-spending-hurts-ibm-wsj.md",
+      "title": "Falling Tech Spending Hurts IBM — WSJ",
+      "excerpt": "IBM wants to be a leading cloud-computing player, but it is behind the competition, led by Amazon and Microsoft ... and other management services, made $3.89 billion of sales during the quarter, down 7%, IBM said. Its Cloud and Cognitive Software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025.md",
+      "title": "Artificial Intelligence Market 2020: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025",
+      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corp(NYSE:IBM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas.md",
+      "title": "QUT researchers using AI-enabled drones to identify koalas in bushfire affected areas",
+      "excerpt": "Researchers from the Queensland University of Technology (QUT) have identified how using AI-enabled infrared drones can help provide more accurate estimates about the number of surviving koalas in bushfire affected areas. The new modelling method has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2014/08/27/a3375578-2dab-11e4-9e6a-00505685119a/koala.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
+      "publishedDateTime": "2020-07-20T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-how-automation-ai-and-analytics-are-driving-martech-amidst-market-challenges.md",
       "title": "How Automation, AI And Analytics Are Driving Martech Amidst Market Challenges",
       "excerpt": "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges.",
@@ -426,693 +1103,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-speech-to-speech-translation-market-2020-precise-outlook-microsoft-corporation-google-inc-alphabet-inc-cheetah-mobile-inc.md",
-      "title": "Speech To Speech Translation Market 2020 Precise Outlook-Microsoft Corporation, Google Inc. (Alphabet Inc.), Cheetah Mobile Inc",
-      "excerpt": "Global Speech To Speech Translation Market, delivering a must-read report for industry stakeholders wanting to understand the strategic landscape of this increasing sector. Readers will find an in-depth analysis of the market and how it will impact existing traditional markets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-to-speech-translation-market-2020-precise-outlook-microsoft-corporation-google-inc-alphabet-inc-cheetah-mobile-inc-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings.md",
-      "title": "Researchers’ AI system strips identifiable attributes like gender from speech recordings",
-      "excerpt": "Researchers propose an AI and machine learning technique that preserves privacy by obfuscating speech recordings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "publishedDateTime": "2020-07-20T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
-      "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
-      "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/querying-open-source-1-1.jpg",
-          "width": 820,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T12:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects.md",
-      "title": "CMU and Facebook AI Research use machine learning to teach robots to navigate by recognizing objects",
-      "excerpt": "Carnegie Mellon today showed off new research into the world of robotic navigation. With help from the team at Facebook AI Research (FAIR), the university has designed a semantic navigation that helps robots navigate around by recognizing familiar objects.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "publishedDateTime": "2020-07-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era.md",
-      "title": "AI maturity: Survey details shift from the early-adopter phase into a new era",
-      "excerpt": "A new Deloitte report details some of the concerns and market factors influencing the future of AI adoption. In the age of digital transformation, an increasing number of organizations are looking to tap artificial intelligence (AI) technologies to streamline day-to-day operations and revolutionize their business models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/20/91108afb-7fb5-4420-81d0-bd58bf3627f1/resize/1200x/7f61b06ef5676206de7ab201658a09d1/deloitte-ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-maturity-survey-details-shift-from-the-early-adopter-phase-into-a-new-era/",
-      "publishedDateTime": "2020-07-20T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts.md",
-      "title": "Aurora expands to Texas in bid to ramp up self-driving truck efforts",
-      "excerpt": "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "publishedDateTime": "2020-07-20T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
-      "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
-      "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-how-automation-ai-and-analytics-driving-martech-amidst-market-challenges.md",
-      "title": "How Automation, AI And Analytics Driving Martech Amidst Market Challenges",
-      "excerpt": "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "publishedDateTime": "2020-07-20T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
-      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
-      "excerpt": "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "publishedDateTime": "2020-07-20T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026.md",
-      "title": "Artificial Intelligence Market Size is Expected to Exhibit 54 billion USD by 2026",
-      "excerpt": "Jul 20, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC adds new research on Artificial Intelligence market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
-      "title": "Why facial recognition algorithms can’t be perfectly fair",
-      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
-          "width": 320,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "publishedDateTime": "2020-07-20T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
-      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
-      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "publishedDateTime": "2020-07-20T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deepminds-ai-automatically-generates-reinforcement-learning-algorithms.md",
-      "title": "DeepMind’s AI automatically generates reinforcement learning algorithms",
-      "excerpt": "In a study published on the preprint server Arxiv.org, DeepMind researchers describe a reinforcement learning algorithm-generating technique that discovers what to predict and how to learn it by ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
-      "publishedDateTime": "2020-07-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-mobile-game-company-artie-releases-demographic-bias-detection-for-voice-technologies.md",
-      "title": "Mobile game company Artie releases demographic bias detection for voice technologies",
-      "excerpt": "Social media mobile game developer Artie has released the Artie Bias Corpus (ABC), a speech dataset that analyzes speech recognition in voice applications to detect demographic bias, writes",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202007/mobile-game-company-artie-releases-demographic-bias-detection-for-voice-technologies",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
-          "width": 900,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi.md",
-      "title": "Global Precision Medical Imaging Market: Propelling due to Growing Research and Development - PMI",
-      "excerpt": "Pfizer decided to work with Boston-based Concerto HealthAI for a collaboration that will apply Concerto's eurekaHealth artificial intelligence technology to precision oncology research.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi-1029410565",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

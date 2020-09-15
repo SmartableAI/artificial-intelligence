@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech and Voice Recognition Market Company Share Analysis, Growth and Forecast 2020 to 2030"
+    excerpt: "The Global Speech and Voice Recognition Market size was estimated to be US$ 7.8 billion in 2019. The Speech and"
+    publishedDateTime: 2020-09-11T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "Natural Language Processing Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2027"
     publishedDateTime: 2020-09-11T03:06:00Z

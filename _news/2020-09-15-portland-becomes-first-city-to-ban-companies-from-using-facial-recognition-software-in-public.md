@@ -47,22 +47,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Portland Passes Strongest Facial-Recognition Restriction in U.S."
-    excerpt: "The Portland City Council passed sweeping curbs that will ban businesses from using the AI-based tools in retail stores and other public spaces, going beyond restrictions elsewhere on government use."
-    publishedDateTime: 2020-09-10T19:32:00Z
-    webUrl: "https://www.wsj.com/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367?mod=tech_lead_pos7"
-    ampWebUrl: "https://www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/portland-passes-strongest-facial-recognition-restriction-in-u-s-11599748367"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-230642/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "We need clear rules for facial recognition tech"
     excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"
     publishedDateTime: 2020-09-11T10:00:00Z

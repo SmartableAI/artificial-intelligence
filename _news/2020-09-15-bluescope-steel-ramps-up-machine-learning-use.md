@@ -1,29 +1,23 @@
 ---
 category: news
-title: "BlueScope Steel ramps up machine learning use"
-excerpt: "BlueScope Steel is honing a series of machine learning models that are being put to work improving quality and reducing waste in its manufacturing operations. The company said in its sustainability report [ pdf] that the use of machine learning and artificial intelligence is occurring within the context of a broader internal push to drive up its digital capabilities."
-publishedDateTime: 2020-09-15T02:21:00Z
-originalUrl: "https://www.itnews.com.au/news/bluescope-steel-ramps-up-machine-learning-use-553324"
-webUrl: "https://www.itnews.com.au/news/bluescope-steel-ramps-up-machine-learning-use-553324"
+title: "BlueScope Steel Ramps Up Machine Learning Use"
+excerpt: "BlueScope Steel is honing a series of machine learning models that are being put to work improving quality and reducing waste in its manufacturing operations. The company said in its sustainability report that the use of machine learning and artificial intelligence is occurring within the context of a broader internal push to drive up its digital capabilities."
+publishedDateTime: 2020-09-15T11:44:00Z
+originalUrl: "https://steelguru.com/steel/bluescope-steel-ramps-up-machine-learning-use/563240"
+webUrl: "https://steelguru.com/steel/bluescope-steel-ramps-up-machine-learning-use/563240"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: IT News For Australia Business
-  domain: itnews.com.au
+  name: Steel News
+  domain: steelguru.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://i.nextmedia.com.au/News/20200915121752_Bluescope.png"
-    width: 570
-    height: 419
-    isCached: true
-
-secured: "g22HXc0N9lJR5LyNKGCOoJPpGwf/za7TVJAS6Tm6C7AiHWyKJw3uwYyZWTvYNYQlBAZNoxzyB6HkxDmhtElYo9UsIz9eyu4qAQvt/MJ0/sZ2xgt/6eAwDhzGZ/9cThgZ6A1/SYWqYocZepadLdlL5zzF/4pIuY6XqNm53P4bEt2nEYpiKVai4XSxZTxPeAdZUr+LKCYJRFz21nVzujn0FYZzDktXEBSHHFfRMmVWQCTprKd+SL98ES5IFFLDyGRKE1iCepUzyaIuu4lxHG5BfMpQqkXBZKTzmi8UCtE3Vx/WD7KVppJ2naxanOWW1U0aduwmZHaNysUhMWD2KaXKNyVkG8AKXqM03VEiYmZlDdWGJCV0zCowjUAmw0xLzPqryzvJbOWaSB/s4qjTBzP7r9fRVYz4FYapnNv0iMRCnlUV5OoJBApfpvlmQnJgU9Sm06M8Qwxafu7tsTAU16GcS2GZbszX2DhRRGyCaoC0ztMWi4xG/JAaI+L1Uzg2jSOA77MAXDibK7YVCNUL4e5Rww==;/wsQT1GpGiEyYIdLZQ7MeQ=="
+secured: "RKYJuK4Gso6f7630PfeXWet386tJTlbOFYKfS4Gvy52qyNSKGc86cEry7q9hX2UeWiC+gDocyybmFiOeXY3PwVgvqh0LXVO+lWfYD22+2orycUHIfpzS/bJ/I2mfSvUdvc2pmYZ1vpo4EwmZcqLVaI09V5isv+bVeOOgLO+m8+KmCLulbW+23yIB00xfI2e4o6HiCW7EncckBMMTgsdPtVM0cDYUWzCcz4XdPYt3tXHm1i06e2Y5Qeg+nqDZUT/8y3vi5W7IEDqfo7z4lscurR1vMmHqtrPAp3wauXDOI9/1RrwwZ01P8Y1Oy2xUtcE3sjDiKQeWFuaUOsk7vWWnFfzOqKKhZl4G0opIe3r5Fw1TpUZVjDKRIyCDqCgZvRGo8fr9t+AUzxoYK80dajIquKScxCPxzqyXIYncHzEraVlXdD7ZkbSQluL9F20pnwY9bRCF/+4KdFpCxOR97sK5KnINNnKPWmPMy1F1caehos1LUl4yaegUbaq9OgLgCk0QEHCVvTZ0fLANu6YMKeByvAtK3YyOy4ZHsUcE6tJ57tc=;lOtbtZgjIXBfsuSQcZDL6w=="
 ---
 

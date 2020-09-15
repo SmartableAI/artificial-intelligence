@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-15-indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery.md",
+      "title": "Indian eCommerce player Snapdeal uses robots for last-mile delivery",
+      "excerpt": "Snapdeal says it joined hands with autonomous mobility startup Ottonomy IO to complete last-mile delivery on orders that were placed from select locations in the Delhi NCR region. The packages that were delivered to the doorstep also were sanitized on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "originalUrl": "https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
+      "publishedDateTime": "2020-09-15T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-ai-robot-serves-customers-at-seoul-restaurant.md",
+      "title": "A.I. robot serves customers at Seoul restaurant",
+      "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "publishedDateTime": "2020-09-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
       "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
       "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
@@ -1222,89 +1322,6 @@
       "provider": {
         "name": "TODAY",
         "domain": "today.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
-      "title": "Space the place for Irish AI chip as PhiSat-1 satellite blasts off",
-      "excerpt": "An artificial intelligence (AI) processing chip developed in Ireland has been included on board a satellite that blasted off into space from French Guiana early this morning. The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how on-board deep-learning technology can speed up the rate at which observation data is processed and transmitted to Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "originalUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "publishedDateTime": "2020-09-03T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-nitda-set-to-establish-centre-for-artificial-intelligence-robotics.md",
-      "title": "NITDA set to establish centre for Artificial Intelligence, robotics",
-      "excerpt": "In a bid to achieve a robust digital economy, the NITDA is set to establish a Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "originalUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/EDoWmv9WwAAdlQf.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/amp/",
-      "publishedDateTime": "2020-09-03T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
         "images": null,
         "publishers": null,
         "authors": null

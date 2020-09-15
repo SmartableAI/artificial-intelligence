@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-
 webUrl: "https://www.reuters.com/article/us-israel-gulf-emirates-education-idUSKBN26408Q"
 type: article
 quality: 45
-heat: 75
+heat: 45
 published: false
 
 provider:

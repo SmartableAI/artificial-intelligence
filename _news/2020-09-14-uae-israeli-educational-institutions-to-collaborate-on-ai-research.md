@@ -56,6 +56,20 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "US DoD to focus spending on commercial IT advances in artificial intelligence and cloud computing"
+    excerpt: "Procurement will overtake research, development, test and evaluation (RDT&E) for the largest share of spending by 2024, says Frost & Sullivan"
+    publishedDateTime: 2020-09-15T13:26:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/us-dod-to-focus-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-260450/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 24
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2020/09/US_DoD_C4ISR_Market-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
     excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
     publishedDateTime: 2020-09-10T23:36:00Z
@@ -70,6 +84,15 @@ related:
         width: 2699
         height: 1414
         isCached: true
+  - title: "Elsevier and Pending.AI collaborate on AI-driven chemistry retrosynthesis tool"
+    excerpt: "Elsevier, a global research publishing and information analytics provider, is collaborating with Pending.AI (PAI), a start-up focused"
+    publishedDateTime: 2020-09-15T13:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/elsevier-and-pendingai-collaborate-on-ai-driven-chemistry-retrosynthesis-tool-301127890.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
   - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
     excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
     publishedDateTime: 2020-09-14T13:12:00Z
@@ -84,15 +107,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing Reports Frost & Sullivan"
-    excerpt: "Despite the COVID-19 pandemic outbreak, the expenditure is not expected to create a long-term negative impact on the C4ISR program Frost & Sullivan’s recent analysis, Assessment of the US DoD C4ISR Market,"
-    publishedDateTime: 2020-09-10T18:30:00Z
-    webUrl: "https://www.newswiretoday.com/news/173626/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "xqmIBFhNv2VAMp4AXyQL5D1Erl8bN5f+gij5OxlF/4w8SREsj70F3RYlD8GKrxfShMWnApK1f704U2NVOyCFRE0+7fk4Q7QWMOcE7nrEJnesQ9hjm28xVo0hNngEMidO9/J4Tt2HOA4EifICAf6rzpFKxyxr2H2j8gFGJOAcRNxTkOBPOiaGvoWtxnWkZPvn7gMUauvfVh7Ja5KXwxBUCn/g0ByVe5ANsb3tdnb6rFgBqwjaFlxr6VSiagjfU0Gz9MKeUm6AEgyQHvG8/pDpxUrPm4VGGGx5994AES7Vft30mpUhY3q1W2TEZ2d9apArmMXPp6+DISzr9CgmM+sgj7bvErKsv2ZBVCw5NY671f8=;jYrRLaA/luU8Rdhvd1O/xg=="
 ---

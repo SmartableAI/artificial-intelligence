@@ -7,7 +7,8 @@ originalUrl: "https://www.sify.com/finance/snapdeal-tests-last-mile-online-deliv
 webUrl: "https://www.sify.com/finance/snapdeal-tests-last-mile-online-delivery-with-ottonomy-io-robots-news-topnews-ujplkCfjhhdfe.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
+published: false
 
 provider:
   name: Sify.com
@@ -16,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Indian eCommerce player Snapdeal uses robots for last-mile delivery"
+    excerpt: "Snapdeal says it joined hands with autonomous mobility startup Ottonomy IO to complete last-mile delivery on orders that were placed from select locations in the Delhi NCR region. The packages that were delivered to the doorstep also were sanitized on the way."
+    publishedDateTime: 2020-09-15T11:31:00Z
+    webUrl: "https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+    ampWebUrl: "https://www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xrMPe/ybAgsxT2cKbvaVBhv7Z7mP0kXqgnnxxpiwHHmLU5TPld1/0fJIB9DPL/jS6rPqrDvN46upfYgDsDYWL1fQv4ovaTzQVGuBaIbwQIS96wKRKFwg02xHY4LmCTCiNt8fsNd7BlRoWBOu3gNdvSPYBDFDQkN1JEmkFVWcWOGrS3goonj49TdjqlMv7TVmy4ot1eo7/M1uztpcDICUwQUKS78SNk5jiZbXVeHOJgtDfsIR2Rf948itI2XkgHQlt5xO3RtokvuoZKz+Ta67PJZ3tynYk0B2LD0Xaas2DGa7qffQ5NdSoS8xmD45lfutaED0Td0AfgsB4UgqyGx2b4tvSJdgcWejedDXwECG6PA=;Q2qDx8P30pPzfk4pCEY/wQ=="
 ---

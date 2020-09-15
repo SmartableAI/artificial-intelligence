@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.co
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: InfoWorld
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "zaoWMhRrP3xwcL2xFudID2TsqowAa/9p0gNX+O+0G9a7jBg8efHTGC/ftC7ZqQdL2Mh09LguWok1Pqm1CLDHMZnJZD/O6tAHXXjllDwUGCNjpxeClVtK4IthE4ktgsNcNPPbJn9wHsORrBplAx8eeZbDV1LSluZZAfxOuLUdsXROEknLkxBdf+RpHzf5k9ZF8L+mg427eAblEh01qcTdUFl+QVJjvxGLaxsaRxRsSwQH6zxZTETC/dw3AhvK4eYCgKhymKOp1BTy+dNrlH4tCVEFEcjmDBujj5ULeNltNfQJFkXQgyquj7zNO/6zKsyQw9jGfXJ8ZWV6Mt51PCQ33fU5xANMmMarjaWlwSiKthw=;Dt48GFl/GTkWWmd/OFIUVA=="
+secured: "Utq7z6AyLepHNycS7ePjnA8oe5rIwIOYRmj0PWxz9SEczsT8FAJPULoJ2qMxsDloXZ/gzuvOAoTsYsP1GATlgB/B+ZyMlFiKoFTp60FAU2kKMnQO9OLmziH0SrZtoIuG5ZpZsB+2Uwk52R3uZ2sSdT0e7m0/73t/Vb7xR6xNLwc5tpVuYMwN8YADr/Tahz5tw5my3JZuDRsYxhMyslmfTt28nHBkzw86Uib3ieeBn3QN35dB0J186l6l1FU50tWZYlkJMepBnsk8lsjuWtQei4xUOddyLaHY2Gz8BV8BMPGJbHusMQ9WvqAUSVOuECW5gwMeA5hiw1agoU0lNjthkmW7quGsWthhdWiskwydOQrCzTxaGdR/EoQZZIKW1hFsER9XxU79YOk9fcQVSifiuB+Svu2F9CYNKL+TTww40r0D5IhXwzSpAE7WEg+2MHd9ItGUmSFXH776u3AA8CBYO5ErhKJPiIPiIR1C4HuLIr00+psEVhapETvAWnISVywCIb8QtW3B63CP5OBSBcRvAh3UKJISSeR2nPqvdIRseDI=;FHwKOPV21eyt5Orw6ahCHQ=="
 ---
 

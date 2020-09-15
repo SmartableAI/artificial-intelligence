@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/digital-marketing/why-digital-tra
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/why-digital-transformation-always-needs-to-start-with-customers-first-02345305/amp"
 type: article
 quality: 42
-heat: 52
+heat: 42
 published: false
 
 provider:

@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-15-team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team.md",
+      "title": "Team8 nabs former Bank Leumi CEO Rakefet Russak-Aminoach for Fintech team",
+      "excerpt": "Team8 Fintech will focus on founding, investing and growing fintech companies, the company says; Team8 sets up cyber and data companies, and has a VC arm",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
+      "originalUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2020/09/Team8-Fintech-team-e1600079367171-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/",
+      "publishedDateTime": "2020-09-15T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-us-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks.md",
       "title": "U.S. Fintech Flaist Unveils Conversational AI Tool “EVA” For Credit Unions, Community, & Regional Banks",
       "excerpt": "Flaist, a U.S.-based fintech startup, announced on Monday the launch of its new AI tool, Eva, which helps credit unions, community, and regional banks better serve their existing customers and compete for new customers with larger financial institutions.",
@@ -50,7 +91,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -667,32 +708,23 @@
     {
       "path": "_news/2020-08-31-dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study.md",
       "title": "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study",
-      "excerpt": "Financial Services, Healthcare, and Education are the industries that place greater importance on data science and machine learning. By function, Research and Development, the BI Competency Center ...",
+      "excerpt": "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T06:10:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17307001",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17307001",
+      "publishedDateTime": "2020-08-31T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1368,47 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-how-ai-machine-learning-is-infiltrating-the-fintech-industry.md",
-      "title": "How AI & Machine Learning is Infiltrating the Fintech Industry?",
-      "excerpt": "It uses technology to offer improved financial services and solutions. How AI and machine learning are making ways across industries, including fintech? It’s an important question in the business world globally. The use of artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://customerthink.com/how-ai-machine-learning-is-infiltrating-the-fintech-industry/",
-      "originalUrl": "https://customerthink.com/how-ai-machine-learning-is-infiltrating-the-fintech-industry/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/statistic-1564428_1280-pixabay-analytics-1.png",
-          "width": 1280,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.altfi.com/article/7033_fintech-can-help-women-entrepre
 webUrl: "https://www.altfi.com/article/7033_fintech-can-help-women-entrepreneurs-thrive-through-covid-19"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
-      "title": "NVIDIA AI Runs The Mlperf Table Again",
-      "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21b4a80cd05964d6fae2b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-elon-musk-says-deepmind-is-his-top-concern-when-it-comes-to-ai.md",
       "title": "Elon Musk says DeepMind is his 'top concern' when it comes to A.I.",
       "excerpt": "Elon Musk believes that DeepMind is a \"top concern\" when it comes to artificial intelligence.  The Tesla and SpaceX boss made his comments in an interview with The New York Times.  Musk invested in DeepMind before it was acquired by Google in 2014.",
@@ -1378,7 +1326,57 @@
         "AI",
         "Google AI"
       ]
+    },
+    {
+      "path": "_news/2020-07-10-deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive.md",
+      "title": "DeepMind's 'StarCraft' Victory Was as Worrying as It Was Impressive",
+      "excerpt": "At the risk of underselling everything that preceded it, the real Oh Shit moment of DeepMind’s StarCraft II demonstration didn’t arrive until the ninth game. To be fair, the entire event had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/5c5b566ffdd31300072783c6/lede/1549489801706-LegacyoftheVoid2.png?crop=1xw:0.9302325581395349xh;center,center",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

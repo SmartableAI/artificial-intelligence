@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3574950/answering-key-questions-about-
 webUrl: "https://www.cio.com/article/3574950/answering-key-questions-about-the-virtualization-of-hpc-and-ai-workloads.html"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Google claims its AI is becoming better at recognizing breaking news and misinformation"
-    excerpt: "Google says its automated systems are becoming better at recognizing breaking news and detecting false and misleading information."
-    publishedDateTime: 2020-09-10T20:09:00Z
-    webUrl: "https://venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/"
-    ampWebUrl: "https://venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/google-claims-its-ai-is-becoming-better-at-recognizing-breaking-news-and-misinformation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1597400634849.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mFqFEzX28V7Z6dEQJi0AVvshctlvFCtTn2eaCuyz6DT/FI9gmEHpEfLgaw+PXN2ifLXtMHFNmM+QeBn8geEtbnwzoAqA+6lroxJQhOjIMny6/mL+4MCtlw9OJl98ZZsy+jzNL/zBLw8FmO3GPreZzL46NZW9AlRO9Zb9BGOHM/azc5TIVppKOvk2uuesDHOBNkD7xuH/Fndek/IzDoQt0A5TPicc2a26/pwDJONu3x41ugZ6Yjp689460GZ7ArZ4zzfz2F72CE8yrAJWJagLNtyYpwMaNJtv8vSGOrdQIbU/fVbxblFRP+DVTiieGttKOhaqgui+TONl8Ep6BlpzYcPT4r+bd3TguOsmzbQrEL4=;TtmetlDkxv6HRY5oc9LEpA=="
 ---

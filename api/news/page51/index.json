@@ -2,6 +2,685 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-08-05-building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa.md",
+      "title": "Building a Pictionary-style game with AWS DeepLens and Amazon Alexa",
+      "excerpt": "Are you bored of the same old board games? Tired of going through the motions with charades week after week? In need of a fun and exciting way to mix up game night? Well we have a solution for you! From the makers of AWS DeepLens, Guess My Drawing with DeepLens is a do-it-yourself recipe […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/03/alexa-pictionary-1.jpg",
+          "width": 787,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T08:44:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-expert-system-raises-294-million-for-ai-text-extraction-and-analysis.md",
+      "title": "Expert System raises $29.4 million for AI text extraction and analysis",
+      "excerpt": "Expert System has raised $29.4 million to bolster the development of its natural language processing technologies for enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "publishedDateTime": "2020-08-05T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
+      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
+      "excerpt": "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-sight-diagnostics-raises-71-million-for-blood-testing-computer-vision.md",
+      "title": "Sight Diagnostics raises $71 million for blood-testing computer vision",
+      "excerpt": "It first “digitizes” blood into over 1,000 high-resolution colored microscope images, and then it runs computer vision algorithms trained on half a petabyte of anonymized data from four years ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/sight1-e1595963985900.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
+      "publishedDateTime": "2020-08-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
+      "title": "How Blockchain Benefits From Artificial Intelligence",
+      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "publishedDateTime": "2020-08-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
+      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
+      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
+      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
+      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
+      "title": "Why organizations might want to design and train less-than-perfect AI",
+      "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "originalUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/imperfect-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
+      "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
+      "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Platform_angle_full.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/amp/",
+      "publishedDateTime": "2020-08-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
+      "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
+      "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "publishedDateTime": "2020-08-05T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems.md",
+      "title": "Bulawayo based firm partners with Chinese company on facial recognition systems",
+      "excerpt": "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg",
+          "width": 665,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/",
+      "publishedDateTime": "2020-08-05T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techzim",
+        "domain": "techzim.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine.md",
+      "title": "Deep Learning Market 2019 Demand Industry Growth by Forecast to 2024 – Market Research Engine",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020.md",
+      "title": "Behavioral Signals Named as a Sample Vendor in the Gartner Hype Cycle for Natural Language Technologies, 2020",
+      "excerpt": "Natural language process (NLP), Large-Scale Pretrained Language Model, Natural Language Processing(NLP) and Natural Language Understanding also have similar adoption rates. Emotion AI technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "publishedDateTime": "2020-08-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Innovations, Trends, Technology And Applications Market Report To 2020-2025",
+      "excerpt": "Artificial Intelligence (AI) refers to the creation ... clinical practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-ai-chip-market-set-for-rapid-growth-to-reach-cagr-of-over-449-by-2030-nvidia-xilinx-ibm.md",
+      "title": "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM",
+      "excerpt": "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india.md",
       "title": "Airtel, AWS join hands to accelerate digital transformation of business in India",
       "excerpt": "New Delhi: Bharti Airtel (“Airtel”), one of India’s largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India.",
@@ -407,708 +1086,6 @@
         "AI",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-safely-deploying-and-monitoring-amazon-sagemaker-endpoints-with-aws-codepipeline-and-aws-codedeploy.md",
-      "title": "Safely deploying and monitoring Amazon SageMaker endpoints with AWS CodePipeline and AWS CodeDeploy",
-      "excerpt": "As machine learning (ML) applications become more popular, customers are looking to streamline the process for developing, deploying, and continuously improving models. To reliably increase the frequency and quality of this cycle, customers are turning to ML operations (MLOps), which is the discipline",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/safely-deploying-and-monitoring-amazon-sagemaker-endpoints-with-aws-codepipeline-and-aws-codedeploy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/deploy-monitor-sagemaker-endpoints-5-2.jpg",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T16:06:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.md",
-      "title": "Anthony Levandowski Gets 18 Months in Prison for Stealing Google Self-Driving Car Files",
-      "excerpt": "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/reuters/2020/08/04/business/04reuters-autonomous-uber-levandowski.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025.md",
-      "title": "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025",
-      "excerpt": "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deep-learning-tech-firm-syntiant-raises-35m-in-series-c.md",
-      "title": "Deep Learning Tech Firm Syntiant Raises $35M In Series C",
-      "excerpt": "Syntiant CEO Kurt Busch said in the announcement, “It is a tremendous honor to know that some of the world’s leading tech investors are supporting our growth stage, as we deliver our deep learning voice solution to customers across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pymnts.com/wp-content/uploads/2020/08/deep-learning-funding-tech-innovation-457x305.jpg",
-          "width": 457,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
-      "publishedDateTime": "2020-08-04T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode.md",
-      "title": "Multi-GPU and distributed training using Horovod in Amazon SageMaker Pipe mode",
-      "excerpt": "There are many techniques to train deep learning models with a small amount of data. Examples include transfer learning, few-shot learning, or even one-shot learning for an image classification task and fine-tuning for language models based on a pre-trained BERT or GPT2 model. However, you may still",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/28/multi-gpu-distributed-training-2-2.jpg",
-          "width": 600,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T14:48:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-the-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as the most serious AI crime threat",
-      "excerpt": "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "publishedDateTime": "2020-08-04T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate.md",
-      "title": "IDC: AI market revenues continue to grow but at a slower rate",
-      "excerpt": "IDC has said that it expects to see worldwide revenue in the artificial intelligence (AI) market rise this year by around 12.3% compared to 2019. With the increase factored in, the analyst said that the market could see $156.5 billion in revenue this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/08/1596574155_1920px-international-data-corporation-logo.svg_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "publishedDateTime": "2020-08-04T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-behind-the-code-meet-young-suk-lee.md",
-      "title": "Behind the Code: Meet Young-Suk Lee",
-      "excerpt": "\nYoung-Suk Lee first learned about machine translation while studying English linguistics and literature. Now as a machine translation developer, she works on the multilingual systems that power Watson Language Translator. We talked to her about her first exposure to machine learning tech, the themes",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/2020_07_28_Blog_BehindTheCode_YoungSukLee_Leadspace.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T14:17:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-helps-doctors-fight-covid-19-in-brazil.md",
-      "title": "AI Helps Doctors Fight Covid-19 in Brazil",
-      "excerpt": "Under-testing remains a huge problem in the sprawling South American country, but AI is helping fill the gap, thanks to a system called RadVid-19 developed using algorithms from German company Siemens and Chinese firm Huawei. Brazil has been hit harder by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/Virus.Favela-scaled.jpg?fit=2560%2C1707&#038;ssl=1",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "publishedDateTime": "2020-08-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection.md",
-      "title": "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection",
-      "excerpt": "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook",
-          "width": 1645,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-university-of-chicago-researchers-are-building-a-tool-to-protect-your-pictures-from-facial-recognition-systems.md",
-      "title": "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems",
-      "excerpt": "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
-      "publishedDateTime": "2020-08-04T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
-      "title": "Federal bill would ban corporate facial recognition without consent",
-      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "publishedDateTime": "2020-08-04T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models.md",
-      "title": "The problem of underrepresented languages snowballs from data sets to NLP models",
-      "excerpt": "Just how comprehensively do natural language processing (NLP) pipelines support widely spoken languages? A recent study coauthored by researchers at Clarkson University and Iona College sought to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "publishedDateTime": "2020-08-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-bernie-sanders-and-jeff-merkley-have-a-plan-to-protect-you-from-facial-recognition.md",
-      "title": "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition",
-      "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
-      "publishedDateTime": "2020-08-04T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
-      "title": "Key brain region was 'recycled' as humans developed the ability to read",
-      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,702 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-08-15-black-lives-matter-activist-hunted-by-nypd-facial-recognition-technology.md",
+      "title": "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology",
+      "excerpt": "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1",
+      "publishedDateTime": "2020-08-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-the-morning-after-ai-generated-video-plays-out-fake-wimbledon-matchups.md",
+      "title": "The Morning After: AI-generated video plays out fake Wimbledon matchups",
+      "excerpt": "This morning we're looking back at some of the week's biggest stories, while the Engadget Podcast discusses the Surface Duo and Galaxy Watch 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/vid2play-morning-after-130536768.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fe0e5ece2-def5-11ea-b4fe-1992d9bc5345&client=amp-blogside-v2&signature=740a5926f6d87aa58f4b1b747c8b7ced9558ca28",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/vid2play-morning-after-130536768.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/vid2play-morning-after-130536768.html",
+      "publishedDateTime": "2020-08-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-elon-musk-says-tesla-developing-neural-network-training-computer-for-full-self-driving.md",
+      "title": "Elon Musk Says Tesla Developing Neural Network Training Computer for Full Self-Driving",
+      "excerpt": "With a complete overhaul of the Tesla autopilot software, full self-driving capabilities will be possible as the AI will be able to interpret traffic signals, turns and stops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "originalUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
+          "width": 923,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
+      "publishedDateTime": "2020-08-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-controversial-face-recognition-firm-clearview-ai-is-teaming-up-with-ice.md",
+      "title": "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE",
+      "excerpt": "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
+      "originalUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
+      "featuredContent": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp",
+      "publishedDateTime": "2020-08-15T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
+      "title": "With self-driving tech was new, a road trip paved the way",
+      "excerpt": "Neither was driving. The van, a 1990 Pontiac Trans Sport dubbed “Navlab 5,” was loaded up with the latest self-driving technology developed at CMU. Its pilot was called the Rapidly Adapting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
+      "originalUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-15T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The State",
+        "domain": "thestate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-how-the-us-department-of-health-human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek.md",
+      "title": "How The US Department Of Health & Human Services (HHS) Is Innovating With AI: An Interview With Oki Mek",
+      "excerpt": "Oki Mek, Senior Advisor to HHS CIO shares how HHS is adopting and implementing AI, how adoption of new technologies in the public sectors differs from the private sector, and challenges to AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2deca07b28103b194d017c%2F0x0.jpg",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/amp/",
+      "publishedDateTime": "2020-08-14T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
+      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-an-introduction-to-natural-language-processing-with-python-for-seos.md",
+      "title": "An Introduction to Natural Language Processing with Python for SEOs",
+      "excerpt": "Natural language processing (NLP) is becoming more important than ever for SEO professionals. It is crucial to start building the skills that will prepare you for all the amazing changes happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "originalUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
+      "publishedDateTime": "2020-08-14T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
+      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
+      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "publishedDateTime": "2020-08-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
+      "title": "Clearview AI landed a new facial recognition contract with ICE",
+      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "publishedDateTime": "2020-08-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-automl.md",
+      "title": "Настройка гиперпараметров и AutoML",
+      "excerpt": "В приведенном ниже комплексном примере записной книжки с помощью Hyperopt и SparkTrials выполняется параллельный перебор гиперпараметров для одновременного обучения нескольких моделей.The following en",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/ru-ru/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-optimalizace-hyperparametru-a-automl.md",
+      "title": "Optimalizace hyperparametrů a AutoML",
+      "excerpt": "AutoML (automatizované strojové učení) označuje automatizaci procesu vývoje modelů strojového učení. Databricks Runtime pro Machine Learning zahrnuje MLflow a Hyperopt. Tyto dva opensourcové nástroje",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/cs-cz/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-imx-8m-plus-features-dedicated-neural-net-processing-unit.md",
+      "title": "i.MX 8M Plus Features Dedicated Neural-Net Processing Unit",
+      "excerpt": "The NPU uses ML models to process streaming mutltimedia data. This allows the i.MX 8M Plus to manage chores like object recognition for public safety, industrial machine vision, robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit",
+      "originalUrl": "https://www.electronicdesign.com/technologies/iot/article/21119867/imx-8m-plus-features-dedicated-neuralnet-processing-unit",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/01/CES_NXP_iMX8Mplus_Promo.5e13c52cbcac8.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system.md",
+      "title": "Military takes robot interaction to the next damn level with new speech recognition system",
+      "excerpt": "Waking up Alexa or Google with a question works well enough in the relatively unchanging home environment. But when trying to control robots in a combat environment, asking Alexa politely to find",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system",
+      "originalUrl": "https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg",
+          "width": 1600,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence.md",
+      "title": "How Facebook’s Yann LeCun is charting a path to human-level intelligence",
+      "excerpt": "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-14T190320.489-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
+      "publishedDateTime": "2020-08-14T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-quantum-computing-what-does-it-mean-for-ai-artificial-intelligence.md",
       "title": "Quantum Computing: What Does It Mean For AI (Artificial Intelligence)?",
       "excerpt": "So then what is quantum computing? Well, it is similar to traditional computing, which relies on bits—that is, the 0’s and 1’s to encode information. But quantum computing as its own version of this: the quantum bit or qubit.",
@@ -448,678 +1144,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
-      "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
-      "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "cdnAmpWebUrl": "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp",
-      "publishedDateTime": "2020-08-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nerdist",
-        "domain": "nerdist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return.md",
-      "title": "AI, analytics, and NLP are valuable, despite lack of obvious financial return",
-      "excerpt": "Instead of focusing on return to business, consider how technologies can give your business a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-analytics-and-nlp-are-valuable-despite-lack-of-obvious-financial-return/",
-      "publishedDateTime": "2020-08-14T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai.md",
-      "title": "Problematic study on Indiana parolees seeks to predict recidivism with AI",
-      "excerpt": "A four-year effort to monitor parolees in Indiana with bracelets and use AI algorithms to predict their behavior raises red flags.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/d7b050fc-6639-41e3-b2d3-3a13a7ee0bc2-e1597361985605.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
-      "publishedDateTime": "2020-08-14T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
-      "title": "Baidu’s revenue shrinks under pressure from ByteDance in ads",
-      "excerpt": "INTERNATIONAL - Baidu’s quarterly revenue shrank 1 percent ... and betting on the commercialization of that through smart speakers and self-driving cars. Revenue from new AI businesses including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164",
-      "originalUrl": "https://www.iol.co.za/business-report/international/baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads-853974b1-4538-4ce6-8fc2-9ea2d4455164",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/783x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/22ebffae-4179-5eae-903a-75b7b166d70e&operation=CROP&offset=0x0&resize=782x440&webp=false",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence.md",
-      "title": "Predictive Oncology Announces DojoLIVE! Interview with Helomics CIO Mark Collins, ‘Can We Cure Cancer with Artificial Intelligence?’",
-      "excerpt": "Helomics applies artificial intelligence to its rich data gathered ... by providing an evidence-based roadmap for therapy. In addition to its proprietary precision oncology platform, Helomics ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence-1029504873",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/predictive-oncology-announces-dojolive-interview-with-helomics-cio-mark-collins-can-we-cure-cancer-with-artificial-intelligence-1029504873",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-urban-autonomy-the-next-stage-of-self-driving.md",
-      "title": "Urban Autonomy: The Next Stage Of Self-Driving",
-      "excerpt": "Driving on city streets versus the highway presents an exponentially more complicated situation stemming from the visual perception problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
-      "publishedDateTime": "2020-08-14T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc.md",
-      "title": "Image Recognition Market Volume, Revenue, PESTEL Analysis, CAGR and SWOT Study|Attrasoft Inc, NEC Corporation, Google Inc",
-      "excerpt": "Analysis of Major Manufacturers of Image Recognition across the world: Examination of every Company profiles, picture of the object and details, sales, preceding costs, income, Gross Margin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/579198/image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc/",
-      "originalUrl": "https://www.eturbonews.com/579198/image-recognition-market-volume-revenue-pestel-analysis-cagr-and-swot-studyattrasoft-inc-nec-corporation-google-inc/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg",
-          "width": 350,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-taking-a-stand-in-uncertain-times-with-ai.md",
-      "title": "Taking A Stand In Uncertain Times With AI",
-      "excerpt": "This moment in time has uncovered just how crucial AI solutions can be for the future of healthcare. Rapid changes have made it difficult to manage the pandemic’s spread and determine what the industry will look like after coming through the other side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
-      "publishedDateTime": "2020-08-14T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-son-of-minnesotas-attorney-general-i-hereby-declare-officially-my-support-for-antifa.md",
-      "title": "Son of Minnesota’s attorney general: 'I hereby declare, officially, my support for ANTIFA'",
-      "excerpt": "Jeremiah Ellison, who is a member of the Minneapolis ... tweeting in 2018 about a book promoting it. In a post on Twitter, Ellison said that he found the book \"Antifa: The Anti-Fascist Handbook ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/yoda69?lang=en",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-natural-language-processing-market-is-growing-significantly-google-ibm-microsoft-intel-apple-aws-facebook-and-others.md",
-      "title": "Natural Language Processing Market Is Growing Significantly | Google, IBM, Microsoft, Intel, Apple, AWS, Facebook and Others.",
-      "excerpt": "The report titled Natural Language Processing Market sheds a concentrated focus on the Natural Language Processing industry in terms of market driver opportunities restraints of global segmentation Further data on the reports also includes demographic conditions over turning changing business",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "originalUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T814195621_g.jpg",
-          "width": 640,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "publishedDateTime": "2020-08-14T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-latent-ai-wins-2020-startup-of-the-year-award-from-iot-world.md",
-      "title": "Latent AI Wins 2020 Startup of the Year Award from IoT World",
-      "excerpt": "Latent AI, creators of the Latent AI Efficient Inference Platform (LEIP) and the latest spinout from SRI International, has been recognized as the 2020 \"Startup of the Year\" from IoT World during their virtual awards ceremony on August 12,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "publishedDateTime": "2020-08-14T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
-      "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
-      "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-8-ways-how-artificial-intelligence-can-develop-and-grow-your-business.md",
-      "title": "#8 Ways How Artificial Intelligence Can Develop and Grow Your Business",
-      "excerpt": "The novel pandemic has further increased the demand for technology. Artificial Intelligence (AI), also referred to as machine intelligence, has been drastically disrupting the world of technology. It is developing at a fast pace and will soon become an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354749",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597389393-cyber.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354749",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354749",
-      "publishedDateTime": "2020-08-14T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-how-reuters-analysed-rite-aids-use-of-facial-recognition-technology.md",
-      "title": "How Reuters analysed Rite Aid's use of facial recognition technology",
-      "excerpt": "Reuters analysed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527389975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0QQ",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN24T1GH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH",
-      "publishedDateTime": "2020-08-14T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-melting-frozen-memories-ai-helps-japanese-recall-war-days.md",
-      "title": "Melting ‘frozen memories,’ AI helps Japanese recall war days",
-      "excerpt": "The 75th anniversary of the end of World War II is Saturday, and Niwata, now 18, said she hopes it will bring attention to her project with a Tokyo University professor to painstakingly colorize photos using artificial intelligence and their own research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/08/2685d0a5f54944e7ae7f907aa39e473e.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
-      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
-      "publishedDateTime": "2020-08-13T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

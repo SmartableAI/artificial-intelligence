@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marketwatch.com/press-release/voice-recognition-market-regional-segment-analysis-forecast-2020-09-15</loc>
-    <lastmod>2020-09-15T01:03:00-07:00</lastmod>
+    <loc>https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/</loc>
+    <lastmod>2020-09-15T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/</loc>
+    <lastmod>2020-09-15T06:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/feveriq-by-enya-ai-helps-cooey-health-bring-equity-to-healthcare-1029590174</loc>
+    <lastmod>2020-09-15T06:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSL1N2GC083</loc>
+    <lastmod>2020-09-15T05:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news</loc>
+    <lastmod>2020-09-15T04:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techradar.com/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery</loc>
+    <lastmod>2020-09-15T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/</loc>
+    <lastmod>2020-09-15T04:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB</loc>
+    <lastmod>2020-09-15T03:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html</loc>
+    <lastmod>2020-09-15T03:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15</loc>
+    <lastmod>2020-09-14T23:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -109,7 +163,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/</loc>
+    <loc>https://www.chessgames.com/player/vladimir_kramnik.html</loc>
     <lastmod>2020-09-14T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -169,6 +223,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14</loc>
+    <lastmod>2020-09-14T03:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html</loc>
     <lastmod>2020-09-14T03:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -189,6 +249,12 @@
   <url>
     <loc>https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/</loc>
     <lastmod>2020-09-14T02:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-14T01:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -225,6 +291,12 @@
   <url>
     <loc>https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/</loc>
     <lastmod>2020-09-13T17:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside-com.breezy.hr/</loc>
+    <lastmod>2020-09-13T15:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -385,14 +457,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11</loc>
+    <lastmod>2020-09-11T08:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china</loc>
     <lastmod>2020-09-11T07:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbescommunicationscouncil/2020/09/11/how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry/</loc>
-    <lastmod>2020-09-11T05:04:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/</loc>
+    <lastmod>2020-09-11T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -627,6 +705,12 @@
   <url>
     <loc>https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361</loc>
     <lastmod>2020-09-10T03:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html</loc>
+    <lastmod>2020-09-10T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -907,7 +991,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09?mod=mw_quote_news</loc>
     <lastmod>2020-09-09T00:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1009,14 +1093,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1495,8 +1579,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
-    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
+    <loc>https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html</loc>
+    <lastmod>2020-09-04T00:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1693,14 +1777,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722</loc>
-    <lastmod>2020-09-03T05:31:00-07:00</lastmod>
+    <loc>https://mobile.twitter.com/zoubinghahrama1?lang=en</loc>
+    <lastmod>2020-09-03T05:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/</loc>
-    <lastmod>2020-09-03T05:30:00-07:00</lastmod>
+    <loc>https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722</loc>
+    <lastmod>2020-09-03T05:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2449,6 +2533,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-01</loc>
+    <lastmod>2020-09-01T01:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/</loc>
     <lastmod>2020-09-01T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2647,8 +2737,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140</loc>
-    <lastmod>2020-08-31T06:10:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study</loc>
+    <lastmod>2020-08-31T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

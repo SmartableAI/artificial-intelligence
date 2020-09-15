@@ -3,11 +3,12 @@ category: news
 title: "AI could help root out bad cops—if only the police allowed it"
 excerpt: "As the death of George Floyd accelerates demands to reform policing, Axon CEO Rick Smith is betting on AI, VR, and new ways of analyzing body-cam footage."
 publishedDateTime: 2020-09-15T11:00:00Z
-originalUrl: "https://www.fastcompany.com/90546743/ai-could-create-a-new-era-of-policing-reform-if-only-the-police-allowed-it?partner=feedburner"
-webUrl: "https://www.fastcompany.com/90546743/ai-could-create-a-new-era-of-policing-reform-if-only-the-police-allowed-it?partner=feedburner"
+originalUrl: "https://www.fastcompany.com/90546743/ai-could-create-a-new-era-of-policing-reform-if-only-the-police-allowed-it?partner=rss"
+webUrl: "https://www.fastcompany.com/90546743/ai-could-create-a-new-era-of-policing-reform-if-only-the-police-allowed-it?partner=rss"
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Fast Company
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ba2AQPKfBwQd52dkCrxt988bJur9MEocTYV6HxM7kfP1ogEvt+cI5E7ezFgDy7peCR50FihMhghttYYFbBHiAnI2jj2mspI+lxPQf8Y7IigflR75Vu7ok3C1niyvk3E7nzm8Hqw8vDErsjCBUKO/2Q6UQVpV2rYwNuAp6MjkIj3HO+KxqvTzk+Gu+PFnO6ehyWt6+dX42d5JujzU/Wn/xMFDbRVHGzqQrybq9HgtdEaePdVAo04YcQi6j7iC8Cc6rhJNGO66+ai7SMCtUApethUiOwA3HaUy5TBLM/lLZq3di4V//MIeao8Ofcev7ePS45fgSXi7QjGguRH7iuYBGwoBLkHDJDdmP93xK0OMB6o=;oYxVpLRxBXunjufOwtAMPQ=="
+secured: "+xFJeNN5UUykW4brqZ8n4zJWZtI46w7FctBULfr7PTeZlT6HzadmBRW4D9kzMGKucKDKVX9BAMPGM8e82uUPd1NG4Af4IXXqxneSDfh40WSvaSDMtwKjOhzI1FNZORYnw+naS5nGA9jeylqxEY5I9Kh1eGMMHZfQSKXEg3hC87Sa68YhN6Qy8jlu0lAJn8z+Ae1JLEn0hO0M3yLoV0NWYrcTujinYytaYw9KhrSb9rvH+kkj5qcuEzZwYjaYju7tMgVscxEvjy39YOkZBymP5tPVSYzGkCq5VGe9UZEBKPw7mJKdBA4LGIyAt+byObvVNi+bv+PP60RCX8wy/PBoQnFcw1iDRWeOMtgwZzptsLo=;zEcGwcNEFIRKBKL1RT8cMA=="
 ---
 
