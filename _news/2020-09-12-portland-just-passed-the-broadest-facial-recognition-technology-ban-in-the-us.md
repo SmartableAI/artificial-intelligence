@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Portland bans use of facial recognition tech by government and private entities"
-    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
-    publishedDateTime: 2020-09-10T06:54:00Z
-    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 85
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Portland becomes first city to ban companies from using facial recognition software in public"
     excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
     publishedDateTime: 2020-09-14T19:17:00Z
@@ -450,6 +434,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "h9jq7jU0DmlNzYrr6GFC1W5VyIcmwVJ2wEL8g312S7tiqmWbsSQfpt5cQQ0tOKiU3aXAJk6Bkzb7iHW//PGlLlTWAV7h0TYzoDWrCYt0gIt6ScWJnHl2l/ExnnxlykwySNi3FAEKl3yW2Ac/ot9zZUYtwpct3bfmq7vaQT+3QZdTjUS0AHMciOAfTXuAlHv7ov5Rr4YkrmkZb5JWEqNC11Q4Ny1rCRii4Z1piQWqGLidbQ5E1+z69me+UALnOk8zGWKkmDpHVbJeDoA5nwBZbx3uPDQGjGSVh32JsKPwhg1LRNIOvolLNS3LffEouaUA0AiA3PrXMlNB47WhI3ZyGoO/kQsbmxSSEkLWT9OqjAI=;5DA7NhtklubHno8B9XQeMw=="
+secured: "6QLhaYgdQTydB52ddIdX38tpHk0dPuWBrF0vQxx1PLas5s8zeo6+MtRi9ZdZbJHJrZWwC6TmIj6/EgkyJ1Q5T41uupD+X7rZOqMuhalkYihtcZoRuDI6YiBPj8RoaEnJk1cF1YEXf5svsr88chJdNxCNi+LlAYLK5MzMub+blBD1FTMKgLRi3XLVcJzACfqZJjCNgkzkJFmHbxidlrFimswhrGcXz7zq7GiXSOY/2XoEJo54tFSvsSTqz6e3dju7asc6DVmUjYdbWT5MJ6kCxSotYtKgnVoN8gDAB6ILYWSGqTq58hxBMBoFpZy9V+JILk/vbPPjT1zT55u3+5Yved529EVDvtBRdhDcXnXqvaspvF8ePKy9CaXq4wRt0h/pfNlz6M07f7hzs6rN/xG6XnFByFUDSuXirjiAuNNq6HFMzOHbX/CNprnwyrGQBGT9dSPVbrjmFEPXoAniWZooZTWU7qOQuEMGbQiCnDc4rQqVKKouaY8MGojeA0qOj6eJ7hU2x+ujCPVPAwr2u/ZWqw==;6muw0gvknJHnilI7A/edZA=="
 ---
 

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk</loc>
+    <lastmod>2020-09-14T14:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/</loc>
     <lastmod>2020-09-14T14:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -297,12 +303,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1207,7 +1207,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/?change_country=LAT</loc>
+    <loc>https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/</loc>
     <lastmod>2020-09-06T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1495,7 +1495,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/</loc>
+    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/</loc>
     <lastmod>2020-09-03T18:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3824,7 +3824,7 @@
   </url>
   <url>
     <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:25:00-07:00</lastmod>
+    <lastmod>2020-08-25T02:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

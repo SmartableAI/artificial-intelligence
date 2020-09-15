@@ -3,10 +3,10 @@ category: news
 title: "IBM's AI push helps Parle, Mother Dairy go digital"
 excerpt: "IBM's AI push helps Parle, Mother Dairy go digital. The applications range from disaster recovery to predicting demand and understanding customer choices using artificial intelligence."
 publishedDateTime: 2020-09-14T07:43:00Z
-originalUrl: "https://www.rediff.com/business/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
-webUrl: "https://www.rediff.com/business/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
-ampWebUrl: "https://m.rediff.com/amp/business/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
-cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
+originalUrl: "https://www.rediff.com/money/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
+webUrl: "https://www.rediff.com/money/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
+ampWebUrl: "https://m.rediff.com/amp/money/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
+cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-ibms-ai-push-helps-parle-mother-dairy-go-digital/20200914.htm"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 230
     isCached: true
 
-secured: "25CkPeNvE7Y1yHNgOqzn8hVeHmQGnRD9rs5hfzU54gzfG/Er1Rx4Nzw8PGuBx4S/hHsYU897HnWcGF13rBGrDaV8nvvsZtxoI9r8gnW6k+fQn9ahoZo2owpkctPZtCmX553joQ3YXvsQLiCd5d92eJwGjLNYAGsMedqOAHCqJbI/EQi5Ijs+3NllMlYCGBwrGhFuNGpGZOitfV/yVx9pzYmoZuPHkso19t1OBSro3mj2UPXhTVx//YNZdnsajaHaBTWY299pOh4I2HQT+0Z2npsLyzbhS3arWvLcpzFjZ7iul+ha5adeoX4lDfVG3gu+7BTKPSPpqKqRn2BZD98RbPcd/kWAafgUWMf9NpTOTxY=;X/6uapWawRtXnmnzkx4/Nw=="
+secured: "PlHT9vlDlXrV37Z4h0xKsnIFg5S7Pv91I+r2uOnmNbghOaZ4Z7mFaMhB5FC2Ns84E6EtB2onb7+rlj+59wx56c0dT3ZAS2GszPnZkFj2c0Z1kY9wY16gRyCo99zR9BGpdUrZULiSaCCFNGGJkijFLGkSyJjE9S/3EwV+stqASiflRXj3BWRT95cF/IQ5VZe6y3Ciuj7W/bAKamIrI2m3JmvHqO0cSiK3giX9jaMNpFLocssahjwRoLtCsJATrzSM+ogJbYhP++v3ZhhSVMSVvSY9JLap9m1lInHNsHWEMbDl2wYeWyW2nlnV0pFnAOpRTKB3PIFqef6tDvuiol1MgKLXFFOY2af03I4fZcrqrh4=;56UcDsyx1PKuwRoiCQs6gw=="
 ---
 

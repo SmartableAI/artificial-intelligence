@@ -7,7 +7,7 @@ originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q3/new-machine-learn
 webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q3/new-machine-learning-assisted-method-rapidly-classifies-quantum-sources.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,18 +26,16 @@ images:
 
 related:
   - title: "New machine learning-assisted method rapidly classifies quantum sources"
-    excerpt: "For quantum optical technologies to become more practical, there is a need for large-scale integration of quantum photonic circuits on chips."
-    publishedDateTime: 2020-09-10T20:28:00Z
-    webUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.html"
-    ampWebUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
+    excerpt: "Purdue University engineers created a new machine learning-assisted method that could make quantum photonic circuit development more efficient by rapidly preselecting these solid-state quantum emitters."
+    publishedDateTime: 2020-09-10T19:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-newmachinele.jpg"
+      - url: "https://www.eurekalert.org/multimedia/pub/web/242677_web.jpg"
         width: 1440
         height: 1094
         isCached: true

@@ -81,6 +81,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
+    excerpt: "This year's report evaluated 11 multimodal predictive analytics and machine learning (PAML) platforms based on 26 criteria, which are grouped into three high-level categories: current offering, strategy and market presence. Criteria for the platforms ..."
+    publishedDateTime: 2020-09-14T13:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17488243/rapidminer-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-platforms-by-ind"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "Nf7LEvMPv0IAcHcVcAX9UHkXEJ97vtBdmnuaQrthKWkwyyN1r/0OZvcCZdznZw75QIJK9LX9wOdMKFzqesyYzvaXFKrzhhXEZd8fqyxFQeyFwnMr14BMRfSXC7H5XX4/fMQjqxodtjph8wXaxzDuDcZrpbOseKS2d8tqGYToUWgtaZOvOhdTUDNFxV56MlrnIsHIB7AL9Qh6xooOtUWxgRReM4JcvJJdZmTJLS/TA6w/NvajkX26/lopqUpxgS7k2+7JGaG45VMXHOSwSCODqO7s47rrkhjfqEvAX6pvHfEjkmKpQ7+x/Gjzu3WwsF4WCjTWiDLrAETsZVLnD9SmBajqyOVQTf3LM9tkzCX6MyHZYT6AK9mvhZ9LmaR7apBuoBojR4M5/8aN8ryvqxZ2gszNrdVj1LnX2SkRppGDgXcmgXG8b4Z76SrOEvE9dpAr8SXx2S1Ov3Ofku943LX6sFXyQzlBC117tCjc+IfhnRBAt1xHSYc8Is12E51UegaJN++On7pO6PjEVR4jwW5YT7W3i7/LYN4gEFI6QFQtkhs=;PVeymPNffO8xMflP0rhsCw=="
 ---

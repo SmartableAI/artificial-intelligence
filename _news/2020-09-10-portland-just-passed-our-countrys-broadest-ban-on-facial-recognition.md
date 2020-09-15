@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-o
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp"
 type: article
 quality: 89
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Portland bans use of facial recognition tech by government and private entities"
-    excerpt: "In a landmark judgment, the city of Portland banned the use of facial recognition technology by government as well as private agencies. A penalty of up to $1,000 a day can be claimed for violations."
-    publishedDateTime: 2020-09-10T06:54:00Z
-    webUrl: "https://www.neowin.net/news/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    ampWebUrl: "https://www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/portland-bans-use-of-facial-recognition-tech-by-government-and-private-entities/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 85
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/01/1579885372_libertyfbmatrixv2image2_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "Portland becomes first city to ban companies from using facial recognition software in public"
     excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."

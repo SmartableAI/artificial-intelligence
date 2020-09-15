@@ -67,6 +67,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
+    excerpt: "This year's report evaluated 11 multimodal predictive analytics and machine learning (PAML) platforms based on 26 criteria, which are grouped into three high-level categories: current offering, strategy and market presence. Criteria for the platforms ..."
+    publishedDateTime: 2020-09-14T13:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17488243/rapidminer-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-platforms-by-ind"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
   - title: "Cloudera Recognized as A Leader By Independent Research Firm in Notebook-Based Predictive Analytics And Machine Learning Evaluation"
     excerpt: "PRNewswire/ -- Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Machine Learning has been named a Leader by"
     publishedDateTime: 2020-09-10T14:00:00Z

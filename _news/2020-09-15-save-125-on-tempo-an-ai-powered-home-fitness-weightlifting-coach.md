@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "JcRPRxU+jtsBcQfR12kbUeJY1TPDQbGqjjOf0XTH555PZI9M2ch5UcflWaUlouE7vWwB6G48J11uV08297v8NuMQ9viL8qA4m7bBIsbgf/+ihasS82/ElbO7bop17UgB9qwSBXCF5LFeONfK9TH3ChDc8TWgRZRv8IdERGLYttdOojpbgK5FaBTGLhke+z9SJ5X/E8vlG0SOr0dWll1Nsu7Gr1wC1zb9p2ItwlWH4l6JEZNxJnkoqt3yhqqKKg0nRqqaGg+EU93hhm9sPynlb5uFmqinn63+BT0d688uevZ1gm8QJHcNFnpLq7OFdqTXJqUxKiO6nRSnT8J/nfUFiGX84+hxBwgMrv7EEtRUm4M=;Gm7mqpSOhJzqkqzA/wB2LA=="
+secured: "vd3Bvds84hgmxOWtyso3IQsZLg1LbygsWE9VONEYNuNIJyrxPuFrrqHeg4TC537K6pKuoAN5mfA1wLL3lm5DnYwyMiSU0tp5EZabk/oUPhC5C31h9cLDM/cYgRiD/uOsjQ5TMVQ2EKGiKpFXmcezXycX80wMs5pm9mTQ/iWQRy33PfkfMnqCmob43Jft1IFfCulvFrG5DIomWgxGwR5HTLVeAuw8DqhJ/khaoh5LnS7i2g8dsaKF2MAxQvL66S0XRUf8dNFdROkzL6hDjn6nKifWNptNClInqtGhIQoykzue6J/yAcibz8LRTBCbVTc++/NYhmw9ouG871L4w/alEchGTi7LA6hj9CphPfAVpjRzWQsfR6lrCUV3Lc8AGHt2HgNQpxXpxQwf0O6HfncWVJdsnORSqkDU6zpD8/LN4m78uwl5UhUgcOrqD97XVhked/AVwDgP8cgzqAajpHz/NNYADKQtXs+NW/dQMZ+pwp8aayivXhvdBJjyZdZl6GcPS8I8v6EHctgti966Fvxa6w==;wGqdHXTTG+x/twnJ8QzgHQ=="
 ---
 
