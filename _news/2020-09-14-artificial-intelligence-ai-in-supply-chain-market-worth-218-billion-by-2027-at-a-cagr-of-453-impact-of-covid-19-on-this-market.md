@@ -42,15 +42,20 @@ related:
         width: 1400
         height: 733
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing"
-    publishedDateTime: 2020-09-15T13:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50706540-artificial-intelligence-chipsets-market-worth-dollar-57-8-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural"
+    publishedDateTime: 2020-09-15T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chipsets-market-worth-57-8-billion-by-2026---exclusive-report-by-marketsandmarkets-301130934.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "ECS/bDRAUgcOkYXKNaoJffOQz8s2R/prh8NrRYUr7toK9izCRq1DZ6hEer+ZnsxLvQX4h6vWc/OvO9vSGK6Gkd+dG/gBTSedQIaE3v0Rip3u48Wd4DInUUJN9smDiEWbM/zlMjWAuIt1bS5OhT0e+ecljRMnw+GHr3TemUO9GcLZZQznNybU4I8ZaKudV3biZppA456Aa/MoTTSBzwfGI8F1WOVHy82NDCDByxxui+v+FIcnEx+AaVwK8xU1vNS4avHRLnlEbWhwVgKuSGmau0cWj37frZcONra5tIr/wVpYsa0vq/+dUMFLA5vyCxWcv1jfqI4xTUjQUS1fb+78n3O0aR7wXARIP6/52F1K/20=;7rEGOYgpxVj2GY53Io2Org=="
 ---

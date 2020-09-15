@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-
 webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
+        isCached: true
+  - title: "Why Nvidia's blockbuster deal to buy Arm is sending shockwaves through the chip industry"
+    excerpt: "Rene Haas, head of the intellectual property group at Arm Holdings, spent much of Monday trying to reassure customers that the SoftBank-owned chip design company was not about to turn them into second-class citizens."
+    publishedDateTime: 2020-09-15T21:47:00Z
+    webUrl: "https://leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/"
+    ampWebUrl: "https://leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/amp/"
+    cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/amp/"
+    type: article
+    provider:
+      name: Leader-Post
+      domain: leaderpost.com
+    quality: 50
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/09/nvidia.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Nvidia acquires UK chip specialist"
     excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."

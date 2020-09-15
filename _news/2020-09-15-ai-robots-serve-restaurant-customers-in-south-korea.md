@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI Robots serve restaurant customers in South Korea"
-excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
-publishedDateTime: 2020-09-15T11:05:00Z
-originalUrl: "https://www.chron.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
-webUrl: "https://www.chron.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
-ampWebUrl: "https://www.chron.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+title: "AI Robots Serve Restaurant Customers in South Korea"
+excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots."
+publishedDateTime: 2020-09-15T16:18:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    isCached: true
 
 related:
   - title: "A.I. robot serves customers at Seoul restaurant"
@@ -74,7 +72,21 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "A.I. robot serves customers at Seoul restaurant"
+    excerpt: "\"Aglio Kim,\" a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimize human contact and help ensure social"
+    publishedDateTime: 2020-09-15T20:00:00Z
+    webUrl: "https://www.unionleader.com/news/back_page/a-i-robot-serves-customers-at-seoul-restaurant/article_78657ae1-0ca6-5290-a308-73ba9124e979.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/5/cf/5cf43d2b-92d5-56ca-94d1-638407f0460f/5f6100ea81e7c.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
 
-secured: "oX7pwk8cFL1BVXixfPpjJTUfe0Hj5LA8C24A2N7Fn9ZXc6KRFWQU5xa0fDCslbP38q1imP/SZBx2ZLEAzV8SCwaOYB6Aox4sFuuaH2ATxM4JabXyp37Bri2bwn8elXtNx0cxCq646FQ+zLZ/L5WWgTCmuu/higpta+oJOIYtmF6F0RuANx/nkEm9NUqP7/087AL6Iy/mc9sKt5YDIzRMF5EU1vymBydKJ0E82OoU+KiODFQYDiN/3yRsCsybQSjVnGK5GFAr4CtY7f/BSD81ZNVemiKqGuLoP/YGIT5kZgDBK7C56ReoiqbcrCK1JhzmrFdRcrK5kobDirXiTWqJTwDM6W6BbWN0jTwpYGEZbbg=;wgSfMV10aGeULpvjBzJkVg=="
+secured: "xUT2DNvPfecY1jNuBUwUrB2NJnMpH0DYNq1Q94VDh87lfq+il4N8QCiGDL2Roi2FH1fEmMuUHigLMNfy2sNSUJPp8CGHBB2JsOmBdvrmV98R/k6FAJoz/9a+W0WnIsJEI/frDqGkCsxiP1iVzqA+bVu+9WBcgJH/Hs8mgSsIhdNuMMJfKhxIKFZX34huuOPCadON9OO8iD2EDg7f94qKoNndvUXZVOdgLSr0EjQ3EHacGypxM+3uN8dGHxGtm8DHw32qgLg4y66EiINGvvKqKKwba6C8472IgcUYFzWGXKMsAC9C0CedZKa08rpfx0DxV79bwqdqa/qWT8mHbYn+bdEstBt3l3BtqW8dw/W7gvcTjfWR2S3ESY0S/F0rJ4s8+8CidxD9/15ISY/n6A+sIn+/1SH7uyjQUGajQjOoRmqzMFPgXVG+BLyTPmt1Z1F2OzOzD/P02tThg3ufP28QJkSjy5UpsZBTSXUOC8zRABW1KnEwkQ6LLmFFsa31sq1rXHgbkQ2xBFZyY1oul2yeIWLSd+CFATHGgIhqOyGc3pE=;Tcp+DerqnRV8pDz3rDFZgQ=="
 ---
 

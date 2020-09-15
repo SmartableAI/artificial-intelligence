@@ -38,15 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing"
-    publishedDateTime: 2020-09-15T13:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50706540-artificial-intelligence-chipsets-market-worth-dollar-57-8-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural"
+    publishedDateTime: 2020-09-15T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chipsets-market-worth-57-8-billion-by-2026---exclusive-report-by-marketsandmarkets-301130934.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "qlEbTMRwbBIysgCOqwPglY+R4MuSzR8kKZlTdF++Yq2EzIpKEpcALJk69wLe0FijifjrtbgARtASWQUv8/PEiI+nLK0vV4f02zFbllcYK6knbSZCJ2tXomLct06r5RA9vOFZ38W9EUc47v6DGpN9Bgyu1HeXsbY8WiOmwfpiVImBpGJj3wc5/kiZDL06FM4VwyF9kDyL7Mw7hfAUs2AocD6OeWQwGOQNdPCcIzpRB3WtmFa6gGt2lI2MerMGIRgVhtDB6Rw+U763DarCmimU5pLOQ5W+MBS71Z9E1djynMqJwBVv7eupmBGztqoI7OAB7porAnHiDYl4Fy1NVsVw2VtUSNl0vKBmsvbQ8m5Cwam3MiwIrgkEa50nBY2co51H/Z85/lXHDit8i/dhMp2qEwPmfIozY7IKR1NQjhRNGkzNceRgtVuiO0iTeKtWyP2M0UfqwDT+si+njgA4bH3zPC4yxhABZtW/gsy60l7C2qnnCYXoli2zWYOWKLuSxUoOCoJhIbCmG0f/M673ItG6dsvXrUhxIMFoay+pdBWy2yI=;6vTtx5wv+fL8kfOKH9v6Bg=="
 ---

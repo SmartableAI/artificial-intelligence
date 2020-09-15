@@ -3,6 +3,7 @@ category: news
 title: "US pushes light regulations for AI, in contrast to Europe"
 excerpt: "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ..."
 publishedDateTime: 2020-08-15T15:36:00Z
+originalUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/"
 webUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/"
 ampWebUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"

@@ -153,56 +153,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027",
-      "excerpt": "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
       "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
       "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
@@ -1440,6 +1390,56 @@
         "name": "Investopedia",
         "domain": "investopedia.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-how-amazons-new-health-tracker-will-use-ai-to-monitor-your-tone-of-voice.md",
+      "title": "How Amazon’s new health tracker will use AI to monitor your tone of voice",
+      "excerpt": "Amazon's Halo will include a feature called Tone that offers users feedback about how happy or tired they sound.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
+      "originalUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/08/Halo_App_and_Halo_Band-e1598648831888.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1897411/amazons-new-fitness-tracker-halo-will-monitor-your-tone-of-voice/amp/",
+      "publishedDateTime": "2020-08-28T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

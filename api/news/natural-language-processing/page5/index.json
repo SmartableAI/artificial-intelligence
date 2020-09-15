@@ -2,56 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-07-30-ai-new-gpt-3-language-model-takes-nlp-to-new-heights.md",
-      "title": "AI: New GPT-3 language model takes NLP to new heights",
-      "excerpt": "Natural language processing is still being refined, but its popularity continues to rise. This new, better version is likely to help. When you speak to a computer, whether on the phone, in a chat box, or in your living room, and it understands you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/29/e26a5604-2628-4342-9e40-b3a62abeea95/resize/1200x/d908f035ae0c61b5d332a9d65b9493e4/istock-1055662774.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "publishedDateTime": "2020-07-30T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-30-nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology.md",
       "title": "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology",
       "excerpt": "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner",
@@ -1365,6 +1315,47 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-natural-language-processing-based-sentiment-analysis-helped-an-american-biotech-firm-in-reducing-churn-by-57-quantzig.md",
+      "title": "Natural Language Processing Based Sentiment Analysis Helped an American Biotech Firm in Reducing Churn by 57% | Quantzig",
+      "excerpt": "The case study aligns perfectly with Quantzig’s commitment to helping its clients to leverage sentiment analysis to reduce customer churn and drive better outcomes using data-driven insights. Sentiment analysis that leverages NLP helps in the detection and classification of customer sentiments into two groups- positive and negative based on their context within a text,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/natural-language-processing-based-sentiment-analysis-helped-an-american-biotech-firm-in-reducing-churn-by/article_f1e126e4-ed6c-5d87-9821-7e1c59d41b27.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
+          "width": 640,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

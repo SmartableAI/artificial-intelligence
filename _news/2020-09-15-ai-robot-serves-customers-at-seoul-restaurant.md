@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -47,22 +47,17 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "AI Robots serve restaurant customers in South Korea"
-    excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
-    publishedDateTime: 2020-09-15T11:05:00Z
-    webUrl: "https://www.chron.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AI-Robots-serve-restaurant-customers-in-South-15567740.php"
+  - title: "AI Robots Serve Restaurant Customers in South Korea"
+    excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots."
+    publishedDateTime: 2020-09-15T16:18:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "AI Robots serve restaurant customers in South Korea"
     excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
     publishedDateTime: 2020-09-15T18:57:00Z
@@ -78,6 +73,20 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "A.I. robot serves customers at Seoul restaurant"
+    excerpt: "\"Aglio Kim,\" a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimize human contact and help ensure social"
+    publishedDateTime: 2020-09-15T20:00:00Z
+    webUrl: "https://www.unionleader.com/news/back_page/a-i-robot-serves-customers-at-seoul-restaurant/article_78657ae1-0ca6-5290-a308-73ba9124e979.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/5/cf/5cf43d2b-92d5-56ca-94d1-638407f0460f/5f6100ea81e7c.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
 
 secured: "mJUJbWqkA+gcA/klGAFVdi1ohjK9t9DD2N1vC0e9jutdNIqnU4JbPsVzQzx1uT32xSISqcAj5XyLoDRFMyFR8OtyoFYE7awSFYt5bAK425DyuimsRyghr9rirsdDp+nN7cbk8pQHh2yVDs1QF/GlF+PTQFW+i47sSq1cURhFEZMd1j+U5BbxcehCmfeN24n33MgyIuv+ooHTt5/7glUGbqr7ZTyf+NLq0C5aZxkjASlBm0gtuqVHke9SXnAdAjDci6Afjp+74BFnVJF/MGP3QjP1bwPt1e4zAgsabhhVnjH+9CYNolWChd+KeVC3MrKoXNH4qRu08HLrB6hxx0a8oUaz95dhLKcMu5oYc4MXtn8=;i6+RskYxAcgPMAdfZZ5EeQ=="

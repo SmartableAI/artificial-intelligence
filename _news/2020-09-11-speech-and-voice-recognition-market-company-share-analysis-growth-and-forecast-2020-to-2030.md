@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
-    excerpt: "Natural Language Processing Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2027"
-    publishedDateTime: 2020-09-11T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266361388/natural-language-processing-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 8
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599785472130.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "fW1s3TiTv/9PwmqqxoQ0ea7j2NgQgZV/dIQpV/yrxwWtnph33nT/sVwXgadgznR4TT0WysiX7466peiJPRKlU2p4Uoo02pkbJGsm3ahL5nxXBYifma2bWQlc/BkeW+ERosfXFicI0dB5nl+HM8wEcvAduo7gG/M5og8WHXuIiWJF6H2hnkNTy4sdcuoxs890nswW1fhW7JlTkLbFXdAGXUqwXQos46evltEGcNjLKJGD9BG3AIfn9TDZJ4ojujPhvh1D8wbyNLI+iokHPNGc8lUtxLzNFrySiDzjx3JBFiWANdRc8bm1vfR3AQqDKTy43HiGsMB2F06m4kC+4pgl/PC/3524xXBCwxvIdksC9PE=;wWvl7CJuMFCPpag+2xnwUA=="
 ---

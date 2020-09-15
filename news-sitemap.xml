@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/</loc>
+    <lastmod>2020-09-15T14:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/</loc>
+    <lastmod>2020-09-15T14:16:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/</loc>
     <lastmod>2020-09-15T12:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +21,12 @@
   <url>
     <loc>https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/</loc>
     <lastmod>2020-09-15T11:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/</loc>
+    <lastmod>2020-09-15T11:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -27,6 +45,12 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/</loc>
     <lastmod>2020-09-15T09:05:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html</loc>
+    <lastmod>2020-09-15T09:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -105,12 +129,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html</loc>
     <lastmod>2020-09-15T03:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15</loc>
-    <lastmod>2020-09-14T23:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -453,12 +471,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.html</loc>
     <lastmod>2020-09-11T17:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
-    <lastmod>2020-09-11T14:07:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -997,7 +1009,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09?mod=mw_quote_news</loc>
     <lastmod>2020-09-09T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1075,7 +1087,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-projected-to-discern-stable-expansion-during-2020-to-2025-2020-09-09</loc>
     <lastmod>2020-09-09T00:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1177,14 +1189,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3421,14 +3433,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/pr-newswire/20200827sf08053/google-cloud-and-sts-to-automate-us-navy-maintenance-inspections-using-ai-and-ml-technology</loc>
-    <lastmod>2020-08-27T05:40:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html</loc>
+    <lastmod>2020-08-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-linkshadow-as-innovation-leader-in-user-and-entity-behavior-analytics-based-on-machine-learning-301119695.html</loc>
-    <lastmod>2020-08-27T05:21:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-cloud-and-sts-to-automate-u-s-navy-maintenance-inspections-using-ai-and-ml/article_94a8a2b2-a765-5bcd-9d3a-d1f62501ed19.html</loc>
+    <lastmod>2020-08-27T05:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

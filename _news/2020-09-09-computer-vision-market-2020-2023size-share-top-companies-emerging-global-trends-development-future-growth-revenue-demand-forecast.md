@@ -3,8 +3,8 @@ category: news
 title: "Computer Vision Market 2020-2023:Size, Share, Top Companies, Emerging Global Trends, Development, Future Growth, Revenue, Demand Forecast"
 excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput"
 publishedDateTime: 2020-09-09T13:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09"
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09?mod=mw_quote_news"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "y95M8Gx2SGGOrqdkQOZI/eO9O0sXoQR1IMX+aH7mNylUqlwKRBuZJLcLw/qbEJwsro/mHMQCq/gU41ubx0yPh8sdcg00V5MS6qcUN1WChHUCxevvNcGq1mb8EQFPjBSMYMGeIjB1chAOfHJ5gc4kRCg/SFbs3UpRHPRPXey8mWxoRXqY5e2o9WbIOhpjboxdOoA0luArkMzIKCjiQWAV2BvDbDoL9PGZLkL5Yy4z4zeGl+Oc80KSazkro8veNvyy6fOhgzs9CHm0NhHuTGrlpQca3tTPoG+26QepVxUtx6e6A8ZWu+ua/8q92lh8v0x0yeC0f+lQgu+2NhHISFWm69QyQqTQbzNErAJmw7oRzRI=;dBbFpUNBIJAfbOAhd3ZCJQ=="
+secured: "IW0BfBukm0uwj00ZtSsZOmnWL/pu4KCWbZD2CCBDhwZEFcpS+fsk6S8c1aVLtIkrtSCH606WqqkLIYcWlkN1/UQCe4RSGCYNIOw/tr8fKBDJUnJmkPhhhb/1UcdxFnVdCieseOlXJvQxZbukpdZREAXWaeqv9gx+is54gfapaFdpLu0nmsQmMP6sz8QqRbIqbl6L23XY6ub1ZpiuOHiWlRMH3fJq092ZTGFH3G04twuVvZH8AjOn+x2d0l6HaZj5gdw3oZhQgkGBaB+Z+jBJNj3Lls66rD8BNbPWxmLxVYHSgRstKFeR/wATfs59/b/dDpPuBv8ceTa2y53cHwniz3PVOcMeFirRSTN9oI9yX7w=;BHQwpIz2b6IkqhPFW+skag=="
 ---
 

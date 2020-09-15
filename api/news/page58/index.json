@@ -2,6 +2,88 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-07-31-ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom.md",
+      "title": "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom",
+      "excerpt": "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/home-page/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMjQ2MWYwYTgxYWEuanBnJnZlcnNpb249MDAwMCZzaWc9OGFmNmQwMzFjZTgyMGI1YTRkZmU3YWMyNDI5MjExYTU%25253D&size=1&version=1596221948&sig=4129f72f361a989140869ee24c1429eb&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
       "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
       "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
@@ -1041,79 +1123,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-5-artificial-intelligence-stocks-to-consider.md",
-      "title": "5 Artificial Intelligence Stocks to Consider",
-      "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Then there is Apollo. It is a self-driving platform that powers more than 100 autonomous vehicle types across 17 cities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30?amp",
-      "publishedDateTime": "2020-07-30T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-autonomous-cars-five-reasons-they-still-arent-on-our-roads.md",
-      "title": "Autonomous cars: five reasons they still aren’t on our roads",
-      "excerpt": "Read more: Are self-driving cars safe? Expert on how we will drive in the future There are indeed still fundamental challenges to the safe introduction of fully autonomous cars, and we have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/350425/original/file-20200730-17-tofe77.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "publishedDateTime": "2020-07-30T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

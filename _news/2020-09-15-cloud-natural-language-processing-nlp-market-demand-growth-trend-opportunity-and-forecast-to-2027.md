@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
-    excerpt: "Natural Language Processing Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2027"
-    publishedDateTime: 2020-09-11T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266361388/natural-language-processing-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 8
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1599785472130.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "cEnqGvbZQD3MAajNDEA+KkcDRr0mYi3OtP/zQaw9wyp497Q/Nj2JulEs+83bbQFqUZzsEglFXQyEP8qf+7yp3aNQSYdffg1kS9yR6w8S8h6cvvVqZNwtvCGs8uQdTUGQd/Cq3TcFcctIMJ5ZJTCD20NOBZaMllynSTyvKxOSYFX2Vasr6kHEe/o+JG0hNBSlceM3guu1gR8Xyp/DDDEvqAVtUKn0A1P2mB4B9CMijZtyR5kxMrEg1DCaUICA3ZErkJR3jDOETadyHbMi85z3r7W9E0ysDfBnB+LApIV+Eym91PzFwNoWPZI67FaLxOcJuScsbCxMOLOGct9EKZ2cTHvwYiLLEvNxPzssc8MV1/M=;Nbh2fffFkJgOhVjyOdlCyw=="

@@ -59,6 +59,38 @@ related:
         width: 1360
         height: 630
         isCached: true
+  - title: "Snapdeal tests deliveries using robots in partnership with mobility startup Ottonomy IO"
+    excerpt: "E-commerce marketplace Snapdeal and autonomous mobility startup Ottonomy IO have successfully tested last-mile delivery using robots. The orders placed by users were delivered in the last mile by a robot with the package sanitised on the way."
+    publishedDateTime: 2020-09-15T11:43:00Z
+    webUrl: "https://www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112"
+    ampWebUrl: "https://www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 51
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Snapdeal_Ottonomy_1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles"
+    excerpt: "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously."
+    publishedDateTime: 2020-09-15T18:58:00Z
+    webUrl: "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15"
+    ampWebUrl: "https://www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 51
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK"
+        width: 647
+        height: 363
+        isCached: true
   - title: "Snapdeal Is Testing ‘Contactless Last-Mile Delivery’ In Autonomous Robots & This Is The New Normal"
     excerpt: "We've already seen a lot of companies get on board the idea of autonomous delivery. Now, it looks like Snapdeal is also trying to get a taste of it. Yes, the e-commerce giant is now testing using autonomous robots for last-mile delivery."
     publishedDateTime: 2020-09-15T13:38:00Z
@@ -83,6 +115,15 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
+    quality: 19
+  - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
+    excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
+    publishedDateTime: 2020-09-15T17:37:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200915/3626826.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "lo7JL1CMVURO1KPYq5Lv/HxTDjAhWhRPgcScZss7niABRoy72qTtLaYNMhVedTHgsnQzpkTTGQavvtQhFaMaBQ35kiDQDRRrkAT8DTixEdElTNGgZfzz4xyrgm+5S0bGklEKy6v+2GobQA10IjsvbV9RfL6MZGbsDHky8OCYy72ILWlEX7gyS8pz8lYeCvi/IRINRAnMiPpyB4N28iYdxWgp1PdbktX1EeGR1ZiY5p/gD+usyyj2HjwS0lMXk+DB9jKKzkKKQBizTYvOD0NF0kBVRvpgphCL9zNWY0uJTqIY19hBhmm3QRJ0JtC4z6lpJi1y+pGdg1DfWXo66hGKcN3uDS4QubqjpIfRxW3nV1+dKki3HbAEm0cOtsx4Z+o6ZwIQfrJAh68+rZ41fEoeQ/XA9g44wW65Y+arcZfg+l7KlMPE86u70OZckHfnDksAbQU6cGJSPF8xx1tDuIwJooZlpUXDFaemOsdy3KblV2b9r1njm/exE5ZlMNmRvsZH16i2pWuriIy7Mmty2dxPMaig1hk9sh78lPLS6sY/hl8=;InAdb8iUNhNj1m4/U1F07A=="

@@ -2,6 +2,106 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-03-windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition.md",
+      "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
+      "excerpt": "Build 20206, which has been released to testers in the Dev Channel, comes with a new and improved version of Windows dictation which has been renamed Windows voice typing. As was the case with dictation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "originalUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/siQHALnsW9itubbrJGKDn7-1200-80.jpeg",
+          "width": 1175,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
+      "publishedDateTime": "2020-09-03T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic.md",
+      "title": "AI In Aviation Market Key Insights Based on Product Type, End-use and Regional Demand Till 2023 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Aviation Market Research Report by Type (Hardware, Software, Services), Equipment (Autocollimator, Measuring Microscope, Profile Projector, and Others), Technology (Machine Learning, Natural Language Processing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
       "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -1089,97 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-getting-a-batch-job-completion-message-from-amazon-translate.md",
-      "title": "Getting a batch job completion message from Amazon Translate",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Neural machine translation is a form of language translation automation that uses deep learning models to deliver more accurate and natural-sounding translation than traditional",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/13/translatebatchpoller_arch.png",
-          "width": 842,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T10:32:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ttecs-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award.md",
-      "title": "TTEC's AI-powered Learning Solution Wins Disruptive Technology of the Year Award",
-      "excerpt": "TTEC's revolutionary proprietary RealPlay technology simulates real-world customer scenarios that associates experience before they take live calls A mix of AI-powered bot, interactive digital sandbox,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
-      "publishedDateTime": "2020-09-02T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
