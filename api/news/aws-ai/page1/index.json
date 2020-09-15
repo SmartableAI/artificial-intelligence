@@ -405,23 +405,41 @@
     {
       "path": "_news/2020-09-09-aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season.md",
       "title": "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season",
-      "excerpt": "Leveraging Amazon SageMaker, AWS’s fully managed service for easily building, training, and deploying machine learning models quickly, the NFL was able to rapidly iterate and train multiple ...",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and the National Football League (NFL) announced they will debut six",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T08:04:00-07:00",
+      "publishedDateTime": "2020-09-09T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizcommunity.com/Article/196/664/208153.html"
 webUrl: "https://www.bizcommunity.com/Article/196/664/208153.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 614
     height: 568
     isCached: true
-
-related:
-  - title: "Eliminating bias is the new frontier of AI innovation"
-    excerpt: "More must be done to accelerate the synthesis of diverse and inclusive perspectives in the AI creation process, says Rudeon Snell, global senior director: Industries & Customer Advisory at SAP."
-    publishedDateTime: 2020-09-10T07:52:00Z
-    webUrl: "https://www.itweb.co.za/content/rW1xL759YzA7Rk6m"
-    ampWebUrl: "https://amp.itweb.co.za/content/rW1xL759YzA7Rk6m"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/rW1xL759YzA7Rk6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/09/Rudeon-Snell.jpg"
-        width: 400
-        height: 350
-        isCached: true
 
 secured: "9Uw70voju8UoOPdluxZ2+CesrhJ8miru028wHRomxYaIUXJrrGpY5yWXI2/hsWoGg4JVBVSVgwdAsryTaQy7x3YnfHBm46odvUd5MbG/VGn9kiuZPTMHUzVkVtGD/1ypgbqRYCHvajC9yYC4i7O0hyC5oPv87OMjxkOh2HuLIktb4a4hTN+4ERT+41uSEL+R+JJtvi4/e5PrX5EzxgovKBBWf1R0NxBkDawV1TXv/ad8KfhQlKBQjIwH/EHppv1/lPtuFGgym0qdCusZ/A6LCmwONWeMvgEYSD2rctS9M116haTmPQJRwfU53AVtxUlAQcDKIs4NNzIUL7Mp8rABa7qkrgrMF2ldb54PUExrCyM=;O7jnzUR+ouaPWoIjpLchvA=="
 ---

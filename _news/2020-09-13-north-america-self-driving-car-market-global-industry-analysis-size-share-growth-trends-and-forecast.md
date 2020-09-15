@@ -154,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2020-09-10T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2026-2020-09-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Cyber Security Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
     excerpt: "Global AC Servomotors Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025; Global Needle Roller Bearing Market 2020 Growth, Trend, An"
     publishedDateTime: 2020-09-12T12:05:00Z

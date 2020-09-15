@@ -2,15 +2,15 @@
 category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
-publishedDateTime: 2020-09-11T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+publishedDateTime: 2020-09-11T21:07:00Z
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: ZDNet
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
 
 images:
@@ -30,6 +30,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "lMsfHrM9yHjjyr3buaR916/lEco4c8k4xn5Bm2NX6y4roK8udSbkbUqAELc1FhYALiSeBZnrA8b+AIZqg7fTflI0AZKwyqJMZfMtx7PIAIcJkjWY23tYNRaOm46MkX4ZkwN5WpCVvjdMiu74CUCXYQJk+iOBE/WKbNw1siqmRPJ00kGb6fTFzDNL0ktNLxn6a1EcELRc05ojDKhl72BvsRVNQ4uZiroP/3oAVpLK7sdMXRRVuClXf6UPtMj4WV7zJ4c9GKgeK8OlUwMvL74IbS6wSbOwUxAlWuS9eRbmj8DDrLr5hozcC6mVNM3gy3+g1jffVFZWdR8d/hAgm42ud5vXXTUmnh7QahIOe5z3WFI=;nwfUN5BvX6MwOOMtyuLuaA=="
+secured: "Ld0dE72KEGaQ5owMyRwGPJEAsZppTXdTTdbyNrn137ZY6EjzCuSGgSLSKENymJU4/jp5gt0FB4jHzd1Y7fHrQLs/w2X6PVCmyuWgP3bkRoexm5QOfgkW+YR/S969zkyS2y5Z8h0nMxB7prgu+KaauRKzinV6TwWm35f6j4xrskkrxh4PznLCamppg3QQMtj3fcLMhtMWN799SBr0zDjavZ7Go76z3WKh24h6TjsAMFHIC2Zg0g8fA9yDxkIU0qGOzMegWjU0VytjTTAM/NgWYHeyC7kCrMFYupTPVGmrFSpNjkFPvZrBiUCARiOXVXPq/5VOgXGSmZUSAXdz91t18bYVaVBU76c0fOfLrE822Uk=;ICB8467HXNj46KWKxrtYKA=="
 ---
 

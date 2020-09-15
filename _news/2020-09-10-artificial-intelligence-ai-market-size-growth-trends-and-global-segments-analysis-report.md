@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10"
 type: article
 quality: 73
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2020-09-10T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2026-2020-09-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -19,6 +19,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ</loc>
+    <lastmod>2020-09-14T12:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thestreet.com/tech/news/nvidia091420</loc>
     <lastmod>2020-09-14T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -303,6 +309,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -763,12 +775,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/business-wire/20200909005345/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season</loc>
-    <lastmod>2020-09-09T08:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/</loc>
     <lastmod>2020-09-09T07:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -795,6 +801,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/09/researchers-data-set-pinpoints-challenges-adapting-speech-recognition-models-to-new-hardware/</loc>
     <lastmod>2020-09-09T06:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09</loc>
+    <lastmod>2020-09-09T06:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2113,6 +2125,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380</loc>
+    <lastmod>2020-09-01T19:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/in/news-releases/get-amplified-with-zotac-gaming-geforce-rtx-tm-30-series-832903147.html</loc>
     <lastmod>2020-09-01T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2443,6 +2461,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/</loc>
+    <lastmod>2020-08-31T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs</loc>
     <lastmod>2020-08-31T17:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2529,6 +2553,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html</loc>
     <lastmod>2020-08-31T09:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html</loc>
+    <lastmod>2020-08-31T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2965,7 +2995,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
     <lastmod>2020-08-28T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3525,6 +3555,12 @@
   <url>
     <loc>https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely</loc>
     <lastmod>2020-08-25T17:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.datamation.com/applications/business-intelligence-software.html</loc>
+    <lastmod>2020-08-25T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

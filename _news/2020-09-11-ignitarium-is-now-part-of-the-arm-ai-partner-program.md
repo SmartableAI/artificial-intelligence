@@ -7,7 +7,7 @@ originalUrl: "https://www.pr.com/press-release/820889"
 webUrl: "https://www.pr.com/press-release/820889"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Ignitarium is now part of the Arm AI Partner Program"
-    excerpt: "Ignitarium a global product engineering company with expertise in Video and Audio AI solutions today announced it has joined the Arm AI Partner Program Cost sensitive audio applications like off line voice recognition noise suppression or sound effect classification need"
-    publishedDateTime: 2020-09-10T07:46:00Z
-    webUrl: "https://www.openpr.com/news/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program"
-    ampWebUrl: "https://www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2131223/ignitarium-is-now-part-of-the-arm-ai-partner-program"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/9/T909865043_g.jpg"
-        width: 501
-        height: 334
-        isCached: true
 
 secured: "pIeucR5niSjwyTtgxJvf96LVUOtoGNzntTm+Zc5fPgS5uhuexhve6b2w6fOq6PGXFeHiCpiYye1bPr6TD/ti0QM04AjRXC7iCo+y55mU5Lr1gD+mn08NoK/YyYucE1wxEq92wUZE9NiretaQCLr9/eekBDns93ddu3mVfxxuKlvbyDK62odmOCANZEJbmz/lLohT8onajrk+IHZZ0tojUWuYHMT0hxVl0xZl02uIy03EqxrYAv0EUf2ja7YKeUFzCDnBVw0adglixavDKLlJCpKJg9SjYsXfF4YWRKN0aHJg6CU0FOazIumk2gi7Zlu++f9CfVSi0F3yrEElDyjf01UMV8bt94+lfFJ2aCIbBU0=;uF0bLNe7kLf2YSzQvUbYFw=="
 ---

@@ -70,20 +70,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "NASSCOM FutureSkills and Microsoft Launch AI Classroom Series"
-    excerpt: "As part of its ongoing efforts to promote skilling as a national priority, NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative. The initiative aims to skill 1 million students in AI by 2021."
-    publishedDateTime: 2020-09-10T08:05:00Z
-    webUrl: "https://analyticsindiamag.com/nasscom-futureskills-and-microsoft-launch-ai-classroom-series/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/03/presidency-university-classroom.jpg"
-        width: 1080
-        height: 717
-        isCached: true
   - title: "NASSCOM, Microsoft to skill 10 lakh students with AI capabilities"
     excerpt: "IT industry body NASSCOM FutureSkills and Microsoft have joined hands to launch a nationwide artificial intelligence AI skilling initiative to upgrade 10 lakh"
     publishedDateTime: 2020-09-10T10:16:00Z
@@ -97,31 +83,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1599732320.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "NASSCOM FutureSkills® and Microsoft launch AI Classroom Series to skill India’s future workforce with AI capabilities"
-    excerpt: "As part of its ongoing efforts to promote skilling as a national priority, NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative. The"
-    publishedDateTime: 2020-09-10T08:56:00Z
-    webUrl: "https://indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/"
-    ampWebUrl: "https://indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nasscom-futureskills-and-microsoft-launch-ai-classroom-series-to-skill-indias-future-workforce-with-ai-capabilities/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 31
-  - title: "NASSCOM FutureSkills Collaborates with Microsoft to launch AI Classroom Series, a Nation-Wide AI Skilling Initiative"
-    excerpt: "NASSCOM FutureSkills Collaborates with Microsoft to launch AI Classroom Series, a Nation-Wide AI Skilling Initiative - NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide Artificial Intelligence"
-    publishedDateTime: 2020-09-10T07:05:00Z
-    webUrl: "https://www.siliconindia.com/news/general/NASSCOM-FutureSkills-Collaborates-with-Microsoft-to-launch-AI-Classroom-Series-a-NationWide-AI-Skilling-Initiative-nid-214006-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 31
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/image.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "38Jym8Ea7saWPWgqRUvAWS7ctsuyURu4KI/hEb3Ey0tX2sSNKmLtdya7WFu+QBagazW9EIS+fTG1TmzWWnziMNXzCs5yT/jgY0c3uhzyElFkY0DJ1vgxS7r5TCqk6ABXc2Yb6GCQRQQFCN5eSUA7z4me/ctXIK//Q2uMhu9CxuuaIyq+vceVBEcanuqpuDP1FwALQcRCSOs1opzf7mYFkoFYT+hOd5ow4X/62bUqrC9yLJis4lHoE+4Nu2GtO9x7DvldlgQHqKDO24T5dc+Rsr/9tMQHEZwwfdMHr27XlD6jirw49nruJhLGOylhG1DQC3b0DTiAseTiH3oNmyq8khdZ3U1bjLLTOt97LWPKjHCBhllEmrn4FxHzb48SadOQHe3p7xubh2Ee9kKjLKG3gYyQlp90VEtk00VTnnggbDcQUoD/bbDr+xLvdDduLRt1vtbBJyDsUJgGbB7OQugd6hmM1FYocOP2YtIbD0LSoNZQMYwfve0qp7eXr/7dEe7/TjCaryNtfFYltrHwYgltq7r2JqH0HtzK5FsVXIwDuRw=;oUcIiu5qbLmabt8tHC6J8A=="

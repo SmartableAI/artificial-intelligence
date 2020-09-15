@@ -146,20 +146,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data-storage-market Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2026"
-    excerpt: "The digitalization of the world led industries to generate a tremendous amount of data. As the paper-based work is"
-    publishedDateTime: 2020-09-10T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2026-2020-09-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
     excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
     publishedDateTime: 2020-09-13T05:40:00Z
