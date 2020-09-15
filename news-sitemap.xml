@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/</loc>
+    <lastmod>2020-09-14T19:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk</loc>
     <lastmod>2020-09-14T14:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,6 +235,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news</loc>
+    <lastmod>2020-09-13T04:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/</loc>
     <lastmod>2020-09-13T02:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -309,12 +321,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/right-sizing-resources-and-avoiding-unnecessary-costs-in-amazon-sagemaker/</loc>
     <lastmod>2020-09-11T14:07:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -985,6 +991,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
     <lastmod>2020-09-08T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -993,12 +1005,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
     <lastmod>2020-09-08T09:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1969,6 +1975,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://m.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
+    <lastmod>2020-09-02T07:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2049,12 +2061,6 @@
   <url>
     <loc>https://www.zdnet.com/article/python-programming-microsofts-latest-beginners-course-looks-at-developing-for-nasa-projects/</loc>
     <lastmod>2020-09-02T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.engineeringnews.co.za/article/rolls-royce-reports-breakthroughs-in-practical-artificial-intelligence-ethics-2020-09-02</loc>
-    <lastmod>2020-09-02T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2557,12 +2563,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html</loc>
-    <lastmod>2020-08-31T09:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034</loc>
     <lastmod>2020-08-31T09:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2583,6 +2583,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/</loc>
     <lastmod>2020-08-31T08:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event</loc>
+    <lastmod>2020-08-31T07:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3859,8 +3865,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/s41571-020-0417-8</loc>
-    <lastmod>2020-08-25T02:47:00-07:00</lastmod>
+    <loc>https://www.nature.com/articles/s41571-020-0417-8?error=cookies_not_supported&amp;code=66cc4f7e-c911-438d-8b1f-6597656a3930</loc>
+    <lastmod>2020-08-25T02:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

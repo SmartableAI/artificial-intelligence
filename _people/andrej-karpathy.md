@@ -10,7 +10,7 @@ website: https://t.co/UnoPfBvH9V
 twitter:
   username: karpathy
   url: https://twitter.com/karpathy
-  followers: 300366
+  followers: 300363
 
 linkedin:
   url: https://www.linkedin.com/in/andrej-karpathy-9a650716/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Andrej Karpathy"
 
-secured: "gO30bryh69zTmgLLg/Br4cg3DxOMfyZyLeM8lxdsCaS1fJ6A0CkwMAex5+t2nrgXlDl2Zp5R+WZ/Ubnt7mVWQo37nohjHZ+7Rwy5mtjiDI5k0tjGjASktl6bbEZaJTpNcXiMTCycRiqISLuvRXO0ay1RXeUJ3BhgZOKEzCVP8oIeln6G5seTgqdkML+kht1D5VJT2lwwOFKIaZNjIUQASMqYWN6qUb2be10MJT0L7cbjbtj1LfDV4oqk6t2feENjOV7d7Z7GsxdL8Jhr/pg+73vLmoKR4jIZxjWoXQFc+G13mDd/wFpBFsGCMr/4FOFD0/XehpJ+bBY24Ji0i1LddvlWe20g1TDElrdJBIpWY/8UYo4wLLc/iUrF+IigiRq9sU9384WZhgWlineCNxT3K9eIIaN7hX7faffT2SuXVw0=;sgNJsU8do/YQW6jkRX8adg=="
+secured: "1FCuNJl1D8jMBP8B7X1yAbNGINrE2wRSNkNNuPW6RIstOShvk6s86isXwmKc6ujVX5OW5SdJUBmy5w/vF71tC91FQSm6PCI/zBTqpwtpFUyHrQJZB91tUruc0W5bfq/v3qVH71Zkp5PWKre3a0AkBJCQWE3k+oo6uK7zYlUbxFWmNsAFOljqj8jfwnPUG/lixQ1Kxonh9/+q4YkEbIcEtFbAnT3radrbtHHaR7LIo0GnmeRM5UO6D6Qi70Cp2Br8l1pl/FMwaz8HL33hF6FUEOdOsn8/ers+XM0egdUaDkQBwiK8tTS6DVl0U7yhbu2ojN2zKugVT1PVX1kEB9bOPgalqYkN1IAns+bCgcMgmbhXOuWg7DUkL/GaIh2JyaM5xkrLBtBHTjO9AQFglOUtKbXhU9sLDdNpAW+LdDpxWEU=;VeOZXYLxyHEx1hlz7CpCgQ=="
 ---
 

@@ -14,7 +14,7 @@ website: https://t.co/cr0ijXcp1F
 twitter:
   username: animaanandkumar
   url: https://twitter.com/animaanandkumar
-  followers: 36881
+  followers: 36882
 
 linkedin:
   url: https://www.linkedin.com/in/anima-anandkumar/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Animashree Anandkumar"
 
-secured: "KNJLvwGoanBASqTKK1fbEeKwyKcTWmMzh70pkyzT/5jfyWlBs+A/RCegixO1E3aqkJh6/FOuvK2UQxXwrko1sjE3oUsXXB6bNLYSrT2GtkTt0i26W3hcO8RAd834tAJ1R8mUMljoAgdedmTaZ2+RJv40O/O6P4B8blNkgqJclpXio60eso6umlHW1jlMTF78v+F6JVxu/BrSv9uVxFm0YMuK2RyfQyEf5DoVRLCTb5THxaCpOOnf6+CdFg/BLS+mw6uoz6jADXqMn2VfIzNQLigRNgjvDpk3UDKvKItwd9FvLPp1ZPBPJDOCd2h77ze11zjtzC3yiZXEEfvGZk/XRsKGYMlU61wx4wkK9FPKAWjN0p8H97j+0tDatJxAqzkm3/YM7Z0psHuNoGadGbrSf8jYcK5lz33+KsfD8a9feGU=;yBf2gBAzWKnBPNktYZaP1g=="
+secured: "7dbTmS2RTimPS3ZDs3gI2iTDTMGPbYcaFTA28puQXFVlht4Vg0xRm9GLyNj1QCme3Dm9Gk0GHc7kME6Fq4+xoveSdSDXO9ylZhUm+lSwdTnOzKxo+pzaAR1m30zOdyg3PIffzAV+5pI053CCGSDe5V2YI856a22F7/3mI4lKI2nFgbIRxtsFdqTHhS6z8ycU3dNRAtsBBJwFoLY5Q3hO6XATP4FdlJ8xMeVDJSIPcFBKu7g/+WJjzm2SxryZuHHc8qgr/uNHNQdYHXoA7uaMx1OAy5o7G/dfoclaS9CM3Mqj+UdryNMZRY/6xw/ZGsBGGYWWQiLRbvX67WkQT5O/Tralhy3F7yD0ReMQCljwOo2QL6GJCqsQbHl7tSHOdNdPV/OM776yUOLY3uOSUtFvA2lBCTFKTpsgbIEovZi8wvc=;CI4ruyQsJfrEUBFR/FhXrQ=="
 ---
 

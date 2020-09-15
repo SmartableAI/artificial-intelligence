@@ -38,6 +38,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Germany takes a pioneering role in self-driving cars development"
+    excerpt: "Germany to set into motion a groundbreaking law which would make it the first country in the world to permit driverless vehicles as regular options."
+    publishedDateTime: 2020-09-10T14:03:00Z
+    webUrl: "https://www.industryleadersmagazine.com/germany-takes-a-pioneering-role-in-self-driving-cars-development/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/germany-driverless-image.png"
+        width: 840
+        height: 443
+        isCached: true
   - title: "Even self-driving cars need driver education"
     excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
     publishedDateTime: 2020-09-12T04:38:00Z

@@ -2,6 +2,56 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
+      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
+      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
+          "width": 600,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
+      "publishedDateTime": "2020-08-28T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-29-le-machine-learning-automatise-va-t-il-remplacer-le-data-scientist.md",
       "title": "Le machine learning automatisé va-t-il remplacer le data scientist",
       "excerpt": "DataRobot, Google AutoML, H2O.ai... Les solutions d'automated machine learning se multiplient depuis quelques années. Leur ambition ? Automatiser la création de modèles d'apprentissage.",
@@ -1118,56 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
-      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
-      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/29/e357fd4b-4551-4881-b706-418e631c913c/thumbnail/1200x675/557c810c260ed10f3562e0b1f07ad17f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
-      "publishedDateTime": "2020-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

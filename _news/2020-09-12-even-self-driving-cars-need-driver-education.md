@@ -52,6 +52,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Germany takes a pioneering role in self-driving cars development"
+    excerpt: "Germany to set into motion a groundbreaking law which would make it the first country in the world to permit driverless vehicles as regular options."
+    publishedDateTime: 2020-09-10T14:03:00Z
+    webUrl: "https://www.industryleadersmagazine.com/germany-takes-a-pioneering-role-in-self-driving-cars-development/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/germany-driverless-image.png"
+        width: 840
+        height: 443
+        isCached: true
 
 secured: "M6unpznbKFm+6D/5IcFl8JM/tssw24yGUjEN/cU2s012PQWKIkv34bmfEukDanKiqe4/10EmSqz0jyBC1JCU1vE4lhFkvIZEbZAZlXaaLJA9aVS0ariBCqWIBwhypOiwhHcuNN85BErLlExoYBTnhmNwZ4S1dx6pev3ZjndT9BnJ6jozvLk9IHBuQhwlGSfs0iABR06AElLYFID2+LAJAF/zPzo6yui8u5ALFxzJeBRix+4MtuxoXcoGzKFuyRsk3Y2k1AESr6jN77+ZFmwzZ+juonXmpekoiOcdAcMWXp0nA/kWjiM5PTrJgTv1r6q2B0/qriQmF4XDaWshDq9tnxsqhF9u0cxU6Kpl3DK0nDQS1ntGzx0v+8sjT4NZ/bGXcYY7mD1EYz/ET0EzrpkaRiQ8yNnkUHJKyh3VhhZDBoA8uuoDLSYvdsbQcOyWZ0mxHarl3gxFphKFGWlivzgaQ1MlOlXGHXpG4FLDEUr1SHrRRrpPelsPUb3GxuUu/RMC71rmmrAbAZhBsIn8QcdJBw==;+bZVVVQhXVIH2YdOo5vcIw=="
 ---
