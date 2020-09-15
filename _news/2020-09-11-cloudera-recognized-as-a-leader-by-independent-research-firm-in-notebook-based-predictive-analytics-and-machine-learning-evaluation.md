@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jamie Steele Recognized for Research on Gender and Artificial Intelligence"
-    excerpt: "Jamie Steele Recognized for Research on Gender and Artificial Intelligence. A third-year Science and Technology Studies (STS) doctoral student at Rensselaer Polytechnic Institute"
-    publishedDateTime: 2020-09-10T12:23:00Z
-    webUrl: "https://news.rpi.edu/approach/2020/09/10"
-    type: article
-    provider:
-      name: RPI News
-      domain: rpi.edu
-    quality: 35
-    images:
-      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
-        width: 667
-        height: 446
-        isCached: true
   - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
     excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The announcement comes on the heels of Dataiku’s $100 million Series D investment round,"
     publishedDateTime: 2020-09-10T14:51:00Z

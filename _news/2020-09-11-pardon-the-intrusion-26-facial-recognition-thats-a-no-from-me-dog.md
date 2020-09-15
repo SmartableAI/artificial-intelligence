@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Portland becomes first US city to ban companies from using facial recognition in public places"
-    excerpt: "Portland is the first city in the US to bar both businesses and public agencies from using facial recognition. Will the rest of the country follow its lead?"
-    publishedDateTime: 2020-09-10T12:02:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/portland-becomes-first-us-city-to-ban-companies-from-using-facial-recognition-in-public-places/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 77
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-10T112334.280-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Portland’s facial recognition ban: Why businesses — including Amazon — fought the groundbreaking law"
     excerpt: "The Portland City Council on Wednesday unanimously passed a groundbreaking ban prohibiting use of facial recognition in privately-owned places accessible to the public such as stores, banks and"
     publishedDateTime: 2020-09-10T16:07:00Z
@@ -413,20 +397,6 @@ related:
       - url: "https://www.democracynow.org/images/headlines/73/54473/full_hd/h18-portland-oregon-first-us-city-ban-corporate-use-facial-recognition.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "In historic first, Portland bans corporations from using facial recognition tech on the public"
-    excerpt: "But Portland residents can still use facial recognition tech, like the kind found in iPhones and Nest cameras."
-    publishedDateTime: 2020-09-10T11:18:00Z
-    webUrl: "https://www.fastcompany.com/90549036/in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 27
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-in-historic-first-portland-bans-corporations-from-using-facial-recognition-tech-on-the-public.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."

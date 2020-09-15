@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/resgreen-group-designs-new-di
 webUrl: "https://www.nasdaq.com/press-release/resgreen-group-designs-new-disinfecting-autonomous-mobile-robot-to-meet-increasing"
 type: article
 quality: 40
-heat: 40
+heat: 50
 published: false
 
 provider:

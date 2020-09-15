@@ -9,7 +9,7 @@ ampWebUrl: "https://www.peoplematters.in/amp-skilling-nasscom-futureskillsr-micr
 cdnAmpWebUrl: "https://www-peoplematters-in.cdn.ampproject.org/c/s/www.peoplematters.in/amp-skilling-nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India"
-    excerpt: "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021."
-    publishedDateTime: 2020-09-10T11:24:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 72
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "8kqjSMgFIxuaW6Y0kZXedo+c01x0sskTyzBFMiG/aOIvJS1f78E6VReC1nvXF1mA68zFsqkk3aJ3EiadRmJsSNjlS0D70PIlQA+f19LtYP6hBBsQg5l2cwlHGxtOiWn/2t5cb7EHyDA+qaI4VZT+M8Gbh9Q4MGHzyazpoAnr3wQBIwki5L/FdJJjGGIhkd4QKEULCK2hD2n8Ou5Fo2S3XSK60akK/CP87F/fFtKgZ03hw/OxkP14K3DAuGjb6DV8uNrFkOxleFpH18JQA70+OepCXpFnl35j44/2siMp5HUXEqTLdrdqjzjitV40hRXAMT8+2P0w2wbjGDBjH1zUgI3BTxoP0CR2bO+4Z19ZoH1UyOzCWMK9hSIVtNH1GC0LuAk60ErChZYdcmG1TE+8L2CF/QNvgcvCpzvUP8WOa+xnGLEPwSWsFYfXQbaE+pV6o2/CgflnFhHdfPpFlhkEhZBXdMiMeFMuzIwWJsmm1g7ydfCNIz8XjXU1vcAm4R0PAseS6aO96q+N+hrOQzpWGg==;MZUw/BHgSvFFLH66DcTEIQ=="
 ---

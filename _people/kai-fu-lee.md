@@ -14,11 +14,11 @@ website: https://t.co/1QmLHUi5s4
 twitter:
   username: kaifulee
   url: https://twitter.com/kaifulee
-  followers: 1580978
+  followers: 1580989
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
-  citations: 16510
+  citations: 16456
 
 weibo:
   url: https://www.weibo.com/kaifulee

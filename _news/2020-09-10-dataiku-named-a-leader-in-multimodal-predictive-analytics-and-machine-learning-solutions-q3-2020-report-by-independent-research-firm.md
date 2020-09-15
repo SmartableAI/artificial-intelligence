@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jamie Steele Recognized for Research on Gender and Artificial Intelligence"
-    excerpt: "Jamie Steele Recognized for Research on Gender and Artificial Intelligence. A third-year Science and Technology Studies (STS) doctoral student at Rensselaer Polytechnic Institute"
-    publishedDateTime: 2020-09-10T12:23:00Z
-    webUrl: "https://news.rpi.edu/approach/2020/09/10"
-    type: article
-    provider:
-      name: RPI News
-      domain: rpi.edu
-    quality: 35
-    images:
-      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
-        width: 667
-        height: 446
-        isCached: true
   - title: "TIBCO Named a Leader in Multimodal Predictive Analytics and Machine Learning by Independent Research Firm"
     excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes, solving the world’s most complex data-driven challenges. Today,"
     publishedDateTime: 2020-09-10T14:39:00Z
