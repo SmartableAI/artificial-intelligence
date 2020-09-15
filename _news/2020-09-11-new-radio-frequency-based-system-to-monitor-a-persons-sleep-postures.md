@@ -26,22 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Monitoring sleep positions for a healthy rest"
-    excerpt: "MIT researchers have developed a wireless, private way to monitor a person's sleep postures -- whether snoozing on their back, stomach, or sides -- using reflected radio signals from a small device mounted on a bedroom wall."
-    publishedDateTime: 2020-09-10T18:10:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/miot-msp091020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "IZ/PrSj4KrRYg+QJCaN/lRcf7hLRfVYZCLbfAI7TGxOsggllMxCkkViTgSin7EKWo4RhY3XZN9rjYpC/tZjb+w6Uqgw/0b+0UYwrAItlH4pTESuS4fS7BuKl0w2mT0g+irqU0s3Vd+JZ7OSooSODlzqB0WICiXpsHJInu9FOLfIBg/awOsE7Jl3xsn9zY4/5VHwkkW20xkJIO0zWJWOdOZ0wvI2bE9604iX/jnG+sCKZxjVPF/8VPldpRVTsXAMyCvH9HoBCUKbos5Bz/dvASy19kPxSpOLBHc33YsgX8FsgaE5Xf3rvflfqikzJ15S2TN0FXjzEfzh+MG+ESHPc2hvR3mdqb6mSZoRaurs7sY0=;cMA1COsBGKH5AizQlFSwBQ=="
 ---
 

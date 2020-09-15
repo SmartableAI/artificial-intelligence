@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-14T21:38:00Z
 originalUrl: "https://www.abiresearch.com/press/iot-machine-learning-and-artificial-intelligence-services-reach-us106-billion-2026/"
 webUrl: "https://www.abiresearch.com/press/iot-machine-learning-and-artificial-intelligence-services-reach-us106-billion-2026/"
 type: article
-quality: 27
-heat: 27
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.abiresearch.com/media/social_images/AN-2420-SS-Media-Card.jpg"

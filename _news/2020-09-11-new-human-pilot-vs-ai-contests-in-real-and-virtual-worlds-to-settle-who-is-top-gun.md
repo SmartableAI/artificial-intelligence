@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Forbes
@@ -28,40 +28,6 @@ images:
     width: 619
     height: 316
     isCached: true
-
-related:
-  - title: "AI to take on human pilots in real-world fighter aircraft trials"
-    excerpt: "The Pentagon will pit AI against human pilots in real fighter aircraft, Secretary of Defense Mark Esper revealed on Wednesday."
-    publishedDateTime: 2020-09-10T17:53:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/33022138836_f3e61b0ecb_k-796x476.jpg"
-        width: 796
-        height: 476
-        isCached: true
-  - title: "DoD to start live fighter trials with AI pilots by 2024, Esper says"
-    excerpt: "The Pentagon plans to conduct live trials pitting tactical aircraft controlled by artificial intelligence against human pilots, Defense Secretary Mark Esper said this week."
-    publishedDateTime: 2020-09-10T20:11:00Z
-    webUrl: "https://www.upi.com/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/8221599762363/2020/1/fea4f52f57f3ac34e22f047fa26f2f6c/v1.5/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "ASZpAV7uXU0bNvjJrte181hCdLF33asECNbCiGXt/k2PmeyjCr82fcztNHZ67AudyJuOMzb91Xy+sBOnbK1n+cU+TC0oHebdW9E71arMdFOWk/j9ujgrNpG3eeS/nRBAEMy33DuZGIyzNpLLuJ1ve0WnBXpKynkw/l4bI9/ixoSBRD9+R8swr880MS0ZphUni9B7JjIUc1a1ivyGUJ+8EFdX1ffyK8p8/NDrHgkWnynxYQyv7FBf/kgDsaOT1acucI7buFNIASfd3pM6M4+b7hDMjGyA+kqEqkQL5HbP3hWkPTuRTFxsFDCokxKqMd1Y4ffJtC/s5I9fT0mr0lqeGQMrRAoFxNj7qMKXrP6MZo9ZUd69kzYE/cUuEOAQLZbnO9flpyDdWAzRjZLpnFcvoT915+zLfCNY6x2qEUn40LDgCi6UnUy9G72JNqMObJKpCBz9dpTy4ojbj3uqS4UIlJ4mGPNi+qeHX4sdbj98l0R+f5Jh9aBugUJZwng7vEsj6JpNxtmHex2XPHdhYOv6ag==;dd3dceDciMXlI7WcNYddsg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/enchanting-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/enchanting-baritone-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-120091401435_1.html"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

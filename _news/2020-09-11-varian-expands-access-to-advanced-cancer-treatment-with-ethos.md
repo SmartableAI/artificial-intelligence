@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/varian-expands-access-to-advanced-ca
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11?amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Varian (VAR) Expands Presence With Germany's Ethos Order"
+    excerpt: "Varian Medical Systems, Inc. VAR recently announced that it has received Germany’s first order of Ethos therapy from the German Cancer Center (DKFZ) in Heidelberg. Notably, the first Ethos therapy in Germany is set to be installed and will commence treatment of patients by early 2021."
+    publishedDateTime: 2020-09-15T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Varian Announces Goshen Center for Cancer Care Treats First Patient with Ethos® Therapy, Expanding Access to Personalized Cancer Care"
     excerpt: "Varian today announced the Goshen Center for Cancer Care in Goshen, Ind., treated its first patient with Ethos™ therapy, marking the first availability of this advanced cancer treatment in the state of Indiana."
     publishedDateTime: 2020-09-13T20:58:00Z

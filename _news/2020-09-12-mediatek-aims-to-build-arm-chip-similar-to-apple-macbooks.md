@@ -7,7 +7,7 @@ originalUrl: "https://www.techshout.com/hardware/2020/11/mediatek-aims-to-build-
 webUrl: "https://www.techshout.com/hardware/2020/11/mediatek-aims-to-build-arm-chip-similar-to-apple-macbooks/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek to announce 6nm Arm chips for Chromebooks next year"
-    excerpt: "MediaTek has had a pretty impressive year in the mobile and TV market. A new report says it plans to launch a new processor for affordable Chromebooks that will be similar to Apple’s upcoming Arm-based processors for MacBooks."
-    publishedDateTime: 2020-09-10T17:39:00Z
-    webUrl: "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/MediaTek-Chipset-White.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "MediaTek to unveil ARM chips for Chromebooks next year: Report"
     excerpt: "Taiwanese fabless semiconductor company MediaTek is aiming to launch a new chip for affordable Chromebooks that will be similar to Apples upcoming Arm-based processors for MacBooks."
     publishedDateTime: 2020-09-11T13:36:00Z

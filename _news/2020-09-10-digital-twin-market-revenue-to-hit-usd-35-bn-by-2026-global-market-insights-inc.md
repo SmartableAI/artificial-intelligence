@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Digital Twin Market Revenue to Hit USD 35 Bn by 2026: Global Market Insights, Inc."
-excerpt: "Global Market Insights, Inc. has recently added a new report on the digital twin market which estimates the market valuation for digital twin will cross US$ 35 billion by 2026. The increasing demand for optimizing processes,"
-publishedDateTime: 2020-09-10T10:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-1029576982"
-webUrl: "https://markets.businessinsider.com/news/stocks/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-1029576982"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-1029576982"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-1029576982"
+excerpt: "Global Market Insights, Inc. has recently added a new report on the digital twin market which estimates the market valuation for digital"
+publishedDateTime: 2020-09-10T10:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html"
+webUrl: "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "b00yBW71fff71VEWHXu7G5bP5DsOPLM+9CgwRmZ+9e5i7Ffgdk9nLz5jqFHTLYrAAIXmb20TzKald4rkj6no/S1Jpxq/tFVgjt5cWvmaXnGFMO1PH8TcJC4Rb9gh5f8YbVgrDL8ea2FP9WLXhwwoSkk2GXdC7t00UsCJbv3gDQL2Z9A7ea6pinw4Zp5RtMFj+NTcANnG+jB8jwBuVZ2S8Rvx6ynuJncn9Sybk4wcb4M4y98yQ5dU536eJninEM+mCbUNhDS9Sr2Pv/dSDfx21JsAEx1T5/+IWy5EiB/uu+turnPlKgkRN1ZPF0XXVXfcHGfU6M46Y+VY711maXMrkkaaASMSn2hoEevjvWS66ng=;faqw9e/FXBrmR4DdQqT1QA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1251273/Global_Market_Insights_Infographic.jpg?p=facebook"
+    width: 2528
+    height: 1324
+    isCached: true
+
+secured: "n++Z+MZQP3r61LeDZ0R9AAsFZkVyhnU1xby/3Uh4lxnrZSH76ZynpL4YLFAsFF00k1AfUh1vPtnY3N5uREgn6ZL3k7HsGqmiBzDbtCRgQcK4N8rALSnaBOJIpIPi3AkH+NZwrE+MFgaNj84g+c/FLaP8UZSfI5wH1llFWAhYEITFyDytZgItTGlCay8S541ZWWp+FcKQrL1PFRkrYekP2hoJTYjjNDvunUTG2DJchCXnNyYHqNDPduGSzQJomImxqYxkJTnGVNK77/SSt9LH0ZMv/ErcefMNNhoEnktAxXg8qN/wtzh0yacNF8zq7NBccZHzAPNWgIkXXe9JPVLM+Dj1laszZEm+eJeYJalfpDg=;iHBJDPPsQ5S3mN/jg4D0wA=="
 ---
 

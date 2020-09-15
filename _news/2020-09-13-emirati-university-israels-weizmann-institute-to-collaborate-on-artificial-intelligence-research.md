@@ -85,15 +85,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing Reports Frost & Sullivan"
-    excerpt: "Despite the COVID-19 pandemic outbreak, the expenditure is not expected to create a long-term negative impact on the C4ISR program Frost & Sullivan’s recent analysis, Assessment of the US DoD C4ISR Market,"
-    publishedDateTime: 2020-09-10T18:30:00Z
-    webUrl: "https://www.newswiretoday.com/news/173626/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "Y3nEySF0zeOmWncus2dX8kcBnHvGNKdhbCBL9Z2LIjyoX3tia2NonN9ATJ89UQAF2SmYItxnzUvaNq7gZKByBIjhFyJXX3aqq6i7DcKXdZzwdDE4wcc+8aQ93lv4qvv8wB+Yf867SCcmtCGW4Vh31YGDtpA6ybpjq5KuzOeUENPloUffDciX3DWPaStCUQJzOTVncQtJHn5UT/u7x5GBL5htCJ3sJdhB1+fkLWA+BFlovdOswSOyx2+E3VhRJgybL0aqbWiSqjq9DdfaIvuZ1SwxwwpTc3kihM/qzB3wAb9Hmvkc73PAmGFX8IoaLEGg1lZbHvDW5SDJSkAFgsl3/KAClN48+2ipsczojzUDr20=;tfKoqxB4y5Tp0BQPoZec3Q=="
 ---

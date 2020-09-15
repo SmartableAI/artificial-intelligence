@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fi
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/09/10/DoD-to-start-live-fighter-trials-with-AI-pilots-by-2024-Esper-says/8221599762363/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 800
     height: 532
     isCached: true
-
-related:
-  - title: "AI to take on human pilots in real-world fighter aircraft trials"
-    excerpt: "The Pentagon will pit AI against human pilots in real fighter aircraft, Secretary of Defense Mark Esper revealed on Wednesday."
-    publishedDateTime: 2020-09-10T17:53:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/33022138836_f3e61b0ecb_k-796x476.jpg"
-        width: 796
-        height: 476
-        isCached: true
-  - title: "New Human Pilot Vs. AI Contests In Real And Virtual Worlds To Settle Who Is Top Gun"
-    excerpt: "The military and gaming worlds are setting up two new events to see where human or AI pilots are best when it comes to dogfighting, including a contest involving real fighter jets. Given how aerial combat has changed and is continuing to,"
-    publishedDateTime: 2020-09-11T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/"
-    ampWebUrl: "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b4a5e7a0e61983a39a74a%2F0x0.jpg"
-        width: 619
-        height: 316
-        isCached: true
 
 secured: "aNPT3Z0IyD1awQfmnIJ3kMk8PUBOXHy/neqeRySNEzi+iGsxKRHdhRYyDJa9T0Zw/hdp6F3JHEy/ofZciBvn0vhipeUUpNYwGkbdusqOx5gIO9xyfhx+YdPOjceXWiItwn8m2iDdhe1d01C+a619OYyl0B2e5r8jEn9qez0uYwQRibPxjvpEwsI7g5rmEujqPH7N9tfAfb3XlyKeL95lZPyWQNEdM2Gh6b+3JBThm7MZ9aqOM3RpkeifMXwi73Ho/icuBkYtwEjtYXEJ6M5xYNGEcTWsEvSIDjX7HMcpilcZTnBeRw4n546muVJCL2QU41VpVHdUVrOF00tdnewhEGMVC9mbmknzGwvp6LmMU5upOJyFPpRqcc7tp8PILJvjRFk6+QUqOVccTSoUhO3Et9KbnhhN2yh2e83xHseXN+ExsLrXaf9JaEQVKDDwEhoCjwZSHz6UFAxbRdutmdMLjFXypYXL9tMOBx9chBy4N5VeOoz8qZ+Z/QjPX/etdZtHLNZRc6myvdwzx1+ux6bRIg==;QPz4dO7wdeU4UkubRfI21Q=="
 ---
