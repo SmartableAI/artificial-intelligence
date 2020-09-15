@@ -28,58 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2020-2027"
-    excerpt: "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b"
-    publishedDateTime: 2020-09-11T00:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09"
+  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$ 12,958.9 million by 2027; it is expected to grow at a CAGR of 13.8% during the forecast period."
+    publishedDateTime: 2020-09-15T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market Evolving Technology, Trends and Analysis 2020 to 2026 | IBM, Cognizant, Microsoft, Osmo"
-    excerpt: "Artificial Intelligence (AI) in Education market research report analyzes the market status, share, growth rate, future trends, market drivers and challenges, risks and entry barriers, sales channels,"
-    publishedDateTime: 2020-09-11T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-evolving-technology-trends-and-analysis-2020-to-2026-ibm-cognizant-microsoft-osmo-2020-09-11?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Enterprise Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025"
-    excerpt: "The following report offers a comprehensive and an in detail assessment of the Enterprise Artificial Intelligence (AI) market and focuses on the key growth contributors of the market to help the clients better understand the current scenario of the market while taking into account the history of the market over the past years as well as the future scope of growth and forecast that have also been discussed in depth in the following report."
-    publishedDateTime: 2020-09-11T07:24:00Z
-    webUrl: "https://galusaustralis.com/2020/09/984158/enterprise-artificial-intelligence-ai-market-may-set-new-growth-by-ibm-hewlett-packard-enterprise-hpe-wipro-limited-amazon-web-services-inc-intel-corporation/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/984158/enterprise-artificial-intelligence-ai-market-may-set-new-growth-by-ibm-hewlett-packard-enterprise-hpe-wipro-limited-amazon-web-services-inc-intel-corporation/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/984158/enterprise-artificial-intelligence-ai-market-may-set-new-growth-by-ibm-hewlett-packard-enterprise-hpe-wipro-limited-amazon-web-services-inc-intel-corporation/amp/"
+  - title: "Artificial Intelligence (AI) Market –Analysis and Forecast (2019-2026) – by Offering, by Technology, by End-user Industry and by Regions"
+    excerpt: "Market is the inevitable revolutionary in the future technological landscape. With 397 deals and $XX million in funding, the year 2018 witnessed a new high in terms of deals and dollars related to artificial intelligence ventures vis-à-vis deals and $ XX million in 2026."
+    publishedDateTime: 2020-09-13T08:51:00Z
+    webUrl: "https://galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/amp/"
     type: article
     provider:
       name: galusaustralis.com
       domain: galusaustralis.com
-    quality: 42
-  - title: "Self-Driving Car Market- Global Industry Analysis By Development, Size, Share and Demand Forecast"
-    excerpt: "Sep 13, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-09-13T05:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market--global-industry-analysis-by-development-size-share-and-demand-forecast-2020-09-13"
+    quality: 43
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/08/bYy6ax_400x400.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Outlook on the AI in Education Global Market to 2025 - by Offering, Technology, End-user and Geography"
+    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence in education market was valued at US$2.022 billion for the year 2019. The growing adoption of artificial intelligence in the education sector due to the ability of these solutions to enhance the learning experience is one of the key factors which is anticipated to propel its adoption across the globe for education purposes."
+    publishedDateTime: 2020-09-14T21:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-ai-in-education-global-market-to-2025---by-offering-technology-end-user-and-geography-301130109.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "nNXRrP5le2eft2xcxX+cFcnXHKIcmiK3JTLVs6RmsCC+ApXHj19/JlWlI/bUzuiM0XM1aDVO72YUBOtGPbJYP+KhAC/0G8efAK/WaroBEn44TmeDIzwn75OBw49X1Zik6RSNaEJft1pd/585t30dlHqxGIEafH9muY5SKSFdWAaYTsRuQvcYrZrW+lRi4k9eDBOeDlyggiIQRSdQla18TBBeD9zpbLabC3anhG/+nQ/xlYcwuJN0df/Id28hG9sNDmdsAwsBh1lx0TqhZtCtMY5fEWVh+yhPsMSkOnsNFmFhuOaWX+XkRnO06sRLz954j8/HH2o1sLJikZxPaD/aH9mUDSNK0G/xtBvuGGeMtds=;S3VrNnq2SvciC+FjbCHfWQ=="

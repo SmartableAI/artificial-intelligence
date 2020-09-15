@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/09/940166/artificial-intelligence-ai
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/amp/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$ 12,958.9 million by 2027; it is expected to grow at a CAGR of 13.8% during the forecast period."
+    publishedDateTime: 2020-09-15T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market Key Vendor, Landscape Overview, Drivers and Regional Analysis by 2026"
+    excerpt: "The report offers a critical supposition identifying with the Global Artificial Intelligence in Diabetes Management Market by examining its division. The worldwide market that compares to the Artificial Intelligence in Diabetes Management market size ..."
+    publishedDateTime: 2020-09-11T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-key-vendor-landscape-overview-drivers-and-regional-analysis-by-2026-2020-09-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Outlook on the AI in Education Global Market to 2025 - by Offering, Technology, End-user and Geography"
     excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence in education market was valued at US$2.022 billion for the year 2019. The growing adoption of artificial intelligence in the education sector due to the ability of these solutions to enhance the learning experience is one of the key factors which is anticipated to propel its adoption across the globe for education purposes."
     publishedDateTime: 2020-09-14T21:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/business/coronavirus-automation-job-loss-fe
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/coronavirus-automation-job-loss-federal-reserve-bank-philadelphia-20200914.html?outputType=amp"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 787
     isCached: true
+
+related:
+  - title: "Study: During Pandemic, More Workers Are Replaced by Robots"
+    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
+    publishedDateTime: 2020-09-15T16:04:00Z
+    webUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html"
+    ampWebUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_483185803.jpg"
+        width: 968
+        height: 630
+        isCached: true
 
 secured: "xOUF0Yd3fMhpjutrBGg+n5+qxgwc+C+blNmXBB4wzgKU17/QPioNjeSG7upvX7eHBjeOGhFonklGrN25UJcxnuiv1DP7k9ULXGezCNzQ1bwSf939qzpd+FnZnksjRiUPYVpgDfdF5+7uVBWkdFxTR7Jc3gVk1JBEzvpGtFjkxBUMmex8Ar117sIhO7vUwAAb8OugxyfJFrjzq0FNEdXJM5iNeA9TWw6de+DoHTgQzh9Z1zwj82fHEVqidMZG0x2oegb28tIBKoubz5HwLTqLTiWVRHA5UhZ/lqYeVxCTu1rDDLRvgJDwxihyrSL3BjBEcMGs88fDvMlqUVFBaBfZfeA70S+x9SAQq2+22BdODOPqh/MQH4bQq1W3vpSYd3mzfr4f76xGGMzg6bkGQ0pvGhnVf2jAsbD8YvWMWESDNohSOZ3zoOsioJ3a6l0kPQITpcHBqb4lxpg7/2rllQviqvck5nFF6ERPS6Ipbh5cC5HOwYL5KF0uLIpTJFuy/MgJhUyxah39g31w/z25eI2YMg==;KmrKUXQr76nT7zlmeU63Ew=="
 ---

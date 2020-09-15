@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-
 ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aimingforacc.jpg"
@@ -25,6 +26,6 @@ images:
     height: 960
     isCached: true
 
-secured: "zNz+M5hmszb3TTwq9l8DCu7cEpJXzV6IyE3ElDOakSN+Q9bfTDEPZ1EJMW/Oj/WZS9hFuU1h2Txf9b0kSiHEAX5VosxybYEbfA31H/r3fVbnW6wADquNpfd87tYFc03n0JaOnEsCBGPByyMCRIUq3X+j8hC0lA/GYx1NteECWcquwGG886ydlZhO05Ao4wDjQO/wGCu2ysRGYRhvQZWFtdfypxTuEqc/j45RtB+G2xBTueoSFLyQJmguRJSWG/rlnLHWq3+oAkKJ1Lxfqxh8/aR3hOEmmG8J6gRDlh/lR0EMD1osr59iYUctKcYOpVAiFIgRvd7fDl3gPleywogaqzTeM1CUCf3T2/34JF87VcQ=;7kudDiFAmZtenECf7H7T3g=="
+secured: "cQQzvabPo1E/ATbzLIkQUL2jxVwQl1AdDIwmRGkDVryuVK8qvW12dfj2SGLlwwNwtQzIRq5YkIzHng9xj3f3bOqnTc+Y+zPMwM3Nv0kP9x/RvRzWbwc3tm8BJ6juqdAR4xeZdxh3dt6XNdyFboKYKTNuHl7BRtrQ+0EpMvGMqxpa7pXlEh2mVyf68dGvzj4Dc6q9SvJMdJufCv6m8rxcIdaz1Bk/7AnvWHUfN3/2uxO2ZZ3OYNdN75OqVi0DIxsMfGs7QwjQ7I7GWJj3c+NPYHkFaffnGxA5jW5IB+jZy1HLJhJl/Rz+KBkDq05tCD5OneeW1SIH0KHvX0mZdcm6c0SL/2N/I8+J0xaAjUfGAjNHmHWEl5HMvyvJVrIgjsbNeoxm7tuP2HLqncfgEKU9b7jZypivcSu/DGI5XX29s5xlUjsXcRFuS2kcGBijpcmMQu/qLGbgEcjFePdjt1kJAbQKSDUhNFxAwY4awOC/vCc15+ghYsiZttsf+haeNRZBNkWO5tL5vG9xF4OXGQWT0sIeP+mmKSf7SNXHhfqf5EY=;HiOtXHlF9r06v6gxCK+SkQ=="
 ---
 

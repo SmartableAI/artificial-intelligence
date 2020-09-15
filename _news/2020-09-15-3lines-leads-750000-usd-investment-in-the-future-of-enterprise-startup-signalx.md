@@ -1,22 +1,28 @@
 ---
 category: news
 title: "3Lines Leads $750,000 USD Investment in the Future of Enterprise Startup SignalX"
-excerpt: "DENVER, Sept. 15, 2020 /PRNewswire/ -- SignalX, a fast growing and AI-enabled Governance Risk Management and Compliance startup company based out of Hyderabad, India, has raised first institutional capital led by 3Lines Venture Capital. Rajiv Roy ..."
-publishedDateTime: 2020-09-15T15:59:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/09/15/3lines-leads-750-000-usd-investment-in-the-future-of-enterprise-startup-signalx"
-webUrl: "https://stockhouse.com/news/press-releases/2020/09/15/3lines-leads-750-000-usd-investment-in-the-future-of-enterprise-startup-signalx"
+excerpt: "PRNewswire/ -- SignalX, a fast growing and AI-enabled Governance Risk Management and Compliance startup company based out of Hyderabad, India, has"
+publishedDateTime: 2020-09-15T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/3lines-leads-750-000-usd-investment-in-the-future-of-enterprise-startup-signalx-301131332.html"
+webUrl: "https://www.prnewswire.com/news-releases/3lines-leads-750-000-usd-investment-in-the-future-of-enterprise-startup-signalx-301131332.html"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "u0RrNwkgIHK+RTyXrx/sZIDhrO8aMrV5jWm0h6x0uO650/6w8tYF8eBBk5ePJmZzrZeq3wd48oYzjOfKwEvDEwA8t6X6Uvx9mHQou6mUp7SV28fr+N8E382/tBg2NxjjXDIwuSVQcIivACl/er6R37Iy5t6ChdsFslmseJrSimg1c68wVCwnaWL1KLP3wdEOUGXUA4OJVoyg4JLDfDno/yRoQ4MjsaJ4Pl1vAjNJ1YIU/4q0g7HfrpatSJ/8/i5OhRzyas4EpD7O4POgZzZp7Dkm5szbYUkC9CvTbWpc4MUsyXK+PVfW/ggw8B7B31zFLxRCjutgcKZQQcJJ7k6uHShL/uYoJS4BUBYynJm/dMB0IEocjwo38QaHV/Rfwpr7IuKg/ulkOJ0Mmj+WJ+qeSSg58aqoT33Z0MWdSdq2CKu9NGvcKbSSyBcBve3VBYC833zMNoD4f9kbNr+xwX0tr9YFUNnRJv4lh4Bll2lH44mmelPLP+28EHWN6QTvfmSUfx18Jws2dhXV7nHRc7dVx7yMDWIDMR7L4LYFDNVH2AA=;uKeI0zYWFkLuV9Zf4V93tA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "gFTFvhB5K0ZVLCJSX9QCNbfAcvdS20tNub+YMHkQObUye6xfteRgB7nz/TFGMWt5Iz1bF5Ayv5N6dNb3jsNEtuj0dCgks+QANIdczkv3gYk4D6I2Hr1vfzQORhP8VmaTHeEFu0BCkWgKE6SOCiAiDyhzsctoLKziwEEPYSvnNfciuhD/ZWL0gJdB98CyxerjNBt+TqBHFAdtlpRfLeXM3OU2iQnjJhvkvRon56FeYSu9yVsc8okM10EuHWkXcG3P0HDcMAwV9eYSdpV+3NAB/Ir1WvbPhaQ4duv+3GX/6+yNxst55+00IJtWWo5KTfMSZNkySsQcHrJUPH5+ftt4FhkYRq9QxT7dEQucO+4Poh0=;C6jlvp36nWanL2GvMkm3pQ=="
 ---
 

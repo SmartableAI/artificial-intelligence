@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia sends shockwaves through chip industry with Arm deal"
 excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
-publishedDateTime: 2020-09-15T14:19:00Z
-originalUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
-webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+publishedDateTime: 2020-09-15T12:14:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
 type: article
 quality: 19
 heat: -1
@@ -75,6 +75,6 @@ related:
         height: 799
         isCached: true
 
-secured: "/sCkBRdkqmDoh/+8cMiroWRYvV6PwZ4o6du8Nd+uwwfcaOwrcet6m08aNURVfO7fszZkkfqtI69I4azhdRi+Yj3XUcUDd/3Q4V7z3YrefReEQTf2BxEdle76jKggam22G9NYLiJ7yJyDBDe1xILn9pqjhlO70glX+xlN6NDdqqv+vv5VFtivzkpJNaRoaMRnwczi5Trv3HNtPqigmD4P1S3Yiyayx8wIFfGf7XCB1lYVn37I5wqYtvjtBMcvIU/C6J+WqMJOME3aIeD5WQqco4kEDBcksap8zMjsGiY9hCvKinCVioLaiEwQb/wRzQhZw7AHFyNbkf3AoljRMQHb7drxwzsKSLm2/X5cX1TB90tCQUFywlOfpeViv+/VKa1roIkHKQImfgVzpYrXspojM2eAXM/j1YdKk0cHXFmrrXjfF9kK+LA4CtERkpw4F337E/oGlScbZJ1lX4D52nlj4vPxmKUifcKWqzL2oTUTzI/mWtycFaw+OsB9GM1QTmABHPU+caC3UiAK1qU2aO3G148SF3IAtWMj7OiApgNNz40=;NPnghRgG11Fm6OWsCKph3w=="
+secured: "SSCdSR4jGPC+bgEmGeVwsEgkaj+wSNWjgSNlscAlz5spu9mKxyODBfCtSgZfI+clLBDcLz8lfXYAAP8pxHfZKUIQj7FdHsViMH9qqrICtS7HrC3eWPQqfATuTS51c4mEu7bKub7Do8dWOfSoWPbyBxqpChRY+3BM/ZJIFhpWaCGSl+YcPDaN2HvKI2cicquTrMmKkof2Ef6ueAafjg3+FmZs/Rt5uQYpOPSEVREWsUCmpKR3BBNOAuurh8cTFFu+eSvBGyXEWK//PZupxHg5JA0xcZ9Pjbtn+ZMGGVCQJD8w2rtJRCPeGhVjP86RLmWZt7Ea4e0ThODoriajmTZ+37Du5xal3HRO6y6b2GPvl5Jt+dl5m7Uiw6h1fmSe3qQvqRi0wLwq13tzmGEe1gVRa2wK58m6Rd5dXTdvNziWR+WqMEHItturfHypfvzaBnFA7rcjAEKurvFoGq8Y4y9E69C4jqFiLdumDWMFKhGueOd5AX8l71nzDaNHY6SaBqLhKzd2QLgTkzvDUF3rhvSOmF3SkRMza6Hpq9HxqtYWDpU=;lbG7HDQiVshouU0gfLrv9A=="
 ---
 

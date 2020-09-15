@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-15T14:00:00Z
 originalUrl: "https://www.embedded.com/choosing-solutions-for-edge-ai/"
 webUrl: "https://www.embedded.com/choosing-solutions-for-edge-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Google AI
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200915094239What-Enables-AI-at-the-Edge-_2.jpg"
@@ -23,6 +25,6 @@ images:
     height: 345
     isCached: true
 
-secured: "i1/7mnyZvMzHkyKdZNeVbYB3ry5NqIEKUWfO016kUmFCqt7sqZ4CqKZa3Sc1hte3dmiTOdYuwK2Tj3PeMRpTQ7+tEv4rKb6tQmaRErJQDCbLf6XgGhqOmmltJeQjqk2tLY6BsG4nlDxl9OHC4JmctTeyvpy8TlbBE4oIkuraBLRNJYJydocILCS04/36lRQMsn/hwAPLX38HGidXe+sNgrOemAgP/mbG33yxBjqb8XrovypcL/YcMVp3wa97CX5IBHORMsPaRl7cOaQ/4cfgSBekSTPMrrfJSJ8iI+lIy5PIUL20ye8YBfS2mx1wIvIMhII90u35K7DVy3vP3nZwo7LXKMc7FWNu8EMNcMTXXMo=;9Rea/6eSTc2PVLr1KHxzsw=="
+secured: "uKKESfElmRSxm/738qGjuavCDDO9C4gEyJK67ENwpg/yrc/Cssgp5axB1sqMA+MjcbGpbkTqhBW+SzHYMG2JjG+1UXRR9Jm79/i4CzgD1/r/fHZ69tpf2XLfaRkk4rh78zMMZggGDYzp7CcP8qAD5ZGs/n5h4741L/2boVQlaHOClwMkQNp0Oi+ea/S5ymA4PpwJjayDCPfw6njIKygp2NKulq/jajCvr5QDZQ51Rfb3GxY6OpyeNIj3W19K31VXtkcRms+XuJ4YauKxNt/bH0iSC8Ru/P3qb7UR7jFS0RbPt0rN0/Zvuw4Xoku8Z2oIJpbGpSaSHRfq3pIbZCX6kgy4C7w95bVF7yk9lj5xAsVyW4Z0v05WG5tnWH5Eshu2pe2s4hP0kEY4pbdzJCLAk8Cb/PJpD8hkMGZPVgAB99iBEQScXxtSF32M46TthxwWZ+boYzRVhOJ8UK1zFAjWkjXD5upVXW4kuzZPF9IUhjXrCvWyWwooQwdJawUYdW+202VpgxBeYlwkEcvw0hyEnV9Zj0ukYwwzqWrNFA/lvDU=;mcbzTuh4mMf5ATgLj2vCRA=="
 ---
 

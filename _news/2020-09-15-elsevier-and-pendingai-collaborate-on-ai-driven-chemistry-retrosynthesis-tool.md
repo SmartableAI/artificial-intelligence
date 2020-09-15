@@ -78,20 +78,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
-    excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
-    publishedDateTime: 2020-09-10T23:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/us-dod-to-focus-c4isr-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-893593665.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
-        width: 2699
-        height: 1414
-        isCached: true
   - title: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research"
     excerpt: "The Weizmann Institute of Science and Mohamed bin Zayed University in the UAE to Collaborate on Artificial Intelligence Research - A memorandum of understanding (MoU) between the Weizmann Institute of Science in Israel and the Mohamed bin"
     publishedDateTime: 2020-09-14T13:12:00Z

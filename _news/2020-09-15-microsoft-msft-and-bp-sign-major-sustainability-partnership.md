@@ -9,8 +9,8 @@ ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partner
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Pulse 2.0
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "bp and Microsoft form partnership to drive digital energy ‎innovation and net zero goals"
+    excerpt: "Microsoft Corp. announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-15T16:33:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/09/bp-and-microsoft-form-partnership-to-drive-digital-energy-innovation-and-net-zero-goals"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 30
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/10320/bpm-smart-glasses-durangojpgimg1024medium.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
     excerpt: "Utilizing Microsoft Azure cloud enables bp to access a broad and deep portfolio of cloud services, including machine learning with Azure Digital Twins, data analytics, security and more, to gain greater insights, drive significant optimization ..."
     publishedDateTime: 2020-09-15T07:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/health-science/israel-and-uae-to-collaborate-on-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036/amp"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2020/09/US_DoD_C4ISR_Market-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "US DoD to Focus C4ISR Spending on Commercial IT Advances in Artificial Intelligence and Cloud Computing"
-    excerpt: "Frost & Sullivan's recent analysis, Assessment of the US DoD C4ISR Market, Forecast to 2025, highlights the US Department of Defense"
-    publishedDateTime: 2020-09-10T23:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/us-dod-to-focus-c4isr-spending-on-commercial-it-advances-in-artificial-intelligence-and-cloud-computing-893593665.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1252033/US_DoD_C4ISR_Market.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
   - title: "Elsevier and Pending.AI collaborate on AI-driven chemistry retrosynthesis tool"
     excerpt: "Elsevier, a global research publishing and information analytics provider, is collaborating with Pending.AI (PAI), a start-up focused"
