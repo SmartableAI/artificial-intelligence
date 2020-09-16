@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service"
-    excerpt: "HONG KONG, Sept 12 (SCMP): Chinese internet giant Baidu launched a public robotaxi service in Beijing on Thursday as the country accelerates the commercial application of self-driving technologies ..."
-    publishedDateTime: 2020-09-12T03:52:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/09/12/baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 25
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/12/856686.jpg"
-        width: 1240
-        height: 697
-        isCached: true
 
 secured: "6qF0K2850lYe51zfpzk0noICaLR5V3dsYy0VtM1CUp+XTCUTYsmMGOcrzb8E+wik5U7XLaLBMSX2Z+Yp7MUkNWLg0wMLGIrwAkN9L2ztOc3gv6SEHOtB2RpOVvHLRQC5icv+nloECU+Npb4Jkzpx5EF3gHXKLtZV5KBTPQ/Lsq2ixQowF/i0GGa6reOC4N/egCF83ZA7K9ky59f6C1oAo743Xfpm5PycILfAPD51OKVUN6HMoCPt98R9p3MoGUr+GzwKbnD38DQZZnDsWv0TDNilngt459zvdCIgSTvEdcMb2RBw7kLcdCODMNOmi6JBAuzeOcOv/hqjDBxGZMfduaRTZFd7c13pFr3VTvIT9ho=;47346BX9gXQ1fIe+mKs/UQ=="
 ---

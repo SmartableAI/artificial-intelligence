@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-    publishedDateTime: 2020-09-15T22:00:00Z
-    webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054"
-        width: 817
-        height: 545
-        isCached: true
   - title: "7 Self-Driving Car Companies Racing to Gains"
     excerpt: "Stock Market News, Stock Advice & Trading Tips Self-driving car companies hit a major pothole earlier this year. Long a"
     publishedDateTime: 2020-09-16T18:26:00Z
@@ -212,6 +196,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 49
+  - title: "Safety Driver in Fatal Arizona Uber Self-Driving Car Crash Charged With Homicide"
+    excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+    publishedDateTime: 2020-09-16T00:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
@@ -325,20 +320,6 @@ related:
         width: 618
         height: 407
         isCached: true
-  - title: "Even self-driving cars need driver education"
-    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
-    publishedDateTime: 2020-09-12T04:38:00Z
-    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
-    type: article
-    provider:
-      name: WHAT HAS
-      domain: theindependent.sg
-    quality: 24
-    images:
-      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
-        width: 496
-        height: 372
-        isCached: true
   - title: "Safety driver in fatal Arizona Uber self-driving car..."
     excerpt: "By David ShepardsonWASHINGTON, Sept 15 (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that"
     publishedDateTime: 2020-09-15T23:02:00Z
@@ -380,6 +361,22 @@ related:
       - url: "https://images1.phoenixnewtimes.com/imager/u/original/11494118/volvo-suv-uber.jpg"
         width: 1386
         height: 797
+        isCached: true
+  - title: "Thatcham Research comments on Uber’s self-driving operator charged over fatal crash and considerations for the UK"
+    excerpt: "Director of Insureance Research Matthew Avery has shared his thoughts on the Uber case in the US and the potential implications of self-driving vehicles"
+    publishedDateTime: 2020-09-16T21:46:00Z
+    webUrl: "https://www.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
+    ampWebUrl: "https://amp.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
+    cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 23
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,h_700,q_auto,w_auto/ap0542iqdzwbcxe6ijrq.jpg"
+        width: 933
+        height: 700
         isCached: true
   - title: "Uber self-driving car operator indicted in Tempe crash that killed pedestrian"
     excerpt: "The indictment comes more than two years after Elaine Herzberg was struck and killed while walking across a street in Tempe. #phoenix"
@@ -430,6 +427,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "dlge7fFXYXm9cfRZpBR3WtF5+CLh228vjPZWdKAY/97iRfFH+RjX1enpttnE5eZmt7OzbXE0VEWAhV8i5dpLpaTbHxFJ3siKNp9RkMaglZPwwr4HMvWLIsVqmgPbIN0VacEoNz2rbc8Ci0NI+i+Tvy4GoqeB2jY+98/0p4FoLio2eDIE+0LcMqdlzl6YBNZdWAAHAeWVHcd3MFJHqiHKJq+ccyemzbNSvw+OWmdNh/QHFBrr/Plvktj8GYKJftriSZlIi3al6qBbXI0sREX5LXa7BfgZm+cG415VdOejTUzm7o60/3Ifz+FK3+Jwo6mzk8Cz9ifTXw0eWygIC66jqamugdE4I3KucjE/JySDm6w=;HPlPGXCKuo0T+HHQeqyN7A=="
+secured: "jsnK+nvjJIgdE+pT+TWp2o2VIL9E8h9zUpdenrmxIH5xA2QuUGwRPsb+uTtr4HXjJQDBTmvIoW/3QFulH8gwmNA73P49s4CWmHuixMVlLjxjZKRr3BZkgkDVLzRoEHSAJjtqWS6Fzgv8xYHZtx/RBN+0OrqNzXc85n9cDemoiPS47/CfEWTm//Y9YIffKcpw8vBJ77ozBm1jAX0PuR0GVg8j79bhKKtjbjXTSIhgcZuFX5WSqNVqXONhxzsHwTGZqGzQT/fHdVRhSh1lx24UuacQHR4vnQsNeBLtCXLIBv+0lozkWtC2micpQ30VzixX6gwZ7P+VKYttrbX0L4pL05whPsqWTyJEmPB32nyn7/LmdDCqzru8aA9c4ClY96/n90ngnFXiKDjyfRycjvILVXpCVtB/KSlaGnvxGALAnoGBO5G2YZOLzetHVHGTRFCMeGfIuzBwCBW3QmfqvCkyxqIlqXhPwK2ZnavZyhw96LgKo6dN8JYliYEF14G/r3zZDWvfgUFvYbHTIlZIf3XTFg==;hEQ4n9Foc6dkrJiLckLdcQ=="
 ---
 

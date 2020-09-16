@@ -57,6 +57,17 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Nvidia to Acquire Arm and Create AI Supercomputer in $40 Billion Deal"
+    excerpt: "Graphics and AI chip manufacturer Nvidia confirmed this week it will acquire processing architecture company Arm in a $40 billion deal. The company plans to use Arm's computing ecosystem to create an AI research and education center as well as an AI supercomputer."
+    publishedDateTime: 2020-09-16T21:38:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
 
 secured: "Zpn2nwc8cEJSf4PPhFdlMhznDGEmBDITfGtG2D1vYpwZLyJPoqI6xqriTPZPPttcRbseKzSOJqvtR+lPKblpK+paBSmUMXPWPw/bCMpGkcSryc3Q1f+7hYR4m1fJCz1NPU/h9PxSKjB6plcN4PZBhUEKw2Bh8cZLUfMe6R9lv1LiBeurvn7KxVP+nhhmykGeBq9M/NK9lcR3Y+WtO4pKvrddYYKQ8CUfhYUOz+G90G5bv/hdZedpROl9mpfiAX2bS53X1OFIx2yx0V8BfTHp/rmk1F3+am9THNRMveiKwWElejG6k/3fU4T7ZCVvKrZh5zrBbg44BkEyRVzAe+duMi4y34PoU3Jrj1PtEOnSioULk5Xe1CYN5s3hSAm6RWjZUf7sl7M00Nx98LVko5yCAlQV+vvQ1SpMPpNRWygd+fSp/LctxUp/uxGaMnASCW/74euLtMWFdxEsW6dc4mSPIo/7mEXF9BGxH6nEMAvcgagNVfZxKdpZ8Pz0AteiMdh0Z5kpuq6U2kJNGE8dAfnT+w==;O4uE8nGJ36oYbVFoZ10LPQ=="
 ---

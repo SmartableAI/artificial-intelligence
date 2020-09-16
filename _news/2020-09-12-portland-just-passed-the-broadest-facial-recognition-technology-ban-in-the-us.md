@@ -73,6 +73,20 @@ related:
         width: 2000
         height: 1046
         isCached: true
+  - title: "Paying with facial recognition"
+    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
+    publishedDateTime: 2020-09-16T21:02:00Z
+    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 39
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
     publishedDateTime: 2020-09-12T14:17:00Z
@@ -105,6 +119,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
+    excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
+    publishedDateTime: 2020-09-16T19:57:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-council-debates-proposed-restrictions-on-facial-recognition-program/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 15
 
 secured: "6QLhaYgdQTydB52ddIdX38tpHk0dPuWBrF0vQxx1PLas5s8zeo6+MtRi9ZdZbJHJrZWwC6TmIj6/EgkyJ1Q5T41uupD+X7rZOqMuhalkYihtcZoRuDI6YiBPj8RoaEnJk1cF1YEXf5svsr88chJdNxCNi+LlAYLK5MzMub+blBD1FTMKgLRi3XLVcJzACfqZJjCNgkzkJFmHbxidlrFimswhrGcXz7zq7GiXSOY/2XoEJo54tFSvsSTqz6e3dju7asc6DVmUjYdbWT5MJ6kCxSotYtKgnVoN8gDAB6ILYWSGqTq58hxBMBoFpZy9V+JILk/vbPPjT1zT55u3+5Yved529EVDvtBRdhDcXnXqvaspvF8ePKy9CaXq4wRt0h/pfNlz6M07f7hzs6rN/xG6XnFByFUDSuXirjiAuNNq6HFMzOHbX/CNprnwyrGQBGT9dSPVbrjmFEPXoAniWZooZTWU7qOQuEMGbQiCnDc4rQqVKKouaY8MGojeA0qOj6eJ7hU2x+ujCPVPAwr2u/ZWqw==;6muw0gvknJHnilI7A/edZA=="
 ---

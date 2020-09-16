@@ -3,8 +3,8 @@ category: news
 title: "A.I. robot serves customers at Seoul restaurant"
 excerpt: "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
 publishedDateTime: 2020-09-15T10:57:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
+originalUrl: "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK"
+webUrl: "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
@@ -123,6 +123,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mJUJbWqkA+gcA/klGAFVdi1ohjK9t9DD2N1vC0e9jutdNIqnU4JbPsVzQzx1uT32xSISqcAj5XyLoDRFMyFR8OtyoFYE7awSFYt5bAK425DyuimsRyghr9rirsdDp+nN7cbk8pQHh2yVDs1QF/GlF+PTQFW+i47sSq1cURhFEZMd1j+U5BbxcehCmfeN24n33MgyIuv+ooHTt5/7glUGbqr7ZTyf+NLq0C5aZxkjASlBm0gtuqVHke9SXnAdAjDci6Afjp+74BFnVJF/MGP3QjP1bwPt1e4zAgsabhhVnjH+9CYNolWChd+KeVC3MrKoXNH4qRu08HLrB6hxx0a8oUaz95dhLKcMu5oYc4MXtn8=;i6+RskYxAcgPMAdfZZ5EeQ=="
+secured: "qkRS8Qtt54GsrQkEUxuDlIIJNFNx6R2n5JzsEauRJHJ/kJ28syvP0TKmXrx84zUivQfUbmqu5Fl85uo+Ddbe81csNplAyaAxdtCP1kXtgZq1nxqsz7iXztSW+g4vQZWgaXOvupCTrMKRW3u5yyRap68PrGGhSJeU5lOWaz6JsEuksy3zs5tgX80D4WR2w3ckmbE570GN2e+433Vj73kx9nLDhX/P4GTcv4Kqj4mr8H/hOpjFm8+FPVoipyABFNOZYbkKo/xXd6RG9kVp9Vmmo0ZVAY77XinTS3yqpg9+xY2ZwyiiYSOACXl2h1LozssmAaRaDiQkAqheNyOVDUG/NmqP2GwZ9Gx5uzWvEn6Ul6w=;/B+LYflOkpYbBIbGAb/crw=="
 ---
 

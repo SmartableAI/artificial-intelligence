@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
-excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
-publishedDateTime: 2020-09-04T05:21:00Z
-originalUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-webUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-ampWebUrl: "https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247"
+excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
+publishedDateTime: 2020-09-04T09:58:00Z
+originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
 type: article
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/9/2020_9$largeimg_1012661407.jpg"
-    width: 900
-    height: 600
-    isCached: true
-
-secured: "acd+ZzSiRuZRZhdSjP35WqQ4yKoCffP+C2wykQOtQyRp3zpRsAskGqjaZGLSmA9SEJyFLMIHDplZvaVJTbkOZ2CEMoRyyzfY9Bn9tOjbiS1x7PcKfrev4TUQZ79uXmQ4BYfsiqmTTwXHuP3njxFtuYlh2XmszqVfjD/P9pA2jkeV77aoqi4Xm5c4/OQCyoSaaeBoIfh6CLHZ/6dPyT6OSsYtommCbP4e4o3DmFxFf24yQ950d3uDB0gbf7xUsrZ2S809wyOBwAVWx0UOrpLT9JM/HwQdIA755buiIU6xYfn9Oe9hSmyYPaBTDpSNY0PrM1zmvLwEoXzaaUzXn54y7FqoscjG9GuvTdduhoip/u0iuOSpNImko92jK2O0Ai7aAiLwTCg5v5k5ak0daRiZyoaICcyS23gNJ8D4vxgSTpBr3UXlT/Zw++CnLxt3Ml3OuJdWmXXOkg8J53fmK84stoyxcyLHiKiH9NhCX0tciDF7/eEOIEaro9ttrIqEslxXwlsORQTTpRRXomXXzZPUMAcanK+UVcGOil2RJB7wXCQ=;tZg338lATMkPIUIFAsaeXg=="
+secured: "mY18JTizGLcsAnwEAJqttDZJMlwyOy/qOOTB4Llv77WPPdrF/oJllruNPHwCeIPC5oBF6L120Eng2dTkaisYu1Dkt32oFJ1cDEl06AAoU1mr7NDJN6/8tW7iTwsoxW75v9s9YxPg7zY9g2WKkN+BC4PyChMhBKS6CHy9VaWRpv2WkTQqknzWgjHjU5dsyhoWf8vzdTdMRh6QabP2KpHGY1KzTQslYEDcLZMmIJ1epmEBB8bmdzZ1OVNmtBONFPcXa0TZWDkewC2w6h24DTCU2+NTe2dAggSh72VkrsrjdgEviE+FZHU7rjYJ6LzV4zIei0pAN425i8UL1uOlvC3ELz3ioh6BoEUry8zw+ND9HZQ=;RxDeKrFXCguBWIfOVpZimA=="
 ---
 

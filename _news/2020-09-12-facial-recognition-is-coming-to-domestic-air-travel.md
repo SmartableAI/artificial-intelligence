@@ -81,6 +81,20 @@ related:
         width: 2000
         height: 1046
         isCached: true
+  - title: "Paying with facial recognition"
+    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
+    publishedDateTime: 2020-09-16T21:02:00Z
+    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 39
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
     excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
     publishedDateTime: 2020-09-14T14:17:00Z
@@ -104,6 +118,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
+    excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
+    publishedDateTime: 2020-09-16T19:57:00Z
+    webUrl: "https://triblive.com/local/pittsburgh-council-debates-proposed-restrictions-on-facial-recognition-program/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 15
 
 secured: "OhkUb6w3UtfpREwfG48i6EGoKW+hx/wpvlpnjpJ4NNaoNM/2R3msy71h84ef5rBhOASZQR39V5DTgsUGVqKWItvBj0CeTAuAJhrxA4M40jEk79QOJsaNpS0/gek+APM7WjSVprPP9D1AGFh8y6BIJh03Z/ptRZyK+SnLufe+xlVx8tT+jdpFSNslr35zZYwdnnqDDQSRSPYeXTmBwAWVqOnwyd5UPWG6/Q1HofL6x8hYz24wHWPTLQ7kqF4vgHYcQINQwVE5bX57x8CCWc1eCFTC4ePGzCCiIPI1x+Alv7HDma9q48Js88MchkxQO4fizEvMLk6GeVc30lq9gTtYJlY9AJeaLdYa4SGCvDPYdgQ=;CsCOydudizzvar5hcYyJ2A=="
 ---

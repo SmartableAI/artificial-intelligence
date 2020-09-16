@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
+    excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and"
+    publishedDateTime: 2020-09-16T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
+        width: 1413
+        height: 740
+        isCached: true
 
 secured: "5Gx7ZMheuDu+3nsV49aiIjkO0CrnmnXuKdlbHEjkUycbe7U4H444+EtLF7UVgb4l0eOb+RkoJSddPfy//D9KlhGbOeXeLIvFCxLmOywkajIcbaYzSfFGxEmdKf519S0CgQ7i6c7vhljoR9KOba1aB1nLIgSteNdga2vwXnpnkaorp7YfFICiJuT1Q/S+MHOyvbHcOxKlM34+rbxF6csaD7BxerrjhINwu/0fqfMEjOHl2/zp7x1/CK6XQsekLVBKnte3Z+1356NfJa4cNhi+nISjsAQH0EZXDZabl8PUG11cd0sqSTWpcRathO+/Zk2nrOuZYABxUjDoxYcnKsLvXhTCDI2lOVen2gH0rwIctWI=;IvttRRELQvrQEswfqCBskg=="
 ---

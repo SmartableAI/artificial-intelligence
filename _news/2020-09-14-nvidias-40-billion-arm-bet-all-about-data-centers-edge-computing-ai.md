@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Nvidia to Acquire Arm and Create AI Supercomputer in $40 Billion Deal"
+    excerpt: "Graphics and AI chip manufacturer Nvidia confirmed this week it will acquire processing architecture company Arm in a $40 billion deal. The company plans to use Arm's computing ecosystem to create an AI research and education center as well as an AI supercomputer."
+    publishedDateTime: 2020-09-16T21:38:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
 
 secured: "xDyoqP8YLzrS887oxhan2sgzdeDzn9fT6DvXiMzmfGpRAw56YZl9ovWxIbo6N2pqzjcCJAkpVQDD+fC9RCDkTRKK5HA7sF5RVXVHH77/sx3ToZauuvapgLlDhkD+y7wqeXGhsO0/tN3EqPCAOhpXzxG+XbgfmlcvLoKFSl8bjx0ykPDbQXQgTAMRXI6lIx5bJ9UtOs6e4HwKx4QnfMrEPUtZvb/LZzFJTb0U1aDdtosYGDpfrD3Y/7KBFJPgGistboEWmvkd4e3g7+nxlWx3BTSIy1BsPZxsniJGY32jmOgG0AmoKPXsuMYMPYQU2ABDIod/N6/aeRt/+Og135TzuJB9mH7+2/HjY1h26koIyYdSya1KaUQKTMRjO9VX0JGyC4J9MGKp9W2dpkNJhzaMS2xlK7+93OP2I1HPdPameJNMOD1mXjp9k6DzqPusHlcYzYe7ViZnPdi7czEy/3NeI0ZiHeNeO3pMyVA2EBdvM6Jvj8OE4xQdbyUFRjeDg1EaMDtji5oto2yukntcjZqTZA==;BKyT9G8YB8MBZ2iIKWRaHQ=="
 ---
