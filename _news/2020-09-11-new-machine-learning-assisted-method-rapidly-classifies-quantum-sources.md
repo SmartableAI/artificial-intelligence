@@ -1,31 +1,26 @@
 ---
 category: news
 title: "New machine learning-assisted method rapidly classifies quantum sources"
-excerpt: "For quantum optical technologies to become more practical, there is a need for large-scale integration of quantum photonic circuits on chips."
-publishedDateTime: 2020-09-10T20:28:00Z
-originalUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.html"
-webUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.html"
-ampWebUrl: "https://phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-learning-assisted-method-rapidly-quantum.amp"
+excerpt: "Purdue University engineers created a new machine learning-assisted method that could make quantum photonic circuit development more efficient by rapidly preselecting these solid-state quantum emitters."
+publishedDateTime: 2020-09-10T19:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-newmachinele.jpg"
+  - url: "https://www.eurekalert.org/multimedia/pub/web/242677_web.jpg"
     width: 1440
     height: 1094
     isCached: true
 
-secured: "3yRBZSwj6zSZek+zeg6O0u28V4vKDpqH/jMR1POAQCh7ZHeNbhwOg9Ye9+sfjaM7btHCcmbpjx25xcgqSOHDzykykWG3OpLr8A/cYq/Bh3ucbZCBIzQe3Zqadg7GWadrYvQQxrJoJfGsiX9AKW9cSXYlOLB6iHupooZf3PVlHYg8RQexcqqkhlmFisBHwYjWR+mV/dt8d4CsCoCs4k5E7H9SSjUp6l0Ii8elic+9A/i6PFWprEW4xpabQ9TYYKe490dpPj7g2Z2vV59XSj3UoZT75aGSuCMng/lgYj0DmxIv0fhW1X9gBNLGYnRmkEGAQVr+KRTAswQBC9mTpAKP44haVT1EJcakdy7v79epgectYg48fhtSesAl/TUr/2Ce4q9HLlcL8CHiqJ5oYvxIqMAhFgbWfo0URaFNNcDQskprGtmGek/fVbSGkpYweypSp0eagtuo8G+cUoonKMx6aaQKRQx9eNt+QjO1comZihMPT7FKq8SMI3zeufTXftszhkovMNNZp25pV3himafe9wHSV6GVvh8ovKGD+/w68fc=;ctm2J8P7sBpphC8o+CuYrg=="
+secured: "2O2GJ9wK4CQnqquidiedySD9kwaUlSUtOVJQHbfj48k3Y6JBgE4F5x7Cx1BM7byCWFnUTddXtquNU7KJaDiAWyZM2M3uM38m4D8BwpDruheEBWxV3qYZ9TEIzP++erkV+kAOGngjp5HQFQ2KJyGdFzm8Bq28kPXBBYm83oCsrwyEiQikFMSjuG3JCfv1Sygqn96nsjQDj5+VxIzsiiPuZvke+Sk5ClqEnGAetu3QluciEfnK1K8rPfe8VLvmGq0ph221xBMUh0eb6uWIC4wRn8PcykVyuhYKyiAUhvFREFToiBHFMb28Bx7n9XnNqdSmhe1068kdhmgP847vtFgh756PNOZpLKcJUWZLzTrhJGg=;BdFUzVhvtEz5tr2bwtVBGQ=="
 ---
 

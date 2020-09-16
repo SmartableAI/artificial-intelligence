@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces
 cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "BP and Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
+    excerpt: "Microsoft Corp. today ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-16T06:42:00Z
+    webUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-‎innovation-and-advance-net-zero-goals/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 21
 
 secured: "OJfmbr7tqDLnpOVx4YAKWiNyA2KOJ6X7lj2awutBHnhjPM+NiE9e60LZ2QgfDkIZQV3O8q4sTxmRTCoqGxkD8Ks9mIRVmdplLreWzYTjcUE23ZLstQnnFmaLmeLm6tCbezODx5oWDsoKKCqbGg2UgsN/HzFP5/JDw1/L1OS/c+KhWj1eotielMxmZR+ohsYj0Qb6m1ME7Ms4NQztSu/MXsnZzCxU+vedg0XK1JgZ4lHJKGYbMsJHHJYgohKsVFztbjU4hKMTvfqDFYpZnVU1TGfghtRwcfo3aaKA9Mc1qU4vH6OLnB9h87pmkgbDM15Xu8oFlfr5a1Uo/XY7GXh85DXB+Je0B0vOQIb6icRseOx1Ifaed58AcznlgIU0+0e2pvz/DW7y/MvOJy6oU1tMV/fSY8ZrRweIAJT2rkbZw2kT5MQOPXqxn4aqi8ruMRvL8cdh8VFQXPYiHcP85PgLCwWKhMXL1C5aQ2xHboCun6SfqhO1n9mp+q9eKbf/EPhfOAwTIfFWh0STzBlILGQuCQ==;52s9/i+kWNb6YyK/aBna9A=="
 ---

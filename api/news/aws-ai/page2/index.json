@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-01-aws-announces-general-availability-of-amazon-ebs-io2-volume.md",
+      "title": "AWS Announces General Availability of Amazon EBS io2 Volume",
+      "excerpt": "New Amazon EBS volume delivers 100x higher durability and 10x more IOPS-to-storage ratio at the same price of current comparable volumes Bristol Myers Squibb,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/b17222030/aws-announces-general-availability-of-amazon-ebs-io2-volume",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17222030",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17222030",
+      "publishedDateTime": "2020-09-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-arize-ai-helps-us-understand-how-ai-works.md",
       "title": "Arize AI Helps Us Understand How AI Works",
       "excerpt": "The lack of explainability and observability prevents AI and ML from being trusted tools in critical areas of human activity. Fortunately, Jason Lopatecki and Aparna Dhinakaran created Arize AI to helps us understand how and why AIs think.",
@@ -1320,48 +1352,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
-      "title": "DeepRacer Women’s League to help women develop machine learning skills",
-      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
-          "width": 475,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "publishedDateTime": "2020-08-20T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

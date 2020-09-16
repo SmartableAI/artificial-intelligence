@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Contact center startup Observe.ai raises $54M in new round of funding"
+    excerpt: "Call center software startup Observe.AI said today it has closed on a sizable $54 million round of funding that brings its total amount raised to $88 million. Menlo Ventures led the Series B round, with participation from Next47 Ventures and NGP Capital."
+    publishedDateTime: 2020-09-16T06:37:00Z
+    webUrl: "https://siliconangle.com/2020/09/15/contact-center-startup-observe-ai-raises-54m-series-b-round-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/phone-5300447_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
     excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
     publishedDateTime: 2020-09-15T13:45:00Z

@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Google Maps using DeepMind AI to predict your arrival time"
-excerpt: "Google has partnered with DeepMind, an Alphabet AI research lab, to improve the accuracy of its traffic prediction capabilities. \"Our ETA predictions already have a very high accuracy bar – in ..."
-publishedDateTime: 2020-09-04T09:58:00Z
-originalUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-webUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-ampWebUrl: "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html"
+excerpt: "As people traverse over 1 billion kms with help from Google Maps in more than 220 countries, the company is using artificial intelligence (AI) machine learning (ML) models to predict whether the traffic along your route is heavy or light,"
+publishedDateTime: 2020-09-04T07:03:00Z
+originalUrl: "https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html"
+webUrl: "https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Google AI
   - AI
 
-secured: "4Zju2CH5bT3+A4crv0/JI1K3l274ZgY3wmkSox4hKb5y8esb0ZazGTuDhfKRvPKAsiLES/tf4vZPxf+MrHYebwHm5x6kuXcW+CBOALizkU5yiTTVIQEp3Hme7ADziIwP+gGHIDf1rrnT+ujfGkfOlwsgJgzlb96Aw9IjHKyTiGjVdY6oaHf/xkGsmF54KEmjtobT4oObD0KeikYJztDixbPr++fcTJRVAHkYycpefCigzOw4mAwHrmaydAB/CgiHzaOy9FmoSLsXHlkPrAO+PGNXniJYwFuS41yz3h0LODjgWqb1k2Gw9lt12+nVwgX3iTNtZJwHmTbpbpyyToQCGb+OU2zPXnw3644y1JQjoLE=;x3zI//pcF9isp/NiGQM8mQ=="
+images:
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-maps-using-deepmind-ai-to-predict-your-arrival-time-2020-09-04.jpg"
+    width: 1000
+    height: 800
+    isCached: true
+
+secured: "6cY0G5lYK4ucb4DEEx0i2+jHaN90O2MWIe7Y0z4XB7n0C8W42Ptjzk+yu5aWTHcECO9ey2G636IfX3Cq79Pul/FFyJdIIC11MyefBJXVSycqlkmy30mIj/KPsKDVyk3EQwUOqs9lmeOSksV6DLGAl0vAfF9cDdynK5qZ84yCw63QaiziZw4idM9irWS491oEZ64ZMgf8QnUfu6DYZV9BdXxmlqoVToeuPpA4W1gTrWFZ1WDfxgXoGWxn7sxt22ZjoY+mVDFeEnbRf5w54UHQzAtd+rEPkZa8GoJBb1FikREwuXM0ZkffxGM7FAIG3FDDATUi0bI9vLXjKZd5DByUDRBFviVbrTXiuq+f9p2Lww4=;B9B2bQKc3XXgc/mZSIUX+Q=="
 ---
 

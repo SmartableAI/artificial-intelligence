@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-06-algorithm-created-by-deep-learning-identifies-potential-therapeutic-targets-throughout-genome.md",
+      "title": "Algorithm Created By \"Deep Learning\" Identifies Potential Therapeutic Targets Throughout Genome",
+      "excerpt": "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/algorithm-created-by-deep-learning-identifies-potential-therapeutic-targets-throughout-genome-301107737.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
       "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
       "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
@@ -1315,49 +1356,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-commentary-optimizing-a-truck-fleet-using-artificial-intelligence.md",
-      "title": "Commentary: Optimizing a truck fleet using artificial intelligence",
-      "excerpt": "Driving a truck is a transfer of knowledge and skills by humans (at least now). High-dimensional problems are problems for which the relevant data on which decisions must be made has hundreds, possibly thousands of attributes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_072720_2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp",
-      "publishedDateTime": "2020-07-28T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "Google AI"
       ]
     }
   ],

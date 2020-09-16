@@ -103,6 +103,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15</loc>
+    <lastmod>2020-09-15T08:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/</loc>
     <lastmod>2020-09-15T07:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -667,8 +673,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
-    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
+    <loc>https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html</loc>
+    <lastmod>2020-09-10T14:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -693,6 +699,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/10/a-beginners-guide-to-ai-separating-the-hype-from-the-reality/</loc>
     <lastmod>2020-09-10T13:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-09/pu-nml091020.php</loc>
+    <lastmod>2020-09-10T12:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1171,7 +1183,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
+    <loc>https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
     <lastmod>2020-09-08T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1243,14 +1255,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
-    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
+    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
-    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
+    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1585,6 +1597,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://hackaday.com/2016/08/03/1980s-toy-robot-arm-converted-to-steam-and-other-explorations/</loc>
+    <lastmod>2020-09-04T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/</loc>
     <lastmod>2020-09-04T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1693,12 +1711,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html</loc>
-    <lastmod>2020-09-04T02:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04</loc>
     <lastmod>2020-09-04T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1737,6 +1749,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717</loc>
     <lastmod>2020-09-04T01:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html</loc>
+    <lastmod>2020-09-04T00:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

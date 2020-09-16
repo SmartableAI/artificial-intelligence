@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Dystech using artificial intelligence to help speed screening for learning disorders"
-excerpt: "The cost is not hundreds of dollars, it's thousands; it's just very expensive and very inaccessible.\" The app, which leverages artificial intelligence (AI) and machine learning and has been built on Amazon Web Services (AWS) infrastructure, takes users ..."
-publishedDateTime: 2020-09-15T07:16:00Z
-originalUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-webUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+excerpt: "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,"
+publishedDateTime: 2020-09-15T07:03:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
 type: article
 quality: 80
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 215
         isCached: true
 
-secured: "4uM0mQwlM1gqdkcqxN85Ld3x0H0+wiZb+FToRuIVyzmY2y5iaAcVYM6n55JEAn8H4rDAV6JwP95q65T8IKoLAh7fzPcPyJfqHFUpjYrSldkO79sZ04lsIuVU8E3vdMWtm97srwUb6IBQO+qtS/d6G8XbYVKB6maKi+A5JMVFJlI4Bbch3dyKoFp8kkwX0GytIbb4NX5RALZgIKk0fSb2So2QfjB72Se2g3Luk46ZaGX3Dhfm3knDjbU1fDGLNow7YyUGBl+tlJVjw/UrbLd8v1v3BsTHTZ85eb1/BKxRTQ5fYQDc1rBNJGwbZVHIsK1fCkLwEcJC2bNA7R2acdGYUnAcJ0mBPu711eiI7wheMZyObDYWfMiZFybLh5QmtKELdh5umMRZIB2LXkwvAkzN9DX0SZ1XR6wsdX11jaszgokKmMeMTZZTvpwWR+rvbVaDSutPQaA6fvJqNUucLOMsKaegj8NHXlHsy23b6QoVNkLbKMArMdGRF9ap3ljRYWi9A9A2QnGEU6HXaYSKq35V+bYNXYF0KuLwgJmjvLsK7I4=;ieSypTZzGIoodQD1pkPJgw=="
+secured: "zisvprwbjBgeDBXEqBI0J14zc/DUy3Eph6ZhlZDr313PISHpQVm9d0FShkCZ6akPuBBlj7luC+O2ZUJOGeh//ULJCsAI66fzEg2dwKuqGuYMXnBl5gzDhoLvZ6p974djg7IiJYfEJQnaerZuO1Zc4x1bwhJsvrarbAswUa8Ie5ihAHjFwlYhpUVlwb7fInqlgIhUKvRcZhNPknSLxd4YcrNRrn6GB2n2Y/e8blCczv4CV1l/mN/1bXGcTgqfrDI76sy/9xhHkWp7u7+HAGxfrHxuE9zCmYcHxJaRBq5+ydMf10ZYkjd4rJTbp0d0sWFEEWSAI+IFJwb+Y8S95OOt/n4gDDIHsg6UjlJwIQJEWqc=;AZ/p0fldPkexP87JAC6xFA=="
 ---
 

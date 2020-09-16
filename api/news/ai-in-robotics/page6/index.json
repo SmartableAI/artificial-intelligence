@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-26-police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.md",
+      "title": "Police look to AI, robots to make Dubai the world's safest big city",
+      "excerpt": "Dubai Police adopted the AI Ethics framework established and developed by the Smart Dubai initiative. The framework is one of the first in the world to address human concerns about AI and automation; it includes four principles --ethics, security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/al-razzooqi-100852747-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "publishedDateTime": "2020-07-25T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-ucla-childrens-hfchildrospital-implements-new-ai-robot-to-improve-mental-health-during-treatment.md",
       "title": "UCLA Children's Hfchildrospital implements new AI robot to improve mental health during treatment",
       "excerpt": "Children may undergo challenging experiences when admitted for in-patient care at pediatric hospitals. Now, a new AI robot, Robin, helps to improve their experience.",
@@ -1248,56 +1290,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic.md",
-      "title": "Study finds 195 robot deployments worldwide in response to the pandemic",
-      "excerpt": "A new preprint study identified over 195 robot deployments launched in response to the ongoing novel coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/amazon-scout.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-14T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

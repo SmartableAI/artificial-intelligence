@@ -33,11 +33,11 @@ images:
 
 related:
   - title: "Dystech using artificial intelligence to help speed screening for learning disorders"
-    excerpt: "The cost is not hundreds of dollars, it's thousands; it's just very expensive and very inaccessible.\" The app, which leverages artificial intelligence (AI) and machine learning and has been built on Amazon Web Services (AWS) infrastructure, takes users ..."
-    publishedDateTime: 2020-09-15T07:16:00Z
-    webUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    excerpt: "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,"
+    publishedDateTime: 2020-09-15T07:03:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
     type: article
     provider:
       name: ZDNet

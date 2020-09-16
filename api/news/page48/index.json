@@ -2,6 +2,146 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-08-10-artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence (AI) Market : Industry Development Scenario and Forecast to 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Aug 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025-2020-08-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-action-needed-to-stop-the-use-of-killer-robots-report-says.md",
+      "title": "Action needed to stop the use of killer robots, report says",
+      "excerpt": "The US and Russia are said to be in a group of military powers who have rejected proposals for regulation on autonomous weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/20/08/1600x900/skynews-killer-robots-weapons_5063928.jpg?20200810134641",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "publishedDateTime": "2020-08-10T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-artificial-intelligence-with-great-power-comes-great-responsibility.md",
+      "title": "Artificial Intelligence: With Great Power Comes Great Responsibility",
+      "excerpt": "Those who are driving change with innovations and investments in AI must also be sure that they're steering it in the right direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2db3778c8318fd9f4e74dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
+      "publishedDateTime": "2020-08-10T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-mumbai-to-conduct-study-on-artificial-intelligence-based-covid-19-test.md",
       "title": "Mumbai To Conduct Study On Artificial Intelligence-Based COVID-19 Test",
       "excerpt": "The Mumbai civic body has decided to conduct a study to assess the efficacy of an artificial intelligence (AI)-based technology which claims to detect coronavirus infection within half a minute, a senior official said on Monday.",
@@ -971,129 +1111,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance.md",
-      "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
-      "excerpt": "We zoom in on how employers use controversial AI technology to monitor their employees. And we hear from IBM’s AI ethics chief how her company is trying to live up to the ethics it’s preaching. WORKPLACE SURVEILLANCE: Ever heard of “people analytics”?",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg",
-          "width": 1500,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-08T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-deep-learning-neural-networks.md",
-      "title": "Deep Learning Neural Networks",
-      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Deep Learning Neural Networks Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Deep Learning Neural Networks Market and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2107451/deep-learning-neural-networks-market-is-booming-gaining",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T808238625_g.jpg",
-          "width": 669,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2107451/deep-learning-neural-networks-market-is-booming-gaining",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107451/deep-learning-neural-networks-market-is-booming-gaining",
-      "publishedDateTime": "2020-08-08T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-meet-panda-nick-jonas-and-priyanka-chopra-introduce-their-new-rescue-dog-welcome-to-the-family.md",
-      "title": "Meet Panda! Nick Jonas and Priyanka Chopra Introduce Their New Rescue Dog: 'Welcome to the Family'",
-      "excerpt": "The new pup, named Panda, was rescued from Hollywood Huskies, a nonprofit dog rescue for huskies and husky mixes saved from neglect, abuse and high-kill shelters in California",
-      "sourceUrl": null,
-      "webUrl": "https://getpanda.ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://secureservercdn.net/198.12.144.78/o69.eb7.myftpupload.com/wp-content/uploads/2020/08/Aaron-headshot.png",
-          "width": 475,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-08T11:30:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://getpanda.ai/",
-        "domain": "https://getpanda.ai/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

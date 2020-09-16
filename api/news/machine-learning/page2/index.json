@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-hypatos-gets-118m-for-a-deep-learning-approach-to-document-processing.md",
+      "title": "Hypatos gets $11.8M for a deep learning approach to document processing",
+      "excerpt": "Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-601035416.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "publishedDateTime": "2020-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-how-to-make-complicated-machine-learning-developer-problems-easier-to-solve.md",
       "title": "How to make complicated machine learning developer problems easier to solve",
       "excerpt": "AI/ML is more complicated than software development, but there are ways to make it more approachable. We sometimes assume the best software companies will yield the best artificial intelligence (AI) but,",
@@ -1302,57 +1353,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-mit-csail-grad-launches-machine-learning-platform-with-10m-series-a.md",
-      "title": "MIT CSAIL grad launches machine learning platform with $10M Series A",
-      "excerpt": "Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
-      "originalUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/",
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/manage-img@2x.jpg?w=680",
-          "width": 680,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/amp/",
-      "publishedDateTime": "2020-08-25T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

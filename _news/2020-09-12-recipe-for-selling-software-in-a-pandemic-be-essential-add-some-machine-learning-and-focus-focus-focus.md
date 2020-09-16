@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic
 ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png"
@@ -30,6 +31,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "tf++9UsCsQpvZpggnUl35UFoWECz2jni8pf3uHy4HHaz8OXT2mjAPuFlHg5pH9AGwP9c+ySqRaffiF2nWy20wtNMvmd2C0TT0eoHVQoeReEEPQJH4TVyqf+Ew/vWCfHhCvuvbfsmEFpr6lDfcS6oGjdYrEYrAv5FzikBvntYH5D5GohdHMQ8Il0RNa9QUyrVWOmm8gkL+L27oPNiXABudstJ+b+4uBVx76idT0pnz0/xH+1mGOenOgzgVyOKBbYQk+QQuUMxTKnxgGtSRv36VNSDneleMZ9CqheDFqkZCbOLz83QceyJ5RXrsacGS3zUgx8URXXZjA2EO65vmoEPJEd6JOYFk/i7mpcvbnwS5gY=;m3UMNn0CrGnXb4Vy9p7LVw=="
+secured: "SSzcfqCVEs0BLPjQEiGUxf8t1TF626/yytG95GzWT6H44Nmh4WX8GxxAmWg8rHuYBxTvEIaG1DLQlf+wifkKhgxONlzsh6osFJYvufrhb1qRKdx9d4BouVleUTB7misefPTU+/dwGA7ZlG/FITHRuU4VbrP9AowzbWTev4X/HORuRgsfpc/tjclJVD9K9PHipTqhikPFs8fmnJUnpTbB8KD83VjoOJXzHdLZFlonKL0Xye3goWiGswSdwEXmajCRoxoydL5GF9zPJEzr7PxXbX+vng5RP9Fpe4IQ3dp2oJmV0hzNrThEzN/lCNilkLn3wZpinHhBSAiQUSY0gp4Pp5TzGOSnS16G3n3L0xPHq5SfNci0P2NqXznm3nqCyBPeBNoxkF5IeMRgo03iNKTPT/WPmd12xgn9MaU/1jHJEA3US5Bvfh6i57mUf0DR8GyRWpddTv503qG/de0zEKvFoEBhUAS7aa0T0nDWCd0cLCkxTWKUgCmYsbC/YFBFFXAml1OlmxuPTfaQMZ1hGvjKHA==;cX/1v+aFDAv6KZ2pHHLrRg=="
 ---
 

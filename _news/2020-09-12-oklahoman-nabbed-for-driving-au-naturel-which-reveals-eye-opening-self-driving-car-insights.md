@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automakers may be hyping self-driving cars, report warns"
-    excerpt: "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations and safety measures, which can inflate expectations of what ..."
-    publishedDateTime: 2020-09-11T14:51:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Humans — The biggest hurdle for self-driving cars"
     excerpt: "Dealing with pedestrians and cyclists is a major challenge for self-driving cars. The artificial intelligence in the vehicles must learn how to predict individuals' behavior, which is different in each culture."
     publishedDateTime: 2020-09-12T07:43:00Z

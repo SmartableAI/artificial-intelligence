@@ -3,8 +3,8 @@ category: news
 title: "Neousys Technology Launches NRU-120S, NVIDIA Jetson AGX Xavier Powered Edge AI Solution"
 excerpt: "NRU-120S series is a new rugged edge AI-based video analytics solution capable of video recording, transcoding, real-time inference, etc."
 publishedDateTime: 2020-09-08T21:23:00Z
-originalUrl: "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
-webUrl: "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
+originalUrl: "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
+webUrl: "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 462
     isCached: true
 
-secured: "/dbkJL75QOe+RYEgh30IptpV40BId9ZZe/pckFfoJm/WhutU1T7ahKzPyDG0+d9XruqEnwkQVUrQKq15xs2BZE4/bL6mv3Vukf5LKmQaUiXBNfxjYeIk+CMRydUAkNq13btysxx/09sNZFbx3v1e+YHVOXGhm9Y0k47NY+UqF7QvkB6PK0AX7s8R3g3Y1axgfQ8D4E6UFPAXMr3wR2FE5FmNiSqVX9FnEcfFSSH6zkt8je2v3G3kF10spRp03mhLH0kfXc6vKBchJVbqM9xA1Il40dVEvTloXDMezXRNbFdYk4RN0gSn8ICbnPj37hix1A1+v2Znb/3sH3vKVs/N0kOmmLR3BWCqEMyPB7mThJs=;QWVQ46S0Uvd6kXeIWBHalw=="
+secured: "OjdjB8yDUVpI1I+f6P1BajBdg0hym46p8UNcmrNa3sFRk2yLKz4ssHmQYJ3ziYXXE3dhhVD4pSF3nHE8aG6wjlXwwYLEgdxoKtV2OI830vvWJ+de+nwkzFYr+T0OMWOBtp623TIuL6ZecqaQTox44GmCsWQFm2VkCnOyqISiYZmatyE0Zuc4QPhJqf8pq+TDUQRZrQaaelTt3GX2N2K/QtsdJX2cin2H0bAUu8nkptR9U5BZ1S+giKGxuMyB630mezCTlELRyrfOArnCr+brHiOBrSWD698hhnjea4+QNnuEl6NCwC6rJCpGzJAExbJQhpnglJDmKRYNXEjldWgi/nhPVCoR3ZROaqFxDwgxge8=;coPm3nkikApaRg81WRlefQ=="
 ---
 

@@ -2,19 +2,19 @@
 category: news
 title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
 excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
-publishedDateTime: 2020-09-16T03:48:00Z
-originalUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-webUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-ampWebUrl: "https://amp.freep.com/amp/5811636002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5811636002"
+publishedDateTime: 2020-09-16T00:30:00Z
+originalUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
@@ -104,17 +104,17 @@ related:
         isCached: true
   - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
     excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-16T05:54:00Z
-    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    publishedDateTime: 2020-09-16T02:54:00Z
+    webUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
+      name: WTSP
+      domain: wtsp.com
     quality: 40
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+      - url: "https://media.wtsp.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -259,6 +259,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "8sHej3exEXqBJA5nnzNGC70Nqfnhw3tDhuGRh/sAH1B7zds4BBvVSGxhIMk81mgmEZuDlOOihBo+oYAY7Rj+AX6bO9g4eDG+M9R78eeR3fzzxQZ69nA9bD50vo9vmUGo3asrPmIjspg7ogzf7K2GIohKDzUJpBgs/oxjFeX1RXcohgVuNYqoZRLg6QWZx1AFwGT+ZqnT1zwk6ms4lYDS8zBaF9vPPnTC9n9aRFkxxzz0mHXAuasez6+I299BMIIIgeahBCb0VOpeIfxq8GjNVenp3b1m1/e6ffsf1c77T1ut69BOOz8xIvwo66J7v+fbmuVurrdHiMEmx+2a/78Mrk4RF1G7Ys/2duah/gSElZC8ZqtMulL/FiPSIKdMko9F1o31XdUdNtd0XuB9eHipe2vZESn2PqgGu7gDoaVmh6TMQXbD0mMd0sG4V9XjJHt+f34e2JA2VE8JSzptBbdrYPoWU4yVVqdApZru15wL5z0KmbpTYI6j1JXP9G08QHFRiserjnuOG28n3nz0z0MYHg==;ndHHdYwku3QmDFyjVpZ1Bw=="
+secured: "4T578Oax9tMD7JStC5BG2xkkX7KdAos7wrHBuXG2BlSUY0C3GjQE/UJiTmh1kuP4jPG53KMM0raqqwhSN3xyRfayBPs3O9UIc0IGkcAMWQqz22Y0N43svhzHUVW8Vqaxe40HB1kgPm97obvDJ0KY+a5wLIcalFqkwIKYCfLGEdlP317yV3aiLdeUQm1+eGPHOLvvl7Ljs9nNDtWLfHnI72GnueX4Hf5YvMO8kLuxyHvliAdJ/OF5giNzaiW4va6nHa2LYZvp7nYqQGo++KqaJTnL1Ox1MvoYsGTA/7acS5SgFa+TXA8EV//2pLqW8qUEcx76kk5OUjo1J+0e5TcE+KV4o47leSe434AmWVGYAgY=;I1Zsc64G6ZJTXbRg9WgZrg=="
 ---
 

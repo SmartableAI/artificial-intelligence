@@ -2,6 +2,137 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-08-31-israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows.md",
+      "title": "Israeli chip maker Hailo to set up Tokyo unit as demand for AI tech grows",
+      "excerpt": "Hailo, a maker of chips that allows edge devices like smart cameras or smart cars to have artificial intelligence capabilities, said it is setting up a wholly owned subsidiary in Tokyo, Japan. Edge devices are electronic devices that are installed at the edge of networks — the entry point to networks — in products such as autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2020/08/Hailo-8-AI-processor-e1598859102334-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
+      "publishedDateTime": "2020-08-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
+      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
+      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-226475/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "publishedDateTime": "2020-08-31T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
+      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
+      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
+      "publishedDateTime": "2020-08-31T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
       "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
       "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
@@ -1009,140 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-google-granted-patent-for-automatic-object-recognition-in-videos.md",
-      "title": "Google Granted Patent for Automatic Object Recognition in Videos",
-      "excerpt": "Automatic object recognition is kind of a big deal in some circles. Having a computer that’s able to automatically recognize what an object is with any accuracy is a tool that could find many uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.themarysue.com/google-object-recognition/",
-      "originalUrl": "https://www.themarysue.com/google-object-recognition/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.themarysue.com/google-object-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/google-object-recognition/amp/",
-      "publishedDateTime": "2020-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mary Sue",
-        "domain": "themarysue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
-      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
-      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-take-a-closer-look-at-elon-musks-neuralink-surgical-robot.md",
-      "title": "Take a closer look at Elon Musk’s Neuralink surgical robot",
-      "excerpt": "While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot looks like something out of the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
-      "originalUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/early-digital-sketches-of-the-robot.jpg?w=600",
-          "width": 600,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/28/take-a-closer-look-at-elon-musks-neuralink-surgical-robot/amp/",
-      "publishedDateTime": "2020-08-28T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

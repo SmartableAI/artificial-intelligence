@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2020-09-10T21:02:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+excerpt: "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ..."
+publishedDateTime: 2020-09-10T21:20:00Z
+originalUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
+webUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "qR2T/bVd/5tuPA5FDrPqAeg/9j1dT2GXU0eb6867o6mTr5LjkgpYWCkIsUm4hOF2f8M7ifZcK9fhSw9wmSLQAjuXo3Q/u+ZCWDa18LA52fx6Lh39qksKJ1TeeOiFAm3KgveBnrOgjrqpHYpy6UlyGdzDneh9Ym1GJ7EBfivhX2F+2wXT24QPfyidKN78RpBGwVfEWcuB13CrQHHlSWnSicGjG9/WcGEA2GlI8ux2RUHWgdBLb+d3TS4xKrqH6rFFKetxVZ+n/fSiDzrSF5AgWsLjMcCTLkoFs26sh06NjsYdWMc1CzYZL5AVfHbzy/sn/lDDYWe5jjvwzU4HlmMteZscubj833ryR0Dm10BNcuA=;/8w0GhUbw0t8jSE/JMB4cA=="
+secured: "MSYMw2c9lv9PIq9BExQtLbIfBUDXqRiRhhlRZ0viaUKNLUjbfo67sccFq/x6f92Ndm+rhzc3Rk1miOIVtv6tRvnVmF6VvGg51wvG1FevreKIcUOEJhIWAlQtSBNGocrjxhXjM/bmPz7x2uuFN7FTeZg9Q3HBd37t45nWx4V+cbQ5WJ70cLjFErQVtzFnTBLgvmtSmBJmYlRJw86B1HixVL/uPxlBeSNJ/Z/+P2hnv8lOxERZ6GZ3nL8Onp4X0ivBLOrqOI6xuK+kUfXqYTwUjGIw46B6SUaYP4BsV8YN/dWppRf92vkyYLZnSTdgyW+9AanfQKQXG76VYA2wbOs1T0ZUfbS4hEkjNl7wUG1HJq0=;JH7g6PRGTGOaLOCh8bl6VA=="
 ---
 
