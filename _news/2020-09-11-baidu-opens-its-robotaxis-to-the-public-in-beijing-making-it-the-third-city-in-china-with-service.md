@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-r
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Baidu launches robotaxi service in China’s capital"
-    excerpt: "Baidu has launched a robotaxi service in Beijing, China, that it claims will encompass the largest area and longest road network for self-driving cars. The area serviced in Beijing will run about 435 miles with nearly 100 pick-up and drop-off stations covering residential and business areas in Yizhuang,"
-    publishedDateTime: 2020-09-11T12:37:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15667/baidu-launches-robotaxi-service-in-china-s-capital"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "7IpVt8d1e+uhG55B5tA+GLfK/9XcqkakaarVphidKqsBhVOslIQ/sr+/xtfQc3XuIXkew7bRBXc0QjNl1CqoUF0F/iAC2H64KiZF/JMxzgO2/vRdPDjG7/mQetCm76NjTK/q6Fm2Mq99PueYKGaJCuIWLVOKG1Ccjmqg6sF0M4DIMBUUFmi7AkXXHwVJTEhTXChH4d/wDRbLdGqghdWzXI4pPU155nRp9VqWd5XJu6lWu3CaXbpsWTMjNEA+K2peUpeCg/KikoPphcRuX5j21fkpooH2aMS4il1d6pozH5EJDtHEixHzSzSV8UXWk1zllrDmUARvbVlNezbgM6D6oAGlSHEaqHUM4loIXKAvvr2GvlCQahtBNchNlVnCxTMQJUisse7+LUCG257WWX/AsdzJ33SDZdw6K6fWKY4lzl7f+ZWEKHFCQbesdlroRociooT+VfMqrTs4Rc1Pup1V0nE5g/robXl6MY92vrxnhJQUW72484CGsWtWAPZILuaRIdOO+h/7pk9oLgIka2ATlFwDEAvf0KpNEugY9rA69PA=;z2p+lPtxpG2UdPxQAq9luw=="
 ---

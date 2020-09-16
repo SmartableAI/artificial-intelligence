@@ -15,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41571-020-0417-8/MediaObjects/41571_2020_417_Fig1_HTML.png"
-    width: 685
-    height: 276
-    isCached: true
-
-secured: "On0Ncv6I67Y+yyqCmBDDqZj3VgNp8cMrQRM3XMJnQeF8/HqpOkPS2sVltJg9vJI1xiNfemjFlJF0C7zFaMJYYqjvw14XShLKgnlejzCvzDJXxQkYLRTkrfMsECrjZBIPyemfWM7sP6TYyHYfHM84XYxRYSTckmJ3BvkR+JYT4MlcqSuyBIemCk/NukZ2VRIDL4gJkD8OyGXeyrm/psoi3PoKG5r9ZQLmJ/yQceIAg7BbHIfo2cGsmKQsJ1AVHEpZ6WlHQnEAcg7xYbhTVS/gaeyTWAut8rgvIvku09V77gSgi18WrKcv41N+vdAgB4qtdchGXIvlyDcS9hOOVagvK+/jpDYrFiGtbNnsPj7p0Lk=;HXtP+ggUL+nZEwbGIRZ9Lg=="
+secured: "krAfQ2cN9pGjoydlhzL4/hhBFx18wG+o1QgAthzjsi0DYHEi/es+yXemf/Kr+fK0mwZTzlNGYkTOKgdA4D8fLFqI9oilL5NdicC5y0yBPGBvK3mCKVQ6VKV1cTf+IaGrqVOj99gNRhE/4GG87X+/C1QZD2xgprr7XUZBokBThwqA+JbWuBwHE2i6Ia1WpD8BMfHT45xZHI6ulHkRa/VwuLupQrk5S5Q2LhQOiwEC824OGTU6MSxv7DokeL/ph8MVWzSfRQjLLvBXQ58VwRUUiOY7ZFVR59StBsS9vw4HD6B+hsOn8kTsoNCpQZ5Xv/m/KGPccOF0MKZG9P7I67V+ShsMZECK18dzmNARMyzkjGk=;UGksNaUkLXlXFVACjmDTIg=="
 ---
 

@@ -66,15 +66,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Baidu launches robotaxi service in China’s capital"
-    excerpt: "Baidu has launched a robotaxi service in Beijing, China, that it claims will encompass the largest area and longest road network for self-driving cars. The area serviced in Beijing will run about 435 miles with nearly 100 pick-up and drop-off stations covering residential and business areas in Yizhuang,"
-    publishedDateTime: 2020-09-11T12:37:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15667/baidu-launches-robotaxi-service-in-china-s-capital"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "6qF0K2850lYe51zfpzk0noICaLR5V3dsYy0VtM1CUp+XTCUTYsmMGOcrzb8E+wik5U7XLaLBMSX2Z+Yp7MUkNWLg0wMLGIrwAkN9L2ztOc3gv6SEHOtB2RpOVvHLRQC5icv+nloECU+Npb4Jkzpx5EF3gHXKLtZV5KBTPQ/Lsq2ixQowF/i0GGa6reOC4N/egCF83ZA7K9ky59f6C1oAo743Xfpm5PycILfAPD51OKVUN6HMoCPt98R9p3MoGUr+GzwKbnD38DQZZnDsWv0TDNilngt459zvdCIgSTvEdcMb2RBw7kLcdCODMNOmi6JBAuzeOcOv/hqjDBxGZMfduaRTZFd7c13pFr3VTvIT9ho=;47346BX9gXQ1fIe+mKs/UQ=="
 ---

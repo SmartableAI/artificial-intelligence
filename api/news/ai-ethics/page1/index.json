@@ -137,6 +137,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-10-defense-department-official-says-victory-garden-approach-could-aid-ai-effort.md",
+      "title": "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort",
+      "excerpt": "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/",
+      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2020/Sep/10/2002494573/1280/1280/0/170506-M-XO599-133A.JPG",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "US Department of Defense",
+        "domain": "defense.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-16-smart-ways-you-can-leverage-ai-to-boost-your-business.md",
       "title": "16 Smart Ways You Can Leverage AI To Boost Your Business",
       "excerpt": "AI offers the best way for companies to automate repetitive processes and gain insight into their customer bases.",
@@ -297,6 +338,47 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-can-googles-new-ai-ethics-service-be-of-any-help.md",
+      "title": "Can Google’s New AI Ethics Service Be Of Any Help?",
+      "excerpt": "Google’s cloud division has come out with their new AI Ethics Services for helping companies developing AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/can-googles-new-ai-ethics-service-be-of-any-help/",
+      "originalUrl": "https://analyticsindiamag.com/can-googles-new-ai-ethics-service-be-of-any-help/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/09/How-Googles-New-AI-Ethics-Service-Can-Help-In-Identifying-Racial-Biases-In-Computer-Vision.jpg",
+          "width": 1536,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1267,79 +1349,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-artificial-intelligence-ethics-a-primary-concern-for-ibm.md",
-      "title": "Artificial intelligence ethics a 'primary concern' for IBM",
-      "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
-      "originalUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adelaide Now",
-        "domain": "adelaidenow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-ai-readiness-isnt-just-a-technology-issue-ethics-matter-too.md",
-      "title": "AI readiness isn’t just a technology issue – ethics matter too",
-      "excerpt": "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too",
-      "originalUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
-      "publishedDateTime": "2020-08-11T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

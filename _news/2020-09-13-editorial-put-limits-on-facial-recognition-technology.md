@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
-    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
-    publishedDateTime: 2020-09-11T12:19:00Z
-    webUrl: "https://www.reuters.com/article/ibm-facial-recognition-exports-idUSL1N2G8043"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2621PV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2621PV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Portland becomes first city to ban companies from using facial recognition software in public"
     excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
     publishedDateTime: 2020-09-14T19:17:00Z
