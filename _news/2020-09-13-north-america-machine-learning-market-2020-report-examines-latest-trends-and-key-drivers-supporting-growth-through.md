@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
+    publishedDateTime: 2020-09-16T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI (Artificial Intelligence) Speaker Market Analysis, Growth by Top Companies, Share, Trends by Types and Application, Forecast Analysis to 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI (Artificial Intelligence) Speaker Market” research report includes analysis ofmajor raw materials suppliers, manufacturing equipment suppliers,"
     publishedDateTime: 2020-09-14T09:48:00Z
@@ -103,7 +117,7 @@ related:
   - title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
     excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
     publishedDateTime: 2020-09-14T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

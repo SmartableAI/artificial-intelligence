@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM and Nielsen launch cookie-less advertising tool"
+    excerpt: "IBM and Nielsen have partnered on a measurement tool that links the weather and product sales without the use of cookies or third-party identifiers."
+    publishedDateTime: 2020-09-16T10:06:00Z
+    webUrl: "https://www.research-live.com/article/news/ibm_and_nielsen_launch_cookie-less_advertising_tool/id/5074092"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074092&name=ibm-and-nielsen-launch-cookieless-advertising-tool"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074092&name=ibm-and-nielsen-launch-cookieless-advertising-tool"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 44
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "IBM Watson Advertising expands data targeting with new weather solution"
     excerpt: "IBM has announced the launch of Watson Advertising Weather Targeting, a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers."
     publishedDateTime: 2020-09-15T10:58:00Z
@@ -39,17 +55,6 @@ related:
         width: 560
         height: 420
         isCached: true
-  - title: "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Weather Targeting, a new suite of"
-    publishedDateTime: 2020-09-14T14:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "IBM Partners With Nielsen (NLSN) Global Consumer Business To Expand Data Targeting Offerings For Marketers"
     excerpt: "IBM (NYSE: IBM) has announced the launch of Watson Advertising Weather Targeting — which is a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers."
     publishedDateTime: 2020-09-14T17:44:00Z

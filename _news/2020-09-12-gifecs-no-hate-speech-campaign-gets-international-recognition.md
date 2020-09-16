@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "An Article in French Signals Greater International Ambitions for the Washington Post"
-    excerpt: "It's another step toward the paper's evolution from \"regional to national and now international,\" as an editor puts it."
-    publishedDateTime: 2020-09-11T18:40:00Z
-    webUrl: "https://www.washingtonian.com/2020/09/11/an-article-in-french-signals-greater-international-ambitions-for-the-washington-post/"
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 17
-    images:
-      - url: "https://www.washingtonian.com/wp-content/uploads/2017/03/washingtonpost-10.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-
 secured: "d7EWUUwQfgGsxRPFYaQpRMPX/mg63d3st5jtmpirAWqtWFLltmpPKiZOvu1wtlMhS5lBB/iKYbGlJSJzCtJ7KMMEB9pVpYqNjKYdUIVWHTFwXrbew4bmZBcIK/Hp8OPFzeEyvuOSyFMf+NKmOHbMkWidi/rotYZysqLhLcjCt/5lsMsNAnJtXn0X7lKptVxG1Ywh+0Qv0CerUGNSxpi8BcayquiWq6JZApvCnJvQPazXlIV3zVt6rwTz1uWjKPHjacxb0yeMCAg0HZRHAefo4zGZ/CJBRE/u/UTJJzOYH8tZJ6LvjIPcUyeWwBFmHO2HZRBS34znqc7YzlUHltI6eUIb13VDB5RVc+7UZl6BRp+KDTEJWGRLWZRgKz1fKKLy9aO9i+Gr5lcaRua8ZkQNEVr7GVwz757Fe2ln/VJKwVuVAgiHR6V7Voq64HX+sX7VCLgdk978LWIHAGPuL4P7Rsq9pNjAQMEWEnQCSagvEKhaUN4ZmLg+9l/dMR1LaXzAU0cQ0I4JQeM3DINIFnzhFGHmPfvILfVFY6Tb9FFpxSk=;15MXY/nCd36FKYVFqWciDA=="
 ---
 

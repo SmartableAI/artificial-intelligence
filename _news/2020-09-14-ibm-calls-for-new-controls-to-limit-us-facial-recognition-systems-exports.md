@@ -84,20 +84,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
-    excerpt: "A man stands near an IBM logo at the Mobile World Congress in Barcelona, Spain, February 25, 2019. REUTERS/Sergio Perez"
-    publishedDateTime: 2020-09-11T17:11:00Z
-    webUrl: "https://www.reuters.com/news/picture/ibm-says-us-should-adopt-new-export-cont-idUSKBN2621PV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
-        width: 810
-        height: 539
-        isCached: true
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
     publishedDateTime: 2020-09-12T16:01:00Z
@@ -128,31 +114,6 @@ related:
         width: 846
         height: 571
         isCached: true
-  - title: "Facial Recognition Goes Beyond Simple Loss Prevention"
-    excerpt: "This is especially true in the retail industry, where the benefits of improved security technology go far beyond the obvious loss prevention applications. Facial recognition technology in particular has proven that it cannot only help retail locations protect their assets and employees but can have a positive effect on customer service capabilities as well."
-    publishedDateTime: 2020-09-11T17:13:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21152248/facial-recognition-goes-beyond-simple-loss-prevention"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/GettyImages_1097126750.5f496afd97a46.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Portland City Council Bans Use of Facial Recognition Technology"
-    excerpt: "On September 9, 2020, the Portland, Oregon City Council voted unanimously to ban the use of facial recognition technology by the city government, including the police department, following similar actions by the cities of Boston and San Francisco."
-    publishedDateTime: 2020-09-11T17:05:00Z
-    webUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/portland-city-council-bans-use-facial-recognition-technology?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
   - title: "EDITORIAL: Put limits on facial recognition technology"
     excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
     publishedDateTime: 2020-09-13T09:01:00Z

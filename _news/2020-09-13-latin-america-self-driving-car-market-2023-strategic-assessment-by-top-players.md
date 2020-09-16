@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latin-america-self-drivi
 webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2023-strategic-assessment-by-top-players-2020-09-13"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-driving Vehicles Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-09-16T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RKHYxtP3ANRkUMQgkmvuxBUDgpzj+Ld8A0I14msOncbUueAuojb1BQT+0N4IhFUt0Hd3cb9nHB1v10g3avKzR0BtTMASeC8v6OHN1YR8QX+YxQFBuiDCzSStA1G5b03JacVHE4gziNlJO40CXdw2i8FRNT0EMobkC+A0LCTvQqi9lGhfEYu+aYqjsnMuaqDRbD3JiCQPgn03zKiEm0wmkGJyLjkBNUPSKO/v0oaPPbaBliSWz1mSsD0rha0kmGH38LWPxQWdu5fAvwy8FOy04Pq6QaYTotV617EcJ+OCY+U3dHfODDrRGPk80FB7Xzdn+heMWKg4Lvuiko7LzwvYSvHDh5lnyaD2oMRmxg6HU+0=;LRSCLpV+FvIiSnLzPGAOOw=="
 ---

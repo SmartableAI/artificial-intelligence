@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$ 12,958.9 million by 2027; it is expected to grow at a CAGR of 13.8% during the forecast period."
-    publishedDateTime: 2020-09-15T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market –Analysis and Forecast (2019-2026) – by Offering, by Technology, by End-user Industry and by Regions"
     excerpt: "Market is the inevitable revolutionary in the future technological landscape. With 397 deals and $XX million in funding, the year 2018 witnessed a new high in terms of deals and dollars related to artificial intelligence ventures vis-à-vis deals and $ XX million in 2026."
     publishedDateTime: 2020-09-13T08:51:00Z

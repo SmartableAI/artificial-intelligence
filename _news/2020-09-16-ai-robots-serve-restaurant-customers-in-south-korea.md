@@ -69,6 +69,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "A.I. robot serves customers at South Korean restaurant"
+    excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
+    publishedDateTime: 2020-09-16T11:11:00Z
+    webUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant"
+    ampWebUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
+    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
+    type: article
+    provider:
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 59
+    images:
+      - url: "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/wednesday/clslu8ufchufij50ovy5f61b16d1750f.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Robot server at Seoul restaurant, UAE okays vaccines for health workers & other Covid news"
     excerpt: "As the Covid-19 pandemic shows no signs of letting up, ThePrint highlights the most important stories on the crisis from across the globe."
     publishedDateTime: 2020-09-16T09:48:00Z

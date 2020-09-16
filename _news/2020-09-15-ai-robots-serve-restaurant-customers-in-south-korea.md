@@ -56,6 +56,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "A.I. robot serves customers at South Korean restaurant"
+    excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
+    publishedDateTime: 2020-09-16T11:11:00Z
+    webUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant"
+    ampWebUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
+    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
+    type: article
+    provider:
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 59
+    images:
+      - url: "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/wednesday/clslu8ufchufij50ovy5f61b16d1750f.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "AI Robots serve restaurant customers in South Korea"
     excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
     publishedDateTime: 2020-09-15T18:57:00Z

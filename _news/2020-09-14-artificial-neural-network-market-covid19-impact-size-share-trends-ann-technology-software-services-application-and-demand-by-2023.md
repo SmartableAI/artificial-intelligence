@@ -3,8 +3,8 @@ category: news
 title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
 excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
 publishedDateTime: 2020-09-14T13:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
 type: article
 quality: 35
 heat: -1
@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
+    publishedDateTime: 2020-09-16T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI (Artificial Intelligence) Speaker Market Analysis, Growth by Top Companies, Share, Trends by Types and Application, Forecast Analysis to 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI (Artificial Intelligence) Speaker Market” research report includes analysis ofmajor raw materials suppliers, manufacturing equipment suppliers,"
     publishedDateTime: 2020-09-14T09:48:00Z
@@ -114,6 +128,6 @@ related:
         height: 630
         isCached: true
 
-secured: "smAwEbQViHHQNnK2glJ1m/EcE/rkmaOIPB3YN2wahweBVFawKz2bpWU3YO/yVbnGHutxHM4FOQqFq86UHGp+3zocL+IjhG7tmuUTq1fvkmyuG0pFe3YyUvMoFaO33kMSpdHMgbRSWz6qPwOFackv/K/+8fjoITSXD3xMauJq+luZ75R7Z0UykmiXLlLFx/pz7Rgt+gUIOTrz6FDzcknxa3MtCb9kAFLFt6cGmtXUnlC3aqrilxsdi8d/dZH3iUfAegYaJpng5xZSCD+QgvOmi3O+ipJkvdDlDg/NI5Og8tJM3vHgaeBebjNWxq7LhN9t4sdznMV31y6QDsQanv+mrHds795cHsJ3Vn6GFSHhXmA=;r7H4e0TchG1qsr6z5fTq4w=="
+secured: "ptRdP/YpEXEJKrF4f1z9V+0yqd++/eJH9CyPurd/ed7UMCB9boy7ciT83ao7yTAoFVxYjOPMgQkqcdhibCTQ+aeuy6NxMT8ImjudylknNBnvZeyHiY4YQyC7TyUnawwjCzD7t652JHGZqYLNVJI5yows6wqQ2MTZwL7v5QMdUNGXL1shP5fdrXEryThcjSNHVN52fO/EzeMr7AaWppcBdvuW45BsU54uO60/Q+zXiaPpQEbzw4JW7AJWtpghpYQT7xH8PYYJsTNt8U6XbNFtRu3yL8NGmRzaOfk6aoq6JdvBFBLdN1WMwxevzL+VGk6Y42+9S8hSzAauI9XThpIlRsGhAW5rh/X9J/A0y3MZ/8A=;M3VW1ndmIg1Mbvhjev+s2g=="
 ---
 

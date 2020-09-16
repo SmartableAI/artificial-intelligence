@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/canada-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI-Based Fever Detection Camera Market Reports, Scope, Methodology, Timelines And Challenges Forecast Till 2026 | Fortune Business Insights™"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
-    publishedDateTime: 2020-09-14T08:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-reports-scope-methodology-timelines-and-challenges-forecast-till-2026-fortune-business-insightstm-2020-09-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "V+JHDbz1wWNz5ABkSV/Egc1y1KsCqQan+7k9kxsi7rEM6LW96MCLZHOhG3Ytiu9GQD3gwNtpqH4lEcJbjxHFuyPP8eDEmaFkUBOhv1xboHVOJLWQsAsDdZdi4xf6YsomFdklUcLL1U2mwf/Xx+hdu3hegxawyO3OgK3anPjUPtfTWXstDaxuy6SRxRypVgITgPbrbelyS74iy7sBcXULP0WAfh4uWpiJUt2Al/QHdBUhMRD2oW9YE0Al62vYA++9ycr7HFNpx8saDkPGxXPShJ2Rcsol25eJigXio4T/RM9OV5T242zeYymjqot8TOhQTszRtLSGQdQZM2mPXxlaUKXaMnFmv6VnsUqZs0K373w=;YGCGZu12j8/V2uWP/Drowg=="
 ---
