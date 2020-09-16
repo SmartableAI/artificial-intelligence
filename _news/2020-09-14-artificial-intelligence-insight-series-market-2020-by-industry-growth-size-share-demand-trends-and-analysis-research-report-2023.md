@@ -86,6 +86,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market MAY SEE A BIG MOVE | Microsoft Corporation, NVIDIA Corporation, IBM Corporation, Google Inc."
+    excerpt: "The ‘ Artificial Intelligence (AI) in Drug Discovery market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
+    publishedDateTime: 2020-09-15T10:15:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/15/artificial-intelligence-ai-in-drug-discovery-market-may-see-a-big-move-microsoft-corporation-nvidia-corporation-ibm-corporation-google-inc/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "6X11OJPoeJho0zfycjnEyyXPYAvpvUJ+2jC5zwxrg4CYAWItTSQGV0rz7HpkyQ0xzN6tmQi2jRMGbDrs9ZGu/mqZqhUr8MS8pN5MWtW6pX10fKp6m0h0c7paG+BDDs7EcaOJVzpXp9dj5aSRgcWIs6KtOFftsr/RzhrqqFBtguWOJJREn5h47WL2rLYCgGEKrywUtiOhV0rPjCNUqDBl1KKAs/cPVkQD/tzYLsKyF48PdLmCw/ja/fZqXr0u6SDgiYtzaP2G02vciSLC0IWjPLZ5kgrymd/AAUUP7ZsXCFMm38y9zsILS5V5AhafR2TBAk0pUZGMG1ltAi50k6bCgdjXfc4tHm3an51EDayqgS8=;2ZuAUy4q2xBocRDxdbzznw=="
 ---

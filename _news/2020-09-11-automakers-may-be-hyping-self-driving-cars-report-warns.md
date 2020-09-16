@@ -59,20 +59,6 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "Even self-driving cars need driver education"
-    excerpt: "Just like teenagers, robot drivers need lots of practice. iurii/Shutterstock.com. What do self-driving cars and teenage drivers have in common? Experience. Or, more accurately, a"
-    publishedDateTime: 2020-09-12T04:38:00Z
-    webUrl: "https://theindependent.sg/even-self-driving-cars-need-driver-education/"
-    type: article
-    provider:
-      name: WHAT HAS
-      domain: theindependent.sg
-    quality: 24
-    images:
-      - url: "https://s3-ap-southeast-1.amazonaws.com/media.theindependent.sg/2018/07/file-20180629-117367-1uscrkc-1.jpg"
-        width: 496
-        height: 372
-        isCached: true
 
 secured: "S40xFChI6dOo9rkSWrUkvHnY7QTPeKNGAb6PZuZT86DZFHwKuFhmFWFxyy6sHF5cNjSBDwTnE4rzdzZqTLku5MPTCR+frlzSkq16dQKCGMRtJ38x55BMIWRJcOlqvLKMIUaIHq54Wv2vuXB0sHaJ0PtHZ4SWm6Mu1144OGqF/2henT/CWZHraC4HdShdEztxeNMvfO9kYcEJ38Z+jEXPAKyhYZKkUpJfQyjtOPtE/0ZnpnqzBf8yy6jQq+vEFVeV2ebrMA3IhTPQSVhVcNPd6iZwzrN+bKZprbX21oTjxtZrFio8N5VD03zAG8huyLPnFHvWy9xdeRTccu6H1drTJTp44HQI6ap+ipRUlT1Buto=;eo+eRQYekpJ6zfQ5dYY2vg=="
 ---

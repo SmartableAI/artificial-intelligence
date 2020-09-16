@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia sends shockwaves through chip industry with Arm deal"
 excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
-publishedDateTime: 2020-09-15T12:14:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+publishedDateTime: 2020-09-15T14:19:00Z
+originalUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
 type: article
 quality: 19
 heat: -1
@@ -91,6 +91,6 @@ related:
         height: 799
         isCached: true
 
-secured: "SSCdSR4jGPC+bgEmGeVwsEgkaj+wSNWjgSNlscAlz5spu9mKxyODBfCtSgZfI+clLBDcLz8lfXYAAP8pxHfZKUIQj7FdHsViMH9qqrICtS7HrC3eWPQqfATuTS51c4mEu7bKub7Do8dWOfSoWPbyBxqpChRY+3BM/ZJIFhpWaCGSl+YcPDaN2HvKI2cicquTrMmKkof2Ef6ueAafjg3+FmZs/Rt5uQYpOPSEVREWsUCmpKR3BBNOAuurh8cTFFu+eSvBGyXEWK//PZupxHg5JA0xcZ9Pjbtn+ZMGGVCQJD8w2rtJRCPeGhVjP86RLmWZt7Ea4e0ThODoriajmTZ+37Du5xal3HRO6y6b2GPvl5Jt+dl5m7Uiw6h1fmSe3qQvqRi0wLwq13tzmGEe1gVRa2wK58m6Rd5dXTdvNziWR+WqMEHItturfHypfvzaBnFA7rcjAEKurvFoGq8Y4y9E69C4jqFiLdumDWMFKhGueOd5AX8l71nzDaNHY6SaBqLhKzd2QLgTkzvDUF3rhvSOmF3SkRMza6Hpq9HxqtYWDpU=;lbG7HDQiVshouU0gfLrv9A=="
+secured: "xO5o4ZDe5Xy/UDYhrqGD51OSufvmLxNn26tffms0oCJ8yJpdY1FPfBGGsLP7flNNyACgWqu3e7h8rjavRNbo+dM7uHvnINNowvRxPleYjd7wfgWWSaNXfZSzJZOP63Utae2IyT36DW/i/lSdx4pyb//US6dCMwzTOQ8qMrXri7N8uD9lUjjin0PuNDwIBZhp+m5818QYsGCbIVvNe65qlLKD5Lveq63ctLB6MAHzYkpodICX6S1SpE9RX8W87US+ZRcsWVG3yx51jhUafV/HTHbcs6G4xCDon1+CiWybY8OtmL4n8H4k4NoehmpisjUAu8GWBRStifwUUFjcqWXt8RIs5PqVgkdJVLroqMEQTjaFs271uO+wzmcv6EzgBS1apJ8f9+7zadBfrKAUZL58PyIIHlhWq+vboSSwfv2QwNvVLQ5/GG8DRV4vz257OUNdtBcTkCimqGmjvb9dd30e2le8nhS5DGqIGF393fy8kAKJdNlEX7WHyD34IIRUjqM5kkjRhWeSUGCQloJQmEcqQA==;Hx+CNpcZpR8ak/K45yQX9Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapde
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK"
         width: 647
         height: 363
+        isCached: true
+  - title: "Snapdeal and autonomous mobility startup Ottonomy IO successfully test deliveries using Robots"
+    excerpt: "Mumbai: India’s leading E-commerce marketplace Snapdeal and autonomous mobility startup Ottonomy IO have successfully conducted tested last-mile delivery using robots. The orders placed by users"
+    publishedDateTime: 2020-09-15T17:26:00Z
+    webUrl: "https://indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/"
+    ampWebUrl: "https://indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
+    images:
+      - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/Snapdeal-logo-new.jpg?fit=1200%2C900&ssl=1"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Snapdeal Is Testing ‘Contactless Last-Mile Delivery’ In Autonomous Robots & This Is The New Normal"
     excerpt: "We've already seen a lot of companies get on board the idea of autonomous delivery. Now, it looks like Snapdeal is also trying to get a taste of it. Yes, the e-commerce giant is now testing using autonomous robots for last-mile delivery."

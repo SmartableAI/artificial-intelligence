@@ -81,6 +81,15 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 19
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market MAY SEE A BIG MOVE | Microsoft Corporation, NVIDIA Corporation, IBM Corporation, Google Inc."
+    excerpt: "The ‘ Artificial Intelligence (AI) in Drug Discovery market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
+    publishedDateTime: 2020-09-15T10:15:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/15/artificial-intelligence-ai-in-drug-discovery-market-may-see-a-big-move-microsoft-corporation-nvidia-corporation-ibm-corporation-google-inc/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "7zIr6omZf72piO5HfkgbP6SZqgMIPx8d260w1ujmlVwv8jizeC94voL08kakJF3470p3WFwT086UZvr+zcvrycb8SHChfFBII7qVviCnr2PK7fkPQGvzXMx4jmyl8a00Xb6Te6+LUMxQcCfAqIEpBEP2UMBvSsj9c4us3uFWf23W07xla5SKrR0Ne6QyvEl+944a22n27oUpsHI34bsU+Hj0lbskNzFcj5VXthzXPNMEPSeSNejQk9zBUD57+f2Cet1DzL99ifxlVrDIZLjzg3+wXHwTtd+PwBq1zFauu5cHjr3iPXXme3DW53BalIbTClKx/C381iGe+Vw6AOI9rH2icIJCMqBK/4SX8CeEss2Ov755IR3OFyKOHkkDZN/pp4yU2IWatxVzQFr9keCT3EUkJIH+OgXyAZPWupUnkA9XB7YiQRi14ltYt+M7In42jhstjNvQShQNgdZLveD5bqMzG/j5V1QPs8gxdEA/n2sXBujM7pKncqZN5BylIqsv4wpu9DgdwFjLCdLmI5onaneRoc0p6RtEq/gL40gGSUg=;bP0NBfpG4tsyORjZKv77kA=="
 ---

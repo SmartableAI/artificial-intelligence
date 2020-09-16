@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Software System Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
+    excerpt: "MarketsandResearch.biz has recently published a market research report namely Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that contains important statistical and analytical data spread through the entirety of the report and includes contents related to the industry."
+    publishedDateTime: 2020-09-15T19:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in packaging Market to Witness Tremendous Growth in Forecasted Period 2020-2027"
     excerpt: "The recently released report by Market Research Inc titled as Global Artificial Intelligence in packaging market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate,"
     publishedDateTime: 2020-09-14T08:47:00Z
@@ -72,6 +86,20 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2020/09/Bucket-Testing-Software.png"
         width: 500
         height: 300
+        isCached: true
+  - title: "Global Artificial Intelligence Software Market 2020 Sales Channels, Technology and Production Analysis, Business Growth by 2025"
+    excerpt: "A comprehensive research study titled Global Artificial Intelligence Software Market 2020 by Company, Type and Application, Forecast to 2025 presents a basic overview of the industry including definitions,"
+    publishedDateTime: 2020-09-15T22:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-sales-channels-technology-and-production-analysis-business-growth-by-2025-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mpNyncXsClK74sieFz7SPhlD4psx7Gi2kR4/JHEwgFjzSJww82eh7b5w5tgcXPyKjVfWdoqQeYP7nJLDdh6GxH06GCM2iNGzsRPkEYt41hRlJYg+4uWUoZt4ZRoyxE+g75seBjjxzh8YaI6u/U0mqTXoseu6y+XFeTCpG9Xl8L+kFMSpeK4ATJ/erEmK7tx+TToD+N/HnLD0/o8uhsylvxd5NmhK+QC7HUK847LsRvkUd2gfCYbJiFx1CC+tosn2U45glhzogLq49z4DahTCHdzT/8hs0VP4nsyfeYuzvRdlABpLoqi6dHZcPzAR9h4dxfdJjrZztnv6+RrchzVmJ66Jjlntih5BhyKcKD9Xgx0=;qJa/T07b1q06wO6GhMPwHA=="

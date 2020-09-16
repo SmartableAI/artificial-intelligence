@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-t
 webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-tech-at-2020-embedded-vision-summit-301131227.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Eta Compute Will Demo Person Detection and People Counting in milliwatt At The 2020 Embedded Vision Summit"
-    excerpt: "Eta Compute Inc., a company dedicated to delivering machine learning to low power IoT and edge devices using its revolutionary TENSAI® Platform,"
-    publishedDateTime: 2020-09-14T16:05:00Z
-    webUrl: "https://www.eejournal.com/industry_news/eta-compute-will-demo-person-detection-and-people-counting-in-milliwatt-at-the-2020-embedded-vision-summit/"
+  - title: "Baidu World 2020 Showcases AI Advancements for Empowering All Facets of Life"
+    excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) today hosted Baidu World 2020, its annual flagship technology conference, where the company unveiled new"
+    publishedDateTime: 2020-09-15T12:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-301131230.html"
     type: article
     provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 6
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
+      - url: "https://mma.prnewswire.com/media/1274547/Baidu_Apollo_s_5G_Remote_Driving_Service_remote_human_operators_control.jpg?p=facebook"
+        width: 1429
+        height: 748
         isCached: true
 
 secured: "IPlwZTi0QkdSBNOSGCaN4X6OW9O2HMJKWCrxugMxWTWIqzFSTScSmTGI49WG+laRZPKIOIOz+tJ1WylNVBAOfl1TG6HWVM1gvkUr4n6v2g9kWlZSnftYueNsZHpmCg4reaezEYyVq4/8JwvFcjFUEMIXep8qpmkqtixzpnyh9MiuaagKBFA8eOQmmSDJ2Oe1sq+wZsCWB/e3Nuw0bHBlZH8Ndrcaf3uClzU4Zu4fRLjdPB177fsA3FBOxZ/oeIcmY0vpR3Xp7N0uMDrtyjIwgqHsB5LLspxTd2tgnR7WM2xjtHg2jnU06jISsiXQcpWgjv9SMK5TWzqOwN5UUu9KUzw1bNHhwNRVccmwWvIbuvc=;lMF2fgfXG98pNJSAgh9oxA=="

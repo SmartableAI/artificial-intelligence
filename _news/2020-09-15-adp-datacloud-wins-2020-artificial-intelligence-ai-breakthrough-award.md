@@ -3,11 +3,11 @@ category: news
 title: "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award"
 excerpt: "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for"
 publishedDateTime: 2020-09-15T12:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
-webUrl: "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
+originalUrl: "https://prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
+webUrl: "https://prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 526
     isCached: true
 
-secured: "ZgAyhy4SnqUgd1p9/AuKY4Bsv441HrHYbsp5v+JZFQipJkJgyW8+648L/gOjdliJcDfhGkUQMDS7V+KV1TbPIAq+aYYYBj46tjovg+lXO6bNG3K+KZsqPPoy+UYt3hD5x56bQAlBad2ds9kZzwlGSgQwB/N6Z6R6sr23h4WKocqrQDVxCfF6ja/4bTIEnEkg4H/LHebzkCZTtEYFIXrYNrwtbiWzE1b2ogcATp+BAiMfUq/4iyxJ6ZZHuD76K5JG/5qLP1fgIZBCIZqL6+jsjY3ZUCnb/k2NP0wIhMBFKE7mzDCBnv69V/DQh7ILOdZhdF93GShUwcyOVOi4O0sGt0zZdNAsJC5QlVOJNIkAkKQ=;kmxGi66IvQnOlesHLJKmsw=="
+related:
+  - title: "AppTek Wins 2020 AI Breakthrough Award for Automatic Speech Recognition"
+    excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced that its Automatic Speech Recognition (ASR) solution has been selected as winner of the third annual AI Breakthrough Awards in the “Best Speech to Text Solution” category."
+    publishedDateTime: 2020-09-12T14:52:00Z
+    webUrl: "https://www.financialbuzz.com/apptek-wins-2020-ai-breakthrough-award-for-automatic-speech-recognition/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+
+secured: "luQHwV5/HIXvGVUh6V3EsRZCYllDMTYhVlLq6lf+8zTEeYrKHC5oCvIoK/mrSRGEWNu4wHnhIV+c0CVFvyY+793VKmi7HxqhH3scjBHtOppqbmd7snnMy7dD7ZygPT4ePIlEgNUwwyBKA8Chzf8YMNN5Hcshq3PcqqLSlV/AFKWg9ohQKafrmjGTsx6XL92Wc4XnUlg/TdJ+iCh/hRwvf9bI8D3KSMFDFQhf9PeMucQjihkugnsR7M7aOO+XiV3UjkruIOXVvCGbDUoReTxEVisycmd7Cf94iNo8orLkhdBQ7ulVn20wHNhsnUXz0niG/w7b14rrQ5bQSVORtBGVK3mGGk36/o/Y2jlp7C1RuTM=;7DixfoMh+D0KGYgsW/H6tQ=="
 ---
 

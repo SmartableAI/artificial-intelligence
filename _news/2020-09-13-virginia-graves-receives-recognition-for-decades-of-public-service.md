@@ -7,7 +7,7 @@ originalUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-reco
 webUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 622
     height: 466
     isCached: true
+
+related:
+  - title: "Nurse receives statewide recognition"
+    excerpt: "Carol Ervin, BSN, RN, with Carolinas HealthCare System Blue Ridge, has been selected for this year’s list of the Great 100 Nurses in North Carolina. The statewide recognition is a"
+    publishedDateTime: 2020-09-15T18:12:00Z
+    webUrl: "https://morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.html"
+    ampWebUrl: "https://morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.amp.html"
+    cdnAmpWebUrl: "https://morganton-com.cdn.ampproject.org/c/s/morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.amp.html"
+    type: article
+    provider:
+      name: morganton.com
+      domain: morganton.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/morganton.com/content/tncms/assets/v3/editorial/8/14/81481432-f77f-11ea-838e-bb99ffbab905/5f61067fdcc0c.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "U2nlu5nHh4twt0O97LRbVTopi8iot+aUCzTdiiG0cyQdjvqnweSHkbROLtG3eFqWQWUk2u3WBkSg3nmSocj7hDa32W4N+BNP5Y198K5IRAjc210adnXMrkxm6RDYVT5ee56/1MWrLGc3+ioYrKxtovzObG5DVZ65BBDGzQ1gUDYsJ0/mcCludKC+CA6+syVvprQziJlG0fkTVb57o5HqawfK3pPR8wvxNct3kPgzYAG9eP+Fm+d8FtOE9wKRetbsAQhClvVYOdWAbDpoFbTGjoO0FMogRhOFsD/WSfUXH+2/JrPZoxX6J329cHTnnAJBweGts5VzetOUNDO/SeDfVgQjnyVsiBtKQhXbJI6TkV6Yv+0cjCcLEMvko6NvTU43JITkrlS2PBKOg4GPaeA+eXtY+NNWOzutXj4qq6sWBH1vsNKXsf9zX/swooAWzHvzgaS4iRMb4juK0zP5B4pw8DJlBRac8zfCOgYpDbJILiDXyB6SvFzUSdMqDn1EP9UryFuK7CYrTKUmJLOV25dbeIt1HLpyghUurrhrTqwN48Q=;iAySvgKhkkVRrRDt+f8MyQ=="
 ---

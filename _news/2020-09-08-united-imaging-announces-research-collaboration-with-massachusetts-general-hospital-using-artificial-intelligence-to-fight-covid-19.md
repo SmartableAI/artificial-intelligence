@@ -12,7 +12,7 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9rK5WJ7TLg+e+XXzz8gJTUpPtdJK8l5CGZReARwbrxrlILhmSEqP+2eqD2S8or43PFmgkzLZTkZPv3Hew79/FSoPjLExz1k3n7gz4vTw+ExqCB8an2NmBY4uFucNlol8mxu67432K5V64D/E51xS0rqeJXMUPcQz6A2XLX9+mc/TfWctUM84bBgh+5hVprOzML6Bwq2VmaRlteqfBZ3l9yCFA/0zdDYGw0OH0xNJAZcKnfBFxPmRvhQwPjBPV/Ovnua5rZti8j3COlEyMhXm8/L1S8jiCTwMGfGoNV/XARrlh7tPvaGub/w1KfOVCo30A7+CZXxa2hXktFFGrPBs8b8G36zXn3pnP6XKVywM4NM=;iTUEphE9roi7rzpsPhtJDA=="
+secured: "ndOeq/2zIxiO2ArgVT5Fl6AHmJzxqqdky5+TTZkB23OjQjSpfBXhfZ9LyaYjIoKFAlBhg4iaj6c0jzhrmhcCfnDxM+06OS9CKRgMM4dAH6czwnrYqyimzZ/38ebHOaKOG/hn3SZJgacVz+Hr16Jx8xukTly4hvLaiTwwszYhCxhubZn5qoptF5JuIiAi0Um7+z6PjXL8ERBRB2V7unZ/4ILgp4e3fnfbRTKhbrQDIM5B4LPto25KmY9a4U1vpfzxf63l9l2zv0AwqtqJpsZ8hxHQt6fIjXDK022XJkisg0RHTblLRlLx2OQkcI/W6qiFfHzdo83zt6y6Ik91+9KgmdkOIoGaElb8vFhh3SEghLo=;LUksz5bDnqVkgvxCO5MoVg=="
 ---
 

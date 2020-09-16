@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
+    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
+    publishedDateTime: 2020-09-15T23:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "w0aUj13XRzHlKwT4S7VedaEtJDWeb4iGTbflrbJvTgGJ6HwYByik091GPtI2GLmNO3Vd+skucfocvShxgOo8OH7lupAGjKW3+Y3DxVaexJAw5jclAM/YfSi8/0iC1RVjlTClhQyBCPIDe12Jcbt2EAbttwLgd/Defs6qh04j9tuROlTahtRGFvNFuUN/2NJ2XZmm9u4kxkdUo0oOBxRi5UcEZo/80OE/tuFid1xRHK+Pr5heW7LKM5CQ+M1sEtw2ck3Nzjhr9v18f1b2CCLYA+Oe590jKaUfiY+jpC7vZopR0/0l8+aEZvl9Q3fOBb8bue+WFffqC60Yu2MefNL7jxqIONlLFL+SG+EgmDu1A4ES5BIh5mJEOv/lajGGhNmi2m6SWHJYHS2wUAvyjbW7R//Lb4HS8pHqxh+Dxk60ARa0XpI6ut9zPOAvO85OaVKRiGrfb7bXxmwstsycRqZISO7DVytKbk+nO7aMwd97jcmcsO3blfQORJINK/oOhyCGPW9n+SYKa2zToyLrIM3VwUiws7TrHC2OoL/HHvISd7k=;5BsNfQLUY7C26Y8PH6Ibow=="
 ---

@@ -107,6 +107,22 @@ related:
         width: 647
         height: 363
         isCached: true
+  - title: "Snapdeal and autonomous mobility startup Ottonomy IO successfully test deliveries using Robots"
+    excerpt: "Mumbai: India’s leading E-commerce marketplace Snapdeal and autonomous mobility startup Ottonomy IO have successfully conducted tested last-mile delivery using robots. The orders placed by users"
+    publishedDateTime: 2020-09-15T17:26:00Z
+    webUrl: "https://indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/"
+    ampWebUrl: "https://indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/snapdeal-and-autonomous-mobility-startup-ottonomy-io-successfully-test-deliveries-using-robots/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
+    images:
+      - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/Snapdeal-logo-new.jpg?fit=1200%2C900&ssl=1"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
     excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
     publishedDateTime: 2020-09-15T11:13:00Z

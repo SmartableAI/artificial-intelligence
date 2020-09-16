@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-mak
 webUrl: "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 1200
     isCached: true
+
+related:
+  - title: "Instagram Adds AI-Powered Automatic Captions to IGTV Videos"
+    excerpt: "Instagram Tuesday began adding artificial-intelligence-powered automatic captions to videos on its IGTV long-form video destination. The feature will start off in 16 languages worldwide. People watching IGTV videos with the volume on zero will automatically see the captions,"
+    publishedDateTime: 2020-09-15T22:15:00Z
+    webUrl: "https://www.adweek.com/digital/instagram-adds-ai-powered-automatic-captions-to-igtv-videos/"
+    ampWebUrl: "https://www.adweek.com/digital/instagram-adds-ai-powered-automatic-captions-to-igtv-videos/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/instagram-adds-ai-powered-automatic-captions-to-igtv-videos/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/09/IGTVAIPoweredCaptions-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "MkrzeobrRVDTyJFb+WQQZKjcvBJZWlRW3EIdtFikJcuhnDMVyhCvC4ShvOMQBANKVrkLNJJUQEHVpLQkWJawW4g5E0NB5aleWF0xDikfnZrsHwptyfJrghrlgbsgm/X/i1KBEpd3gQuO1jzi3P+7QY/bFR+sAEwHq6k3+Y6OQilB78nRCDoDpaITkjz/tJn789D73OygI035F6ODbRfzy7KYSoomEZTCT45FN6bORvOwutFxY0+1ARjqnFTFjOPHowPF/kMZaJxvGsmALS0R/lgQLhMq0cdhULlau94scbn1wiAB/gpK2E8WzDTfHBDYU8UFfJGe9otU0v6GeWTownFjghT6SONnNX1vxP4wMSg5j/go9d7It9taqPVPND6wFS+FTJIKzr4/2rTyEI0SgvhhRc1w/m97P8cDBHSQ6H3gRpbnWd23aCmlPCidTsNy38exJNCU5HDkD7j0g8Czy4HgKxSCrsjUFZlXZi/HHENXO/IH+vGsWGDXcyZGFbrCN+Q0jRFcnRVFDGRJZ7WNnK0cyZQ0W8v+MketmGjoAUA=;BGcflDCbJGNBq7n8Oys5vQ=="
 ---

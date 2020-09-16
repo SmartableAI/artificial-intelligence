@@ -1,29 +1,45 @@
 ---
 category: news
 title: "Baidu World 2020 Showcases AI Advancements for Empowering All Facets of Life"
-excerpt: "With widespread applications, Baidu's AI technologies aim to give way to the 'Intelligence of Everything'Apollo demonstrates Fully Automated"
-publishedDateTime: 2020-09-15T12:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-1029589920"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-1029589920"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-1029589920"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-1029589920"
+excerpt: "PRNewswire/ -- Baidu, Inc. (NASDAQ: BIDU) today hosted Baidu World 2020, its annual flagship technology conference, where the company unveiled new"
+publishedDateTime: 2020-09-15T12:16:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-301131230.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life-301131230.html"
 type: article
-quality: 66
-heat: 66
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
-secured: "cMuVc9ePtTY60hAJe8/t6zRUA7OcdDbPzdsnQ9xKLAkAw4KhvhrOAsYge8sathlujb7XCkETQnDyvFm+CFrEIbZli+P8aYUGWDECaWdJssgSGP5QFjak6lBXjFlXjwdt83q0ho5V6FUOE4JZdoriW5x1dQO90BfvNy81fzG2FLGZ4ejPl+PTGVEBr3md6NB+I0mfZSNOSwFynzLIk9AYHD7ycKZvDhN8P+H+bQ6dla8srxrWchWZYqFawfXB6gkOh3eZ6k0sIXscklWyUZ3Zz8Aew6Q4F+4q3mZNC1AvNpQnIhLGm9mdm9Z05NysyRtrPpZ7hE1zC3ODiQgiYGrjhHtMu3d8mde/P01i/J7p2gg=;0kaOWJmVYXNRybJ663wBNw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1274547/Baidu_Apollo_s_5G_Remote_Driving_Service_remote_human_operators_control.jpg?p=facebook"
+    width: 1429
+    height: 748
+    isCached: true
+
+related:
+  - title: "Gyrfalcon Showcases New Tech at 2020 Embedded Vision Summit"
+    excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced it is showcasing enhancements to its Lightspeeur® portfolio at 2020 Embedded Vision Summit,"
+    publishedDateTime: 2020-09-15T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-tech-at-2020-embedded-vision-summit-301131227.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1274395/GTI_HIGH_RES_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+
+secured: "YWxjJcRnfxNoc3tSiHdIF7A423ge9xhEphXhVyB8Q65whoMcFb4xA8ULyqJdOiVWdFg0vfI95PKvMbbddsEX/3wgn4xvvSmMaIJ94pOqqvvzCGLnkbf7hggFCrAyjnKR2RRncN466KdamvbFeuBNO8Dchcy8BB9bSOc5myMpPtMpUY66DxeuNzNAOxVU1iR76kF6sbkL0N7L8nICAZyzWIBupSlFutgvzLux/aK5VCQLA3gRKHjxF71rgokq/E0B8D2Id0bn74V5YTDytbsSzT8OYxUuNxFhzu3Tpgmr3SKAHZDDTnxWlYtNnvd495x5yGsuiaeXJAs0BvaQ4Lj7P2ig+S2hqPRyHjYi+h8wgAQ=;nwi4Fv50xBbhYf88EOvs+A=="
 ---
 

@@ -1,0 +1,63 @@
+---
+category: news
+title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
+excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
+publishedDateTime: 2020-09-15T20:00:00Z
+originalUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
+webUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: New Hampshire Union Leader
+  domain: unionleader.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "'Enchanting baritone': Amitabh Bachchan is the new voice of Amazon's Alexa"
+    excerpt: "Alexa will sound exactly like Bachchan no matter what question he is answering without needing to record every word in his voice in the studio"
+    publishedDateTime: 2020-09-14T15:03:00Z
+    webUrl: "https://www.business-standard.com/article/technology/enchanting-baritone-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-120091401435_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/enchanting-baritone-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-120091401435_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/enchanting-baritone-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-120091401435_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 42
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/12/full/1594516733-4435.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Baba baritone: Bollywood star Amitabh Bachchan is the new voice of Amazon’s Alexa"
+    excerpt: "India’s biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world’s second-most populated nation to its services. The 77-year-old Bollywood patriarch’s image is ubiquitous across the country on advertisements for everything from hair oil,"
+    publishedDateTime: 2020-09-15T05:17:00Z
+    webUrl: "https://www.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    ampWebUrl: "https://amp.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 39
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1077809:1600150583/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 674
+        isCached: true
+
+secured: "xRl1aLY5akiwGw4ZvpL5wGeKD9DNhSvFzeKNaplff4GozSICc2uA2pEhq/XudzzN/xfs4q3tohugZL0kXFp8iUdxLP5VrktR64hqr5wp4UFXacryVlh8/ahP1ZULb5BKVaLgW72cW9ZBjUQlmIsQEgLeV/Lb94DdsXBHzgO7X81YjbKLganw9D+FH3E5NXjizDoiaqD2gSEwTuBa26hb84Q+qJpgrS/UELakrggbC5BbNEpI2orN1StVC+TSAx4t2wqMCsEh9Xf9YnknC03lUeVI3rFNVvcDqNJlKCAwz3GhUEA0OpAHH/RKmDgLi1xxKDz4z/VJj26JZRflL/P6InIe32OLf3Qr7UteDpWVuEE=;2GXDp+ZK2WiEvUnGRBRrUg=="
+---
+

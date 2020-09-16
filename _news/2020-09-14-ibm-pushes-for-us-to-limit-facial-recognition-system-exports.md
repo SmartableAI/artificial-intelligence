@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM pushes for US to limit facial recognition system exports"
-excerpt: "In a letter [PDF] to the Commerce Department, IBM highlighted the need for tighter export controls for facial recognition technologies that employ for what it referred to as \"1-to-many\" matching. These suggested controls include controlling the export of both the high-resolution cameras used to collect data and the software algorithms used to analyse and match that data against a database of images,"
+excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
 publishedDateTime: 2020-09-14T01:03:00Z
-originalUrl: "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-webUrl: "https://www.zdnet.com/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
 type: article
 quality: 69
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Best facial recognition home security cameras of 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces."
+    publishedDateTime: 2020-09-15T23:17:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
     excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
@@ -262,6 +278,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "bRiGZtzLLS1hDRHg2l2zWZKBLZbeUvfD1ct1wCR7XYApkgsZfmAt2UpQ2FtinG7pO+CRJnQBamilrX4tYOlmQRYxgqox8/XG65C9WIgmCzXN/xg/XKFUN4FoybO76ZWDFZumk33XQHdRTh82Ueew6T7PxhJcItihal591Gur72Jbugk7vg2uTaoQ7R4VvvBd3P9U8IOSBYbb5h78BJgQ4YZW1hv0iyA4g4pVROdUi4YdAzuJSyF4a0eixKleVwyuQpOLIGdFOfiqi7iqEPYMcVtVe/kqbMSA1HxDka7Vk+Z8Lb0vdVdO1TerHz/5Xj1bABdTZYmzyQ3YNCoB+KPkKem6b+go8xfPTvkOhGfwPPR0bq0Z/MapRQJM6JAh4FhYMZFxuypM2l7k0h4Pa6zTK4rplEm5EVKHXII1Rz6AUyFt+VXzF10nXQHMNShqXG63yd+GX5rRx6wuTkQkAGsERYpCnaT65u0JW1QViOC8uFW/NYaP0Ry1eOnca6pvJ9xGMMyG0cnbUHX7dLrAGEk3TndlXuveWXJGI+C/WqqkoNo=;9njz/RmxgUwLlXLjSIzuMg=="
+secured: "Alm60I9oe+WkNzYD+PK8QUQyqKPeDxshUzrM/Yp6Rn1MOOGX7VwrmFPs3gCIc/cSVOT6Abh5nXnUgDGOvsHXJ+w+Pj9j62izIrH4pH2JYJWvM51xniWa26B3ajaP24CJ1W82fnkOwBmr0iUx4vMmw1RlDC1ufxwiO1zJ4Mp7cHJv5iuAwdULLCA+39XQeWjlYmYLIRgYPKTq9ecX+kvm6BhAd/r69t0o/bPAv2AgTc3FO6F/bCpsuw3vVlJ50H0b466PoD36pEA/tll83MrzUIC8H0cwWuuv56WIgx6yX3Y1ptkBuR9QpeiWDuOmnkbz11kpCm+7NG5Ry76qMxpPNiBcAT+W1M1GRfUYJ0I0SlkqoEN5qnOyNj8W3LLPS212gZOmlEgb6p27Oeq2uhnqnmznhUffiDL/65iCpU7ytSPq2BE3Xe5xp9JtPVvZqu8TOJ4ciYrj8m+GDfvVrv+TNGW4I59ykX8PLqyAkHTUTmsMAQq/w18aAEi0kenPtcVRcrP/6YmmmGI24E+jmEpBgA==;RHJCrwndVpwIspxysbxSCw=="
 ---
 

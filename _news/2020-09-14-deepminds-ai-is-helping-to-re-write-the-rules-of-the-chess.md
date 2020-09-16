@@ -34,16 +34,18 @@ related:
   - title: "DeepMind's AI is helping to re-write the rules of chess"
     excerpt: "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game."
     publishedDateTime: 2020-09-14T14:42:00Z
-    webUrl: "https://www.chessgames.com/player/vladimir_kramnik.html"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 184
+    quality: 104
     images:
-      - url: "https://www.chessgames.com/f/12295.jpg"
-        width: 350
-        height: 512
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3hq36LAD7BdyQ1HeLFXzDT++dP4LjPnTAZKNN/mJNFwYNbREzb2XwQ4gVhLEGaloL1GvVSCyyEDx8yR0KXC+Td7pxp06xdjLruW6lksasng9KL7OujyvlHgouEYY/zvrXayQ+YiUg1cUAiGwESlfdY1OM1aWxTkSqetq+L2Ha1sMi9kSVzd73hofs89ns2fT6/F0V+/qIZp3ztz5jUXk64+2LtQ9XBI69jRxEsHZ3Xl8xgBZps9PdqhNT1nDhWx9KX6ddIxH/5FdeRwV7/wkQQYFYvm2Ih6ZRP9n1KRDS1V/GifVl243ym5OjINCqNOkfX6o6Au8urzIXCypOj91nOZ9rFP8njbVxnHpjIXn5MYZ9eNaVEEJnTfldzSnr9uvSv5G8mXUMcrK05TgRvQqyeC1POMyDTKjbHZ4fTFmvQKgvRzrWhWYT4geEZ3HLLO9V2HKmpJBm7QiUZD+1JUcBLWWL4bYAv2Jrd/J7PUjHvWB7io/NFwMBhksxqlTtg3u05oY3bOSGsgbRbUd1nUUSYyPcVvwCveNg46pJ5p7IzI=;45n85EB9l1yczPeIlf14qg=="
