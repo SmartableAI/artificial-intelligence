@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "taskus"
   url: "https://twitter.com/taskus"
-  followers: 3912
+  followers: 3913
 
 size: 10,001+ employees
 yearFounded: 2008
@@ -29,7 +29,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1278771884121665536/BJ6psEN7_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1306067446386679808/jZ_HQrSW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
