@@ -112,6 +112,6 @@ related:
       domain: galusaustralis.com
     quality: 19
 
-secured: "4ljx8WIbvmRF/e5B4hKDMqh+IhKLt6PHRUUFZiuQt1hn1r82QSOz0Z7ByIAJutW/nUy9IY3ZGLdDE0RQzpou5SUhRTabyDRCnA5BPukZ36M3P0n3RVj6PZsLeS3OXShsBHuk6TmwM9o3hG6bUsK14a1MvYElrrrKxTM8mJjXIQ61+XhieXM3z0FdzF7eIY7lCnz/ZWrnAnPaQ4gsyWW/TSvgucVJsj1TMyeEHcVsiSOMo1YgM0/5PMAcDv4XcfSstgqW8Bl69kRFngudXEdgmMgSwJFD9wL8tTo8+fDqnR2zK8nDs1HypjbKhsext+eT/5x+lNmvah+XZizTO7jPNG38B8c9ooUXUG47q/wIDNs=;5feHGYh14a5Dp0ZGpTH/SQ=="
+secured: "faXYXr8sS9k/vC7OnqsuxIJiJCU6otS0ii1pB07U1rnhukxp6mzieNmcFymBrcCI3oJYQjW1jfK3aD4KYFxNFgkNL+gOguaACnZDyj1w45aqAiaAm+DHc9MEydSExxBkiug1V9C4C+QgxjSrV53Rw3CTs7N2O/kxL/7j/bGD3lBm2RsyLhadLWaEEtp14Snst9VoieQlDjTGJgivrNSsXnz/JLxu3EgxPyuHE6bbuXXQzy+To04d+6XObaXpsqXe71WWgaGrzNMmzEEVvJleocnpnPf6Gdbn/7SFDn23XXM5/jIloTjaxejAG61Xrtolfffxkb5Au824InliVH9ON4VqHwjEAJdpU3Pqa8UP1v0=;Hgo/1R/hP03OXqggjHiFFA=="
 ---
 
