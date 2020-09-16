@@ -2,6 +2,38 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-07-29-designcon-2019-announces-keynote-speakers-from-uber-university-of-texas-and-uc-berkeley.md",
+      "title": "DesignCon 2019 Announces Keynote Speakers from Uber, University of Texas, and UC Berkeley",
+      "excerpt": "To give DesignCon attendees insight into some of the most cutting-edge technologies, the event will feature keynotes on quantum computing, AI and driverless cars ... datacenters that power the artificial intelligence (AI) to enable Uber’s futuristic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/designcon-2019-announces-keynote-speakers-uber-university-texas-and-uc-berkeley",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
       "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
       "excerpt": "Facebook developers have created a general artificial intelligence framework known ... implementation for Liar’s Dice to aid in future research. The developers believe that ReBeL could help ...",
@@ -1111,56 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks.md",
-      "title": "LinkedIn open-sources DeText, a framework for natural language processing tasks",
-      "excerpt": "“Deep learning-based natural language processing has the potential to deepen how search and recommender systems understand human intent. Yet the ability to leverage models … in commercial ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/amp/",
-      "publishedDateTime": "2020-07-28T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -119,22 +119,6 @@ related:
         width: 810
         height: 539
         isCached: true
-  - title: "We need clear rules for facial recognition tech"
-    excerpt: "Debates over law enforcement’s utilization of facial recognition have intensified this summer as protests spread across the country in support of Black Lives Matter. In recent weeks, the conversation hit a flashpoint in New York City after the NYPD’s aggressive attempt at arresting Derrick Ingram,"
-    publishedDateTime: 2020-09-11T10:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-we-need-clear-standards-for-face-recognition-tech-20200911-ai3cmttpq5c7hajn7nlu3t3b5i-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 59
-    images:
-      - url: "https://www.nydailynews.com/resizer/f0_QvJt9PjHXrSL675Sg90t4P00=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AK7HJE3FJRAOTLXS2GNZ2BLJJU.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
     publishedDateTime: 2020-09-12T16:01:00Z

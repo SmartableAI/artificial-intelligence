@@ -38,18 +38,18 @@ related:
         height: 354
         isCached: true
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-    excerpt: "Utilizing Microsoft Azure cloud enables bp to access a broad and deep portfolio of cloud services, including machine learning with Azure Digital Twins, data analytics, security and more, to gain greater insights, drive significant optimization ..."
-    publishedDateTime: 2020-09-15T07:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-301130725.html"
+    excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-15T07:00:00Z
+    webUrl: "https://apnews.com/pr-newswire/f9a8b5401928f74988a829b7d8469bae"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "5Osds6ZBxZ4w0Rwmd7027TxoDdhkVw61xIouoJNuWXz/LNlAj3rETZ4lIHePqeQMv+XxVCusDoQjYYm2m5cOlp3ZwBseaVZV20ptL8dcsmt/xdrYhYYX4gJ8lAmvHoUOuHooVFXBY3EBHCqFCxuITv/35V3CkWIGOndUv+UVwmfA6a3RUqc2b+ol9YrJol0Iw3TUEPiuL9QVekTEbVDMhtzkl1j919E4P9CS4oEOTzc/mgOr+f5nlgrDjzpZkd/A0AbUKrPJYq7VeO21L3ZOOxAaO6Kse4Kt0jU89cGoc5HJP54e0aOIufjMOvNXtZ3abljm1budYvgpHF99Egp1WC/TtJ/ZWBd2HyyIiJT70yMCtNf7WS+rxS2gEFOyvkRonhOgcnPAUPezCniihAG5p2gb69k/8Zel8mRCmnQoNDLmL89PrtxjN3DzXz7jLfu/gRaFDIn3yPfmBTNd/YHENxbXgr61Lujfp9pLIL27tgnW2H03n/QrMAWojZlpPdJQiitmTz7EOSTGS8+Ss+E9Rf0CwQO7FbnQhyOBN+fgMqs=;veooyNBr3iSz0hfqGqbFpg=="

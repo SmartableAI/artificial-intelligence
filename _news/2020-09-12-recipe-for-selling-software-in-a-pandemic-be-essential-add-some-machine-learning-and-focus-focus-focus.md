@@ -2,11 +2,11 @@
 category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
 excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
-publishedDateTime: 2020-09-11T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+publishedDateTime: 2020-09-11T21:07:00Z
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
 quality: 56
 heat: 56
@@ -30,6 +30,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "nxOiKkV0dnTG0wzvFj4CR9NjgqP6o8301D1bPfr6vQdR8HQp6BbJRvrVUNlbI+/PUvBlWNHUqiIwpeCJPbdDsTpnMvHc5p9DnWFKSptIOH0QNYwuowe2FwS/dSHWVhbOtbEWAWra0DhWM/YEAxhp+0pF68mH+skIYuj6SqWUPX9E7yWRUedPQnD53iGuk1H1U2CJZNhSHOPAiPo1ls1r56kKfoBL6D0+zGJOi8g2wdtZflf5wEW8z0nIMfpnVx/sozg5sOzdXyuY+y8njDzjqeJbr428a0ZX7bVTPNESq3J/3da+soGW1WWT/bgVPWX76S+3y4WHO8FCBPYAWxiPSJ+HxocHB6hXXx75CwkpYh8=;cPV0+IsVUn2E83WdENWNKQ=="
+secured: "EWhkWJNUiW6YBfqXK0icqjXSrJ6tP5WvsKP9S97tvrrrk9tfUrJWgeeqiJm6SCCf/QAwSoprVVO+csea5DbDXQpbiEblmyDL5Lr/xu+bdCClhDoPW4uIoVSnJcI2fEQhf8bnk2f35rvq6FHdqn6HVXFh6sh2N9P8srkf3MWxp9mqu2yNs18f0LkNjGv6/eJ9zNwmhrlgwTH60C6G7hQQo8eZcB8TzfaSnn7Spx18+3eQS2pHyTCVEPEKKAPkzh1SzefzmdsXoofnLI9kEuIw38Ed6TphCj2cfqmyJyOzpBS9rH+TE1GX0Xi0Di+fCo91QLaXpyk3o0OKNtC5VROBsWZ3IjmvvxbcjVgFqn2m08I=;mD0lk4mm52q1z1Z6rG5lrA=="
 ---
 

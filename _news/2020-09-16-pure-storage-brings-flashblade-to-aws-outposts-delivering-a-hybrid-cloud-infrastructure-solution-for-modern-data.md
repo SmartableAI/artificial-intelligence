@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-excerpt: "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the"
-publishedDateTime: 2020-09-15T17:26:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-301131532.html"
-webUrl: "https://www.prnewswire.com/news-releases/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-301131532.html"
+excerpt: "MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire/ -- Pure Storage (NYSE: PSTG), the"
+publishedDateTime: 2020-09-16T02:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
+webUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
 type: article
-quality: 18
-heat: 18
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/465493/Pure_Storage_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "SoMuiLssxc2RQ16Olt4Lgfc1xDcOQbj75hMjCGNjsSmEtlpwtKr3beDQbhMXvutdXswBLfr9zwGTGKz5Vzm9y2F3E5CPVb/054rAdjFrq6p5lJx2nRHj1lRo5hS1Gha0twJL0rulf4uwNJeDOb3urgCpyfhdAhIFFYjQPZYiHBZkAnjFa+T3W98CS0ZZX5cfmmzgGMOfd5WnuWV/TuXkblmJYYy1QX4XeLePTLdkH2eZlBnwCKQ5V+CqR1fCJLOBmQ5vrOYcNVA6qAxOviLjRo/xpLjT7pwfOtMDO34gnJcYTzaNJAbVp2X51O1sM38+9JI1hT++SbmBppt+w1dC2RKDeaz6qnsbBNovgQh0y/3LpVnfzHaRGMkdNiYXE6jFXyvB+LK5WZzEGJw+TtSnPgrdjxgOvS9Eh9Ma/P9PZa04XRzIt1Z45Tzn55MzkA07WxXGf6+zW0rMA/R0t6Ejq9gpbQmjUeGYbvkL2kTt6k/im8/pBKMp3V5MPxXKasquUIgxhPK05NA4B/h74q1aJLmcaEpwesfadcmCcvVAkvg=;s2NCk+I52+FOUAKeTSFwcA=="
+secured: "CDRmfy5k13yBnpH2u0sdxksEtxTErFguoiIfZTMtHpdF1FogS8o5gFD1E63jSh33zMPPNEB6OVXHZKBUVz7xqhFV+sXhjfqg/DXkNwklMWttia97NP4h4mkLoj4bID/RYsI3AErlcktVpbHy5pH7FA89D+yuBtRPb9KDortPVQ4JlHvp3wNgtZL6JLn54D1LhbbXgQjMI9XIDQ0riFu144Io5QsrBpqjA13EjYRdn/TMwpErmESh5kGO+/Wr5xHQ8c8Y92QpuKHaCDk4oQjaGLzWI0RbTKdLpHrF/ER3Cfgj4G2ljUDeaPdL+5sq4JdHSXzysG1NvpZcuGa/4uAp81aj64WxwV1shv66bXt/mtE=;3WBhqhFxkyWTgbaLWEb99w=="
 ---
 

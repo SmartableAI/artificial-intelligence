@@ -156,14 +156,14 @@ related:
         isCached: true
   - title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
     excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
-    publishedDateTime: 2020-09-16T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
+    publishedDateTime: 2020-09-16T03:48:00Z
+    webUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+    ampWebUrl: "https://amp.freep.com/amp/5811636002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5811636002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 34
     images:
       - url: "https://www.gannett-cdn.com/-mm-/86e1261b0553879c92a57f9cedce11e1d8c06c82/c=0-107-519-400/local/-/media/2018/03/21/Phoenix/Phoenix/636572551586209311-uber.png?auto=webp&format=pjpg&width=1200"
@@ -254,6 +254,6 @@ related:
         height: 641
         isCached: true
 
-secured: "0mNkGDYFN5J67rzFvjp2qmpwVLEPK4itvU6qEBNVOEpHw3Bh31Mv2wNxUZcxSUh2aLIdHFtthPgE3ruu46emIKduMBD1mxcwHlENmuztX0ohLwkx+QPtEMg8v60lzv0N2VjsWlSPZ8jUMtZwPaNMehfPzbEHAa/yTqiiNBsikA5Jv3w+HPym6jaNlw37+YIODGL6Llb00z+KZG8RXhaqy7vFe/zBlK2GgqP2UzPe2a/gNZxXzoG3aXpIu28lsKHsAZeO02qzTSSrvGVzRCSFGvJ+2E1wyIK1hTbUjPPVdUlIepSNrh8xmER9AEf5RwKhXNxWI8Nx8Ur1ZiVg81hpVXmABmC0eU8QICVRoSvNH8A=;twRhFtFda/IaP5DvFajFsA=="
+secured: "XFpGKHn8jtJKy3k9hCY3G/tzyKte4mw0q+ful8C7l/lYq82+Iaw4dwjt2UKktl6v/cDuCKFJgz/BTX70OAVgwkleunhPQ8q4/XFHC8GVE3gklqFp37xPZZd06UGltAtez0gd8BGySlWZ5tBFWonX8sfpT6mjgFJeVgfax66eFA6zgqqIzy6s1vjfzY3VUxFVAh0jaJghFOI6XCPb+/X0TFw69FH7rN0KUKEdRDKAOeD0uKcjeQUY2ZCLEj2O6G49zGtux0hC2UKvmQpg765tuGMOGrh11oIo3hLDgT2K0IseQweM82mEWH7xMr+FlR5LRUwS4rX8jK2LbRWM701Vzzy2DRNIE8d0aahCox0ulcr8U1rhQbwLjx+pqHCoNShe0AqMDIxty2zQu+lRF9e/T5/RBkx6bYgvlYt1yvpH6xWDS3UaIvWREwkZ3r+yOSaq/ot9/wnRiE9rX9b6uFpQxX5viqwJAVMJUKtYur5An0cJkepbcqwh3fARw+u10mAdGon3Wd4C1vfqwKo3hUkbZw==;qW/6GLcxJpx5rovi3/S8zA=="
 ---
 

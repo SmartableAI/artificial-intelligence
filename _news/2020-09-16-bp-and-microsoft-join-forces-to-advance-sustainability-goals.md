@@ -39,20 +39,20 @@ related:
       domain: pulse2.com
     quality: 54
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-    excerpt: "Utilizing Microsoft Azure cloud enables bp to access a broad and deep portfolio of cloud services, including machine learning with Azure Digital Twins, data analytics, security and more, to gain greater insights, drive significant optimization ..."
-    publishedDateTime: 2020-09-15T07:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-301130725.html"
+    excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-15T07:00:00Z
+    webUrl: "https://apnews.com/pr-newswire/f9a8b5401928f74988a829b7d8469bae"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "SqC4ijnKXEGgKhP9mYrWQnb4QusGAjU+ELgmly/MHsnYe1GVZt4iGsOxokjnwLuW9G5nXXr0Aolaxcsboc6S129QjGxRghACxMkNtrgZH1h28XTUsqojItOxlQT8a3Xa3JGN39bXJOZuqx+lYjD46V9SsD93qBdl0htyjOmTR7ZdYYb0ZeyZCQXoJl4feusWnWk574h8MtZjOY4EzalIgS+i/jwUPsol55xT2yMUFJdP2KnKH/9q+tAYH6ck5mGkLvhJwKC42MEUgGxHezNr//t7sEQQmEwXFfjifhAxQtg/Z9xWBpo45hOP/JEzilzmIuKcAhLJJwYk5QRBsYKkoXnzSz7YwO1kMBn3bUBZeA0=;w0g9DfG+XVrnCXtYRpQPLg=="
+secured: "OJfmbr7tqDLnpOVx4YAKWiNyA2KOJ6X7lj2awutBHnhjPM+NiE9e60LZ2QgfDkIZQV3O8q4sTxmRTCoqGxkD8Ks9mIRVmdplLreWzYTjcUE23ZLstQnnFmaLmeLm6tCbezODx5oWDsoKKCqbGg2UgsN/HzFP5/JDw1/L1OS/c+KhWj1eotielMxmZR+ohsYj0Qb6m1ME7Ms4NQztSu/MXsnZzCxU+vedg0XK1JgZ4lHJKGYbMsJHHJYgohKsVFztbjU4hKMTvfqDFYpZnVU1TGfghtRwcfo3aaKA9Mc1qU4vH6OLnB9h87pmkgbDM15Xu8oFlfr5a1Uo/XY7GXh85DXB+Je0B0vOQIb6icRseOx1Ifaed58AcznlgIU0+0e2pvz/DW7y/MvOJy6oU1tMV/fSY8ZrRweIAJT2rkbZw2kT5MQOPXqxn4aqi8ruMRvL8cdh8VFQXPYiHcP85PgLCwWKhMXL1C5aQ2xHboCun6SfqhO1n9mp+q9eKbf/EPhfOAwTIfFWh0STzBlILGQuCQ==;52s9/i+kWNb6YyK/aBna9A=="
 ---
 

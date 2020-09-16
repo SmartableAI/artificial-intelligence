@@ -168,14 +168,14 @@ related:
         isCached: true
   - title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
     excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
-    publishedDateTime: 2020-09-16T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
+    publishedDateTime: 2020-09-16T03:48:00Z
+    webUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+    ampWebUrl: "https://amp.freep.com/amp/5811636002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5811636002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 34
     images:
       - url: "https://www.gannett-cdn.com/-mm-/86e1261b0553879c92a57f9cedce11e1d8c06c82/c=0-107-519-400/local/-/media/2018/03/21/Phoenix/Phoenix/636572551586209311-uber.png?auto=webp&format=pjpg&width=1200"

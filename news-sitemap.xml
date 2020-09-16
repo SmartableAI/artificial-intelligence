@@ -649,8 +649,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html</loc>
-    <lastmod>2020-09-10T14:20:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
+    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2061,6 +2061,12 @@
   <url>
     <loc>https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html</loc>
     <lastmod>2020-09-02T15:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.law360.com/whitecollar/articles/1304822/-a-path-forward-for-eliminating-structural-bias-in-ai-tech</loc>
+    <lastmod>2020-09-02T14:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

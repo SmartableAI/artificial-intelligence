@@ -102,7 +102,7 @@ related:
   - title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
     excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
     publishedDateTime: 2020-09-14T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

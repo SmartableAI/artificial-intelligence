@@ -2,6 +2,55 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-11-at-prisons-in-finland-inmates-are-learning-ai-and-taking-online-tech-courses-as-a-bridge-to-life-on-the-outside.md",
+      "title": "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside",
+      "excerpt": "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f31c3faa6f0e106c119e315?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
+      "publishedDateTime": "2020-08-11T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025.md",
       "title": "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025",
       "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
@@ -1124,55 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter.md",
-      "title": "Why IBM Built An AI Avatar To Answer Questions About Marine Litter",
-      "excerpt": "IBM is working with the United Nations Environment Programme to demonstrate how information technology can be used to address marine litter. It could be as simple as asking \"Sam\" a question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3198434dd89001586075bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
-      "publishedDateTime": "2020-08-10T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,37 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-08-05-egypt-refutes-elon-musks-claim-that-aliens-built-the-pyramids.md",
+      "title": "Egypt Refutes Elon Musk's Claim That Aliens Built the Pyramids",
+      "excerpt": "Elon Musk may think aliens built the Great Pyramids; usually, here's the point where we might say something about 2020 being the most bizarre year on record, but since you already know that — let's just hop right into it.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/elonmusk?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison.md",
       "title": "Former Uber self-driving car exec sentenced to 18 months in prison",
       "excerpt": "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison",
@@ -1131,56 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-portland-maine-becomes-the-thirteenth-city-to-ban-facial-recognition-tech.md",
-      "title": "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech",
-      "excerpt": "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp",
-      "publishedDateTime": "2020-08-04T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

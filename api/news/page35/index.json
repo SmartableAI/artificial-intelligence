@@ -2,6 +2,55 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-19-tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world.md",
+      "title": "Tune in today to discuss COVID-19’s impact on the startup world",
+      "excerpt": "We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars — exclusively for founders",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/45390120154_d2864e1953_c.jpg?w=799",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/19/tune-in-today-to-discuss-covid-19s-impact-on-the-startup-world/amp/",
+      "publishedDateTime": "2020-08-19T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer.md",
       "title": "Cerebras puts ‘world’s largest computer chip’ in Lassen supercomputer",
       "excerpt": "Lawrence Livermore National Laboratory said it has integrated Cerebras Systems' wafer-scale computer chip into its Lassen supercomputer.",
@@ -1103,46 +1152,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-artificial-intelligence-ai-in-drug-discovery-market.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
-      "excerpt": "The large Artificial intelligence (AI) in drug discovery market report contains wide-ranging and comprehensive market insights which are based on business intelligence. A strong research methodology used in this marketing report comprises of data models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T819553587_g.jpg",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2116269/artificial-intelligence-ai-in-drug-discovery-market-seeking",
-      "publishedDateTime": "2020-08-19T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
