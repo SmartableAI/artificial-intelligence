@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "featuredContent": null,
-      "heat": 114,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,9 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {

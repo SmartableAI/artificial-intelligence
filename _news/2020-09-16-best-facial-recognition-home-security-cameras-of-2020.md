@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/79de320/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAdobeStock_62385205-500x333.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "City Ban on Business Use of Facial Recognition Tech Said to Be a First"
-    excerpt: "The city council in Portland, Oregon this week unanimously voted to prohibit the use of facial recognition technology by city agencies, as well as by private companies in public places. Civil liberties groups said Portland’s new restrictions on the use of the technology by businesses is a nationwide first."
-    publishedDateTime: 2020-09-11T22:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/city-ban-business-use-facial-recognition-tech-said-be-first/168396/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/11/NGcamera2020911/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "EDITORIAL: Put limits on facial recognition technology"
     excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"

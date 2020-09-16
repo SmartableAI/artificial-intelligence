@@ -7,7 +7,7 @@ originalUrl: "https://www.anandtech.com/show/16083/qualcomms-cloud-ai-100-now-in
 webUrl: "https://www.anandtech.com/show/16083/qualcomms-cloud-ai-100-now-in-production-up-to-400tops-at-75w"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 382
     isCached: true
 
-secured: "lr9GsR8b//xUhAqCFZu3QMUfPC2sAVv1i3HKctLjT2oMCxysF34TtKiweXj0RvGgqg4cJr6cqA5FXnK4e6vXSxGBymxmgu9HHKFF7eCaVpcy0oF1dCh5LIEdZmEG+8eF0zi3q68aBk3LXIvbu3x1l2Im7dLAmY5iWkJcU+hPLCazAX1BOf5kvh+CwTXuoAnU1VNlU6FpFFZaXYd2SW8SCs50J0OVu0rzZuVZFbGgvLxn8p3hCbv8CLAngznoJs8zgckSgDFr/zaGNL6d9tjS0tuw4ioHECG3YpaiMDwkjAhkuhyGWic3QQjHNjSFQOkvohUa82CuAwXq0jG7LY+ko3ieYvxC3MK8p1ntD+ImqPQ=;PsxjNP55lmJrcHunOdFH1w=="
+related:
+  - title: "Qualcomm Cloud AI 100 Accelerators Target Edge And Datacenter Markets With Up To 400 TOPS Performance"
+    excerpt: "Qualcomm announced their Cloud AI 100 platform to provide low-power high-performance AI inference acceleration. Now, these devices are coming to fruition in a variety of form factors for the data center and the individual user."
+    publishedDateTime: 2020-09-16T14:38:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-cloud-ai-100"
+    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-cloud-ai-100"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-cloud-ai-100"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52858/content/hero-AI100.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "New Storage and Processing Blades Accelerate Decision-Making for Big Data, 5G Communications and Artificial Intelligence"
+    excerpt: "(NASDAQ: MRCY,  a leader in trusted, secure mission-critical technologies for aerospace and defense, today announced the new HDC-U.2 High Density Compute and HDS8R storage blades, uniquely combining both storage and compute capabilities into single-blade Enterprise & Datacenter SSD Form Factors (EDSFF) so customers can minimize their overall computing footprint without sacrificing storage capacity or computing speed."
+    publishedDateTime: 2020-09-16T07:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-storage-and-processing-blades-accelerate-decision-making-for-big-data-5g-communications-and-artificial-intelligence-2020-09-14-161973043"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "YAOPHXfVJyRDqBMMtECnuJWjM66r/by5/jpwFwAjPDffThIrkP4CPc9IsuaQ9bkbG4TcQQTceqoP7qr0tEwdblUYw35RTIuMjEXqso3NE328yvjppQwk/iCxi1L0PQkLHOwn2dJYL8D1C/KJWAIAo8rZG/BjdFWvC6ZC5Vq7gD6eBuepwKv0A+WSZ9aVKuFZVfAb1m4FzFJeUDua1bR5JXGbbyiTNRHDvv8cl+B+fjW712DNbY8hsv2anofeD6gR2i9BUgWX+94UZBf2RkkgJ5SPkfyi5TJcUhnjyeex+zsy+Im75VymBXsDtHaD8fiHTpxY6VLmvCBUe9FP/7PW/bpLl7pqXXi13o4jaofv7GRcViN69MgjZKjKvfQuoUVI0AeepMLVeRnvMQG48yJuqUybOuJ/ZaXfIhUwrV7fB+LtwG21A7EUJHedG3wx+6n9r2L2MKTWiiqjlafiGupX1JToHo0wrvgMxPy1X/uIAnQwsbMwY70/U2WjLuAnYnsjLysjVM9csX+Z8Sfznhk1PA==;bxNKuDAWjE+YRigWrNlRcw=="
 ---
 

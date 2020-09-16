@@ -73,12 +73,12 @@ related:
   - title: "North America Machine Learning Market 2020 Report Examines Latest Trends and Key Drivers Supporting Growth through"
     excerpt: "The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a"
     publishedDateTime: 2020-09-13T11:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-2020-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2020-09-13"
+    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-2020-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2020-09-13?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

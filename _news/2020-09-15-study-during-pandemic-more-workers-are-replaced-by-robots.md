@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
+    excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."
+    publishedDateTime: 2020-09-16T15:21:00Z
+    webUrl: "https://www.thestar.com/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 32
+    images:
+      - url: "https://images.thestar.com/5ehPdSSK7ylKHT38tmck9Z6Gas0=/1200x800/smart/filters:cb(1600270436116)/https://www.thestar.com/content/dam/thestar/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds/robot.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "s9wKoBLnsvialcLnYYhcrEEHgH8Bos+JmyPpnWhchvUUoGlNoUQNq2IK9/FRc0pfcByqu7S+MErDgUswpTNxUBc5E8kEFX/1CreekBU9zKOykWCFqb8nbF8BrEzwN+H/nybw7EbV+4iCKCrik0tLnUD04Va59IvKJKEmo7YiBtHdmtZdDlSblWhiP/eTC4590owMsWYYplnxmc3+5CvEhDB9Zj4cvXsKldiFoj+5wqq9f66PYVPwtbP6cSmGVYmhLy4UPDEircT+RcBVxnPonFZOE9einOiC0/2s7r6nqwIiE3dc9fC4wkb1vjNIwXTkN8NFAEiesN4D5DIl9xHZ1XjtOxg0IvHm2f698J9EsHSvYCBQNB8LiZPL3NQCRhluTlhDtQY+Vq7Ddc5neXCxVNOCWmNX34Wzs9HMzwbI1lAhGBWhdiMg/IVPwvKruDTv3txvYxBNm5xb8y2uJnl1RiZNA6g2D/J5eZlfG/+d9fqvnTy8Usf1XNYxNedHSG/U8J0xSPG4ch3iKaSb9myaiSDnHNLcp5OBg/4i7RNQJhw=;9DcEggz0ROYIYe7qn2g4UA=="
 ---

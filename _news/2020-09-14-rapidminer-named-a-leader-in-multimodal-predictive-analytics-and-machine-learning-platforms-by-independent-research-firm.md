@@ -22,19 +22,16 @@ topics:
 
 related:
   - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-9300852"
+    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
+    publishedDateTime: 2020-09-16T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 18
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "l6nYdRegDIUxOzxoHBzgr/ldTixf4mJOBYiOD0f5twQbznoZyJdZ4OFvSjHGKx7dtZ6YZccX48VUcNo/hb7/++AGTochypWCsOyZUJRQuFkvz9Zka1Z6I5mKhDNXLbfh4kzZtBc4O+2dqA34cpdOeMuAMqkHS2KMvIlGKmTauAzZoZPEa/sIb2f8vMiA+/oDUMKu+ErUNAJ3IqAJvmC6Wy/geOyQBMoscXqYmY2k8X11y4I2X1RraTYOjtjIQbwWFnD9T7K0vIk9Lm3738XXn77ivk8Ku+9WfoF8BR5WbNasSVZMgyYzdT4LMLxxjIXX7jR6qBfe01GhIHyBneWzakfIv+7Den/CLZFUv00Mejo=;rKzWL7QF050OuACyNcrAyg=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
 excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
 publishedDateTime: 2020-09-16T10:30:00Z
-originalUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
 type: article
 quality: 67
 heat: -1
@@ -34,13 +34,40 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 108
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
+  - title: "Qualcomm Launches Cloud AI Chip"
+    excerpt: "Qualcomm teased its Cloud AI100, promising strong performance and power efficiency to enable Artificial Intelligence in cloud edge computing, autonomous vehicles and 5G infrastructure. Today, the company announced it is now sampling the platform,"
+    publishedDateTime: 2020-09-16T13:04:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-cloud-ai-chip/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-cloud-ai-chip/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-cloud-ai-chip/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f61a3150c939d131ff9c6c4%2F0x0.jpg"
+        width: 899
+        height: 300
+        isCached: true
+  - title: "Qualcomm announces three new AI accelerator chips to power edge computing"
+    excerpt: "The company also is testing a Cloud AI 100 Development Kit that includes a new chip, 5G connectivity, and Snapdragon 865 mobile platform module."
+    publishedDateTime: 2020-09-16T13:30:00Z
+    webUrl: "https://www.techrepublic.com/article/qualcomm-announces-three-new-ai-accelerator-chips-to-power-edge-computing/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-announces-three-new-ai-accelerator-chips-to-power-edge-computing/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-announces-three-new-ai-accelerator-chips-to-power-edge-computing/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
 
-secured: "PXz62TzT0SA8oLSkiaZc/wu6Nol9d6/M9J0AxNenTsGmiDs4UYm/rnDLeR5X5I5+sR49qTLTec4EQvTftyyyvRUle1928flEyEamwGy41t5ARhS9omBb1fI69FhIvgsQj5y68G6z1qXdAgPRYys/mN3LnpoMNGNt8E8NYAZhJs0YUBZUkZr9Ypr2b62RE/BYOCd1nsZ38/vx6dbv7vHz+Wx7bLHxmSIA6nTMgqtvHS6+iqsIX9BlWfY0tmghfj1M2O5qkpNyXwWKDYPvIuiBmY+nkaZt2JSVDVpcum2A/c/+k9xmPAUHoh9YR5AFWA6922u+vjN+na9hVvKKBbN30T24FY6b6jLIu/pdFtVshLFu50XQBLBtHPkNsR5dAclaO4hwq19XQ76VC3MOBg2VywR9V9By1M8gkMXx62WM/+p5CerdiEG5dCouyUr0sNw+VkESBdUhrfS8OFveSFhrh0jnqXkfsDAVGQ5O4neXKCfMY+zaaEQPefyr28wICJD6KCcj3XilY8qPS3Cq4X68kQ==;kwIjO4+hgiU+e0ppubThVQ=="
+secured: "W8+RsJ/ND4ZKJjfrTheELxfS/adjPwIGcmyiM2VI6x5fSm2bc/IUPwqS6vErTE01iA9wV36V4DpE0DAuY3fZaHk0eFAA5X34MVqicxPrBS4RsScFlowFcrfEDakSkZS4z8EFyvonhP80O647xM9JKkpPAHZiDXJQYp0q9lyU0FnbekvgFuigW38fcR8wXOrHqLQbJEvZVSKRrdwJCFaRVKflaJrxlmp03+qLVwuR24ppmq8iaOzrZ2AAil0COVzP1D8UBJpELcWOK+R6OvEdCaOr8MQUDYQ2y6y4HZxDxstWp9hb8HPHTH/kmTx051cF8pVy1zrJ3YQEEArLs5Zeij9wYZu+DN5RCSTPRZpJ5TjdoODcVbo+53xFQBYnfHLKuGGD7dB70z63wzTJrl5e4G+Hzv+G74shsxFPKYtV60CnAw05jbE4ZPG3C9qoqiLJxnc3LbEnlrx6jzerGpq0c23uwYx2dqKI1q1AFQATJK0x8QSVZW+9HRI+xaL7wTDEMSgYk0vSk/8/7XSesdUgqw==;skByRbGiLUb5MHrDxMFSUw=="
 ---
 

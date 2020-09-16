@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "City Ban on Business Use of Facial Recognition Tech Said to Be a First"
-    excerpt: "The city council in Portland, Oregon this week unanimously voted to prohibit the use of facial recognition technology by city agencies, as well as by private companies in public places. Civil liberties groups said Portland’s new restrictions on the use of the technology by businesses is a nationwide first."
-    publishedDateTime: 2020-09-11T22:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/city-ban-business-use-facial-recognition-tech-said-be-first/168396/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/11/NGcamera2020911/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
     publishedDateTime: 2020-09-12T14:17:00Z

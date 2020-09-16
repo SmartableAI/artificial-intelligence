@@ -44,6 +44,15 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "JP Morgan and Blackrock tap Saphyre AI tech to automate account opening"
+    excerpt: "JP Morgan’s Securities Services and BlackRock have turned to fintech Saphyre to digitise their account opening workflows."
+    publishedDateTime: 2020-09-16T12:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36564/jp-morgan-and-blackrock-tap-saphyre-ai-tech-to-automate-account-opening"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "1EDHtIMCfeddhIFIIDZcMpA+Tk33gpLH6qEOTkTY6nXggjsT8geJFUNomWUyk1pcwxjhnLSm2kv/9We1pHiCah3VrN2yW1cLKZlF5JYwFYldN+qrEm1Mem4C2+wWH1A3VFPfmBdkC3IdAWOQaQRC+QsVcKtBIXUplc5p6OSuFy+9WCCTmmit3Y3nZFmi2D5A6UREVmhUvR73rumG7evh3UZAE+oU/nVGPaS/H++W3XMVyWWvKEudXD8Wy3jUxqERZLepDRJGvrbXEhTL8uajOmSAvnIoUCEiEIUchSu7f7rbWqb12KtPmjNpHuVgNl5eCUVXTkHhRUd+DEVYuRQuyPDjYyiVbcuQqLOZzp+EzIQ=;qXxjXyBlpCJ+mKbMHKk2Qg=="
 ---

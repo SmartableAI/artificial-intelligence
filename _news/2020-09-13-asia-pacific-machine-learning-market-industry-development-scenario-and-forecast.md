@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-13T11:46:00Z
 originalUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-industry-development-scenario-and-forecast-2020-09-13?mod=mw_quote_news"
 webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-industry-development-scenario-and-forecast-2020-09-13?mod=mw_quote_news"
 type: article
-quality: 49
-heat: 49
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

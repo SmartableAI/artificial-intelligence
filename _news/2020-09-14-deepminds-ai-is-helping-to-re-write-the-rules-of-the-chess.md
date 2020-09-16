@@ -6,20 +6,21 @@ publishedDateTime: 2020-09-14T14:42:00Z
 originalUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
 webUrl: "https://www.chessgames.com/player/vladimir_kramnik.html"
 type: article
-quality: 167
-heat: 177
+quality: 184
+heat: 194
 published: true
 
 provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.chessgames.com/f/12295.jpg"
@@ -45,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QVu+JHI78rEhJEtrdoPJ6ZPsmsLbQKZ/H8or7MZFCStoOETro5NdAElFzSXxo6R7Ir3dRKvA1KU/yb4H1yH17G3tjktvHQtnUMgwkV68f3iv2t6oPx2HXi2EnlURc+XpDgy1FPhXQIhAXugURdUVy2ACdfbTHsVGC+zzrnT3Muxw6uHP75U7zgj+vqG/vwBJ2f2cmxbn+0uTn9NTQTqapVqUUhnMCfh03BkMUgVMxuH47kYm4ENHYHN4nQYwIzH4Zy7YqKTvvD286QCbAGYNTJUeYBnnvceoXmeLcE97orIOugzgrmkBwCgC/Sp9Vr62LEmh90bgUG3z82gbUIOMbLtaJy9xFbPbQ8p1ywhUdfc=;a3QWv5Fd5OqIajIOPh3qVQ=="
+secured: "wT+sEvEpHb9hKdhh8LtczXZ60Dje4xd7+k+bBVVcNriq+NBKHajbcPK8eDP7dwIpnPa+kpEV/hwkj3CP00DqvyQL30Y7mFWHX7X/nnok067DSRetaHdSFQnHk7HQvcLJXa8FdalHo+2MH2FHWPRkRmqg6PiJT+ZjU0nepQsZlgqEYTHF2W3OneijENX2T/4/5iTz5IFIwne4pCeQtF2gfVvpQ6dt3R3fUdFvIv8uxHfLwz6v1c7jcSA0AyUpO7xT2FXQHKWcflrxTJrrVmw+5UMuKmmQnVb5IUGfb0AHWku6/dU6+4h8haxtnQccMKHNGtah/zSZXp5UYBraT1u2Ulvl+XnFkZggZybJKIcYR2JBe4Y/Uk2pSztOQC0LJU6THTzGKAkEBzODGBSD07jCFz4iM7fIZdYLYUrAHJgz+GIGio3R5LJsdsZKdlNL41+ykfCnVzXhY99ji+/eGqL3gWyegJnNmUQO1oCEgehWM+M3cb0UlZi7K8oke8EZD7tziKwJ04h2aRwWvw80ycGPmddi7VgfGkLnVkqcth7CUrE=;uJ4cTOrzdw8to7Frc/rNyQ=="
 ---
 
