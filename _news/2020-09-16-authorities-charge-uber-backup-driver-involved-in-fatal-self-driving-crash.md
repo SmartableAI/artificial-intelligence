@@ -111,16 +111,16 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-    publishedDateTime: 2020-09-15T22:00:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-selfdriving-idUSKBN2663FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
+  - title: "Back-Up Driver in Arizona 2018 Fatal Uber Self-Driving Car Crash Charged in Death"
+    excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+    publishedDateTime: 2020-09-16T00:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
@@ -140,17 +140,17 @@ related:
         isCached: true
   - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
     excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-15T22:35:00Z
-    webUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    publishedDateTime: 2020-09-16T05:54:00Z
+    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: KPNX
+      domain: 12news.com
     quality: 40
     images:
-      - url: "https://media.wtsp.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -205,7 +205,7 @@ related:
   - title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
     excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
     publishedDateTime: 2020-09-16T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/?ref=hvper.com"
+    webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
     ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
     type: article
@@ -311,6 +311,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "PzKMPgAgCDOugJHC9XgP4wA7H1bXolCSePd7EX17b4oeJ/NW79V1Pyx3Bh1p19GCkuBx7a6USc4gQhHiWkd+Wkj1AN+1qmpl6sSP/pPegNKZ2pXPWfaoPBBEGqiVSuvLcSIXCMJ19ZP+w51+nlqoSO27G0ovlm23jIR+QrHrm6zjjFGLRXsek8vBmTaz4L2aSTWQH8/SS1EyZCICCzpHZfvzGZ2tdrVReD6wgO2AeO5BYps5hPSRMvPdUtfpkXVVE8i5/CP7/i5DhIBLMOfqKx3+7eSgtAr92YbUdJx573WY1SlVdLhTo60MJd9kpMUlXccu/uniw4agxVN4hi6LWp6IjE+t4sDesdoMHbFrG50=;cnHtgV1zv4ObD7EDav3kog=="
+secured: "JrHHIaYJJQ2PsacEHd6MsyhYFjnaFLhhq940XxJ7M5i50P2ZnZb7bfAjGV+WYH8Eo7Z16KAR/0BAj4M8hY7Vjcw0oOAhtHKGEOgwbCHPTOQPwvW3raks+2sJDmQfzqJbuyxIOBTotvPBaMPRlSv190MX1zg0+0ltj9eHmMbQOkSRaoyUDjLRUQyJ0h2DIs8tog3+gLT7OiRB7UH60u7TaDKzI0yj1UQ8Lj5Xe638z1yJAieiZUWKqH7NGZUFIoRHrLt6wvuHHxR1Vv+ev+Q8+pj4zN0g8i3MwI4EcCMvZim9EWjd+6KoaaEBd2ymH75AHaYcE3HKFxHizxD8LqZe+H56WtJlijcXT+biI2YKZqcxx3Cv7LhZpYxDVT+zORcV5VVNCwa5ID21M71hnlh8QcyCNg7uQ5Gyom0cUItYK18vELrzeIJjRi3PFoieebg0jCijOx5n8Lb6Qqgnh2n7hMExQkRqzPhZf1VrGR1cXiCNVUHiaf/+TQNN4DY1/KWUnHLDlmPdMBIv34FiyYxMeg==;DXWO0YUPEPk+XdTlZfOtHg=="
 ---
 

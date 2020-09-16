@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-polic
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.amp.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,33 +27,46 @@ images:
     isCached: true
 
 related:
-  - title: "Company run by Chinese military made bid to run NZ Police facial recognition"
-    excerpt: "Inspur ranks third in the global ranking of server manufacturers and provide cloud services to China's police force."
-    publishedDateTime: 2020-09-15T21:17:00Z
-    webUrl: "https://www.stuff.co.nz/national/300108389/company-run-by-chinese-military-made-bid-to-run-nz-police-facial-recognition"
+  - title: "Portland becomes first city to ban companies from using facial recognition software in public"
+    excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
+    publishedDateTime: 2020-09-14T19:17:00Z
+    webUrl: "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 36
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/d/4/l/image.related.StuffLandscapeSixteenByNine.1420x800.4yod45.png/1600204399502.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Company run by Chinese military made bid to run NZ Police facial recognition system"
-    excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand Police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
-    publishedDateTime: 2020-09-15T22:28:00Z
-    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12365309"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 33
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/uGUMLAi3wKRSSsd10Nns1a80JXI=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/FBWEGJ2DARGTDA4MW5S5ELBCOA.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg"
         width: 1200
-        height: 815
+        height: 675
+        isCached: true
+  - title: "IBM pushes for US to limit facial recognition system exports"
+    excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
+    publishedDateTime: 2020-09-14T01:03:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
+    excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
+    publishedDateTime: 2020-09-13T12:08:00Z
+    webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 43
+    images:
+      - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
+        width: 846
+        height: 571
         isCached: true
 
 secured: "a3AV1hMt4V2pz5FBZafd9SiPS5wzNoJvvSrz17xjC5GRzsGrOgGswfoQzJcVDYsVhCF6uzsK75FNeQ9Kx6k3npbmLSTwJgSQpB3JQhKw8ZBh6zn0fy82WQYSaRbe1I/ADFhR5sfkxtWtY95Ibaw0QYuPz9vevM06B/9smGLvZEPZqyjOvGAw0tMJMp9EQDkW+ykb87VVRGV/U6p3+gauUidTERwcW/RB1MoCw+Q/OkM5/X6ZyCltASATZGo6MeA2N9Z0rW/xbm+zGYddKDGTbIBUsJuGqfc8YPnTXCL3PNsEIswrBC+gV5AKy6rF1wBmz/2tzquPqGM25BFH2jJwL84F2/dHSONxwzZb7GbdA7M=;UIDC5HGfI3529OL0v22DlQ=="

@@ -4,30 +4,27 @@ title: "DeepMind's AI is helping to re-write the rules of the chess"
 excerpt: "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game."
 publishedDateTime: 2020-09-14T14:42:00Z
 originalUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-webUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+webUrl: "https://www.chessgames.com/player/vladimir_kramnik.html"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 167
+heat: 177
+published: true
 
 provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/805db944-ac89-46aa-af81-58aab953b66b/deepmind-game-outcomes.png"
-    width: 1200
-    height: 513
+  - url: "https://www.chessgames.com/f/12295.jpg"
+    width: 350
+    height: 512
     isCached: true
 
 related:
@@ -48,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "3hq36LAD7BdyQ1HeLFXzDT++dP4LjPnTAZKNN/mJNFwYNbREzb2XwQ4gVhLEGaloL1GvVSCyyEDx8yR0KXC+Td7pxp06xdjLruW6lksasng9KL7OujyvlHgouEYY/zvrXayQ+YiUg1cUAiGwESlfdY1OM1aWxTkSqetq+L2Ha1sMi9kSVzd73hofs89ns2fT6/F0V+/qIZp3ztz5jUXk64+2LtQ9XBI69jRxEsHZ3Xl8xgBZps9PdqhNT1nDhWx9KX6ddIxH/5FdeRwV7/wkQQYFYvm2Ih6ZRP9n1KRDS1V/GifVl243ym5OjINCqNOkfX6o6Au8urzIXCypOj91nOZ9rFP8njbVxnHpjIXn5MYZ9eNaVEEJnTfldzSnr9uvSv5G8mXUMcrK05TgRvQqyeC1POMyDTKjbHZ4fTFmvQKgvRzrWhWYT4geEZ3HLLO9V2HKmpJBm7QiUZD+1JUcBLWWL4bYAv2Jrd/J7PUjHvWB7io/NFwMBhksxqlTtg3u05oY3bOSGsgbRbUd1nUUSYyPcVvwCveNg46pJ5p7IzI=;45n85EB9l1yczPeIlf14qg=="
+secured: "QVu+JHI78rEhJEtrdoPJ6ZPsmsLbQKZ/H8or7MZFCStoOETro5NdAElFzSXxo6R7Ir3dRKvA1KU/yb4H1yH17G3tjktvHQtnUMgwkV68f3iv2t6oPx2HXi2EnlURc+XpDgy1FPhXQIhAXugURdUVy2ACdfbTHsVGC+zzrnT3Muxw6uHP75U7zgj+vqG/vwBJ2f2cmxbn+0uTn9NTQTqapVqUUhnMCfh03BkMUgVMxuH47kYm4ENHYHN4nQYwIzH4Zy7YqKTvvD286QCbAGYNTJUeYBnnvceoXmeLcE97orIOugzgrmkBwCgC/Sp9Vr62LEmh90bgUG3z82gbUIOMbLtaJy9xFbPbQ8p1ywhUdfc=;a3QWv5Fd5OqIajIOPh3qVQ=="
 ---
 

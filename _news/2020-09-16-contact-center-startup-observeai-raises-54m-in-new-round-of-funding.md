@@ -24,61 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Observe.ai raises $54 million to analyze call center conversations"
-    excerpt: "Call analytics startup Observe.ai, which taps AI to glean insights from customer service recordings, raised $54 million in a funding round."
-    publishedDateTime: 2020-09-15T13:18:00Z
-    webUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/"
-    ampWebUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
+  - title: "Bengaluru based ed-tech startup Newton School raises $650,000 in seed funding"
+    excerpt: "Newton School is an online edtech platform that trains people to be highly skilled software developers and get them placed in top companies and startups as frontend, backend and full stack software developers among other roles,"
+    publishedDateTime: 2020-09-16T09:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/b0a90ea6-65ce-4f04-bddf-a4036c2c9034-e1599603079929.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/10/startup-business-concept-1-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
-  - title: "Varada raises $12 million to automate data lake management with AI"
-    excerpt: "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding."
-    publishedDateTime: 2020-09-15T13:14:00Z
-    webUrl: "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/9045fe37-33ef-49c7-bba4-d0bd0bbd0c75-e1599606112753.png?w=1200&#038;strip=all"
-        width: 1180
-        height: 598
-        isCached: true
-  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
-    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
-    publishedDateTime: 2020-09-15T13:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142844"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
-    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
-    publishedDateTime: 2020-09-15T23:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "YZYKIg0WpwLsP/OvEbouK6Q5MVkrWd1tB+ctGFnq7t209o0qyEZ0+5crw5TzeUnXqKY7oj2oEHG0gk+iWSohqzCjyYPl66Jm/XV0E5FCPs7/F9Guxnns7c7/APwZqA6Iujw3xoSA/ukKs/U4Ut2CoVJY1tQj/t0mcBA1tWwAjVxRMt6y46BPVoNa+wJSZ9eGZk14Y+I9Q95amwPIS0o1zNcqscYGAdiAKGZR8jjldHyxmj19JKVeH7mRwo5LZS3X3N0wUYXCX5VkDdJjsMJes/+PcYbMkoP8yGE/SlQBnIm4EgJM5HbS3GDgmQGNfAqq4XXelDFvHRCmbfeNFQE55Lv3TTTlW3dpXcPI4anrrQNppwuG40zmK668211RxBFeWuI3HFcpj7157shjZd6h/HaUWIpOXOshOZEqIzwFJonCUzRJP/KAQ0oNeLwyav/YJk4eS8kmtjDjeitqot/eEZLKTXeho0B4lm+WpKRclVSUQqYCx/aLS4k0l3UG4xMhYY8UGZ0p89tCO2aYMAmG6A==;hgELVXHNru6weQ8X7Dhh8g=="
 ---

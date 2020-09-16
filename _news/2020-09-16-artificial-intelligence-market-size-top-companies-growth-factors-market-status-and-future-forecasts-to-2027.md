@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-16T10:19:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-16"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -93,7 +94,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

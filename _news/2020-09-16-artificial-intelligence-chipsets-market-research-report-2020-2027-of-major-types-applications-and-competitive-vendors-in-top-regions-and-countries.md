@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-16T10:27:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2020-2027-of-major-types-applications-and-competitive-vendors-in-top-regions-and-countries-2020-09-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2020-2027-of-major-types-applications-and-competitive-vendors-in-top-regions-and-countries-2020-09-16"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -64,7 +65,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

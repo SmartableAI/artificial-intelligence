@@ -27,22 +27,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "20 bold predictions for health IT in the next 5 years"
-    excerpt: "The pandemic accelerated adoption of telehealth, remote monitoring and digital health capabilities by nearly a decade for some organizations. Earlier this year, Mayo Clinic Platform President John Halamka,"
-    publishedDateTime: 2020-09-11T20:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/20-bold-predictions-for-health-it-in-the-next-5-years.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "j3py3333K954tuOrDXkA9CRP2HgWgxLWBXPgHB/+J5DLBbGWOcFtrCvU8geAQN0H2HmPYH7trdQ/iPPm7eRvUC/mudflX1R6gi7uvIpOKJp4Sms4OOEpwBelX3MVCFuVzXQwOL4F4r/Tn3KOC/wodnwbaZmt2ONotquwORSc0j912s2KjHiPF/CZu7FA2wjUQhBXa/X3vWwz/jDXm0mrbmLpSrOAQ8g2U18c77hnh7GMYiQYS0witBRGKjhNRroBphPb85Iqty2k+L6XA9ktdtIeGnICa5aVloEp7tl8gl3rt0NCj6erH7ECE0d9P8qykv0mEPBUiYX/sKuWcJedRPWjA8VU675e0lp5+NMtIQ0R8i3Jkvt8riS9wd1C1Dn/T3yXKNxHtAYHDliThujhqeuWXfbaMLY6EW6N8Fbfn4/zbB/MDdmUIZzKWOMpZzUCh1cochWaq+ENsSNwnqcDZs3uUVw3AhnDdBMP5uOdegbGyxxBL/0gcJXoNgFbE3Y+fh7pW9BRmvA9rr07OcejnA==;0lRvUxMq5sI2ayQkUrIOIg=="
 ---
 

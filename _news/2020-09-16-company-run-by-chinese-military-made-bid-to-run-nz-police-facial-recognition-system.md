@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Zealand police approached by company linked to Chinese military to run its facial recognition system"
-    excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
-    publishedDateTime: 2020-09-15T21:43:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 42
-    images:
-      - url: "https://www.newshub.co.nz/home/politics/2020/09/families-of-john-key-jacinda-ardern-tracked-by-data-company-linked-to-chinese-military-report/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1600139283842/GETTY-john-key-jacinda-ardern-1120jpg.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Company run by Chinese military made bid to run NZ Police facial recognition"
     excerpt: "Inspur ranks third in the global ranking of server manufacturers and provide cloud services to China's police force."
     publishedDateTime: 2020-09-15T21:17:00Z

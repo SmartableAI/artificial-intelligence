@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-autom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,61 +28,6 @@ images:
     width: 1180
     height: 598
     isCached: true
-
-related:
-  - title: "Observe.ai raises $54 million to analyze call center conversations"
-    excerpt: "Call analytics startup Observe.ai, which taps AI to glean insights from customer service recordings, raised $54 million in a funding round."
-    publishedDateTime: 2020-09-15T13:18:00Z
-    webUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/"
-    ampWebUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/b0a90ea6-65ce-4f04-bddf-a4036c2c9034-e1599603079929.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Contact center startup Observe.ai raises $54M in new round of funding"
-    excerpt: "Call center software startup Observe.AI said today it has closed on a sizable $54 million round of funding that brings its total amount raised to $88 million. Menlo Ventures led the Series B round, with participation from Next47 Ventures and NGP Capital."
-    publishedDateTime: 2020-09-16T06:37:00Z
-    webUrl: "https://siliconangle.com/2020/09/15/contact-center-startup-observe-ai-raises-54m-series-b-round-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/phone-5300447_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
-    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
-    publishedDateTime: 2020-09-15T13:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142844"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
-    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
-    publishedDateTime: 2020-09-15T23:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "mZmth2FjZ0umzU002mfnviEAUD+EXpeZgENV5s3UgK4Wjivu839VJvYIfjICCEYHGLDZvECklB/GHqUM/E/L4X1UkbnmGBUOpeXmjfEhE5UKPX7PwtKS+mpzunCqcgxXU6p1C4mb6c9cH/J74cLnauPD7k8VuczsEKZLWX4DDgPeinVyJPPtr0xGRR4WgkZM1ay4BF5B50+NKUGYcKhC/y5heD8ACDqT132hpui1EE3b/DIZQQh3Sp7hrf02JpdSPaG4zXCDd0GulBIn7uCXzpxjR0WXH+oenRarjmCukazVSiSmu/7ErnRHGPjR+mYVjCWmFVqWCMksnrT9laPhJ+bLpzwNe/gD3RPMSLaowr8ZVX8n3YdNXTOH50GypQqcQTz/fDW5/5BlaiuLHG0nNVS4FwsRDNI/NRRd01I81limjOGwZPX990+bIFfYtwUhaW4UWKF2Drq4DZ/VBeLJT8haFHJifqstmMb/tgH2pQLuR+7IsjCzwJDz81Vp4OC1uAzuus7yHKXFkrdFuj9ZRLpX9LKF3W+65UxG0fLYPmc=;xral1unC/PDkGBjwDXHrwA=="
 ---

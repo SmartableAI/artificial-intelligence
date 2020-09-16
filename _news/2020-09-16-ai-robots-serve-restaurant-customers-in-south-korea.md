@@ -42,6 +42,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "AI robot serves customers at Seoul restaurant"
+    excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (AI), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
+    publishedDateTime: 2020-09-16T13:06:00Z
+    webUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333"
+    ampWebUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/ai_6.jpg?itok=b49xK7Wy"
+        width: 560
+        height: 292
+        isCached: true
   - title: "Artificial intelligence robot 'Aglio Kim' serves customers at Seoul restaurant"
     excerpt: "The A.I. robot is equipped with food trays which can carry up to 30 kilograms and an LCD screen and speaker that communicate in both Korean and English."
     publishedDateTime: 2020-09-15T11:27:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2020/08/robots.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A.I. robot serves customers at Seoul restaurant"
-    excerpt: "\"Aglio Kim,\" a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimize human contact and help ensure social"
-    publishedDateTime: 2020-09-15T20:00:00Z
-    webUrl: "https://www.unionleader.com/news/back_page/a-i-robot-serves-customers-at-seoul-restaurant/article_78657ae1-0ca6-5290-a308-73ba9124e979.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/5/cf/5cf43d2b-92d5-56ca-94d1-638407f0460f/5f6100ea81e7c.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
         isCached: true
 
 secured: "gjRUoZnCiwr4yotEfj5hhxZJB8A93mHdA2Dlrey0SSB7kddyDPwrcG1sJMdmk1ompUOUP9NcEySuJUDCDUbQxiQ8bmSMZpC3QRFLjfkArQKuodY8mzL6XGXSBVHeH1ZuSMiqQn4u08Q4+YyXhGASGkbPHhzIKbQCKq6LB/OVvdCRM2UlkfKoHntXN6AgCjHmFSdQc3P+8bM/tiWFrBvAjLOhAKKy3mWj3EXMlXTM1EFRbCYumSK6es6HT/a1q/pkS1qgqFVnBBiqLgXTJLdzs4OgY4zBW3zSeAKA6wJeNauXrlgVH/WIZQIIqOH4TBJXgQvfn315N9s41Au8A8m/epaDVOAmEnJfKWAnxXHPm9Ddeuxmq7uLO/voGWEYXsfbFDL5XC9lquNkP0QgD90+vKrGIh0cpmZepeUViPhmOM0daxS1WPMGOl6N7KH68KdeS94E6kQmtDXFvkiofhw8RsPEUDSqbL0SpVv06KBsFuTXxt0UOqndelPhYmSshvwlEBUAFd9Scqn1LFhClZiyJw==;8qMTaFzxccBvUzq6snvG0Q=="

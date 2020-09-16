@@ -3,8 +3,8 @@ category: news
 title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
 excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
 publishedDateTime: 2020-09-16T00:30:00Z
-originalUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/?ref=hvper.com"
-webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/?ref=hvper.com"
+originalUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
 ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
 type: article
@@ -123,16 +123,16 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-    publishedDateTime: 2020-09-15T22:00:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-selfdriving-idUSKBN2663FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
+  - title: "Back-Up Driver in Arizona 2018 Fatal Uber Self-Driving Car Crash Charged in Death"
+    excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+    publishedDateTime: 2020-09-16T00:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
@@ -152,17 +152,17 @@ related:
         isCached: true
   - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
     excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-15T22:35:00Z
-    webUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    publishedDateTime: 2020-09-16T05:54:00Z
+    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: KPNX
+      domain: 12news.com
     quality: 40
     images:
-      - url: "https://media.wtsp.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -307,6 +307,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "UJYtKvyS9RdI64tA5JUD7ufEq4QvVaz87o8HzC/nDdTFckUXuNmE/7IoQDjXeaUETP22da3AZkAomdw4xHJzh5+5ar4BGcOX9I0+QrP5reezTr388ZVR83wd2KascAQn49mqRpttW4byjmEz04EGpHfSuNB3beWg+a2DtCQQG8fGMJxEqTdTANZWPR5yYQxKDquPXatUY58Jm1NJiXGQlx2DLwVUASUf+XQ6sXpqj7SI+bHJn0yh16yk1RLpLeKMG+DtMyYly6tFfmpgapyb+4KM8i8WxmsCuAOuqgX7Fu2YsiYKOTdtgrCk37bioRQQ7rlzHhvoB/CvpqCGX2LvgkyPYBcZXoDSXYR7fo2DILc=;ecDVpJkZ5iSIWq21HRaSZw=="
+secured: "TdpSOqvUtxkbfQYzVz9ddXruAKS6CQbzHhokU/KwulF1IKKk+0cV3PYZIxnGyJzG7PkdKughtiDP7XjrG5fGnkVUoiCE1vI5eeokUQPUt4b5ldmE8bCqd/eQeHAiGkZRcwPdtccQ7ahoA1IFClavEsn4DtN6kJHMXjeM4OGUI2AXQAsoA7T9yIfYhcQuFIaPbVJMqWUM3AmRgJJF7T58mIp/Ww6cjwuXaxLoSeQgUmvRjks+uNbf4gddhH/EwwVHJ9GMUJvsg/9hHnOG0pqT5n1BLvF+VLsZ3njvRtQhq00765/gHg6KPzNImf3yuEIiGdnMSd/5Pt9Rj3GyxnYllDuRLJ+2q/Lnv2XXRl2UUlI=;xLkyPrYtQWtFKGX/9VOWWg=="
 ---
 

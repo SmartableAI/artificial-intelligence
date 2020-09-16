@@ -3,8 +3,8 @@ category: news
 title: "Can A.I. solve one of the oldest mysteries of linguistics?"
 excerpt: "Lost languages like Linear A have confounded researchers for decades, but as artificial intelligence advances, could technology crack the case?"
 publishedDateTime: 2020-09-13T15:10:00Z
-originalUrl: "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?itm_source=174&itm_content=2x2&itm_term=2356592"
-webUrl: "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?itm_source=174&itm_content=2x2&itm_term=2356592"
+originalUrl: "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/"
+webUrl: "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/"
 ampWebUrl: "https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/can-ai-solve-lost-languages/?amp"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 628
     isCached: true
 
-secured: "25dPfEc9RlMbEcHGmFH9lPm/27k+rDY6nqAA353Z7YT1sFG56pgUy5frNqqFw457bMuuJtKjky+O8nj6BHl+Qr+PO1nllI58OnHihDlPUQsVV6cZluMloMsUVwfCfb2IsKg6FnZCkcSJzDODYmMyOWj6J7AklBUuJ4tn3DTiNaw7nh/JzvXNU6Hed/JgWnTI86iYkleX1QE15LTL2RdEInlJWBPTW0u89pO1lwdxN900JDDws5eW1ZRObUg/rD2jXcjh3Wjppk/j6szXhT3WHL4Z+6jN6S7sz7Q82bx6g3g23Pc5x8fttcCC+AEeAfdCBxHUGAfSm3O7REECGqggGo9gIFS3IBayCEOGHRqJ2Wf5a3VLmzGLlwzNGHn62IVAV0iTNIP8Fy4gx5y/TBmyzHO8V/78meZOs84PKJNjwSGd/1yM/iUL9pip9xZE+cP6CEPh4GcwQRcsXvJC5RefakPKBSvSeBNBBjfboT7sl/1/A3hBQ/rQl8z4BkE7Y5e0Co5EROHJd969DIoR39sACA==;efIUBCbeNaLp6H/B2QcRfw=="
+secured: "3HRTiEhPCDLHWY9c09cEaIuYhNe26da814YTMFr9sqRksDhW5TUsfK6cJ2G8jVG1crzzA+3onRxzRu7jKRDOnpY1c2kRmmIdWYMjjg7n46jSUW6S1R7Crs+Wi+3G/0+3q9TOGEPskAVfGGUzAeX/jS/QCMkdSv+pqM45w/VJA8dnEWt+2WEk5lU24G3gW5/n4X8m6NhjlohLgHd/6fR2Uv4jx24mXMYBIyyL2GlLrVsLMIH395FmxaDtdwHVC8N8gMj/egDgeeqPb9pqXc4pMeqqIz7cHMzjZ5ou8ZYg9REvMB0Pyf5Q4OBZ2YkckvIRli8MEI0KHKP51ikPvSCcHL2aF6kH4SM8POHrilSFeJQ=;CnTrE73DTyuCMx30rIbkCQ=="
 ---
 

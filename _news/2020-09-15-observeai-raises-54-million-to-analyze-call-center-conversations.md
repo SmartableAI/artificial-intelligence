@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,59 +30,52 @@ images:
     isCached: true
 
 related:
-  - title: "Varada raises $12 million to automate data lake management with AI"
-    excerpt: "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding."
-    publishedDateTime: 2020-09-15T13:14:00Z
-    webUrl: "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/"
+  - title: "Aidoc raises $20 million more for its computer vision medical tools"
+    excerpt: "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019."
+    publishedDateTime: 2020-09-16T13:14:00Z
+    webUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/9045fe37-33ef-49c7-bba4-d0bd0bbd0c75-e1599606112753.png?w=1200&#038;strip=all"
-        width: 1180
-        height: 598
+      - url: "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Contact center startup Observe.ai raises $54M in new round of funding"
-    excerpt: "Call center software startup Observe.AI said today it has closed on a sizable $54 million round of funding that brings its total amount raised to $88 million. Menlo Ventures led the Series B round, with participation from Next47 Ventures and NGP Capital."
-    publishedDateTime: 2020-09-16T06:37:00Z
-    webUrl: "https://siliconangle.com/2020/09/15/contact-center-startup-observe-ai-raises-54m-series-b-round-funding/"
+  - title: "Aidoc raises $20 million more for its computer vision medical tools – Jaweb"
+    excerpt: "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019, bringing the round total to $47 million and the company’s total raised to $60 million."
+    publishedDateTime: 2020-09-16T13:23:00Z
+    webUrl: "https://elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 72
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Aidoc-raises-20-million-more-for-its-computer-vision-medical.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Medical Imaging Startup Aidoc Raises Another $20M"
+    excerpt: "Aidoc develops full-body AI medical imaging software designed to detect and pinpoint critical anomalies for radiologists."
+    publishedDateTime: 2020-09-16T13:21:00Z
+    webUrl: "https://nocamels.com/2020/09/ai-medical-imaging-aidoc-20m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/phone-5300447_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/AIDOC-101_websize.jpg"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
-    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
-    publishedDateTime: 2020-09-15T13:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142844"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
-    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
-    publishedDateTime: 2020-09-15T23:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "w0aUj13XRzHlKwT4S7VedaEtJDWeb4iGTbflrbJvTgGJ6HwYByik091GPtI2GLmNO3Vd+skucfocvShxgOo8OH7lupAGjKW3+Y3DxVaexJAw5jclAM/YfSi8/0iC1RVjlTClhQyBCPIDe12Jcbt2EAbttwLgd/Defs6qh04j9tuROlTahtRGFvNFuUN/2NJ2XZmm9u4kxkdUo0oOBxRi5UcEZo/80OE/tuFid1xRHK+Pr5heW7LKM5CQ+M1sEtw2ck3Nzjhr9v18f1b2CCLYA+Oe590jKaUfiY+jpC7vZopR0/0l8+aEZvl9Q3fOBb8bue+WFffqC60Yu2MefNL7jxqIONlLFL+SG+EgmDu1A4ES5BIh5mJEOv/lajGGhNmi2m6SWHJYHS2wUAvyjbW7R//Lb4HS8pHqxh+Dxk60ARa0XpI6ut9zPOAvO85OaVKRiGrfb7bXxmwstsycRqZISO7DVytKbk+nO7aMwd97jcmcsO3blfQORJINK/oOhyCGPW9n+SYKa2zToyLrIM3VwUiws7TrHC2OoL/HHvISd7k=;5BsNfQLUY7C26Y8PH6Ibow=="
 ---
