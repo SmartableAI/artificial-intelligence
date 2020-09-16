@@ -71,6 +71,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
+    excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
+    publishedDateTime: 2020-09-16T16:55:00Z
+    webUrl: "https://www.globaltimes.cn/content/1201157.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-09-16/c599d02e-b962-4a1c-8e04-b3ceaf634777.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "BbJ6B3VNwpITKVWr0wBmlZawzuYHlX4oQSK2zaIh1mTXaRCdzS6w3Ueeoij1ydaUJvuurQY4Fw982tdleDF0yn7FFuvkp8K4wY/knU+ck2S9a8BbjZ4i4XPc369w0i2uMy+gtBtovySMRd/iCs7v/4ybIbI/H2dXXcYTsR7Nt5NEjjyKDTIQY8OKhYHQ8QDDwKLc2FF9pW2ZNrK63hF/OdJUFZ4fmYCjSTiUwCPr5oAbw+A8m8iAkxTZ9LtudZ0Kj1E97q//mrZKTNEnrV3CdGlq2adtTTNlgttqSeBC84BnLvsV+hqHBUEWwphrrYLPKQxq6Yc2gaXCQhC83143ZNL4KXy09SzPOThTNHx807S+QzNWU88qrLsuT4cFec6+AyD29AcIw1EqugOvIPxokpBWPRtE1BZejFPD8Cwao/h4KTBgSU4Swjgz4bhhOlViFV7rOMR4SEv8+cMuujq4gLEtlGoYUNfVeUGyP1iukzpx+mHcbZbiCSFDAnjVKplpk/tBMvLZXhG2m21eQr6KoQ==;Ys239jV6gOQ0VlMLG3lJlQ=="
 ---

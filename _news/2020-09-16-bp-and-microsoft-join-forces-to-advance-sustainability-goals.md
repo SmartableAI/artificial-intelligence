@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces
 cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 21
+  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
+    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-16T07:38:00Z
+    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
+    type: article
+    provider:
+      name: arabianindustry.com
+      domain: arabianindustry.com
+    quality: 3
 
 secured: "zJ4EdaVyxo7QcdnihAhxIWtRucSgH0cy4Oa7i6Ztbw1M3yYQHmtjZe43TRAbQ1/xFoiHvaU2c28DTG0U2/nQNQzF04vA7qyygVHh4WuRyNy1RsNDEGg42s7BPNVfhf7QUn6WwWEcmxAAN+fzGsTshoOEbBrw55H/RtHIBRFnus2gUA4fVV5U00NFBHS7Imhf37uGhF5gqYhcUz2hGWRa6/1Av2rtxeMbSXjj380LLMKI1uXDRQSIxtSt/DzjY9hJRlCJqcghi7Yi9AFs3UVtENk2M6TlJ5jf657N/00GLSWmsln3CX68bY0QSKUwS6Bs+DsI25O4amnCLQ/7fSlT+Xh5XvN/Ue3HrFQ7RI3lFFPIW5+mq31HTncLkvlDFmiDiA88R8eLEGtVduHfbYOez4QPpu6GP8nvxnqbjt4eqzReimS/BFZ5EOQqX1WIeXHOxgQUtcMhHA0chU0lHZIh4lCAs6py6pUSBe+dXN5ws0Sj0xMEDdpb0Qm0at7Diunqg5LvjL4BWUPBVD8o6kbesg==;I8TV2a75owRfuFrZJtQ/Fg=="
 ---

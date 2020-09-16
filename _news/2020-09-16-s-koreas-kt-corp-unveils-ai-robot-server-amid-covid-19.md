@@ -1,29 +1,29 @@
 ---
 category: news
-title: "S. Korea's KT Corp. Unveils AI Robot Server Amid COVID-19"
-excerpt: "Korea's leading telecom company is developing various future AI robots as part of efforts to transform itself into the world's No. 1 ICT platform company after new CEO Ku Hyeon-Mo"
+title: "S. Korea’s KT Corp. Unveils AI Robot Server Amid COVID-19"
+excerpt: "South Korea’s largest telecommunications company, has introduced a smart robot food server, powered by its Artificial Intelligence (AI) and other latest technologies, at a Seoul franchise of Mad for Garlic,"
 publishedDateTime: 2020-09-16T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/s-koreas-kt-corp-unveils-ai-robot-server-amid-covid-19-301132139.html"
-webUrl: "https://www.prnewswire.com/news-releases/s-koreas-kt-corp-unveils-ai-robot-server-amid-covid-19-301132139.html"
+originalUrl: "https://apnews.com/pr-newswire/413112c52e07d0807bcd84c1e68a5f2c"
+webUrl: "https://apnews.com/pr-newswire/413112c52e07d0807bcd84c1e68a5f2c"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1275340/KT_PHOTO__South_Korea_s_KT_Unveils_AI_Robot_Server_Amid_COVID_19.jpg?p=facebook"
-    width: 1699
-    height: 890
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "qfOx5spZJYY5cwdpWfulNMl8FQDCXA5da2O7URc9Bqvo0myeDK38rVTJfa45tlJN6IOyE4nYgn98HUIVRGSKPBQRpDPVw6H1EqzTsi7+FrpajwpfTTQN1Y8W+h7zrqvVwyBf0OQDFjvCWMRjnhJD9DEcdum/uD/4oz27jamPQEU7RbJHVQKB2/oEN9OSL94xrpaBYUAkBzYbYvzCjaTlhZ6VC/pYl81Kbs09AQgodEznOlbJp3SHn8xJ08amoNUoSxShW413O3nK/78w+sPr2Lwz+67625/w3vSeazEb6IC/dfVqWWkDxAzzzTX08xC2t9PjjFRLHy6xndKYLZDYO7p0sbGOKonVFZslEqkDG8g=;gGB2sEQh/IRpNmdbfTZwqQ=="
+secured: "NMpx4DTAXlvQ2CGe7Waneq50UtCqYQ5Sdsm3mYYZ1sc2rEZnSwmSpoNhowreeBl/HUoqOnmv6+YU6elSXJ/IE1dyyZtEoGL4DkcUieVBbq2dMm3KBuA0YalMflIjjupwfzWRojaWHYxfGqkdAP/U9CchuQr3kTFKFGz/DodNwG36lxbr0Qi/mT6XwOTaIerGdm/IyQblRLTfNCue7hkCi0utmi1knFSvtVFwEBVm1oEOnhMvytWlUYa16+8ppjyYOedSOIyGGhgXofH/oaV0CHDeaI7B0gBukkn8VB1t8Qma0n2QI8L3sk4gvMzfcx4k+uWOCW5chAtGC6zQabyxq0MAOFa84GpT7yNxCGb1Htw=;LfE48ky7poo2ZQbfwPYGcQ=="
 ---
 

@@ -52,7 +52,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f61a3150c939d131ff9c6c4%2F0x0.jpg"
         width: 899
@@ -61,9 +61,9 @@ related:
   - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
     excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
     publishedDateTime: 2020-09-16T10:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
     type: article
     provider:
       name: ZDNet

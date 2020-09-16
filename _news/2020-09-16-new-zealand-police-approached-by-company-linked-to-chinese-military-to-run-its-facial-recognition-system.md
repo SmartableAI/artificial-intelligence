@@ -46,9 +46,9 @@ related:
   - title: "IBM pushes for US to limit facial recognition system exports"
     excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
     publishedDateTime: 2020-09-14T01:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
     type: article
     provider:
       name: ZDNet
@@ -67,6 +67,20 @@ related:
       - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
         width: 846
         height: 571
+        isCached: true
+  - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
+    excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
+    publishedDateTime: 2020-09-16T16:55:00Z
+    webUrl: "https://www.globaltimes.cn/content/1201157.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-09-16/c599d02e-b962-4a1c-8e04-b3ceaf634777.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "a3AV1hMt4V2pz5FBZafd9SiPS5wzNoJvvSrz17xjC5GRzsGrOgGswfoQzJcVDYsVhCF6uzsK75FNeQ9Kx6k3npbmLSTwJgSQpB3JQhKw8ZBh6zn0fy82WQYSaRbe1I/ADFhR5sfkxtWtY95Ibaw0QYuPz9vevM06B/9smGLvZEPZqyjOvGAw0tMJMp9EQDkW+ykb87VVRGV/U6p3+gauUidTERwcW/RB1MoCw+Q/OkM5/X6ZyCltASATZGo6MeA2N9Z0rW/xbm+zGYddKDGTbIBUsJuGqfc8YPnTXCL3PNsEIswrBC+gV5AKy6rF1wBmz/2tzquPqGM25BFH2jJwL84F2/dHSONxwzZb7GbdA7M=;UIDC5HGfI3529OL0v22DlQ=="

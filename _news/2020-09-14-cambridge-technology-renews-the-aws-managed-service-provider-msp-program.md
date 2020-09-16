@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cambridge-technology-ren
 webUrl: "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cambridge Technology Renews the AWS Managed Service Provider (MSP) Program"
-    excerpt: "Cambridge Technology Inc, today announced renewal into the robust Amazon Web Services (AWS) Managed Service Provider (MSP) Partner Program"
-    publishedDateTime: 2020-09-12T02:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-301128607.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1252888/AWS___MSP_Press_Release_Cambridge_Tech.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Z72bZvV8zzOyt0850TlTQa7HWx7EOerdFW3roxuafdQBgbpYpXm54I42PHj38FS74miFglKuyXHTWLnlICu7lQ5V0tUVqnGBbbhyW5yekoFsZ1Tz1itEN+k2py2DxfzUCuLepvHlwNUu2uKUAUQFKlej76s9NKe88UFbOq+b06PCpJEPVM1ErPwC4jSxtLiLEpEGZqPGrXo/WOR68ba0VueffjOqvGkwgN30cKBzn16BJL0y5w2dzAetfgKJhed6empDHkg4ezeAsa5GOgJL9GFlPPUlCcWOhEp9lNTGH82zmxGlW03XJG9eFStc1lExvmX7JazB1L5ZkY9y1C2KX06a9/3EcUm4SaOmk3mqjYo=;gpZkFJFhM1VxlX8T7l/3Cw=="
 ---

@@ -8,6 +8,7 @@ webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-
 type: article
 quality: 83
 heat: 83
+published: true
 
 provider:
   name: AWS

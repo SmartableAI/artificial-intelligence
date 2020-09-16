@@ -1,36 +1,28 @@
 ---
 category: news
 title: "FSS Launches Next Gen Recon with Machine Learning and Cloud Support"
-excerpt: "Customers are increasingly pivoting away from in-house payment reconciliation systems with semi-automated processes towards service-based ... on right technology like Machine learning, AI and cloud computing, banks and financial institutions will benefit ..."
-publishedDateTime: 2020-09-07T12:59:00Z
-originalUrl: "https://www.businesswireindia.com/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-69404.html"
-webUrl: "https://www.businesswireindia.com/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-69404.html"
+excerpt: "India FSS (Financial Software and Systems) a global payment products provider and processor, has introduced critical increments to its market-leading Smart Recon pla"
+publishedDateTime: 2020-09-07T13:23:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "FSS launches next gen recon with machine learning and cloud support"
-    excerpt: "The new system will leverage ML and automate manually intensive processes and improve the speed, accuracy, and the reliability of the payment reconciliation process"
-    publishedDateTime: 2020-09-08T07:46:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/FSS_launches_next_gen_recon_with_machine_learning_and_cloud_support-ZAWYA20200908072430/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200908072430/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 41
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
 
-secured: "wMBuu4J0xNT+LPL2X4/LEGaxPt/DwkS4gqq36eU1H95JAlbUZQOpLN19W2ylOqFq/D7OtFeRDJU1FhAQiF0Sc5QGs23rRTvhry1DxC+jN6RKbdFsj3U2RNbgTchgj2LHsz65zGkbyN+BQQflVyjT9SbaMQzqd4wdm38gI3MCGTYyPx5sZy/DHsbIDuTtM3HycTyb1qI5EUAVSoRHDJ4kLSnqb2cjBMkRKo4R0lMrW52E+QWIGO+g6ZKojP+xi/EaWp2WJx+jtaGgLrMMmReuvl9KiTcdmmDGuQq2lbuz6gL8FutL0z1G7PEZFLro1e98pUrFWOzMcrwoq0+AeQw6du9OLoGrPQw/IJCtlE6QLKg=;2jrrxqhNUxXw1S2tpnbcxw=="
+secured: "EuRq7JAugPEZXmDOL5z2gJfO4OX60z5mHq9NrIaFgIV3yUAIU4Iq0V9czu/LCiB1mMYkMffgeoha1FN3041e+bCpk/qn1XjOPblF+W7+kypybwmhUgozOabAaZo+Wdb48CCOhmJCaieXEzNCQxF1qWFrOt2+3vshf/NiMJ9NCP+tPX+GyO1xjaxSrXjVCCjyjAknk1UjSX7CWBezxUL8yJAz5meLB3FPWSoJF13rUYrfCO78OIG4sxFBc0L/HhORhqSXo68jUmH+ICvksWiiLhurpyoDtpavR5+Y9C8cdYFAJS3QvfM54uTzK0xMonWOeY4Wy2BXhgVCexlmnFtykFgw/vyBb4fHOQSOB3vNX2w=;OGBkV/uhpRfx5j4f2xl9Tg=="
 ---
 

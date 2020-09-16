@@ -2,6 +2,279 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
+      "title": "Google Cloud: A platform for innovation",
+      "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
+      "originalUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/02180919/Colored-pipes-in-The-Dalles.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-tensorflow-robot-recognizes-objects.md",
+      "title": "TensorFlow Robot Recognizes Objects",
+      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
+      "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
+      "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/05/4f648fee-ee93-11ea-8288-5c49f42eee5c_image_hires_110621.jpg?itok=0-w5Og9g&v=1599275188",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
+      "publishedDateTime": "2020-09-06T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-dubais-rta-applies-ai-machine-learning-to-plan-better-bus-routes.md",
+      "title": "Dubai’s RTA applies AI, machine learning to plan better bus routes",
+      "excerpt": "Dubai’s Roads and Transport Authority (RTA) has begun experimenting on the use of Artificial Intelligence technologies and machine learning algorithms in plotting bus routes in Dubai, according to officials.",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/09/07/77e067e1-6e24-4fe5-aa30-05cb9ad7de20/77e067e1-6e24-4fe5-aa30-05cb9ad7de20_16x9_600x338.jpg?width=466",
+          "width": 466,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
+      "publishedDateTime": "2020-09-06T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-how-ai-will-automate-cybersecurity-in-the-post-covid-world.md",
+      "title": "How AI will automate cybersecurity in the post-COVID world",
+      "excerpt": "As cybercrime is becoming more lucrative and more automated, we're going to have to depend on automated defenses on the other side.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/",
+      "originalUrl": "https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/amp/",
+      "publishedDateTime": "2020-09-06T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-06-nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming.md",
+      "title": "Nvidia tells us more about how well the RTX 3090 GPU performs 8K gaming",
+      "excerpt": "Nvidia’s GeForce RTX 3090 launch saw the firm declare that its top-end Ampere graphics card can handle 8K gaming smoothly – meaning at 60 frames per second (fps) – but now further details have been shared on what kind of frame-rates we can expect with various games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "originalUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZY3deEipHnrs5a3gWYKjcZ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
+      "publishedDateTime": "2020-09-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-06-wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027.md",
       "title": "Wearable Artificial Intelligence (AI) Market To Be Worth US Dollor 185 Bn By 2027",
       "excerpt": "The global Wearable Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 27% from 2020 to 2027 and reach a valuation of over US$ 185 billion. The report provides an analysis of Wearable Artificial Intelligence (AI) Market for the period 2016-2027,",
@@ -869,252 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-black-detroit-man-wrongfully-arrested-after-facial-recognition-search.md",
-      "title": "Black Detroit man wrongfully arrested after facial recognition search",
-      "excerpt": "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "originalUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "publishedDateTime": "2020-09-04T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic.md",
-      "title": "Google Maps partners with DeepMind to better predict the future of traffic",
-      "excerpt": "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
-      "originalUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/20/0fcebbe7-67f1-4908-8260-32f1fef1e499/thumbnail/1200x675/33623cba36b7bd46e414c3e09f8616ce/beeah-cr-mir.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
-      "publishedDateTime": "2020-09-04T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ai-related-jobs-openings-and-searches-have-gone-up-report.md",
-      "title": "AI-related jobs openings and searches have gone up: report",
-      "excerpt": "Job openings in artificial intelligence (AI) have gone up by 30% in June compared to the same period last year, as per data from jobs site .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/amp_articleshow/77935453.cms",
-      "publishedDateTime": "2020-09-04T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
-      "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
-      "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d8f8244d95c174212a597%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/amp/",
-      "publishedDateTime": "2020-09-04T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-viewpoint-peachtree-corners-ahead-of-its-time-with-technology.md",
-      "title": "Viewpoint: Peachtree Corners ahead of its time with technology",
-      "excerpt": "Enter Peachtree Corners. The city is serving as a leader for how government entities and the private sector best work together to build out true smart city ecosystems across the country. Peachtree Corners is uniquely governed and positioned to test,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
-      "originalUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.amp.html",
-      "publishedDateTime": "2020-09-04T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-tsa-is-testing-facial-recognition-at-security-checkpoints.md",
-      "title": "TSA is testing facial recognition at security checkpoints",
-      "excerpt": "To increase security and promote social distancing, the TSA is testing touchless facial recognition technology to get you to your gate. “We want to do what we can to have fewer touchpoints for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
-      "originalUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KWQC",
-        "domain": "kwqc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

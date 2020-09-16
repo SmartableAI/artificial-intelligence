@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/portland-becomes-fir
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.newshub.co.nz/home/politics/2020/09/families-of-john-key-jacinda-ardern-tracked-by-data-company-linked-to-chinese-military-report/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1600139283842/GETTY-john-key-jacinda-ardern-1120jpg.jpg"
         width: 768
         height: 438
+        isCached: true
+  - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
+    excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
+    publishedDateTime: 2020-09-16T16:55:00Z
+    webUrl: "https://www.globaltimes.cn/content/1201157.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-09-16/c599d02e-b962-4a1c-8e04-b3ceaf634777.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "IzbFyk+OlEbWlzsA7F7GXeIAYNxZ5EVFDwO08miKzjlVlZR1GhAvRY6SGnM4HE+L5nIzEk+ObsFXaIBMgtfGVHQLLW4Tnnt8yCWSDQhFPI7TczqX7SZM2Cj74spQEfg3zO9BkOCXJqOlv0G7HPILMUDnJz3xZ2aXNAuNnpn41km7wCfydLM2fDXr355svIiNsSncQMG+Z/AH8D4ssXf2Z8gkyLdURFkLqI8djif8IGqm8nqLyMbFhVeEIWbOAnAlJb0HAGwRRpHC2Y68J/r/JFk3THp6peXJCRzf/KpqjICgD/ikwwiedrsd4YyxbntYK3uQ8LXGr9q2NVzuOo0/jYFscqzEow5EtVWcDbo4ijx1baP4ep3cvRtvEfsHkylKCfw+uvbFfq2jYTtY+Mh5Ia/FJ38265vxxeGym5ZXdbpI6JdkMyUJCJShYtB/eUIvcZ8hpwaKOSMV+nSr85XoDQlHfCalhDO5bxfMNtmcP/KkzNSC9HRZoITun7QCBtzpfajdX5wbj2ICS+WM4BzYkw==;idEUmRRA8itN3SU1HBKmOQ=="

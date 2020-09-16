@@ -2,6 +2,289 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-01-artificial-intelligence-in-government-global-markets-2020-2025-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Government: Global Markets 2020-2025 - ResearchAndMarkets.com",
+      "excerpt": "The Artificial Intelligence (AI) in government market was valued at US$4.904 billion in 2019. In recent years, government in different countries are taking a keen interest in artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200831005637/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200831005637/en/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200831005637/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Herald-Standard",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy.md",
+      "title": "Facebook open-sources Opacus, a PyTorch library for differential privacy",
+      "excerpt": "Facebook's Opacus is a library for training PyTorch models with differential privacy that’s ostensibly more scalable than existing state-of-the-art methods.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "originalUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/facebook-open-sources-opacus-a-pytorch-library-for-differential-privacy/amp/",
+      "publishedDateTime": "2020-08-31T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-ai-job-listings-plummet-as-covid-19-recession-appears-imminent.md",
+      "title": "AI job listings plummet as COVID-19 recession appears imminent",
+      "excerpt": "The last thing we expected to see near the end of 2020 was a truce between human job-seekers and the deep learning systems replacing them, but the possibility of an impending recession has upended the AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/08/shutterstock_349570289-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "publishedDateTime": "2020-08-31T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-in-an-era-of-face-masks-were-all-a-little-more-face-blind.md",
+      "title": "In an Era of Face Masks, We’re All a Little More Face Blind",
+      "excerpt": "Your brain’s powers of facial recognition are going to need some time to get used to the coverings we’re wearing to keep each other healthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "originalUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/01/science/00VIRUS-FACEBLIND/00VIRUS-FACEBLIND-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "publishedDateTime": "2020-08-31T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution.md",
+      "title": "TransPerfect Wins AI Breakthrough Award for GlobalLink Machine Translation Solution",
+      "excerpt": "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that its GlobalLink AI technology has been named the winner of the 2020 AI Breakthrough Award as \"Best Machine Translation Solution.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transperfect-wins-ai-breakthrough-award-for-globallink-machine-translation-solution-1029549034",
+      "publishedDateTime": "2020-08-31T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-the-impact-of-artificial-intelligence-on-workspaces.md",
+      "title": "The Impact of Artificial Intelligence on Workspaces",
+      "excerpt": "It is a truth universally acknowledged that artificial intelligence will change everything. In the next few decades, the world will become intelligible, and in many ways, intelligent. But insiders suggest that the world of big office real estate will get there more slowly - at least in the world’s major cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4d1be7cdfe2e7803a8595c%2F0x0.jpg%3FcropX1%3D810%26cropX2%3D6499%26cropY1%3D0%26cropY2%3D3299",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/08/31/the-impact-of-artificial-intelligence-on-workspaces/amp/",
+      "publishedDateTime": "2020-08-31T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-ikea-turned-a-virtual-influencer-into-a-physical-installation.md",
       "title": "Ikea turned a virtual influencer into a physical installation",
       "excerpt": "This past weekend, the Ikea Harajuku location in Tokyo was home to something unique: an installation starring a virtual person. The retail giant partnered with Imma, a virtual influencer, in order to explore the concept of “happiness at home.",
@@ -874,277 +1157,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports.md",
-      "title": "China Is Gunning To Be The World Leader In AI Chips While Restricting Exports",
-      "excerpt": "China has passed the US in AI chip patenting and their brightest star, Cambricon has more than four times as many patents as Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
-      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f492ba1b592c05b5258e438%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
-      "publishedDateTime": "2020-08-31T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows.md",
-      "title": "Israeli chip maker Hailo to set up Tokyo unit as demand for AI tech grows",
-      "excerpt": "Hailo, a maker of chips that allows edge devices like smart cameras or smart cars to have artificial intelligence capabilities, said it is setting up a wholly owned subsidiary in Tokyo, Japan. Edge devices are electronic devices that are installed at the edge of networks — the entry point to networks — in products such as autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
-      "originalUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/08/Hailo-8-AI-processor-e1598859102334-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
-      "publishedDateTime": "2020-08-31T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
-      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
-      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-226475/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "publishedDateTime": "2020-08-31T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
-      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
-      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "publishedDateTime": "2020-08-31T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
-      "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
-      "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1238773",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773",
-      "publishedDateTime": "2020-08-31T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
-      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
-      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "publishedDateTime": "2020-08-30T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

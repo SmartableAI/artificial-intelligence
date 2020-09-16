@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
-    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
-    publishedDateTime: 2020-09-16T10:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Qualcomm announces three new AI accelerator chips to power edge computing"
     excerpt: "The company also is testing a Cloud AI 100 Development Kit that includes a new chip, 5G connectivity, and Snapdragon 865 mobile platform module."
     publishedDateTime: 2020-09-16T13:30:00Z
@@ -68,7 +57,18 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 66
+    quality: 85
+  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
+    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
+    publishedDateTime: 2020-09-16T10:30:00Z
+    webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "0lxhoPZoZrNBlhDd9Cxbq7o0bB7ixT+IpQjmYVDzUkGQO+UjKIopb4GXXAMqmWgLbub06x6brtDtKHSbAR+Bt3xM15VPuIxJbF4ZAA9NUFZmh6APVcy8VgjnxqkpVCOPQ856zB3sStuyydqCZnJSd0xfzQDHApP1VvbWOzk/t6kSVjKHDySApBALNMlOY2dNJv5a8AJn2xMbRWRtUOavp/YHcO34i8UIThBsLJZrjYMw5p0ss4tkUHI3wWwti6YmcyDdYUr98xeD6yq6vrBU2acpAJhvX1ZHWkxYfaBCeZjAkkD+/b/1laVSgSRlMczAABHP9E3yEMQseQSeITjQWlbVJZdTXFLI7+8P/B1Snh+BVHNd4PytFSEMO1QmM0aY7yMmaLWj6pTfL+5tMSU5J+E1u58CQ6U9eFyv7RLcO6xZjzxrLTalTJxYMZgiq3gMAIFNNMi7e4mXm4xJgFXVlrzTreHb7CQkZJo0XtVSA0OuGqI9f7c+tTkzqhkL0cJ8ZT/GNAZaLbHEhZLvAhe2fA==;HJuahyiima0EzXvSfRTRfA=="
 ---

@@ -8,6 +8,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-modernizes-and-
 type: article
 quality: 17
 heat: 17
+published: false
 
 provider:
   name: Business Insider

@@ -43,6 +43,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
+      "title": "Life academy promotes ethical ways AI can with help food security",
+      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
+          "width": 1280,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "publishedDateTime": "2020-09-16T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
       "title": "AI ethics groups are repeating one of society’s classic mistakes",
       "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
@@ -175,6 +216,38 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-delivering-ai-to-warfighters-is-strategic-imperative.md",
+      "title": "Delivering AI to Warfighters Is Strategic Imperative",
+      "excerpt": "Delivering AI to Warfighters Is Strategic Imperative. The Defense Department is in an important transformational pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
+      "originalUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobalSecurity.org",
+        "domain": "globalsecurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1237,97 +1310,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization.md",
-      "title": "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization",
-      "excerpt": "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "originalUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-multi-ai-competing-and-winning-against-humans-in-iterated-rock-paper-scissors-game.md",
-      "title": "Multi-AI competing and winning against humans in iterated Rock-Paper-Scissors game",
-      "excerpt": "24 and approved by the Ethics Committee of our center of Zhejiang University (China). The humans competing against our multi-AI in iterated RPS game experiment was approved by the relevant laboratory of our center of Zhejiang University and performed at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-70544-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70544-7/MediaObjects/41598_2020_70544_Fig1_HTML.png",
-          "width": 685,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

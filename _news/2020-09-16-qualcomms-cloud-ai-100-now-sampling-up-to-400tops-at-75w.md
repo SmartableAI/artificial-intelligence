@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Qualcomm targets the enterprise with 16-core Cloud AI 100 inference chip"
+    excerpt: "Qualcomm Inc. today shared technical details about the Cloud AI 100, an artificial intelligence chip with which it hopes to seize upon the growing enterprise demand for machine learning hardware. Qualcomm’s entry into the AI chip segment could put more pressure on market leader Nvidia Corp."
+    publishedDateTime: 2020-09-16T18:40:00Z
+    webUrl: "https://siliconangle.com/2020/09/16/qualcomm-targets-enterprise-16-core-cloud-ai-100-inference-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/qualcomm-2.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "YAOPHXfVJyRDqBMMtECnuJWjM66r/by5/jpwFwAjPDffThIrkP4CPc9IsuaQ9bkbG4TcQQTceqoP7qr0tEwdblUYw35RTIuMjEXqso3NE328yvjppQwk/iCxi1L0PQkLHOwn2dJYL8D1C/KJWAIAo8rZG/BjdFWvC6ZC5Vq7gD6eBuepwKv0A+WSZ9aVKuFZVfAb1m4FzFJeUDua1bR5JXGbbyiTNRHDvv8cl+B+fjW712DNbY8hsv2anofeD6gR2i9BUgWX+94UZBf2RkkgJ5SPkfyi5TJcUhnjyeex+zsy+Im75VymBXsDtHaD8fiHTpxY6VLmvCBUe9FP/7PW/bpLl7pqXXi13o4jaofv7GRcViN69MgjZKjKvfQuoUVI0AeepMLVeRnvMQG48yJuqUybOuJ/ZaXfIhUwrV7fB+LtwG21A7EUJHedG3wx+6n9r2L2MKTWiiqjlafiGupX1JToHo0wrvgMxPy1X/uIAnQwsbMwY70/U2WjLuAnYnsjLysjVM9csX+Z8Sfznhk1PA==;bxNKuDAWjE+YRigWrNlRcw=="
 ---

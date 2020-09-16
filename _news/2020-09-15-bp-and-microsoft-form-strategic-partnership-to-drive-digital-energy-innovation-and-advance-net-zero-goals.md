@@ -63,6 +63,15 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 21
+  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
+    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
+    publishedDateTime: 2020-09-16T07:38:00Z
+    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
+    type: article
+    provider:
+      name: arabianindustry.com
+      domain: arabianindustry.com
+    quality: 3
 
 secured: "tO1WaFnDRQD8gVoP4aDdbuw5osGEExQlcsgVFevcWyaGl8sGC/9DZx9pVyX7AsaQghajOaRak1J3Oy4FTeCW7D+hztzcfz0MKw7rX4ipt/12cJL86ZZ9cI801WnJGOgJMPjVElcH0bNMmnsgXvAGZsi06ddrW301u51eXBgBJpPJe3rb+TDv2sfvEf8iWluBoD6gO7gE2Bi4o3+pQXdYS8kAplVNtg9GEkbHZJOyvCLa/nJkCU6XKjhK/A2S537Ii/CoAl0XY8RKBdS7v0dP83enqZRYdIqVgUnCRgRQ9/QhCxhzWi+KPX5i62kaiHAk7l7PeyFy1KmJBwp4fIxt3pUfh9341v4uPhyhqkMWi24=;AvhAhAwC80Qn+4LragKd8w=="
 ---

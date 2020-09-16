@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses</loc>
+    <lastmod>2020-09-16T12:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/</loc>
+    <lastmod>2020-09-16T11:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/</loc>
+    <lastmod>2020-09-16T09:13:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/</loc>
     <lastmod>2020-09-16T08:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/</loc>
     <lastmod>2020-09-16T03:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/</loc>
+    <lastmod>2020-09-16T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -499,12 +523,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11</loc>
-    <lastmod>2020-09-13T17:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/</loc>
     <lastmod>2020-09-13T17:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -673,7 +691,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&amp;ito=1490&amp;ns_campaign=1490</loc>
+    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html</loc>
     <lastmod>2020-09-11T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -729,6 +747,12 @@
   <url>
     <loc>https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html</loc>
     <lastmod>2020-09-10T23:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm</loc>
+    <lastmod>2020-09-10T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1525,7 +1549,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07</loc>
+    <loc>https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07?mod=mw_quote_news</loc>
     <lastmod>2020-09-07T13:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1567,6 +1591,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html</loc>
+    <lastmod>2020-09-07T06:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9</loc>
     <lastmod>2020-09-07T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1593,6 +1623,12 @@
   <url>
     <loc>https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/</loc>
     <lastmod>2020-09-07T01:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider</loc>
+    <lastmod>2020-09-07T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

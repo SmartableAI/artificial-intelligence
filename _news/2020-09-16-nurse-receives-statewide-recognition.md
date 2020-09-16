@@ -9,7 +9,7 @@ ampWebUrl: "https://morganton.com/news/local/nurse-receives-statewide-recognitio
 cdnAmpWebUrl: "https://morganton-com.cdn.ampproject.org/c/s/morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.amp.html"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

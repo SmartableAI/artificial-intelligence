@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk.md",
+      "title": "Tesla Self-Driving Software Rewrite Should Be Available By End Of 2020: Musk",
+      "excerpt": "Now CEO Elon Musk said that by the end of the year, a total rewrite of Tesla's Full Self Driving software should be ready for the public by December 2020. The new software will be in private beta within two to weeks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
+      "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/autopilotoriginal__1_5.jpg",
+          "width": 2880,
+          "height": 1820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17492558",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17492558",
+      "publishedDateTime": "2020-09-14T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach.md",
+      "title": "Save $125 on Tempo, an AI-powered home fitness weightlifting coach",
+      "excerpt": "Home fitness equipment has gone high-tech in a big way. Thanks companies like Peloton, it's no longer unusual to pay a subscription for live online classes, and Mirror has introduced us to enormous LCD screens that let you watch an instructor and keep tabs on your form while you exercise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "originalUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/vWxueN-zpzNrYgvXgg2A2hrdk1E=/1200x630/2020/02/25/681321ec-648e-4800-a8ba-39e42b4c5f38/tempo-9686.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "publishedDateTime": "2020-09-14T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
+      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
+      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:44:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
+      "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
+      "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200914&t=2&i=1533358312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8D13J",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "publishedDateTime": "2020-09-14T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
       "title": "Portland becomes first city to ban companies from using facial recognition software in public",
       "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
@@ -9,7 +199,7 @@
       "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
       "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
       "featuredContent": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -966,194 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-can-ai-and-other-new-technologies-really-help-america-reopen-safely.md",
-      "title": "Can AI And Other New Technologies Really Help America Reopen Safely?",
-      "excerpt": "As businesses look to identify reliable, scalable new technologies amid the Covid-19 crisis, the top priority must be to keep people safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b873dbe3d60fee69a0c8b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/",
-      "publishedDateTime": "2020-09-14T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
-      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
-      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "publishedDateTime": "2020-09-14T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market.md",
-      "title": "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027 at a CAGR of 45.3%| Impact of COVID-19 on this Market",
-      "excerpt": "According to this latest publication from Meticulous Research, the global artificial intelligence in the supply",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.md",
-      "title": "Chip maker Nvidia takes a $40B chance on Arm Holdings",
-      "excerpt": "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
-      "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
-      "publishedDateTime": "2020-09-14T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

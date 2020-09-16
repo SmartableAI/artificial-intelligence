@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/20
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: Crux

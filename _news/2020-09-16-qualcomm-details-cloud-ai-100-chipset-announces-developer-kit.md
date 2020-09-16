@@ -43,23 +43,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f61a3150c939d131ff9c6c4%2F0x0.jpg"
         width: 899
         height: 300
         isCached: true
-  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
-    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
-    publishedDateTime: 2020-09-16T10:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Qualcomm announces three new AI accelerator chips to power edge computing"
     excerpt: "The company also is testing a Cloud AI 100 Development Kit that includes a new chip, 5G connectivity, and Snapdragon 865 mobile platform module."
     publishedDateTime: 2020-09-16T13:30:00Z
@@ -70,7 +59,18 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 66
+    quality: 85
+  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
+    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
+    publishedDateTime: 2020-09-16T10:30:00Z
+    webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "24YNqZ0xKyAtDGW/aREQfYDH+uLi0EHx5rqG5clmjYIVG+iBOJc6GKwW2hciSGdCRypjKWlJYpWKtHJ0kr3lofHuYja8lQQDTEnTW41MryoABiF+4akiwqRrfIvE0L6oT4anIml0YAzkWljOMuAzJCx7ixSPh7Bh5TNEk56dyebOfH20fIw56xD6xBT4wypuIojGo0nIbeCrEdbh+Y+hRHWZI0WgN5cdqrZDtWzRcCPV4tyfHAXmbJTTnY6M1gLk+M+h17opAEzwxv4QqAR1gbNBrNmAJuUyLWFfFEIRj3bB/o86vgKkpJABbO+ZUiMynmnudtFzKHAojkrivA7V/ZJ15KZoWMw3Ztr0a+JWriJSFeXgWRwCFRkJVcsEY7EOZz1jKxNnpE0bviijt5JPWSzgIhQjY2F1DcJ5T0dNGY/WV2ZpL6RpT1viTNNTuPi5Sjgi+yUUKo0d+6Ktbj24OAm5+QfhngXRAzTjDEypzOSbikEYPeJoB0/BF20NwmscB/8gTEY1fyI49iX/TPIA6A==;hmYbY5xijT7gPuUJP884Ig=="
 ---
