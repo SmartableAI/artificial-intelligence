@@ -18,22 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Flagship Pioneering debuts new startup using AI to design disease-fighting proteins"
-    excerpt: "After raising $1.1 billion earlier this year to back a new slate of biotechs, Flagship Pioneering has raised the curtain on an artificial intelligence company focused on discovering and designing a wide range of new drugs."
-    publishedDateTime: 2020-09-11T16:39:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/flagship-pioneering-debuts-new-startup-using-ai-to-design-disease-fighting-proteins"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 31
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1599840193/NIAID%20Coronavirus.jpg/NIAID%20Coronavirus.jpg?UzmQplBy2GKkVJ1iq_IKZWmiEIJdxTbG"
-        width: 2048
-        height: 1419
-        isCached: true
-
 secured: "4RoGMJ4ff9+6f7WHLmG33l2HPKw/Zrv43lPb2K53gZb+LY5bbCU8TfNYfubQEBhUmLuOgWfWAz4cz/s0xdCB3y7rqrJ02iRKEj3SQYhdaVHg6qC4cOD6JvQC5KSOrsQ4GWXodsrSCeENE42xC2BJGWqjQZ98M+Etc5qJZy3wdM2FQEp7GuW70TNq5SQQJRsccVRqaiprS4O57ogdkVFkf57BZ2TLpXl+WXNseusGCLAheGvka+2zEo1Aw0S4YHDUal3yLI+7m3Sz9Ogfk5rsXdHEQPH1l3Kx08GPXjZ0VGP+dySqhwQKJbWHKty8QnMmAsulPEzRSA5/0kYM4McsW2kuSQcbVm/c1pRiNOG2Q+w=;5XMJ27tb5HXL7VFnMKrYCA=="
 ---
 

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide</loc>
+    <lastmod>2020-09-16T02:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay</loc>
+    <lastmod>2020-09-16T01:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx</loc>
     <lastmod>2020-09-15T22:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,14 +25,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals</loc>
-    <lastmod>2020-09-15T17:14:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/</loc>
+    <lastmod>2020-09-15T17:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/uber-selfdriving-int-idUSKBN2663FS</loc>
-    <lastmod>2020-09-15T16:33:00-07:00</lastmod>
+    <loc>https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals</loc>
+    <lastmod>2020-09-15T17:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -147,6 +159,12 @@
   <url>
     <loc>https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery</loc>
     <lastmod>2020-09-15T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15</loc>
+    <lastmod>2020-09-15T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -421,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.digitaltrends.com/features/can-ai-solve-lost-languages/?itm_source=174&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <lastmod>2020-09-13T08:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9</loc>
     <lastmod>2020-09-13T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -495,12 +519,6 @@
   <url>
     <loc>https://www.jpost.com/health-science/israel-and-uae-to-collaborate-on-ai-cloud-computing-for-covid-19-642036</loc>
     <lastmod>2020-09-12T08:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/</loc>
-    <lastmod>2020-09-12T07:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -979,6 +997,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/</loc>
+    <lastmod>2020-09-09T11:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/</loc>
     <lastmod>2020-09-09T10:29:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1105,14 +1129,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
-    <lastmod>2020-09-09T04:45:00-07:00</lastmod>
+    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?time=1599650641</loc>
+    <lastmod>2020-09-09T05:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:40:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
+    <lastmod>2020-09-09T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1255,14 +1279,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
-    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
+    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
-    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1753,8 +1777,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailypioneer.com/2020/technology/google-maps-using-deepmind-ai-to-predict-your-arrival-time.html</loc>
-    <lastmod>2020-09-04T00:03:00-07:00</lastmod>
+    <loc>https://www.tribuneindia.com/news/schools/google-maps-using-deepmind-ai-to-predict-your-arrival-time-136247</loc>
+    <lastmod>2020-09-03T22:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

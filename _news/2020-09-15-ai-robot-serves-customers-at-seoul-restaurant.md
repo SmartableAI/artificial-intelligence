@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Robot server at Seoul restaurant, UAE okays vaccines for health workers & other Covid news"
+    excerpt: "As the Covid-19 pandemic shows no signs of letting up, ThePrint highlights the most important stories on the crisis from across the globe."
+    publishedDateTime: 2020-09-16T09:48:00Z
+    webUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/"
+    ampWebUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 49
+    images:
+      - url: "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2020/08/robots.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A.I. robot serves customers at Seoul restaurant"
     excerpt: "\"Aglio Kim,\" a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimize human contact and help ensure social"

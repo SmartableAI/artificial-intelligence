@@ -35,9 +35,9 @@ related:
   - title: "Dystech using artificial intelligence to help speed screening for learning disorders"
     excerpt: "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,"
     publishedDateTime: 2020-09-15T07:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    webUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
     type: article
     provider:
       name: ZDNet

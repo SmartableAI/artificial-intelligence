@@ -75,17 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Lobbies U.S. for Export Controls on Facial Recognition"
-    excerpt: "International Business Machines (NYSE: IBM) said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial recognition system most likely to be used in mass surveillance systems,"
-    publishedDateTime: 2020-09-11T16:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-lobbies-u.s.-for-export-controls-on-facial-recognition-2020-09-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "IBM pushes for US to limit facial recognition system exports"
     excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
     publishedDateTime: 2020-09-14T01:03:00Z
@@ -187,20 +176,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 34
-  - title: "Concerns Over Portland's New Law to Ban Facial Recognition by Government, Businesses"
-    excerpt: "Portland, Oregon has passed the strongest ban on facial recognition in the U.S. While other cities such as San Francisco, Boston and Oakland have all passed legislation banning government agencies from using facial recognition,"
-    publishedDateTime: 2020-09-11T15:27:00Z
-    webUrl: "https://cheddar.com/media/concerns-over-portlands-new-law-to-ban-facial-recognition-by-government-businesses"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 32
-    images:
-      - url: "https://img.chdrstatic.com/media/9dd0c34c-ea7f-4580-9fa9-78415c543869.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
     excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
     publishedDateTime: 2020-09-14T14:17:00Z

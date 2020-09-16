@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Amitabh Bachchan is new voice of Amazon's Alexa"
+    excerpt: "MUMBAI • Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services.. Read more at straitstimes."
+    publishedDateTime: 2020-09-16T09:47:00Z
+    webUrl: "https://www.straitstimes.com/lifestyle/entertainment/amitabh-bachchan-is-new-voice-of-amazons-alexa"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/16/st_20200916_trend16_5961449.jpg?itok=UDvFcZib"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
     excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
     publishedDateTime: 2020-09-15T20:00:00Z

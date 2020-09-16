@@ -123,6 +123,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Snapdeal tests last mile delivery with robots"
+    excerpt: "The robots developed by Ottonomy can run along sidewalks and local streets autonomously to deliver orders to nearby homes."
+    publishedDateTime: 2020-09-16T08:48:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/companies/snapdeal-tests-last-mile-delivery-with-robots-5841181.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/companies/snapdeal-tests-last-mile-delivery-with-robots-5841181.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/snapdeal-tests-last-mile-delivery-with-robots-5841181.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
   - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
     excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
     publishedDateTime: 2020-09-15T11:13:00Z

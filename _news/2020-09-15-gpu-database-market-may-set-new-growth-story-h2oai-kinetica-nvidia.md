@@ -7,7 +7,7 @@ originalUrl: "https://ipsnews.net/business/2020/09/15/gpu-database-market-may-se
 webUrl: "https://ipsnews.net/business/2020/09/15/gpu-database-market-may-set-new-growth-story-h2o-ai-kinetica-nvidia/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Artificial Intelligence for Marketing Market Next Big Thing | Major Giants Albert Technologies, Google, NVIDIA, Intel"
+    excerpt: "A new market study is released on Global Artificial Intelligence for Marketing Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 150 Pages with easy to understand detailed analysis."
+    publishedDateTime: 2020-09-16T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-next-big-thing-major-giants-albert-technologies-google-nvidia-intel-2020-09-16?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market MAY SEE A BIG MOVE | Microsoft Corporation, NVIDIA Corporation, IBM Corporation, Google Inc."
+    excerpt: "The ‘ Artificial Intelligence (AI) in Drug Discovery market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
+    publishedDateTime: 2020-09-15T10:15:00Z
+    webUrl: "https://ipsnews.net/business/2020/09/15/artificial-intelligence-ai-in-drug-discovery-market-may-see-a-big-move-microsoft-corporation-nvidia-corporation-ibm-corporation-google-inc/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "4KM1N13ijf667E5elncXMpw7AwFsVRnrrcG5Av3d8+cAqKmBxw4RhMExAajwfWEmKSsDqIpGsbd7xyUzfannEJwj7SLnaFavM3jHAxNLVg00yy0J+a1oxpJF2WqPEyoZ5qrveVut6m/hLXc3FoR80BhdIjUFCb8oJ2ZlCvZsFFuCn+K3ibUcjPlpirnMUXAcuHFQdz7nmqYUWoeiutk2i0wWAChVgY9D9cLH4aE2ZafKy8K7/1TEwZjw068os9aIdAr9VQquVILpdz1gf1dZM8xV9c55t5o2wgMhhEGIWowTyoOckk3nsd36cPvvGYOV/jeEytdcO8zlG+oJi7jtgcTzBYegPZaJaLPlDQkRzuQ=;LKXQ3e05I9HBVgzRqnQXbA=="
 ---

@@ -2,19 +2,19 @@
 category: news
 title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
 excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
-publishedDateTime: 2020-09-16T00:30:00Z
-originalUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
+publishedDateTime: 2020-09-16T03:48:00Z
+originalUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+webUrl: "https://www.freep.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
+ampWebUrl: "https://amp.freep.com/amp/5811636002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5811636002"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Autos
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
+    excerpt: "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,"
+    publishedDateTime: 2020-09-16T09:06:00Z
+    webUrl: "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Bjdq9rwdqqGu0imAP6-L8aQZTe4=/0x0:1434x790/1400x933/filters:focal(603x281:831x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png"
+        width: 1400
+        height: 790
+        isCached: true
   - title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
     publishedDateTime: 2020-09-15T23:33:00Z
@@ -75,6 +91,22 @@ related:
         width: 2000
         height: 1403
         isCached: true
+  - title: "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights"
+    excerpt: "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed."
+    publishedDateTime: 2020-09-12T14:24:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ee4b99ee35cdd6fa3accd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2760%26cropY1%3D180%26cropY2%3D1734"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
     publishedDateTime: 2020-09-15T22:00:00Z
@@ -104,17 +136,17 @@ related:
         isCached: true
   - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
     excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-16T02:54:00Z
-    webUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    publishedDateTime: 2020-09-16T05:54:00Z
+    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: KPNX
+      domain: 12news.com
     quality: 40
     images:
-      - url: "https://media.wtsp.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -259,6 +291,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "4T578Oax9tMD7JStC5BG2xkkX7KdAos7wrHBuXG2BlSUY0C3GjQE/UJiTmh1kuP4jPG53KMM0raqqwhSN3xyRfayBPs3O9UIc0IGkcAMWQqz22Y0N43svhzHUVW8Vqaxe40HB1kgPm97obvDJ0KY+a5wLIcalFqkwIKYCfLGEdlP317yV3aiLdeUQm1+eGPHOLvvl7Ljs9nNDtWLfHnI72GnueX4Hf5YvMO8kLuxyHvliAdJ/OF5giNzaiW4va6nHa2LYZvp7nYqQGo++KqaJTnL1Ox1MvoYsGTA/7acS5SgFa+TXA8EV//2pLqW8qUEcx76kk5OUjo1J+0e5TcE+KV4o47leSe434AmWVGYAgY=;I1Zsc64G6ZJTXbRg9WgZrg=="
+secured: "I8N1RgJeDl++wACi4l5HaecTJ1Fpp0jOP8Nesk+JQlCKemfr+pMUdIaibbhxtMHil/O8g2lvLofeXMgV8vqJWpn1A4lpsPiViwLeUe6uxY4XezNo0SM5BCRJl7EtvjmfQ+o7tjHlC1YFnDRvwr/CSVbPSJgM1pSJshUFYnvtUO3y84FOwgk3OkyPKz5GAPVOFp0xrG/uXxusjuNk4KH6RsKtxaSQUIOcN8gw3ilZgzvJ9vYmooYE568QGE2Eo9QmBNCTJ4wUYYW5Hkwcvk0TL0vomb4XA3nMdTU2IU5jvgj26BBcyI1fdsZsQQ5gBdlUtY18ZxFbbI+77GXflRRcjBEYlayOv+VXgH0K+BmMiIg=;NDq8ao5od8cDxtl1pf1/+Q=="
 ---
 

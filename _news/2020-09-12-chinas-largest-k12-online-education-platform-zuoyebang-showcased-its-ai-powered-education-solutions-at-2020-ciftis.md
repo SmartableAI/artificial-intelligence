@@ -23,24 +23,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Digital Nirvana’s Trance AI Closed-Captioning Workflow, Integrated With Adobe, Accelerates Caption Generation for United States Tennis Association"
-    excerpt: "Digital Nirvana, a provider of leading-edge media-monitoring and metadata generation services, today announced that its Trance automated postproduction captioning solution with advanced AI is powering the closed captioning workflow for the United States Tennis Association (USTA),"
-    publishedDateTime: 2020-09-11T15:52:00Z
-    webUrl: "https://www.twice.com/the-wire/digital-nirvanas-trance-ai-closed-captioning-workflow-integrated-with-adobe-accelerates-caption-generation-for-united-states-tennis-association"
-    ampWebUrl: "https://www.twice.com/the-wire/digital-nirvanas-trance-ai-closed-captioning-workflow-integrated-with-adobe-accelerates-caption-generation-for-united-states-tennis-association?amp"
-    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/digital-nirvanas-trance-ai-closed-captioning-workflow-integrated-with-adobe-accelerates-caption-generation-for-united-states-tennis-association?amp"
-    type: article
-    provider:
-      name: Twice
-      domain: twice.com
-    quality: 21
-    images:
-      - url: "https://www.twice.com/wp-content/uploads/2020/09/DigitalNirvana-TranceAI_AdobeIntegration-scaled.jpg"
-        width: 2560
-        height: 1575
-        isCached: true
-
 secured: "MZ+lww5DOc0pDr4eulZdBpi2iy/QvypluvN9d/uAtoCGTTM5KsTve0jBPugfVI4aRwuka7t2tcs4s4SNb2gmB1VcqGZ9w00lDaSATtIrVUjGBT9a6Omt8CO+BIu0yEH6kqIIFqPFIs6rCNN+xLFWdh4MYAQZtedKs/RmHjSJWg8TBUyQ410urhxFwd0ViEzAjbYb0hWgHrjNWCiNsp+xHtyGlRsHC3P9FyQUH2JEWGqfDSmOVAg3QdqST/NtGRtiZ75g8fYz8WkPeeAVuo4M2G2nQVYT0QlFMq/XcQlzppYPSZF+PcFYmTjy43se+LbevywWxJFhvE79Whl9gbNysSkoEvOi7w81Kjz2isZjPb4=;uSeHYTodrMn5zOdnUkt8Fw=="
 ---
 

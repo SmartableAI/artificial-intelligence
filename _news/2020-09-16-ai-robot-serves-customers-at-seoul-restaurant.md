@@ -84,6 +84,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Robot server at Seoul restaurant, UAE okays vaccines for health workers & other Covid news"
+    excerpt: "As the Covid-19 pandemic shows no signs of letting up, ThePrint highlights the most important stories on the crisis from across the globe."
+    publishedDateTime: 2020-09-16T09:48:00Z
+    webUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/"
+    ampWebUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 49
+    images:
+      - url: "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2020/08/robots.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fI/8/+aWbxKY+1hZixAstb+Wb/akmA315wWcJxmnjEqd9eBzJCK50S4T0Abzl5q5A2cCkS29LhPrHmgL24RLTHm0hPizs9Uk+GdmKjtE8uiPAPLY3A/dSbi20txx1boeGoFPj1y0XoH/R6K3BL0mqPY8BaSYQUMp7E/PD5wjxX/RNTqea5NAB7meS9qkRI4Eb+6noJNNa7oyeiT3ClMiR9oGIA9LKua+wKEWT7Zk+vsbh6nHFgV5m0R35CqnOguP5Oz7s8qfVqfSvk6pexlqusE3wDJmJ2lY/ujBY66wTattCKa4oTIoDQ/qo3sD9KSc0gInsS0sJLUtB/vt0qD/dAuC82b13pnWrTCxvCEBJas=;ysadMKsiI/PqSdWjOfmcag=="
 ---

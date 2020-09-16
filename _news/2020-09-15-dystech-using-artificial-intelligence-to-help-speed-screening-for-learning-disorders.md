@@ -3,10 +3,10 @@ category: news
 title: "Dystech using artificial intelligence to help speed screening for learning disorders"
 excerpt: "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,"
 publishedDateTime: 2020-09-15T07:03:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+originalUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+webUrl: "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
 type: article
 quality: 80
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 215
         isCached: true
 
-secured: "zisvprwbjBgeDBXEqBI0J14zc/DUy3Eph6ZhlZDr313PISHpQVm9d0FShkCZ6akPuBBlj7luC+O2ZUJOGeh//ULJCsAI66fzEg2dwKuqGuYMXnBl5gzDhoLvZ6p974djg7IiJYfEJQnaerZuO1Zc4x1bwhJsvrarbAswUa8Ie5ihAHjFwlYhpUVlwb7fInqlgIhUKvRcZhNPknSLxd4YcrNRrn6GB2n2Y/e8blCczv4CV1l/mN/1bXGcTgqfrDI76sy/9xhHkWp7u7+HAGxfrHxuE9zCmYcHxJaRBq5+ydMf10ZYkjd4rJTbp0d0sWFEEWSAI+IFJwb+Y8S95OOt/n4gDDIHsg6UjlJwIQJEWqc=;AZ/p0fldPkexP87JAC6xFA=="
+secured: "Js/seQD9SnnAPMP7KeWQyQgXS/SFwyc41bPWtVIGgXbJKL3C73rHEzUYHVhPdmLINK+rkdcAiQoNqtzhzT5VnaYnE76h6dX+bUm0dr6BiovlEyVA2GV+rAvZ4izgYCDxH+983shGXJ87KvlujN3pcSqQOzoxDLbJD/1sDm7PtVNIIueRXKXZ+4MXsaHKHTO3lk0qsha6I1F+4r2G4X7aPwS1bWZCmGZrQ1OzEfipmArrQpPqhqtj1VIxrbCEdJBx9yM4e9+mqUPf7trZk1CWeHDbChWr0PlegQbluZH4nUmfc9FziFWI5zCf9VtXruyblQv+j2dDfYbo4xEoEx3dEp4nt9JdUeoJCl1u59SL5EQ=;Udh+PvufhqsSjAv6OJBLNA=="
 ---
 

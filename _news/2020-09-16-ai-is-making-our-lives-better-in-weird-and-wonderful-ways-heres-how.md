@@ -8,8 +8,8 @@ webUrl: "https://www.gizmodo.com.au/2020/09/artificial-intelligence-weird-wonder
 ampWebUrl: "https://www.gizmodo.com.au/2020/09/artificial-intelligence-weird-wonderful-ai-life-better/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/artificial-intelligence-weird-wonderful-ai-life-better/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/09/01/iStock-1150803673-MF3d.jpg"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dLmWieMUw1HaNPmWUp4B2FrnE2+TxfznPCnSQsp0V8AjoCWnhf0qB7DXItxCpaChRAV88uVEKK6r77/H8SFgoyi77lBdQhlD03LAgEbJk6trmg8L9S4gUp/khg0p98x3Sbd9gWXF97tWZjIw0rEFkmvNxA5cI2RBa4EZkCoUe9EKBsKGtYC0dvV0OBdOl5hrN8zr4tvq4dlB7v6c4Lp+3FYuNN/p24lwTbZvQx4UlMDaOC6M8ORKgI8JmnUlnTHS1zNtY3JdohNNREIjugKhHhIeFekFxgmjybymlfkWFvV9tmL/IC76wbGo+8zy5+DHj2nDAudt14mhyJR2bz0oOi6yt64fYbVl77bS1fERwsg=;vGgsMjUvRczb1Xrm45OTaA=="
+secured: "kq3iyL62H6uqoVFA1HNvDrspALLYq1ZK19irr92j5zQc55KJMdI27fYRsDPbKgETh8ttUJ7QPSFkwokfgzAz5HD0GSOXrS5HJ73fs/zpGXAQ7MCViWbKO3g0C9+fZS3IU3gG/LsJLGPSyja6IS2ZalVH/oz+SXn/bNNWEjj5Vrda+OTKJZG9zHHwXbFWkJOOOqRae0HF/p46LaJZ8S0T3fhXwV5V5jYRl+HxNsM6k8NaREFokHFepJ4qH6zNMqc4X0RHY0qdV1Zg752UKf/V5iFGLV7bcpnLdG+vtGYy5rgRCMWwcyr4vIRPcIVe+DWu3BhLTotiXwsCgKLlLRRcDs6j1MoAp10X8mRLK/fcA9UOMiZx0mYD6RIX3NOlo5DlSYV25wdPxsSFo25IgSFPYRoop2/FeMA9uLIJ3wbAuikxP45PIuNKlyw2q6HIZv2sNeeqUgoA0R/uABbGfhopbUXLPoMRVVXmwH9+YV17ryHXpg/hsK2TrY2Mtvok4rL/pMeW9BGLsqmYDQPjVqk7kg==;vwgxuUkvk2W6kkoXBwZSFA=="
 ---
 
