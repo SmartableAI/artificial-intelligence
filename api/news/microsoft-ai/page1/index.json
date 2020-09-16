@@ -2,24 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-15-microsoft-msft-and-bp-sign-major-sustainability-partnership.md",
-      "title": "Microsoft (MSFT) And BP Sign Major Sustainability Partnership",
-      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals.",
+      "path": "_news/2020-09-16-bp-and-microsoft-join-forces-to-advance-sustainability-goals.md",
+      "title": "bp and Microsoft join forces to advance sustainability goals",
+      "excerpt": "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere.",
       "sourceUrl": null,
-      "webUrl": "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/",
-      "originalUrl": "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/",
+      "webUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
+      "originalUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/",
-      "cdnAmpWebUrl": "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/",
-      "publishedDateTime": "2020-09-15T07:24:00-07:00",
+      "ampWebUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
+      "cdnAmpWebUrl": "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
+      "publishedDateTime": "2020-09-15T17:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Pulse 2.0",
-        "domain": "pulse2.com",
+        "name": "WBAL",
+        "domain": "wbal.com",
         "images": null,
         "publishers": null,
         "authors": null

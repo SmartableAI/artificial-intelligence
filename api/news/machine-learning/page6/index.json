@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
-      "title": "Explorium raises $30 million to automate data prep with AI",
-      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
-          "width": 1024,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "publishedDateTime": "2020-07-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-28-how-to-get-hired-as-a-machine-learning-engineer.md",
       "title": "How to Get Hired as a Machine Learning Engineer",
       "excerpt": "Tamsin Crossland discusses how Machine Learning can be applied to Payments to respond rapidly to known and emerging patterns of fraud, and to detect patterns of fraud that may not otherwise be ...",
@@ -1363,6 +1312,57 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
+      "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
+      "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
       ]
     }
   ],

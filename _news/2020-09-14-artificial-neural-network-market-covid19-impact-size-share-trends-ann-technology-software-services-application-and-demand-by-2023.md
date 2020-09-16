@@ -3,8 +3,8 @@ category: news
 title: "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023"
 excerpt: "Global Artificial Neural Network Market Synopsis According to Market Research Future Reports (MRFR), the global"
 publishedDateTime: 2020-09-14T13:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14"
 type: article
 quality: 35
 heat: -1
@@ -114,6 +114,6 @@ related:
         height: 630
         isCached: true
 
-secured: "haWaks4QklE8W9JVOQwnHnBQ0y2eZ65sJPzpeJUPbST4+jiiAQT1KnBK+gqdP/0Ro0KgDrobl8+RnkXmIg7h59NoqKSQPffX9fP8gYeybgcxDRvgb69pjL22yks0S3vj6pNgN8U6d7ah0JJgUhvhHgINBawurzuTvFw+saE+dulwpAQQs9P7stNweXfuDoCB7TF45O827z74GYYk8N7ORXKfAHfeAZ9Lp4dHvwyHnKdZTEZOfnnd18xPOPg8IxFLi5DZqK8ykQ5l80aLhWoI74imKSlPaLV4FMNTyipK5K2FxvLIi8dvIr7V6B4V7iFyVd5n80nbOIxRT2PahkebpWleu/gOpNgNwQcCssaHEq8=;ZPl9bzVgJGi0kuJj0SMy6g=="
+secured: "C9xt6mBMAtzdAHercvVMxX+7WNUZ9HCq7U2EBUa+yP604SBqs9GqELPBNes4Cb/vXhjXmK8SwfC3/8F3P/ytpCXi7L1/pc/RjEi6BmkQipn/s0t7IsT5wnBACcopWW3/tcWTv32gHFT3T2txlx08lO9myCvtaYYWzSyvq1usSrFfrMEmnXI7E2WU9ZY5NaBPgaSX2oobq41+DPm0oUjjK/lnVMvr8fr8hbyP11hVV4Q91uFGQMIMYZP3i43tqtz2QWVl1AHMqLTW8jipI8pqowVuZkDzZWzQ8Gaor9QhW0vbckvTZIi8d8/+mHskb5TTIe7+KTpqi3UfqV/cELfi9nCOi1ql7XXuPLNF9DrTi+A=;YLoWfg4fUrzdZbajUa48xQ=="
 ---
 

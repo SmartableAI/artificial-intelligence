@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Autonomous Car Market: Self-driving Vehicle Start-up Argo AI Stands at $7.5 Billion & is Developing Virtual Driver System for Ford"
-    excerpt: "The global autonomous car market is set to grow exponentially owing to the increasing development of the ride hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride sharing."
-    publishedDateTime: 2020-09-11T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-car-market-self-driving-vehicle-start-up-argo-ai-stands-at-75-billion-is-developing-virtual-driver-system-for-ford-2020-09-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "X46Zx8LUHRJs0zLq0AZcJ7ewltTt8rPYXVyxM4V5HkZbvlVNC2L34iW6A+LDej1zxxOCt4Ik9/IvWjqiiufFbJ7VPJqDQQB17KiFD81K+OyryJVFgKWWBwyfbgHhmcDlP7C936bBBP02FVe2lSrJODmnEFW1jeI9Cn2HRWLuChO6ODly40kO0fWJOs10GUo3iGj0vJ94V5Kkxg3sUanEUwoDf6TK9FJgkqsnv4RXcVR5Ylg+I/oSloTiySxbCQz0dKRfPRN33uT2SV2fSEgX+xpfn6+HZRtysESc0Xs1yHn2JvdBhpdoi7INTSmra9cSmMt6hSPXd5nF5uMGW49q0i6GKk9cWoyhwMGnkcWqlMFUdMKUETBdVLW06XSRuGv7m/4R00VfsqZ8R8cc3CGTkztEYazr9S68MRbAWUwwa99fWUh0CASdsVarY7DRCYP3aKnwmIO/dMT2O3ajJwk/YCftp4IFnZqxtUkzJ9Lg5wKxc1UB0V25ewXUDif5ctbx+ULz0CrP9vSerKP39R8ScsDaTp8StwFTwiLGSKS9Gv4=;PZkMKD9TBjGAilKcjSHrlw=="

@@ -41,6 +41,20 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "Company run by Chinese military made bid to run NZ Police facial recognition system"
+    excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand Police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
+    publishedDateTime: 2020-09-15T22:28:00Z
+    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12365309"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 33
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/uGUMLAi3wKRSSsd10Nns1a80JXI=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/FBWEGJ2DARGTDA4MW5S5ELBCOA.jpg"
+        width: 1200
+        height: 815
+        isCached: true
 
 secured: "a3AV1hMt4V2pz5FBZafd9SiPS5wzNoJvvSrz17xjC5GRzsGrOgGswfoQzJcVDYsVhCF6uzsK75FNeQ9Kx6k3npbmLSTwJgSQpB3JQhKw8ZBh6zn0fy82WQYSaRbe1I/ADFhR5sfkxtWtY95Ibaw0QYuPz9vevM06B/9smGLvZEPZqyjOvGAw0tMJMp9EQDkW+ykb87VVRGV/U6p3+gauUidTERwcW/RB1MoCw+Q/OkM5/X6ZyCltASATZGo6MeA2N9Z0rW/xbm+zGYddKDGTbIBUsJuGqfc8YPnTXCL3PNsEIswrBC+gV5AKy6rF1wBmz/2tzquPqGM25BFH2jJwL84F2/dHSONxwzZb7GbdA7M=;UIDC5HGfI3529OL0v22DlQ=="
 ---

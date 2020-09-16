@@ -9,8 +9,8 @@ ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partner
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Pulse 2.0
@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "bp and Microsoft form partnership to drive digital energy ‎innovation and net zero goals"
-    excerpt: "Microsoft Corp. announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-15T16:33:00Z
-    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/09/bp-and-microsoft-form-partnership-to-drive-digital-energy-innovation-and-net-zero-goals"
+  - title: "bp and Microsoft join forces to advance sustainability goals"
+    excerpt: "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere."
+    publishedDateTime: 2020-09-16T00:14:00Z
+    webUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals"
+    ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
     type: article
     provider:
-      name: Hydrocarbon Processing
-      domain: hydrocarbonprocessing.com
-    quality: 30
+      name: WBAL
+      domain: wbal.com
+    quality: 74
     images:
-      - url: "https://www.hydrocarbonprocessing.com/media/10320/bpm-smart-glasses-durangojpgimg1024medium.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg"
+        width: 630
+        height: 354
         isCached: true
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
     excerpt: "Utilizing Microsoft Azure cloud enables bp to access a broad and deep portfolio of cloud services, including machine learning with Azure Digital Twins, data analytics, security and more, to gain greater insights, drive significant optimization ..."

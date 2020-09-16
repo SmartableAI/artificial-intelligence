@@ -14,6 +14,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"

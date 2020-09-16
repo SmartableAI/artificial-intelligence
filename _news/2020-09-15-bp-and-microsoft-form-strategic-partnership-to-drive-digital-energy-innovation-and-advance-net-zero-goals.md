@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "bp and Microsoft join forces to advance sustainability goals"
+    excerpt: "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere."
+    publishedDateTime: 2020-09-16T00:14:00Z
+    webUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals"
+    ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 74
+    images:
+      - url: "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg"
+        width: 630
+        height: 354
+        isCached: true
   - title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
     publishedDateTime: 2020-09-15T14:24:00Z
@@ -36,20 +52,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 54
-  - title: "bp and Microsoft form partnership to drive digital energy ‎innovation and net zero goals"
-    excerpt: "Microsoft Corp. announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-15T16:33:00Z
-    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/09/bp-and-microsoft-form-partnership-to-drive-digital-energy-innovation-and-net-zero-goals"
-    type: article
-    provider:
-      name: Hydrocarbon Processing
-      domain: hydrocarbonprocessing.com
-    quality: 30
-    images:
-      - url: "https://www.hydrocarbonprocessing.com/media/10320/bpm-smart-glasses-durangojpgimg1024medium.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "xF0Lp8qL3EEW4Gq+MCMki1NJzqQ0NgOqeRXiFuYkcvfeVUmR0hcxRls03EfV5lwamAcPO8KFX7AKMskeAIZIv3/HbLP6ubWjTF3sw1f9ZTRnSBabRhAbXkrF2B1PVwd1WTzqqZ8MNXC8HdvB0E82QI/wecdq/yofWG/uf3cbIbmEAjH3OmlI0G5q7QY5px8NDgz9YGj6AFzwJnrqzac/DKxHBMeC4NK2i4uhCYJS3U5JLJMlk2J8Lv08eDjQyt1fcZWFFjLj1Cf4Ggk+2wqrBQuvwq7hQDLH/iCT0IXQELxCvBWYsKEF128VHVoYV1Z7RwWGkYoSRkqD0/1p+FyVXnoTct28X0t7z3ZHWeo6PLPqAes9H15DbpeNtIz9qPixncRNis7SAdRpo1FJo3BhNeTBZpTt1o6o7EiYbEf8VMuCbEBzqh3Uz0m14+4PpTLsKNGNjVqhPXKjdQr83M0gFU6PgJiUSLkLecSUg4srw2GVn5UjrFWtzY9MR78V0EDWAxBrKCqUHKOjXdYDAeUQC4lh3/jfyvs4V1SQGWnEWwE=;ePe/GS82avDNc0XG8GpszA=="
 ---

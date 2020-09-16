@@ -2,6 +2,55 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-08-12-4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products.md",
+      "title": "4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products",
+      "excerpt": "We are seeing more and more companies that use artificial intelligence (AI) to make their products smarter, from speakers to coffee machines, and from cars to yoga mats. Every company must consider how they could create more intelligent products using artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f336f7bc11a3ec78f029652%2F0x0.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
+      "publishedDateTime": "2020-08-11T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic.md",
       "title": "Facebook Turns to Artificial Intelligence for Help During the Pandemic",
       "excerpt": "Facebook is leaning more heavily on artificial intelligence to police its platforms while human reviewers work from home during the coronavirus pandemic, company officials said.",
@@ -1108,56 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025.md",
-      "title": "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025",
-      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
+      "title": "What are deepfakes? AI that deceives",
+      "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "publishedDateTime": "2020-09-15T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
       "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
       "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
@@ -505,7 +555,7 @@
       "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "featuredContent": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1107,47 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
-      "title": "Microsoft adds more AI security protection for Azure clients",
-      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "publishedDateTime": "2020-09-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
+      "title": "New age revolutionised by AI, 5G communication, robotics",
+      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
+      "publishedDateTime": "2020-09-12T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit.md",
       "title": "BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit",
       "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced its participation at the",
@@ -379,56 +420,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus.md",
-      "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
-      "excerpt": "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png",
-          "width": 2614,
-          "height": 1379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "publishedDateTime": "2020-09-11T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

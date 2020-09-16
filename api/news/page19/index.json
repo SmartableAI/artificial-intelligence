@@ -2,6 +2,38 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-01-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield.md",
+      "title": "IBM Deep Dive: Strategy Shift Driving Growth; Attractive Share Price And Dividend Yield",
+      "excerpt": "IBM is successfully pivoting itself away from its declining legacy products and towards growth as a cloud, software, and services company.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
+      "originalUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-atlanta-airport-plans-to-test-facial-recognition-touchless-technology.md",
       "title": "Atlanta airport plans to test facial recognition, touchless technology",
       "excerpt": "Jackson Atlanta International Airport plans to test facial recognition at check-in counters in the domestic terminal, part of a broader push to introduce more touchless technology in response to the coronavirus.",
@@ -1085,47 +1117,6 @@
         "Facebook AI",
         "AI in Robotics",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-qualcomm-snapdragon-732g-with-improved-cpu-gpu-and-ai-performance-announced.md",
-      "title": "Qualcomm Snapdragon 732G with improved CPU, GPU, and AI performance announced",
-      "excerpt": "When compared to the 730G, the 732G promises to offer better AI and gaming performance, with upgraded CPU and GPU. To give you a quick rundown, the Snapdragon 732G offers the Kryo 470 prime cores ...",
-      "sourceUrl": null,
-      "webUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
-      "originalUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techpp.com/wp-content/uploads/2020/08/Qualcomm-Snapdragon-732G.jpg",
-          "width": 700,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
-      "cdnAmpWebUrl": "https://techpp-com.cdn.ampproject.org/c/s/techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
-      "publishedDateTime": "2020-08-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techno-Science.net",
-        "domain": "techpp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

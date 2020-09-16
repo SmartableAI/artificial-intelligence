@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-16-backup-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-negligent-homicide.md",
-      "title": "Backup driver in fatal Arizona Uber self-driving car crash charged with negligent homicide",
-      "excerpt": "Maricopa County Attorney Allister Adel's office said on Tuesday that Rafaela Vasquez was charged with on Aug. 27 in the 2018 crash in Tempe that killed 49-year-old Elaine Herzberg. She pleaded not guilty during a hearing on Tuesday.",
+      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
+      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
+      "excerpt": "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html",
+      "webUrl": "https://www.reuters.com/article/uber-selfdriving-int-idUSKBN2663FS",
+      "originalUrl": "https://www.reuters.com/article/uber-selfdriving-int-idUSKBN2663FS",
       "featuredContent": null,
-      "heat": 144,
+      "heat": 219,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/105249986-GettyImages-659266224.jpg?v=1532563629",
-          "width": 2000,
-          "height": 1403,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533608454&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F00W",
+          "width": 852,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html",
-      "publishedDateTime": "2020-09-15T15:45:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2663FS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FS",
+      "publishedDateTime": "2020-09-15T16:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -150,7 +150,7 @@
       "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "featuredContent": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.cnbc.com/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html</loc>
-    <lastmod>2020-09-15T15:45:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/</loc>
+    <lastmod>2020-09-15T17:19:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals</loc>
+    <lastmod>2020-09-15T17:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uber-selfdriving-int-idUSKBN2663FS</loc>
+    <lastmod>2020-09-15T16:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,12 +105,6 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-15T07:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/</loc>
-    <lastmod>2020-09-15T07:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -499,12 +505,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/</loc>
     <lastmod>2020-09-11T13:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -649,8 +649,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
-    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
+    <loc>https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html</loc>
+    <lastmod>2020-09-10T14:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1219,6 +1219,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
+    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
     <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1227,12 +1233,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
     <lastmod>2020-09-08T09:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html</loc>
-    <lastmod>2020-09-08T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2217,6 +2217,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/</loc>
     <lastmod>2020-09-02T06:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud</loc>
+    <lastmod>2020-09-02T06:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
