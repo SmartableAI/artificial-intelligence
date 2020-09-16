@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence system developed to help better select embryos for implantation"
-excerpt: "For many people who are struggling to conceive, in-vitro fertilization (IVF) can offer a life-changing solution. But the average success rate for IVF is only about 30 percent. Investigators from Brigham and Women's Hospital and Massachusetts General Hospital are developing an artificial intelligence system with the goal of improving IVF success by helping embryologists objectively select embryos most likely to result in a healthy birth."
-publishedDateTime: 2020-09-15T16:34:00Z
-originalUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.html"
-webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.amp"
+excerpt: "Investigators from Brigham and Women's Hospital and Massachusetts General Hospital are developing an artificial intelligence system with the goal of improving IVF success by helping embryologists objectively select embryos most likely to result in a healthy birth."
+publishedDateTime: 2020-09-15T13:05:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/bawh-ais091520.php?ICID=ref_fark"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-09/bawh-ais091520.php?ICID=ref_fark"
 type: article
-quality: 49
-heat: 49
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-ivf.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "JBTlKxZHS78dGR7dcgh+W1ucBQoNbZnAyr7okNbfjoIrOTEqYyhQbAaimMGCpj1/AoapPeu/Xj59LawZyGjl4GyXzEz7svNGHZeS31zTeRjouDTMrB3pTSl3yLEWa7H2KuCdtY5RL4qOsTL3Fw65dzz9PkWRZoJpmYxRuteSRD74FNTteyFqKcX+95QQmXFyk/5/SLRc5wi88bVuopMFj3tXHyg7QgOE9HGu66PTZomzNdK5GcCe4AvX4Cox/nK8PU90XZBUlqOBnthZJczOWONPt19OgowTDLE+7LD0u+mMTn/U0O7jNRj9GxSVo4WUrv7KXDPN8UxJnDoqF38sFjghzqEtsHOULDqxUqqb+es=;LZrl5Wo1FWQmx69+JdJeVg=="
+secured: "BhyBP6yam1aOwGEtH1Q9xvwEJphA82L7SC10BAGv11Fht4AlcZz6ApBZezuGMYu6A6girPswjawqzGkfgKf8zIJnsx+OL8VeZJfdlR6HnoC1dLvbtiecuWgwvhBQcnhhbm86rm+YZRhonV9xQV/hI5svs8ms+NFXGVc23xBXlTjpCMpHnGserWst+xzW+nYZMW0HJ7DaOCBtkjmWgtEuBUpfAZnFMIna3pJ7vw6sH1eXi4O5VXmmaDrVQK+jR4Uz7L5STJzYHt3zkEImRfajxQZeUYrsBhb2yVoSBzPQ0itjiLziGpl+ljtQlg2YsbbApvUxu8KfnB5dDIWzMyE33a/GPzeTP5smmtPrmM9nXNA=;FShEhbKHSsWyX0jeKbDuAQ=="
 ---
 

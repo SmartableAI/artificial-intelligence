@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/qualcomm-cloud-ai-100"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-cloud-ai-100"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:
@@ -56,6 +56,6 @@ related:
         height: 382
         isCached: true
 
-secured: "MOvLC3fTNREImkOspV/US1ihABsCSrnqFoP0isFg5PFWdA7wognavk071KWATLlWG0BDLJwG8DmQSI93t/ms0MmohK/tznb4WVByfLs+tpIV+gK01Pv8qUkGrUEX61+TyHQW9BHDz44tCkim7Jj1/ezfoMZQVyrWN3a6J3wAWGMnTp+3b1mc/mXwWfuQRHx4q0ex5PSq8hHMpzWyZedqQBmCA55MWLYjxi9aR8ugZziD5UOxYkq1ipjxfSgszkqd9l/p5bfui6dtnag3FkdWz1Zjrry/IY0EZWKUZEW26voa2JtJu+OykqL88D+w6ywAq+rMlufXnlttn1+DDjcabLL8c6eB0XI9TNcc4zXxTM4=;UxoFzLSiRNuL4yLBQ94AuQ=="
+secured: "nKm2mIYpXKMSyi/bTmiAnVVg2pBFgvK1TOhwxdkd/a9tvzY3eAt8z2+v2plhOwUQU/w3lXDMc7pu1Yl509IYEmsOAi87sWK5LUtL/cSH9U4xlE8hYcZ4a2eEEUK+Z7KGPCHzD1wWUc5boNu8JrVJdgtWszfovheJSwklTktCcAnvgc5Xrqm9rBeyzX1PlZG+D5YoLWx21qvmblmK+90O6JljhD2NiBpa17xLOQgMIRh2p/hLoOeMy74DyNoQPhDLfNvRfRnYAVD/mO7riArxayBfQyPd3VZFIvOl/pvbm0rAilqz/pY9hTRH98Uj6iZXvTtDPX7WGGNByPHbhCk3PJir1drqdM16LT73Oy084vnO3TL52QLgCK71bfuRwdaabNWexAB+wo8kpdZ3k14+OXihtrtdMyinpQcoFCMZ8y5vFBgk6Tch1GdQUjM/9Eqz71TqUdLUhzX6S0xuz9IbAQQus5RS0efjuX02Wt1s6WzanczhKA8IrMB4fsOwuuk2BhS88O7soKMWSH2aIZi0FQ==;ZV3HGO4nhtpnuxyRT6MG4Q=="
 ---
 

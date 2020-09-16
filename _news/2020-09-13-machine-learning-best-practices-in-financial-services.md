@@ -30,9 +30,9 @@ related:
   - title: "ServiceNow launches latest Now Platform, telecom and financial services workflows"
     excerpt: "The Paris release of the Now Platform includes six new products as well as a bevy of features such as workflow apps, customer loyalty workflows and IT and AI operations updates."
     publishedDateTime: 2020-09-16T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
     type: article
     provider:
       name: ZDNet

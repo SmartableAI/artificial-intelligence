@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-cloud-ai-chip/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/16/qualcomm-launches-cloud-ai-chip/amp/"
 type: article
-quality: 87
+quality: 104
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f61a3150c939d131ff9c6c4%2F0x0.jpg"
@@ -69,6 +70,6 @@ related:
       domain: techrepublic.com
     quality: 66
 
-secured: "T/2yKuCkvwUu11sy8jl8q6y16WjNjWF2Hd2m2pxHGwACSKu1RUK3AKQYLmD/3dXZh3ZaIGqo9/E2iKsJ5dLgIRyOZFBkoTpM934uj4wcJc9EVxPtbNrCDAMj3Dio1uj1ifymLmvv3oXRSyYA0Giv0c/BQvdLUVmGI/bYRs7n9+ZOLJfJD0FjHT44nhkwVsxb6Yfh9whqZZlNHy/H1ACJF5FmGaQrcomTIyJPjO1gAOy3W7jMbNqJSORIlx3K+E5xG+3McieWwNoHKhNLN00hSgZ6pP4DjF7/Zh52TnpSw6DncypLI5ApPWiOrdPN+xDfM0YrOabWSRnGR0YXHhMUVIrkdoxCXc20IZOH2ENgN30=;TNNWe8gKlEMjWcIB3w1Ybw=="
+secured: "0lxhoPZoZrNBlhDd9Cxbq7o0bB7ixT+IpQjmYVDzUkGQO+UjKIopb4GXXAMqmWgLbub06x6brtDtKHSbAR+Bt3xM15VPuIxJbF4ZAA9NUFZmh6APVcy8VgjnxqkpVCOPQ856zB3sStuyydqCZnJSd0xfzQDHApP1VvbWOzk/t6kSVjKHDySApBALNMlOY2dNJv5a8AJn2xMbRWRtUOavp/YHcO34i8UIThBsLJZrjYMw5p0ss4tkUHI3wWwti6YmcyDdYUr98xeD6yq6vrBU2acpAJhvX1ZHWkxYfaBCeZjAkkD+/b/1laVSgSRlMczAABHP9E3yEMQseQSeITjQWlbVJZdTXFLI7+8P/B1Snh+BVHNd4PytFSEMO1QmM0aY7yMmaLWj6pTfL+5tMSU5J+E1u58CQ6U9eFyv7RLcO6xZjzxrLTalTJxYMZgiq3gMAIFNNMi7e4mXm4xJgFXVlrzTreHb7CQkZJo0XtVSA0OuGqI9f7c+tTkzqhkL0cJ8ZT/GNAZaLbHEhZLvAhe2fA==;HJuahyiima0EzXvSfRTRfA=="
 ---
 

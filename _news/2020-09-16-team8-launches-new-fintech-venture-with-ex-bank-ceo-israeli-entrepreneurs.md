@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2020/09/team8-fintech-venture-launch-israel/"
 webUrl: "https://nocamels.com/2020/09/team8-fintech-venture-launch-israel/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

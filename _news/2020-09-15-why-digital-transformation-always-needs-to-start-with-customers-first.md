@@ -25,22 +25,6 @@ images:
     height: 284
     isCached: true
 
-related:
-  - title: "Ibm outlines cloud and ai-led digital transformation strategy for SL"
-    excerpt: "IBM outlined a comprehensive strategy for Sri Lanka driven by Hybrid Cloud, and Artificial Intelligence (AI), underpinned by Cybersecurity at a virtual round-table meeting. As organisations are beginning to reset,"
-    publishedDateTime: 2020-09-12T00:59:00Z
-    webUrl: "https://island.lk/ibm-outlines-cloud-and-ai-led-digital-transformation-strategy-for-sl/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 39
-    images:
-      - url: "http://island.lk/wp-content/uploads/2020/09/ibm.jpg"
-        width: 500
-        height: 310
-        isCached: true
-
 secured: "O76QgCQi0hPSoMnRxnEhw8IdZpEvhlTgaZPb5veCjOZyy7vaqK1ZoSvdxkHA5rq1Gh/Wr4+CiEjRfzkqin7LR6OpfJBq/xdbEXG+l5TTXJDmdNPfsy/MovTvui1szeGI7SWWjJkNp9Fi6SFu1d0mJ7irOME+48giAqNF6ZeRdLr/JQ3/iZ+J3wdx76I+2RRugy1me5Qwr/RMcGktQWFzI2Y6YBJYenzSLJy40b2w+lkeGyLTi5v3f5pLuch3iQ2SGlFyNnMWq+3J8+UDUThdqr6LQ1PjJMZ02cUOxRaurK+gSeuSLcJzt0BFJw7HnLFQVjxDtcqTxYUu9ZK3lT58SBeSdxBIM6E021eO87Th3pY=;buEvSSvJ2OzrrsCLZ8u9kg=="
 ---
 

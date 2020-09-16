@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsday.co.zw/2020/09/can-artificial-intelligence-replac
 cdnAmpWebUrl: "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/2020/09/can-artificial-intelligence-replace-emotional-intelligence/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 330
     isCached: true
+
+related:
+  - title: "Aktana Introduces First Contextual Intelligence Engine for Life Sciences"
+    excerpt: "Aktana, the pioneer in intelligent engagement for the life sciences industry, introduces its next-generation Contextual Intelligence Engine to optimize interactions with healthcare professionals (HCPs)."
+    publishedDateTime: 2020-09-16T17:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "RLAcy2TRCm48j8j0OZD6B8dRhf1pL7KjkjFuigofmcLtmrbdoEmLYl2kDzl4doMvImIzN9gGHihms6nOKlDQ5/6mwLTH8xV54fFaQ8bqwRpSpjRZr3MIEJyGXvjfWeQUo6Ew3YIWEC1GYtyfqXYUqxao96NV3xcO+QGK4vuCSEkqrVYrpRuw9b/kp8J/mtKPfOit2cwRE69x5HDQzOhxhIHMKONNbH4Soiv/nfBJZFxKjpfYVPFblUymFvdd0Aa79xtK8RuI8LRxuWaVsYG591gt70bB7G8kMb8xbWV4Cwfz0icIAEUvLDzHqtceWaIcTWlgPh1sEqant8X+GUjsbemHYc/g0OzJMSzoUswXKMQ=;VWvb0kev9g4Qcw3sSPQT4w=="
 ---

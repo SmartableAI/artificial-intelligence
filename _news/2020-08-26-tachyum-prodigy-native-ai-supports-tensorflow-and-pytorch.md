@@ -14,6 +14,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
@@ -21,6 +22,6 @@ images:
     height: 440
     isCached: true
 
-secured: "EH4V9Jdm2dSPOhCa2gUqQ8dlsRz8VKWC/3nDJh5Bc4dNxEpkeWzHWpZN8+LAJ/B+KsEG3mqzIrMC5O8q93t4iHIjc+I3dWRZqo7UNfPiE/tXf82/hx4uHH0cTr1lWatfWmB3nUpNzpkov+tCxDatblMdkDbTxmB0ItHfjANBHGEvT1Q2grKY0BK8NbuObN8o/tXP95wqLLkUxyNfs8lmWytCsn/eWDqRHgHUNYCejA/2w8Tf8jtV3QU2BIelBbM3wrohluIhaVAi/TXjIhafzJupq6d0sAlrE0Kj6qt4ypXjGlytCTydzDaTI3O5lKNIKVKG2gL+22FIaVAOmLdU2047KSygq/NpPt9gA69k9DI=;N6ObxlRAqnxtfgSFfV8UUQ=="
+secured: "PTrAb/C4H/momAhLA9S+WEwKDBOe1EOkYWAsa3LYf4i8ABeJL72i9WoxNgM6YuY3QqWS8Xypw9OVzHQkfpiYrVvk6xPDAsUJtWbxdoEAuHJfvvqierxYP13bZ1Rbr7ZJUzvcaR7M1yowcTnfjceNvP3TL2efF6/iKmY2RPo9rCDWFm4oM2Vo0fN2adczyzZtcv+fViVXj9py/70eOtvlD1QxmBip2zYp4fwYh3yeBaEvEB/Ij5H1e1dZuycRSnu4mrh6jLcA/JzNJXOqGEeXCfZYt5sUNWi0f5ODrl7FiPWMGE/sQyridIw+/26YGvVq2Kit0uylHfMyEXPRCTNpz0ub3gzvUL0+awoxmeXNmbE=;mfx13p5sC3a0YSFe/gpfRw=="
 ---
 

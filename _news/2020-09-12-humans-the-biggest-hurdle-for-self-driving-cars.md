@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk’s Tunnel Under Las Vegas for Self-Driving Cars Is Almost Complete"
+    excerpt: "For most of 2020, Elon Musk has dominated news headlines for SpaceX rocket launches and Tesla’s wild stock movements, so much so that it’s easy to forget that another Musk-owned transportation venture,"
+    publishedDateTime: 2020-09-16T15:53:00Z
+    webUrl: "https://observer.com/2020/09/elon-musk-boring-company-tunnel-las-vegas-near-completion/"
+    ampWebUrl: "https://observer.com/2020/09/elon-musk-boring-company-tunnel-las-vegas-near-completion/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/elon-musk-boring-company-tunnel-las-vegas-near-completion/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 42
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/09/GettyImages-1074388032.jpg?quality=80&strip"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Self-driving cars move forward through UH collaboration"
     excerpt: "UH Mānoa, HDOT, Federal Highway Administration, Econolite and Goldwings Supply kicked off a pilot project along the Nimitz Highway and Ala Moana Boulevard corridor that uses “Vehicle-to-Everything” communication technology,"
     publishedDateTime: 2020-09-16T01:48:00Z

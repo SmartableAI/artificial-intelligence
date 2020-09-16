@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/article/qualcomm-announces-three-new-ai-ac
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-announces-three-new-ai-accelerator-chips-to-power-edge-computing/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-announces-three-new-ai-accelerator-chips-to-power-edge-computing/"
 type: article
-quality: 66
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Natural Language Processing
 
 related:
   - title: "Qualcomm details Cloud AI 100 chipset, announces developer kit"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cambridge-technology-ren
 webUrl: "https://www.marketwatch.com/press-release/cambridge-technology-renews-the-aws-managed-service-provider-msp-program-2020-09-11"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cambridge Technology Inc Achieves AWS SaaS Competency Status"
-    excerpt: "Cambridge Technology Inc, a global business and technology services company announced today that it has achieved Amazon Web Services (AWS)"
-    publishedDateTime: 2020-09-11T23:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cambridge-technology-inc-achieves-aws-saas-competency-status-301128605.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1252905/Cambridge_Tech_AWS_SaaS.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cambridge Technology Renews the AWS Managed Service Provider (MSP) Program"
     excerpt: "Cambridge Technology Inc, today announced renewal into the robust Amazon Web Services (AWS) Managed Service Provider (MSP) Partner Program"
     publishedDateTime: 2020-09-12T02:00:00Z

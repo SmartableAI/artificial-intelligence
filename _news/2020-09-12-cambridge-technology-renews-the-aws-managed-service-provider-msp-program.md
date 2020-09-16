@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cambridge Technology Inc Achieves AWS SaaS Competency Status"
-    excerpt: "Cambridge Technology Inc, a global business and technology services company announced today that it has achieved Amazon Web Services (AWS)"
-    publishedDateTime: 2020-09-11T23:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cambridge-technology-inc-achieves-aws-saas-competency-status-301128605.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1252905/Cambridge_Tech_AWS_SaaS.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "N65PuheRX5GfjZkA1V5yWcwwuWn+yubsikJGYLVW9v6xoW94WTz0MrQo3S8dRzAjnXVoAfrdhlzEaxtLHXirxLNOAlkSUOCd4m11s8qXYkTTZXHWrV9Qm/6jdZfoH0X5XvLCJheZ4d4C3GI4hzIcWjxYg5H/fsJ2LbRqXgWYI3oKGoA50KkeUa7JY/vxks5rJXVh/m7DSwiHobyR6OSUBZI9XZsq+Lj93Ok5I2YjJsdh/3AxZCcTyzsL+qIXeoluVN5RvaXmE2AchQYe+T9Hc7CwJeDaVyt/rnOT8yWFuZ5gRzPCbR93xIOPuONvOHgXpuL1/wweKUnvDZmP6OnMl+pMjrA/vdgfAzPuo5TQhNc8Tkjvk4asBSV6WldXp44ZaWhbyPyq7fHJmM0ENKn8Qp9fxKolkbgrrNzOa5kq0LDqncmgh92PgtJ2Q/PxHOuAR9jWXpPIaXQJGxiVL4Jp8M8wgVNeL+h8nKO/xDWwYxz2EuRAH49J5GkDBWU8mK8rwjZJ1mf90xyJY2b7D1MYBtPANfSw5yFqX+uvcTnX+zI=;54xVKFX4qq2OaoPVYGz5vA=="
 ---

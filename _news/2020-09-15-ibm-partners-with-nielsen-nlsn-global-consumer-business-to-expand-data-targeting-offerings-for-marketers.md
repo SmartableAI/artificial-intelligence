@@ -24,7 +24,7 @@ related:
   - title: "IBM and Nielsen launch cookie-less advertising tool"
     excerpt: "IBM and Nielsen have partnered on a measurement tool that links the weather and product sales without the use of cookies or third-party identifiers."
     publishedDateTime: 2020-09-16T10:06:00Z
-    webUrl: "https://www.research-live.com/article/news/ibm_and_nielsen_launch_cookie-less_advertising_tool/id/5074092"
+    webUrl: "https://www.research-live.com/article/news/ibm-and-nielsen-launch-cookieless-advertising-tool/id/5074092"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074092&name=ibm-and-nielsen-launch-cookieless-advertising-tool"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074092&name=ibm-and-nielsen-launch-cookieless-advertising-tool"
     type: article
