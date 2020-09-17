@@ -2,6 +2,179 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-01-call-journey-now-available-in-microsoft-azure-marketplace-and-app-source.md",
+      "title": "Call Journey Now Available in Microsoft Azure Marketplace and App Source",
+      "excerpt": "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17320531",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531",
+      "publishedDateTime": "2020-08-31T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-how-an-ai-platform-is-matching-employees-and-opportunities.md",
+      "title": "How An AI Platform Is Matching Employees And Opportunities",
+      "excerpt": "Instead of relying on data-driven signals of past accomplishments, Eightfold.ai is using AI to discover the innate capabilities of people and matching them to new opportunities in their own companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4c49bb86064d82fee750f6%2F0x0.jpg",
+          "width": 1199,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/amp/",
+      "publishedDateTime": "2020-08-31T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-more-businesses-are-using-ai-to-drive-user-experiences.md",
+      "title": "More Businesses Are Using AI to Drive User Experiences",
+      "excerpt": "Companies like TransUnion and Buffalo Jeans get improved sales, smarter marketing, improved IT uptime and more.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
+      "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/BT_Q320-Feat-Wong-AI-HERO.jpg?itok=MC6JSjke",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences?amp",
+      "publishedDateTime": "2020-08-31T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-teslas-slow-self-driving-progress-continues-with-green-light-warning.md",
+      "title": "Tesla’s slow self-driving progress continues with green light warning",
+      "excerpt": "The initial version of the stoplight feature would slow down for a stoplight whether it was red or green. The driver had to signal the car to proceed through the intersection if the light was green—otherwise,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
+      "originalUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1201203240-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-as-cto-uw-names-new-communication-leadership-director-and-more.md",
       "title": "Tech Moves: Former Amazon VP Brad Porter joins Scale AI as CTO; UW names new Communication Leadership director; and more",
       "excerpt": "Brad Porter, the longtime Amazon robotics leader, has surfaced as the first chief technology officer of Scale AI, a San Francisco-based company seeking to accelerate the development of",
@@ -964,187 +1137,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study.md",
-      "title": "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study",
-      "excerpt": "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17307001",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17307001",
-      "publishedDateTime": "2020-08-31T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening.md",
-      "title": "Facial recognition and bathtime bookings: How China's universities are reopening",
-      "excerpt": "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25R0UW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW",
-      "publishedDateTime": "2020-08-31T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.md",
-      "title": "Japan looks to AI as coronavirus challenges go-and-see quality control mantra",
-      "excerpt": "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J",
-          "width": 744,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25R0CP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP",
-      "publishedDateTime": "2020-08-31T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-this-ai-driven-video-editor-makes-it-easy-to-just-point-and-record.md",
-      "title": "This AI-Driven Video Editor Makes it Easy to Just Point and Record",
-      "excerpt": "VlogEasy is a video editor that automatically jump-cut edits videos for you. All you have to do is hit record or import footage from another camera and VlogEasy's AI will automatically remove the \"dead space\" to create a seamless,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355434",
-      "originalUrl": "https://www.entrepreneur.com/article/355434",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1598551887-Ent-VlogEasy.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355434",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355434",
-      "publishedDateTime": "2020-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

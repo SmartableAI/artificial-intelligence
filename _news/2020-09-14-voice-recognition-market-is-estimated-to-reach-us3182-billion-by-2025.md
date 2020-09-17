@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%"
-    excerpt: "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD"
-    publishedDateTime: 2020-09-17T00:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
+  - title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users"
+    excerpt: "T"
+    publishedDateTime: 2020-09-15T09:27:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-15/new-voice-recognition-biometrics-market-research-highlights-recovery-path-for-businesses-from-covid-19-based-on-end-users"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 29
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027 at a CAGR of 45.3%| Impact of COVID-19 on this Market"
-    excerpt: "According to this latest publication from Meticulous Research, the global artificial intelligence in the supply"
-    publishedDateTime: 2020-09-14T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of"
-    publishedDateTime: 2020-09-14T08:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
 
 secured: "3IAtd8YjXgqlbo4KROeUbhDFYxXKvib3+k/GHYvmkcH11oT6LRobdiQDDOALaLpuJb8egev94vEo/Tn5/pa4DTLnnlnFrBorKIusWg6ltjDJ8yy6Bn8/334VEdnyvQqVO5hgLSTtDzamlbjzD9F9VmueuLCJfuWBijembDjLhg8hmqmonJuIWHFmUCgxA6wIiXiCMRAFD95RjOHWFYPOqFQJfUE2xItiTiSEoYItKLFo/tKkOi0tj724LfW41vWXqmz9t8059EpXHOvv+6b8rl9BSlMU0b413VZQirq44tb/KUU5Bg57Cp1orLGSj9JA3jaDLlag8LeYwYOjo+J6nlvg4BSWaFpAH+Ud2DsYPiRtNnDDZkoeT22av2L+bgVR8EunnbwxRdQ03wN/SyQWnWe+GrPwikzVdmJalUGHcscebol8r/q0tR21ljjf1GzfLPiFbmUuItCs3CASHQSciys143CUeBXT3yoKnhBAsqxk79HAS7HYeNZtBYrHFZJT0YW6a8BC4thEuepSGsq2iQ==;Det4A5kQmlUrrrsm4Tkv3Q=="
 ---

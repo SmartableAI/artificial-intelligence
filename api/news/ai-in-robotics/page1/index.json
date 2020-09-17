@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-17-artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362.md",
+      "title": "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%",
+      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-pandemic-brings-robot-waiters-to-south-korean-restaurants.md",
       "title": "Pandemic brings robot waiters to South Korean restaurants",
       "excerpt": "South Korean telecom company KT has partnered with restaurant chain Mad for Garlic on a pilot program using an AI-powered serving robot in Seoul.",
@@ -1299,39 +1349,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life.md",
-      "title": "4 Robotics ETFs to Buy as AI Tightens Grip Over All Spheres of Life",
-      "excerpt": "We are living in an era largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "publishedDateTime": "2020-09-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

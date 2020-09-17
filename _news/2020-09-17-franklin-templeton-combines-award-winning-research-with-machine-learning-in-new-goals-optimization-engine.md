@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-17T04:56:00Z
 originalUrl: "https://www.marketwatch.com/press-release/franklin-templeton-combines-award-winning-research-with-machine-learning-in-new-goals-optimization-engine-2020-09-16"
 webUrl: "https://www.marketwatch.com/press-release/franklin-templeton-combines-award-winning-research-with-machine-learning-in-new-goals-optimization-engine-2020-09-16"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

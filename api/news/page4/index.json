@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai.md",
+      "title": "Nvidia's $40 billion Arm bet all about data centers, edge computing, AI",
+      "excerpt": "Arm combination is compelling on multiple fronts and could be \"a first class data center platform\" but now the parties just need regulators to buy into the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
+      "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/dc945c69-549b-484b-9ca6-ea09cbeaec97/nvidia-arm-circle.png",
+          "width": 881,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
+      "publishedDateTime": "2020-09-14T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
       "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
       "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
@@ -508,6 +558,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-artificial-intelligence-in-drug-discovery-market-size-worth-35-billion-by-2027-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799",
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799",
+      "publishedDateTime": "2020-09-14T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1079,105 +1170,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success.md",
-      "title": "How proquo ai Turns Marketing Art Into Science To Power Challenger Brands To Success",
-      "excerpt": "In a commoditised marketplace, it's your business's brand that will determine your success, believes proquo ai founder Nadim Sadek",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b950c00de1f2a3aef8e58%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D1372%26cropY2%3D3073",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
-      "publishedDateTime": "2020-09-13T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-even-if-elon-musks-neuralink-brain-chip-never-gives-us-telepathy-it-could-do-wonders-for-animal-testing.md",
-      "title": "Even if Elon Musk's Neuralink brain chip never gives us telepathy, it could do wonders for animal testing",
-      "excerpt": "Elon Musk hosted a live demo from his company Neuralink showing a pig named Gertrude with a computer chip in her brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5b555b7ed0ee001e25eb96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "publishedDateTime": "2020-09-13T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

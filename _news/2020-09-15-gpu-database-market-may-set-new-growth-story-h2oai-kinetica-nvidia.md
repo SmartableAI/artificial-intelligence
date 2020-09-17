@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market MAY SEE A BIG MOVE | Microsoft Corporation, NVIDIA Corporation, IBM Corporation, Google Inc."
-    excerpt: "The ‘ Artificial Intelligence (AI) in Drug Discovery market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers,"
-    publishedDateTime: 2020-09-15T10:15:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/15/artificial-intelligence-ai-in-drug-discovery-market-may-see-a-big-move-microsoft-corporation-nvidia-corporation-ibm-corporation-google-inc/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "4KM1N13ijf667E5elncXMpw7AwFsVRnrrcG5Av3d8+cAqKmBxw4RhMExAajwfWEmKSsDqIpGsbd7xyUzfannEJwj7SLnaFavM3jHAxNLVg00yy0J+a1oxpJF2WqPEyoZ5qrveVut6m/hLXc3FoR80BhdIjUFCb8oJ2ZlCvZsFFuCn+K3ibUcjPlpirnMUXAcuHFQdz7nmqYUWoeiutk2i0wWAChVgY9D9cLH4aE2ZafKy8K7/1TEwZjw068os9aIdAr9VQquVILpdz1gf1dZM8xV9c55t5o2wgMhhEGIWowTyoOckk3nsd36cPvvGYOV/jeEytdcO8zlG+oJi7jtgcTzBYegPZaJaLPlDQkRzuQ=;LKXQ3e05I9HBVgzRqnQXbA=="
 ---

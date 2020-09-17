@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
+      "title": "Corporate execs are starting to get skittish about AI",
+      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "publishedDateTime": "2020-07-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
       "title": "Work-at-home AI surveillance is a move in the wrong direction",
       "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",

@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
+    excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
+    publishedDateTime: 2020-09-14T12:13:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Speech-Recognition.jpg"
+        width: 1680
+        height: 840
+        isCached: true
+
 secured: "5WbCVINUUhfESGQi2weMqKmr38WiVCG06hvPYu1JUOnVAYNfcnC291LCjbHbsCmazm4QsfBk7NRPGbwNm2uKZEKQfwUJxQK6Nlpvd8DGJfOx6na1xAy8vRw9k9T13If/MIDT2PycygCQRb+7wgOB7mwmJqf7kMGkd7mjGH/DfklcNgqpEBrDAlnGtrv80dJK6Npe8BAx4Uk0lyLoRPvyULE104k//vlhZ5O57Jb7FySvXwHh76xPCV/fUsrY7brxuxTSLEPfuvzx2QvnnGLjwsHEeXc4VylMl12167dfvxPZl6EbpQTXzeK4XyFiu3OmTGtH89OnyYA4SoS0aluhRg/CYQV1UbNuEEqsuZn50Wc=;/2q4mAVdqgzWVqHd1yv5oA=="
 ---
 

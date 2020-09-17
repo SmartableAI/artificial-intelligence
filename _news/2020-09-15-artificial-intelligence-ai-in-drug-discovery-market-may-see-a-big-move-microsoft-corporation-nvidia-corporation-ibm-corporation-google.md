@@ -18,29 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence for Marketing Market Next Big Thing | Major Giants Albert Technologies, Google, NVIDIA, Intel"
-    excerpt: "A new market study is released on Global Artificial Intelligence for Marketing Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 150 Pages with easy to understand detailed analysis."
-    publishedDateTime: 2020-09-16T09:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-next-big-thing-major-giants-albert-technologies-google-nvidia-intel-2020-09-16?mod=mw_quote_news"
+  - title: "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of"
+    publishedDateTime: 2020-09-14T08:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
+    excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
+    publishedDateTime: 2020-09-13T19:20:00Z
+    webUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "GPU Database Market May Set New Growth Story | H2o.Ai, Kinetica, Nvidia"
-    excerpt: "Latest Market intelligence report released by HTF MI with title “Global GPU Database Market Report 2020” is designed covering micro level of analysis by manufacturers and key business segments. TheGlobal GPU Database Market survey analysisoffers energetic visions to conclude and study market size,"
-    publishedDateTime: 2020-09-15T04:25:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/15/gpu-database-market-may-set-new-growth-story-h2o-ai-kinetica-nvidia/"
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural"
+    publishedDateTime: 2020-09-15T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chipsets-market-worth-57-8-billion-by-2026---exclusive-report-by-marketsandmarkets-301130934.html"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "Xvkn+j7nUhE9zeFSWTkxpmW0+/9uSkozaeYAWlARaWXXS5Dso3MQP8od2eZ5dbvfHGxcO2MvsO9bT/1HDt4iCundUS1oGEN1aXSwzTEQZoJYbJg/2TCYtImXa+P1ngOZTmKlCxeRYP1RsSMEbBK/x6WGYRx8fHbGUSgB6Q1QziVYG4/4wX20q+4n5dN5r1GFlcSW55A+oIPwJxTqo0pKgICXdl7wAH+PgoJMQyDU5XtkiUMiyUJbQEbBzIJGbvikaI1TKJWDtg6XfLv/2hFDRmF0MoTmJgQsUiEj2lsIpkChEDcXa9I/6cQjwF+0UWRDXQaNpBI6ierjVJDqAZP/Ay+BJRNiYUABRwJoX8Kz4ww=;AkM5rfk7JjirhwkVtUpyOA=="
 ---

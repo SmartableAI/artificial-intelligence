@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-19-smart-dubais-artificial-intelligence-ethics-advisory-board-convenes-for-its-2nd-meeting-for-2020-explores-next-steps.md",
+      "title": "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps",
+      "excerpt": "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
+      "publishedDateTime": "2020-08-19T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization.md",
       "title": "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization",
       "excerpt": "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,",
@@ -1339,56 +1371,6 @@
         "name": "ITWeb",
         "domain": "itweb.co.za",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
-      "title": "Corporate execs are starting to get skittish about AI",
-      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
-      "publishedDateTime": "2020-07-20T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

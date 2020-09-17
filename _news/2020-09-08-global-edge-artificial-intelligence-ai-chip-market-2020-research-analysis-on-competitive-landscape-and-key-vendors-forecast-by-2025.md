@@ -3,8 +3,8 @@ category: news
 title: "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025"
 excerpt: "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market"
 publishedDateTime: 2020-09-07T20:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
+webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Y8gLtoVXZivrbGPQiqZzbbI3162hP2Tp+avkhNpb+s7zFZACqg86UwU+pjIVrrq+GGLzzlSMBM3aY0L1M9XyKHhEyOVWpQX9PRJsbEaiKXrK/3hd85zyRI7zCiDMU2hyybTTIlTK9E1vKjVDSs54uakrY7BqrVhlF4W00DQ6flGS7JZMaB82hGHUHg8R3IxHtir2TwCleIch4wR1x72UUKzKitxDGDiFSsX8A0EJwYqEPOO1Lvj/KLjgRW7652fi2ksEnk1xv63Jsq7NipxrO8cc8313qYyMocMwnxXD+uhuBO6eVYgxHwYOIVFCkUuClHxofep04v5O+oRNwShZ3ldw8Sot8XG24+QOa9Mfaso=;hegqKEabM5qVI5NehgA3Cw=="
+secured: "wxN7kpCfxRDYHsmTOQBGo4KNST83KaXFtr8SQs1F63Zda8sGqC16IYzuZtVkiwr7DYOdHN62/98fOlLb57EN84En2ki9xDPcCiWS8sY4En89gaWVK8vTTG1rLhO/eend2Y0SzvzXL5qdLy7ovU9bG/pwyCzQq+loL6EhGtQRtH6He4TJjYAJmJ630zxnAvQb3i7X1qDjTlDpenLBlFq8wbo4ELO/+XSQalhSj725sBavq0nfF7bcLmiNF1SPl4QxNeQUxgwmnDhmRF+mVadnasQfYzt7s/w2PnIwQJxFZpHihh3rHSxBgIwnVgiRdW/rHRWZRIzOkrSffo1KYzVAhRgR6CUnIYVDy/TAEQ/qFkM=;Pt1xh8mmFaj+DJpYlgvq4A=="
 ---
 

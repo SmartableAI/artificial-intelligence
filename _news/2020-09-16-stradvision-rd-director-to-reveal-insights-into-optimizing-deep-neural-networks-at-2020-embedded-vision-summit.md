@@ -1,28 +1,28 @@
 ---
 category: news
 title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and"
-publishedDateTime: 2020-09-16T14:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
+excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal insights into optimizing Deep Neural Networks (DNNs) for multiple processors at the 2020 Embedded Vision Summit."
+publishedDateTime: 2020-09-16T14:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
+webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
 type: article
-quality: 4
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-    width: 1413
-    height: 740
-    isCached: true
 
 related:
   - title: "Eta Compute Will Demo Person Detection and People Counting in milliwatt At The 2020 Embedded Vision Summit"
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "gRoYnebwyzekQ1UEJclby9eheAYYPwAfTLq8S/ep9xdCBBcCzSGrKMMqAiIoCpdpE2LiNX/5KIvF3Rdv3LTQ3wRRhlI5mP7pW//Hsu89oMCmtrapdGlo6JSSqUoNMNOiPlFSnvngiQndnqtmne97ftEBE7po2ZGnZDzPDj4nWOucGHOnzCuXTHmR/5ih1EjGCeVMSEF0OS4cw3TqYsioo9o2pCqRUsxpqgvwhdaEK+QSGFAd8ZcOc84Vbk0OSX59j8WtleMGe0ZdRD8tgzQxd+3nQVCOrQu8Avpf7tRkZb9c3m7+36oj/+I8LhuGkIUzQYKrmeIwWoBbUAhqhwIjvxWLWWy4Tz9hg7+yGijJr8k=;U4kumWoe+w/WrPRPiFsI0Q=="
+secured: "pj+9EbNolDH1PBfQmqqNFzAwLkN9WwSWl+VSWaTB+FBtado3+TkhlkzObCTKru/jbdwbayVxfTHdOs7+0sjXw7FHq3F+MUuWtLeucsMMZU+y/YkYoIoGlDZ2Ah98+DVKtUQkIaU3VLoiO4npx8pkH/ukBq9+AP7PJaPdlxqSp5zJQnC9C9j41W5CGKMNf16J+BebUxzpCKapvoSTQuLveJEvtOHl2DZw8BKdk3VaftjA3BI5w54mEJ7eYk7WnQHYOXdu1mLr1IcSf1pLudyT5S9pDpBl+r9VxC9e/odBPKBij4MQetNnkz7t0qSamsctCK1XlN/lD/VglfP2Eeutt6VtYuMfcGK+pttATs3SQOc=;uCOJRmuveDicNlA2MQx7Cg=="
 ---
 

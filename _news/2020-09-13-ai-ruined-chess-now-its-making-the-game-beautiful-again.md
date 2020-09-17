@@ -3,8 +3,8 @@ category: news
 title: "AI ruined chess. Now it’s making the game beautiful again"
 excerpt: "Chess has a reputation for cold logic, but Vladimir Kramnik loves the game for its beauty. “It’s a kind of creation,” he says. His passion for the artistry of minds clashing over the board, trading complex but elegant provocations and counters,"
 publishedDateTime: 2020-09-13T11:10:00Z
-originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
-webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
+originalUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=80"
+webUrl: "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/?comments=1&start=80"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 380
     isCached: true
 
-secured: "DrWPoqqeH4XI0owJ0s4o1HRkOhtFMK4dDFJ9bAu3tVlkhPWsaVLEXZqlWuluXGvqYKDDhmXL938ifG9bYaCjo6WV8z7GGmbSKJbOwjmTWQjVlGRAkqO4407/+EZAYWcPc1XXcor30vc1o8kk24xR92vSF/zopOPa+z0aF1Nu6O60pOzmYa7Arf9O7wMQZaWgkZEYsun7KUsm5gmu4+PieMfBFX7f3ENrKwTFerFPLim1hog10hMP2nqlA3xPLFf4tXsSnBejsFaC6lkWlH6EUjjnpXhDsgyfrSvB4BQz5No+nIMx6KW7MDRVZXSEVMyts0ZJdc5GOe1LiE35hrQWoTqTpDZthSzN4QbTaeFLHKw=;lvUdq1zInpI4db02AHbtXA=="
+secured: "2C3GeY5nPZpJoe9ni8FSBAx5ukjLTySyySnPJZhV09Wl9uCbH2qrN2mlaE2y6BnKlzrfwR7eNPbaVdTnebEiw6o5dLpQois1NCCUJaZ/nRl1VVYHBZ7/t5BJliCzwzmeWRp6jlS+NYNenbDbYowGEyEHNnsRaCOPapHVvEra9aRmh8eqbFijb9E2cr/jaFk7Ix4mWfxp4Zg1LNW2NviPRiTwq47w+QA9bmIflPEhOpn3+26yrZv5rVb11h9exD5/quRT2o45J69ol9UhaTfbAQgg6ysrJtetp3arKdtnG1fiXjC2AH13BrIDzXR8akngfpqelsybtMXidIew5qzYnodfuMNlSmnRigcYGEJvY3c=;a3kN7AzroNhpwz5AyJLH5w=="
 ---
 

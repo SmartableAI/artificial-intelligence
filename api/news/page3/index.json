@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-15-this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi.md",
+      "title": "This Biotech Startup Just Raised $47 Million To Make Drugs From Fungi",
+      "excerpt": "In order to find the next penicillin, Menlo Park-based startup Hexagon Bio uses an AI platform to sequence the genomes of fungi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60219eda89508c74189be4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D995%26cropY1%3D403%26cropY2%3D964",
+          "width": 995,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/amp/",
+      "publishedDateTime": "2020-09-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-ai-robot-serves-customers-at-seoul-restaurant.md",
       "title": "A.I. robot serves customers at Seoul restaurant",
       "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
@@ -1109,56 +1158,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai.md",
-      "title": "Nvidia's $40 billion Arm bet all about data centers, edge computing, AI",
-      "excerpt": "Arm combination is compelling on multiple fronts and could be \"a first class data center platform\" but now the parties just need regulators to buy into the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/dc945c69-549b-484b-9ca6-ea09cbeaec97/nvidia-arm-circle.png",
-          "width": 881,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "publishedDateTime": "2020-09-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

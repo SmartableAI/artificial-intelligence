@@ -9,7 +9,7 @@
       "webUrl": "https://www.entrepreneur.com/article/356293",
       "originalUrl": "https://www.entrepreneur.com/article/356293",
       "featuredContent": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -47,7 +47,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -58,7 +59,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "featuredContent": null,
-      "heat": 92,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -96,7 +97,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -246,6 +248,55 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-lutherai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations.md",
+      "title": "Luther.AI is a new AI tool that acts like Google for personal conversations",
+      "excerpt": "When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you came up with at a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "originalUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-09/16/5f62658d2be1612af543ea3d/5f6265e48a54cc704a8a71ba_o_U_v1.jpg?w=550&h=310",
+          "width": 550,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "publishedDateTime": "2020-09-16T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -929,7 +980,7 @@
       "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "featuredContent": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1140,56 +1191,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-amazon-personalize-now-available-in-eu-frankfurt-region.md",
-      "title": "Amazon Personalize now available in EU (Frankfurt) Region",
-      "excerpt": "Amazon Personalize is a machine learning (ML) service that enables you to personalize your website, app, ads, emails, and more with private, custom ML models that you can create with no prior ML experience. We’re excited to announce the general availability of Amazon Personalize in the EU (Frankfurt)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T17:19:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition is coming to domestic air travel"
-    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
-    publishedDateTime: 2020-09-12T14:17:00Z
-    webUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 34
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
     publishedDateTime: 2020-09-14T15:30:00Z

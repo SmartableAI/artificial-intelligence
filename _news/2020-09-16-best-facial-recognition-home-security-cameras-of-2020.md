@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition is coming to domestic air travel"
-    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
-    publishedDateTime: 2020-09-12T14:17:00Z
-    webUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 34
   - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
     excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
     publishedDateTime: 2020-09-14T14:17:00Z

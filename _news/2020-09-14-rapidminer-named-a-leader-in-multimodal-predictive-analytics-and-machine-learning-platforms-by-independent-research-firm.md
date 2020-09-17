@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,16 +22,14 @@ topics:
 
 related:
   - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
-    publishedDateTime: 2020-09-16T11:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
+    excerpt: "SAS has been named a leader in The Forrester Wave(TM): Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS"
+    publishedDateTime: 2020-09-16T11:26:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "l6nYdRegDIUxOzxoHBzgr/ldTixf4mJOBYiOD0f5twQbznoZyJdZ4OFvSjHGKx7dtZ6YZccX48VUcNo/hb7/++AGTochypWCsOyZUJRQuFkvz9Zka1Z6I5mKhDNXLbfh4kzZtBc4O+2dqA34cpdOeMuAMqkHS2KMvIlGKmTauAzZoZPEa/sIb2f8vMiA+/oDUMKu+ErUNAJ3IqAJvmC6Wy/geOyQBMoscXqYmY2k8X11y4I2X1RraTYOjtjIQbwWFnD9T7K0vIk9Lm3738XXn77ivk8Ku+9WfoF8BR5WbNasSVZMgyYzdT4LMLxxjIXX7jR6qBfe01GhIHyBneWzakfIv+7Den/CLZFUv00Mejo=;rKzWL7QF050OuACyNcrAyg=="
 ---

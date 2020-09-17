@@ -342,6 +342,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-09-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.md",
+      "title": "How the Trevor Project is using AI to prevent LGBTQ suicides",
+      "excerpt": "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner",
+      "originalUrl": "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-rethinking-ai-ethics-asimov-has-a-lot-to-answer-for.md",
       "title": "Rethinking AI Ethics - Asimov has a lot to answer for",
       "excerpt": "Is the current obsession with AI Ethics doing any good? Maybe Asimov's Three Laws of Robotics wasn't such a great starting point after all",
@@ -1289,38 +1330,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-smart-dubais-artificial-intelligence-ethics-advisory-board-convenes-for-its-2nd-meeting-for-2020-explores-next-steps.md",
-      "title": "Smart Dubai's artificial intelligence ethics advisory board convenes for its 2nd meeting for 2020, explores next steps",
-      "excerpt": "The meeting was split into three main portions, presenting options for the future roll-out of tools for better AI, considering the potential of AI Audit Practices, and Cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Smart_Dubais_artificial_intelligence_ethics_advisory_board_convenes_for_its_2nd_meeting_for_2020_explores_next_steps-ZAWYA20200819101836/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819101836/",
-      "publishedDateTime": "2020-08-19T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

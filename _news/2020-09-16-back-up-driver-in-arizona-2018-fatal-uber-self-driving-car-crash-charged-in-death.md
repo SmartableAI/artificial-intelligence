@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-publishedDateTime: 2020-09-16T02:53:00Z
-originalUrl: "https://www.reuters.com/article/uber-selfdriving-idUSL1N2GC2E3"
-webUrl: "https://www.reuters.com/article/uber-selfdriving-idUSL1N2GC2E3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GC2E3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GC2E3"
+excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+publishedDateTime: 2020-09-15T22:00:00Z
+originalUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
+webUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
 type: article
 quality: 49
 heat: -1
@@ -23,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -164,22 +168,6 @@ related:
         width: 2000
         height: 1403
         isCached: true
-  - title: "Oklahoman Nabbed For Driving Au Naturel, Which Reveals Eye-Opening Self-Driving Car Insights"
-    excerpt: "A recent news item that received rather startling reactions involved an Oklahoman that decided to get some fast food by using a drive-thru at a Taco Bell, which might not seem especially newsworthy except for the fact that the man was driving his car while completely unclothed."
-    publishedDateTime: 2020-09-12T14:24:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/12/oklahoman-nabbed-for-driving-au-naturel-which-reveals-eye-opening-self-driving-car-insights/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ee4b99ee35cdd6fa3accd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2760%26cropY1%3D180%26cropY2%3D1734"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'"
     excerpt: "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\""
     publishedDateTime: 2020-09-16T15:00:00Z
@@ -196,16 +184,16 @@ related:
         width: 3290
         height: 2320
         isCached: true
-  - title: "Safety Driver in Fatal Arizona Uber Self-Driving Car Crash Charged With Homicide"
-    excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-    publishedDateTime: 2020-09-16T00:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+  - title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
+    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+    publishedDateTime: 2020-09-15T22:00:00Z
+    webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 49
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
@@ -442,6 +430,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "tvKbcvSA+Z6QdVUn6coL7o7j25vB0Rjwc7Xyxql8hoT4oyzouc37MM5tKPSLjboYuMV5b308SepNwIWKjBfOBhSygxLUgKfo1zJdIQQr1LG5z4P4xwOmaVgKo1bmq+KlTwBZxKsMeOdt/SVGVL94BnrOhqmMPwFI/jGFsdMOneWL4oP2XFZWkSXJYp820jq3EMIYZH5GwborwcXsTp2cpmUsTKhNAwnh+HZHz6gUgFdFe1jtwp1oWzbxcFpMUmEAEvDhDsh91r+TyHejIGZssX8RIkH1o6EqeVOt0bAuOAyG4c3lWKzE8AWQq5Asm3VmhHc/uBY5XYTyxFFUtD3ktSNuvshWDHc7Z57pyvQro7s=;kpnDxQquk7Gx5NFrQB6JMw=="
+secured: "tmrCgWHUQkPevKP7/fwbJcwxesRUSdlm1LbMMKIJrDcXfeGdpsasyHAv+g3HWrGlFrpYDthjC8pu40prxD6MDigijRjhzbL2ei279YEPNoNCldaiG8dg+3/+hsdcRHUkw/d/p0SAs25XRGhU9gojE3DZsKoLlJU8HuOUWBJrFcLEvtSsTdHTZa4W5DNU07DR+PEl4TcR4+cw4dCP8HZEOP83CaV9k8Swtn4pJujyGeuT4YRFw93uzHc9xeAD+gAvQDOfpziINKKp+xu3k29RvNvJ4/6KKwGrvX2fA5uNzbKq8teBJ7fxShczq9kmAjrcttoAnfi8srCAZuRdLQj1YHcTf4EmvvxlBTiDLhMrm78=;EcWRb5bqDI0OUdLfCx2jqw=="
 ---
 

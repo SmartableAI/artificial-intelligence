@@ -1,27 +1,27 @@
 ---
 category: news
 title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in"
+excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in energy systems and advance the net zero carbon goals of both companies."
 publishedDateTime: 2020-09-15T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-301130725.html"
-webUrl: "https://www.prnewswire.com/news-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-301130725.html"
+originalUrl: "https://apnews.com/pr-newswire/f9a8b5401928f74988a829b7d8469bae"
+webUrl: "https://apnews.com/pr-newswire/f9a8b5401928f74988a829b7d8469bae"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-    width: 2695
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
       domain: arabianindustry.com
     quality: 3
 
-secured: "p2JCYv7JRVEPYFPk6YC4KbVVaS1nl0EWLYwRsRSZ4SO/cafVkWYbl8iMizbHs8N2/48cyVMlwQOFmk0xVxsRf4YdCNEa4DR287GcdeNmmJkAOrLeu1vCb84P41CDPRTp45N5snEeNITTADzwNL9XFXaQ2uJIU1LcyY6mLSD9g+ia2r/A82CcaRmd3H/mawqTwh1pxS5qS24lng9QTJTDf2bskO5GsCWny0b8AyzfAHPsDukjcJs2Q+eO+YIwdQqeW8I0MlgjlZopw3IUVzRxSV3NWSdlQCvAwwYzpbVvuhodhYrfMnhRkUbAj9XomodDwFTw2SC05ZPmQ4i6A2958joTkLUnSKQvjMUZHXm0iNs=;g2t/NuOR5q6Vf78ZjZYF+Q=="
+secured: "/D2VdopPW6zNA8KpNLnbF9sZFnl8ZHJmigSrLxnjm5OYz10I8c2DeXxQF+R7919qA6LCqfT6aV953F8vH4kpk2CPxF8j+oogJj9eNsACudH4IsS3j9+LR023XPd81uKj40WPsuTSJ0MtPOdDgI53TYMYjlGxFlpYD98Yix4x4KnFgNI04OSRdAjgco2lznmkk7MQ7pk40poaPyhWOMQIgrSdwW4IH2fdIwo3Dg/fqpCx48op8WUtA0qgfl8+G4DIkYFq6NmRqnGpS6H/RiHeGT0/ioh15sPanRjZimNf05v3M8oEpgL0PcPg1Tz5kZgPFTcYtjGf/thMTW2bjphKejwwUTFL2jxCcGuNlY/Wxyk=;cYGNYuUTWS0XKsqWqxjP0g=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Appsbroker Recognised as Google Cloud Managed Service Provider"
-excerpt: "Appsbroker is delighted to announce that it has been awarded the prestigious Google Cloud Managed Service Provider (MSP)"
+excerpt: "Appsbroker is delighted to announce that it has been awarded the prestigious Google Cloud Managed Service Provider (MSP) Partner status."
 publishedDateTime: 2020-09-07T07:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17398459"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17398459"
+originalUrl: "https://www.prnewswire.com/news-releases/appsbroker-recognised-as-google-cloud-managed-service-provider-301124536.html"
+webUrl: "https://www.prnewswire.com/news-releases/appsbroker-recognised-as-google-cloud-managed-service-provider-301124536.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1249278/Google_Partner_Badge.jpg"
-    width: 400
-    height: 253
+  - url: "https://mma.prnewswire.com/media/1249278/Google_Partner_Badge.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
-secured: "c9O5zHtNJalSAByTeoQDT/1tg+3k1hvoMRtMfXoWFOJLiTdi+2UTAvY/fD1rV9uiKUtwxXpQjA+EI1uStqa1VNBGpazAvazGh74Yy5Sca2fgVFh/6Vi7QvAtfS9Vu9LeSPw6viJ4XXqqHC09Znsfz3eepMwTxBwnJ0Mrk+mcNYuFIrbo3D5tPo7Tmgq2ZAY7tomzDzFeCRhPEWVBjgxFNiX9FT0mQJDAha8Gr2c9B3PMnZT4AIGy3sFYv8r7qrjZHbt7FHw3Fwq/xEjmVXEaJ3/f6/6VkmfW9WIoi5pnJdhxyZBJ+BLsuSZYhK7a8yqFpahktc9agcmphs3nHWYiMK+XSzCw44sXYZiF3Yj42Bk=;mmaR8f0gPSdP2iqwpSZNuQ=="
+secured: "2KBL8woC0ni6UfPfxtNIZJzO0v0vujQoCnD/A4dzvIwN5FR2Cwrj+FGKiRKs15C5RHDmnJk96B2JK9X77S6Ty+OEX2OzhYHsVd97/MfOSDXIznOZGz0XAvgo+EX6Qq/7hBuv/zx7nNXMpNTS4YCb+MHmMtFtAwVEGzdEUK7T5MnEP/s95sfszJwe8qhqgBzmsP7kmGxu8EtmXE64f4YQjxj2fYu4ry1yblntYpM0GdluWm92jMK08wkmv9vPUjrdBjh5MT4GtII6xEa5tTW4O6F2yxmRxrm+xcfFIINd1qimHv9i6cgea2laHtn0wGvhkW92aXk57OkHKkn68MdrB4dh8Mo3jRsEz3Zp4+IVSCY=;HambemI3j2iM48zW0eH0Zg=="
 ---
 

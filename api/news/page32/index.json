@@ -2,6 +2,161 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-24-nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention.md",
+      "title": "NSW government taps into AI and satellite data for bushfire detection and prevention",
+      "excerpt": "The New South Wales government has announced it will be investigating how artificial intelligence, combined with data from satellites and local sensor networks, can be used to help speed up bushfire detection and predict fire behaviour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
+      "publishedDateTime": "2020-08-23T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-socionext-and-osaka-university-develop-deep-learning-method-for-object-detection.md",
+      "title": "Socionext and Osaka University develop deep learning method for object detection",
+      "excerpt": "Socionext and a research group at Osaka University Institute for Datability Science, have developed a method of deep learning, which enables image recognition and object detection",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/socionext-and-osaka-university-develop-deep-learning-method-for-object-detection/229831/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/socionext-and-osaka-university-develop-deep-learning-method-for-object-detection/229831/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-23T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-the-term-ethical-ai-is-finally-starting-to-mean-something.md",
+      "title": "The term ‘ethical AI’ is finally starting to mean something",
+      "excerpt": "By framing ethical problems as narrow issues of fairness and accuracy, companies could equate expanded data collection with investing in “ethical AI.” The efforts of tech companies to champion fairness-related codes illustrate this point: In January 2018,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
+      "originalUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data_public.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/amp/",
+      "publishedDateTime": "2020-08-23T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook Wants To Help Build AI That Can Remember Everything For You",
+      "excerpt": "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives.",
+      "sourceUrl": null,
+      "webUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "originalUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "publishedDateTime": "2020-08-23T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-ai-pilot-beats-human-in-clean-sweep-of-virtual-f-16-dogfights-human-fails-to-register-a-single-hit.md",
       "title": "AI pilot beats human in clean sweep of virtual F-16 dogfights, human fails to register a single hit",
       "excerpt": "An AI pilot defeated a human pilot in a clean sweep of virtual reality dogfights, with experts hailing the victory as a significant moment for artificial intelligence, sources reported.",
@@ -944,179 +1099,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-darpa-chip-effort-advances-ai-hardware.md",
-      "title": "DARPA Chip Effort Advances AI Hardware",
-      "excerpt": "The Defense Advanced Research Projects Agency’s Electronics Resurgence Initiative (ERI) includes development efforts aimed at AI hardware components",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "originalUrl": "https://www.datanami.com/2020/08/21/darpa-chip-effort-advances-ai-hardware/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/brain_chip_shutterstock_Zapp2Photo.jpg",
-          "width": 1000,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-1029525130",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-1029525130",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
-      "title": "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
-      "excerpt": "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-21T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-22-heres-the-smallest-aiml-supercomputer-ever.md",
-      "title": "Here's the smallest AI/ML supercomputer ever",
-      "excerpt": "The SX-Aurora Tsubasa AI Platform supports both Python and TensorFlow development environments as well programming languages such as C/C++ and Fortran. NEC offers multiple versions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "originalUrl": "https://www.techradar.com/news/heres-the-smallest-aiml-supercomputer-ever",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/heres-the-smallest-aiml-supercomputer-ever",
-      "publishedDateTime": "2020-08-21T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
