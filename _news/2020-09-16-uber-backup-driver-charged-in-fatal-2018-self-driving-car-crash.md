@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
 type: article
 quality: 74
-heat: 354
+heat: 364
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F025fb570-f7cb-11ea-bfbf-c7f295791eb4&client=amp-blogside-v2&signature=d24d5c6c8b0aa170ff84e24a5bfe40df270c9470"
         width: 600
         height: 350
+        isCached: true
+  - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
+    excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+    publishedDateTime: 2020-09-17T16:15:00Z
+    webUrl: "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 72
+    images:
+      - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
+        width: 4200
+        height: 2359
         isCached: true
   - title: "Uber Driver Charged With Negligent Homicide in Fatal Self-Driving Car Collision"
     excerpt: "Rafael Vasquez was supposed to be watching the road, but she was looking down at a video on her phone at the time her autonomous vehicle struck and killed a pedestrian."

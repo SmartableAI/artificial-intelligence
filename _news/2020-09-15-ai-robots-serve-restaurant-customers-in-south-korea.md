@@ -40,21 +40,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "AI robot serves customers at Seoul restaurant"
-    excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (AI), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
-    publishedDateTime: 2020-09-16T13:06:00Z
-    webUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333"
-    ampWebUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
+  - title: "A.I. robot serves customers at Seoul restaurant"
+    excerpt: "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
+    publishedDateTime: 2020-09-15T20:08:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/ai_6.jpg?itok=b49xK7Wy"
-        width: 560
-        height: 292
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Artificial intelligence robot 'Aglio Kim' serves customers at Seoul restaurant"
     excerpt: "The A.I. robot is equipped with food trays which can carry up to 30 kilograms and an LCD screen and speaker that communicate in both Korean and English."

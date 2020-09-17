@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market –Analysis and Forecast (2019-2026) – by Offering, by Technology, by End-user Industry and by Regions"
-    excerpt: "Market is the inevitable revolutionary in the future technological landscape. With 397 deals and $XX million in funding, the year 2018 witnessed a new high in terms of deals and dollars related to artificial intelligence ventures vis-à-vis deals and $ XX million in 2026."
-    publishedDateTime: 2020-09-13T08:51:00Z
-    webUrl: "https://galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/940166/artificial-intelligence-ai-market-analysis-and-forecast-2019-2026-by-offering-by-technology-by-end-user-industry-and-by-regions/amp/"
+  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
+    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
+    publishedDateTime: 2020-09-17T19:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 43
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/08/bYy6ax_400x400.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QqpESxCJyR5RnSNMNrRmuvODvEHUeM20og1pmm3e0+fOVPUbBOgVAfNFG7zqd9NK0+ZylfIruDPvqghIZD6w/rq/X9Apf2GsvsuCCPnU3Uwm7tY2fpzNbZLe7GPEZdG4u5473UhbCp1qojRpKctKR4DnOqos8mCfwf6Dqqw+fdqsiPH+Wk+AB0bF8VOIv5MmTFCnbNxJw67ktJIKn7yUguRxxrptDph05zp6SA77W0dlD6e2rZIgC1QPMg64wqC8qTgO6kVV6NANUKaK72fJnsZn0kbPGY5amacZDX0x8VoxWGBOSkMFOGa2dotEeVp3eH05XmBos7KKy53z9Qe2kA4skOY02GilDbzKhRnEFAs=;0q1BZSaHs4EH7+rGl+lzzQ=="

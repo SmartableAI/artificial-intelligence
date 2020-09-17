@@ -1,29 +1,33 @@
 ---
 category: news
-title: "AI robot serves customers at Seoul restaurant"
-excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (AI), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
-publishedDateTime: 2020-09-16T13:06:00Z
-originalUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333"
-webUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333"
-ampWebUrl: "https://www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
-cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/bytes/news/ai-robot-serves-customers-seoul-restaurant-1962333?amp"
+title: "A.I. robot serves customers at Seoul restaurant"
+excerpt: "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
+publishedDateTime: 2020-09-15T20:08:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
-quality: 74
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Daily Star
-  domain: thedailystar.net
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/ai_6.jpg?itok=b49xK7Wy"
-    width: 560
-    height: 292
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -119,6 +123,6 @@ related:
         height: 675
         isCached: true
 
-secured: "p3oj8fTzGKbqRRsRzTdJ+m3TtFqCFsYxiN7zTR4TXZRSEMt1gKIYx/Jkc2xUhI08O1DBLkOBuVDQ72r8QxvsVGT8gOj5rAYPYWe5HktZPn5x8CYSogkHVHIm7EZmrJJr2cAWfSZTjMVd6gUkSTRwMJZC3jBNSFjoNy/pKOHPXI5rnJuBcZSoWBNpB3oXf15ZY26vUlXO7/l3ngYDQGjZk8IsaExmvUSo7XMl90cXWOItZypyS9aZwBJKyJ5cnIp2Dqto5Hb0V8z+lKZ2bt9kBhAmdj40hLiAbcDJxt5HFt1oXR1tBxuVi4uUlatPAwtunwajfC54GPxmVzY3B+MwVqAjwHSJ5TZUP8VAv9/6Ye4=;jrej3snteawNKY9qjYTVQw=="
+secured: "vLpvdH4AYNfHmZGGhstj43SKYuU6KFvaZ0w8VBIiwgRO009xY7M/8wd5iA07W+X2ORic3MvmgCf8bxWOKz1T0sTJiZGNy8ESVf4b09mfwbVIIYOPjQa/ikW2A6mbyDaG0tuKj2P4KVYZs5YvVRXF3BxlsvKyzFPIIm0zDaxvSx49MPjwr+LXzdmE9ZnlZujrqap857QuTGIWxSKY5HC74/obOrnUCdIc5+Qj5i/XqEWNGO4XQS6u5cw5m84NKAsgcZeQ49T2haoYEnbJsLnqcGhvMh9GwaI5mL12fb4Y6IlOn+BpeRxpK4Nw80I34a5xxxN0ozSd5hBKuHS81zEunIngaqmMCGEwxbdRhlQ16eo=;bCw+dPLzL1aiNg12x2QFig=="
 ---
 

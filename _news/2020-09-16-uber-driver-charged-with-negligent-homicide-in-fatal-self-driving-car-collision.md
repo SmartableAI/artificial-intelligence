@@ -111,6 +111,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
+    excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+    publishedDateTime: 2020-09-17T16:15:00Z
+    webUrl: "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 72
+    images:
+      - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
+        width: 4200
+        height: 2359
+        isCached: true
   - title: "Driver in fatal 2018 Uber self-driving car crash charged with negligent homicide"
     excerpt: "Rafaela Vasquez, who was operating the self-driving Uber car at the time of the crash, has been charged in Maricopa County Superior Court."
     publishedDateTime: 2020-09-16T14:35:00Z

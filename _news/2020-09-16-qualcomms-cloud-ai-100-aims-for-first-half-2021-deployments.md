@@ -3,10 +3,10 @@ category: news
 title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
 excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
 publishedDateTime: 2020-09-16T10:30:00Z
-originalUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
 type: article
 quality: 67
 heat: -1
@@ -77,6 +77,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "3lVK5KpA00L/SjgHYA7A2BLE7TyEvnMpnfRDlT9ZqUvC/p7varf9qyGbjDDoqn2/EsG8EGr/nmTICYxXTVmM7bpdw4jw6XphB/eLHNYSAwalVBzJ0Y+so1Qu5XqcghzQpjneQFRmZXmZ/7FDCrXtM1tFRXImM2W2vZoKWgppiZGnpZZ/YA0v+qGnp5ZSeyOaXXE0IeipAE41KkwB9z4PDBk9FeGJ43A4UWnUN+TbrqfAjsflBO5yezyyJP4pp1L1vERe6Phpi+JDlRhiSP1OBxEZVtoF3YEQKdyT70BFoV1aXAh0oDUqJGHSIENeSenpuHGLJvyrYR+/wVBprbWBfE00mv9L0Jew69WEDvtFJ7XuHalwAA2wVfmV11BJPa2Y8DwwS2xbVO5anV/qQeLRK3KLjFabhgZ4CddTP0MgnCRwY/bHPbRmUTVDzHFtIKxWlxAyMmkh12q3ip7w9cUUlLH17MjTUPwRQeWRMKR0elNvXwjeZ1ziHl9rYjC1/matCoyfaG7zSyJCjKW3vPV/Cw==;AxEzo4ZIIUHghTlLfYmwTw=="
+secured: "dHH/mD5kfXoM3yslvV2mBujTH0z8zda/QJ5iNfnk8fUf5h0YDE9UBZSrfgctd6McSzvVSp4jaqGW26ZNGFYNcbtSdUuPPyezEM2psvZ0zzQQNcDjvcC3Y25kjJDjqURTFuj7poDtL3yhZWXbfb8Qm23drfgVIAfZxhV4lARRG36IeqxHgToUJq7ElYy1Q5fTg9qA/77S7vLry/UBpvKrwJ2+RAMo3NlxLgSD45yRj9nPbLOTtuiD8Oqkc/Kbz6ZIVW6/8YOccTFa/kp4mNcPykZnhxriCXGiLwBwKI7b33vxtysWKVUIOwI4R2kDtHtg9ojJSeLA3/N5XdXlFMzU9+xj9GRvcBC2Hm575xUgWkCb7pC6ZFSxbg+busB+Y2rII9BcmrKY7Eh70JCjKMUsHSFQ8b6j4wN+ubCemwrESN1rkL4Nhws46ZmK0NYD6e7nx6X4ESN86cpanTzYV40kerCuMmGsOPmgJcfeBChrwd24YLiPy9279ftwTNqfrsUvJkD/jCckyNTMpkiWCeX+AA==;zbH02FM1boE4geWALZg0VA=="
 ---
 

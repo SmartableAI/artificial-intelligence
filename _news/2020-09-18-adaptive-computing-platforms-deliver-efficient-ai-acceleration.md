@@ -8,8 +8,9 @@ webUrl: "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver
 ampWebUrl: "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1200&#038;strip=all"
@@ -28,6 +30,6 @@ images:
     height: 617
     isCached: true
 
-secured: "z6q1mzmj62kN4BYzrBTLfB1IDV7bL82cSsUF/HCF8+NLhMJVFPoxmc/H+QPp4gZZ7E6OchT5HzKCWR+4OdAMwFrPO3DnSqfNtAudwAxUGdM5/VTk1dfeN7ACznm9GKQHnjXiMyGLCmVjcSIYI25aLz8Kk3dYhkxNPumAfO2j9NTxL8L4nbeVQROLNokyixc71wp2kxRHrR8MScTLeIY5iyhB0dtTds5Qd5kwhXFMTuQP9+JQzi+nzSTqAQoi95pOW6VUcHYWbxqbeEbeKwE33CHgguOytgy6cfJOIY73O4ELqO7r8himI6QtPuJTBlbq3hxuFpRKuIuUP/9RPHu2/6WBlbYjzQyGDfMojyAt8PQ=;IyHo64Q1dspTAT3Wvc8tGg=="
+secured: "lrn9Qgsp9pek6idGUf+cBqCIRKtaBm6Wc8I+4JO7atqyXkvvLOBRKHkuDWean1L9yx+qsidRRuNRbqV36g92AEP38P0+E4VHfgC1kxCaV5QeFG1DKFvCSdvWVraCfTH02bTH53jqe9VDKUaSFSm4QYZdNdskzlJFOCC1QAjFD07vp9g7h/j4MglyvYOOmDv5QAxKDObnVBBpImri4glD3JYmJiq6dg1Z1CNI/tiR7aDiaxHpRWqyLznsf2jgeYs6GqEPfDmhKRwQ7T6hQ+6pCpxgnIpLLP4qULBhDCya4+pYVP38xEPy0jd960RxrY8Jw4YisyW09fkONPxyAVrxkKnLX38OHP2D4u2NFUDNnapNCF4YOUQ6LSDDK8uZot4eJxUtMjpq6FwS5KQlnH6EoqPE1LXxbS5xHqurGHzB5PmsAprQvKyhekP+P6xiHRYfaNVnDQrLqJ6i9/nJCZwRMPBFlehyl14VwnSyyyLb10KULgywcDKFNWli6ysKDQ5/CmpVuV7qWpOsA8tKZcHv+w==;jIzDD6OhoZgFZyQatwgJnQ=="
 ---
 

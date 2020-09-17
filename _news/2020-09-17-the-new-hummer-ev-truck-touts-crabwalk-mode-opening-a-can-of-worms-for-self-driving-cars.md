@@ -28,6 +28,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "This self-driving pod can be used to transport either humans or carry cargo"
+    excerpt: "Chosen as the winner of a competition hosted by autonomous network transit (ANT) company Dromos, this self-driving pod designed by PriestmanGoode is capable of safely carrying humans as well as acting as a logistical truck to deliver consignments."
+    publishedDateTime: 2020-09-17T17:00:00Z
+    webUrl: "https://www.yankodesign.com/2020/09/17/this-self-driving-pod-can-be-used-to-transport-either-humans-or-carry-cargo/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 22
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/09/SpaceX_rocket_inspired_pen_for_space_enthusiasts_hero-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
+
 secured: "zmts4kg6ScEJeMU4voMn+tVAw/+jEcpBgA9hT5js+gQhYVFFQX1SWKe4G7f4m+9HtP55Jjue2+GJXEcdHlS/9sM+P+uYI6P5EFOebpjRwRpJXSnxPdPneX4f2QwqfGJmU90w04fN6SrMRYTNFGhFkXJZ3JL9LXAX19lTbQAZH1Fy3dcOIvRgp9G3amcxCbjYNTDl7dHObm+eVL43lCH2o4ZKR5bTWDv1ITG4M/ZLK9IS9tbc9hIO4jtfQkbWnamAKUUCtMiGKDdxmKy2GpZg33IK2P1/HTJbxtJ9UmcKNJLmFu+a3wzXj8NgGjRdVqxfT83F5+nnpi8+5LdfOLRO9pNZTATimjr5vTVjt7OR+/xJlN2jCmEwpyCayJGnH8cgqPxWPM5RsXQBNHpYjpIGBEQLwcgyliLHiF+sXhO8bJfKaK6tnRAaJan6tJSIKWrSdpAq81mPAyW8GSadsFcQfYy6LlUwd6DXJMXiPVlnNt+S48V5mNbgJac2bvm9Iov2a0l7TCkhH/T7X9IZUnwDQQ==;AcGTQPDevlCkeu6paeeClw=="
 ---
 
