@@ -47,6 +47,20 @@ related:
       domain: pulse2.com
     quality: 54
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
+    excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
+    publishedDateTime: 2020-09-17T08:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
     excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in"
     publishedDateTime: 2020-09-15T07:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-301130725.html"

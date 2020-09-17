@@ -58,7 +58,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -97,7 +97,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {

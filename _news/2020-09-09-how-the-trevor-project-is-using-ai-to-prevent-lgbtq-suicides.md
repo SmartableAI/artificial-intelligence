@@ -3,8 +3,8 @@ category: news
 title: "How the Trevor Project is using AI to prevent LGBTQ suicides"
 excerpt: "Over the past three years, the nation’s largest suicide prevention organization for LGBTQ youth has undergone a major tech overhaul, most recently using machine learning to assess high-risk outreach."
 publishedDateTime: 2020-09-09T11:00:00Z
-originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
-webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides"
+originalUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "amE7CbYoGKrpVEESvhzM/Oo2iEP/mTPBwk8/IeNZ19FnVjXYDtOQcHy9+zOOgTQFyevdgp7KAOHY2rcn77IGAcOiZXyRpm57QCTNcXRnxWj2RlUQpwAIM6AUrmLrVna+ZeEKm5jVyegYjDn7rIyr3dRRdR5eSE7NXWawn/if4g64egO1XS83RbzlT3wK57a7cJ6DI841c7pVt4XyTbamGxobj05Brpf8i0kAYGTpteZv15wUABLAOYKfS08UrYIDs6WWZ3hoc+iXSkw31s3WXpWNGkxD07zh4JjeKm2rFOs/Iov2+2NuTWbdSA16Ac8K7J+xorsTWNOzhGJnYySZa8e7+VVjCyJ7d+l54YvKQ0s=;hHGJa2e2/7hTeb2bPxCOvQ=="
+secured: "vX5G0Hzhky75336tckaS1fCThqEnEz32wWCh6sD+0rmEkjjAwZe+qo8tDkBwsb15outd0zcMn5q91RGHqQqVc2vjnLNLilSFgr+hVCLOWAEr6RlQu0dyiJUaQ1hw427TUD/Ivh1w0Le7/o1Dd4sSHb5Xxn2GsVcpN29ntMhd6i2wAF0zQZJ6RhlxwobCUd36nn+EF/xXNVYKh/2A7NGU+WQ478X++8BRLfA0LpP4eCqUw9N2vDFpCai4eIO3AgSdEIl/VcHvQUT4IMI011aFwOU9GNlIZkmHk42Gr+6PnVYusg13s9/LtnmTnWXjAj+C5D22QsGaaR5a+4a9l6j8TcWYDmDchLZwcKkb/a4UNmI=;UF5UUvwkTrNnQcyhnDlaXg=="
 ---
 

@@ -199,19 +199,16 @@ related:
         height: 2320
         isCached: true
   - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-    publishedDateTime: 2020-09-15T22:00:00Z
-    webUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
+    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
+    publishedDateTime: 2020-09-16T02:53:00Z
+    webUrl: "https://www.reuters.com/article/uber-selfdriving-idUSL1N2GC2E3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GC2E3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GC2E3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 49
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
     publishedDateTime: 2020-09-15T22:00:00Z

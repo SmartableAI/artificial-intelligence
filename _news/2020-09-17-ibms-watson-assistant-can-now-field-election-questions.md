@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-
 ampWebUrl: "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 91
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&#038;strip=all"
@@ -30,6 +31,19 @@ images:
     height: 600
     isCached: true
 
-secured: "dFksWU/Cf2Sw+FBWjl9Ud6DLo8/Nd5e7r57bL5Psmmf0HhCvGLdnliX6/NAedkU5r9RxiorIUYBpehCyGtri4xmKn5ypfYLGyuq927TmkMmB1ScasVmTO9DoEtfIN6KKUCPjd8jPj2CDDb6MqF0D61Wq2/JcR2RHPeDCJWTXVNkXCvSCIyIHgq50mzxAOmo+EslP7i/ZNWO8+/fL0BwiCUkq7ukwjrih4/cx2J14QepFzRCpwVPT9qBb7l3YYUQoVtOEv3z/m3Gg5wkboztawO2pJF9N2gO9Pi79tJXVKXl764JQBqEl1Iz01gty8B1TDQuUwHTsrpyPo6HUYn0KigQhfPu3WVdlYUY/azQspbw=;Li6Sb05o4YAGTaEzOz9DAA=="
+related:
+  - title: "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens"
+    excerpt: "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM"
+    publishedDateTime: 2020-09-17T14:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+
+secured: "r/lQjr02Rwlvb9WODUDYKzbd2m4msNFfatpRuFvSVHbvvA/ym5I/F2p4RBoKOIlyFW9FAkzOAGXX3n6FJSsARkQMdvXkymi9hy62Vvgj8MCOPerK0ArHS5z9377mdUERPLQW66aVFgrZ1OaVVu6Jx8z7rKWDYYsaRYJr4Hi0qBV4ufL40g0uyDd3HtWNzEz66FXld7EsTf2r02yhHa5krP6RbUGjlEk+wug4+5UfQBEA9oFpeCQ1RGZsjDPu+uLt3fzSKqEPnPXY0GrZOwQXCdeDh1gJtE+eZWkQMLXTB5J8jOch1M+RGUWiTxom/OqONiIBw8rtszVO1Z3afQolpiJ2w4mwVhoXHI6Logl5HHqPUQ2RbGmOyoFY9SHuxyLa0R+V+LbQePkcvCYp823tfA17yfKvlZeHsScjc9Ev+NMPqjmsO7n0zcpZ7bLwj2H+OLl2AZPUkcyL9XLjWCuH6ME5DA7UpBsJGsBYR4C3m7Bqp5/ZPTeofPfIul8smMPk//egMpybgebgMWf+fDKHkA==;F5zjsnjcqDoZkUDiLuXo3A=="
 ---
 

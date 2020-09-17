@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-publishedDateTime: 2020-09-15T22:00:00Z
-originalUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
-webUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
+excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
+publishedDateTime: 2020-09-16T02:53:00Z
+originalUrl: "https://www.reuters.com/article/uber-selfdriving-idUSL1N2GC2E3"
+webUrl: "https://www.reuters.com/article/uber-selfdriving-idUSL1N2GC2E3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GC2E3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GC2E3"
 type: article
 quality: 49
 heat: -1
@@ -21,12 +23,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -446,6 +442,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "tmrCgWHUQkPevKP7/fwbJcwxesRUSdlm1LbMMKIJrDcXfeGdpsasyHAv+g3HWrGlFrpYDthjC8pu40prxD6MDigijRjhzbL2ei279YEPNoNCldaiG8dg+3/+hsdcRHUkw/d/p0SAs25XRGhU9gojE3DZsKoLlJU8HuOUWBJrFcLEvtSsTdHTZa4W5DNU07DR+PEl4TcR4+cw4dCP8HZEOP83CaV9k8Swtn4pJujyGeuT4YRFw93uzHc9xeAD+gAvQDOfpziINKKp+xu3k29RvNvJ4/6KKwGrvX2fA5uNzbKq8teBJ7fxShczq9kmAjrcttoAnfi8srCAZuRdLQj1YHcTf4EmvvxlBTiDLhMrm78=;EcWRb5bqDI0OUdLfCx2jqw=="
+secured: "jY/SW9NCdZTTynCJDbky6N+kMK+73QjF3AFxez1u7Juc/XUHfgeHL/rnhrivG2SfjINvrofUXeTFPt1jIBTJgWMmaGpoLSUxN9bHFsPKxq4cX9cZ8f+o+iRvXyM9LPCEfmux+PlZDB034gzP/azuEZnSHYU5p/miGN2Hqj3vDuqu+W55zVjmBmODfPiSCjLsxc5DeSBHgp1C1DSfO4+Em+8uPAfNxVlHA3X5BYr++vqE0YfIsx9l3VP2QhWgDTQsex/VG8qMb21eo2zIw0ZQnOvJlY85QrUelnkVVQKPhjT2/SDBcvhN92SpKgnhcR6rmd6mGNXjlqJRpNPY2KuxPU/tgeZx8O1GSyiI5Sk+WMs=;gVBm9k31Qd0+uQDEmz3Tvg=="
 ---
 

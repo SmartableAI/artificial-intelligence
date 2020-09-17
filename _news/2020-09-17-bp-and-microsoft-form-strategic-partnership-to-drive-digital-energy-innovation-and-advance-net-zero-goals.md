@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
-excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
-publishedDateTime: 2020-09-15T14:24:00Z
-originalUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
-webUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
-ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
+title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
+excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
+publishedDateTime: 2020-09-17T08:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
+webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
 type: article
-quality: 54
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Pulse 2.0
-  domain: pulse2.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "bp and Microsoft join forces to advance sustainability goals"
@@ -37,20 +45,17 @@ related:
         width: 630
         height: 354
         isCached: true
-  - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-    excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
-    publishedDateTime: 2020-09-17T08:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
+  - title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
+    publishedDateTime: 2020-09-15T14:24:00Z
+    webUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
+    ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
     excerpt: "PRNewswire/ -- bp and Microsoft Corp. today announced that they have agreed to collaborate as strategic partners to further digital transformation in"
     publishedDateTime: 2020-09-15T07:00:00Z
@@ -86,6 +91,6 @@ related:
       domain: arabianindustry.com
     quality: 3
 
-secured: "5Osds6ZBxZ4w0Rwmd7027TxoDdhkVw61xIouoJNuWXz/LNlAj3rETZ4lIHePqeQMv+XxVCusDoQjYYm2m5cOlp3ZwBseaVZV20ptL8dcsmt/xdrYhYYX4gJ8lAmvHoUOuHooVFXBY3EBHCqFCxuITv/35V3CkWIGOndUv+UVwmfA6a3RUqc2b+ol9YrJol0Iw3TUEPiuL9QVekTEbVDMhtzkl1j919E4P9CS4oEOTzc/mgOr+f5nlgrDjzpZkd/A0AbUKrPJYq7VeO21L3ZOOxAaO6Kse4Kt0jU89cGoc5HJP54e0aOIufjMOvNXtZ3abljm1budYvgpHF99Egp1WC/TtJ/ZWBd2HyyIiJT70yMCtNf7WS+rxS2gEFOyvkRonhOgcnPAUPezCniihAG5p2gb69k/8Zel8mRCmnQoNDLmL89PrtxjN3DzXz7jLfu/gRaFDIn3yPfmBTNd/YHENxbXgr61Lujfp9pLIL27tgnW2H03n/QrMAWojZlpPdJQiitmTz7EOSTGS8+Ss+E9Rf0CwQO7FbnQhyOBN+fgMqs=;veooyNBr3iSz0hfqGqbFpg=="
+secured: "LJQp1y7qzjkrN8tYDm8Dss9k6yf3Sej+YBWK3i4pflREIIw/2z9MdAeTQJU/cjkkCdzspdusB/I/bsQq7orzehu3Ibf9gqJqADQHSTLpqZrEenhdT+xQY5u89aypzJbaKuCAwL7QQAwIX90SULO9tU836J6wZ1OsulNcJzGBQGhcbSzLAlfNgTz2X2ND60rOV60joazi+WeILP+VeQ5UGE9KzBTnvbeX13lag3YrTN0kMkadXUDhQPBGRLPg/m/YbEJUoUC0TN6rsm6R5Xu4En+rT4dPLzcqxymlpkXAaBYJ42jaky8hTyIETK//l970hIn0Rmbes/McvYrby9z2M+LqzgPqy3PzSc2mUlEXn70=;8AfHCnP6Wfx8d38b6PL9NQ=="
 ---
 
