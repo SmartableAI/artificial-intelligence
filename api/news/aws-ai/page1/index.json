@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-16-automating-the-analysis-of-multi-speaker-audio-files-using-amazon-transcribe-and-amazon-athena.md",
-      "title": "Automating the analysis of multi-speaker audio files using Amazon Transcribe and Amazon Athena",
-      "excerpt": "In an effort to drive customer service improvements, many companies record the phone conversations between their customers and call center representatives. These call recordings are typically stored as audio files and processed to uncover insights such as customer sentiment, product or service issues,",
+      "path": "_news/2020-09-17-detecting-and-redacting-pii-using-amazon-comprehend.md",
+      "title": "Detecting and redacting PII using Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships like people, places, sentiments, and topics in unstructured text. You can now use Amazon Comprehend ML capabilities to detect and redact personally identifiable information",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-the-analysis-of-multi-speaker-audio-files-using-amazon-transcribe-and-amazon-athena/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-the-analysis-of-multi-speaker-audio-files-using-amazon-transcribe-and-amazon-athena/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
       "featuredContent": null,
-      "heat": 77,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/16/1-SolutionArchitecture-1-651x630.jpg",
-          "width": 651,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/1-Realtime-analysis-875x630.jpg",
+          "width": 875,
           "height": 630,
           "title": null,
           "attribution": null,
@@ -24,7 +24,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T14:00:25-07:00",
+      "publishedDateTime": "2020-09-17T14:46:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

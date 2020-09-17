@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM hopes to power US Open's digital experiences with Watson's natural language processing"
-excerpt: "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium."
+excerpt: "Read More IBM is hoping Watson, natural language processing and artificial intelligence can bring new digital fan experiences to the US Open. The US Open this year will be without fans due to the ..."
 publishedDateTime: 2020-08-28T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+originalUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+webUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "bfkbxkQf1M8Nsi/LUq+29tI6MtK7k5pVH4YIz8Ybzx0M0Rfd3i9fGr2Y/n0HHR/t7PArkj1LVBbBwH90nEQOrlXUrOLXpEh+Oy22I6LYW9sTFQN4vkDCaKfuZFlIsssXUwEe3/MVfuVxS9UzGrhfS01Ib/60ziiw7UMIXH75XgVluFV1pedw/OMB8RzV1ZYFtb8xUwxkqAgxNC6l7hIgOpj6JNm9PQTfT8tNzGnNgqVfeceV95+q0H5Hclifi5P/plCDGcs7epiDSlZzU93CDA/lO7zvvtV/yUeiUlQSP7w876eeNcjWjTGjqLYwovVZ7IrW0efV8elJ5iuW7wWmy+TJmWyT8hAZJu+rIndpxwtV1buzbxvsHMSH1xSiB8K4l1KA2JcVedq1dUyVNLjdEmBX+84E4N7WsQOZ5ih3lai098lC6KT2haNraXiWZko+UNZ4BmBuO0FzSkDK0BbKWZYcbdUD2Sm+uhVSeDlPkutS16Dg1OfKSuKQCQTBerBbos1XNnpOv5EE5MqWwxn73g==;+j23xFrvkk64Zkc74OpMag=="
+secured: "T46A1WsOJNoZCdfiEFGNmpgoLnip+92BS0N/ub3GZY6KD/6czKrmJFv4BNidj3gdGMyudcFsFsZTvViPnyAv9FszniNi2CTXJjGvk2mWu39QSlFuJQf3aWrWMvRvZTzBsiGFp5LOgvxn/OA33YG7iaagUNKSKgjEXCFEmC+cVO8Ga19t40gOW5Ofaib8yf/mstmOh6T7WxUrP1o1G36zyTQuC8UkQMardFR6OPX/YTtB6ooJ4QffB0mY9WDnOU5madQlxGlbqHh6TwvpkrNcJ+j4rRWyy9WJVy8Q37/j0282M+SAVaiZ8YLTsJTJrTHxPAkXBG/74D8xVkiyQAQlqgIaVVj5AcEbURsaKOqb5LI=;9vB5oIG4k7qlkXmbg3u1dQ=="
 ---
 

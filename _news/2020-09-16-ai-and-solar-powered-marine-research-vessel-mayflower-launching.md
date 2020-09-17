@@ -41,6 +41,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Robot ship sets sail for autonomous Atlantic crossing"
+    excerpt: "Named The Mayflower ship is getting ready to leave the south coast of England and human crew members behind. It's not the ship that left this southwest England port 400 years ago carrying Pilgrim settlers to America."
+    publishedDateTime: 2020-09-17T21:22:00Z
+    webUrl: "https://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=12365958"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 54
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/IbbqpOOk-FlUndat_PW79vyZjU8=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/KKDEW7E74FGOTBWVSUND3KYS3I.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5vSkv6PEWnHRBtQ7GqpmwmQtBfg1ML5boApbUMYurZTMsM3a0L6kM67AfWet4kz2RNI+YFVRNSP1Iv/ozPvfGbKJUqE2E6K0hYGQXY0nSZPWmC1oD0bK2keTcw5M9gcKOfRhONHlf1vKE9Q50aZ3ziEhMTzQlDtiEgBDlQE7E/fCGGt1NU4uaooYBVd3kr9RuYLLfI5CJoSz3drm23BVaE9NbfefThOvwrGOcrXdDFZkH1AOmY03RGVtrDO8/ek8k1Gpvi7HRhCQSYfJXhAB31Ay83y7D5AkLYWkk1Sjh0ojgRqZkh05MIbvk5GwcI4vJ/SmFXP7GZsvH3fm6m+vw8zFNzKhp9oJGXToG0bwULY=;h15cQ650yhudpZ5ne+BsnQ=="
 ---

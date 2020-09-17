@@ -2,26 +2,26 @@
 category: news
 title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
 excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-publishedDateTime: 2020-09-16T14:41:00Z
-originalUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-webUrl: "https://www.wtsp.com/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+publishedDateTime: 2020-09-16T05:54:00Z
+originalUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: WTSP
-  domain: wtsp.com
+  name: KPNX
+  domain: 12news.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wtsp.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+  - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -213,6 +213,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1637737/elon-musk.jpg"
         width: 3290
         height: 2320
+        isCached: true
+  - title: "Tesla driver caught asleep behind wheel of self-driving car going 93mph"
+    excerpt: "Police - who spotted both front seats fully reclined - say the autopilot feature \"still comes with the responsibility of driving\"."
+    publishedDateTime: 2020-09-17T21:27:00Z
+    webUrl: "https://news.sky.com/story/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
+    ampWebUrl: "https://news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/20/09/1600x900/skynews-tesla-self-driving_5099820.jpg?20200917214103"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
@@ -420,6 +436,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
+    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
+    publishedDateTime: 2020-09-17T21:36:00Z
+    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Uber driver charged in self-driving crash that left a woman dead in Tempe in 2018"
     excerpt: "An Uber driver has been charged with negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. She pled not guilty in court on Tuesday."
     publishedDateTime: 2020-09-15T23:37:00Z
@@ -458,6 +488,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "V6uaxJYBy0bybfxqm4C1jgC+nVh0eDvTdEO8BYkq7sL0sV/mRyYiQkEUmdC4qXWmiTUJC+Q+NylwVcZO+8uafPrsAv0jgClzSbjtAQOnBw3+RiGfdY4rNiuOEJ6MgHcbgCnuthMTcp7RMERqheFo3tALcpcIB+fTbiIyZjyZA1/pr6XFKVwOqEZupZZr7neftaDRRdyoXFixjbbuM+/s0TOc/U1vY32BRwuYijeFH8aZOmHoMMqbsuEiWIkbED5sXk9QGSb7GGEP1HxKXCK9hnaxwdQkwvhDpT3Yn1QeUxAfCYw9TbG7bR+XQSUC2VoLtLrhc0ORUuFJPB1oXWpk3kQCGBIvWtEHrSir0WcY5cZ2tLCTKctwVjgzu1uwo/Rt0OcpCnBmg0a7N/xpW0L6ZeW9owFbwl+ew7EmNd0SPHuAwsm2bb2M66kY9mub/G34i1Rlkg5UhG9goFwtp35+yANyuOTOgyDDmt69mV8hR7Ch28Xk66iL5q573hIQ+JLLNZkZLD99PK8Fg52BL74Lbw==;C2/sk2iCbTO9hb4Wyymhrw=="
+secured: "GuVzicBayejc178CbFTjbUEYGLJcphxU+r70WKs4NHEdeqWFNYAAEhI9f1Q5RWcHgwom/H9XjW2QtdAYMb9d4dGZwhym0PxwlPhe3EEAdLrnWtB0TgPHaSdrNvK8HVIzY/HE73bloJtFsgTJdZWLZE+e0fOHSY8pKOlBouWwyggrFKwVlvg0W+AlvBHpp1FC/GWvfOHcHhxYChvz9sr6DZ/HYogv6E64J9T4LqPRHZw+Lm+D8eO3ZhsASzG2QiOqsGKDmhkvEHR0T9bAJ1JdW5t+MZJA0ZUhyxEpCkNnmyvPP8RzUKEuSvslQQ2xYE6EFUqETKxGcipb2Q7IQwO0zkOXmzvflzaN53+Q9XwOjnQ=;JZ4xV8FX47n40v8bSAMtJQ=="
 ---
 

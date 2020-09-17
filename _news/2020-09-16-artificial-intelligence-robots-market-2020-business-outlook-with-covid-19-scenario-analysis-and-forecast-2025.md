@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$ 12,958.9 million by 2027; it is expected to grow at a CAGR of 13.8% during the forecast period."
-    publishedDateTime: 2020-09-15T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size, Top Companies, Growth Factors, Market Status and Future Forecasts to 2027"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
     publishedDateTime: 2020-09-16T10:19:00Z
@@ -99,6 +85,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
+    publishedDateTime: 2020-09-15T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "faXYXr8sS9k/vC7OnqsuxIJiJCU6otS0ii1pB07U1rnhukxp6mzieNmcFymBrcCI3oJYQjW1jfK3aD4KYFxNFgkNL+gOguaACnZDyj1w45aqAiaAm+DHc9MEydSExxBkiug1V9C4C+QgxjSrV53Rw3CTs7N2O/kxL/7j/bGD3lBm2RsyLhadLWaEEtp14Snst9VoieQlDjTGJgivrNSsXnz/JLxu3EgxPyuHE6bbuXXQzy+To04d+6XObaXpsqXe71WWgaGrzNMmzEEVvJleocnpnPf6Gdbn/7SFDn23XXM5/jIloTjaxejAG61Xrtolfffxkb5Au824InliVH9ON4VqHwjEAJdpU3Pqa8UP1v0=;Hgo/1R/hP03OXqggjHiFFA=="

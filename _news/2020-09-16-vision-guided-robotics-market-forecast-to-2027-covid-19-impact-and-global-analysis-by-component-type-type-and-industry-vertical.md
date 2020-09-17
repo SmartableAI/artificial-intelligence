@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$ 12,958.9 million by 2027; it is expected to grow at a CAGR of 13.8% during the forecast period."
-publishedDateTime: 2020-09-15T17:39:00Z
-originalUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
-webUrl: "https://www.marketwatch.com/press-release/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-2020-09-15"
+excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
+publishedDateTime: 2020-09-15T17:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
+webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -100,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "B88rKJDI9lZ4Q2dFCeFcXeHf0HQA9OPIo5Kje2YCDiMnS37SzgOY8jvyLDp/pPgkF12574lqy6wcD9Lu23rolj3uaLA5NjaHmLgs8WWnkj01kYLUxiUcBX5OTLx7GhDcOQlh/WdCRuXOblwhWGvwELAotMnbLkTSQRKQDXDB/wFjOcRyyidrwO31BNYvuyVccJCu1pZ05ZrNxXXA0XZIK5b9hV3VlQe3V3cDMp3GbMqlBa+Q/RQeJFkdyEu4O9YbDN3FXEFW8AHiF05dk/hlC3QujpVsaFX6QwCCmd+bf6BWCMfGTGR7wdq4Pcajr9v0aHXcNnsy+614v95LTRzIh8XBvntceYIXQJhUCKp0n4w=;DsqhIkMovhE1GJhvs5mrPg=="
+secured: "4nr0zOJSgKTeoI99dFY6FWaN/gR3VXJwNP4oK2PDDnR48/M3XBd9dbyXWgIJ+I+DqR53wmrAkELPK/zTPoaURzi3+AnV8gwy/iMhyyvp2kys+TnVPFhCWfXHlmAM7NScZtyAkZllqb8DOB22Z1BvMjcWe5bfGkrR8GyKaGdPgRhW7wuIqbrrZJ+vOJGUnDLA92ulcO8wF1m9JmoMAGKdu47vF/GHop8c5Tu5rYNHHGdyHQUbBNnHjxUOwo3PJ//7YJV2HtSk0u20oY9fyvvKPs6crYqnYZmfg/IwBJ98hwaTUtzjOMFCLTEBOk38wg2az6AnZJ8kcpv2dUenfKN2uJSmh/4H4Yg9kXoCB2wGMXo=;Ql2jkV+pM/kgGc6UcJUXEQ=="
 ---
 

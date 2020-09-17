@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-f
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robot ship sets sail for autonomous Atlantic crossing"
+    excerpt: "Named The Mayflower ship is getting ready to leave the south coast of England and human crew members behind. It's not the ship that left this southwest England port 400 years ago carrying Pilgrim settlers to America."
+    publishedDateTime: 2020-09-17T21:22:00Z
+    webUrl: "https://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=12365958"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 54
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/IbbqpOOk-FlUndat_PW79vyZjU8=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/KKDEW7E74FGOTBWVSUND3KYS3I.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI and Solar Powered Marine Research Vessel Mayflower Launching"
     excerpt: "The Mayflower Autonomous Ship (MAS), an AI and solar-powered marine research vessel which will traverse oceans gathering vital environmental data, was lifted into the waters off the coast of Plymouth,"
     publishedDateTime: 2020-09-15T23:10:00Z

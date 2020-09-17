@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-17T18:38:00Z
 originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09171AIEye-IBM-CEVA.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09171AIEye-IBM-CEVA.asp"
 type: article
-quality: 15
-heat: 15
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

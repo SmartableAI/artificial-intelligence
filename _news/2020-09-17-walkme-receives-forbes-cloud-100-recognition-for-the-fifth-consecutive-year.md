@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Virginia Graves receives recognition for decades of public service"
-    excerpt: "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,"
-    publishedDateTime: 2020-09-13T04:53:00Z
-    webUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
-    type: article
-    provider:
-      name: Salisbury Post
-      domain: salisburypost.com
-    quality: 24
-    images:
-      - url: "https://salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg"
-        width: 622
-        height: 466
-        isCached: true
 
 secured: "C2ob7NE0HqPEgOtJW/U2XPhqga8hiqdi1sMGtP7RXgRePAO1PHaVbL1ynQk5ZUyGpcU5UCKuuj/wbGBSGzwaX7AkDEY3y2c6BQgawmc9UaFBbGr3AwPuM4I9TZ3wCRBr+G6wtddyJYfZ33RDi4bwsiJam22qElCHKgMS/jYHsxFgQ4gjq7mb9FI0PNMIR2XrSLXt7jelxIe1sbifygD3t9dF1Xt+YBdwxivDIARF9y0h/XUU9RT/hYhMtABI9R/2tcYsB3dN+I36KWVB4KbmHLpdg1c6gcEdSKKIW66R5a1OgwsAUH91eN7Mzbj8EbK4BrHjVfx4NnjunCTVn6gSp0TxcgGi2ojI1DR9KHuy96E=;UHIZH7eIZIY8Igwd00wv+g=="
 ---

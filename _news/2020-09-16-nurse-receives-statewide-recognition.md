@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia Graves receives recognition for decades of public service"
-    excerpt: "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,"
-    publishedDateTime: 2020-09-13T04:53:00Z
-    webUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
-    type: article
-    provider:
-      name: Salisbury Post
-      domain: salisburypost.com
-    quality: 24
-    images:
-      - url: "https://salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg"
-        width: 622
-        height: 466
-        isCached: true
   - title: "WalkMe Receives Forbes Cloud 100 Recognition for the Fifth Consecutive Year"
     excerpt: "WalkMe, the leading digital adoption platform and one of the fastest growing companies globally, today announced its inclusion in Forbes"
     publishedDateTime: 2020-09-17T01:26:00Z
