@@ -3,10 +3,10 @@ category: news
 title: "DeepMind's AI is helping to re-write the rules of the chess"
 excerpt: "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game."
 publishedDateTime: 2020-09-14T14:42:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+originalUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+webUrl: "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/"
 type: article
 quality: 104
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "oK3yAmT2G7Iw+WnfdrzRj/tgH375l3d9Z2KChCHEtZHLB11V+NvF0YoyQhMQkFmn2oMv3Gw1kD9hDoNSrQLQlhLjlDY0ggIL8sIF6neUIS01lbGPH4QixQiWnLtgQ1nal4h3fpmFW+CCopnAG9Tr+3AADxV4ccKWvS/pE10GcntcLUxsmdeNLrbRlI/Z6ZpBy5SlODJqsUoviNZIgs1k9PCkJof8qvbPM+oDgHx9icuWctfgWfCOE4n3CtZCNB94z5Wq1+g2xya7EUSguIdfQqpkV6mpajYJi+42yRMiTb9dVoCx6ov2q9CHfsyCv4DEtGtfc4olsU9fmnv3Xax15lsXjMHKDJKPhmsTEmZ02tM=;pnGE6MjR6PgO682jJYAsXQ=="
+secured: "G8x9IC+nxnICTQKkQ4RVlzIfZ7PdQxKzE3w0evEuyOacrge3izJ7fbfRtHmdarfzFRM+fquVkTxz/KVT388vu1z6098KPbFYn15F37jFcbUF9Bh0ECuxVGszn9gn/QX0FE7mPHWfuY22YALGLPV8bV1sU0dJQrbl/RYVfWjERacHHvcnWPEEwpDnkgNDnlMUmOAsgcPEtpN47ZEym+7PiGj9JCfFVy/pGKInffs8sw3HqTwFoWZVgPA8ZXoFifWsBi1YmCtJF9r9y0zXR5ID1t6ZvK9bM1C9lx9TE6NnIrvukRdsdZuC+7ETXgAuiPD2aKqLBPQuauC5Hb6Rwjcc5tCnHsH0tiESvsYsQ8+18rA=;jilZZlHloPX7fbGRwOwkjw=="
 ---
 

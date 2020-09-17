@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence and Investment Management: What are the future prospects?"
+    excerpt: "Investors have been looking for new investment options that offer much less volatility than these commodities that are badly controlled by the political players. The launch of commission-free apps has been the need of time as the focus on diversification has been more than ever."
+    publishedDateTime: 2020-09-14T15:13:00Z
+    webUrl: "https://www.investorideas.com/news/2020/main/09142Artificial-Intelligence-Investment-Management.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
+    images:
+      - url: "https://www.investorideas.com/news/2020/main/images/091420-2.jpg"
+        width: 622
+        height: 315
+        isCached: true
   - title: "3Lines Leads $750,000 USD Investment in the Future of Enterprise Startup SignalX"
     excerpt: "PRNewswire/ -- SignalX, a fast growing and AI-enabled Governance Risk Management and Compliance startup company based out of Hyderabad, India, has"
     publishedDateTime: 2020-09-15T14:00:00Z

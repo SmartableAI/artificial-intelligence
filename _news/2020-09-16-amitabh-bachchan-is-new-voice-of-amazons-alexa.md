@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amitabh Bachchan is the new voice of Amazon’s Alexa"
+    excerpt: "Amazon.com Inc has signed up Bollywood mega star Amitabh Bachchan for its Alexa voice assistant, stealing a march over rivals Apple Inc’s Siri and Alphabet Inc’s Google Assistant"
+    publishedDateTime: 2020-09-17T16:27:00Z
+    webUrl: "https://gulf-times.com/story/673103/Amitabh-Bachchan-is-the-new-voice-of-Amazon-s-Alex"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 24
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202017192518791170946.jpg"
+        width: 620
+        height: 355
+        isCached: true
 
 secured: "cGWJBRzIu3y4tRFzs2ekCNErDSnSGXSFnyU7osp21S507bWgf6FExj/rwteCh7b5oEgdAHLmcrdAHNb9A2cI9S4zV6rW8McbT1dwI4JHg4OOqGpgJpXkTz6MAojCOBn7HVTGZd+LB8Cc1iREJwj9a2sMXXkEZwLfOWj50NHndkQ4Zi3W3dtxwpExzuUwK7FTyjtb05Hf8Yjjp34Whn1g1hJFE808EU/7+PbQquqsAz/41SA7QXE6eLbPXdX441pG442WAyXYCb7ysY9v3Udd6RduzxfI9ArtVn7kRuF7UuuvlreQKAzcyGk4gfHAs0NKSC0VJKNQV0IdBlVKKPtKYdCj9E8PTWQc5L+sTANjMLs=;JEDJN+MNSRphkle7eFgrmQ=="
 ---

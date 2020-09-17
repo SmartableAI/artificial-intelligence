@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications"
-excerpt: "Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research database, presenting an informative study covering the market with detailed analysis."
-publishedDateTime: 2020-09-03T15:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03?mod=mw_quote_news"
+excerpt: "Sep 03, 2020 (PRNews Times via COMTEX) -- Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research ..."
+publishedDateTime: 2020-09-03T16:03:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03"
+webUrl: "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03"
 type: article
-quality: 72
-heat: 82
-published: true
 
 provider:
   name: MarketWatch
@@ -28,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global AI over Edge Computing Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
-    excerpt: "An analysis report published by MarketsandResearch.biz entitled Global AI over Edge Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is an in-depth study and detailed information regarding the market size,"
-    publishedDateTime: 2020-09-06T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-over-edge-computing-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "+ZAWJTMxq+a/xq+QaBuBfjunFNJ6WtUPouDYwGbYvOQ6tE41OAmWbuoB/ffKi6uF/BdIm/XjQN2lKKfVrmZvcrABHDRmE5dA+Wm8H9WRHEZ6qn318S+7oT0KUwKZYH/YSPpzJjUlHxvg7nMPGKH1lRp+MUjycnC48OoBCRCuiNshWb1NiPuFQZqwkL09mq/7UZNk2mFKEPmOWztUQHGPgUY1cESkw/+l8Qaeakt3qlx8/fQzfBXVWYnAjqkdRa4pi6+yhvHfYa0tKM37Lt8p0R9M2gXRtvY1FRPJ48G9jmc8SvN//aacvB190aoI8Mx4mKeiKWOam3YRAn5pd9Q9sU4/RgvMJlo724+dnkRz1vc=;RfkIhFpKhoV4hyBERROfew=="
+secured: "Xxli12tSyCmsAqYW8YtoU+V6EwR370BbzyebL8Dtr+5imKhltqmy0XOQ2HDIe6So33nBhAWuSRE/eB95kkOFJhjDTlpSQWIBdqNmGtguawi4oBFA/8dI95hCCqKgf4apV2ueLrAY1FspTKkgZTg9zKmnb/tLPCX4GvN2P/ipenGr2KnpFleBBJGBqPmCTgYUPO34PX8A5mRkb47wtW0EuPmV0UAs2rcU/ltbaPnL1XMXr4/pdVrMhd8f5Pn9NBNOgmVw6si4EP0iUloMrJvZd3X2Z5NtJDY5iDWEGwmfgXLqRnQHPkG+bGDkkkcwWrms5gWPMlGcabNux/CtZglFbU4G5pRuMAas/MVeFyqsHt8=;Ptv7uku8+B4+ENixH63tUA=="
 ---
 

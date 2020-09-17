@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
-    excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
-    publishedDateTime: 2020-09-17T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

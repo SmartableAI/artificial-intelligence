@@ -3,12 +3,12 @@ category: news
 title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
 excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
 publishedDateTime: 2020-09-16T10:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+originalUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/09/11/a38032ce-5d52-488e-93e8-c726297e438f/cloud-ai-use-cases-2.png"
-    width: 1017
-    height: 559
-    isCached: true
 
 related:
   - title: "Qualcomm details Cloud AI 100 chipset, announces developer kit"
@@ -83,6 +77,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "ctykQ/kRSlWtY7VLeTdP0JbwowWqTHs1bqgNDK5R7IDDNVxFdIRD43I7SmBYAKR/MA4K+be1CGy8GiK4pEP1W25oqMceo8gxS9KysVxuGmVM9LognbOjtAvMRytJe6t/khqHorhfyYCD+pTrGxpE3qwEPZYfJZqwGDQhMCAWaTIm7bOj749XRHAyLk1nQZvPfYU2nvZF9PCvp2DDa5xAMqJTZfNhKMHY3W/GYSMf5VfF82rm+Yw5wW9oFLxuNcYfsGCoSwXewNqXMufVM4KAsRqGHz2Eai0KDIKNYnuH8fn5+xFICWk72A39DB7tVebBKKsf61Xn7KavUv0vLfTFukqkUDH8RmzkBS/asL3akiAJ2sQFFr+vvzpBgVD6tX7VH4tjPHYJLYXcfi6ovE3N41Ab4G9LeBka0IuG+s/ZdA9B+O1a4iAcXtOQpUEP22X8d7IajyeOXexjimavGnKJnO8myMZDW+V6JejlXzDz21gx36+HbQX48J97fUd7iLLeeiI8G2wkG33sDML6xgOljg==;S1+7BdmhLhX48bcHgFLtqQ=="
+secured: "3lVK5KpA00L/SjgHYA7A2BLE7TyEvnMpnfRDlT9ZqUvC/p7varf9qyGbjDDoqn2/EsG8EGr/nmTICYxXTVmM7bpdw4jw6XphB/eLHNYSAwalVBzJ0Y+so1Qu5XqcghzQpjneQFRmZXmZ/7FDCrXtM1tFRXImM2W2vZoKWgppiZGnpZZ/YA0v+qGnp5ZSeyOaXXE0IeipAE41KkwB9z4PDBk9FeGJ43A4UWnUN+TbrqfAjsflBO5yezyyJP4pp1L1vERe6Phpi+JDlRhiSP1OBxEZVtoF3YEQKdyT70BFoV1aXAh0oDUqJGHSIENeSenpuHGLJvyrYR+/wVBprbWBfE00mv9L0Jew69WEDvtFJ7XuHalwAA2wVfmV11BJPa2Y8DwwS2xbVO5anV/qQeLRK3KLjFabhgZ4CddTP0MgnCRwY/bHPbRmUTVDzHFtIKxWlxAyMmkh12q3ip7w9cUUlLH17MjTUPwRQeWRMKR0elNvXwjeZ1ziHl9rYjC1/matCoyfaG7zSyJCjKW3vPV/Cw==;AxEzo4ZIIUHghTlLfYmwTw=="
 ---
 

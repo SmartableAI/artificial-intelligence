@@ -1,24 +1,18 @@
 ---
 category: news
 title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal insights into optimizing Deep Neural Networks (DNNs) for multiple processors at the 2020 Embedded Vision Summit."
-publishedDateTime: 2020-09-16T14:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
+excerpt: "StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal"
+publishedDateTime: 2020-09-16T15:02:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
 type: article
-quality: 34
-heat: 34
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
@@ -40,6 +34,6 @@ related:
         height: 512
         isCached: true
 
-secured: "pj+9EbNolDH1PBfQmqqNFzAwLkN9WwSWl+VSWaTB+FBtado3+TkhlkzObCTKru/jbdwbayVxfTHdOs7+0sjXw7FHq3F+MUuWtLeucsMMZU+y/YkYoIoGlDZ2Ah98+DVKtUQkIaU3VLoiO4npx8pkH/ukBq9+AP7PJaPdlxqSp5zJQnC9C9j41W5CGKMNf16J+BebUxzpCKapvoSTQuLveJEvtOHl2DZw8BKdk3VaftjA3BI5w54mEJ7eYk7WnQHYOXdu1mLr1IcSf1pLudyT5S9pDpBl+r9VxC9e/odBPKBij4MQetNnkz7t0qSamsctCK1XlN/lD/VglfP2Eeutt6VtYuMfcGK+pttATs3SQOc=;uCOJRmuveDicNlA2MQx7Cg=="
+secured: "DWViwCSOI3Sp6ZlUzG2XZflvEDjgfurnvDt4Qs9REa1hrEP8JI4r/ndftUd/bBF99nAvnp+sqRoyarZWbtKzofwBfD8Db2yrOiyzH3gdAbogWuEZCqa0u1MbcaeE5xrPBsRa6kIWQen7rnoyTdpazBib7jLBpA36IUJTAfTUXu4JCJkOS811gek/ShWLQONJi2xs0kWrcKypbVV03mX508PJFwTUTUq5Ls8dUD5/hQq0fvrO2rDe0M3D6Nkbo1z4IVSbt7ullfLu9GPz+K3inz3RKR3vPtxOKRP3ukkB7nBl9wryox3o8lLhyY/A62lB4A5JkAwQbA1JRRlp3h2LjAWBEwgYAHEBiCQVcjP/5iI=;tgsckHa8eMXWXK9iTgw0vw=="
 ---
 

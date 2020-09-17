@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Artificial Intelligence and Investment Management: What are the future prospects?"
+    excerpt: "Investors have been looking for new investment options that offer much less volatility than these commodities that are badly controlled by the political players. The launch of commission-free apps has been the need of time as the focus on diversification has been more than ever."
+    publishedDateTime: 2020-09-14T15:13:00Z
+    webUrl: "https://www.investorideas.com/news/2020/main/09142Artificial-Intelligence-Investment-Management.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
+    images:
+      - url: "https://www.investorideas.com/news/2020/main/images/091420-2.jpg"
+        width: 622
+        height: 315
+        isCached: true
 
 secured: "gFTFvhB5K0ZVLCJSX9QCNbfAcvdS20tNub+YMHkQObUye6xfteRgB7nz/TFGMWt5Iz1bF5Ayv5N6dNb3jsNEtuj0dCgks+QANIdczkv3gYk4D6I2Hr1vfzQORhP8VmaTHeEFu0BCkWgKE6SOCiAiDyhzsctoLKziwEEPYSvnNfciuhD/ZWL0gJdB98CyxerjNBt+TqBHFAdtlpRfLeXM3OU2iQnjJhvkvRon56FeYSu9yVsc8okM10EuHWkXcG3P0HDcMAwV9eYSdpV+3NAB/Ir1WvbPhaQ4duv+3GX/6+yNxst55+00IJtWWo5KTfMSZNkySsQcHrJUPH5+ftt4FhkYRq9QxT7dEQucO+4Poh0=;C6jlvp36nWanL2GvMkm3pQ=="
 ---

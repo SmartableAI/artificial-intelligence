@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Justice Wants to Add Facial Recognition to Marshals’ Smartphones"
+    excerpt: "The service is looking for a software development kit to help it integrate biometrics tools with an app used to facilitate prisoner transfers."
+    publishedDateTime: 2020-09-17T17:21:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/justice-wants-add-facial-recognition-marshals-smartphones/168565/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/17/NGface20200917/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Company run by Chinese military made bid to run NZ Police facial recognition"
     excerpt: "Inspur ranks third in the global ranking of server manufacturers and provide cloud services to China's police force."
     publishedDateTime: 2020-09-15T21:17:00Z
