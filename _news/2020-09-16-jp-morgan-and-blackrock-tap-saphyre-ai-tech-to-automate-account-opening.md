@@ -38,14 +38,17 @@ related:
   - title: "JPMorgan and BlackRock tap AI startup to automate opening custody accounts"
     excerpt: "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday."
     publishedDateTime: 2020-09-15T18:20:00Z
-    webUrl: "https://www.reuters.com/article/us-jpmorgan-blackrock-saphyre-idUSKBN2661V1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661V1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661V1"
+    webUrl: "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 65
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y4zS2VmC4d0gUOZBYHXqHNB1E5fcLbgFp86jlFNkGF/9CWmws28+8TBv6MKy/8ZFRMaX62sEe5rgnGyerLD/ttUVxuSQOKsICsm2DYyy+YIKvKVA1gDhSNuySk25BRWKUQrF7Co+U8rSwlPjOfhFUTdIRv/fcP1JmkIC4CEkq5W6QJHQ0Z43PePo+/do8tHXzIUZCShlMiJ4PGKEgm7ilPv+MbV7I2UIvazmKOB5kW7eMj0kYitVNI92e3I1nCe0A2ITPdNL2hXs1Eo/MK2pHM4125MgzLcbrUfSwccnxJshuqGKGCdx1SRNT5gjrAfGOjc2V4F/debAB+WRXBlp/L4pgIYT8TUsr+KYiZR+jiI=;OX0L0GvguB/N1cdTud8R/Q=="
 ---

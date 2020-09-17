@@ -9,7 +9,7 @@ ampWebUrl: "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-gl
 cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://pmcvariety.files.wordpress.com/2020/09/facebook-project-aria-smart-glasses.png?w=890"
         width: 890
         height: 501
+        isCached: true
+  - title: "Facebook’s Ray-Ban glasses are coming in 2021"
+    excerpt: "The social media company and the fashion frames company EssilorLuxottica will team up on glasses with cameras on the front."
+    publishedDateTime: 2020-09-16T18:10:00Z
+    webUrl: "https://www.fastcompany.com/90551321/facebooks-ray-ban-smart-glasses-are-coming-in-2021"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-facebookand8217s-and-ray-banand8217s-smart-glasses-are-coming-in-2021.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "3pBcMECoBnKMQEegptDc4473vb/fnTGvfXxAN/TQrC3sXZshvqzzdjS1uN27wrRlSAyHDe+uuMk38f58gsTqoZgsSKmwDUecfURNXE1iJyGzYNaedmGb00pAdEgVxyyQbqeBLomtEU7f1448zIGGmxbM035SfGXFZ1AA19L5Hu7i8ENidCc3EZlDAFrQMT6ofLc6LorLDl//CzWCmJSn+FxYgIzoCBWZmRGoBvV8RNktb+U2sqyEW35TAZjNkxYIHRw30HE7v19VpDqWLj+xSIBf9NNayRe8En0gVUftkHVFuQe6s2NCl38sb481ViSWUHWwuXBuT7IjRFbYlC63uW2fTj8vA362PQvwlZ9tofQ=;lA6sW/cVkdDoJubRtDYmmw=="

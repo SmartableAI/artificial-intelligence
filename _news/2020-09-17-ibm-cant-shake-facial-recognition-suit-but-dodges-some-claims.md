@@ -1,18 +1,24 @@
 ---
 category: news
-title: "Facial recognition is coming to domestic air travel"
-excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
-publishedDateTime: 2020-09-12T14:17:00Z
-originalUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
-webUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
+title: "IBM can't shake facial recognition suit but dodges some claims"
+excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
+publishedDateTime: 2020-09-16T22:18:00Z
+originalUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
+webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
 type: article
-quality: 34
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -35,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM can't shake facial recognition suit but dodges some claims"
-    excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
-    publishedDateTime: 2020-09-16T22:18:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
     publishedDateTime: 2020-09-12T16:01:00Z
@@ -106,6 +101,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition is coming to domestic air travel"
+    excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
+    publishedDateTime: 2020-09-12T14:17:00Z
+    webUrl: "https://www.houstonchronicle.com/travel/article/Facial-recognition-domestic-flights-15550415.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 34
   - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
     excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
     publishedDateTime: 2020-09-14T14:17:00Z
@@ -139,6 +143,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "OhkUb6w3UtfpREwfG48i6EGoKW+hx/wpvlpnjpJ4NNaoNM/2R3msy71h84ef5rBhOASZQR39V5DTgsUGVqKWItvBj0CeTAuAJhrxA4M40jEk79QOJsaNpS0/gek+APM7WjSVprPP9D1AGFh8y6BIJh03Z/ptRZyK+SnLufe+xlVx8tT+jdpFSNslr35zZYwdnnqDDQSRSPYeXTmBwAWVqOnwyd5UPWG6/Q1HofL6x8hYz24wHWPTLQ7kqF4vgHYcQINQwVE5bX57x8CCWc1eCFTC4ePGzCCiIPI1x+Alv7HDma9q48Js88MchkxQO4fizEvMLk6GeVc30lq9gTtYJlY9AJeaLdYa4SGCvDPYdgQ=;CsCOydudizzvar5hcYyJ2A=="
+secured: "jTCrsJo9bpKxRv+mpgrUAVTWyknXpByrptI2Kje25x8AUfhMqkFuW61dy+HoVcH4nVKOv0Bki3wv6mAgS2BodawH7rWJqLLiuMnidZSMQdkMUQYfu/cdBEisiMYGfroNQVv64caeIjkjJYVWVUsy6bCGlW+SmwWb+YZ+X+Pk2LMK4QGZGJ7Mlr1RiLPY0iNIKNG43AppUUnGXnYGoUTaHicYSK7kMAfMG0ZuVFx8AIbRkfCIFKfYEfQLlSJebUWzRnAWvmrwrEct3vo2tqViXjfppPB78kfArzpOrOwAxEzlWA2snJDgDsr9ILERDb4vJ+G8q41E/EFsUPOKSV4FchTdHOo5wpm2TEcMzzxOnrg=;Yr2GbdgkNSzdXDWMbo66nw=="
 ---
 

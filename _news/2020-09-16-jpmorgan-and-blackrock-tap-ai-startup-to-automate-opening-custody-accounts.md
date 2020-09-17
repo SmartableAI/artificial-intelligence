@@ -3,10 +3,8 @@ category: news
 title: "JPMorgan and BlackRock tap AI startup to automate opening custody accounts"
 excerpt: "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday."
 publishedDateTime: 2020-09-15T18:20:00Z
-originalUrl: "https://www.reuters.com/article/us-jpmorgan-blackrock-saphyre-idUSKBN2661V1"
-webUrl: "https://www.reuters.com/article/us-jpmorgan-blackrock-saphyre-idUSKBN2661V1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661V1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661V1"
+originalUrl: "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L"
+webUrl: "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L"
 type: article
 quality: 65
 heat: -1
@@ -22,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "JPMorgan and BlackRock tap AI startup to automate opening custody accounts"
@@ -50,6 +54,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "zTiIilaWOKvLFdxZPWOT+1Ja3IpgQ1eVhS1vglJBZPPxwZVrKiOZcdnTLdzCJ9eAf0u/3yvjo+ME6ehDOY2yZRkgek+2PBCQYe3VbtuLWCBF9Eyd83/AE/u4mfwVe5couxG9ayCfEtOvqnpg+SG8p7oPc6NPe/M0ouGbLi8/Ke2BTM1L9DekoxL4sk5YKZIv5zGHRtxp+K0gVE1M/oiJpi+xro6rDRppDzq82omy5dJud+n7r2F/1AacfhAzhxmkwntMzx/4D9kWWHsbU6sSz6VaC21hGHzkGfq/Zigs7vaKCBbVP4F0AgMWp4FNxhEmiBkT+KMXjnFio87Z4LmG3pm4BoOJJhbepQ0Z8DBPgIo=;6H5hkfoT8CzpW7Z/SH3rag=="
+secured: "dhqc7s0eRE1TwONhzoRX/GkFpKDDhK9gwTcbnWYZccZN1NLbkNkitmbGvutX0PS7LrUaIvuXSJx0kNzDa12DvsbKrzjs2jg3pIAPyWhoX5IZl6YdE+f4eHNnZ9PIsv6O9MUn7y901aUol0YXJZj/7r35QikvChlKQBLBFboEv5TrIKZGBFc/YfksKuReR4FIjcRYt06VXZ64mALSNybhDbQAXZO1Wt3GlAuhNJGr/LyodnJo/EeYp+QrCK93UfoSFyU8co+j8fsNjrF3RWmhx1PXW7zqFi1kB50Abtq96ZoL2Ipq2NSjKt++qXD4X1WadD78Azt5MW6wnfa/wwDXTYckVWvvcjTDZE+ASPMvbKA=;HDTkgEnGbwR7Gve6ZC//BA=="
 ---
 

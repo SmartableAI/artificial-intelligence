@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM can't shake facial recognition suit but dodges some claims"
+    excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
+    publishedDateTime: 2020-09-16T22:18:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
     excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
     publishedDateTime: 2020-09-12T16:01:00Z
@@ -129,6 +140,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "iREJ0WtOavTeaO5LGxlxDJFp8BKg2JKr5SxolMz8FjYyZluhSfD/HFebjOWl5CuA8/gsUgqNJKeP07MN7HchkCOT3dIZPHXodBDLJvJ9db3o62ncrJutDa3sbnyQDdL1/ItuA5TGv1IxvAU2wCyl3MnrLgYa6DlmZOtK4cP0kxYgWOF/mh9T9jcI7wBjvxUsszfafQazEbVBRMWndU0QrN9c5ERVsIyPC9Xak+aUKBnzbz1GtaWnDtmRqQrR/DCm4lrv4FpicnyD8x7rNSWV25fcHQpzpqeFonTgsDpCbvU71jA+VJhmG6pjGgDN5UmGUwv8DxVqm/pSA+d9fFwqXCShynjCfw8JLYvXuQ8Zzpk=;p3fixHM+oi5MQvKkYPtvSA=="
+secured: "20NNVIsY50w6WJXwuhLiOjKYO+a8VhTQ8uBWK1cUQ4f8tqfXuIrQr96uQTg0vAfgmluYgcjz8Oi88bestaMpMHHqmqsIyWCSaPPUjt59pYXYoh5FAAP/cjYWZh3WrPwS09EcjYS6R+xJzXryQfG/IsDBEMdTd1Vwgxz6RqnS3Pl4ftU0R3VD6WD2CcBvygw14SZ4i2n+oZmzvJc6VhfVG+Ls2Shsiq4xXrZR/y5Pu6xAL0yMHOfzMIUnk1rhIWkGtaRbYoXWAn3FQdMSPQUU544xS8GX6ThQTpPvpK3qiEDnuWmbYx9FXTsUpT7w87Dqy2rneAk17ZizIkAThBanJeHDGLO0NjpCicIXr/QAAGRdOoAcyuh937sG8CCrW5GHx8Mi5ahoY4TuBj3a12RBCefl9Wsqgg+EePGwa1FuzeOJ2/F4wBpe6LQ0LCkemQebkQMEPzDxQszbAXNGXCe9YpIHkUVXZMs2M+BR420Sn2g1F0PFuzaHYWIwS4ky+V+r4HPjAvXylFum0adK9gYhbg==;a1cJPV361MFA95g+3agNog=="
 ---
 

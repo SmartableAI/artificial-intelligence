@@ -59,6 +59,20 @@ related:
         width: 1405
         height: 874
         isCached: true
+  - title: "Facebook’s Ray-Ban glasses are coming in 2021"
+    excerpt: "The social media company and the fashion frames company EssilorLuxottica will team up on glasses with cameras on the front."
+    publishedDateTime: 2020-09-16T18:10:00Z
+    webUrl: "https://www.fastcompany.com/90551321/facebooks-ray-ban-smart-glasses-are-coming-in-2021"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-facebookand8217s-and-ray-banand8217s-smart-glasses-are-coming-in-2021.jpg"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "zgKoKGrlcRzj6WjxHT0Yp7VBk3xZiBLmxSUHxx+XlItL1pWGgDjusurrVCmPRTLm/i1BOjhv/qHJm0tyBB4hY9LnWX8ByxaGbzVZM1GiM27SpOzI5dYczAtn6Z8vWtUHHCRw1SWIJ336D+QQHlprWNM+VCT0zn1mPvr/nRdTIPxVpUqXBFTQqlfryJaxpuAD7yMQ9G2HL1/vdYRlH16VJILKkScYv5ZfmJHuL/7QHZBeaxHovOnPOw4qtxfkFgP/C0TrVWH3g/KWo06QAtIpAEQ0nqnBEsgs81MvLCbVXQJhcUDY5mELRcwSidGikyu2+8LcOA8xgZrJmm8TcAGp8r+Oirx5sqyrLiJA2NiRoxfS5SGYV/kpwXubYtFubEnf0rAcJNIu+lSnp63MjeAX9z1K6EV+uKIvmcVv/7Vr4GPlx0xFGCCRHqzYS+c85JkJW4K70yJVPgO46W3UJA3dshvwKkRJZu47Rm50+4CsPykPJyp6mVUbuk4tp4m8djBLsCnQmCmLta7QmMvmFmk0vg==;Cj/rNJs9YuLlT57iqDHH4g=="
 ---

@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Uber self-driving car operator indicted in Tempe crash that killed pedestrian"
-excerpt: "The indictment comes more than two years after Elaine Herzberg was struck and killed while walking across a street in Tempe. #phoenix"
-publishedDateTime: 2020-09-15T22:06:00Z
-originalUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.html"
-webUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.html"
-ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
+title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
+excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
+publishedDateTime: 2020-09-16T20:10:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged?ref=hvper.com"
+webUrl: "https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged?ref=hvper.com"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/a87ea82a0cde6bef13993171e53d58316cf8c7ae/0_69_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2ba9163c913bf8cb15e652a4c351573"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -246,22 +256,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
-    excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
-    publishedDateTime: 2020-09-16T20:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged?ref=hvper.com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-    images:
-      - url: "https://i.guim.co.uk/img/media/a87ea82a0cde6bef13993171e53d58316cf8c7ae/0_69_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2ba9163c913bf8cb15e652a4c351573"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Operator of self-driving Uber charged with negligent homicide for 2018 fatal crash"
     excerpt: "Distracted driving is an issue of great importance in our community,” County Attorney Allister Adel said. The operator could face 4 to 8 years in prison if convicted"
     publishedDateTime: 2020-09-15T23:26:00Z
@@ -400,6 +394,17 @@ related:
         width: 933
         height: 700
         isCached: true
+  - title: "Uber self-driving car operator indicted in Tempe crash that killed pedestrian"
+    excerpt: "The indictment comes more than two years after Elaine Herzberg was struck and killed while walking across a street in Tempe. #phoenix"
+    publishedDateTime: 2020-09-15T22:06:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.html"
+    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
   - title: "Uber driver charged in self-driving crash that left a woman dead in Tempe in 2018"
     excerpt: "An Uber driver has been charged with negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. She pled not guilty in court on Tuesday."
     publishedDateTime: 2020-09-15T23:37:00Z
@@ -438,6 +443,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "oa8d6do5BJTS6koQwSVoijtJU7KM3E8R+peqhxXFSvZ7AY6Jvlog2CyV7XqvvfjY5LlueNZlkvx4vM9rivKQEYzc1QH3/wsWPxipOniaLFsQOtjb80f1K9WP7m0p/vyX8m88/54t2YvDwkvQJf+7eXjCEQ0F4cE8qoyWEh95lNBehK2FmS6s7Nwk4WVIVFT1X0NGbT3xg/suobyVOyPOWl4Objiy4TEb8F7DSAIVvGoENiCVSXvVQnV+q+mXoFPDxW3AaQSXKYSlNExWqhtAoWXjGOo0JQFBDvmSG0bjOe2uSCmPJcBhyiHRd4MlF8dNwBvh/Doty4RyE96XQ62J+jX2enths1DLMvcOcWWBuwM=;K6ci/NtphqZnpMO2a165lw=="
+secured: "fXL5xPVISgnwtkYYhKB2V9y2Afj6W1zJAY05gAxKyA5iB9jzcMByjne0NYeJ3WgXkovmZUuAcOu9JYXlANgjdDi2yJYtRrhoyVrYPkK72F+u2dQhSE1oi8utKkv8G4pLXDyN8Zwn0wlbZMEaUzSLPQ6Ozh47HJhh7ueDD+CLBVfaTN9IEh/+cboyYx4kbvdMqAXx9Ug6Q5OQGQD8RSHE98xuTnVWIHugO+1AaOXM/hf82e5+0TFLAnxlbk9TfDbTZz9t57PbalUj/IEUIVqXZOkYWwFk2EA4CQNLGjcMyqGKYLZ2Oa/+0Tcttq5xNhg5Q596YTTA9ujuAnrM92+eXB45Z0t8ZQ9nO/n4ucU+Gjk=;97Gzh5G6VlfDU4oXYsWQjQ=="
 ---
 

@@ -1,24 +1,18 @@
 ---
 category: news
 title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
-publishedDateTime: 2020-09-16T11:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research-firm-1029593949"
+excerpt: "SAS has been named a leader in The Forrester Wave(TM): Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS"
+publishedDateTime: 2020-09-16T11:26:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
 type: article
-quality: 48
-heat: 48
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
@@ -37,6 +31,6 @@ related:
       domain: benzinga.com
     quality: 14
 
-secured: "USqOCN9kzwpbtyB32RfpKyzfVFKRJ170NXz+OdKPSvdrWxPAwWb7A0qWxxMFYQ/bDGO/vDahIu7eZTDs6fmhVW+ztRntAPeub4j7Q1m7JXNZJf8p5U/1NaYc6WJcwJiSkCYJ0TkSwM5jynrfII81PDjrGF9AaZT5oNh0isWLKdmXixRKVgsVhAzjaXwjOZKTX1fqOjG7vBIBc2r0HR0SPwD+mceJ+tPJQq8OZlQuu3PkvgE8BiodnooAq6qqG641jrN4SgkT6Zmp4pPaP7L7x7Dpcnn6b79zBTs3NAU478ap0rNKiPWAowmlSiDDBmMBa3WiUf9etBa0OYvh9O1Q5O5dCfmp50CJnFek/3ZvAAk=;G1aEMRZbd6Lx1fHIMHrRHQ=="
+secured: "nqGgWEkqq6ypGWqy1as2ZV0eJq5/6tvD1GvMWG9Meeb254jfahuGs5LIxL4VVKTHN49AQl98TPDUkFdkJPLxpjCyIi1rpr3WilS8shwq+tpbcWlqUmkmwhlLeMWOXSXOotaIQZ+74d5NrWePiwguzTpCuCyN5D9lMqnZ3UGWwYNdmCL1e8JQ3DFJ+RvQ1GaSFnMxpdB+u/su7IRjxmi5mfEpG155527tX2YoEFoslaS1yB41z/UT5k9aS3E5dgY5G82NY8IM8sYDO6es1K50XXv2qw32ebdLvZ9IjCBOgZe8D2hOEsXjLy+XPbCj+zk8DjJvaL9wsNd3YGIGS+4piTPkD5UDA2ZU9n+M1DqrRk4FeFMyFcIkqCVbeNQHLOv+6OK586tpgcg2KQEBx6wWYVTuoQdf1hhiNPJ3XryKN2aaegraoDBc0AUJJHvm3x6Kaae/Iyso/MLP7Gxkp8k+tWXw7GiE0nIhxGmZ9Zznt/EhYBI4+zr1U+VIKUgSUrJD+tOFxTHMp1TZpzS9rpLH1w==;/mJKTttxD4EpseyxaCyvtQ=="
 ---
 

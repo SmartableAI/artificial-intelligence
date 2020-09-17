@@ -252,6 +252,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
+    excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
+    publishedDateTime: 2020-09-16T20:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged?ref=hvper.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
+    images:
+      - url: "https://i.guim.co.uk/img/media/a87ea82a0cde6bef13993171e53d58316cf8c7ae/0_69_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2ba9163c913bf8cb15e652a4c351573"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Backup driver charged with negligent homicide in deadly Tempe self-driving Uber crash"
     excerpt: "A backup Uber driver who was in a self-driving Uber when it hit and killed a pedestrian in 2018 has been charged with negligent homicide, according to the Maricopa County Attorney’s Office."
     publishedDateTime: 2020-09-15T22:42:00Z
