@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -49,6 +49,22 @@ related:
         width: 899
         height: 300
         isCached: true
+  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
+    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
+    publishedDateTime: 2020-09-16T10:30:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/09/11/a38032ce-5d52-488e-93e8-c726297e438f/cloud-ai-use-cases-2.png"
+        width: 1017
+        height: 559
+        isCached: true
   - title: "Qualcomm announces three new AI accelerator chips to power edge computing"
     excerpt: "The company also is testing a Cloud AI 100 Development Kit that includes a new chip, 5G connectivity, and Snapdragon 865 mobile platform module."
     publishedDateTime: 2020-09-16T13:30:00Z
@@ -60,17 +76,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 85
-  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
-    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
-    publishedDateTime: 2020-09-16T10:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+  - title: "Qualcomm announces first shipments of Qualcomm Cloud AI 100 Accelerator, Edge Development Kit"
+    excerpt: "Qualcomm Technologies said it started shipping its 'Qualcomm Cloud AI 100' AI inference accelerator to selected worldwide customers. Qualcomm Cloud AI 100 uses advanced signal processing and power efficiency to support AI products for multiple environments including the datacenter,"
+    publishedDateTime: 2020-09-17T09:40:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-announces-first-shipments-of-qualcomm-cloud-ai-100-accelerator-edge-development-kit--1354332"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "24YNqZ0xKyAtDGW/aREQfYDH+uLi0EHx5rqG5clmjYIVG+iBOJc6GKwW2hciSGdCRypjKWlJYpWKtHJ0kr3lofHuYja8lQQDTEnTW41MryoABiF+4akiwqRrfIvE0L6oT4anIml0YAzkWljOMuAzJCx7ixSPh7Bh5TNEk56dyebOfH20fIw56xD6xBT4wypuIojGo0nIbeCrEdbh+Y+hRHWZI0WgN5cdqrZDtWzRcCPV4tyfHAXmbJTTnY6M1gLk+M+h17opAEzwxv4QqAR1gbNBrNmAJuUyLWFfFEIRj3bB/o86vgKkpJABbO+ZUiMynmnudtFzKHAojkrivA7V/ZJ15KZoWMw3Ztr0a+JWriJSFeXgWRwCFRkJVcsEY7EOZz1jKxNnpE0bviijt5JPWSzgIhQjY2F1DcJ5T0dNGY/WV2ZpL6RpT1viTNNTuPi5Sjgi+yUUKo0d+6Ktbj24OAm5+QfhngXRAzTjDEypzOSbikEYPeJoB0/BF20NwmscB/8gTEY1fyI49iX/TPIA6A==;hmYbY5xijT7gPuUJP884Ig=="
 ---

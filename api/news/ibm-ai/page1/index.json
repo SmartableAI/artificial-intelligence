@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-17-ibm-nielsen-partner-on-ai-weather-based-ad-service.md",
+      "title": "IBM, Nielsen Partner on AI Weather-Based Ad Service",
+      "excerpt": "The service uses machine-learning models to find correlations between weather and sales data across the U.S., and then recommends actions for marketers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
+      "originalUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-232838/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean.md",
       "title": "Here’s how Watson Assistant and Soul Machines are helping the UN keep the oceans clean",
       "excerpt": "The face mask you’re wearing or the plastic bottle you’re drinking from can easily find its way into the world’s oceans—through improper disposal, or through flaws in the waste management chain like improperly managed landfill sites—and join the 5 trillion pieces of detritus clogging our oceans. The",
@@ -1299,57 +1349,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers.md",
-      "title": "IBM launches three free AI-focused online learning platforms for young people and their teachers",
-      "excerpt": "Teachers working with younger students in the K-8 range can use IBM's Teacher Advisor with Watson to better plan lessons that meet the individual needs of their students. Rather than teaching particular AI-based skills and information about emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
-      "publishedDateTime": "2020-08-13T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

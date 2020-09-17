@@ -7,7 +7,7 @@ originalUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/a
 webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-vendor-aidoc-radiology-20m"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

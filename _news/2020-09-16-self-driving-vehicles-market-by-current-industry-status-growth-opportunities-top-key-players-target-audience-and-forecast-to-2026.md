@@ -3,8 +3,8 @@ category: news
 title: "Self-driving Vehicles Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2026"
 excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
 publishedDateTime: 2020-09-16T10:19:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16?mod=mw_quote_news"
 type: article
 quality: 23
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "d/f15S6tQGlPrgJdXN4GdndGjux7inh2mNAq6o06qF5f7tmMHfXqLlgWMkSMMbEnXlz16Q1zSv4WhBKxtuDmezg5H4CepsQx/VFi1jjGEQO3i2mJ4cdeDdd3DgxWZn+vb6ipfzuX0uLcEcLDmIW9L7ABdUMq3PWFt6nvH92hMf3pCLLQWT47/UvEX+xYoITS8PG7Cows5lUcuY+LRYW/5JLS+t6JieZZun3izJBI6qYFoYjFuIX4TfuYBQcjVgmU8ySXJIb4Hzyw7QJLoTHXomhY4azVnspB2mSGqOOd5gVgsBdqK7lQFCxYCU0fCANcmIECdWetCYelRCb6CpIeWIDFcioXhxQ2TeOMOyOn4/I=;EVViLqS9jc5PG1nJCq9Knw=="
+secured: "3z0Uptw74HbUweYEHV4psVHjY7obZJNYoYK4ffKNccV32/c4Zn2S33rg7dombXvC2GXjAE4OkWvLZuYYAueFHyFnHyi6Fn0SLm06Gd+aHZsr+OcdI6krNGpmelgdHVlpWkTpDT6zwY+IDkTmGyEIdhy4gMTopVPKNaz1zhfiA/S1BaTH3wci/uMn6NNYURPFUpZ9cfbqaXZpQAfPtaFqZKj4ZkGEjkw+wnifoReMP75uiv4OXCB4t3ghbFTjuoaG7zLxsfre2esGd55DIW7qa2m4COpBgQPO3mcTnDi1MIl9IYjpIpE8ZXn60wxtECwi3bDP17PDVjEYNjwuQm0ZU653+tIsznoo/jQljpp8icY=;JCW4Hdz25+TGV6Z/F/f1+Q=="
 ---
 

@@ -2,6 +2,138 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
+      "title": "NIST study finds that masks defeat most facial recognition algorithms",
+      "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "publishedDateTime": "2020-07-27T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-exploring-the-three-elephants-in-the-autonomous-vehicle-room.md",
+      "title": "Exploring The Three Elephants In The Autonomous Vehicle Room",
+      "excerpt": "Today, in the area of Autonomous Vehicles (AVs), there are three elephants in the room which are worth exploring. Let’s get started. Is it possible that the current Artificial Intelligence(AI) engines underneath AVs are just the wrong architecture and may never work robustly ?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1eea43aae75494c2b3186e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "publishedDateTime": "2020-07-27T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-3-robotics-stocks-that-will-make-peoples-lives-easier.md",
+      "title": "3 Robotics Stocks That Will Make People’s Lives Easier",
+      "excerpt": "Robotics stocks represent one of the most exciting investment prospects for stock buyers. The increasing importance of information technology in manufacturing and the development in the concept of the industrial “internet of things” are likely to power robotics stocks to a new era of growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
+      "publishedDateTime": "2020-07-27T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-halliburton-forms-strategic-agreement-with-microsoft-and-accenture-to-use-azure.md",
       "title": "Halliburton Forms Strategic Agreement with Microsoft and Accenture to Use Azure",
       "excerpt": "Halliburton, Microsoft Corp., and Accenture announced they have entered into a five-year strategic agreement to advance",
@@ -1015,138 +1147,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-disinfectant-robots-tested-at-tokyo-train-station.md",
-      "title": "Disinfectant robots tested at Tokyo train station",
-      "excerpt": "A railway operator is testing disinfectant robots at a station in Tokyo to help prevent the spread of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200727_22_864046_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
-      "publishedDateTime": "2020-07-26T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-the-6-biggest-technology-trends-in-accounting-and-finance.md",
-      "title": "The 6 Biggest Technology Trends In Accounting And Finance",
-      "excerpt": "New technology, fueled by the explosion of data, is transforming business as well as accounting and finance functions and firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e55e18ba283c9ad86684a%2F0x0.jpg",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
-      "publishedDateTime": "2020-07-26T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-new-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.md",
-      "title": "New approach reduces power requirements of neural interfaces while improving accuracy",
-      "excerpt": "The team, led by Cynthia Chestek, associate professor of biomedical engineering and core faculty at the Robotics Institute, estimated a 90% drop in power consumption of neural interfaces by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200727/New-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200727/New-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200727/New-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.aspx",
-      "publishedDateTime": "2020-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

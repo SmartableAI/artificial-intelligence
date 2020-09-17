@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flas
 webUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html</loc>
+    <lastmod>2020-09-17T03:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/356293</loc>
     <lastmod>2020-09-16T22:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171</loc>
+    <lastmod>2020-09-16T18:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -277,7 +289,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSL1N2GC083</loc>
+    <loc>https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSL1N2GC083</loc>
     <lastmod>2020-09-15T05:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1441,20 +1453,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
-    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-1029570594</loc>
-    <lastmod>2020-09-08T09:17:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
     <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/iflytek-corporate-social-responsibility-csr-report-details-efforts-to-make-a-better-world-with-artificial-intelligence-301125669.html</loc>
+    <lastmod>2020-09-08T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2359,6 +2371,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated</loc>
+    <lastmod>2020-09-02T12:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/</loc>
     <lastmod>2020-09-02T12:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3235,7 +3253,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

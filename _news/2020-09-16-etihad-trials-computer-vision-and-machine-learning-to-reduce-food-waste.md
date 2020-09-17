@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-16T08:44:00Z
 originalUrl: "https://www.futuretravelexperience.com/2020/09/etihad-trials-computer-vision-and-machine-learning-to-reduce-food-waste/"
 webUrl: "https://www.futuretravelexperience.com/2020/09/etihad-trials-computer-vision-and-machine-learning-to-reduce-food-waste/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.futuretravelexperience.com/wp-content/uploads/2020/09/Etihad-food-waste-tech.jpg"

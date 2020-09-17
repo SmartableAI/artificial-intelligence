@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-17-how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.md",
+      "title": "How NVIDIA’s Arm acquisition will drive AI to every edge",
+      "excerpt": "However, NVIDIA has been frustrated in its attempts to become a dominant provider of AI chips for deployment into smartphones, embedded systems, and other edge devices. To address that strategic gap,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "originalUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/07/keys-to_access_solutions_rubic-cube_puzzle-100728331-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html",
+      "publishedDateTime": "2020-09-17T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
       "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
       "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
@@ -52,6 +102,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-17-ibm-nielsen-partner-on-ai-weather-based-ad-service.md",
+      "title": "IBM, Nielsen Partner on AI Weather-Based Ad Service",
+      "excerpt": "The service uses machine-learning models to find correlations between weather and sales data across the U.S., and then recommends actions for marketers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
+      "originalUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-232838/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362.md",
       "title": "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%",
       "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD",
@@ -59,7 +159,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -497,7 +597,7 @@
       "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "featuredContent": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1109,87 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-the-clippers-fell-short-of-an-nba-title-but-doc-rivers-still-showed-the-way.md",
-      "title": "The Clippers fell short of an NBA title, but Doc Rivers still showed the way",
-      "excerpt": "As the LA Clippers head out of the NBA bubble stunned and disappointed after being eliminated by the Denver Nuggets in Game 7 of their",
-      "sourceUrl": null,
-      "webUrl": "https://inside-com.breezy.hr/",
-      "originalUrl": "https://theundefeated.com/features/his-message-was-powerful-how-doc-rivers-made-an-impact-in-the-nba-bubble/",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
-          "width": 1143,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Undefeated",
-        "domain": "theundefeated.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-ai-and-machine-learning-tools-can-help-separate-covid-related-claims.md",
-      "title": "AI and machine learning tools can help separate COVID-related claims",
-      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings - many of which have not undergone a thorough peer review process to gauge their reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f134984011-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
-      "publishedDateTime": "2020-09-15T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

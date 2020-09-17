@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Online Learning Market 2020 – Global Industry Analysis, By Key Players, Segmentation, Trends and Forecast By 2026"
+    excerpt: "Latest Market Analysis Research Report on \"Online Learning Market\" has been added to Wise Guy Reports database. Pune,"
+    publishedDateTime: 2020-09-17T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/online-learning-market-2020-global-industry-analysis-by-key-players-segmentation-trends-and-forecast-by-2026-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "itzJX2QTxXt3eQm8qYA1+yUJQAopuJnBrhjMjIDYTzYv6mZM/t6XMXYJVDPJjvidjB//xhbvDWtqvBt9m6gX6IwZmAKyKhQms7Y+7pJPy3Y6ww/WnId6w6xqdYm1lm+KS6lGNNboND6DT1O4ey61BM6yt/EJJNa4AZNyqBcqYNt9eDByy0a3Z/Hu6EJO5QmQ9WtJ0ZY7UeneERojm/NPvJL91lpS5bgOtFqyALPGANdqk9aolcXAndYsfwrHrUgQaNBWo3o4b1njwZI6gmuxjZ6YFnclkxF3eqrhea8uX7DXSFr2DhJu9Jlvced0K5MK3rpqFU0AeyYzS59gkNtmurHtk49JhnkgPzSw/Q2EZ38=;neDS5srbK0XEo9SO+urHkA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074092&name=ibm-and-
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074092&name=ibm-and-nielsen-launch-cookieless-advertising-tool"
 type: article
 quality: 44
-heat: 74
+heat: 44
 published: false
 
 provider:

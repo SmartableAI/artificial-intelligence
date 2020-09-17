@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-09-extremely-social-robotic-fish-unravel.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-extremely-social-robotic-fish-unravel.amp"
 type: article
 quality: 36
-heat: 46
+heat: 36
 published: false
 
 provider:

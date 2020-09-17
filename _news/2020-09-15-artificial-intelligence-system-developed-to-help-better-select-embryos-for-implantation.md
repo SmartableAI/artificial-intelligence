@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence system developed to help better select embryos for implantation"
-excerpt: "Investigators from Brigham and Women's Hospital and Massachusetts General Hospital are developing an artificial intelligence system with the goal of improving IVF success by helping embryologists objectively select embryos most likely to result in a healthy birth."
-publishedDateTime: 2020-09-15T13:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/bawh-ais091520.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/bawh-ais091520.php"
+excerpt: "For many people who are struggling to conceive, in-vitro fertilization (IVF) can offer a life-changing solution. But the average success rate for IVF is only about 30 percent. Investigators from Brigham and Women's Hospital and Massachusetts General Hospital are developing an artificial intelligence system with the goal of improving IVF success by helping embryologists objectively select embryos most likely to result in a healthy birth."
+publishedDateTime: 2020-09-15T16:34:00Z
+originalUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.html"
+webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-embryos-implantation.amp"
 type: article
-quality: 31
-heat: 31
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-ivf.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "qgqyE8XpLF/FukWhdJkZynPZlLtgeDxkjZMk3IWIKuFjN/lpCjnAx7t5Zvr014x8/RK9T6xbC3NxnYn+zOeDVp6YY+QtyGGaBasV2ccqPU0v7K3FM4ant6Bcmmur4/TepQh+ZbXsB6+gbu8mLr99t1cEzjpvEAxmkKpQ/W7TfsqdnEZMtZg8hRvpqb5gWc256BWDtEctNpLxvd/BzxYTQJipvoj4M/dKeQkEf/QY0C/VFRpudPeT4ODbBfaa849s5R12aF44dXKgAl5uCyqOMX0TPCx8ZQJAwSKi4yIAaQt2K9ngxPnJ+EK87heC+8bambjZ+zqBfG3ZkOZ8JZknRTDubtuKqVn+55nqNzeGvaQ=;iUVHR5kgjM5Xx4O4FD37QQ=="
+secured: "iZrtLZhyJ/cz1I4J/OovL0BBW6jWlhDrP2FQR6QbMjSdZqKOSIXkQHVEo4hyFAac/8SCJHKWGIhECmZ+2A5B7a/e5BnXsVhb21jmtmXgtRTc0ForjU5BgBuRikk+b13gVCgSZO0ZNMiWBL2j/oUE63GwuSLECPLr5CkqYINISaR4ZFDejg9/ZO1AQLHgI1pW+Jbwrd/1RBI7KTFoREzSWELDOWz1KcELMTQ78U+oqf2M4W8nMl2mf9hSxhw0/A4MCG27QbyTRjfiKj2GEm6nSE5DDf9hr9jx69i4EuwSN34W2MUjoz3ipmcY7Z++4fdtBgw8XGqSnbZEa47GnDvoUpDcM39P03AO5xVHJGWkqmc=;nvpSMiHR/aHnW6BvKR2ATA=="
 ---
 

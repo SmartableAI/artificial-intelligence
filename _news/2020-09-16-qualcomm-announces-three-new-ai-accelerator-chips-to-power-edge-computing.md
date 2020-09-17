@@ -68,7 +68,21 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/09/11/a38032ce-5d52-488e-93e8-c726297e438f/cloud-ai-use-cases-2.png"
+        width: 1017
+        height: 559
+        isCached: true
+  - title: "Qualcomm announces first shipments of Qualcomm Cloud AI 100 Accelerator, Edge Development Kit"
+    excerpt: "Qualcomm Technologies said it started shipping its 'Qualcomm Cloud AI 100' AI inference accelerator to selected worldwide customers. Qualcomm Cloud AI 100 uses advanced signal processing and power efficiency to support AI products for multiple environments including the datacenter,"
+    publishedDateTime: 2020-09-17T09:40:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-announces-first-shipments-of-qualcomm-cloud-ai-100-accelerator-edge-development-kit--1354332"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "hH7f5kmOl8CHauJ/Si1nf2xjafSlsdEKxr67Mg7904j9G3MyLQMHkjU2/14LOlR1uk2Nb3d/XHcTNG3QpSSfq2LZsNSENx/Xzw6SFZja7W3AVdqQoUF/Y1EMHeUVar7SL/e1ouI1qU9TZPCjpxBXWWP6DkuCSVHy7oBXgM18UzDRYp2gTRQ2qCYBntI5Pc5fvST908gICQwsNTCnAijmnblTTnymhxoqs6XjWRlOjPUvTa/Xj8T1efzK2xMr0dY4XEdS/q41jKgicTpVkoOkfj6nUcLFDEJKvOkVIfFTogKg5gayqmfsoTGD+Wqii7Jpt4GSQ5B+bLK/5uTqXs5NbZoW01iDeYnXQ555lrzh9PWkxeeTLP+YBMqk4ZmIR8mXBF9fIKXYgBcz8g4H5tQvBuwexyIXKEpMGU07S4Ly2zvnU0V6JM8gnfn1HCsHQYINmxG2yobUz/xSu3Lq3rzCe+sZCiJF9qYy6IOb/e2Mc0/QvvaTOyGPNaVlUG9TzuNqNolcm+9CdDqHXfdPCPVHqg==;9BFJk6fCrDNoi/qoxXj47Q=="
 ---

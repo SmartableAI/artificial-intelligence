@@ -109,7 +109,7 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
       "featuredContent": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1295,6 +1295,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-03-anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated.md",
+      "title": "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated",
+      "excerpt": "AnyVision is the world's leading developer of face, body and object recognition platforms. Our solutions are built to function on any sensor, with any resolution and are proven to operate in real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200902005892/en/818051/4/Cameras+PR3x.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17357774",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17357774",
+      "publishedDateTime": "2020-09-02T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
       "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
       "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
@@ -1332,38 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-pershing-takes-step-forward-to-a-password-less-future.md",
-      "title": "Pershing takes ‘step forward’ to a password-less future",
-      "excerpt": "Fingerprint and facial-recognition capabilities for NetX360 desktop is now available on Apple devices, with support for Android planned in 2021. Imagine never having to type a password to access ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "originalUrl": "https://www.financial-planning.com/news/bny-mellon-pershing-adds-facial-recognition-authentication-technology-to-netx360",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

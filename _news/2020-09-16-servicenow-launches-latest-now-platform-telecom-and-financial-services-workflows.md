@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/servicenow-launches-latest-now-platform-telecom-and-financial-services-workflows/"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

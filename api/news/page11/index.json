@@ -2,6 +2,97 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-08-facebook-is-working-on-ar-glasses-with-a-focus-on-audio-clarity.md",
+      "title": "Facebook is working on AR glasses with a focus on audio clarity",
+      "excerpt": "Facebook's Reality Labs Research wing is currently working on a number of projects designed to help us cut through noisy environments and zero in on folks we're trying to hold a conversation with, or enhance our daily lives when used with AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "originalUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/",
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1fac25b/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F1a%2F142f80554c73bf2b53bb42bb56e2%2Ffrl-research-audio-demo-2-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/facebook-reality-labs-research-audio-enhancement-ar-glasses/?amp=true",
+      "publishedDateTime": "2020-09-08T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020.md",
+      "title": "Edutainment startup SP Robotic Works bags TiE50 Winner Award at TiEcon 2020",
+      "excerpt": "Pioneering as India's edutainment learning platform, SP Robotic Works has been selected as a 2020 TiE50 Winner in the prestigious TiE50 Awards Program. This ten-year-old awards competition is",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/08/full/20200908170816.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/edutainment-startup-sp-robotic-works-bags-tie50-winner-award-at-tiecon-2020-120090801411_1.html",
+      "publishedDateTime": "2020-09-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-rethinking-ai-ethics-asimov-has-a-lot-to-answer-for.md",
       "title": "Rethinking AI Ethics - Asimov has a lot to answer for",
       "excerpt": "Is the current obsession with AI Ethics doing any good? Maybe Asimov's Three Laws of Robotics wasn't such a great starting point after all",
@@ -1067,99 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-fss-launches-next-gen-recon-with-machine-learning-and-cloud-support.md",
-      "title": "FSS Launches Next Gen Recon with Machine Learning and Cloud Support",
-      "excerpt": "India FSS (Financial Software and Systems) a global payment products provider and processor, has introduced critical increments to its market-leading Smart Recon pla",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
-      "publishedDateTime": "2020-09-07T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-meet-the-8-foot-tall-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
-      "title": "Meet the 8-foot-tall robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
-      "excerpt": "Musk founded the neural tech company in 2016, and says the chip will enable a \"symbiosis\" between the human brain and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "originalUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f529d817ed0ee001e25da6c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
-      "publishedDateTime": "2020-09-07T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

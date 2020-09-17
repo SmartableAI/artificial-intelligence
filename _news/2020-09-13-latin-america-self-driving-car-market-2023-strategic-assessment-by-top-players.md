@@ -32,7 +32,7 @@ related:
   - title: "Self-driving Vehicles Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-09-16T10:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16"
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

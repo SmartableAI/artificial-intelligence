@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-11-googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents.md",
+      "title": "Google’s Lookout app for vision-impaired now scans food labels and long documents",
+      "excerpt": "Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind folks and this ought to make things easier.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/google-lookout-shots.jpg?w=1024",
+          "width": 1024,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "publishedDateTime": "2020-08-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
       "title": "Facial recognition use by South Wales Police 'unlawful'",
       "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
@@ -1348,56 +1398,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit.md",
-      "title": "Facebook raises settlement to $650 million in facial recognition lawsuit",
-      "excerpt": "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST",
-          "width": 831,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24W313",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313",
-      "publishedDateTime": "2020-07-31T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

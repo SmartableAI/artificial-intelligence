@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/detecting-hidden-c
 webUrl: "https://markets.businessinsider.com/news/stocks/detecting-hidden-companies-in-the-global-cancer-diagnostics-start-up-identification-2020-1029593556"
 type: article
 quality: 23
-heat: 33
+heat: 23
 published: false
 
 provider:

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers.md",
+      "title": "IBM launches three free AI-focused online learning platforms for young people and their teachers",
+      "excerpt": "Teachers working with younger students in the K-8 range can use IBM's Teacher Advisor with Watson to better plan lessons that meet the individual needs of their students. Rather than teaching particular AI-based skills and information about emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/",
+      "publishedDateTime": "2020-08-13T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace.md",
       "title": "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace",
       "excerpt": "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ...",
@@ -1298,56 +1349,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can.md",
-      "title": "AI researchers say we’ve squeezed nearly as much out of modern computers as we can",
-      "excerpt": "Deep learning‘s reached the end of its rope. At least according to a group of MIT researchers who recently conducted an audit of more than 1,000 pre-print papers on arXiv. We’ve run out of compute, basically.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/amp/",
-      "publishedDateTime": "2020-07-17T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

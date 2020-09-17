@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-r-d-directo
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
 type: article
 quality: 34
-heat: 44
+heat: 34
 published: false
 
 provider:

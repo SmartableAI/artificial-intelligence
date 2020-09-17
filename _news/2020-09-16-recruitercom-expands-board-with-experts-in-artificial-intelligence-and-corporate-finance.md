@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/recruiter-com-expa
 webUrl: "https://markets.businessinsider.com/news/stocks/recruiter-com-expands-board-with-experts-in-artificial-intelligence-and-corporate-finance-1029573657"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Recruiter.com Expands Board with Experts in Artificial Intelligence and Corporate Finance"
-    excerpt: "Announces the Appointment of Deborah Leff and Nick Florio as Independent Directors HOUSTO"
-    publishedDateTime: 2020-09-12T15:35:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-09-09/recruiter-com-expands-board-with-experts-in-artificial-intelligence-and-corporate-finance"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 58
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4mz2ItCM8dUPXIARRL9wjbhN5bylKhjKSK8lWiUof9L0wcSEz1fQGIiuIFHt50LGC/pVm26NA9JeXbfkaOq8HRqfw+4HdvGfBJXo1E9IFwW1oPZNeRzAP1CCpzJaKu88dQQT1dh0d9yO4fhPKFsnhiBO/dDma2R+lH/ZWZ/qa6Ro0BoHtxhDRi7FBcA0x8eBugnlYdZzg+zxflEUqfwcC7T7dUtEsqGHSt0XAKKXFbDGsj35UFG4sxog/CNsjsUqcz9csj/+YmQ0Lgg9ppx9kdTd+N1N+D677yURuNy5NuXZXUFDHYW8VlzL6+ovMQUbIhXE8h6/FdV+mFOMFyOBoPd0aTfbdESKudZWHdXkcg4=;lUr1sTJ8HK17C3c2JGXQmw=="
 ---
