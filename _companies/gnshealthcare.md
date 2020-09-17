@@ -2,7 +2,7 @@
 name: "GNS Healthcare"
 overview: "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments."
 type: "profile"
-heat: 50
+heat: 64
 
 website: http://www.gnshealthcare.com/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1063wrnhLHE"
 
-secured: "+9s17XugWFEC/5sYPk+KQnnztPovt0Ks2XqlUVzcURDi24NtCAh5GdzttlCOAPf07m2ftKWxfbtyZPEWKIiCtgD6A+0mDriP2Bi10M7nt8BWEgH/eopwzy65hhzOwWdUDkjewQ4aPIMZo2qcgf75H2VaCaxvA4cxtEZNDVhyyK6wpN/97QIxdffed7R7rWDvSEngJBkONrIHIBGPskN0xqqjTWsxG4GPzNHqZeKO2MbOuia3AKyasMu7PxmFlAme7sRHpYN68VyLbbuOx/jGkTx74HGVhb5ydTct/L5G3ylQs0KaRhBaudR6Qddt9582B+JBEr6sLv1TdJsVYO0BnMUTukhmNB9XFie85C3FV0yJpeTZtDFc1CqIfaaowHx+JMWua7u6aGxRmntbck6jceobJTIzfjXvxISY6qrxmqQ=;0/WTKFqF4AEFQQDYp6cRfg=="
+secured: "nOxnBqjEPLi9+xdxc5ccwPLI0aLRyFRLsLV9Wu5yBcAPVl9lNsB8c5G3Vxd/90aP1DxgiGYN+fdLLCkFa8WXGA4nOW4ZI6SsZCzZSq6XDyfzy+0jTqYcxoymC4w75XVwMSH7h51JGkprMge+imntTs0bLiOc+NUQ9eVWCcQL57o8sgEu1RNyBjqj7L85/tPT1NlYy0p8lQ5oFF9TeoMYAZthuUH+fWn8FzA9HaBfHH2PI6y7aSOqYTtO9CCilDxxRcSA06vvqF88uNRacvNgriZ7NoOAAYtMrdT9sXR18DkeaHOegtEczTAlHWpbDSJRMzMhau2VT84om4oWLskr76UzENxzpXWtUzpkb2LGrMQ2gqyiNRYpxdQOQlXQChel2EGNi1QTmd/lDz87eldXMzKWt0mJKNZcRVSQWSMXV50=;63nX1C3Xv3fuxtjkoQibmA=="
 ---
 
