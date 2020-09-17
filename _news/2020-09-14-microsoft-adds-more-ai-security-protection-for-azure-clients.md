@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Nokia simplifies Microsoft Azure integration"
-    excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
-    publishedDateTime: 2020-09-16T12:26:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
+    excerpt: "Nokia has announced a slew of new features for its Nokia Digital Automation Cloud (DAC) private wireless networking platform, including simplified integration with Microsoft Azure IoT modules. Nokia's new approach to software installation,"
+    publishedDateTime: 2020-09-16T12:02:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/private-cloud/8747/nokia-simplifies-microsoft-azure-integration"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/07/shutterstock_1456367552.jpg"
         width: 1920
         height: 1080
         isCached: true

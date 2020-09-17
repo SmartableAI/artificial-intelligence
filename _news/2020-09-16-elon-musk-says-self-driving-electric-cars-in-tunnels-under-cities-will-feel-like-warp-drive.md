@@ -95,6 +95,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Uber backup driver charged with negligent homicide in self-driving accident"
+    excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
+    publishedDateTime: 2020-09-17T13:29:00Z
+    webUrl: "https://www.engadget.com/uber-autonomous-crash-negligent-homicide-032513753.html"
+    ampWebUrl: "https://www.engadget.com/amp/uber-autonomous-crash-negligent-homicide-032513753.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-autonomous-crash-negligent-homicide-032513753.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 72
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F025fb570-f7cb-11ea-bfbf-c7f295791eb4&client=amp-blogside-v2&signature=d24d5c6c8b0aa170ff84e24a5bfe40df270c9470"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Uber Driver Charged With Negligent Homicide in Fatal Self-Driving Car Collision"
     excerpt: "Rafael Vasquez was supposed to be watching the road, but she was looking down at a video on her phone at the time her autonomous vehicle struck and killed a pedestrian."
     publishedDateTime: 2020-09-16T16:56:00Z

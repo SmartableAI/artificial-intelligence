@@ -3,12 +3,9 @@ category: news
 title: "An example of how attractive Germany is for artificial intelligence companies"
 excerpt: "Tübingen area is home to Europe's largest AI research consortium. Chancellor Angela Merkel paid a virtual visit."
 publishedDateTime: 2020-09-11T10:16:00Z
-originalUrl: "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704"
-webUrl: "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704"
+originalUrl: "https://www.bundesregierung.de/breg-en/issues/better-regulation/merkel-visits-cyber-valley-1783704"
+webUrl: "https://www.bundesregierung.de/breg-en/issues/better-regulation/merkel-visits-cyber-valley-1783704"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: Die Bundesregierung
@@ -24,6 +21,6 @@ images:
     height: 281
     isCached: true
 
-secured: "jqUNAUtg3z0gFHlqqcoPkX1ehQhgJ6IgQlpJCoigOhn2g7Di62Ev+9Om0IA7UkkbgaJYSDaoZXdRwW7CJgNRcdsyEILEGqki4VpAm7oAjXrJx8PMQMbtotWJO8BbBbr9SkZ09BWuBhp0pG9aXrJWqJiFST/7ODnPTpP09PsEwE4vsb38jVanO0JcqT2VZ+RUbnl/N0TSL4mxedqHI8j1d0Q9Yk5Fl/qhl6cXd1usqehRGfu8Wl5hmAvD8pAU5xr4fisIdjPWN0f4hORpCo90M9S4OiCOMW0gcooannyf+a44K1LrNnInx+HytDsvJpyNnd6QYGvkkN2VrW4a8gsYyxmsGZOkWxDo2YEmwBDt1QcAJHoKE76se1nsiUA+UVfDMl2BynmtLX7igZjPuYiKsxBpgvTWOvAzvNyL0bcwOQGE0K4w1S2tPQbffvzl8D1BUl2I0Fi99fWnLstzzlyvFu5BRt9RSJCjRQTG7fOkozLh/a4TI9sjro3+RdMBouMs2RsMgcMGRs0fFsy1djRmTw==;dlxzrK72x6wjMYObX8ZSeA=="
+secured: "F+bCqrW9LOAhrs+U/l+/oOQbWqdtkvI8i9CTEt5jo/sznzve4R48rbVfSwcI/4Y9rODJFXOmlWfa+wTJiQoSdnc2hW1GOE6biKxrxdCPfQPqd8gLNlwN/vEZ840ks/mZXi2xGIulhnIQ3YgVHXQz42NeM4sKmTvAKTZUPr1VzmiSxOX3IO0gmfuPGvYJmNKw1VTx/7SM5jg+Jus42OwMOBwudp3H4bfOTluR3h+FO/DxYQ5tyDkO4JaRBIaRNjXdEuIkVQOu6wi2HAmHiVgWWetQY5ee2i49Fjg0rePliU7gsaUQAZnUGD7a/w+q4jdKFDMG8PVVayqXjxOcd57nprx/S6WCw6MGMXIrMfOEALc=;TQtHzIHfljj4uCgjy0ghIg=="
 ---
 

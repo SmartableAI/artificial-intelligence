@@ -24,22 +24,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Machine Learning Best Practices in Financial Services"
-    excerpt: "Download this whitepaper and discover how Amazon SageMaker and other AWS services can help multiple stakeholders in your firm build and deploy well-governed and secure ML workloads."
-    publishedDateTime: 2020-09-12T20:13:00Z
-    webUrl: "https://www.finextra.com/researcharticle/153/machine-learning-best-practices-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 43
-    images:
-      - url: "https://www.finextra.com/finextra-images/research/153.jpg"
-        width: 1540
-        height: 600
-        isCached: true
-
 secured: "ixLXjuj1w9/hVmegeDsOPr8qblmbSNPTZdAUhnLgNkzwuW0hN1/wuvyrFdlKBjgI7jl9KYUXl0efZW9keGt3hDOFsJRMDKkBMgS5zjtC2t0n84HUTNCyhtALgnmzbrDUVmobdwB0aANvor/XZwwoV77UlZBqsbXW8yJHbn0ecUtGhOwTg/hNRvn7/IAKUVGkr32Dke7ihnPchT69vzxOO84xx5SK+g5asc7ThMc0c83Gd0LIaKhCQQNU5Tk2MFZmvftGOl/0VnfHu9x3IAG1zwKI/wmABfVFgBWB/tOtL6yNabIJMFJ1dcCjlqCPA4jHzp19EEj2gkGyKEsFjaQAqeqytAKuY93TTZOzm1R+er9TbzZgR5FiVCrVp0ewpv17dWGMYShRhcuMWaXa90YgVl9U/C1zb56Akx0EIpQsQXDsY42CH8i906zUkoXZFjkS83BAGZq5q654+QyC+QTXerEOvyj0eYHRpCVrfwkpnqUwqDSPwi7r9A3rtmNmcIgR6+qqwv6HbipS89QFCJehLA==;kH7ZjvnvtwDaYQfPM0wxzg=="
 ---
 

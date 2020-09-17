@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/human-resources/how-an-ai-platfor
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547/amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI presents obstacles and opportunities in pharma: Iqvia"
-    excerpt: "A leader from Iqvia will present an overview of artificial intelligence, machine learning and other \\technology during this year’s CPhI Festival of Pharma."
-    publishedDateTime: 2020-09-16T16:28:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/09/16/AI-presents-obstacles-and-opportunities-in-pharma-Iqvia"
+  - title: "How Artificial Intelligence Is Helping Companies Identify & Nail New Product Opportunities"
+    excerpt: "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas."
+    publishedDateTime: 2020-09-17T12:38:00Z
+    webUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2020/09/16/ai-presents-obstacles-and-opportunities-in-pharma-iqvia/11771222-1-eng-GB/AI-presents-obstacles-and-opportunities-in-pharma-Iqvia.jpg"
-        width: 750
-        height: 435
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg"
+        width: 1200
+        height: 609
         isCached: true
 
 secured: "Cg+6P5ImKbBDy03rKyf6dBEjTfsvx0/aGXHWzA1DcXDkpFFZfF318sDzdaJ0KPpZdjo+CdL8Itc1OB/OZAByjukP3yPGNqxBYYYgcpxsgWGtKIoHXk6uN4G5sHzuqSZgiaMmafTpe7a1b8k1D7jxy3kZZvq7hpccIGQCasFew/kghkVoXXblK8fdLi46D9KzF+JxiIAjK3jqGJR8ZY36WSz8dOktH+LdoOkecvacnEeTEikyxTi7bB5FFTsH9A0o81n7G1xIXPpqvlliuu4moAoHBSuMyQ3HQzkYOYyKNG5gaXnhMN5aQ5t25CLjRVXZskPV++IJi+PnN5anGmf6RTfsgpksFH/E57ucPYtCDVVCGI91fbQS5Rl4rpoFNYB/aRUZgKeODGKEjeeQJ8JYPTFlOLPBCPTd5c2WHTDR2RINkf6DAyMvVV1tBhA4dg1s8yLOWnyBsajENGkqbsrkx7ZzfBZuRPr0k9bkb0+Y4GEnpHS/J+lZiAt70aAkfw/+5U0WJCnOFqyCUom5j4rih+poj6K+6/PRWFIuBgDI3s8=;c6MvMlx+v5AKXBc2rVFEKQ=="

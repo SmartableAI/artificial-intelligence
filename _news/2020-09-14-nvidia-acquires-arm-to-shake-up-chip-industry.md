@@ -88,8 +88,8 @@ related:
         isCached: true
   - title: "Nvidia sends shockwaves through chip industry with Arm deal"
     excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+    publishedDateTime: 2020-09-15T14:19:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
     type: article
     provider:
       name: The Business Journals
