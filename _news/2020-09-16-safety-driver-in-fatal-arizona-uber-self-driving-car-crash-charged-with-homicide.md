@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Safety Driver in Fatal Arizona Uber Self-Driving Car Crash Charged With Homicide"
-excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-publishedDateTime: 2020-09-16T00:46:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
+excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
+publishedDateTime: 2020-09-15T23:33:00Z
+originalUrl: "https://www.reuters.com/article/uber-selfdriving-int/safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUSKBN2663FS"
+webUrl: "https://www.reuters.com/article/uber-selfdriving-int/safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUSKBN2663FS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FS"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -442,6 +448,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "XiDzsq6gVz+Uqkyk0W/ux3co/F1PFJlf1NiW1kFKe+uhpjVisI/julcbx2lXCijwZ1oDxwrfZ/u10kK0lleNyITvsDnkhW6NC2xvd4lhUng0LYzaE5c2QDX7Bi3bJiyllzJolTLViSpAZR0OVypYOPgsv14RmqQTywChmYbxv/bC/iu0c0ThUohIW3bRrptGuz/XjsKi9HcP9oUJim1/T1g7U5acMJSUKKM/in4VsYigFftnJfdFykhXEvmUDXm1vco8cueJ2TfHFtaZh3FC+7tlTkQN/8rUy/JUiktS7S89769O9TgCEDwPk8uJigVP+SrdEtdTL1ZtnIVcMzRHHesYVUQNgSt5bh6vZ/ivmfTR1FLcfrO7R75uwILU9PJPvJ8KYC7PpBCV7IfpPBbGk5PKuuATMgSu1vxad7lZFl5ptGQSQ7vXOh6nR0bVc2A2SmN/eZvqs206D3MmdJ0ntDHhDAtcV/HtlTrWsKtSzllx1C8PBlzu4rGk2wOFs4MMopdLxfBcZY6yCBMrn4FdQQ==;ArRE5/3SSe1SdAVcKOtSUw=="
+secured: "NbONQefReZOyItLkw+MdMepxRUKo9WhU4zOh/7mPUUreD/sJTl0sz+JWFAiJpKgarRdy9M1DQ2043jf0ACLm8l9Sd2m8qclcsW7Nee3zKL4y+1tsuEpmTkNylz/LmPYzAkrScdMSTYTPbttbdJAm3xbRIef4UQkxYX8iUPwvekiLf3l5rVsOR2lOh2XknyBN/h/S9aHWMYGXE62vEubhxLT592ki0Yqx7g7aJVACh9+WVJvEv/hRIwrk5SMs0l3e0YpoXvvEJylHw/G5Ty87jh8bqc3Xh+pASdH6NFmQZu62ia3yla+QoAUFQx7pP+me5vBLqnYoYP6o82cIT+Az2yHd38aWKggZKYovctqHvWM=;/W5znlzRCgXjshZGhH3EGw=="
 ---
 

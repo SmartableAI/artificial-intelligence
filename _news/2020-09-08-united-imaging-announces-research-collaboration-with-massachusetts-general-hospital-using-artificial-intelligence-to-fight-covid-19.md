@@ -1,26 +1,26 @@
 ---
 category: news
 title: "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19"
-excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai"
-publishedDateTime: 2020-09-08T16:12:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
+excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai will collaborate with Massachusetts General Hospital (MGH) to continue fighting COVID-19."
+publishedDateTime: 2020-09-08T16:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
+webUrl: "https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "rC32oEBV0f4qebLiyFd/8tkMURJBHzcoMe1QNwKtIoJeGpuRWZfgkRxmIWhrP+0RpL6WvZiVyfx+WOdrP94dxcdZ62BBhAt0u5Kj++o7zxhLKdYeIcxPhPLVGQJc17bZVGLnAU8a/wSv/j7AEtPpsQehABBSFX6/BrgaTjg7w9QaTZM0H90XyM8XB74sLcdguc3lEQzW+spGnBDv/JqdvZJ43KerCwOdBy0egnyfqrYPXrQbHsQhcdIlUHxd5BIKfIg73H8Omk+5M60JgVXP0oitixdfG0NgSPcfi4fEuXFEDqZgjx4FERG73va97EY3DjWs54Q2aGl3a84wetJTPRAueY+sGanfi/MC7hFoL4E=;6y3GxncK+bTHwc3ZI2vL9g=="
+secured: "sCU4Ym9HS4fmSKuUHVMhBtduXlpWt8xrYr21xSugV11uuNGAc9CEo8BKKF5WEjNiyEeN4ktA+QNp4615ilyFwsfwg8P2v8AmqBPaF/nhRA32ugblUCknU2+hJhsodX9NPkJ6uU8dfN+Pl3IBAzA8Wig+hkFwmr+W0lB01SOFZiTh0dsThvjW2nkXyjGLUyGTVXMR9n9uCFT5AsDD34pY+0bVUBvUE+Ag/58iSuvIEAWsS5Gf1I9/ro013g+WVSw5YUyfwkfEc/rJxJj/grqaSfrPCoPeufxN9hx9aJBDvXj0vCundFC/cYgwsjeYTrFocZZEkbfiEnDpEeaItg64wfYw+LmPKfPDQ0UWZUO4K7Y=;MyQjjAPTbkcxxEP1U7gRXw=="
 ---
 

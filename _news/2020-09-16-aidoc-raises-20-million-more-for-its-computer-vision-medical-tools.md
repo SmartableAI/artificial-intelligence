@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/AIDOC-101_websize.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Aidoc raises $20M in extended Series B round amid growing demand for medical AI"
+    excerpt: "Medical imaging startup Aidoc Medical Ltd. said today it has raised an extra $20 million in funding, bringing its total funding to date to $60 million. The Series B extension round comes at a time when customers are increasingly turning to its artificial intelligence-based software,"
+    publishedDateTime: 2020-09-17T00:56:00Z
+    webUrl: "https://siliconangle.com/2020/09/16/aidoc-announces-extended-series-b-round-amid-growing-demand-medical-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Elad-Walach-Pic.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "nXJjajGTNyf1sKwLEsJJiBcY+DQHc4J1PjS0McLZPHydayctMsLVEYimgddfnT9kX/azlMpDevvyWsupuwbaDkCa0surXtcCNr7JdR6tgU39U+lIgJIdM0jCyf270XKIej5DXZ2XBRnBigJN+vWnSxTGx2FUk0lXTEyMsVoZoKPxAfOKN6ToBxvpBmAq8W6db37zD2DEehgjhTB4zmPg48U7af49uwt3gKMihP7AZTS1H0IS/0PIEs9SGJeS9moty+8alao8BlxBEarvy96ExtILMMOUQ+5FB4GEGEftCqCEgWja8bQGaHxxyR261jMA7xBH45DWrpxh93IBOAA16PX1Xtdik9mngm4sedB69jonRNKw3hvU5A8mIcGYdjDA7hUdYnJXBDGPup/lBwbnCkU6e7/IyVQb19Iv6s12ujotTxgP1cYNqUoLrzS/AENllJXwD2aJZ8al3ntMJE0tlLXZLsjz3namZF6jfRv8ucevOqN4cGzK/Hi6QiGNq8oe467Rc9hj6pPIGSaG5olXug==;OA07U/XUUN8kHOkvD8+zFg=="

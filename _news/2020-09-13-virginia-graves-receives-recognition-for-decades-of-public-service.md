@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "WalkMe Receives Forbes Cloud 100 Recognition for the Fifth Consecutive Year"
+    excerpt: "WalkMe, the leading digital adoption platform and one of the fastest growing companies globally, today announced its inclusion in Forbes"
+    publishedDateTime: 2020-09-17T01:26:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/walkme-receives-forbes-cloud-100-recognition-for-the-fifth-consecutive-year-301132604.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/733440/WalkMe_Logo.jpg?p=facebook"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "U2nlu5nHh4twt0O97LRbVTopi8iot+aUCzTdiiG0cyQdjvqnweSHkbROLtG3eFqWQWUk2u3WBkSg3nmSocj7hDa32W4N+BNP5Y198K5IRAjc210adnXMrkxm6RDYVT5ee56/1MWrLGc3+ioYrKxtovzObG5DVZ65BBDGzQ1gUDYsJ0/mcCludKC+CA6+syVvprQziJlG0fkTVb57o5HqawfK3pPR8wvxNct3kPgzYAG9eP+Fm+d8FtOE9wKRetbsAQhClvVYOdWAbDpoFbTGjoO0FMogRhOFsD/WSfUXH+2/JrPZoxX6J329cHTnnAJBweGts5VzetOUNDO/SeDfVgQjnyVsiBtKQhXbJI6TkV6Yv+0cjCcLEMvko6NvTU43JITkrlS2PBKOg4GPaeA+eXtY+NNWOzutXj4qq6sWBH1vsNKXsf9zX/swooAWzHvzgaS4iRMb4juK0zP5B4pw8DJlBRac8zfCOgYpDbJILiDXyB6SvFzUSdMqDn1EP9UryFuK7CYrTKUmJLOV25dbeIt1HLpyghUurrhrTqwN48Q=;iAySvgKhkkVRrRDt+f8MyQ=="
 ---

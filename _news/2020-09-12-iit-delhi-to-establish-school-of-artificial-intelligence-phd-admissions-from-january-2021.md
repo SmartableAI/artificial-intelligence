@@ -25,19 +25,6 @@ images:
     height: 431
     isCached: true
 
-related:
-  - title: "IIT Delhi establishes School of Artificial Intelligence (ScAI) To Offer PhD and PG Degrees, Get Details Here"
-    excerpt: "As per the latest update, Indian Institute of Technology, Delhi has setup a School of Artificial (ScAI), which will offer PhD and PG Degrees. One of the key goals of setting up ScAI will strengthen IIT DelhiÃ¢?"
-    publishedDateTime: 2020-09-12T08:29:00Z
-    webUrl: "https://www.jagranjosh.com/news/iit-delhi-establishes-school-of-artificial-intelligence-scai-to-offer-phd-and-pg-degrees-get-details-here-155667"
-    ampWebUrl: "https://m.jagranjosh.com/news/amp/iit-delhi-establishes-school-of-artificial-intelligence-scai-to-offer-phd-and-pg-degrees-get-details-here-155667"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/news/amp/iit-delhi-establishes-school-of-artificial-intelligence-scai-to-offer-phd-and-pg-degrees-get-details-here-155667"
-    type: article
-    provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 35
-
 secured: "82gsc7DpO7T4wqdARJRL7tXjlDj4YI4uFnPsGSl6pxu83Bvn5A/UaIIOKogAGVSNOLtxBjISJ7r+EFjJSHvJUS7NXZuZocClx35SHuADX91Mx19MpIkdnI8pR81IITGCCY84s1Tv1f33Njn57lFEpjgkapYZfAwCtrUKpJ9qZKngvauBZzd2KqdG3IrJ0aYeVSRAfIy5aQnTZTZKLERo1ZdPCUynMyCurDb2QJYYUWd+G+cOu5h+RP+LFZWBZuChwqrP2WfOeagIv2sr4sfKI/GkRLgdI03lQN0DSzXvWisNL5UsaTZLG4e5trTTc76he/XtTyTA/07jNEDR/GqOL1trSU5fBEb+qZrPKKWzXcM=;dqy3nPOILlV4WzMRN5QfUg=="
 ---
 

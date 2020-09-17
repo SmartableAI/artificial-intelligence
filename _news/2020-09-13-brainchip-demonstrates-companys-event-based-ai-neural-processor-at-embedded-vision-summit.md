@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-c
 webUrl: "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-    excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and"
-    publishedDateTime: 2020-09-16T14:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-        width: 1413
-        height: 740
         isCached: true
 
 secured: "qyfDg99sPs5PyyEXw/qqx/k3otQ2/1b6U4YYZ2cjEPw84XL+YIAsGZSVqOg0NuvR9m+TWc9GkdUcerrTfs3NVuj8+m1skexN7ctTswpSlYHirY3X8RbS1/KfTbuPeRTpv+78ybVMvpzr5rsRYiNszqnUF2gGFtkr55rnGlZErFjjTSeS+QlV4JYDspr6hQUxkfHl3T7mrjbMrHt/EJXS/h5RxIzVW4w7ZNDI8Z1RHEh0zBW2SCVU2pkSdm/ZmztfxzCTiJRPSrLCbv1JvzSrvA12si7UL6nE0iKIHmFibvLaoLrz6qOjnnamvooxhMBIrDE/tU4pvWOmxpmIiJcsfjB9pZQpyiBC9/Hbo+DOw2s=;z7DbL7geGhl564XpTpB6TQ=="

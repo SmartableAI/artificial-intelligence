@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Aidoc raises $20M in extended Series B round amid growing demand for medical AI"
+    excerpt: "Medical imaging startup Aidoc Medical Ltd. said today it has raised an extra $20 million in funding, bringing its total funding to date to $60 million. The Series B extension round comes at a time when customers are increasingly turning to its artificial intelligence-based software,"
+    publishedDateTime: 2020-09-17T00:56:00Z
+    webUrl: "https://siliconangle.com/2020/09/16/aidoc-announces-extended-series-b-round-amid-growing-demand-medical-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Elad-Walach-Pic.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "w0aUj13XRzHlKwT4S7VedaEtJDWeb4iGTbflrbJvTgGJ6HwYByik091GPtI2GLmNO3Vd+skucfocvShxgOo8OH7lupAGjKW3+Y3DxVaexJAw5jclAM/YfSi8/0iC1RVjlTClhQyBCPIDe12Jcbt2EAbttwLgd/Defs6qh04j9tuROlTahtRGFvNFuUN/2NJ2XZmm9u4kxkdUo0oOBxRi5UcEZo/80OE/tuFid1xRHK+Pr5heW7LKM5CQ+M1sEtw2ck3Nzjhr9v18f1b2CCLYA+Oe590jKaUfiY+jpC7vZopR0/0l8+aEZvl9Q3fOBb8bue+WFffqC60Yu2MefNL7jxqIONlLFL+SG+EgmDu1A4ES5BIh5mJEOv/lajGGhNmi2m6SWHJYHS2wUAvyjbW7R//Lb4HS8pHqxh+Dxk60ARa0XpI6ut9zPOAvO85OaVKRiGrfb7bXxmwstsycRqZISO7DVytKbk+nO7aMwd97jcmcsO3blfQORJINK/oOhyCGPW9n+SYKa2zToyLrIM3VwUiws7TrHC2OoL/HHvISd7k=;5BsNfQLUY7C26Y8PH6Ibow=="
 ---

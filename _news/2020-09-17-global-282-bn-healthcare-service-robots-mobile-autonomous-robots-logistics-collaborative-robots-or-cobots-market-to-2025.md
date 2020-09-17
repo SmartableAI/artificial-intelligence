@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/09/g17427755/global-2-82-bn-h
 ampWebUrl: "https://amp.benzinga.com/amp/content/17427755"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17427755"
 type: article
-quality: 11
-heat: 11
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 secured: "5ZbBSJititXHdo9vWbFGw6aG3tBUoklnzexNuhaxC5V/xnOuuu0kv8t+0fDOw5pARSIAVUJrNV77g4bGtT2brx98MsGRmwtgi0M+HdsT6K89IupZhEGeGbgCPbyftZwLb+6+bkmRNZ1tH0bO29YOvnNWInWYeQWdghQh6jPfumgwy3jAErvViqTXq04j3f+IK2AlCz7qHBCRWGEABhClPjTcjYNOeZkXmwZBxChhvvP80aux93RcJWGgBiwUMayNfjXUEshRiSFZLEtULyGLrdpQ00nBs3WenLGlb4WQPGpqKwTolT57iamh8ednl0LfFZMs2BHMcZq1PSLNodIBPiTQ2qvmXVXwjzvFEY6DRFE=;vxXRvOYNs8BJLTQSr2ds5g=="
 ---
