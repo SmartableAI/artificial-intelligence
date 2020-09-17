@@ -52,22 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Why Portland Just Passed the Strictest Facial Recognition Ban in the U.S."
-    excerpt: "In a landmark move, Portland, Oregon, has enacted the nation's most stringent, sweeping facial recognition ban. On Wednesday, city council unanimously passed two new ordinances that prohibit both private companies and city bureaus from using the surveillance software \"in places of public accommodation."
-    publishedDateTime: 2020-09-12T16:01:00Z
-    webUrl: "https://www.popularmechanics.com/technology/security/a33982818/portland-facial-recognition-ban/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33982818/portland-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 58
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/digital-composite-image-of-man-against-black-royalty-free-image-1599759027.jpg?crop=1xw:0.94817xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
     excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
     publishedDateTime: 2020-09-17T02:52:00Z

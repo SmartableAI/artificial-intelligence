@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/national/300108389/company-run-by-chinese-
 webUrl: "https://www.stuff.co.nz/national/300108389/company-run-by-chinese-military-made-bid-to-run-nz-police-facial-recognition"
 type: article
 quality: 36
-heat: 36
+heat: 46
 published: false
 
 provider:

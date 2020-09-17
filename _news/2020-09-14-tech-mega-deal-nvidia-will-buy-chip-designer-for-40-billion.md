@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
-excerpt: "Nvidia, a Silicon Valley graphics chip maker riding a hot streak, has reached a deal to buy a British chip designer, betting the transaction can propel Nvidia to a leadership position in a new computer era powered by artificial intelligence,"
-publishedDateTime: 2020-09-14T07:22:00Z
-originalUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
-webUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
-ampWebUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+publishedDateTime: 2020-09-14T11:53:00Z
+originalUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/09/2020-02-silicon-valley-SVINDEX-Nvidia-03-1.jpg?w=1024&h=549"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
     width: 1024
     height: 549
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 688
         isCached: true
 
-secured: "SR6V/gbAIhVmThXVbhGKXW1DYx3ppOpIQD5h3JYUCQ9F2ZIouNjqGhQfoWppWLp6I1mzMc/yM8EeAe6XBR/lB4BlV9QGOkANFwNX08yPuPF8H4T5yQECFJ9yd+PcVXsWW8uZO3Zq/GXffkhL4yrZ1fVLV0O+hkfZcG+RZmJ4xa4p9miXzTdljFlz7ozbOmKq5WIfPJDPOAydpoIontOz18GhHsoztLBELeg5UGFHNzNVZKsOS8M7Mrelp5DROLa/RVl7k1qnIztLKj3Wh9TCE1X5vfuZUttWMj3g9h4+6JJANXGEIQzIka/Lh1A5ppNqsZr+ZatRgaVrZP9bboBQiri7ATYutKXfGVSHcvyS73U=;jjC4+aF9UvFbT94DcyS90w=="
+secured: "K82GZ0G8H9ejCRRAk9Jm+WUgW94EeDNMURdYqk+EJtaJaVpP2FoAJ8RnQpFm/ES6jVKvnVjL2NWBz51mDMgsemoEV0yOWtO3RMSmfCXHC7fYNq+b6Xwb/sNtI0dpT1r6Upv6qRxOOtP7TTA/09y8uJkuUXXa4r66/qZHIxievE/Le2bkSo2CSsv62toDFFl8HavjCY2Car9gFzE+4cDIESFfEonwyv+ToFVcEM6Ouqf4DxZMYuhoX8PJ+P29F9aoOsZSTFEPyo0RAKZCAIwCw/sR8WYpmhM6vxJ5bVYnjE5pp8+UjFSakcfhFc/owpQlnHFVLIygSX+kCm16ui1ZAfSJFePlZM/cFPcyvungmvA=;G8ag/TRCRIC/Em236dyMSw=="
 ---
 

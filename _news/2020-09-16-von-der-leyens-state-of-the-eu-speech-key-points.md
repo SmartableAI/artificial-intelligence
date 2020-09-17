@@ -7,7 +7,7 @@ originalUrl: "https://sofiaglobe.com/2020/09/16/von-der-leyens-state-of-the-eu-s
 webUrl: "https://sofiaglobe.com/2020/09/16/von-der-leyens-state-of-the-eu-speech-key-points/"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

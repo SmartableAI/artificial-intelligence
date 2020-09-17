@@ -74,18 +74,18 @@ related:
         height: 762
         isCached: true
   - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
-    excerpt: "Nvidia, a Silicon Valley graphics chip maker riding a hot streak, has reached a deal to buy a British chip designer, betting the transaction can propel Nvidia to a leadership position in a new computer era powered by artificial intelligence,"
-    publishedDateTime: 2020-09-14T07:22:00Z
-    webUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
-    ampWebUrl: "https://www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T11:53:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 59
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/09/2020-02-silicon-valley-SVINDEX-Nvidia-03-1.jpg?w=1024&h=549"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
         width: 1024
         height: 549
         isCached: true

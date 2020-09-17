@@ -7,7 +7,7 @@ originalUrl: "https://www.campusreform.org/?ID=15704"
 webUrl: "https://www.campusreform.org/?ID=15704"
 type: article
 quality: 36
-heat: 36
+heat: 46
 published: false
 
 provider:

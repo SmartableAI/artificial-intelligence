@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2020/09/qumulo-launches-on-aws-outposts-for-
 webUrl: "https://insidehpc.com/2020/09/qumulo-launches-on-aws-outposts-for-file-storage-and-data-management/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

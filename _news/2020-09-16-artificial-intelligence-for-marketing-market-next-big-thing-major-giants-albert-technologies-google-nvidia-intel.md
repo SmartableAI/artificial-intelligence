@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-next-big-thing-major-giants-albert-technologies-google-nvidia-intel-2020-09-16?mod=mw_quote_news"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:
