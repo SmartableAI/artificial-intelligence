@@ -24,22 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Bengaluru based ed-tech startup Newton School raises $650,000 in seed funding"
-    excerpt: "Newton School is an online edtech platform that trains people to be highly skilled software developers and get them placed in top companies and startups as frontend, backend and full stack software developers among other roles,"
-    publishedDateTime: 2020-09-16T09:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/bengaluru-based-ed-tech-startup-newton-school-raises-650000-in-seed-funding-5847601.html/amp"
+  - title: "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures"
+    excerpt: "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital."
+    publishedDateTime: 2020-09-17T05:38:00Z
+    webUrl: "https://www.entrepreneur.com/article/356293"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/356293"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/10/startup-business-concept-1-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1600321073-20200109120531-FotoJet48.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
+    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
+    publishedDateTime: 2020-09-15T13:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 28
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
+    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
+    publishedDateTime: 2020-09-15T23:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "YZYKIg0WpwLsP/OvEbouK6Q5MVkrWd1tB+ctGFnq7t209o0qyEZ0+5crw5TzeUnXqKY7oj2oEHG0gk+iWSohqzCjyYPl66Jm/XV0E5FCPs7/F9Guxnns7c7/APwZqA6Iujw3xoSA/ukKs/U4Ut2CoVJY1tQj/t0mcBA1tWwAjVxRMt6y46BPVoNa+wJSZ9eGZk14Y+I9Q95amwPIS0o1zNcqscYGAdiAKGZR8jjldHyxmj19JKVeH7mRwo5LZS3X3N0wUYXCX5VkDdJjsMJes/+PcYbMkoP8yGE/SlQBnIm4EgJM5HbS3GDgmQGNfAqq4XXelDFvHRCmbfeNFQE55Lv3TTTlW3dpXcPI4anrrQNppwuG40zmK668211RxBFeWuI3HFcpj7157shjZd6h/HaUWIpOXOshOZEqIzwFJonCUzRJP/KAQ0oNeLwyav/YJk4eS8kmtjDjeitqot/eEZLKTXeho0B4lm+WpKRclVSUQqYCx/aLS4k0l3UG4xMhYY8UGZ0p89tCO2aYMAmG6A==;hgELVXHNru6weQ8X7Dhh8g=="
 ---

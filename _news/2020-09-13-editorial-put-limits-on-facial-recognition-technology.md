@@ -68,22 +68,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Portland Just Passed The Broadest Facial Recognition Technology Ban In The U.S."
-    excerpt: "Portland, Oregon’s city council unanimously approved bans on city and private business use of facial recognition technology on Sept. 9. The ban will apply to city departments such as the Portland Police Department as well as public businesses ..."
-    publishedDateTime: 2020-09-12T12:23:00Z
-    webUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/"
-    ampWebUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
+  - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
+    excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
+    publishedDateTime: 2020-09-17T02:52:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
     type: article
     provider:
-      name: KRISTV.com
-      domain: kristv.com
-    quality: 55
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/79de320/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAdobeStock_62385205-500x333.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Paying with facial recognition"
     excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
     publishedDateTime: 2020-09-16T21:02:00Z

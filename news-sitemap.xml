@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/356293</loc>
+    <lastmod>2020-09-16T22:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16</loc>
+    <lastmod>2020-09-16T17:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/</loc>
     <lastmod>2020-09-16T14:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -475,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14</loc>
-    <lastmod>2020-09-14T03:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html</loc>
     <lastmod>2020-09-14T03:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -619,7 +625,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-rele/1100-6481673/</loc>
+    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/</loc>
     <lastmod>2020-09-12T09:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -703,8 +709,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&amp;ito=1490&amp;ns_campaign=1490</loc>
+    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html</loc>
     <lastmod>2020-09-11T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cr80news.com/news-item/arizona-state-deploys-starship-robot-delivery/</loc>
+    <lastmod>2020-09-11T08:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -883,7 +895,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/</loc>
+    <loc>https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/</loc>
     <lastmod>2020-09-10T09:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1261,14 +1273,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
-    <lastmod>2020-09-09T04:45:00-07:00</lastmod>
+    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?time=1599650641</loc>
+    <lastmod>2020-09-09T05:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09</loc>
-    <lastmod>2020-09-09T04:32:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/</loc>
+    <lastmod>2020-09-09T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1411,8 +1423,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-1029570652</loc>
-    <lastmod>2020-09-08T09:21:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Portland Just Passed The Broadest Facial Recognition Technology Ban In The U.S."
-    excerpt: "Portland, Oregon’s city council unanimously approved bans on city and private business use of facial recognition technology on Sept. 9. The ban will apply to city departments such as the Portland Police Department as well as public businesses ..."
-    publishedDateTime: 2020-09-12T12:23:00Z
-    webUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/"
-    ampWebUrl: "https://www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
-    type: article
-    provider:
-      name: KRISTV.com
-      domain: kristv.com
-    quality: 55
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/79de320/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAdobeStock_62385205-500x333.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "EDITORIAL: Put limits on facial recognition technology"
     excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
     publishedDateTime: 2020-09-13T09:01:00Z
@@ -98,6 +82,17 @@ related:
         width: 2000
         height: 1046
         isCached: true
+  - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
+    excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
+    publishedDateTime: 2020-09-17T02:52:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Facial recognition is coming to domestic air travel"
     excerpt: "For many months now, U.S. Customs and Border Protection and major international airlines have been using facial recognition technology to verify the identity of travelers on international trips. But now facial recognition procedures are starting to be tested on domestic travelers as the TSA,"
     publishedDateTime: 2020-09-12T14:17:00Z

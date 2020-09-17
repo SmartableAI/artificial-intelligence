@@ -24,6 +24,22 @@ images:
     height: 623
     isCached: true
 
+related:
+  - title: "The State of the Union speech - digested"
+    excerpt: "The 61-year old former German defence minister, who only narrowly won the backing of MEPs last year, outlined not a vision, but an ambitious list of policies to tackle - including more health care competencies to the EU."
+    publishedDateTime: 2020-09-17T05:08:00Z
+    webUrl: "https://euobserver.com/institutional/149456"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/a3f94c57867c0814b64dfcc6016ec633-480x.jpg"
+        width: 480
+        height: 320
+        isCached: true
+
 secured: "/Dh9L2ICgAjBpkoOxXN/5V7Tnlpsf+sfcqV57YG6wWrOdxqtQuvF/rWGkYF2hu1/ZAR0y+sH3PM7fCJiiEe/xzDFWFFr8Aq/+e3x/8jGv5n5ivZoRGkxq+OaTJMWpXSiP4TT9Ebp7QB25GGJjCj1V0P7rYE+0lJkfvAnjQ/1eR5qkqrHmwjNLhDlYX1oAoDL7ZeAw1pD7IF1J8bBBSpzw1nkvatQdbaFmZ59ip/1KQrokrmYAfVVUS4hkUE4hjQqMRzTArlKnZ3uhUia8fs6Ff3/VYuyCS0Uy4HgXWuM1+2t2ODmXCfCMadds7pzxdAWRhQUMthEz6X76ZqkVZdvNSEZo9GDn/y8Qkj1CqcgF0w=;KmtgSBRsUIyfXVFDcS3fhQ=="
 ---
 

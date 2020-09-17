@@ -3,8 +3,8 @@ category: news
 title: "Defense Department Official Says 'Victory Garden' Approach Could Aid AI Effort"
 excerpt: "The Defense Department can use the same methods that were used to bolster the war effort during World War II to advance artificial intelligence today, DOD officials say."
 publishedDateTime: 2020-09-10T16:55:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/source/GovDelivery/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2342401/defense-department-official-says-victory-garden-approach-could-aid-ai-effort/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "SoDe/RCOjss8TqK0gSPXmraoyCFAfvnf8/Nxv0QJvCKVNLSB/0Ozq8ONMWG/H+k0iJ5EYFy8nOHDRZshfcGu2NgdLdBweAICqxQ3GlfmmL8x7VAg45M/TpEhmoOXbjQv02guUe5Bgcu1/GSHlbXfkH9ToV0q6yze7PHfn4M/4OuroGtgd8rL8g4sZn+6xUAf3XRoHYmQnBk7Yb1xgZcW7lTNL4zFJ1jPV+Z9ofriN59sKGLMiFgEsoR1fqtm0NiIeRnb0Kzman9QTWQmETFQcwhNBXgfBjkKfmZWDndc8Kc5fmEagg0EZLoNQfIfMIQocaUs6zLi3MIRzh7QKVyNgO77cnn8dDmyHMS4i69w6sNsJdS8QblOzEeaeNktT7dJBzKwJQTVu6PmVO/I+vAPIFWaQJXfFMwf6CMRfVtO7tCTtV65pH0TrrRJeTIJyXivROXUEsJvDvCS1pxz4G1JYDi+mysR7oIAzbwPFYX52e164gopI/eZS9mPrfNUgc/YDTwfnis7dpr/SnaWhMIoaA==;Z5pg/qHp+MGBXdZr/5hGNw=="
+secured: "TSMl9GWwbmQOTT45lvayxv+eJ8deNSEbm6VsHrb63VdfzU/1vRjfqZshZr0jaPAtHk1ALrkav8jodCAKKjWL/wvCUR0aa+fYT/n/J2fiWYXpwmwOgVwPPD3ZVBnigWw1flQhMd4/YUVSxFwpE9Mutu8oSdYY9Mm90sTFmk7Z4qyB/gKd8ogg8/Q5jrr4B+XGSTgl7rBBXkH3KaaVjjrStZf0MsaUywztjv4yb+rmRi3bjgw5ZJAcbariRh/IG0ybBhVrGpqmBncsxXvEWROkfzv48x2cjV1U2h6+DFZv5Y+7c7UmRDRYznA05kXajevwIpE8HW9tiK3LqNZTA+O8XY4rB9InJ4CcKlN5dTaAfgU=;cMhjAQQjUg5p6PkRo68I5g=="
 ---
 

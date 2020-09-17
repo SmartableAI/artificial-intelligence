@@ -2,6 +2,97 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-08-27-automotive-artificial-intelligence-ai-market-next-big-thing-major-giants-ibm-microsoft-xilinx.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Xilinx",
+      "excerpt": "Latest released the research study on Global Automotive Artificial Intelligence AI Market offers a detailed overview of the factors influencing the global business scope Automotive Artificial Intelligence AI Market research report shows the latest market insights current situation analysis with",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2122692/automotive-artificial-intelligence-ai-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2122692/automotive-artificial-intelligence-ai-market-next-big-thing",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T827628502_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2122692/automotive-artificial-intelligence-ai-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2122692/automotive-artificial-intelligence-ai-market-next-big-thing",
+      "publishedDateTime": "2020-08-27T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027",
+      "excerpt": "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27",
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030.md",
       "title": "AI in Social Media Market Size, Share, CAGR and Forecast 2020 to 2030",
       "excerpt": "The global AI in Social Media Market is anticipated to propel at a growth rate of 20% (approx.) during forecast",
@@ -885,7 +976,6 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -1019,88 +1109,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-warehouse-picking-robot-startup-xyz-raises-17-million.md",
-      "title": "Warehouse Picking Robot Startup XYZ Raises $17 Million",
-      "excerpt": "The 3D-AI Vision processor, XYZ's core technology ... in Amazon Robotics Challenges for three consecutive years. \"As a young and energetic startup, XYZ Robotics has an extraordinary technical vision and R&D capabilities,\" said Zhe Chen, vice president ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
-      "originalUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-26-at-14.42.06.png",
-          "width": 1085,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17251073",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17251073",
-      "publishedDateTime": "2020-08-26T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
-      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
-      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
-          "width": 741,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

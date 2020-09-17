@@ -2,6 +2,87 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-08-skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening.md",
+      "title": "Skin Analytics raises £4M Series A to use AI for skin cancer screening",
+      "excerpt": "Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
+      "originalUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/",
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/132880_Skin-Analytics-Teledermatology-Project_Clinical-Photography-5-r....jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/08/skin-analytics-raises-4m-series-a-to-use-ai-for-skin-cancer-screening/amp/",
+      "publishedDateTime": "2020-09-08T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-facial-recognition-technology-for-pets-is-launched-in-atlanta.md",
+      "title": "Facial recognition technology for pets is launched in Atlanta",
+      "excerpt": "In addition to Finding Rover, LifeLine has implemented a \"Lost & Found\" matchmaking program where they check pets reported as lost against those in shelters daily. A new Lost2Foun",
+      "sourceUrl": null,
+      "webUrl": "https://findingrover.com/",
+      "originalUrl": "https://www.11alive.com/article/life/pets/facial-recognition-technology-for-pets-is-launched-in-atlanta/85-f8881f41-4023-4cb6-b52e-da69415475c3",
+      "featuredContent": null,
+      "heat": 339,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-artificial-intelligence-in-retail-market-2020-2023-demand-analysis-type-statistics-regions-and-industry-key-manufacture.md",
       "title": "Artificial Intelligence in Retail Market 2020-2023: Demand Analysis, Type, Statistics, Regions, and Industry Key Manufacture",
       "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
@@ -1070,88 +1151,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-appsbroker-recognised-as-google-cloud-managed-service-provider.md",
-      "title": "Appsbroker Recognised as Google Cloud Managed Service Provider",
-      "excerpt": "Appsbroker is delighted to announce that it has been awarded the prestigious Google Cloud Managed Service Provider (MSP)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1249278/Google_Partner_Badge.jpg",
-          "width": 400,
-          "height": 253,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17398459",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17398459",
-      "publishedDateTime": "2020-09-07T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-robots-found-to-ease-loneliness-in-older-people-in-care-homes.md",
-      "title": "Robots found to ease loneliness in older people in care homes",
-      "excerpt": "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg",
-          "width": 1125,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "cdnAmpWebUrl": "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
-      "publishedDateTime": "2020-09-06T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Yorkshire Post",
-        "domain": "yorkshirepost.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

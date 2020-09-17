@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
+      "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
+      "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356293",
+      "originalUrl": "https://www.entrepreneur.com/article/356293",
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600321073-20200109120531-FotoJet48.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356293",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293",
+      "publishedDateTime": "2020-09-16T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362.md",
+      "title": "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%",
+      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything.md",
       "title": "Snowflake’s IPO is a bet on companies using AI for everything",
       "excerpt": "Snowflake's $70 billion valuation is based on its ability to analyze cloud data faster and cheaper than its competitors.",
@@ -639,7 +737,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
       "featuredContent": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1092,96 +1190,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-this-entrepreneur-is-using-ai-to-bring-affordable-treatments-to-cancer-patients.md",
-      "title": "This Entrepreneur Is Using AI To Bring Affordable Treatments To Cancer Patients",
-      "excerpt": "Cancer takes the lives of 10M people a year. Potentially life-saving cancer treatments might already exist: repurposed generic drugs. Dr. Laura Kleiman and her tech nonprofit Reboot Rx are leveraging AI to determine which generic drugs are most promising for treating cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f612902c97dbeb3b752c762%2F0x0.jpg%3FcropX1%3D219%26cropX2%3D2599%26cropY1%3D88%26cropY2%3D1426",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/amp/",
-      "publishedDateTime": "2020-09-15T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-bp-and-microsoft-join-forces-to-advance-sustainability-goals.md",
-      "title": "bp and Microsoft join forces to advance sustainability goals",
-      "excerpt": "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
-      "originalUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
-      "cdnAmpWebUrl": "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp",
-      "publishedDateTime": "2020-09-15T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBAL",
-        "domain": "wbal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

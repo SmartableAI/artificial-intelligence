@@ -14,6 +14,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2020/09/a2.png?w=600&#038;h=600"

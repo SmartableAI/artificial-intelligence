@@ -36,6 +36,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Baidu launches self-driving taxi service in Beijing"
+    excerpt: "Chinese internet search giant Baidu Inc launched Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing on Thursday, becoming the first"
+    publishedDateTime: 2020-09-17T05:40:00Z
+    webUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/"
+    ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 39
 
 secured: "6qF0K2850lYe51zfpzk0noICaLR5V3dsYy0VtM1CUp+XTCUTYsmMGOcrzb8E+wik5U7XLaLBMSX2Z+Yp7MUkNWLg0wMLGIrwAkN9L2ztOc3gv6SEHOtB2RpOVvHLRQC5icv+nloECU+Npb4Jkzpx5EF3gHXKLtZV5KBTPQ/Lsq2ixQowF/i0GGa6reOC4N/egCF83ZA7K9ky59f6C1oAo743Xfpm5PycILfAPD51OKVUN6HMoCPt98R9p3MoGUr+GzwKbnD38DQZZnDsWv0TDNilngt459zvdCIgSTvEdcMb2RBw7kLcdCODMNOmi6JBAuzeOcOv/hqjDBxGZMfduaRTZFd7c13pFr3VTvIT9ho=;47346BX9gXQ1fIe+mKs/UQ=="
 ---

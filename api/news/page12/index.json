@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-07-appsbroker-recognised-as-google-cloud-managed-service-provider.md",
+      "title": "Appsbroker Recognised as Google Cloud Managed Service Provider",
+      "excerpt": "Appsbroker is delighted to announce that it has been awarded the prestigious Google Cloud Managed Service Provider (MSP)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17398459/appsbroker-recognised-as-google-cloud-managed-service-provider",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1249278/Google_Partner_Badge.jpg",
+          "width": 400,
+          "height": 253,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17398459",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17398459",
+      "publishedDateTime": "2020-09-07T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-robots-found-to-ease-loneliness-in-older-people-in-care-homes.md",
+      "title": "Robots found to ease loneliness in older people in care homes",
+      "excerpt": "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg",
+          "width": 1125,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "cdnAmpWebUrl": "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "publishedDateTime": "2020-09-06T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Yorkshire Post",
+        "domain": "yorkshirepost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
       "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
       "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
@@ -1052,96 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-how-the-pandemic-could-accelerate-ai-powered-professional-sports.md",
-      "title": "How The Pandemic Could Accelerate AI-Powered Professional Sports",
-      "excerpt": "At first, the “new normal” of stadium sports and sports broadcasting seemed abnormal at best. But the potential is vast. Here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52797ed60df366c191ef01%2F0x0.jpg",
-          "width": 1199,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/amp/",
-      "publishedDateTime": "2020-09-04T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-pentagon-reaffirms-award-of-jedi-cloud-to-microsoft.md",
-      "title": "Pentagon reaffirms award of JEDI cloud to Microsoft",
-      "excerpt": "The reaffirmation of the Joint Enterprise Defense Infrastructure cloud contract to Microsoft comes after the DoD asked a federal judge in March for several months to reconsider a specific data storage evaluation of its award to the tech giant after Amazon Web Services alleged the department made six technical evaluation errors during the source-selection process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
-      "originalUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.armytimes.com/resizer/HyLP9wcax_xFq5CjDNkqq361irI=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/3C3TZKWYQBDOBBQL537ZWIEBRU.net635951117343721156",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-04T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
