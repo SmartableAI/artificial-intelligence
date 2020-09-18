@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-arti
 webUrl: "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Nasdaq
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
+    excerpt: "Digital transformation is driving a massive shift in how businesses engage customers, sell products and services, and create a better buyer experiences, and AI is perhaps the most promising new technology in this shift,"
+    publishedDateTime: 2020-09-17T14:36:00Z
+    webUrl: "https://www.nasdaq.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
 
 secured: "/HWrQ9fU8ZrxqCBx0R9r5y/IZvcVnnYR1192Yv9GHe54DUQeaFIIAPRpGG4pqZyYLYQatdyeJvNJt8P2UqPdkoZnu+l1I1Ss9pM07JnrYsoi2EeLU2X1dHv8bfNbWiggLsPH0uZKR7C1u4UVpohgdlOBfPTQypXHyJm5PDPNa8wQOshEp5vIxfMIgWACD5brLIlgz1VYsKBbiwHZk1WyjJURn3hLgR0lN85BnjUKFkCJAlSaCmpBa8vBh5iLe7ett/MLb36+KKbe0YEZDU+jtLIFPwjzM44GdSyn8Yyy5WOnzxqc8rXeuQdrtzdYo+YXCZ8pY0/HS9+uBv0IYaXsYJOP3abb6BlhEuLVOi1k+xQ=;mb4I0kUfbYoxUFjeQLE59w=="
 ---

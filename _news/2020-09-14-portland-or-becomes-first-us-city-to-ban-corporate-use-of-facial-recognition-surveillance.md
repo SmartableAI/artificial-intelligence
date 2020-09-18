@@ -52,20 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "EDITORIAL: Put limits on facial recognition technology"
-    excerpt: "In the explosion of technology, we’ve gotten used to giving up our privacy. Whereas security cameras used to be the exclusive province of banks and stores, now they can catch us walking down"
-    publishedDateTime: 2020-09-13T09:01:00Z
-    webUrl: "https://dailygazette.com/2020/09/11/editorial-put-limits-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: The Daily Gazette
-      domain: dailygazette.com
-    quality: 39
-    images:
-      - url: "https://wpress.dailygazette.com/wp-content/uploads/2020/09/youssef-sarhan-tze1kKj7Lgg-unsplash_focuspointcut_600100010x314100010.jpg"
-        width: 2000
-        height: 1046
-        isCached: true
   - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
     excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
     publishedDateTime: 2020-09-17T02:52:00Z

@@ -154,11 +154,11 @@ related:
         height: 600
         isCached: true
   - title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-    publishedDateTime: 2020-09-16T07:17:00Z
-    webUrl: "https://www.reuters.com/article/uber-selfdriving-idUSKBN26708P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26708P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26708P"
+    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+    publishedDateTime: 2020-09-15T22:00:00Z
+    webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
     type: article
     provider:
       name: Reuters

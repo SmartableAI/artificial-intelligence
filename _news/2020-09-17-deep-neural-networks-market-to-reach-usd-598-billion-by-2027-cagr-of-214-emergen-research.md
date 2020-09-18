@@ -1,45 +1,23 @@
 ---
 category: news
 title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
-excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to"
-publishedDateTime: 2020-09-17T15:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027--cagr-of-21-4-emergen-research-301133338.html"
-webUrl: "https://www.prnewswire.com/news-releases/deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027--cagr-of-21-4-emergen-research-301133338.html"
+excerpt: "Growing demand for deep learning through neural networks is driving the demand for the market - Market Size - USD 1.26 Billion in 2019, Market Growth - CAGR of 21.4%, Market Trends -"
+publishedDateTime: 2020-09-17T15:22:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50730998-deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027-cagr-of-21-4-emergen-research-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50730998-deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027-cagr-of-21-4-emergen-research-008.htm"
 type: article
-quality: 27
-heat: -1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1252126/Emergen_Research_Logo.jpg?p=facebook"
-    width: 2675
-    height: 1401
-    isCached: true
-
-related:
-  - title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
-    excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
-    publishedDateTime: 2020-09-17T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "l/o6otnGBHQr36G0SkyvntARzlFcsWiBoRIkNJvc5C56Cf2JnjzXMW9P1Oqz+3t0FdDhbL11Edps/tdRldTs2b2U1HEeo9VSclhEKNdUGEBZ2AZLG/3tE3jjIcQxGwrxJqNUprHOVSWFunOsiFE4dGYkTsBfXr5fOzcK0xD+pdrG1lgFYsdpEjWDmOqLEXISm8WDK513K3N3C95ErbBMoc4b6odn6rPG51hrrtL/AF5xQIu6ki8X/vEPfEFkWYHGaykHcmnR8L6D6MUgEzR8YWmCBiOD7odGhHYqmVkxEBOZaZWwAnQZWp85i4C/AZyqq5keIt1cvaaluR+UdCDAZiTwovlbU/OGz8PBAvXf1/E=;VuqXZv+tZUtgtII7tRs89A=="
+secured: "0I9dd9cz8UmDx8UmpP/IfEgD+ShPjlXScQOab8kh8WBzipR89+SWnTjpY7rm95hdDRXJgayxEGRzYB2Wn91sJynbnH2M01uQjfFBW3SrTbKoWCGwZNP3y5UjQB6Is0pVRG9lCQbBaFMXc1TihR3sPAqMjbNGiXTY1LqYwAEJadSIofrMDv6tHIY7zHwqj/o2BpLh36J/xHairkER3yrXMiXtxFlEC9YdESPaRIcQlKMnd4ITApkkfApCoLGpI8d80yl0kZTBrNBtjSWIM2EgyDr42X3rM17etoGfv9SBdm9UmlyBlwLjUIwukKRjySudHxWWcQU/HN0k55w0edjVzCEEoF9w/nwNSw4YaVFSqfo=;AILnZzV6rgi93mQz2eHHoA=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
 title: "BrainChip Confirms Validation of the Akida Neural Processor"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced that the Company has validated"
-publishedDateTime: 2020-09-17T21:23:00Z
-originalUrl: "https://www.marketwatch.com/press-release/brainchip-confirms-validation-of-the-akida-neural-processor-2020-09-17"
-webUrl: "https://www.marketwatch.com/press-release/brainchip-confirms-validation-of-the-akida-neural-processor-2020-09-17"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced that the Company has validated the Akida TM Neuromorphic System-on-Chip (NSoC) design with functional silicon."
+publishedDateTime: 2020-09-17T20:00:00Z
+originalUrl: "https://apnews.com/business-wire/4e0027eca81842e8b336f8c15f671fb8"
+webUrl: "https://apnews.com/business-wire/4e0027eca81842e8b336f8c15f671fb8"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "aN+UG7+CDytAfKtg2HY9oBY5I9aLIBwMpoZypVURzvOCChEeJfEKbqHpeS8JnbVgCt76AAT/yXWX+Qm9fS8m3t62j793lxUpU2iZvZb+vghYAbJrLQrqykoqEfFCdiPiIUItC5BDzQ3hPBopM6n4qKZTVlgkHKsCNYLnmchsjHkJ6/9nnAHibU0CTgvwzb5DUhidD/7ylwxqsmnC3NlQnID5hRgBD1WDDZNYjnl48W7qb8kY0wua/EXaZalhOoXE30txpKRXFJpsXTAFU88F8NgowdQcxC3HOg7vnr390PuBG7v4IixHSGsJBwXq0DP4btHO9EXOpzN0pVUWg9/ddafRQIJCKXFiN8VXegXIAec=;j3HGlEMFXZFpdVtcrGDHNw=="
+secured: "wuyRbbpQWruQt5gAF9oKwR+2wgV0vGBbREA07mLg7diPRS7RnRsx1i5h2j0Mq6GgmVgBP8Yk7xOYxO68dIBpM6qZ3AeHSbSZpC0eJEeUT5LzLN+Ceghn/R+moYsL9JPp+eev6N7h9tAARkRx6YTBOPTnC8lU68uAY0528O8QkGUJFGqhMX3tM7x7RwRhvRlef1OLBijd9xhoCZKUmngg5yazaYp86+bv3q+oCveTKq8+IWqos279LZ7tPm1KKl2WOQSMhj5pECKrAJqU9EmnMfaiQg7px/54RnwhE3M7YIQJyETuJRsRIIvbYOnfcRUfbtNy67DscI/+KUH8Zw0zaWL0F0GOOh4YPfuA3zWEdbg=;hgS1a93PkfS87KLiKaZgDg=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
-excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-publishedDateTime: 2020-09-16T07:17:00Z
-originalUrl: "https://www.reuters.com/article/uber-selfdriving-idUSKBN26708P"
-webUrl: "https://www.reuters.com/article/uber-selfdriving-idUSKBN26708P"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26708P"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26708P"
+excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+publishedDateTime: 2020-09-15T22:00:00Z
+originalUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
+webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
 type: article
 quality: 69
 heat: -1
@@ -497,6 +497,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "t+jKCiuVLGwg0rSFD2QI+aZXnH8GZ3P33amxtrA33LZpKYvREVoDMrlj0u0Z2wwpujME2o23u9/eesaeSmhIolO2TSE09D9k0PjLUJU1+wkvzPVOuJjwA3PrKjYkhZJAAnI7blilSkplTCMkiQclfkmCvzugxbweHgkMsNhVdGIz5IyZFupN/K0QLt5R9qHDsaWG6tPSdrn8hY75AtsAAUheWnleeNFTae02Pp5Q5oEDFzxqFiwSkpBVPpBZHkYQtFP3UPSQpYbiFpIhybrCzmbli16y40qxL42OjeZaI1knQn/JKkRj7CXPM66kVhlXwLh9eJfHYdO11Y5wQWvGFCZKhALBMey5HduKc1LjR34=;QEh1+peTR0ZlaJcBMfKPWw=="
+secured: "Ja5CwWQoJvcvU+/w5aZh58ahqGFtTcxLxUaA2W4XuwbDo5BbQpDaRl+DC9vSwwG80qJI6Vqb1x18CIOTzT/EZABdULsUjwCkSlSJUUMZyc3GAsH4+WqNSp+grFMZ1J40cisDF3RlLwCncWAJbjIlRVDuNOb61Zjcr8oJ4wpG015az5T5k2hhW7TmI057RdF24hGkcY3QHOjnxlp0WieX7TIyaWMNTD8vDzfWkJkchc1ffjf3BZQ7WN0y7wFkEjU4Y0rEyiDVM+oal38FLhZYlo1vTITk1SLFHAdX6Q8NYgWo4CIWedqU3PYc2VfrFaWigYzixdeWwGduXZpmpxFedPtevmW2Aj6oNf2WOzzqoTY=;Ze1YKwQFslxRkx3ohxDY3Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26408T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26408T"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478"
         width: 640
         height: 428
-        isCached: true
-  - title: "UAE, Israeli Educational Institution Sign Artificial Intelligence MoU"
-    excerpt: "The United Arab Emirates' Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together,"
-    publishedDateTime: 2020-09-13T08:53:00Z
-    webUrl: "https://hamodia.com/2020/09/13/uae-israeli-educational-institutions-sign-artificial-intelligence-mou/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
-    images:
-      - url: "https://images.hamodia.com/hamod-uploads/2017/06/Weizmann-Team-on-Track-of-Regenerative-Heart-Molecule-1024x682.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
     excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
