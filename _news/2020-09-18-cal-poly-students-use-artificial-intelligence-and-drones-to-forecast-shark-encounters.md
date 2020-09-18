@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-17T19:01:00Z
 originalUrl: "https://keyt.com/news/san-luis-obispo-county/2020/09/17/cal-poly-students-use-artificial-intelligence-and-drones-to-forecast-shark-encounters/"
 webUrl: "https://keyt.com/news/san-luis-obispo-county/2020/09/17/cal-poly-students-use-artificial-intelligence-and-drones-to-forecast-shark-encounters/"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://keyt.b-cdn.net/2020/09/Screen-Shot-2020-09-17-at-11.33.41-AM.png"

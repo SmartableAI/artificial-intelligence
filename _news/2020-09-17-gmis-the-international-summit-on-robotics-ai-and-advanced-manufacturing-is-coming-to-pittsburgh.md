@@ -7,7 +7,7 @@ originalUrl: "https://nextpittsburgh.com/latest-news/gmis-the-international-summ
 webUrl: "https://nextpittsburgh.com/latest-news/gmis-the-international-summit-on-robotics-ai-and-advanced-manufacturing-is-coming-to-pittsburgh/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 750
     height: 394
     isCached: true
+
+related:
+  - title: "National Artificial Intelligence and Robotics Hub"
+    excerpt: "Read all the latest news, breaking stories, top headlines, opinion, pictures and videos about National Artificial Intelligence and Robotics Hub from Nigeria and the world on today.ng"
+    publishedDateTime: 2020-09-17T22:25:00Z
+    webUrl: "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub"
+    ampWebUrl: "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp"
+    cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp"
+    type: article
+    provider:
+      name: TODAY
+      domain: today.ng
+    quality: 89
+    images:
+      - url: "https://www.today.ng/wp-content/uploads/2019/08/14053638.png"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "IXQ7XOtnjGp+U8gR6wGXH/o24ULC5COnUICQtrh4BmMCVlJNrQvyJNogsZtg+CXa+G8+VM+4PsERoDtQuPv9b43ejOTj9uXV+IbbxT9+cFvwgkxNSFv1dG5R4cFiPrqJBhmy/nMlC8D5hXuMp5xFhNsu9+5z2dy9CIOW4Tq6c9eWnVp4JP6j+Hn4HVLDvFh5T/vFnDwtjg7CYFlB7JZvK/OASvWRmcUD/2R+SFuy9o2WwnuU1mkhkk2LkPvjB6+UHegF4IxReppq6BCUo60L7PcSiAZkRcwnkVArHbzZi0o7kFEJjrSec6Nc11+pgghTMgsmQxEdD8i/4NtqxiJzPkvsWsMOrave8mQ8rDoA7Tw7Z6o9RTXYObHMFtYfRfE6gM2xzPj5oT+ACqmMHcnw+20l/BZregGJdZkMExKp7eH+c5IzO6vRN6q3gMRvdTltHxPFx6EEW+Xiy2be940mu78vUoPrAGqw6Yk0LUwRHX4rzB4e0uVAJjNR4sz3aZaiVWHSGjvdRSkIh4CaFoL90A==;ZB5F6ib+BA/2W8Bqg4dN7w=="
 ---

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub</loc>
+    <lastmod>2020-09-17T15:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/</loc>
     <lastmod>2020-09-17T14:46:53-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +15,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17</loc>
     <lastmod>2020-09-17T14:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326</loc>
+    <lastmod>2020-09-17T14:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,14 +1531,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1747,6 +1759,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/</loc>
+    <lastmod>2020-09-07T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/</loc>
     <lastmod>2020-09-07T01:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1784,6 +1802,12 @@
   </url>
   <url>
     <loc>https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/</loc>
+    <lastmod>2020-09-06T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free</loc>
     <lastmod>2020-09-06T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2373,6 +2397,12 @@
   <url>
     <loc>https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/</loc>
     <lastmod>2020-09-02T17:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473</loc>
+    <lastmod>2020-09-02T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3607,7 +3637,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/</loc>
     <lastmod>2020-08-28T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

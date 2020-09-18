@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM hopes to power US Open's digital experiences with Watson's natural language processing"
-excerpt: "Read More IBM is hoping Watson, natural language processing and artificial intelligence can bring new digital fan experiences to the US Open. The US Open this year will be without fans due to the ..."
+excerpt: "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium."
 publishedDateTime: 2020-08-28T12:00:00Z
-originalUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-webUrl: "https://www.zdnet.com/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/"
 type: article
 
 provider:
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/29/e357fd4b-4551-4881-b706-418e631c913c/thumbnail/1200x675/557c810c260ed10f3562e0b1f07ad17f/thumb.jpg"
-    width: 1200
-    height: 675
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png"
+    width: 813
+    height: 505
     isCached: true
 
-secured: "T46A1WsOJNoZCdfiEFGNmpgoLnip+92BS0N/ub3GZY6KD/6czKrmJFv4BNidj3gdGMyudcFsFsZTvViPnyAv9FszniNi2CTXJjGvk2mWu39QSlFuJQf3aWrWMvRvZTzBsiGFp5LOgvxn/OA33YG7iaagUNKSKgjEXCFEmC+cVO8Ga19t40gOW5Ofaib8yf/mstmOh6T7WxUrP1o1G36zyTQuC8UkQMardFR6OPX/YTtB6ooJ4QffB0mY9WDnOU5madQlxGlbqHh6TwvpkrNcJ+j4rRWyy9WJVy8Q37/j0282M+SAVaiZ8YLTsJTJrTHxPAkXBG/74D8xVkiyQAQlqgIaVVj5AcEbURsaKOqb5LI=;9vB5oIG4k7qlkXmbg3u1dQ=="
+secured: "u3ny7aN9bWfRdWnKDtYUVImTdYD3TlCgH+mSFypuPkeXO+T55mRYQj25umhAr6qSVjCVrGZtkpOMPzM5mPYlsBNeF1xXTlES7fA5FyPysqQUyuoj/GyXD2ZJDd6YbBuDRj9/5GenppXKFxTMK9SDMdbnPxlpJgtPGOORxp8xvUrhnKGYPiiVu0Bu9kF02HzyJUBQj+79zGMZihq5+0QWbXpKhbAf39g+gIdateSxa0bzCIOaV/s29N32sD5EwggiJdG7SN2ulwgagezvHt4cp/mObxPcJ9KXwY+vufenCp9plvoLMSt7gp0YkkTaJaXE/uKDQQRX81XjdV14RdfBuhdgMH9acp1BGsxFUto84eI=;AEWCrmxv321olFDWiE7pHg=="
 ---
 

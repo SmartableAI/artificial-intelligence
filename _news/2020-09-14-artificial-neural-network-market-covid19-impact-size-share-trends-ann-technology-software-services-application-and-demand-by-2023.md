@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
-    publishedDateTime: 2020-09-13T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ptRdP/YpEXEJKrF4f1z9V+0yqd++/eJH9CyPurd/ed7UMCB9boy7ciT83ao7yTAoFVxYjOPMgQkqcdhibCTQ+aeuy6NxMT8ImjudylknNBnvZeyHiY4YQyC7TyUnawwjCzD7t652JHGZqYLNVJI5yows6wqQ2MTZwL7v5QMdUNGXL1shP5fdrXEryThcjSNHVN52fO/EzeMr7AaWppcBdvuW45BsU54uO60/Q+zXiaPpQEbzw4JW7AJWtpghpYQT7xH8PYYJsTNt8U6XbNFtRu3yL8NGmRzaOfk6aoq6JdvBFBLdN1WMwxevzL+VGk6Y42+9S8hSzAauI9XThpIlRsGhAW5rh/X9J/A0y3MZ/8A=;M3VW1ndmIg1Mbvhjev+s2g=="
 ---

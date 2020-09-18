@@ -37,6 +37,22 @@ related:
         width: 968
         height: 630
         isCached: true
+  - title: "During pandemic, more workers being replaced by robots, new study finds"
+    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
+    publishedDateTime: 2020-09-17T22:54:00Z
+    webUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/"
+    ampWebUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/jcBdgbiLi4RufbJAE9-UE3coqaM=/480x0/media.spokesman.com/photos/2020/09/17/5f62741253474.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "The coronavirus pandemic is replacing more jobless workers with robots, new study finds"
     excerpt: "Workers whose jobs can be done by machines suffered more layoffs than those with jobs that aren’t as easily automated, the Federal Reserve Bank of Philadelphia said in a new report."
     publishedDateTime: 2020-09-14T20:46:00Z
