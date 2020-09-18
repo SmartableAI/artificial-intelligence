@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia announces its intention to buy chip design giant ARM from Softbank for $40 billion, and employees will get $1.5 billion in equity"
-    excerpt: "In buying Arm, Nvidia will gain access to the chip design's technology, widely used in mobile devices and embraced in the data center market."
-    publishedDateTime: 2020-09-14T01:04:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-arm-softbank-acquisition-price-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/nvidia-arm-softbank-acquisition-price-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-arm-softbank-acquisition-price-2020-9?amp"
+  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
+    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
+    publishedDateTime: 2020-09-14T09:49:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5f5ebad97ed0ee001e25f066?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T11:53:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
+        width: 1024
+        height: 549
+        isCached: true
+  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
+    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."
+    publishedDateTime: 2020-09-15T19:42:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
 
 secured: "sxlWxJ+V31fvGmVnpVki/iC7Wv7ofSQfwXKR/qp7pUPpxtzsJDvhW6vQpwoFdxD0TclEM1kO+7Y0mKQGKtE4q9TY2VNQbSFgSskAuVZezR4wMe2yu/i6ECNo3+TKOcL4en+GKg1Qd8T6t7ttb87BLbh+SN3Xe+GM4OjlgUFS8y/wdcZLgtmnnuIKq+5Dc2dANaIfwW1QYyCn/gMLR0yfdKQlaIZliiLZMS+BKHfBkh+65jO7dotxke7wJWpkg/J+uINc+uFonlxgUjMbe+11+mY5Ac6wknsBj8bSq/SkwwZ1wVBg8nJl1iRbNwFD/VXa6A69mfdK+p3N7gDYkFufI+56k421JHZD6bAMKTijHQxOWVc1Z2/xcDQnUNjkfrlxVkU3vX81pTVsXcBzOHZfaEC6buLaSq327E5NNsFnKOESMw7HxfA6Szn93Ml80F9KVk1yV/2mGWNTHfL//4EM5TXTC0hHB3BYxljeqjOjJm+BQXhvktJLLuMzCaHidhgFlF73s49l6NbCq705srPeXw==;P88pa+H07dqHbNnU3Mj0wA=="

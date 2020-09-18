@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Size Targets to Grow at a CAGR of 49.6% & to Hit $18.12 Billion by 2025"
+    excerpt: "Allied Analytics :Different interventions that range from identification of patients and maintenance of their records during clinical trials, to application in drug discovery and repurposing are gradually incorporating artificial intelligence,"
+    publishedDateTime: 2020-09-18T18:48:00Z
+    webUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "N1XcIzwIr3sP0SyMj/IFhZxq5YePIMpmY3npdJf4s/OKGrE61j+72opzJebQINnoGD7bbPWXgyRsH4Bz9BOJEAUUEbtV7vi3FuJyACIZqvrFqUUrfkHD0KqzRBFGKMfrFs8BT9L5fLV3tY4v6oqhP4FeVyyreGoNS52oHnsPQx3/BCNGVd62XQaQe6uOVAoxq45Oe9yBAqmn+SfdIN/phrtAetzC4KIOv0aCcwAl9ieMdRty+NMZGEtFsugc1HklloWREtclg4HXBYz5U9Zou0DgYHeVWZrwg8Qwd8GpI6u0rCpBvjmWYhXAgdfiCYBD1YXF5EcGmVOEEG8Znssv3me+OjV7zAonfXCqMEpD5hA=;pJYR9Ne30WZnIpXHbowf0Q=="
 ---

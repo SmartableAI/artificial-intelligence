@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-this-startup-is-using-automatic-
 webUrl: "https://analyticsindiamag.com/how-this-startup-is-using-automatic-speech-recognition-to-assist-sales-reps/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "This woman entrepreneur’s AI conversational startup helps companies drive sales"
-    excerpt: "Surga Thilkan is the Co-founder of AI conversational startup Salesken, which offers sales teams real-time insights and cues to gauge customer sentiment and improve conversions."
-    publishedDateTime: 2020-09-14T01:49:00Z
-    webUrl: "https://yourstory.com/herstory/2020/09/woman-entrepreneur-startup-ai-sales"
-    ampWebUrl: "https://yourstory.com/herstory/2020/09/woman-entrepreneur-startup-ai-sales/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/09/woman-entrepreneur-startup-ai-sales/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 53
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign62-1600002628173.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "ldZAM+57q5arK+W2V2RQ+h1FlkANN1/UqxoH+mtE96ZnmuVX2nYfoNAxg+U0UHaFrm1UnCMMKRwtU2CR5yBpWVJUI3OkolNyBaRP7l3LklbD7hMpRKSGwYQYpsO0gqg7PH79OUADEwXZdBJXG4MIoPdohc0oJvnQEdUO9yzNFS0s+wlAX5wE6l5pfJDs+fhjJ6KvE9nYU1ZCXppOrL5H3PYxMdKOUkjaEcEWISP+QxxI5EE5N3QRTY5bnDgszwT942CUo1JrKHhU562zjNRk2JGkbIS12nkjAjB/k3oHy39v6CY0ru+/7pjQ+CI8tXeOz02wAWEgzLHPCewfsBm4/q6qNwsjsp38Ox6UrnX6Vbk9VQqZWSbTirlYiWZnMbldqdLzekh+DRhntl1YZN6rDGjIGHaJhVyfqiflwV0+n/sJL+QQkeVLIcpldIe5h2ayKWUDlALMKKqIpUzzczSfgPbM99n9nSddju13jjhqw4AgZ+VyV3sYD7ygbqYT8XXUC7VCTK1o73JyhhHfoT+DbA==;j/93Qvnm3gSrayydO0Ic+w=="
 ---

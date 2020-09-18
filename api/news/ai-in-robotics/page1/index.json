@@ -4,18 +4,18 @@
     {
       "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
       "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
-      "excerpt": "Raspberry Pi fans have never been short of ideas to put the tool to good use, for applications as wacky as they are useful. Now researchers are fitting the low-cost computer with artificial intelligence,",
+      "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
+      "webUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
+      "originalUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
       "featuredContent": null,
       "highlight": null,
       "heat": 83,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
       "publishedDateTime": "2020-09-18T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -39,8 +39,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

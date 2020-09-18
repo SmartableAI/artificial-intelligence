@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Lilt Announces Lilt Ascend 2020 To Be Held Digitally On October 21-22"
-excerpt: "What: AI-powered enterprise translation services and software company Lilt will host its annual conference to explore the challenges surrounding \"Localizing at Scale in an Increasingly Digital World\"."
+excerpt: "PRNewswire/ -- Who: Leaders building best-in-class localization programs around the world What: AI-powered enterprise translation services and"
 publishedDateTime: 2020-09-18T16:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20200918sf29461/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20200918sf29461/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22"
+originalUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-301133832.html"
+webUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-301133832.html"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1164922/Lilt_Logo.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
 
 related:
   - title: "Lilt Announces Lilt Ascend 2020, A Digital Conference on October 21-22"
@@ -34,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Nb9bZBQ+8zA6oI34RGru6Mc0Ki1vc0FiXBygWpd4R8DeWLlQtzstBG0zPUHX8fnIocRd3y9pckCnGpBd0tdD9eFFJEMZZq6Y5bMNwDeQgbRKM80c8hshn4nP5DhcPAOiuxshqgBtBcHSjT4uXdkADCp34c0dQfXDJfdl9xdKkfH/sFeQkxc5Xr33wHwcEF+Kt9yjGUM+MJAs+nTkyObivnDiabzPErm4L+hZf/TvNtW/8/gOuX7MY4wGzSP9+Id1/dVZnuKulYZ+Y+y9AhhlI/byRPniPGZ4HoNZ/tMaCnn4uwDenGpQTpATFTKYvJmVOAAkvK0xgNtQ6FitzTZ4vfU4FDfEJMcHOND2C0FFJFM=;1hfa4/o9KpBBmobcauIwxQ=="
+secured: "hVWdSVqODZH/5UDYjyVb2ltgrLzSrP60KQWDoCsATLYiW3KgSXYMRhlTlczYBFIlNnPn9VcDloDG2ZQ14aAbLsG5mkAsqOJku8r0Qx+Atqan8+L+V5cTN4rWzTGzTreKL7LyGab+tXISlqZnDcwu6JkjLV2aqXC09AQuRbD0HO5NhqXQUpw7KpLGM7Kpj7G4e2X3cE2Hh7m+2Aqlspk38uxg8hxZjEuwmXpBybsz9eQmxmAGeLWcqKThBnc0i7Ldshxl388s2jvLa0le0oowXve0uV8IrbyeoiiA1lDkME3lam0P2YyO6TFhdpMJtVISsJEO07qjfIlBlmUL8eIkV7wnnG5PBd7Ed9NQt3AsJa4=;+F6XcR+2k6ibioRCPm70Wg=="
 ---
 

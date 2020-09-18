@@ -24,19 +24,56 @@ images:
     isCached: true
 
 related:
-  - title: "Outlook on the AI in Education Global Market to 2025 - by Offering, Technology, End-user and Geography"
-    excerpt: "Forecasts from 2020 to 2025\" report has been added to ResearchAndMarkets.com's offering. The Artificial Intelligence in education market was valued at US$2.022 billion for the year 2019. The growing adoption of artificial intelligence in the education sector due to the ability of these solutions to enhance the learning experience is one of the key factors which is anticipated to propel its adoption across the globe for education purposes."
-    publishedDateTime: 2020-09-14T21:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-ai-in-education-global-market-to-2025---by-offering-technology-end-user-and-geography-301130109.html"
+  - title: "Chatbot market Statistics | Opportunities, Demands and Growth Revenue by 2025 | Brandessence Market Research Report"
+    excerpt: "The 'Chatbot Market' research report delivers a comprehensive analysis on the newest market drivers. The report also"
+    publishedDateTime: 2020-09-18T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-statistics-opportunities-demands-and-growth-revenue-by-2025-brandessence-market-research-report-2020-09-16"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets."
+    publishedDateTime: 2020-09-14T14:16:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 21
+  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T22:27:00Z
+    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 10
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
+        isCached: true
+  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T20:32:00Z
+    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 2
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
         isCached: true
 
 secured: "OKdpXFeZOdOzNe0yTmg1hjUOJY3CS8fhlvdEoRfkczpfLYVtqCteyRVzR0wO3Mo1VzxtjO/m0iNH2WGIUCYc9pdMFKkdfaHZ5P8Fm5pfP2eVgcx1By+TJgZ81nD/SQ8Xpv1o3ojbU3S4H3F9Uf3J9xhVRAFy1p04hf2WmyHTVhZ76ANiZ7ZNncc7AvLmdjDAufL3Ss7RB9JePhmOywsVIt+txCyxXxXaeIlYrbosci+HmPO+oDwSboCK/ROZjHQDeC46VRdjb66LuTzXTdCLV0yO5PCrHWgoLJaCfy8FyAK3gCkLUCprkzfTV6bm8Pr037+KjHgG+8gtABWzQ77JQU03sjDD10+cnv3RLqiFib8=;xrjTKL2xAHcWqkiv6grkcw=="

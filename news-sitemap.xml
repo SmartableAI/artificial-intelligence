@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/</loc>
+    <lastmod>2020-09-18T12:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/</loc>
+    <lastmod>2020-09-18T12:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18?tesla=y</loc>
+    <lastmod>2020-09-18T10:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139</loc>
     <lastmod>2020-09-18T10:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,19 +31,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.entrepreneur.com/article/356409</loc>
+    <lastmod>2020-09-18T09:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep</loc>
     <lastmod>2020-09-18T08:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/</loc>
-    <lastmod>2020-09-18T07:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/</loc>
+    <loc>https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/</loc>
     <lastmod>2020-09-18T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -475,12 +493,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15?mod=mw_quote_news</loc>
-    <lastmod>2020-09-14T23:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/</loc>
     <lastmod>2020-09-14T19:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -548,12 +560,6 @@
   </url>
   <url>
     <loc>https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/</loc>
-    <lastmod>2020-09-14T08:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/</loc>
     <lastmod>2020-09-14T08:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -637,6 +643,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/</loc>
+    <lastmod>2020-09-14T05:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/</loc>
     <lastmod>2020-09-14T04:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -657,6 +669,12 @@
   <url>
     <loc>https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/</loc>
     <lastmod>2020-09-14T03:00:13-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank</loc>
+    <lastmod>2020-09-14T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -861,6 +879,12 @@
   <url>
     <loc>https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html</loc>
     <lastmod>2020-09-11T12:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html</loc>
+    <lastmod>2020-09-11T10:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2131,6 +2155,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-09-18</loc>
+    <lastmod>2020-09-04T02:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain</loc>
     <lastmod>2020-09-04T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2241,6 +2271,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/</loc>
     <lastmod>2020-09-03T10:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/09/200903105557.htm</loc>
+    <lastmod>2020-09-03T09:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

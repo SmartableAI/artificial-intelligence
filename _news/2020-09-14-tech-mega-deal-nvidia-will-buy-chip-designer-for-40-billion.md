@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia will buy Arm for up to $40 billion, combining smartphone, GPU powerhouses"
-    excerpt: "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology."
-    publishedDateTime: 2020-09-14T03:02:00Z
-    webUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html"
-    ampWebUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 84
-    images:
-      - url: "https://images.techhive.com/images/article/2017/05/nvidia-volta-tesla-v100-2-100722222-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia will keep ARM licensing “neutral,” wants to license GPU tech, too"
-    excerpt: "Nvidia has officially announced that it is buying ARM from SoftBank for $40 billion. The deal is one of the biggest tech acquisitions of all time and will see Nvidia control the world's most popular CPU architecture."
-    publishedDateTime: 2020-09-14T18:38:00Z
-    webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
     excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
     publishedDateTime: 2020-09-14T09:49:00Z
@@ -73,19 +43,33 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Nvidia to acquire chip designer Arm for $40 billion"
-    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
-    publishedDateTime: 2020-09-14T13:57:00Z
-    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
+    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."
+    publishedDateTime: 2020-09-15T19:42:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
+      name: Redmond Magazine
+      domain: redmondmag.com
     quality: 39
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
-        width: 1024
-        height: 688
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
+  - title: "Nvidia Purchases Computer Chip Manufacturer from SoftBank for $40 Billion"
+    excerpt: "In a purchase that may shake up the smartphone manufacturing landscape, Nvidia Corp. announced Sunday, September 13 it had agreed to purchase Arm Ltd. from SoftBank Group Corp. for $40 billion. The deal will see Nvidia,"
+    publishedDateTime: 2020-09-14T06:08:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/information-technology/article/21141625/nvidia-purchases-computer-chip-manufacturer-from-softbank-for-40-billion"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 38
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/09/arm_nvidia_logo_courtesy_Nvidia_Corp.5f5f078087ecc.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "VWvnj8kQu1cQgQX8RJNCqSFNbeatgGtegibHsQWZb7yNRyrfAgOgD1gyXCItV3DCUd9g8B67QR9XqSyOb5aZlHw9Z+J9Oh2eGtzTT8AQgeU4cQb3lYiQ5NJ1GvW1TJrKnW1IP1ZG/cwqr7IrNTxwuFm6GJ69DNJKMeOCvbKywrKqLm8ztR4FQK/dtctUlHPn3vA7NFsdyJVExtYjHepg7QXkwpl+624W19p0vR3Ei94vktTk9r77+Shf/oI1zwG9l+5s2TaEzd1Xm4l51jljUpClcNy5qaRSIN6Ezn7yDtdihvZ4bP3NKZt2n/o1Q06SVTCdxQiHxw+9YW0xvVzna+KRQyl77Pp2BFmGISua/gjBcWvB1pXoHdiCZmv29ZQPiudXAHWLu76is8c61rNUFb0ckTqqJeuU3RjhA2v9nbIwcwJtI5iGrE8qLFn7DMYWtLX/cpQlDXgzs4v0XC8J8EaevYtX9kHhZ2fxB/Fvx/VT+sYLlouufnV8agGnXfRYDPeAqp/n+HhrsVvq9n96dA==;QENmkYNKS84mHtOLNxzBQQ=="

@@ -3,8 +3,8 @@ category: news
 title: "Nvidia sends shockwaves through chip industry with Arm deal"
 excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
 publishedDateTime: 2020-09-15T14:19:00Z
-originalUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
-webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+originalUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
 type: article
 quality: 19
 heat: -1
@@ -76,6 +76,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Nvidia to acquire chip designer Arm for $40 billion"
+    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Nvidia acquires UK chip specialist"
     excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
     publishedDateTime: 2020-09-15T09:34:00Z
@@ -91,6 +105,6 @@ related:
         height: 799
         isCached: true
 
-secured: "/X0o3VVIGEC3FF6Y6Vkm/0ZufoRer8JK5T5ttNoW8LNVA+nhJMaAE0zpQDqe+CAiPRTp7lWX7uOqmaszBx9tJDnq+CIDCKKYJuHRDB2oWBkGYKOzP6cV41R70nvcK5tZzUmezhfHUXAOAUMz//AfiKH14mPHp4V3FITkWXh4EwXnCDyqxxRGbntcxnbFPMOtPlQTdSHsXCj5m3mApw+ZMtxuXQqiAWzUnH3bamiWjHKQ9OkeYPsZ/4r/lV5OboOBaUKxs9vSvthDaSfe6m6ULl16hvZlSHQYKWkNgqw6voOHmMK7MDu5CWJJEVdQFe7UsKSZj2pKoHMjKpHDxS27S6zz2uogJAYNB2Djaz0akBnzVne48DIIMQRtimyMNmAgH8uQ7ZlVSu7ESPdFM2jOFaGdoEn9Q1UQC85gRHxIYkTaqPAczxyKLOYyNjM9R4QXVZx1QfhQEXdsC2iDI0rZkFUUq68Eg4wtnAcC2YQExYX8bUEKaivHHLqNOPVFwHUSroUX5MITCJfKdvaS/rABUQ==;TXusGDEVDQ08WQjde57Gnw=="
+secured: "2mpj+UfSoYKnkKdLAxqC42JW+/Fe981OabckjRg3WuBrLFs7I/q8c7I19SKIv+Vqo+Hg+XvDepO68L36lUOL2DwV3o9eT0+L7PPwxVV8gSF/YpkRMBou89K0joURi+Y2X9mGq7ZJ+lpN2StOj4IhMejz+A9sRDu3ri5thAwdm4Gd+UWD/VVegOsjkXHd/i5dXXb50g1mvYkP6fMAXPVxOv+Z6HUY0bR5ynWEgNFhQoCoK+cJuU58QDqzf6asqLIhVIwvMsGmlVRc1i6GHry6oNK/e7uRtt5mek736wRqoh6uvJp/Tghw3pgxb3x0nwFJ83KPX1hkWa2GKfj5J7mnBHhFQDBAn3vEXCl8NnEGc5MsQg2iTRzvThSepRN26HQNbp27g4wxEZrNqscLohzJyRmv3M9I3y20DgMPm+mPJsxHvOzDUMV0SpWUAxYTEXz0Yg3Fo3f2aCDNzrU1L7ijJsBiIJBiXSbi9fDq0G5Ua5iVK+lyOILxtsMFIzkNqYxPlXpKNwVVlnVmhAmn/BIu/g==;2g93/EHJJlR/C2zw5nMssQ=="
 ---
 

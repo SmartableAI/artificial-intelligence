@@ -82,10 +82,24 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Nvidia to acquire chip designer Arm for $40 billion"
+    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Nvidia sends shockwaves through chip industry with Arm deal"
     excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
     publishedDateTime: 2020-09-15T14:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
     type: article
     provider:
       name: The Business Journals

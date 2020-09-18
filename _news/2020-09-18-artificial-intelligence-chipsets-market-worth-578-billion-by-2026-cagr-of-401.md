@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666
         height: 350
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market Size Targets to Grow at a CAGR of 49.6% & to Hit $18.12 Billion by 2025"
+    excerpt: "Allied Analytics :Different interventions that range from identification of patients and maintenance of their records during clinical trials, to application in drug discovery and repurposing are gradually incorporating artificial intelligence,"
+    publishedDateTime: 2020-09-18T18:48:00Z
+    webUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "SbhqFo3WpWVwr7u4kx4wiEsH8vc8ZKvyoF4Qum96l8IpvXNspE6gsbYY4foQD0Gc2RV63UMcDBrZevfk5Y497VJiMBp1TuH1p5pTVyDEBa+xbYvINnCIXrgYR5n9ZiIh9Evu8jLxWn9jaxhPabPwvud0/hR+I+naktOEu41lzj9pcvSVH5p8Ho4G4Tra0Nl8DD5dz+HItviHHaHg1C/TsfNxjiZgARLrXiuY3Kvw185H+3Gwd7To8BcaUmGPQOQPDSJoh63nDc+kurRLvgvIlygWYe4smxNrKuJIFQLfdpav32V3joEq26VGD6yUgr1YyzVFvqIea3LZV+BenzqmknX4997J3Cy5ArZgCicy/RY=;6TwCQ1OBFJyetWx8AKwxeA=="

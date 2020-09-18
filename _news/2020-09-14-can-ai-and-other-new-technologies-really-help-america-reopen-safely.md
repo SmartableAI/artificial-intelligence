@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -31,21 +31,16 @@ images:
 
 related:
   - title: "Baidu Reveals 4 New Artificial Intelligence Technologies"
-    excerpt: "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,"
-    publishedDateTime: 2020-09-18T14:19:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
+    excerpt: "Baidu (NASDAQ: BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,"
+    publishedDateTime: 2020-09-18T14:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 102
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize"
-        width: 1200
-        height: 799
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "D0jtGlcz6RSn48ZPDhpy618PzVcHmyu0PClGRC0kU0JDqs8I0MkCZMye/DiBO/R0MPhgeeW3pRxcmuhZazBJXlaAz+X7nI0xUGvQqh/JJICgKQmwqJPaShlyj+AyG7ws6NRIizTGBy/GEs4R6W4ToJxZT8ivoiaGsCROogwmdj1Kju/rOij7SE1ebOrjRZxazwBteO7Is/N+mpB5NN01tPojvQLrvFss8GJFjhm+Ru/BJVveqKk3JOwnman64dPsBL+KO60lygqrVx7RYcaktULDjgHolbeKGxAzAdzZZ/8Fimo5Jtr6y6peYK0h0yHtQlWwMxNtfOxaQS98o7Wiw6ys4i2013Y9ZZaZc2Qbtg9+T9uak6dx7/koyd061r4v0SthlESYxGeLCPjgdFUu8FVLWqLZyTO24Ihc4/rchy8ypjXNRV8tYVrAkgagFRnmGXnFQvZ3fJj46baGYdOMDJYTZoe0GfuG7yxS/kY29MQZLwnCmRzmmBeRU/K0zHEdvEWu11xpYlTwT2WQzqaRf0nacZXe5VUNjKLoOLpF98M=;DZz6bcCxdXZPr4u/hwjmHw=="
 ---

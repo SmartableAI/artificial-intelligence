@@ -25,51 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "ARM: UK-based chip designer sold to Nvidia"
-    excerpt: "But experts say one risk Nvidia faces is that the takeover could encourage ARM's wider client list to shift focus to a rival type of chip technology, which lags behind in terms of"
-    publishedDateTime: 2020-09-14T01:37:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54142567"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54142567"
+  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
+    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
+    publishedDateTime: 2020-09-14T09:49:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 59
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13BD5/production/_113835808_armchip.jpg"
+      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T11:53:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
         width: 1024
-        height: 576
+        height: 549
         isCached: true
-  - title: "UK's chip design giant Arm Holdings sold in $40bn deal"
-    excerpt: "America's Nvidia has pledged Arm will remain based in Cambridge but the business's co-founder described the deal as a disaster."
-    publishedDateTime: 2020-09-14T07:53:00Z
-    webUrl: "https://news.sky.com/story/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
-    ampWebUrl: "https://news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+  - title: "Nvidia Purchases Computer Chip Manufacturer from SoftBank for $40 Billion"
+    excerpt: "In a purchase that may shake up the smartphone manufacturing landscape, Nvidia Corp. announced Sunday, September 13 it had agreed to purchase Arm Ltd. from SoftBank Group Corp. for $40 billion. The deal will see Nvidia,"
+    publishedDateTime: 2020-09-14T06:08:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/information-technology/article/21141625/nvidia-purchases-computer-chip-manufacturer-from-softbank-for-40-billion"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 38
     images:
-      - url: "https://e3.365dm.com/16/08/1600x900/42dcee07ded5c06f53c535b3db49840c20a60f4af1691c3bc83c64ad8434fe5b_3756902.jpg?20160803094809"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Government to examine sale of computer chip design firm Arm to US company Nvidia"
-    excerpt: "The Government is examining the sale of UK-based computer chip design firm Arm to US tech giant Nvidia, with Boris Johnson taking a personal interest in the deal, his spokesman said. Earlier on Monday,"
-    publishedDateTime: 2020-09-14T13:57:00Z
-    webUrl: "https://www.swindonadvertiser.co.uk/news/national/18719479.government-examine-sale-computer-chip-design-firm-arm-us-company-nvidia/"
-    type: article
-    provider:
-      name: Swindon Advertiser
-      domain: swindonadvertiser.co.uk
-    quality: 34
-    images:
-      - url: "https://www.swindonadvertiser.co.uk/resources/images/11805842/"
-        width: 1620
-        height: 1080
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/09/arm_nvidia_logo_courtesy_Nvidia_Corp.5f5f078087ecc.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3y836yE709LPlvuofsWr19oAojXY0XPz+YzHNHsvcrrBTLY2oevMm5uhkyz6TzaIdZ5p5UQXVjlJDL9lUaRqboGThs/5XTPHVjQw6hlVLeipOO8hNdlP92kr6pe+aGQTtAbrFymOp1Hzjhz+qCxmKWXW37rV+xKPyUqjAOV3EADZIvOPFyP7yisCTMkG4F6k5L8insUItRyhczX2NRt9mFNMqlMtnWX8v3RXpgQN2g4JZQkKgd+s8avaHnQw8RgtaRsouHip97GWS7UebzATAbmAi/0CQy8dot3Sgjr/C2Hj/JS5/EK5oMtthOKesZy5KtoNsFWoFCKWppTnzFbZZbzoFPSXvwIElMZ/N1cYusXGoWJc4CWEeIvCBaHJfUN3kQjwiXJXJxFykgFRK305rv3z89dkvgk7Rdrw4vAU+a7BtzgicD0ZAYnpberuPfQ527KzL2b0ZzwazrpzUFsWE+71pMWaEpM2mpyqfp4OFOxFvkBGZaRA0UkkyATm14+hiTXItKkuMGgSvUGCe8ujWnEbNcHcRcBanQ6gMUMzPZE=;6j7tFLVManPatZDrul2l7Q=="

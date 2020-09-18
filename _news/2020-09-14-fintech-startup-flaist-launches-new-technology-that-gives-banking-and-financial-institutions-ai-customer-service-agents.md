@@ -41,22 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Dubai International Financial Centre to Continue Working with Local Organizations on Fintech Projects"
-    excerpt: "The Dubai International Financial Centre (DIFC), which serves as an global financial hub in the MENA and South Asia region, has signed a Memorandum of Understanding (MoU) with the Dubai Future Foundation (DFF)."
-    publishedDateTime: 2020-09-14T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Burj-Khalifa-Dubai-United-Arab-Emirates-toa-heftiba-unsplash-251x300.jpg"
-        width: 251
-        height: 300
-        isCached: true
 
 secured: "JluJdIq6jFE+OLgcPSCSUlkrb4N6wKkTBfq/tiCPENfkGWyudZPTQR8BIKQiP7z8ykVRGg4BH29TbifjaXNLlbsbP75+TVnpNPV1N45LmwVAU+vSlKFN97ls1Tzf1HQeuv3aIARvC0dC8Jxg1vJIUaHhZDFNg3vG5i9zcUDat42ULkOV1CzTyeFqHGjKx0g4q3f9x/TPXKI0oa7MKP0Y5WV5K81VMrb2gy5OkXmaABQRRETr22oEHKR21U3ABf7PeOBizH9mNS7Q72i6acSvPwhu8Nec2Qwc5OCrSr8ippSXrGcrM02MNm0tpr20qYX4iwnftTPfowaFkBrJujS65JNuNcWmwFQBo8Hno3heYyw=;ncWB0zPWt6TO9gw8ePk7tQ=="
 ---

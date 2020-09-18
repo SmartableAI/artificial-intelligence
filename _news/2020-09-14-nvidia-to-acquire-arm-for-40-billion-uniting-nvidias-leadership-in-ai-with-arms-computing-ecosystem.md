@@ -42,20 +42,6 @@ related:
         width: 796
         height: 419
         isCached: true
-  - title: "Nvidia to buy Arm for up to $40B, combining smartphone, GPU powerhouses"
-    excerpt: "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology."
-    publishedDateTime: 2020-09-14T01:45:00Z
-    webUrl: "https://www.pcworld.co.nz/article/682886/nvidia-will-buy-arm-up-40-billion-combining-smartphone-gpu-powerhouses/"
-    type: article
-    provider:
-      name: New Zeeland PC World
-      domain: pcworld.co.nz
-    quality: 39
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/dreamstime_s_164869732_1.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "gYpWBQUOo60I9Siso7SyfSZQFQV2CHf76CxOAPgLnB2LpwtlifyACsbH771nMvrA2+R9ahgnQ4aNC69+xGkg/bW1zsnWqjoMIpENr9KdA6beKZvTzEysdnebEht/ysLA8txgUulkHyr2OAuFPfWTLHSQmocHVUc0I5ETwcgDi7orRtI/DrcRoGCLz+edm5tEokovYP/cO2oHVNffbPei22pvAl6TSwljq0OO0BvOm3/p29PRjySGEIK6UC1GV6SjUoqBjtnLvIs3AH2vVWpe6o80Ck+LX+GQQjX+UrQkiFWF9q+AztjTux6bfjaa1qSHniffXOxgVTWY/3fH4dtyBOogRwCyeE6Eq4fFedx7tsY=;5Ris+kbaIqfSSZJdgOjosA=="
 ---

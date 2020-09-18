@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
+    excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
+    publishedDateTime: 2020-09-18T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Analytics Market to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-09-16T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-to-witness-high-growth-in-near-future-2020-09-16?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
     excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
     publishedDateTime: 2020-09-15T06:29:00Z
@@ -42,71 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Growth, Trends and Year to Year Projections 2020 to 2027"
-    excerpt: "The global Artificial Intelligence In Diagnostics Market was valued at USD 295.3 million in 2019 and predicted"
-    publishedDateTime: 2020-09-18T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-growth-trends-and-year-to-year-projections-2020-to-2027-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chatbot market Statistics | Opportunities, Demands and Growth Revenue by 2025 | Brandessence Market Research Report"
-    excerpt: "The 'Chatbot Market' research report delivers a comprehensive analysis on the newest market drivers. The report also"
-    publishedDateTime: 2020-09-18T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-statistics-opportunities-demands-and-growth-revenue-by-2025-brandessence-market-research-report-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets."
-    publishedDateTime: 2020-09-14T14:16:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 21
-  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T22:27:00Z
-    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 10
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T20:32:00Z
-    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 2
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
         isCached: true
 
 secured: "3z0Uptw74HbUweYEHV4psVHjY7obZJNYoYK4ffKNccV32/c4Zn2S33rg7dombXvC2GXjAE4OkWvLZuYYAueFHyFnHyi6Fn0SLm06Gd+aHZsr+OcdI6krNGpmelgdHVlpWkTpDT6zwY+IDkTmGyEIdhy4gMTopVPKNaz1zhfiA/S1BaTH3wci/uMn6NNYURPFUpZ9cfbqaXZpQAfPtaFqZKj4ZkGEjkw+wnifoReMP75uiv4OXCB4t3ghbFTjuoaG7zLxsfre2esGd55DIW7qa2m4COpBgQPO3mcTnDi1MIl9IYjpIpE8ZXn60wxtECwi3bDP17PDVjEYNjwuQm0ZU653+tIsznoo/jQljpp8icY=;JCW4Hdz25+TGV6Z/F/f1+Q=="

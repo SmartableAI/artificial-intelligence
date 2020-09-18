@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/press-releases/lilt-announces-lilt-ascend-2020-
 webUrl: "https://slator.com/press-releases/lilt-announces-lilt-ascend-2020-a-digital-conference-on-october-21-22/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
 
 related:
   - title: "Lilt Announces Lilt Ascend 2020 To Be Held Digitally On October 21-22"
-    excerpt: "What: AI-powered enterprise translation services and software company Lilt will host its annual conference to explore the challenges surrounding \"Localizing at Scale in an Increasingly Digital World\"."
+    excerpt: "PRNewswire/ -- Who: Leaders building best-in-class localization programs around the world What: AI-powered enterprise translation services and"
     publishedDateTime: 2020-09-18T16:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200918sf29461/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22"
+    webUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-301133832.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1164922/Lilt_Logo.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
 
-secured: "jysX5nzXQfRRx9Z1DZtfYIslbotaVDLevcbOHi0vDupQEv60x2j+m4TN/75IigjF2bys7ew3j1C3c3iMWGubsR9KSspd6FF9MoZWrxEaMrGgCB0QBJunCeGStG+xRVpgxLBzsVrZPuKThbjukQKzczs/kKYnsp4DmLTtYFCjXZ4wQpOxslDaWbs2ZucfrzeK7DPdrQIPsOTp9nkW6lgGd751EmjG0B7JdK77uyocU6mhC2IqnW/I/X1DkQ/yXYVPhqwQO58VTwafXwBXCMpbyyh8Rf3MyDAJVMo/PiRuatlVMqRsQWLHH84rLgfu8GipvkWyB2ijqyP7wZhDdqQv3u2Pf8eealNKfr/2X/ZxanE=;fms+VJexKn7sFbO4ToQydw=="
+secured: "9VEgNAUQW/Bgx8f3aAvx9sPOiBdI9i0ibi5b3l7YFLK78zCtgqmq6P2mHwds1cqYYjRgPK/Rfw0WBpglGXr/iSLpvnfsFF73sI73h2aG1fI9l1RmswJlDG5OVoK/C1fKTzniLv+rXDpcaKIBADE+Bn9kTlC1aF3uZuG9ddtSiCcrPjeWoN3W9Qy81rom8fgeNlTM+wjPq2lQ0J4u1gGUwego3YYOsGuGgYlyYwjpGEZzdQZ3NDnnnazANApN54xz2KI4Wavo4542sSBaAhS/G4t5WP64MrfBXnBuE4cCRgZqjW/OdGMarC7PN0505AF07iZnZBxNP9fjBSV87Mq0LqGB/fEZAvAavcSuo+cd4uYu0qnAdMjjhf4nmbHhJdi2MDAAs09HjIiMCBw6pb2GhgCckA8qmGOt8uKZdMs0GnywwSARVired5//dXFKPKdvkT5dN0JaCpeOJ1SnSe1t+D3C2KuKHVtdWlkAXeusjc8dwK9cRIYQIveQaDq2GNq4ievYNjOv1z3VmdCjQOG01A==;Dv+bAhW09xsj+ivcYfrmNA=="
 ---
 

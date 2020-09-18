@@ -1,47 +1,23 @@
 ---
 category: news
 title: "Autonomous robot plays with NanoLEGO"
-excerpt: "Molecules are the building blocks of everyday life. Many materials are composed of them, a little like a LEGO model consists of a multitude of different bricks. But while individual LEGO bricks can be simply shifted or removed,"
-publishedDateTime: 2020-09-03T15:01:00Z
-originalUrl: "https://phys.org/news/2020-09-autonomous-robot-nanolego.html"
-webUrl: "https://phys.org/news/2020-09-autonomous-robot-nanolego.html"
-ampWebUrl: "https://phys.org/news/2020-09-autonomous-robot-nanolego.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-autonomous-robot-nanolego.amp"
+excerpt: "Scientists have now developed an artificial intelligence system that autonomously learns how to grip and move individual molecules using a scanning tunneling microscope. Molecules are the building ..."
+publishedDateTime: 2020-09-03T16:50:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/09/200903105557.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/09/200903105557.htm"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-autonomousro.jpg"
-    width: 1440
-    height: 960
-    isCached: true
-
-related:
-  - title: "Autonomous Robot Plays with NanoLEGO"
-    excerpt: "Molecules are the building blocks of everyday life. Many materials are composed of them, a little like a LEGO model consists of a multitude of different bricks. But while individual LEGO bricks ca"
-    publishedDateTime: 2020-09-07T05:01:00Z
-    webUrl: "https://www.chemeurope.com/en/news/1167819/autonomous-robot-plays-with-nanolego.html"
-    type: article
-    provider:
-      name: CHEMIE.DE Information Service GmbH
-      domain: chemeurope.com
-    quality: 39
-    images:
-      - url: "https://rs1.chemie.de/images//134938-76.jpg"
-        width: 832
-        height: 624
-        isCached: true
-
-secured: "W3WJvYO3o34imbIpwzBwOB+7a1c4gvcrG43/kzsxC0pzY6uXFCgmUP7mSCpnzZvWMuuNrd8tmIQ9eoXkDFocRQlBfvZRiZEdKcC4dOCuQLuzmVE7c/KS2TGCWr93YnZfSAe8SvlMP/nwrga/OfYB9/7KM8DhS2qc/rrxVl+/SHu/Q/zFtgQOIMWtXTSmyTgPWsHvdMYS9yNQ49DtBDp91dNU9ouaogcvkiMPvsV4KuQlgSQPYQM0wiOIGGIUdSMw5OTXoc3crEmDJqpPSD60jjxKsQecfKmeulK0PIePh/UpLnHSBuz5rDBYIpHBfDTma0h30byIiNAzp5183Ps0TrafUVdnj9eNHkrLjEGUWxlcjby7dfbk1LDWaO6bsKjvHMbNM7OPjK9n1CigVDS6bJM6ZX683THQf6JE6JHY82W88KltfGvATTxKCSSIC9CC1cBiWSStk0/oQwAgyJnpt0oQxFyYy+0SN1/s24xyycRLK3z+tD07Ee66tfIQn1ZJsIoYKe8h+OptzFqLnVVe+OF+wZTzxi4RHEUZIfemco4=;GmXcjREv3WwKfVsGKX5wAQ=="
+secured: "w4QDjnTHX1e1ENvvxf+9EL55XY78/xl6UarnZDt2+MqZ/kZ/wAAzF+5RdxkO/HCprweK4vjEShvR0ben0jQinnV+8vAN1qtcp60rJx1b2YXgTKSMkp+hpkkL78Zn+d02hik8j3xS/3GVmWcXODhOC1KGSyDX9CE9vLWxzMWTU6pm/prmGPK4tlJSfiJLfyt2H7o89Ijx2nkEIlAY44GJoXaCtvObsRO0q6LOOo8fePZzAFWfkhRVsfIGGE/gZ6TwcrkObk9lFOmE5AQKW77VnJHIUkkZrNQFHcWmtezBCSTDkkJdj2AtQQQ7BbniirjQUMBbLW9Afp7opEV3tLxFWZ5/74k9pwltJgm7lfLosDA=;jFPTdKpjW3CaeAcO759Lcw=="
 ---
 

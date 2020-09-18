@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Five9 launches voice biometrics cloud developer service, voice recognition market to add $2.6B by 2024"
+    excerpt: "Five9 has announced the launch of a new cloud voice biometric service for contact center solution developers to help them leverage real-time voice data. The new Five9 VoiceStream is an API for"
+    publishedDateTime: 2020-09-18T19:46:00Z
+    webUrl: "https://www.biometricupdate.com/202009/five9-launches-voice-biometrics-cloud-developer-service-voice-recognition-market-to-add-2-6b-by-2024"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 8
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "cmNyK6g+h5Ha+PgyiIQ32Q8js2ceG9k1uKo08piiBI4ehIXWLlb2+JnXpLvWQF7CXITZKHNY0t3DTu53xI50CBJw7tNIpJaz9yfhFvhAMpjI93y5EX0vhi/bII1NICPG6UFcqeYDThGpoDhjbbUnFEAj3fHG0vv+xXswhwKjx95Srw3xbqkF0K9j92wFWIDBIj1oNjITjg2jRqfBoV8sC1dw4VdDtLIFHqS+SkMU2ymL9yhMSolJ0Fh5T8uCD/F8djxKg9NEHP0ntD86NeYQA2UbasLMy30uRVy2q6oCm4LeG0EFb2ymvszZG/2j87Pqajw8pp4xRxY9x2r8XMw2OipVFZ3iUUkJCdraSe4+Yl8=;L8uj+0f+SzTKDYLlUPrc3A=="
 ---

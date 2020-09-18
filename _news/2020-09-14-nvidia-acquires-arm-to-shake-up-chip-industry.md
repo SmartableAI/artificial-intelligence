@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-
 webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Nvidia to acquire chip designer Arm for $40 billion"
+    excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
+    publishedDateTime: 2020-09-14T13:57:00Z
+    webUrl: "https://www.onmsft.com/news/nvidia-to-acquire-chip-designer-arm-for-40-billion"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/ARM-Nvidia.png"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Nvidia acquires UK chip specialist"
     excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
     publishedDateTime: 2020-09-15T09:34:00Z
@@ -89,7 +103,7 @@ related:
   - title: "Nvidia sends shockwaves through chip industry with Arm deal"
     excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
     publishedDateTime: 2020-09-15T14:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+    webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
     type: article
     provider:
       name: The Business Journals

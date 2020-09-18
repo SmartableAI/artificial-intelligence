@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-u
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166764-u-s-fintech-flaist-unveils-conversational-ai-tool-eva-for-credit-unions-community-regional-banks/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai International Financial Centre to Continue Working with Local Organizations on Fintech Projects"
-    excerpt: "The Dubai International Financial Centre (DIFC), which serves as an global financial hub in the MENA and South Asia region, has signed a Memorandum of Understanding (MoU) with the Dubai Future Foundation (DFF)."
-    publishedDateTime: 2020-09-14T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166739-dubai-international-financial-centre-to-continue-working-with-local-organizations-on-fintech-projects/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Burj-Khalifa-Dubai-United-Arab-Emirates-toa-heftiba-unsplash-251x300.jpg"
-        width: 251
-        height: 300
-        isCached: true
   - title: "Fintech Startup, Flaist, Launches New Technology that Gives Banking and Financial Institutions AI Customer Service Agents"
     excerpt: "The fintech startup, Flaist, has announced the launch of a new conversational AI tool - called EVA - that helps credit unions, community, and regional banks better serve their existing customers and compete for new customers with larger"
     publishedDateTime: 2020-09-14T12:15:00Z
