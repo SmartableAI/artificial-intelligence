@@ -3,7 +3,7 @@ name: "Christopher D Manning"
 bio: "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋"
 location: Palo Alto
 type: "profile"
-heat: 202
+heat: 198
 
 affiliation:
   name: Stanford
@@ -21,7 +21,7 @@ website: https://nlp.stanford.edu/~manning/
 twitter:
   username: chrmanning
   url: https://twitter.com/chrmanning
-  followers: 70481
+  followers: 70489
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1zmDOdwAAAAJ
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Christopher D Manning"
 
-secured: "STxEWCGMcX1/fNrRo1N/Tno++f3RTlij6wQvMdVxAeECofQitSG5ZZsPu3ADVoaAaT5Eh0ciLW0qRT7V+VwLoofj3B7MKHuKRvGqmUWb/pLu54+wImPUx3b/ko3yxZ3VzHuSn5OpqmHbt2KbrlFo20Rd2w377oM8vJP8GmhbfXznsWN/CPKpqe6I/OCwcBLHLPZCYPnExB2YoOQr2kHC1tVTd6BhmLbfclcFXT6Y59CEtO8rG+e+lPMfNfEjh4jNCmq4ZxnUIa4pYXonO4XfGuxXDUIsnLiPYYbpo/WC9G1+aM6rQXmLKafxD8uidZAzlsxqxGAVvIEAfE+K7GRdW+33xYvbU7GRuASGdiGfMdX/QoGOWMLZyF/Vo2QyKkqI1oMK5plcNjbhwpOny9vTde53f2CTey4cS+c0mK3Mw4U=;guBl6sd7FmXdlYdsJxH0mA=="
+secured: "z+/DxSLTiMjNR1yDVaEcsN4CeV+uLS8vEuPIggUEwKR8cwhnDw4shFODge+OhvZWfzBT44a1iXoJQK4YecQf+dMBRdVITn+BpzuROA45JG4IJUE43T3NyectRat1sPM8golpH0wQo0Itm9Y6A5MjPAwGsfLw7wCHU+uH31xZ/Dg5PwZAHvady1tS2JCdmwy2doI+VI99LwL/m53hQWlmlccFZBNGK6RL9TAHI+mF5c1xN1GU85Epc9I9cq4y0hSmUmOFWJi62bk/n1+aEFFkwLhtMoUAHX+dgDbPx7TZi1/8JicU4bn1voOZl4VsNgj701o0bVon8SdHIjEUzol/tESD/qzyArosfyfTdvB9kaJIxNmZ8w79daqM4B4eVCYoTTTw0ClT8mLOWu5ob9IfYRwGsTY+kvcdSjRDq+WwVxo=;rC3/zDIVtL5fRyf4dtt9EQ=="
 ---
 
