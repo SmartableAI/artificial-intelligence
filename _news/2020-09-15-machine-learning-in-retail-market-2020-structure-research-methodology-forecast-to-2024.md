@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-reta
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news"
 type: article
 quality: 76
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
+    excerpt: "The report outlines the competitive framework of the “Machine Learning in Manufacturing Market” industry describing"
+    publishedDateTime: 2020-09-18T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Software System Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
     excerpt: "MarketsandResearch.biz has recently published a market research report namely Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that contains important statistical and analytical data spread through the entirety of the report and includes contents related to the industry."
     publishedDateTime: 2020-09-15T19:41:00Z
@@ -119,6 +133,20 @@ related:
     excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
     publishedDateTime: 2020-09-13T17:37:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
+    excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
+    publishedDateTime: 2020-09-18T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-09-18"
     type: article
     provider:
       name: MarketWatch

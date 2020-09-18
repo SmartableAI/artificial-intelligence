@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
+    excerpt: "The report outlines the competitive framework of the “Machine Learning in Manufacturing Market” industry describing"
+    publishedDateTime: 2020-09-18T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in packaging Market to Witness Tremendous Growth in Forecasted Period 2020-2027"
     excerpt: "The recently released report by Market Research Inc titled as Global Artificial Intelligence in packaging market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate,"
     publishedDateTime: 2020-09-14T08:47:00Z
@@ -118,6 +132,20 @@ related:
     excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
     publishedDateTime: 2020-09-13T17:37:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
+    excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
+    publishedDateTime: 2020-09-18T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-09-18"
     type: article
     provider:
       name: MarketWatch

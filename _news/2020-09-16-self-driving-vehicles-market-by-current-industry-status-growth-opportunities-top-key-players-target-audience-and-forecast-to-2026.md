@@ -52,6 +52,20 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 21
+  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T22:27:00Z
+    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 10
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
     excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
     publishedDateTime: 2020-09-17T20:32:00Z

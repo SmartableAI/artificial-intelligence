@@ -26,6 +26,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Germany ICT Market Report 2020/2021: Market data for 11 Tech Trends like Blockchain and Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "The “ICT Market Report 2020/21 Germany” report has been added to ResearchAndMarkets.com’s offering. This report contains information about the information technology and telecommunication markets of Germany."
+    publishedDateTime: 2020-09-17T13:02:00Z
+    webUrl: "https://apnews.com/business-wire/2ae5d657e41141da97e8452e51f9726a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "d12dQzwGxRCUxr0JNuB1RXtTfCPQr8ncn2jSoHD6vpcKjeV02+C5FxLhtrSvoS3KrqwIYNwd2jYopw0QnB1guF5JFTgCYWGy7W3CWTurybagBcPMmTFRHcPcolTntp3Oah1m9uTN1UM4XsfuCbZYDueHAw/VaHz5ID2LHhLXoZoPNuV42CgbBC1FqXSN0hWs2BGdLwgkUIvLIsM+gzjNXV12quKGZjuiINVb82dt09G718CGMZfycWXoq1zrOkIjtLKb6yztx3hyT3k0HdQzVRusAybcEJTZLnX9wnmMlc6yoRkQO5QSvzJo8M/lS0fjez8tdBbpCtO3ry5gMukzAO/jfrWKWQKfo8UVwmOhLL90dhPp5kh3rxlrlNgppj4OACbubcaNE9nBHLlKy7MGW1PXNKTDR2oq/8n7PR/BqWRoYH+F9kpIRM7h/eyMILnHuKYfu7GykRIbI2sarhrm8YNl1vW+tP9sMjbkQrDriKCaxh+65SO3DAlTRCCkq76kSK+bbLXrq0V2rjRdBI4Aew==;wDjnJHWVjIB2z+uzoai6mg=="
 ---
 

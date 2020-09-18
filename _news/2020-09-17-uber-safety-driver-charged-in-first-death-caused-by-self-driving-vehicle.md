@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
-excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona.  For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
 publishedDateTime: 2020-09-17T16:15:00Z
-originalUrl: "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-webUrl: "https://www.vice.com/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+originalUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+webUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+ampWebUrl: "https://www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
 type: article
 quality: 72
 heat: -1
@@ -234,6 +234,22 @@ related:
         width: 3290
         height: 2320
         isCached: true
+  - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
+    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."
+    publishedDateTime: 2020-09-18T09:47:00Z
+    webUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487"
+    ampWebUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Tesla driver caught asleep behind wheel of self-driving car going 93mph"
     excerpt: "Police - who spotted both front seats fully reclined - say the autopilot feature \"still comes with the responsibility of driving\"."
     publishedDateTime: 2020-09-17T21:27:00Z
@@ -249,6 +265,22 @@ related:
       - url: "https://e3.365dm.com/20/09/1600x900/skynews-tesla-self-driving_5099820.jpg?20200917214103"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Tesla driver found napping behind wheel of self-driving car at 93mph"
+    excerpt: "Police around the world have made a series of arrests of drivers who had been asleep at the wheel of Tesla cars"
+    publishedDateTime: 2020-09-18T09:37:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/18/tesla_mr_image_trans_NvBQzQNjv4Bqql6ZVqw2K9kLBBgaKs87NIpcJcYmaR3n9ZH-3CaApuA.jpg"
+        width: 766
+        height: 479
         isCached: true
   - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
     excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in Alberta, Canada."
@@ -543,6 +575,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "negkeftUKAQavcWnGBlZmw2A8eVE7R7qKuMCHliBskznvlz0DMLS09gFOguc419oIcXJIjcMY6YcC8kl7c+2QiJI4sGMl7yGtd1AK/Me35OqKl1R0P2GXnF32D/qJ4HwCeSNkLbK4PJ8uEDLiFnxu8C2bfzAF3I+CFzYHIP9nTkvSl4JVU13OXA58WvIy8CI37TybY6i78X+m1xria60/Wi7/yN/gWLxZp0kGGib2d2u0fzxH8QK+dIexU17AiweAD0WVvCIuLSFcDpM9H+gXIBjH000Xfz/IsTlKaNKvm4d0keL+6f0KvmHkddIu6pgUiC1JHMXX6ij1MiCNN714TjD8nMX5YYGUsFUgVe0XRQ=;HyDJgtbgtqjwITuMl9LDvQ=="
+secured: "qHXyDA8jplVjsHjLujgnev2PBx2WXxoS6/AoZCkPODepU03boZTSe07vPKg4+crUcn6vAWtR+W22ganlv9eMSR85vbX6wCFonpiw+yqMKOHItj8nmg+nJdUhALqGyprBhRXtTZyA5+nehsSi56LWJ1+Gs+YrgQqXNya384A+R9tL4/KyhgSfnDOHYlZNz/KSU3+5rnT3Q1Lf2+DzatmswFxw/zSaF0LCR9PRVSCflHaZP/BMYP5h8BBOoDyEia3Ki28wvKYHHlKbONWfSWxazKyeKd6p65AinCIfroIDeWz7pguDwJla97xSzfZPXyfmArUTT3aRUXMFaGXsvIXkSvZ/5rGsfYwLWe/f/RRuySU=;oCWUp7rtAZ9WhUbTKz3TZw=="
 ---
 

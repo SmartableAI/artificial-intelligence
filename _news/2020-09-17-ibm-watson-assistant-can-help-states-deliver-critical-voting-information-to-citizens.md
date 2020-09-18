@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens"
-excerpt: "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM"
-publishedDateTime: 2020-09-17T14:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens-1029598387"
+excerpt: "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM (NYSE: IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters."
+publishedDateTime: 2020-09-17T12:00:00Z
+originalUrl: "https://apnews.com/pr-newswire/35b0f948bf3089c72e59602a36aa9f90"
+webUrl: "https://apnews.com/pr-newswire/35b0f948bf3089c72e59602a36aa9f90"
 type: article
-quality: 62
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - IBM AI
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "IBM’s Watson Assistant can now field election questions"
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "G1HL6W6VedD4jadIQQPDi1y/QIhhrE6Mj/sc7Ck9TLj4ewIH4yQMEGrhaFld4WlcbycAUfflPnK8rkAvzN1AsOkoo1xfNwviDgIdc/jyxVO53jf+oQEzA2TFR33mitOlXvQc9SzEJlBhS3ySgqSFHSE/eA6sq1tQnWVSvFhR+uY8rzbwX0yFaOcUmGNl9HPZms4hNynylywh0WjONUkexv6CdCSoHvWlLAYm4R7eJmPM3StXrO4aosz90IqOLEy6y8RYj78Ju/QfZO5mq0MHXdFE5LHjv3riaSb0/yyh67eZ/S6YR+abNmAcANGau/c1DbdFjoLQ19C6o3iWqISxNGfPDR6J3NokDnQpbyxXgiI=;zolsP9EO6wI8IdA5qAP5vQ=="
+secured: "yYil5btODfT2Ym6WncyWKCjPPGEOefpUzyZSK5sFEHdkcgAQTcPAsNG9HkzqpNjQQitcJlW0rXobkuJ+yRwZLYjcR8C2q2pL9TQi7s3ApBqE2PbugwAy8EfaWvcrt8L9T35Pd8pBkPSicSGZYUdRUYQSbp2AqIjhljtSaQXs/vCwe+1YvmMY7TdHE7BpZ6kld9MhZ0MMsk6axIP2leZjIJqv2FbejuhrpbtPGtVAtP0f0XFvLuvlkACx+CFI6au+EVL77CW1w5ariVE6iFF8Nr9ZQ2UwcNhO6MlPf5J/NbeIAqMeESxFJNH2WQcQLFADKytm/wEW5X3V2k5pBdyMlHi6a3RCo29nrUCRr7We3ro=;3c075IG6LurKogRxioM8zw=="
 ---
 

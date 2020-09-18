@@ -1,26 +1,26 @@
 ---
 category: news
 title: "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19"
-excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai"
-publishedDateTime: 2020-09-08T16:12:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html"
+excerpt: "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence"
+publishedDateTime: 2020-09-08T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
+webUrl: "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "qouFlz2m2MJa3p3FJC8WI0kIH9aLd1v6d2FVlK19utu22DSa2+iJszw/54Ty8ZjD2hoWFGoXk+fJ1D11/HQPwrs6P1AQViLU6E7jY4Tg5IFCPidVrDis5vNuPaHzfYsaiKAuTjwTVwAXhX9xIxNsWVzWlCwqYdf/Cz6CPYr9qlveiOKhdADQpgRxP/lg2EET3UL90fdeICM7KkMZZ6L5brH9pS6xBsxDjgPTQEJupjGYAD77qagzEBJzw6+jn10lVb1E2yY4rr3XR9Uh+4+CTtcj56faRoS+gFlCL+8ZYZdGsH+wTKesCM9MLpUxL3V/ttXSAiAj+Xt4qWTl2atCQHi0bZBuh2cfVUa+sxphN40=;SJVoRgpDen/0YUF1easgWQ=="
+secured: "bztBOxuXxVrxzhfQ2WDFDQpLtVvorlR53KEJ5swa+1Fo8/GwzgX5NnUaGt1xtcn8oKR0u3Ooz7LzoZFvKi22kVTidig4Yogb1pTuTOfHkgl7/r4gFfYAqZ/ZtC89hd7dPXiuZUi06Nbp+If1NQ5I5NkNkAvIj+kjuWsEe5iPHfBAcJlYYh1f4xK/fwD8MCrk176SR507Q1c2i0/8T3i4n8GCo1wDrWAQQURksE52KboKT3LHCHtrDkfgMMW8xYsxw+TF6fyr9jRFVJ9AdrEkHx9mmBq+iZXzj/+KCAIWxlvXm7E69T54NnPiN2ezZbvOorxW+lddd/8bTua7SARO5vj2BZfZsxgqpfpuY0vJgYI=;MLTnU5W61JNWfUW9VaPorQ=="
 ---
 

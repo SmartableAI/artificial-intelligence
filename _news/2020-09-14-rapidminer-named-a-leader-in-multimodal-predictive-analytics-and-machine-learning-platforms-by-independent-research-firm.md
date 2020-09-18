@@ -39,6 +39,15 @@ related:
       name: thaipr.net
       domain: thaipr.net
     quality: 0
+  - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
+    excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
+    publishedDateTime: 2020-09-18T08:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "l6nYdRegDIUxOzxoHBzgr/ldTixf4mJOBYiOD0f5twQbznoZyJdZ4OFvSjHGKx7dtZ6YZccX48VUcNo/hb7/++AGTochypWCsOyZUJRQuFkvz9Zka1Z6I5mKhDNXLbfh4kzZtBc4O+2dqA34cpdOeMuAMqkHS2KMvIlGKmTauAzZoZPEa/sIb2f8vMiA+/oDUMKu+ErUNAJ3IqAJvmC6Wy/geOyQBMoscXqYmY2k8X11y4I2X1RraTYOjtjIQbwWFnD9T7K0vIk9Lm3738XXn77ivk8Ku+9WfoF8BR5WbNasSVZMgyYzdT4LMLxxjIXX7jR6qBfe01GhIHyBneWzakfIv+7Den/CLZFUv00Mejo=;rKzWL7QF050OuACyNcrAyg=="
 ---

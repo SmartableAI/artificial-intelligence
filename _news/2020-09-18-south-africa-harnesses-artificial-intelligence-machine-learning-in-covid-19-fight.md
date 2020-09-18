@@ -8,8 +8,8 @@ webUrl: "https://www.iol.co.za/business-report/companies/south-africa-harnesses-
 ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/south-africa-harnesses-artificial-intelligence-machine-learning-in-covid-19-fight-9f9b0dba-65d4-41a8-8196-cd2258fae312"
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/south-africa-harnesses-artificial-intelligence-machine-learning-in-covid-19-fight-9f9b0dba-65d4-41a8-8196-cd2258fae312"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://image-prod.iol.co.za/resize/1429x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7db40ba9-5b7a-59a1-bb3f-286be6e200d6&operation=CROP&offset=0x155&resize=1429x804"
@@ -26,6 +27,6 @@ images:
     height: 366
     isCached: true
 
-secured: "7i1HukGXWUhz0pm6UdC4tKp81jrzIoaNg/vDaPmX7+P7fc5M+X8KQ9hZxZYysyUVaEeSXq2oBw/F4lcEBv/9y4InwlFLmOzdZRFhIiDpv2eFiMfE7/sS5Cn4J1Psg7pajNFYjVDEgcrGZTIIkZ69PCZ4rdJ7KKOyHiOhc+IcHidhSRd0mMi65Zu8rNgc3EtwyahJE2b9zpnMp9rO7rCQ+YqqZS7660NuLVN56q+8dsLMfvrC3qs2H+fAqhvbPg/iQ8hPgs3AMNUXCOz6e5XZb1niwF8BKeedSyw9kWFv4sf15aG1XE2bLr8K9q4G7A7peJgBgW00nqIZxYOcDA+IxSRYv2d4aEQyJDGNZ2WvM0g=;51Xyw8iY8bMzY3XPuATXXA=="
+secured: "tlJ3pN7GmaxjZvY5aFKd0ldncU8wm4NXTs3JuTReDxbmGDrOijLnb9tJ/LpDhR+ZZ3o47B40XjytsSmOIVNenMYNFXXscVMwBgcJzF+mNH+HthlZzkdcH5g/RrXQwmIMKnVDp+OAhFyhjce+4pZ707T0bUxhFhzjsEPU25OneVVMxuJc2rrRLQ5YGkWzpVMqrfrxH7C8u5QMjr/CtVlnWhEda1C/Ourgfee3XOXXSiaGtjViTyZLJQS9OJOMun7d6ez8lYvPKIGGeunCFeddCKklQyeKaVBnH+bciHxAXHzcFUQIfRwbci0ecNGY1ChJLOJwAAKm6ksZ5krMEwdrVlcgJeOlD/sseYEm72tetwRYS7lVuGDBPsD7qL5bcjjtlQmLa99ILjOgvxoTfzH7D13SkZQlJfwsyogRwlSHU172Mbf0YUINLTeMktyy4AaZt2I2ESHZEJmzi+Q6iwq/K/ejYMHkV4HAiUGKCY/j2L6CzNWnUOytP36YRMx83kTfW20W9YTa4LfKzOePkySy6w==;Q127OlUu3+Dfd4BnzahpLg=="
 ---
 

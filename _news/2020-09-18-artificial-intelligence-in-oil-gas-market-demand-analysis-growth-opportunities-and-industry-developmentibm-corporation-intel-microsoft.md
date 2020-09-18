@@ -61,7 +61,21 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 21
+  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T22:27:00Z
+    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 10
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
+        isCached: true
 
-secured: "4s2TbfxHlGvGiAOGm49XhnbkuZoSoyV1ZI0tkmEJX6uYzAi/W00mtaFbtIs3Rz/nSqkn7pknCOlblOPzmIAUitIX9QaZZcKcYsbIAdXNF+jqaNpDRXqN5AbaH7QS2KdeKREI04jsAJSkFx9GEokLkno0lVb9qCpAPEU0/bWbdeOvszOr720IHzxg8BkGlBVuyW7Nm6fU6Jxz9vdta9e7Ym2OTnBByqjqyOj5olaS//H5zIbrUwwDcJbpitwCgOfLSc0VJiuFdX515QzblH94MIOlkJ5DBdyO5RapWuywtT+gptuv4fS8wIXBQ+rSASSvtd5KY3NlYaggH/vsvldgxAwhT7OW5zuiIFgXzHaIasU=;CrCahneu6rCrhybwRwUvkg=="
+secured: "cjsikBcaEuUTgkTDNHK+39BQ4DDJHuQ1MjHwgSgrhJOjNmWH7PhRPgQM/2FUTjqvnZofvnHMGVR22XQ/SDUOjy7K7y0HilEruPkogh4RU7x3y1IhTYC/ki3si4ElT0PdLJwX/I07STSlJSnngDqsNteK9Ng/BYoUO08gh2C4pyi/gieTvwj8ULm/Dtkxc6a26eimTPSCN1ShO4IuSgd+DFsKDGtPmFPSCOkPQ9fTSFO3iOMZJX5ccodsEFAGWmPu8/LJPOcJJ9K3GmBR/mXD/GN0VrrwAnom0nxi7/z67UL0BZyGue7lqxW1UmNiro7alWcAEXq0hMLJ1PWv2VLfqlAoR5MKIOR5f1/VJse1sjZeLk4zcDm6Xsb+gkC4rKjpQ1s7YY6X6ZeI/ib96uulJ2IJcHe1YJxkr9S9ZdRn2h3t/wJDgA91Mhi0VX+MNwmSX8iokCWSzB4PIR2WFJxcUVmETibrRkJ6j/Ldkn0v3ulzwTFGN4pYL/kounuxWOpEkA+VGzsaTq8OB2Pu3+o7JQ==;hg/KQ2mE8LKWBZar328OhQ=="
 ---
 
