@@ -2,6 +2,48 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
+      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
+      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "publishedDateTime": "2020-08-09T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
       "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
       "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
@@ -1054,56 +1096,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-nypd-besieges-a-protest-leader-as-he-broadcasts-live.md",
-      "title": "N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live",
-      "excerpt": "A helicopter and dozens of officers, some in tactical gear, were deployed for an arrest at a Manhattan apartment but withdrew after protesters arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
-      "publishedDateTime": "2020-08-07T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

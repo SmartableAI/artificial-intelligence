@@ -2,6 +2,56 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-08-07-nypd-besieges-a-protest-leader-as-he-broadcasts-live.md",
+      "title": "N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live",
+      "excerpt": "A helicopter and dozens of officers, some in tactical gear, were deployed for an arrest at a Manhattan apartment but withdrew after protesters arrived.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/07/nyregion/nypd-derrick-ingram-protester.amp.html",
+      "publishedDateTime": "2020-08-07T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye-on-the-driverless-road.md",
       "title": "These Chinese autonomous vehicle start-ups are keeping their eye on the driverless road",
       "excerpt": "Auto X, Baidu Apollo, Didi Chuxing, Pony.ai and WeRide – are focused on bringing autonomous vehicle technology to the consumer passenger market",
@@ -1138,57 +1188,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-why-human-like-is-a-low-bar-for-most-ai-projects.md",
-      "title": "Why ‘human-like’ is a low bar for most AI projects",
-      "excerpt": "Show me a human-like machine and I’ll show you a faulty piece of tech. The AI market is expected to eclipse $300 billion by 2025. And the vast majority of the companies trying to cash in on that bonanza are marketing some form of “human-like” AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/robot_teddybear-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
-      "publishedDateTime": "2020-08-06T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

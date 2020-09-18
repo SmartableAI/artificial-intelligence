@@ -2,9 +2,9 @@
 category: news
 title: "IBM can't shake facial recognition suit but dodges some claims"
 excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
-publishedDateTime: 2020-09-16T22:18:00Z
-originalUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
-webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
+publishedDateTime: 2020-09-17T02:09:00Z
+originalUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
+webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
 type: article
@@ -113,6 +113,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "jTCrsJo9bpKxRv+mpgrUAVTWyknXpByrptI2Kje25x8AUfhMqkFuW61dy+HoVcH4nVKOv0Bki3wv6mAgS2BodawH7rWJqLLiuMnidZSMQdkMUQYfu/cdBEisiMYGfroNQVv64caeIjkjJYVWVUsy6bCGlW+SmwWb+YZ+X+Pk2LMK4QGZGJ7Mlr1RiLPY0iNIKNG43AppUUnGXnYGoUTaHicYSK7kMAfMG0ZuVFx8AIbRkfCIFKfYEfQLlSJebUWzRnAWvmrwrEct3vo2tqViXjfppPB78kfArzpOrOwAxEzlWA2snJDgDsr9ILERDb4vJ+G8q41E/EFsUPOKSV4FchTdHOo5wpm2TEcMzzxOnrg=;Yr2GbdgkNSzdXDWMbo66nw=="
+secured: "lUGVZq1yFjZhwV9IoUurqUdk1iKrgX3GbK/CdZSouc5bEWm1jRNs0J9M8/81uer9agrcktXRYZjN4eOVUbynDlozry7FR5RgCAuGSsjkfct8ckkAqL05vo6iqIWgrgLtp0YlnpwhZDk+n3e5FY9NMkO4ySCSeMtGVdc7b6dIkJUcb0cvINEt7+QWwClibEx+AuL8HGfic3MtOvTbDEMbTmppXlpapLMISkTvvfETcZHu99aegUcrIEzapMqsJS3Vf4we+91t5nlexgyW5XaXzDbLyhZjd6D5/IT2q1L5SluZsY8ISMjgddLkAgpf4BmR7ySCa+x8AEx2p7Kp8Gi9ldsyysycqGnK1gXpJA4ueMU=;QcBHZYAhJOLVyelU2FwEIg=="
 ---
 

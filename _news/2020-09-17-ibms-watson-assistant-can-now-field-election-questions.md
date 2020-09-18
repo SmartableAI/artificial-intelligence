@@ -33,19 +33,14 @@ images:
 
 related:
   - title: "IBM Watson Assistant Can Help States Deliver Critical Voting Information to Citizens"
-    excerpt: "PRNewswire/ -- With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM (NYSE: IBM) has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters."
-    publishedDateTime: 2020-09-17T12:00:00Z
-    webUrl: "https://apnews.com/pr-newswire/35b0f948bf3089c72e59602a36aa9f90"
+    excerpt: "With COVID-19 causing uncertainty about voting logistics and procedures across the country, IBM has technology to help states use the AI capabilities of Watson to put this critical data and information directly into the hands of voters."
+    publishedDateTime: 2020-09-17T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-watson-assistant-can-help-states-deliver-critical-voting-information-to-citizens"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
 
 secured: "u03TmCdw7xccT14TaSqHXd7b4r8UoxvojrqLWrCrn5OcNbSV5Bzh26u4tmCZoqWI/tjoR5J5JppgUEdPJt3nD2NNhZ/RcbzEqPsssGYpYkIlyPz3ffObP6wDtukfQKh1OHLub8nV3cBOwb+Vpy/xzn16KiTizzvcSJ63DTE8C2SFAzOp4ATCkhGQfb/V0p8i/t+29z6p3BUvPcRbGVpodTTzE0CxGtuXAyt+aFwxhDmwSh5oSAcaMaNk7vOPMuME23kVikpeCeX4MErbpR5PdU68NYpk50fM3v4os+JyVKY9A36QmZf38nvGMQvipkzaxnzszC/Mt46iZ2hqag1A0NEJWRrhh1QklLkDXW0x0MX0ozCwlndtzaVbrdMZ8zcvZaNYq2QeTi4Wik0XGUc9bz/oIpxZpuNfXmb/dYwVH6whGZ1tYsrrMZoEgO0AU30UnU8e+7EQU4A85yXwcG4aBRwXrqQySo+h8JoG1Y7i020IwD3n9Ajq+oJo8q0qI7MtLdl7cZD51EcUCW8+7iPvnQ==;+NVgnXLwZwLxisdFk3iSaw=="
 ---

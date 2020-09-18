@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-de
 ampWebUrl: "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg"

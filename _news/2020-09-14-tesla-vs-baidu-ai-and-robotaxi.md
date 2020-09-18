@@ -35,6 +35,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Why AI And Robotic Process Automation Are The Perfect Match"
+    excerpt: "But what about robotic process automation (RPA), which is conventionally thought of as a \"human replacement\"? I'm here to tell you that RPA is a burgeoning application that's leveraging AI, especially AI-driven analytics,"
+    publishedDateTime: 2020-09-18T11:13:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/why-ai-and-robotic-process-automation-are-the-perfect-match/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/why-ai-and-robotic-process-automation-are-the-perfect-match/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/why-ai-and-robotic-process-automation-are-the-perfect-match/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63642f1d09c31654e76aaf%2F0x0.jpg"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "GMIS, the international summit on robotics, AI and advanced manufacturing is coming to Pittsburgh"
     excerpt: "A first for Pittsburgh, the Global Manufacturing and Industrialization Summit will highlight robotics, AI and advanced manufacturing."
     publishedDateTime: 2020-09-17T13:13:00Z

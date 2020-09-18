@@ -529,6 +529,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
+    <lastmod>2020-09-14T08:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/</loc>
     <lastmod>2020-09-14T07:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1045,8 +1051,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
-    <lastmod>2020-09-10T09:02:00-07:00</lastmod>
+    <loc>https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
+    <lastmod>2020-09-10T08:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

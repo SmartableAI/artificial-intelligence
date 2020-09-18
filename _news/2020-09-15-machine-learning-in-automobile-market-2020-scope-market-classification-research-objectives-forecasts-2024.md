@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2023"
-    excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
-    publishedDateTime: 2020-09-13T17:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
     excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
     publishedDateTime: 2020-09-18T08:55:00Z
@@ -198,6 +184,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "mpNyncXsClK74sieFz7SPhlD4psx7Gi2kR4/JHEwgFjzSJww82eh7b5w5tgcXPyKjVfWdoqQeYP7nJLDdh6GxH06GCM2iNGzsRPkEYt41hRlJYg+4uWUoZt4ZRoyxE+g75seBjjxzh8YaI6u/U0mqTXoseu6y+XFeTCpG9Xl8L+kFMSpeK4ATJ/erEmK7tx+TToD+N/HnLD0/o8uhsylvxd5NmhK+QC7HUK847LsRvkUd2gfCYbJiFx1CC+tosn2U45glhzogLq49z4DahTCHdzT/8hs0VP4nsyfeYuzvRdlABpLoqi6dHZcPzAR9h4dxfdJjrZztnv6+RrchzVmJ66Jjlntih5BhyKcKD9Xgx0=;qJa/T07b1q06wO6GhMPwHA=="

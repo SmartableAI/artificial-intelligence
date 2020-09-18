@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T03:04:00Z
 originalUrl: "https://www.linkedin.com/pulse/your-ai-platform-fire-ian-lilleby/"
 webUrl: "https://www.linkedin.com/pulse/your-ai-platform-fire-ian-lilleby/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHC8a1Nkawrmw/article-cover_image-shrink_600_2000/0?e=1605744000&v=beta&t=JH5UqqBw6W3HQQVbPyxmnN32kQDrZcwFNu4hoRksL0Y"

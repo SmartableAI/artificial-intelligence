@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-08-10-researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19.md",
+      "title": "Researchers use AI to determine which face masks work best for COVID-19",
+      "excerpt": "A technique developed at Duke University measures which face masks best protect against COVID-19 by counting the droplets they emit during speech.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-10T180435.460-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "publishedDateTime": "2020-08-10T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater.md",
       "title": "Solving common challenges in sentiment analysis with help from Project Debater",
       "excerpt": "\nToday, we are going to talk about a feature that isn’t always talked a lot in the AI space: sentiment analysis. What is sentiment analysis? Sentiment analysis is a subset of natural language processing (NLP) capabilities that provides high level filters for users when exploring and evaluating data.",
@@ -1123,48 +1174,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
-      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
-      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
-      "publishedDateTime": "2020-08-09T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

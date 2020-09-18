@@ -143,20 +143,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2023"
-    excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
-    publishedDateTime: 2020-09-13T17:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice And Speech Recognition Software Market 2020 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Voice And Speech Recognition Software Market” report provides in-depth information about top manufacturers, market challenges,"
     publishedDateTime: 2020-09-15T13:36:00Z
@@ -198,6 +184,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "CMEV1PK+zRWzfSSPEMudu0TrDxCxQ5LL3YSqqzBvUY9Q8OfRyJ1RT1LHOn3XXqzOJqL/vHwWqjVarvEN2qQf2z6Ctv9YgR9vKF1J19lwkrxWZ8SafaCQI6xSVOOmGhSBojaVSq46J7SRwaXkBrL2CdKFMjf+UW5HAKkfSlQa3sz7BCLMkmbBKCpOpCj4AkVm0eTL2GpZFLbcCtnjPvxRR1yF42YEAKFRbfoUrgdGwJ/gXmdCXyIemR39TOUb0nyLbHLqN4W+7WzAp1R5/zp3/vPxYRa0DFbK82Wfybfpz5x3ymM42Qs1kIepy3uYIAeker8+Uk0NpCl+Rh61Kk2goEH3IcU+Baa8jyzI2F9tsWU=;imyCqq6xNcFOXK0pCRJNdg=="

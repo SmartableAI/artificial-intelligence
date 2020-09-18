@@ -2,6 +2,48 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-08-27-uc-davis-to-lead-new-artificial-intelligence-institute-for-next-generation-food-systems.md",
+      "title": "UC Davis to Lead New Artificial Intelligence Institute for Next-Generation Food Systems",
+      "excerpt": "The University of California, Davis, has been awarded $20 million as part of a multi-institutional collaboration to establish an institute focused on enabling the next-generation food system through the integration of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems",
+      "originalUrl": "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucdavis.edu/sites/default/files/images/article/30779898645_4fbbf266a5_k.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of California, Davis",
+        "domain": "ucdavis.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first.md",
       "title": "Machine learning algorithm confirms 50 new exoplanets in historic first",
       "excerpt": "A new machine learning technique can be used to sift through massive datasets to discern exoplanets from false positives.",
@@ -1095,56 +1137,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
-      "title": "3 strategies for enterprise AI success",
-      "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-912547822.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
-      "publishedDateTime": "2020-08-26T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

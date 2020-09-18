@@ -2,6 +2,56 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-08-26-3-strategies-for-enterprise-ai-success.md",
+      "title": "3 strategies for enterprise AI success",
+      "excerpt": "Especially during turbulent times, AI enables companies to draw customers closer, streamline to reduce costs, and become more agile than competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
+      "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-912547822.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/amp/",
+      "publishedDateTime": "2020-08-26T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-six-things-business-owners-should-know-about-ai.md",
       "title": "Six Things Business Owners Should Know About AI",
       "excerpt": "AI was first developed in the 1950s. Nowadays, 37% of the organizations surveyed by Gartner are using some form of AI. They're using it to automate processes, find lucrative opportunities and detect threats before humans can.",
@@ -1129,57 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-more-facial-recognition-and-drones-wanted-for-the-us-canada-border.md",
-      "title": "More Facial Recognition and Drones Wanted for the US-Canada Border",
-      "excerpt": "Industry groups want advanced biometrics to secure the border between the two countries once it reopens after COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "originalUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f453b379992790096b50300/lede/1598373223867-cp18642415.jpeg?crop=1xw:0.8436654135338346xh;center,center",
-          "width": 4987,
-          "height": 2805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
-      "publishedDateTime": "2020-08-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
