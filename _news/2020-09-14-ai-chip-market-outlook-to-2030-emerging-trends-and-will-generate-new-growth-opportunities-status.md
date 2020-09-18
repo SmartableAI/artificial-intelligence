@@ -19,10 +19,10 @@ topics:
   - AI
 
 related:
-  - title: "Europe Machine Learning market Analysis Covering Size, Share, Growth, Trends and Upcoming Opportunities"
-    excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound"
-    publishedDateTime: 2020-09-13T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-analysis-covering-size-share-growth-trends-and-upcoming-opportunities-2020-09-13"
+  - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
+    excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
+    publishedDateTime: 2020-09-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -33,21 +33,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
-    excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
-    publishedDateTime: 2020-09-13T19:20:00Z
-    webUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/"
-    ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+  - title: "Self-driving Vehicles Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-09-16T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16?mod=mw_quote_news"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 48
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
-      - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T20:32:00Z
+    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 2
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
         isCached: true
 
 secured: "0sgTA3CWMYoksDlYo82/2LIjWk1n/Bplh1XvtEtngGbEm19Wr2zdt8sfov1BlBlWpYM1CUzb/y+bw8sufo5pH+X3J8kftQ/KtfTjDUal3k358xm5kqDIGtbW639A6y08YywUIMH0OxpAry/Gdmqyomb5vMgZA1/t4Is00bfUZhz/SgvGiWx7Ai5hVuynJQ0zusSYnSuPt7TikyGAm6uQYBwoyx/dgzYwjRxaUCURJw1K65+43DSp1ECoopmqcnuJ4ltzzULtYQrjK0oA9gxe8UfmILV/Flq4KVSucp/HeRwMhDUuKgxgPNhKRbIAWjAbWpSSfOf8hhyLM6pOL5/gNKgY5GeVnXaR3jUpkzQbzrI=;F1HbMYNBpwGwiCV811cE2w=="

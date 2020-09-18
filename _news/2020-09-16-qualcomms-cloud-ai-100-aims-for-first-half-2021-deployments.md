@@ -3,10 +3,10 @@ category: news
 title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
 excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
 publishedDateTime: 2020-09-16T10:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+originalUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
 type: article
 quality: 87
 heat: -1
@@ -83,6 +83,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "kEgnO77Cy7NEHYd0RFeEG+y+p2p4AWTCUE91GjCWSd/GyXH0wyNnwNmi3gSxaG71cXvIqkW01xzFRXH3ASt/lD1efk54aeW38TQrZyt1zg3y9Osu9RwUE2+kgZaRmeVWbCaqNt2UBr8Ca5+8CDT2nlXIlzE+cx9YhcVTkCJRz7Lc2pQLQHDOXnfLzKYom0YsjD6q4/yEyma/BBOMkUsHVnbsAubBNbsj/mHgYxEVdQF0ae/9JrKYGQOMMvS81ySvI1iM13ICwldDmUZbE49VK01na5gm7f/FIkqH5GsO3zytzpxdOYE8mIEjlswcdKendCUnfuKLxsaU2NtkcdjMh7l85vKlJaGpxd8ZReG9CGVd0XvHemsKRxLL+s7pvBO5u7uUYP7K0+8vpCU6aRlsb4zL63q5cFpEWdzCL+AzqLyUT6vQahBvnR/sYEcqk7S5nwZyKpmJNsmyIPIpqvnJnkiL5DSkDRYUrCT5Mt33z0DgndZy68Zdmcg33x+yoBguYUVdxXycjt5kR05/LFQ2ig==;YOWXqU7eXfd70GQYLVRhxA=="
+secured: "50LM5uBYZUBG9Ibi/BqKjh5hpZOi47kxeQsm8OgdZkehcNmkr8+hqoKyvAepl+iPd9K0Jp9+21pGRt3we0hT2vWY+gD24uyggyI5e2BbyzY6YwH25xsWjmJjsXVeabrelMc/H9pdiplBZETdVcW+Gd7LRzMsn6q/byxh0dtCgfmRniBH9RAy9JQyBI4AORxBu0mWaGHoMDC40oQX6W7EuSsKGXS3Gv5aX6i20ROcjB636NoZk7CBH5RM+Eo++AukdS3FzAc5NuaF3kdjBUzQhHfxjFMic/1shWxNfBQIH4MN42+1PmgpbbswyACSvsycnwI60bTirHUbiZeJejarMtEUrt4XZ0ErcH+17Bi3ivM=;NjVemZAq7gteeR0SJR3f3w=="
 ---
 

@@ -57,15 +57,6 @@ related:
         width: 251
         height: 300
         isCached: true
-  - title: "MEDITECH Launches Expanse Virtual Assistant through Strategic Conversational AI Collaboration with Nuance"
-    excerpt: "MEDITECH and Nuance Communications Inc. (Nuance®) are re-imagining the way physicians interact with their Expanse EHR by introducing intuitive voice-d"
-    publishedDateTime: 2020-09-13T14:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200909005192/en/MEDITECH-Launches-Expanse-Virtual-Assistant-through-Strategic-Conversational-AI-Collaboration-with-Nuance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "JluJdIq6jFE+OLgcPSCSUlkrb4N6wKkTBfq/tiCPENfkGWyudZPTQR8BIKQiP7z8ykVRGg4BH29TbifjaXNLlbsbP75+TVnpNPV1N45LmwVAU+vSlKFN97ls1Tzf1HQeuv3aIARvC0dC8Jxg1vJIUaHhZDFNg3vG5i9zcUDat42ULkOV1CzTyeFqHGjKx0g4q3f9x/TPXKI0oa7MKP0Y5WV5K81VMrb2gy5OkXmaABQRRETr22oEHKR21U3ABf7PeOBizH9mNS7Q72i6acSvPwhu8Nec2Qwc5OCrSr8ippSXrGcrM02MNm0tpr20qYX4iwnftTPfowaFkBrJujS65JNuNcWmwFQBo8Hno3heYyw=;ncWB0zPWt6TO9gw8ePk7tQ=="
 ---

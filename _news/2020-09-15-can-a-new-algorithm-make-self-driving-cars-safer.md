@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
+    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
+    publishedDateTime: 2020-09-17T18:56:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 39
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
+        width: 600
+        height: 331
+        isCached: true
 
 secured: "AmGeNqZA8BtSEbTM6F6J3pfD7eABhsygkhmFAO91IAHK5W4oJlPh71tbSHoB6+nUwKwlMOS9z02TJJ7gFNZ4DTfGgfGv07QN93iFUnIKgZA9RSCNfPWfVu2VgOEwZ+sLDPqNF78TYJAdCfqngruWXMYjNQj/FxcAbEQQJd21mq9VgGb54CkMsymeNL3OPl0CGVmw4d4rMZeleYzWwMoZ1s0DsnhPWMOBT355Bjh2aThR32ea+AjG0yI2Z0Fhli88jMMYw64JmBYojrbc6f4MgajmLiIBPpz5SK4R1mr/vbP78CdkKWkDr6Vne80NGHzX3aI/oX49wSyyeo87ouCKXQDQGpGFz6Pebx9S3/psof+J29d0ahaNoRb+MRnidy49Vw+Uen4DnufsUSTl7Q435EiejOcwFfV144Cfr9mhCuD0iLnoAkJjrIXqD04Lz+RKsaTkIvEURmP4cQieVSVV7I904wXSin0Z8evRQy158lnfdGZ3yXGbPZZv8b/ID48CE4i7bdD8xxenmldMKQfU2A==;3EivGbdgbpSjl6N9+eSJcg=="
 ---

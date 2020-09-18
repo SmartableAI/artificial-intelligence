@@ -47,6 +47,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 39
+  - title: "China’s Baidu Demonstrates its Apollo Robotaxi Using its 5G-Powered ‘Remote Driving Service’"
+    excerpt: "Baidu displayed Fully Automated Driving using Apollo’ AI platform. This marks a new promise for autonomous vehicles equipped with 5G and AI. Baidu also announced AI platforms: DuerOS, Xiaodu."
+    publishedDateTime: 2020-09-18T06:41:00Z
+    webUrl: "https://www.analyticsinsight.net/baidu-apollo-demonstrate-fully-automated-capability-at-baidu-world-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 28
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Self-Driving-Cars.jpg"
+        width: 2048
+        height: 1301
+        isCached: true
 
 secured: "6qF0K2850lYe51zfpzk0noICaLR5V3dsYy0VtM1CUp+XTCUTYsmMGOcrzb8E+wik5U7XLaLBMSX2Z+Yp7MUkNWLg0wMLGIrwAkN9L2ztOc3gv6SEHOtB2RpOVvHLRQC5icv+nloECU+Npb4Jkzpx5EF3gHXKLtZV5KBTPQ/Lsq2ixQowF/i0GGa6reOC4N/egCF83ZA7K9ky59f6C1oAo743Xfpm5PycILfAPD51OKVUN6HMoCPt98R9p3MoGUr+GzwKbnD38DQZZnDsWv0TDNilngt459zvdCIgSTvEdcMb2RBw7kLcdCODMNOmi6JBAuzeOcOv/hqjDBxGZMfduaRTZFd7c13pFr3VTvIT9ho=;47346BX9gXQ1fIe+mKs/UQ=="
 ---

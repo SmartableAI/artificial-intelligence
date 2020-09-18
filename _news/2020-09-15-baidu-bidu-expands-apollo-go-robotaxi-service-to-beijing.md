@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotax
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 39
+  - title: "China’s Baidu Demonstrates its Apollo Robotaxi Using its 5G-Powered ‘Remote Driving Service’"
+    excerpt: "Baidu displayed Fully Automated Driving using Apollo’ AI platform. This marks a new promise for autonomous vehicles equipped with 5G and AI. Baidu also announced AI platforms: DuerOS, Xiaodu."
+    publishedDateTime: 2020-09-18T06:41:00Z
+    webUrl: "https://www.analyticsinsight.net/baidu-apollo-demonstrate-fully-automated-capability-at-baidu-world-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 28
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Self-Driving-Cars.jpg"
+        width: 2048
+        height: 1301
+        isCached: true
 
 secured: "MUmavy8il3QzGiKSV22Q0wkgqNu6aad1/Ep7Onq40fxdaL7BTJZ/9dANReAejcgfWKnAsMtwkYSdYjatbv9Xs/5Co7j6bx+6Y3xPgKQQiCllO905Lr3W8mE6A/2e4JJyjQ8+cVp8D990FEJU70DuNPmMEQmv/6e9yOFptf6G2yigxSZG0vtog5r3wM9ppOFppnoJ1u892SB+RASrAdB/Uptd2ZLZtCXlwDALGc1xBsCl6GkPo8oYBfbKY9Nlbzo/bJnmj8xERgxg/DHqINPcnJe9PrR95mkSoecSOpXnBglGVOMOe86Y2DeCrck2LhKmCQMb3vvbvqWE8Db0mIxYB1+Y65qpU2pdvVnmKXCZwIo=;/UpiclZ6U15c8p6TOoK8TA=="
 ---

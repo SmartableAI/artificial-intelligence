@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
+    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
+    publishedDateTime: 2020-09-17T18:56:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 39
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
+        width: 600
+        height: 331
+        isCached: true
   - title: "Can a New Algorithm Make Self-Driving Cars Safer?"
     excerpt: "A driverless car isn't driven by a person but is controlled by a system of sensors and processors. In many countries, tests of autonomous driving have been happening for years. Germany wants to permit driverless cars across the country by 2022."
     publishedDateTime: 2020-09-14T17:11:00Z

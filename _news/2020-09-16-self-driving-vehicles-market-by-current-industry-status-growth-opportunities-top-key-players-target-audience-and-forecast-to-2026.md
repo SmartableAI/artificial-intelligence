@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets."
+    publishedDateTime: 2020-09-14T14:16:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 21
+  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T20:32:00Z
+    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 2
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
+        isCached: true
 
 secured: "3z0Uptw74HbUweYEHV4psVHjY7obZJNYoYK4ffKNccV32/c4Zn2S33rg7dombXvC2GXjAE4OkWvLZuYYAueFHyFnHyi6Fn0SLm06Gd+aHZsr+OcdI6krNGpmelgdHVlpWkTpDT6zwY+IDkTmGyEIdhy4gMTopVPKNaz1zhfiA/S1BaTH3wci/uMn6NNYURPFUpZ9cfbqaXZpQAfPtaFqZKj4ZkGEjkw+wnifoReMP75uiv4OXCB4t3ghbFTjuoaG7zLxsfre2esGd55DIW7qa2m4COpBgQPO3mcTnDi1MIl9IYjpIpE8ZXn60wxtECwi3bDP17PDVjEYNjwuQm0ZU653+tIsznoo/jQljpp8icY=;JCW4Hdz25+TGV6Z/F/f1+Q=="
 ---

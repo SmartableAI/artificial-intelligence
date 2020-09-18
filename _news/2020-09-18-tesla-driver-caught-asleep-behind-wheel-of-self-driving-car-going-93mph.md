@@ -246,6 +246,22 @@ related:
         width: 3290
         height: 2320
         isCached: true
+  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
+    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in Alberta, Canada."
+    publishedDateTime: 2020-09-18T07:25:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8746695/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8746695/amp/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8746695/amp/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-a-11_1600411151492.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
     publishedDateTime: 2020-09-15T22:00:00Z
@@ -415,6 +431,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/Uber_iStock_621146940.5f6225cf65619.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving cars closer to becoming reality"
+    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
+    publishedDateTime: 2020-09-17T18:01:00Z
+    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
+    type: article
+    provider:
+      name: WSMV
+      domain: wsmv.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
