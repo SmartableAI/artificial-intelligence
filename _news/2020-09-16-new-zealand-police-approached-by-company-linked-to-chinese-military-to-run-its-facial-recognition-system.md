@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM pushes for US to limit facial recognition system exports"
-    excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
-    publishedDateTime: 2020-09-14T01:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
     excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
     publishedDateTime: 2020-09-16T16:55:00Z

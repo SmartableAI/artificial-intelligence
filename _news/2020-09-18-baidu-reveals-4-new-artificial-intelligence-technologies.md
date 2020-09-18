@@ -1,24 +1,33 @@
 ---
 category: news
 title: "Baidu Reveals 4 New Artificial Intelligence Technologies"
-excerpt: "Baidu (NASDAQ: BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,"
-publishedDateTime: 2020-09-18T14:29:00Z
-originalUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18"
-webUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18"
-ampWebUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
+excerpt: "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,"
+publishedDateTime: 2020-09-18T14:19:00Z
+originalUrl: "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
+webUrl: "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 102
+heat: 112
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize"
+    width: 1200
+    height: 799
+    isCached: true
 
 related:
   - title: "Can AI And Other New Technologies Really Help America Reopen Safely?"
@@ -38,6 +47,6 @@ related:
         height: 801
         isCached: true
 
-secured: "DXzhPZtnK4C7jc4V6rdAv6km1Kev3ijOFdBCB9OEGoH9VpBkyKQlVvvZVn5P7O3+DGX+XOhsj8MLEvQcJDzkbbz/gz0f12Vupt3IsVKq6fS0hXJGFU9f9wEp82owE3p0h0XtQ9hqO7wVGK600RzskwEg2pabCB1QWPrcSB7UWXZUSu3eniVmJla/6hOjS8hmzMT9wTjVw11UyxDOs1WVPxqEgf8apIX3Cc8k7GQbrPl3x2NZAHzHxUukAnKU7xzApFaHZqgFqqHcmG4N7HfL26AjQ3o9TwnvN7U4vaXNS5mYCyfHQXM45fHpC1/mKsEmSScFJ6Rw7yzJOgMlIwVictj6G36d0GggavvsZgJrhhs=;j7DLLX2zyn1dg7+5JGjwtw=="
+secured: "vddxyGu8SMREDri4dEyEOBl1unmsoo7vIqPE+aPguIAteI/FcJdJQi554KJfLkDdWSKkUgDaOsK4rRa8hARb6yLYaEkqD4VpGyl1c5fUVgXm215M9r3tc4pwIHYlrVVqP3z49Zvs2SmaPNL/sBekPtZtE8jKBZfqd44ZWnTGfFzmEl5VGYjIZPraKMikGmh1vDp1Z+2mOSIbToNTHkS32vHAtUyKjOjASM/+pWNXZ2Xsem+ZsfX2rEcDJC7Kplr8/k8brYePSLx/dCqCs1Y0jEQAqnWVAsC3HDB7+yGptmyif/nMOGyqgNtU0BDaDqDEZL7DAH5QK1lQeMrB/w7rlwTaykDl+1bnRPEpMgUwD8E=;V6vqTbQkoN2LL6O9Bvuo+g=="
 ---
 

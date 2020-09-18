@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 707
         isCached: true
-  - title: "Nvidia Is Buying Arm Holdings From SoftBank in the Largest Ever Chip Deal"
-    excerpt: "Under the terms of the deal, Nvidia (ticker: NVDA) will pay SoftBank (9984.Japan) $12 billion in cash, including $2 billion payable at signing, and 44.3 million Nvidia shares wort"
-    publishedDateTime: 2020-09-13T23:45:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-buying-arm-holdings-from-softbank-in-largest-ever-chip-deal-51600044336"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-189533/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "y9RvMM7kf7rsQnCefQbZjNAbedT40dISOWIu3glbJ3+ElZNo19sHswMvlAWq+O763dALa3pG+EU6qPeyEDLMyMOP7cIfgRfsZSVtgyqnMJmyhMZPxP1P4BP33moiZoo3wBuJJLjB735bNAOD+N3oD84YX5RvVYZHgG0jCkNuXjSu4T0ZMBgSKYsBERxr2VbesLhWQ8rfN3XhelFCCLe32Sin+xhMavCqEbm7T5i2FYovgy1fP4OGJ5plBAxyqwyCYk8AnC8YDjffGoJGGetAIbCv0BaKSYySFVmN2rNL6aEIdIB7gBe0EaEjBclf9s+liDb+l1yz2ApFKczQzjI0l7tc9ehbXm2m9j6LkJe07KZWmF+se+lh6YfnqQbdQ8akexzhvUPyHHLdh9WebW6zsuRyO0KSK2A31EXALFtT93xgALFSfHkRSoQXZy4I5ECV4oghooIRg2zJcgXRf7amTcW68FRnowVRN3+cYfXH4R7i734bAmacLsXqRCTn9q2hLk5RLy0uc3D7DPwlEqphNw==;vGcMpuRVdQMoIbw6is8wEQ=="
 ---

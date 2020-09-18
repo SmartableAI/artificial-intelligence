@@ -521,16 +521,19 @@ related:
         height: 630
         isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
-    excerpt: "The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide"
-    publishedDateTime: 2020-09-18T15:29:00Z
-    webUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-    ampWebUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+    excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
+    publishedDateTime: 2020-09-18T15:25:00Z
+    webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
     type: article
     provider:
-      name: WHDH
-      domain: whdh.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
+        width: 1497
+        height: 843
+        isCached: true
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
     publishedDateTime: 2020-09-15T09:50:00Z

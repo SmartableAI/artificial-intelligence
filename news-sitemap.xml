@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139</loc>
+    <lastmod>2020-09-18T10:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
+    <lastmod>2020-09-18T10:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep</loc>
     <lastmod>2020-09-18T08:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/</loc>
+    <lastmod>2020-09-18T07:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -505,12 +523,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thestreet.com/tech/news/nvidia091420</loc>
-    <lastmod>2020-09-14T10:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html</loc>
     <lastmod>2020-09-14T10:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -561,12 +573,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
-    <lastmod>2020-09-14T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -627,12 +633,6 @@
   <url>
     <loc>https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/</loc>
     <lastmod>2020-09-14T05:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/</loc>
-    <lastmod>2020-09-14T05:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -991,12 +991,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
-    <lastmod>2020-09-10T16:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1011,6 +1005,12 @@
   <url>
     <loc>https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/</loc>
     <lastmod>2020-09-10T14:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html</loc>
+    <lastmod>2020-09-10T14:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

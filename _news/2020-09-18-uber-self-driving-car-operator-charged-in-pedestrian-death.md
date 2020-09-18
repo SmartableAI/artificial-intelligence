@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Uber self-driving car operator charged in pedestrian death"
-excerpt: "The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide"
-publishedDateTime: 2020-09-18T15:29:00Z
-originalUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-webUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-ampWebUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
+publishedDateTime: 2020-09-18T15:25:00Z
+originalUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
+webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: Channel 3000
+  domain: channel3000.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
+    width: 1497
+    height: 843
+    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -623,6 +627,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "+pzs7Ai5kvgXy9wYmClx8WcSWcOaUAo4bd9GjqQuQCDa+J7bf5mVUzkJC39vokXQl0UkFWKtSL1IUV4xfDgk9CTpxdzJbxJhBkTEE9we3H6tsNTgVBz3mFa6CWwrUyfPgc97/II/TfurhxGRwFadQp8OxdhF4xgVdmoNTTQKtzhv/9Sqvz039dXmcASVAH4haXJYdSPrlZ3O72W302mLHK3a1n0Vi8wp9d7EajgCThd358pX7LajftEEAeDpVJA/ayAUhmZNIP75OfpdaNPV3eZwl6ZGoKeuPQ46GrL4PMvaSIn2uMjKxH1N/3LEt/bjzn+mnYsnkTNkRueFeWtCAiIfrQ5zLwQlXyrGIq1E0dTCsgJEKpjbqbQdbvdnwozwIVRfzxxKJRC8cHOzzE15LY0muBCxvC542rM7LCj2k8JnT/bBHeQrHWMQsJ3IUaCtMzDbF9C4pIAMYLr9it/GGV8IuIxK8h8tReOvzzzgqP6BKtVA+PykIKyMN3UivuAzFdPNW3YAfi9TaoD6Sohgxg==;7st6Mn+RsaHksvZ/Ex+fSg=="
+secured: "cWjq7NlUmRQWuEnMVoK8n8vl646oJ9p/cyDIR482M4mGTDk5PRSSObzThHJRi4N7jkKYngU+TvAXe5U16YdFlQNrsht6wSWUcxR3aLm2mYYV6EMc41ph7Ds5TWWYZfJWOgyWlm/4xcV6aMOdj6mGfibdhBonFSGWICgjkS4x91lj2jRXx8BLCocmQPbwuqGlvwuESxhoGzYguM47Gg8XP3JYTu1MOJQocZACaF6qfDHrQWE60xbfW+bWF4gUvJukXER6bfS1/D1smGVb8EMtURNYlVi12qwe5VEXR0cdm3Ir/04HQ6Ev20enWashy9Dq20L1cNk5BMtUF0R2XV9CbkGKNpTmYLIKo2WJOF7VHEg=;8tOchRH9Tf6IZ+9REt9vig=="
 ---
 

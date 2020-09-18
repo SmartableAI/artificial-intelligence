@@ -535,16 +535,19 @@ related:
         height: 630
         isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
-    excerpt: "The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide"
-    publishedDateTime: 2020-09-18T15:29:00Z
-    webUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-    ampWebUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+    excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
+    publishedDateTime: 2020-09-18T15:25:00Z
+    webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
     type: article
     provider:
-      name: WHDH
-      domain: whdh.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
+        width: 1497
+        height: 843
+        isCached: true
   - title: "Thatcham Research comments on Uber’s self-driving operator charged over fatal crash and considerations for the UK"
     excerpt: "Director of Insureance Research Matthew Avery has shared his thoughts on the Uber case in the US and the potential implications of self-driving vehicles"
     publishedDateTime: 2020-09-16T21:46:00Z

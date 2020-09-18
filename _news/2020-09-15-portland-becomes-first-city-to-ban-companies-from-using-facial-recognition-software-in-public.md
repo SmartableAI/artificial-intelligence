@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/portland-becomes-fir
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM pushes for US to limit facial recognition system exports"
-    excerpt: "IBM has called for the US Department of Commerce to limit the export of facial recognition systems, particularly to countries that could potentially use it for mass surveillance, racial profiling, or other human rights violations."
-    publishedDateTime: 2020-09-14T01:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-pushes-for-us-to-limit-facial-recognition-system-exports/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "New Zealand police approached by company linked to Chinese military to run its facial recognition system"
     excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
     publishedDateTime: 2020-09-15T21:43:00Z

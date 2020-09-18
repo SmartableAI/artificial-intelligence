@@ -465,49 +465,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-nvidia-deal-to-bring-ai-everywhere.md",
-      "title": "Nvidia Deal to Bring AI Everywhere",
-      "excerpt": "Acquisition of chip designer ARM Holdings is a big bet on a world of ubiquitous smart chips and sensors intelligently operating independently with low power demands to create the \"internet of everything\" and dramatically reduce the friction in our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/tech/news/nvidia091420",
-      "originalUrl": "https://www.thestreet.com/tech/news/nvidia091420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc1NDAxMjA0MTA3NDU0MzE0/pexels-pixabay-327345.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-tech/tech/news/nvidia091420",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-tech/tech/news/nvidia091420",
-      "publishedDateTime": "2020-09-14T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-record-chip-deal-lands-nvidia-in-crosshairs-of-us-china-tensions.md",
       "title": "Record chip deal lands Nvidia in crosshairs of US-China tensions",
       "excerpt": "Nvidia's planned purchase of UK-based Arm gives US firm serious sway in an industry crucial to global tech supremacy.",
@@ -711,7 +668,7 @@
       "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -804,7 +761,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -855,7 +812,7 @@
       "originalUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1443,6 +1400,48 @@
       "provider": {
         "name": "GameSpot",
         "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-neousys-technology-launches-nru-120s-nvidia-jetson-agx-xavier-powered-edge-ai-solution.md",
+      "title": "Neousys Technology Launches NRU-120S, NVIDIA Jetson AGX Xavier Powered Edge AI Solution",
+      "excerpt": "NRU-120S series is a new rugged edge AI-based video analytics solution capable of video recording, transcoding, real-time inference, etc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "originalUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://share.opsy.st/5f57f1d18e923-76219803_nru-120s-nvidia-jason-embedded-video-analytics-platform.jpg",
+          "width": 600,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -521,16 +521,19 @@ related:
         height: 630
         isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
-    excerpt: "The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide"
-    publishedDateTime: 2020-09-18T15:29:00Z
-    webUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-    ampWebUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+    excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
+    publishedDateTime: 2020-09-18T15:25:00Z
+    webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
     type: article
     provider:
-      name: WHDH
-      domain: whdh.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
+        width: 1497
+        height: 843
+        isCached: true
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
     publishedDateTime: 2020-09-15T09:50:00Z
@@ -624,6 +627,6 @@ related:
       domain: thedailybeast.com
     quality: 4
 
-secured: "viSye23hG6UR7zqxZ5I1kNTTq2dAvRVy8MpGpg2THIGEsrERaLvAGUAVARwh4EvFPsU/CrutnUqpMTN0xentN/etRyGzoIGFXP/6glXwwhBfYmhfW4yeCIEiF9+rjCJ3Zra6EORYcHdxad2HPy62qSmOKmr9WZzMxvqJKjwh4ZFUzpvv+OIUe25NEJQDnzBdDjmuRNqsBR1f+Omw1uM2TbVCf0u+e3IhRtMafaMJ+KDairEATmk+8+RC8haGF+FJQbV5OLUB9vo/I0W76nM/mlVCh4M0giwldXpbk6hbl/v41bb9hYhwNAXS2pIH7GVD1zXnl+J9KtXR4GEUwihKXPOvprO55L2LGY5aixhSBXM=;2+/uILSkXPZ8RhpjdsyKdA=="
+secured: "UifyViiBCMpc+b0EUwpspMPZX5RoyKeU3wk/hPlO/mKyew5nGtvHbLJABCACiwpPeqCag3cN6va2f3YstJZhTx1roFpfOnpJ3Fe6uMoPlwf36uyxMFubAxnUZcRn/siUfRKh+xnHoRfPuOlL3c1r/kenyvygEyw4O5cV+pHCC29vahIdHdcW2+SciybdV0HSKIrvMe98CzOjIgrPVKR0sRlIHfrzq5TF9aFDyo8VsoHKwQT4LtmGHpG/uwhKiuD7t5cY3x4weGgiTdSz5S4W9BQ4bzsschDaP2UhLDc89VMCRd4YQfMtGfn7T13D20Yd2V/Ll5UlQw4r6pA6t/Bf2GaH5Swi2QyaBMR/oXsUoliGSBVj/eW03vp4hrHMHd0QwsKSzgjCA/+dhuskKtgINSKipvsVHdYK9WC5CksHJP4yCdpk06vDoKrOWak2i4Fpp2IjnEz6BuyOasGGFaN0myiNMZPkdKQc2kUN+Ofeod5J7OXRHodDxvuixMD4dUI6zZK748U9bY5JnJJqsc4MHg==;dlGTuTiJRedvWP3OAICX2g=="
 ---
 

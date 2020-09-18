@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia will keep ARM licensing “neutral,” wants to license GPU tech, too"
+    excerpt: "Nvidia has officially announced that it is buying ARM from SoftBank for $40 billion. The deal is one of the biggest tech acquisitions of all time and will see Nvidia control the world's most popular CPU architecture."
+    publishedDateTime: 2020-09-14T18:38:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
     excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
     publishedDateTime: 2020-09-14T09:49:00Z
@@ -56,38 +70,6 @@ related:
       - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "NVIDIA seals deal to acquire Arm for $40 billion, 'Age of AI' coming"
-    excerpt: "NVIDIA announces a 'definitive agreement' to acquire Arm Limited from SBG and SoftBank Vision Fund in a deal worth $40 billion."
-    publishedDateTime: 2020-09-14T00:23:00Z
-    webUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://www.tweaktown.com/images/news/7/5/75144_01_nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "SoftBank is selling chip designer Arm to Nvidia for $40 billion"
-    excerpt: "SoftBank announced Sunday that it is selling Arm, whose chip designs power most modern phone processors, to Nvidia for $40 billion in cash and stock. Why it matters: The move will give Nvidia control of the company behind the core chip designs used by Apple,"
-    publishedDateTime: 2020-09-13T23:37:00Z
-    webUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    ampWebUrl: "https://www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/softbank-is-selling-chip-designer-arm-to-nvidia-for-40-billion-03ce76b7-cd1c-433e-bad3-0d62e76ee288.html?ref=hvper.com"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/dO6uHpSYGcoBxHhYVakw2L0XlqQ=/fit-in/1366x1366/2020/09/13/1600040285721.png"
-        width: 1366
-        height: 762
         isCached: true
   - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
     excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"

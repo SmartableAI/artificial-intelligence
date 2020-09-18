@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15?mod=mw_quote_news"
 type: article
 quality: 53
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Diagnostics Market Growth, Trends and Year to Year Projections 2020 to 2027"
+    excerpt: "The global Artificial Intelligence In Diagnostics Market was valued at USD 295.3 million in 2019 and predicted"
+    publishedDateTime: 2020-09-18T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-growth-trends-and-year-to-year-projections-2020-to-2027-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chatbot market Statistics | Opportunities, Demands and Growth Revenue by 2025 | Brandessence Market Research Report"
     excerpt: "The 'Chatbot Market' research report delivers a comprehensive analysis on the newest market drivers. The report also"
     publishedDateTime: 2020-09-18T14:39:00Z

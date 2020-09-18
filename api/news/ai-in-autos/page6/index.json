@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-07-20-aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts.md",
-      "title": "Aurora expands to Texas in bid to ramp up self-driving truck efforts",
-      "excerpt": "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "publishedDateTime": "2020-07-20T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-20-former-ford-president-joins-self-driving-radar-startups-board.md",
       "title": "Former Ford President Joins Self-Driving Radar Startup’s Board",
       "excerpt": "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features.",

@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-25-microsoft-gives-devs-an-ai-powered-tool-to-build-reading-accessibility-into-their-apps.md",
-      "title": "Microsoft gives devs an AI-powered tool to build reading accessibility into their apps",
-      "excerpt": "Microsoft today announced the general availability of Immersive Reader, a service that enables apps to present text in more digestible and accessible ways.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2a222d5a-6bf7-477a-9972-41b1cec29ab8-e1598287143214.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/microsoft-makes-azure-service-immersive-reader-generally-available/amp/",
-      "publishedDateTime": "2020-08-25T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-google-anthos-gains-new-features-including-hybrid-ai-capabilities.md",
       "title": "Google Anthos Gains New Features Including Hybrid AI Capabilities",
       "excerpt": "Google is betting big on Anthos. With the latest release, it has upped the ante on the hybrid cloud with an aim to gain a foothold in the enterprise.",
@@ -1356,6 +1304,48 @@
       "provider": {
         "name": "Tata Consultancy Services",
         "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-microsoft-trains-ai-agents-for-more-realistic-gaming.md",
+      "title": "Microsoft trains AI agents for more realistic gaming",
+      "excerpt": "Microsoft's Project Padia is all about teaching AI agents to enhance your gaming experience. This time, they ar teaching NPC to cooperate with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/08/Microsoft-trains-AI-agents-for-more-realistic-gaming.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "publishedDateTime": "2020-08-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
         "images": null,
         "publishers": null,
         "authors": null
