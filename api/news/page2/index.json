@@ -2,6 +2,157 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-17-lutherai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations.md",
+      "title": "Luther.AI is a new AI tool that acts like Google for personal conversations",
+      "excerpt": "When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you came up with at a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "originalUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-09/16/5f62658d2be1612af543ea3d/5f6265e48a54cc704a8a71ba_o_U_v1.jpg?w=550&h=310",
+          "width": 550,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/amp/",
+      "publishedDateTime": "2020-09-16T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai.md",
+      "title": "Do Algorithms Dreams Of Electric Speech? What Virtual Philip K. Dick Can Teach Us About AI",
+      "excerpt": "\"It seems to me that it is really impossible that it could be me.\" What can a conversation between a virtual Philip K Dick and Dr. Ben Goertzel, one of the world's leading AI researchers, teach us about the playful nature of advanced AI development?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62530595ae669ac72329e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/amp/",
+      "publishedDateTime": "2020-09-16T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Spin the Model Challenge",
+      "excerpt": "AWS is excited to announce the winner of the second AWS DeepComposer Chartbusters challenge, Lena Taupier. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched the Chartbusters challenge, a global competition where developers use AWS DeepComposer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/15/1-Lena-880x630.jpg",
+          "width": 880,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T09:13:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions.md",
       "title": "AI-powered ship sets sail for sea trials and environmental research missions",
       "excerpt": "The Mayflower Autonomous Ship today set sail from Plymouth on the southern coast of England, 400 years since its namesake left the same port to take the Pilgrims to Massachusetts,",
@@ -399,7 +550,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -595,7 +746,7 @@
       "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "featuredContent": null,
       "highlight": null,
-      "heat": 434,
+      "heat": 444,
       "tags": null,
       "images": [
         {
@@ -1054,157 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully.md",
-      "title": "In 2020, Warsaw’s startup ecosystem is ‘a place to observe carefully’",
-      "excerpt": "If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1154020009.jpg?w=1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "publishedDateTime": "2020-09-15T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker.md",
-      "title": "Reducing training time with Apache MXNet and Horovod on Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality models.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Ring-allreduce.jpg",
-          "width": 900,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T14:16:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans.md",
-      "title": "Harvard researchers developed an AI to determine how medical treatments affect life spans",
-      "excerpt": "It was created by researchers from Harvard Medical School’s Sinclair Lab, who say it’s the first study to track a mouse’s frailty for the duration of its life. They plan to use the predictions to quickly test interventions intended to extend the mice’s lives and move towards doing the same in humans.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-15T163117.825-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
-      "publishedDateTime": "2020-09-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

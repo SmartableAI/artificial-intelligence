@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
+      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
+      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "publishedDateTime": "2020-09-14T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk.md",
+      "title": "Tesla Self-Driving Software Rewrite Should Be Available By End Of 2020: Musk",
+      "excerpt": "Now CEO Elon Musk said that by the end of the year, a total rewrite of Tesla's Full Self Driving software should be ready for the public by December 2020. The new software will be in private beta within two to weeks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
+      "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/autopilotoriginal__1_5.jpg",
+          "width": 2880,
+          "height": 1820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17492558",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17492558",
+      "publishedDateTime": "2020-09-14T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach.md",
       "title": "Save $125 on Tempo, an AI-powered home fitness weightlifting coach",
       "excerpt": "Home fitness equipment has gone high-tech in a big way. Thanks companies like Peloton, it's no longer unusual to pay a subscription for live online classes, and Mirror has introduced us to enormous LCD screens that let you watch an instructor and keep tabs on your form while you exercise.",
@@ -916,7 +1009,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1098,106 +1191,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-three-reasons-ai-powered-platforms-fail.md",
-      "title": "Three Reasons AI-Powered Platforms Fail",
-      "excerpt": "If you’ve found yourself thinking, \"There's an AI-powered solution for everything these days,\" you’re not far off. Today, more than 37% of organizations have implemented artificial intelligence (AI) in some form,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be269a542d56dbef63e91%2F0x0.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "publishedDateTime": "2020-09-14T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-can-ai-and-other-new-technologies-really-help-america-reopen-safely.md",
-      "title": "Can AI And Other New Technologies Really Help America Reopen Safely?",
-      "excerpt": "As businesses look to identify reliable, scalable new technologies amid the Covid-19 crisis, the top priority must be to keep people safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b873dbe3d60fee69a0c8b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/",
-      "publishedDateTime": "2020-09-14T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

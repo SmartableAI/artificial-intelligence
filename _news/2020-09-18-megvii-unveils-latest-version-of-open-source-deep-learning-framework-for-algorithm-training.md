@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T10:03:00Z
 originalUrl: "https://www.globaltimes.cn/content/1201331.shtml"
 webUrl: "https://www.globaltimes.cn/content/1201331.shtml"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-09-18/3e9671c4-ccd1-41ec-9052-2e0562d0a5bd.jpeg"

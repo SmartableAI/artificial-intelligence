@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bloomberg.com/press-releases/2020-09-15/baidu-world-2020-showcases-ai-advancements-for-empowering-all-facets-of-life</loc>
+    <lastmod>2020-09-18T05:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/</loc>
+    <lastmod>2020-09-18T05:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/</loc>
     <lastmod>2020-09-18T02:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -117,6 +129,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16</loc>
     <lastmod>2020-09-16T17:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4</loc>
+    <lastmod>2020-09-16T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -399,12 +417,6 @@
   <url>
     <loc>https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery</loc>
     <lastmod>2020-09-15T04:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15</loc>
-    <lastmod>2020-09-15T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -913,8 +925,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html</loc>
-    <lastmod>2020-09-10T23:01:00-07:00</lastmod>
+    <loc>https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing</loc>
+    <lastmod>2020-09-10T22:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1579,14 +1591,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
+    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
-    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

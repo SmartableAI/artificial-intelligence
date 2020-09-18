@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
 type: article
 quality: 74
-heat: 434
+heat: 444
 published: true
 
 provider:
@@ -467,6 +467,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/Uber_iStock_621146940.5f6225cf65619.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
+    excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://www.ibtimes.com/man-asleep-speeding-self-driving-car-charged-canada-3047980"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/police-tape-secures-a-crime-scene-outside-a.jpg"
+        width: 1024
+        height: 672
         isCached: true
   - title: "Self-driving cars closer to becoming reality"
     excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"

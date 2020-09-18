@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chip Market 2020: Industry Trends,Growth, Trends, and Forecast 2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-18T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market : Regional Segment Analysis & Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
     publishedDateTime: 2020-09-15T08:03:00Z

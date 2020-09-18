@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Gyrfalcon Showcases New Tech at 2020 Embedded Vision Summit"
+    excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced it is showcasing enhancements to its Lightspeeur® portfolio at 2020 Embedded Vision Summit,"
+    publishedDateTime: 2020-09-15T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-tech-at-2020-embedded-vision-summit-301131227.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1274395/GTI_HIGH_RES_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "VQIk4zfCHv8i6+cRZT4WAsSnyA4LSPlpp8srZdGgdj7p/LU2UcmR8Gm0wM6FioSvh+5mrKTkfc7Ye2HfBJLeyUhvbSQufup5O7/06Fu8bOACV+I48ySpDOF0+x4DdGgcHGAFKjzwy7fOas7rJHdpP+m0EN1gkknNq4+lm/eTn4QFRerRLkd1rfuX9PRfufJwFhinSQWYOSMBMOOONLMM6VO2rusiaHVABX47j4uMZ0mmznmgrQeT/H9TFdYt2h256Cn3no5PQ1SOyvwyZ9MEm5zXyi7CkqW1A5Xg64fNDkQorajzjAbWy8+XgcCWTf5YnWqf2zggMnXBZPhI1DSp79BAGwGgwmgW7/QLW0ZjSxg=;8xPqsqcASoilzfBNNAmegg=="
 ---

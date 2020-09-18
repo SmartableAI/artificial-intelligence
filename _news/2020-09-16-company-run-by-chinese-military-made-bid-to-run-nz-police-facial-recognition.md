@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/national/300108389/company-run-by-chinese-
 webUrl: "https://www.stuff.co.nz/national/300108389/company-run-by-chinese-military-made-bid-to-run-nz-police-facial-recognition"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Justice Wants to Add Facial Recognition to Marshals’ Smartphones"
-    excerpt: "The service is looking for a software development kit to help it integrate biometrics tools with an app used to facilitate prisoner transfers."
-    publishedDateTime: 2020-09-17T17:21:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/09/justice-wants-add-facial-recognition-marshals-smartphones/168565/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/09/17/NGface20200917/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Company run by Chinese military made bid to run NZ Police facial recognition system"
     excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand Police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
     publishedDateTime: 2020-09-15T22:28:00Z

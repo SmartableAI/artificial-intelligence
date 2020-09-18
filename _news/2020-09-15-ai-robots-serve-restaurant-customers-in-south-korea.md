@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AI Robots Serve Restaurant Customers in South Korea"
-excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots."
-publishedDateTime: 2020-09-15T16:18:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
+title: "AI Robots serve restaurant customers in South Korea"
+excerpt: "SEOUL, South Korea (AP) —"
+publishedDateTime: 2020-09-15T16:34:00Z
+originalUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9"
+webUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9"
+ampWebUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -121,6 +121,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xUT2DNvPfecY1jNuBUwUrB2NJnMpH0DYNq1Q94VDh87lfq+il4N8QCiGDL2Roi2FH1fEmMuUHigLMNfy2sNSUJPp8CGHBB2JsOmBdvrmV98R/k6FAJoz/9a+W0WnIsJEI/frDqGkCsxiP1iVzqA+bVu+9WBcgJH/Hs8mgSsIhdNuMMJfKhxIKFZX34huuOPCadON9OO8iD2EDg7f94qKoNndvUXZVOdgLSr0EjQ3EHacGypxM+3uN8dGHxGtm8DHw32qgLg4y66EiINGvvKqKKwba6C8472IgcUYFzWGXKMsAC9C0CedZKa08rpfx0DxV79bwqdqa/qWT8mHbYn+bdEstBt3l3BtqW8dw/W7gvcTjfWR2S3ESY0S/F0rJ4s8+8CidxD9/15ISY/n6A+sIn+/1SH7uyjQUGajQjOoRmqzMFPgXVG+BLyTPmt1Z1F2OzOzD/P02tThg3ufP28QJkSjy5UpsZBTSXUOC8zRABW1KnEwkQ6LLmFFsa31sq1rXHgbkQ2xBFZyY1oul2yeIWLSd+CFATHGgIhqOyGc3pE=;Tcp+DerqnRV8pDz3rDFZgQ=="
+secured: "E4n3DXC5KrEWiZhihQfjXm+28jxataN5/bNk3qLP7WT1Li7iRSwAia7+rjVU1gLXMQa79qZLu1uFIsp9URRgNTMVTBevtxfhs3cMjSUeAatkiWdM8Jv08KfgTj4vS+c7jNyY9ndC81BhNH3x8UI+M2l4L+JM0k3txG6kOTgfs7qcaftza4C9anH9g5BB7/h0oT4fjyBIivn49JYudH2bQBxEVcDErnJEPCmeJsOU1QSm5zTXsCFVVzAcY/h9XBVu1pCOjkU4kFaaj34gE1Ky1LVTQv/loKNJDtPOVK3KFIG2V2drpzul1N1Rz7VkNs0yBVtDUNTiXhQBJ/s86eDQiRTQP3WBa7gkGqK+NCKJE6g=;YebWFV5gn7obiPtNd1XpaQ=="
 ---
 

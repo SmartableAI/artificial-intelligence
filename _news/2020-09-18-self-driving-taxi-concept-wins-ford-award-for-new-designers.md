@@ -1,0 +1,29 @@
+---
+category: news
+title: "Self-driving taxi concept wins Ford award for new designers"
+excerpt: "A Staffordshire University student has won a design award from Ford for their self-driving taxi concept. Marius Lochner won the New Norm Mobility Award, which challenged design gr"
+publishedDateTime: 2020-09-18T12:45:00Z
+originalUrl: "https://www.shropshirestar.com/news/motors/2020/09/18/self-driving-taxi-concept-wins-ford-award-for-new-designers/"
+webUrl: "https://www.shropshirestar.com/news/motors/2020/09/18/self-driving-taxi-concept-wins-ford-award-for-new-designers/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: Shropshire Star
+  domain: shropshirestar.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.shropshirestar.com/resizer/9TLT9ihJlL3K3zGgA3EVSAJJcB4=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/7T7A3YKR7ZDZ7AJNEQOYOSAUEE.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "K5Akv92XIBm5USUr/xMrYyFHDPdj8/pcJVAMKypWQHeOFu6EKDp4so2vxx3k9hRFuAAVSmWUQLNHJBtR4mM7z/ynNIcmv3dkZxPtEDEivlM3SNt9oaIrrlGvLrqPE6Tb3dIPPa/Ihcd1I84MYlsP8BJ8bqpAFCU70ELMcXCpdUdTYWpFSGak1q+cLpV/Pgbfwdw/mwguPTGAmKkxw3qlxeyHFLBVJHRrTDFUhlCdZQmxl/caU6s6f0hxTVDJO82TikgjYZCzx0eX6tztFUejaRpAwoTPNM1lyphB/FTKTanax9WAktYDHAu9Hee/ewUy/lnPBlCK3UcKQTxn8tEtXkD7xmnf1S2Z8j0XiKyLlyg=;fDM7b7StsIrWUmENTxIQcQ=="
+---
+

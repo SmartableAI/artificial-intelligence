@@ -478,6 +478,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
+    excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
+    publishedDateTime: 2020-09-18T10:15:00Z
+    webUrl: "https://www.ibtimes.com/man-asleep-speeding-self-driving-car-charged-canada-3047980"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/police-tape-secures-a-crime-scene-outside-a.jpg"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
     publishedDateTime: 2020-09-15T09:50:00Z

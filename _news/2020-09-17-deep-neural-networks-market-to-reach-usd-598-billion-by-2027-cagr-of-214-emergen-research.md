@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to expansion in the big data analytics, emergence of deep learning through neural networks and cognitive analytical procedures in various verticals including IT & telecommunication,"
+    publishedDateTime: 2020-09-18T12:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-to-reach-usd-598-billion-by-2027-cagr-of-214-emergen-research-2020-09-17-111831649"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027 at a CAGR of 45.3%| Impact of COVID-19 on this Market"
     excerpt: "According to this latest publication from Meticulous Research, the global artificial intelligence in the supply"
     publishedDateTime: 2020-09-14T10:23:00Z

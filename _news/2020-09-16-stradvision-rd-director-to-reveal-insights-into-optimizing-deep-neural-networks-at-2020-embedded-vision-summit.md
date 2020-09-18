@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Gyrfalcon Showcases New Tech at 2020 Embedded Vision Summit"
+    excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced it is showcasing enhancements to its Lightspeeur® portfolio at 2020 Embedded Vision Summit,"
+    publishedDateTime: 2020-09-15T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-tech-at-2020-embedded-vision-summit-301131227.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1274395/GTI_HIGH_RES_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Eta Compute Will Demo Person Detection and People Counting in milliwatt At The 2020 Embedded Vision Summit"
     excerpt: "Eta Compute Inc., a company dedicated to delivering machine learning to low power IoT and edge devices using its revolutionary TENSAI® Platform,"
     publishedDateTime: 2020-09-14T16:05:00Z

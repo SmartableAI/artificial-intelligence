@@ -3,10 +3,10 @@ category: news
 title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
 excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
 publishedDateTime: 2020-09-16T10:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+originalUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
 type: article
 quality: 87
 heat: -1
@@ -83,6 +83,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "vUHfTvbYKu4EEU4fZSUxLVCEHnyqriRJ5wZInMw+DrPIqYnAHXDGawEFn7tYVylz7t4n2oay+Yv/jvOTNTADc2m8JDD5WNxW5/E4EJBFIUPSTfgGZ3IPGwM6NC6jh5g7MPMXrif9YyZGTtPeQbJuc7fRes2z21XEoZo47rWDbVpX4fwBbl7kaTPeJrZCTvQLj8zHr6PU+ZU65bbqOO2dl1DUMkfbFtbGwhPnfYLG7hyISarijvWEZd2gYLdpSc/yLc+iIzUwlo7Gy6fPfglRFpk4zXxsorYREqQz4F/4LGthhLD38od9vW6LR6nr0K8De2t+GaIpNid2ev5Hnoun8vOx2eLoMLroeGmvqpjvx1q6iW1YYyuu50UC7sNNVSsuqQkl4ogdPqMQ9WpoXOqH2VHRyAh5DWBqNgIgQm3FVDLxZMMUMbTJJCWB5Yq0/mCJ2ARFMHy1SA9+dQXqKzAfItmt15BOOFKLWLzq575lFOpaQHAVE/M95O8vRkZn7t6y2dcdVXz+DXZaeENvIQzDTA==;4vXR8YRlT1nL6C+S427+Sw=="
+secured: "7+aHUsGxt5F2Mm4i21pxHaHQwwwJBQ0rQIFMQZ+AoABp2ZpRpaAEP5raXPILYESHiw7x0NF9nShNErQoYWC6qyZV65k22g3CnSvOc4CO+XuoE8PzUKYPPxm/ng44j4m6/zleMUVOpq8ma+Ua08ZM0WIX3Sn09varMfJmZ5ABufiA55ut5QtOgRxoawZ2lySlYgfKRTtORxoQb3foG9mJOPNkbT24R7xwG/zWfkiVm4+/WsV1zaugEXUonxEVz7XamG3Q/ve0XZGQ1jKwaXrxgs8zw9g915loswAvozAJs4bcEfhvICxemJm/4G/1jlwejlaovByp05jB60thSgQaZ7olFTnTVVrrTG8DAu2TDcw=;TCWFty0gkP0b1vKtCjkwaA=="
 ---
 

@@ -63,16 +63,16 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "AI Robots Serve Restaurant Customers in South Korea"
-    excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots."
-    publishedDateTime: 2020-09-15T16:18:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/ai-robots-serve-restaurant-customers-in-south-korea?context=amp"
+  - title: "AI Robots serve restaurant customers in South Korea"
+    excerpt: "SEOUL, South Korea (AP) —"
+    publishedDateTime: 2020-09-15T16:34:00Z
+    webUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 67
   - title: "A.I. robot serves customers at South Korean restaurant"
     excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
