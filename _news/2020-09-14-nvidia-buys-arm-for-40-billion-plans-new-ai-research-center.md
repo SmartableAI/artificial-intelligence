@@ -68,6 +68,20 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
+    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-14T13:39:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 25
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Zpn2nwc8cEJSf4PPhFdlMhznDGEmBDITfGtG2D1vYpwZLyJPoqI6xqriTPZPPttcRbseKzSOJqvtR+lPKblpK+paBSmUMXPWPw/bCMpGkcSryc3Q1f+7hYR4m1fJCz1NPU/h9PxSKjB6plcN4PZBhUEKw2Bh8cZLUfMe6R9lv1LiBeurvn7KxVP+nhhmykGeBq9M/NK9lcR3Y+WtO4pKvrddYYKQ8CUfhYUOz+G90G5bv/hdZedpROl9mpfiAX2bS53X1OFIx2yx0V8BfTHp/rmk1F3+am9THNRMveiKwWElejG6k/3fU4T7ZCVvKrZh5zrBbg44BkEyRVzAe+duMi4y34PoU3Jrj1PtEOnSioULk5Xe1CYN5s3hSAm6RWjZUf7sl7M00Nx98LVko5yCAlQV+vvQ1SpMPpNRWygd+fSp/LctxUp/uxGaMnASCW/74euLtMWFdxEsW6dc4mSPIo/7mEXF9BGxH6nEMAvcgagNVfZxKdpZ8Pz0AteiMdh0Z5kpuq6U2kJNGE8dAfnT+w==;O4uE8nGJ36oYbVFoZ10LPQ=="
 ---

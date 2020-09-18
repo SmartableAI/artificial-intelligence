@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-network-machine-learning.png?height=635&t=1588275771&width=1200"
         width: 847
         height: 635
-        isCached: true
-  - title: "Discovering Top Companies Leveraging Artificial Intelligence"
-    excerpt: "As Artificial intelligence is evolving, many companies are deploying AI in cosmetic, gaming and app to offer efficient services to their customers. Companies like Sephora, Perfect Corp, Rocketbots are leveraging augmented reality and machine learning to enhance customer experience."
-    publishedDateTime: 2020-09-14T05:02:00Z
-    webUrl: "https://www.analyticsinsight.net/discovering-top-companies-leveraging-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Artificial-Intelligence-9.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "gzkjnH55j5bVfeicNu62MdGeiLlwNEB7EvNClDdwKqqYyXHTZ6zIj+aAnMzM5IwR0tX9xjaHCiqo48llfHVGI+5nCwhE6qIS98b3Uc1j6WKKdNL3mgryhLdavj1D38WvD7sSLS25g7H2SzYcKJSA0Qw13oqGl/H6qF71+r/aox3CCvBh72CwBuoWxB15WuEJP7lVlzfq0MyFQR7uF5UpIVgYdguC4ra25aHbzORQPJor3kj9e/udMgxZ8BaH9GmqoIkpHLZ8QtEs37dhgFBfu+OJJPG88EEWIMR+DD2v2TS5+1kCdsYui5ey9RS6z99rInHalH2VK1P8NGUWjeIt/a40IEfX7uwrsHm9smrftSLo7NZZgNNE6j/evYZ6hLqjBEs3FkvL28Calzxi6A53saBtWGyRgp52QQfWqKmBkiijCQPSd1yWE6fdt7kXE1/yjZtYFtpTZZlm0LZmivwAXsHLFCj8NSSZvUjNfX39tJUzfD5T65QHqHdubE/iib5Uk9zFasOcIQCBbBxCLLWLHA==;4nnxPydk+xTAyKz67fYVcA=="

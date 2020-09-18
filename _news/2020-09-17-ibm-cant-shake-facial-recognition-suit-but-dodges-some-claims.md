@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Faces New Lawsuit Over Alleged Covert Collection Of Facial Recognition Data"
+    excerpt: "For the third month in a row, Facebook faces a lawsuit over the collection of biometric data. Facebook blames the latest intrusion on a camera bug that has been fixed."
+    publishedDateTime: 2020-09-18T20:11:00Z
+    webUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246"
+    ampWebUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/01/01/smartphone-camera.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Bans on Facial Recognition Technology Spread Across U.S."
+    excerpt: "The decision earlier this month by the city of Portland, Or., to ban the use of biometric facial recognition by businesses and local police  is one of the strictest measures so far taken by U.S. jurisdictions to address spreading concerns about privacy."
+    publishedDateTime: 2020-09-17T11:32:00Z
+    webUrl: "https://thecrimereport.org/2020/09/17/bans-on-facial-recognition-technology-spread-across-u-s/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
   - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
     excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
     publishedDateTime: 2020-09-17T02:52:00Z

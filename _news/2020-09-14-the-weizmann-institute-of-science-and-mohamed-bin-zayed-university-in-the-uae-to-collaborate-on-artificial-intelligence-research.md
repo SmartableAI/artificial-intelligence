@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-o
 webUrl: "https://www.siliconindia.com/news/general/The-Weizmann-Institute-of-Science-and-Mohamed-bin-Zayed-University-in-the-UAE-to-Collaborate-on-Artificial-Intelligence-Research-nid-214053-cid-1.html"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 570
     height: 367
     isCached: true
-
-related:
-  - title: "Normalization scores another win, as leading Israeli institute collabs with UAE university of AI"
-    excerpt: "A historic event between the UAE and Israel sees a mighty exchange of minds, as Abu-Dhabi based AI university collaborates with leading Israeli research"
-    publishedDateTime: 2020-09-14T04:36:00Z
-    webUrl: "https://www.geektime.com/weizmann-institute-collabs-with-uae-ai-school/"
-    ampWebUrl: "https://www.geektime.com/weizmann-institute-collabs-with-uae-ai-school/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/weizmann-institute-collabs-with-uae-ai-school/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 24
 
 secured: "TqwiybqS1Drd7SsqWeXhUonyrTnb5rTCbEP8OXNzlfXVkanC95jNwcirXjBnfe+mC5g9xk8BZYpvVQIbr4l+FeKJaIsijJO3Ptc0PKEvn6D9jZBrUl4qYVmeE2HP6iMn+lQ7j3GvpLvZ5wWNBSqZZkFLcIKN+hsjL9J4gjtHac1CaM9sXmfOVZgAbXcSV/TMr51TIvw0SrZK8/Jho5dFb6IRwS0cXCJLRvH+SsIcEZhJlh78o34UK5OoTu64rxcr52zbTo7G+h77ppAUkdc1J7IXZgBFqJQmMJNIXxej/GLRmhGLtbVWsIShAkBpwJu46mFeMiEAbmZFYFhJKX85Qv2gtqgppEgHkRpmjMaZktJXqh8CDAd6PsdU/ROqtGuKpocKIpzhd9GhNFigPgY6Z7Iq/bCh9ULmRksR5hg6caPEw5QfMdd/nTsGyMDjOZlz8RPCBkHtf8UKQMHBHQv7LdnXxbIoUv8oHgV5LIitzcp9tUFTY8yt/F1l02ydO0FBKL0NgHCAeG23LK0wp43JVQ==;jTK2kHZ7K0qCYZ4wgnvAuQ=="
 ---

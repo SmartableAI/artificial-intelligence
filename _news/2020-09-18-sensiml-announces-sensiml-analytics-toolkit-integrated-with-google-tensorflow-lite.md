@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T16:25:00Z
 originalUrl: "https://www.embedded-computing.com/news/sensiml-announces-sensuml-analytics-toolkit-integrated-with-google-tensorflow-lite"
 webUrl: "https://www.embedded-computing.com/news/sensiml-announces-sensuml-analytics-toolkit-integrated-with-google-tensorflow-lite"
 type: article
-quality: 33
-heat: 33
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "http://share.opsy.st/5f64d96e6b1dd-tensorflow-lite-logo-social.png"

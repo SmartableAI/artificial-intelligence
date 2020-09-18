@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
         width: 1024
         height: 707
-        isCached: true
-  - title: "NVIDIA acquires chip maker Arm for $40 billion"
-    excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
-    publishedDateTime: 2020-09-14T04:58:00Z
-    webUrl: "https://www.sify.com/finance/nvidia-acquires-chip-maker-arm-for-40-billion-news-topnews-ujoe4Bfjbjdbf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_ians_ujofyhbcgidcd.jpeg"
-        width: 650
-        height: 400
         isCached: true
 
 secured: "AN+U5MWxhL/7Tvbs3/feRwQxi6J+GJyPiPOeJtAAWgwh9Y+FFv8JHSCp1AiKwR6bs8FsI2bqLx63gf9bib3Lga+E3jfxZGbbGRmB+dYZ9tFe+a1TAbVho/oLV5ro99/41XEB1YIfedr1Ii9u57+k46N/Etf5iQg6guc/DTVnTuhTeEv9373kWnTEDkL/kI0gmFZeBbqNOGVYvVnZ6fUm4qp+k9j5p4ahZCl9yp0QZDJmClK2HqzXT3YnSpnffGnYbAFTUG3HGOsN+CJ3AYXK5dXSWFWH9sXNuxwytgFbP/WTdAaTvP31eKGNmTzEonbDoWlKlk22qQu+o3ks1ic7Z6FDk3Cs8rIfoCtCyOFoLAWSNXQpU5fvVYzWyvjFzDIhICiYnPAJ4pwm9KQMs84yRQmNXU46vLVJy3bzFccSXyCYuV/V2FnjNDYQ+eqQrlivNumg7vv7GH6Rh9hNTgAG7BSYSJG8X0CMPVkSfVk5LNt1AhiOW5dE7KKiy5mQst5EAOvuumXPlapbQWbhsXL14Q==;tXyoSosIB5Xtu3kRQiGGsA=="

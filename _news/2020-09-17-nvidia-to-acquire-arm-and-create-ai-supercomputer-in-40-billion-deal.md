@@ -67,6 +67,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
+    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-14T13:39:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 25
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VVoSMmqc0dDlX8S/0Q7XSrUAffvX+FYZWJpJZICbIKzrRGE3mqEo9YcyT9xEEYQKNQcv1rGFo74e7wFQsEqFjzw4u9izP+RvaEwsSLP6xQv/4lmW6J0AMj+WgQ6o2O7zasYhFznTkxfggA+O1LVmJOiPPn6csq9a9qGt+hmNmnwH7cUt4BlLGHFgykCNBGGFAxa37G17+SXdwNbCmAAPyUFfqaSpAMJdhAONKNdvUQprZgqhYL0M0A1VOvDsojryGPEJS/Sx3Z4S5L/Kd1lXRY5QzPv/mAnqMkivB8XStIknjCZOc8QT0bYyS6WgjbSZxMHdOcPXFp444oPaDIxQxRd1+0MdZf8Z2DOE04LcQMhJZZcbW15EcLGnlD9Z40910HnsroAMznwcj3Ga4mp+Jzmtnj1LhHFCJrihzXlhvIFSr+lENipA0l0G4553+Q3y/inbWm8vxkUDBJdMHmDZd6n151u58tx9DR6l1/qRRVwoapI3FGUlNlY9xcc2jys1ikwvjpeF8XuJ43eK6ldhiQ==;rQfPdCgnGwejTXiFUTxGoA=="
 ---

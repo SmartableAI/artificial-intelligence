@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/world/story/canadian-man-booked-for-fa
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 647
     height: 363
     isCached: true
+
+related:
+  - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
+    excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
+    publishedDateTime: 2020-09-18T20:13:00Z
+    webUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/"
+    ampWebUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 46
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/09/manny-becerra-vDloaizQO6I-unsplash-1.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "PhDoXYrbqFPqH8/5mQCqNBqYQW2oduDkWL0Ypyv1VqoRQ/SO4L3yhRtODr+NSBtuBNIALOUs0JEAgfu2U0kDnCZZPI5IwxV4AxzWVERiERIRY+s2FGvrsZ882J2XXOgIT9tbtlzfU63Id8nUSBHW1Sy+rxLwO4r9TSpE9X73lRvy67tIdDnzGhE8/Sb0vSsR0GFtjVdtBOuvcxdbh0MtNAX8YTqlRZql3iTj6z2vKSZit5EZNMaF6/R9ejvVnO3jSZ5IFZvLBpQweyju75PecNxlmJP9vDyji2yNRheANKZDbBTHpaWp4ry7Rnrl+m+P+vuxk3tOzscILe5OL7VGWG9+GQQ3TNwG8zZwuyZwk3Q=;k3o1uIjvo0I+fp0EFhw9LA=="
 ---

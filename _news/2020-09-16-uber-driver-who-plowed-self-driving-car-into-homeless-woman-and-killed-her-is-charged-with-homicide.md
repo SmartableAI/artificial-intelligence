@@ -626,6 +626,20 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 4
+  - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
+    excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"
+    publishedDateTime: 2020-09-18T21:11:00Z
+    webUrl: "https://www.abajournal.com/news/article/afternoon-briefs-self-driving-car-crash-leads-to-charge-aba-center-to-monitor-trial-of-hotel-rwanda-hero"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 4
+    images:
+      - url: "https://www.abajournal.com/images/main_images/car_tires.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "byde3D9atUcjS4SSUO8KKTrSywv/7rOrfNmiOr9DFlEG2y42kYXrmk0PT08Xj8y0pdHEmUqBWFzXO3XyyrP0FvdTGPnDXU175B67QZpZ/s5lwRCrMB+6seu/dz6ob6hq8wTdqk3b4MmLvfOtuxohmuZGUlz8qu+UL+dW7GQDHUv/BJ/6YbqK/PkdPsN+qSAJiAjyEOnUASb0lRfKtQ/xCnPMOu7m7L1sTIbkkbPAIiFHrpxkWbQ0griEOI3AYpL1CrMrdpfI2IkZaUOB29eaZkXKn4KJx+OrjJclu6OgmQgkIdFWlHks1tGgiKLfIPQ4r+2MoMO05pe3frW8fseIodVOBNeSjU7/osZIq+FCoTA=;YehH+UvzIn0wog1+ojicYA=="
 ---

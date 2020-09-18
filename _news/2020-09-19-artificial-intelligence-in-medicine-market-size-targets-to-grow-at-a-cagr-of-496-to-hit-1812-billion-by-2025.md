@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-18T18:48:00Z
 originalUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
 webUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

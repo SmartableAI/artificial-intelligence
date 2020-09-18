@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA acquires chip maker Arm for $40 billion"
-    excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
-    publishedDateTime: 2020-09-14T04:58:00Z
-    webUrl: "https://www.sify.com/finance/nvidia-acquires-chip-maker-arm-for-40-billion-news-topnews-ujoe4Bfjbjdbf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/nvidia_ians_ujofyhbcgidcd.jpeg"
-        width: 650
-        height: 400
-        isCached: true
 
 secured: "3oHYHzNZiuy5IYffFakZyt0htYWClEeREp3C88ENn2h7J88UNngCpnjLozgqSA6p+eIouz/1f63YUk21MO4D3+svqips0xvOJIHBKv6j/UumSzOV8cKqergnli52TdNGoEj+aZ2vdRSM6ozWeOSMpZ6tayhhbagNYjlyqhpV+l/UG4I4ZW6C5BnbXyTRLh2Ts09DV2cpvBW5TPDzYUgFWqBw5kHpqhslgbwtmOliyb3kgauj4pfI1+PumDcX0Hh0OapO9Jz2TL3+C2EWPd+5VsTa47NtwOZWjFjc5oaQ2pMqri4KEPEldVaa008PVHRAI9gIle4jB9DJt4eehDucAFjDi7aTqckDUI7ikXYhPLXKY4mUW/RqT3Rv2a3F0xuvc5pUXdJJxUBvsPtm7Afo2PIrwMau2GVMcKyvsUKk/KrR0aRxK1dyt+8Goi16jcxc59NDqNlabUoqqj0XBFJBdouumIPdyGE0qVKWdPkwHlYCPgfPl1VSq1v6qPTxBbnf0gKTyfvSqSpkq5z08EoN5g==;PCo2nppg6lHJIEkH2yTeng=="
 ---

@@ -32,7 +32,7 @@ related:
   - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
     excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
     publishedDateTime: 2020-09-18T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18?tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18"
     type: article
     provider:
       name: MarketWatch

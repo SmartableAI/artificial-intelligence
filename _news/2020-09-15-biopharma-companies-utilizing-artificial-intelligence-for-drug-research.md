@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Discovering Top Companies Leveraging Artificial Intelligence"
-    excerpt: "As Artificial intelligence is evolving, many companies are deploying AI in cosmetic, gaming and app to offer efficient services to their customers. Companies like Sephora, Perfect Corp, Rocketbots are leveraging augmented reality and machine learning to enhance customer experience."
-    publishedDateTime: 2020-09-14T05:02:00Z
-    webUrl: "https://www.analyticsinsight.net/discovering-top-companies-leveraging-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Artificial-Intelligence-9.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "03yM4T2i5ADmNaCk78zB0C8K8SDnk7pPYj/9fVJ8j5VL4xvqPKF9rwsXRMYArtzrxh+TPPEluaL9ENuYga4UXu4VJVGL2DRLk1tcKA44kjHPPsiFL3SFbABXBe6bMi1DUhRQjK5I6bIPeHZNiYAa1fPsih/75/U81Lfcyq1aAaqcIPWwFkCK8k1kYLTbcY1tSTpc3Y1UsZeSsNONoyuEXgeGKY/KAK8FDcS1xZcpTRJoLXu49FLC0sLOycV23DbZQbvZuOyxjWzgM6pGL+tnmwSkyHVws/AzD2i+GcMup5DLqjKU/nPJ1tLu+bugTpKfVfKMIGOqCeM1zamB0DaujhuSsAb6py8/U+RDb7hZ648=;Fjcsak2SUwFkKC4QF1PlSg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-lette
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
         width: 288
         height: 342
+        isCached: true
+  - title: "More than 1,000 Parents Sign Open Letter Calling for a Ban on Facial Recognition in Schools"
+    excerpt: "The letter is a part of a new effort by Fight for the Future, the digital rights group behind BanFacialRecognition.com that will specifically focus on K-12 schools."
+    publishedDateTime: 2020-09-18T09:41:00Z
+    webUrl: "https://www.campussafetymagazine.com/press-release/more-than-1000-parents-sign-open-letter-calling-for-a-ban-on-facial-recognition-in-schools/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 29
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/09/AdobeStock_343780326-scaled.jpeg"
+        width: 2560
+        height: 1483
         isCached: true
 
 secured: "WuVe6CO7xoytpd89Kn4VhL9f06C2LB+BCVNfh+j7Km8+F2T4x6JNFaUOZ8vaxRmpdue91ZMhaSiXkERlxyDx5ajI6ZwhirREtFrEmy067z6U/e+SWXhuwrdcRvdrEuMFfkaimEALtUDA/wY6lDqlW6QQhVYIE3PnuBWDATP1oI9c+6Y/W1Q1teHoDTcIY1tyi0mzIdo/2l90jhLUSIuS8ccL+vosZSrwvZ8+B63X6vuH/h1GhSHOv3b5AOSj6YJPk6X92rVruOwaxs3T98fGmEGgp3hgZXsDn8UCmkIr1n+ACn8iRRu1QBJEFQvU+HgpAe+LkaEXRzsx+ZEDK8mGAhXRz+CgflV0fGdiACRPBn7UMehK57rodSoVesV8RuqMWl4QD7PnpEwQRSKktk54oGnwGGfwDN/4FSV7KCwYSUzj7kfhbqMzgUnWY5D67rjbUpOZ5PNOYhT29E5E4AJ2tYzk44q7pI8KYWUVPNmFvh0c4AHRzBJlOlmVTvruL7D1N/304zHAvE1nCaSmnjCnsw==;IVFL7sdXE382olWFPpXFkA=="

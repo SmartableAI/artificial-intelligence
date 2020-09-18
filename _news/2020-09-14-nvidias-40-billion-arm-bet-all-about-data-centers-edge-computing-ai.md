@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
+    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
+    publishedDateTime: 2020-09-14T13:39:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 25
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xDyoqP8YLzrS887oxhan2sgzdeDzn9fT6DvXiMzmfGpRAw56YZl9ovWxIbo6N2pqzjcCJAkpVQDD+fC9RCDkTRKK5HA7sF5RVXVHH77/sx3ToZauuvapgLlDhkD+y7wqeXGhsO0/tN3EqPCAOhpXzxG+XbgfmlcvLoKFSl8bjx0ykPDbQXQgTAMRXI6lIx5bJ9UtOs6e4HwKx4QnfMrEPUtZvb/LZzFJTb0U1aDdtosYGDpfrD3Y/7KBFJPgGistboEWmvkd4e3g7+nxlWx3BTSIy1BsPZxsniJGY32jmOgG0AmoKPXsuMYMPYQU2ABDIod/N6/aeRt/+Og135TzuJB9mH7+2/HjY1h26koIyYdSya1KaUQKTMRjO9VX0JGyC4J9MGKp9W2dpkNJhzaMS2xlK7+93OP2I1HPdPameJNMOD1mXjp9k6DzqPusHlcYzYe7ViZnPdi7czEy/3NeI0ZiHeNeO3pMyVA2EBdvM6Jvj8OE4xQdbyUFRjeDg1EaMDtji5oto2yukntcjZqTZA==;BKyT9G8YB8MBZ2iIKWRaHQ=="
 ---

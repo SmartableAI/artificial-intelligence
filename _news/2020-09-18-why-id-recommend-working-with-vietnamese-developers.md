@@ -3,8 +3,8 @@ category: news
 title: "Why I’d recommend working with Vietnamese developers"
 excerpt: "Many people have asked me, “How good are Vietnamese developers?” Before I answer this, here’s a bit of background on what I do: I run a tech hiring and offshoring firm in Vi"
 publishedDateTime: 2020-09-18T07:57:00Z
-originalUrl: "https://www.techinasia.com/good-vietnamese-developers"
-webUrl: "https://www.techinasia.com/good-vietnamese-developers"
+originalUrl: "https://www.techinasia.com/good-vietnamese-developers?comments=true"
+webUrl: "https://www.techinasia.com/good-vietnamese-developers?comments=true"
 type: article
 quality: 34
 heat: 34
@@ -22,6 +22,6 @@ topics:
   - Google AI
   - AI
 
-secured: "wttlxpq+xUCL/vWcvomaV9o22dm1K6JvF/GHLwKq9CTsqfEQ31xvJPSW9NTVRsRrBJLoqVJJ92OYD2jd6aez83sXbLbxXWPaXulW3NSXXExhb7AD9oUQX9nb39toS061wUWIUmwh6zn4kFC9WuuRRp1tjaGgLNOb/DhSA7fZUZYLPNR3IUCDDug6djDf7PCgBlxbsR5XMMiomNd3+M/fDPIVv+X7/T5iX/FpmWaoAtklHB+L6c6UaSCvoiy8nUXIcBtlqiZHz+momzeppHcgW+F/Otx1Jn8W8X7ElU5c8nhkvdctPXRK2Ducv+02gzU+AkF9811YQBNVRmckLMKuqYXeTCtYKkYDEcbv+NQJKRYpRa8k+Rvkc+1uzYJPqSrBTb0/BHMokwGaeNpbwFfFP/Wxeh/Wyoz3I7SvOe5zGbTDD9JKn12ewKE9hVz99vIZOBGj2mMb1bB9a3Mi3IBkFRDZztL9o7erKUJaDyZbkveXRP7F6KVgHOQvxq/8hgYscItDeQMyfarsXvUqtk4eNg==;LRXkIpQEC7xXDAK2LIKEJQ=="
+secured: "/HavyYGWadK80U6tgb6ijtfSA0c1jUFHWHw4Gc0udm9FOBz+dYJvXdoNAqGmpc044P/kb07wDxJoJAdPojRKAUJlx5RulCBJRcyftuBQYaSouOMniDs0JAQzcPErOxs/tD/r/kTdzcDvj+ZjbIOMURIGvPZi9bhTml+i7u28Weun2W1lHnHvAbX568NMw3lRI7yTIstyHaTytOZE5dZUPFkThlSVTvBIMF3JBUTNxdODcc5u/bh34LwXO1Ihmuo2a5PppOv9vGZtn15rgubkFzFxzJb4sh4eQLvmOWlhE+9HB0XflVEWOeKeVwWK4U1u+pq1Xo1JwspS0YdddpPRftA9IOrNCiMGj0rc8KgW9NDrEUf1f8s6CaW4cRBl1tRkePWIxo6ssOQKpY2pKyR3tOIGTNe2srwYtjl4Dl2XxwzNY8M3smYwsJFgOLjaNVK4sxL+b/vaxWqJC2PQLAuO/glTNZ7qSN89NEbpeIjwXO5SZfhccl9ZVEatrGWXPbuJxq3ERGbCcCxYhmBCP7TXcg==;dmUGTbtQYGAQa970z4lDqg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
 type: article
 quality: 74
-heat: 474
+heat: 484
 published: true
 
 provider:
@@ -630,6 +630,20 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 4
+  - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
+    excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"
+    publishedDateTime: 2020-09-18T21:11:00Z
+    webUrl: "https://www.abajournal.com/news/article/afternoon-briefs-self-driving-car-crash-leads-to-charge-aba-center-to-monitor-trial-of-hotel-rwanda-hero"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 4
+    images:
+      - url: "https://www.abajournal.com/images/main_images/car_tires.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "lr6NrWHfm+n/xd4mLOM67rWwbz65KK1GZ/SyirNWler/RkRoTYHbIFiiIX4zjbQqEemTwuGHXPKmpMl0pg4Z0Zc0wEVDOnEj7TxqzjC717eSvzspXeDmdstf3gQzdSqbiIItqXEd96zfTA0freG/YBpMuTy2hZ0D5XcxI9i5e09deTeB+O+x88qELKobAzgJeBVksJlA4qItRjJmqat86szis809EKJyOK41wj11Z695Yym+YtUlsNDAFPER2GhH1KUhWpl7fVVvBBOYRvCoZ8X4hQIicmoJprsMtAtnSHL+JuCdcY8s5iM4fpjddgK9f1uPChpC9jNtY3UY2lfCiMWeuVJWvfJLmz+H6d3RIsjsGNnjqZKjs+UXoip8PfGK+mLg12uLDnNU4mSlyL8IG5wLNL9jF4OzCi8FIUgcqbqiEdwkCNA0vlL/7zUlsKNjUuey140vsH0EbbpLeJdqncXWqeD1pBb9r5OmPxyJSWSmE+321DK6r+0VCN9z6Z/6BFjzimBiqUN8f+u2IDoxAw==;GqMhfdgHvM+1TKpSL96PUg=="
 ---

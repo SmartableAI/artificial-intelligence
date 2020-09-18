@@ -7,7 +7,7 @@ originalUrl: "https://gulf-times.com/story/673174/Qatari-start-up-develops-regio
 webUrl: "https://gulf-times.com/story/673174/Qatari-start-up-develops-region-s-first-self-driving-utility-vehicle"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 620
     height: 355
     isCached: true
-
-related:
-  - title: "Self-driving startup tackles food deserts"
-    excerpt: "On one side of 19 lanes worth of interstates, freeways, highways and exit ramps sits Houston's Third Ward, a place where fast food joints are plentiful and more than 4 in 10 residents are classified as obese."
-    publishedDateTime: 2020-09-14T04:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-tackles-food-deserts"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/8NURO-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "LPLmUJfSBTctrhLi9KWlOfeZdfs9XJDxX27xViYHiZhYsKTISPlivhxBDIICb6UznNfTpCR2y2FVKZ1uKd8MyxAjyJ/gWwqt0S1EztUTfOkgVN3OQHlE3+Hz2LeSxYEKG5uEk54kihQDu9LmKvzZIG254Tsd4NSIPR2/kLJvYHb0GfF/fusMHK4WZJxWiUTa9Wjku1PRq9RK5JIzYtqJlZqUoKflLkFt987rhfQtbpjTHJxMF1VpA5j023cQi8STPvUhqcPCzRg0wH2kkAaJCqdYJhD2tYCQ3Tn9nByZAhw/uI1LRsvIK3JUxX6seLOithfiUAvvj561MRx80PlAtoVJgf4ihtwEAmDK3H82aDY=;ikKxDTpAlstuhzuD24fkaw=="
 ---
