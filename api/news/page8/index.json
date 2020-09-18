@@ -2,88 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-09-10-why-cloud-gaming-is-the-future-of-xbox.md",
-      "title": "Why cloud gaming is the future of Xbox",
-      "excerpt": "Standard gaming consoles cost a few hundred bucks, and while some graphics cards are so powerful they can run full artificial intelligence systems, they are also more expensive than a lot of computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "originalUrl": "https://www.cnet.com/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/QCdvipeA9j2ulMONU4Ajg-tzpuk=/1200x630/2019/06/09/588eedb7-ad23-409e-ae58-0ffca65b6d42/xbox-pricing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-cloud-gaming-is-the-future-of-xbox/",
-      "publishedDateTime": "2020-09-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and-machine-learning-evaluation.md",
-      "title": "Cloudera Recognized as A Leader By Independent Research Firm in Notebook-Based Predictive Analytics And Machine Learning Evaluation",
-      "excerpt": "Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Machine Learning has been named a Leader by Forrester Research",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and/article_4846dd95-1afe-50e9-9058-37fc127461e0.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and/article_4846dd95-1afe-50e9-9058-37fc127461e0.html",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
       "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
       "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
@@ -91,6 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
       "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -140,6 +59,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -190,6 +110,7 @@
       "webUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
       "originalUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -240,6 +161,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -290,6 +212,7 @@
       "webUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
       "originalUrl": "https://thetechportal.com/2020/09/10/greyorange-robotics-india-funding-100-million/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -331,6 +254,7 @@
       "webUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
       "originalUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -380,6 +304,7 @@
       "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
       "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -429,6 +354,7 @@
       "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
       "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -478,6 +404,7 @@
       "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
       "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 110,
       "tags": null,
       "images": [
@@ -529,6 +456,7 @@
       "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -570,6 +498,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
       "featuredContent": null,
+      "highlight": null,
       "heat": 183,
       "tags": null,
       "images": [
@@ -620,6 +549,7 @@
       "webUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
       "originalUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -661,6 +591,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc-301126999.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -702,6 +633,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/",
       "originalUrl": "https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -752,6 +684,7 @@
       "webUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
       "originalUrl": "https://www.today.ng/topic/centre-for-artificial-intelligence-and-robotics",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -793,6 +726,7 @@
       "webUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
       "originalUrl": "https://qz.com/1901456/millions-of-indians-are-connecting-to-an-internet-they-cant-use/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -843,6 +777,7 @@
       "webUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
       "originalUrl": "https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -893,6 +828,7 @@
       "webUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
       "originalUrl": "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -934,6 +870,7 @@
       "webUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "originalUrl": "https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -985,6 +922,7 @@
       "webUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
       "originalUrl": "https://mashable.com/article/portland-bans-facial-recognition-technology/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 422,
       "tags": null,
       "images": [
@@ -1026,6 +964,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1076,6 +1015,7 @@
       "webUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
       "originalUrl": "https://gcn.com/articles/2020/09/09/diu-google-ai-cancer-detection.aspx?admgarea=TC_EmergingTech",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1117,6 +1057,7 @@
       "webUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
       "originalUrl": "https://www.techrepublic.com/videos/scaling-ai-in-your-organization-should-be-deliberate-not-rushed/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1155,6 +1096,99 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
+      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
+      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
+      "publishedDateTime": "2020-09-09T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
+      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
+      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
+      "publishedDateTime": "2020-09-09T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

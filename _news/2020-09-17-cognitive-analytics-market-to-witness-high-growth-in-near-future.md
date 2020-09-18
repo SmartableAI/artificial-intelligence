@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-to-witness-high-growth-in-near-future-2020-09-16?mod=mw_quote_news"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Smart Labs Market to Witness a Two-fold Growth by 2023, Says Frost & Sullivan"
+    excerpt: "Frost & Sullivan's recent analysis, Smart Labs as Key Drivers for the Digital Transformation of Diagnostic Laboratories, 2020, finds"
+    publishedDateTime: 2020-09-14T11:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/smart-labs-market-to-witness-a-two-fold-growth-by-2023-says-frost--sullivan-301128501.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1252788/Frost_And_Sullivan_Smart_Labs_Diagnostic_Laboratories.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "zkAx+XNiL/iPYy0juOotUNO45rGR9fsHHpDBp3Zqu/M4eo18q+6DY9l/N8Lz08MqvJaqRKfYc7fY6olbPLVu8i483WojzJ85kreU9XTgHcVLld7ldGyB17kftEd4u37g5Ikm/CpFd/tP19tEa0sLzZmfSEGSMCM9yfAIBj/BkAECAaHjyM3YEVrBw4F1HrJ1YX9/PelivpsB5uCXb2OE2+OQhJUDUHaGmgDtxxnRxpP/vhp3f2Ia3tUEfFwcwnhQl/AOoPvGtcuH/44NEtkJUG6H9SiKhpyFH2A8wfF3tFliEcO6zC0reF9Pj8KyMqMV2OoKOyOtp6gCv9y7HDbc5kfSstd/CuEp9Synv0dXSUs=;O9wwwcUaeI8lllIld2aclQ=="
 ---

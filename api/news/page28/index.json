@@ -2,97 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
-      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
-      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
-          "width": 741,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
-      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
-      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
-      "publishedDateTime": "2020-08-26T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-ai-will-revolutionize-healthcare-the-transformation-has-already-begun.md",
       "title": "AI Will Revolutionize Healthcare. The Transformation Has Already Begun.",
       "excerpt": "Artificial intelligence offers an unprecedented opportunity to cut this Gordian Knot and reshape the practice of healthcare. Of the many ways in which AI will transform our lives in the coming years,",
@@ -100,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
       "originalUrl": "https://www.forbes.com/sites/robtoews/2020/08/26/ai-will-revolutionize-healthcare-the-transformation-has-already-begun/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 116,
       "tags": null,
       "images": [
@@ -151,6 +61,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
       "originalUrl": "https://thenextweb.com/neural/2020/08/26/youtube-removes-record-number-of-videos-after-increasing-role-of-ai-in-content-review/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -200,6 +111,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/cloud-system-management-market-worth-31-4-billion-by-2025--exclusive-report-by-marketsandmarkets-301118681.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/cloud-system-management-market-worth-31-4-billion-by-2025--exclusive-report-by-marketsandmarkets-301118681.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -241,6 +153,7 @@
       "webUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
       "originalUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
       "featuredContent": null,
+      "highlight": null,
       "heat": 144,
       "tags": null,
       "images": [
@@ -291,6 +204,7 @@
       "webUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
       "originalUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -341,6 +255,7 @@
       "webUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
       "originalUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -382,6 +297,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": null,
@@ -424,6 +340,7 @@
       "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
       "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uota-uas082520.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -465,6 +382,7 @@
       "webUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
       "originalUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -515,6 +433,7 @@
       "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
       "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/uoc--udt082520.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -556,6 +475,7 @@
       "webUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
       "originalUrl": "https://venturebeat.com/2020/08/26/pony-ai-inks-robo-taxi-fleet-maintenance-partnership-with-bosch/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -605,6 +525,7 @@
       "webUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
       "originalUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -654,6 +575,7 @@
       "webUrl": "https://www.lelezard.com/en/news-19394436.html",
       "originalUrl": "https://www.lelezard.com/en/news-19394436.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -695,6 +617,7 @@
       "webUrl": "https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom",
       "originalUrl": "https://www.morningstar.com/news/business-wire/20200826005444/outlook-on-the-self-driving-taxi-global-market-to-2024-key-drivers-challenges-trends-researchandmarketscom",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -727,6 +650,7 @@
       "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-myths-and-truths-about-multi-cloud/",
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-myths-and-truths-about-multi-cloud/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -768,6 +692,7 @@
       "webUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
       "originalUrl": "https://www.techrepublic.com/article/microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 128,
       "tags": null,
       "images": [
@@ -818,6 +743,7 @@
       "webUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
       "originalUrl": "https://venturebeat.com/2020/08/26/three-strategies-for-enterprise-ai-success/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -867,6 +793,7 @@
       "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/08/26/six-things-business-owners-should-know-about-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -916,6 +843,7 @@
       "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
       "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -966,6 +894,7 @@
       "webUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
       "originalUrl": "https://venturebeat.com/2020/08/26/vector-institute-forms-team-to-help-commercialize-ai-research/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 137,
       "tags": null,
       "images": [
@@ -1015,6 +944,7 @@
       "webUrl": "https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
       "originalUrl": "https://www.zdnet.com/article/drug-development-in-a-year-ibm-bets-on-ai-robotics-to-ramp-up-molecule-research/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -1065,6 +995,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/how-an-automated-data-labeling-platform-fuels-self-driving-industry-1029534590",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-an-automated-data-labeling-platform-fuels-self-driving-industry-1029534590",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1115,6 +1046,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-26/china-still-buying-300-billion-of-chips-from-u-s-elsewhere",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -1154,6 +1086,90 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
+      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
+      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsoft-adds-english-india-hindi-to-speech-service-neural-tts.md",
+      "title": "Microsoft adds English (India), Hindi to speech service Neural TTS",
+      "excerpt": "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "publishedDateTime": "2020-08-25T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

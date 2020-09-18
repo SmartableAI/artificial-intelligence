@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
-    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2020-09-14T14:28:00Z
-    webUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/"
-    ampWebUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 58
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
-        width: 800
-        height: 360
-        isCached: true
 
 secured: "TMQccqLZy5kzEHpAdpuZC2nYSvLrA49Cun4YMYaM9WQKDqJnN7W9hhvwZeZGIq3Xd71BiCWgkOT76/wtrb7aqTV1g5eaV+OGjtiv2PgbihYbNiUFn5TznMrDL+H2AgNgNzHSxFKOiP2ValibC6mw+kKExv2grsmi3jYMp7z26xbiHesd6N+co4AqnyBRzYxo5yhI6BsKceknfnVjZ7snDewHJWtIKJXX9Awi2o4DQj0l8wSAF/umNE/Ew5B9yBHHCUX3bfkGZ8g0LcfEY4KY7z4THRLp6wZUftPjPBAJsNtl/eEVw8PHnWSP2TAeqAdt1NlYmzpK4KsdXxYD9W93doL+5/r3NrmKtwIrE2LTZJJbDhWz4EWNRs8gQsnJ+qBBbNPoO+SQXQwWJSE6xcr83F5N3WSzwqNuG/6mM35cBz7WGzrTZk8VVzBDGDKcJtZheq97PbcMlE70JVVuY8RdQ3QTLUKWuEx6DrdCDCFraJVf0eOZ0MgWr4mfEWdMFcWaexvZ3uLCtp8I3GMN8OYhy5rGw/utHW4d4lHVs00rwyQ=;aPOzmiAcBbQRKB9NjdyTZQ=="
 ---

@@ -9,6 +9,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
       "originalUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -59,6 +60,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -109,6 +111,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -159,6 +162,7 @@
       "webUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -200,6 +204,7 @@
       "webUrl": "https://tech.sina.com.cn/roll/2020-08-05/doc-iivhvpwx9330576.shtml",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -241,6 +246,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/safely-deploying-and-monitoring-amazon-sagemaker-endpoints-with-aws-codepipeline-and-aws-codedeploy/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -291,6 +297,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 130,
       "tags": null,
       "images": [
@@ -341,6 +348,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -391,6 +399,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws-2020-08-03",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -441,6 +450,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news&tesla=y",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -491,6 +501,7 @@
       "webUrl": "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -532,6 +543,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -582,6 +594,7 @@
       "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -623,6 +636,7 @@
       "webUrl": "https://www.dailyamerican.com/ap/business/aws-announces-general-availability-of-amazon-fraud-detector/article_8a629921-d75b-5561-b507-dbb54ffecd6b.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -655,6 +669,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -705,6 +720,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -755,6 +771,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -805,6 +822,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -855,6 +873,7 @@
       "webUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -905,6 +924,7 @@
       "webUrl": "https://seekingalpha.com/article/4362108-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -937,6 +957,7 @@
       "webUrl": "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -969,6 +990,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1019,6 +1041,7 @@
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle",
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1069,6 +1092,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1119,6 +1143,7 @@
       "webUrl": "https://www.cloudpro.co.uk/business-intelligence/8685/aws-launches-ai-tool-that-helps-businesses-tackle-online-fraud",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1160,6 +1185,7 @@
       "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -1210,6 +1236,7 @@
       "webUrl": "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1251,6 +1278,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1301,6 +1329,7 @@
       "webUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -1352,6 +1381,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [

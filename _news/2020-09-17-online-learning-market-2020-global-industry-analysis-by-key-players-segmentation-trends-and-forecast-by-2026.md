@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
+    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
+    publishedDateTime: 2020-09-17T19:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market : Regional Segment Analysis & Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
     publishedDateTime: 2020-09-15T08:03:00Z
@@ -110,6 +124,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2023"
+    excerpt: "Growing complexities in the communication networks today calls for an intelligent approach to network planning"
+    publishedDateTime: 2020-09-13T17:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2023-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market 2020 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Voice And Speech Recognition Software Market” report provides in-depth information about top manufacturers, market challenges,"
+    publishedDateTime: 2020-09-15T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-global-industry-size-outlook-share-demand-manufacturers-and-forecast-research-2026-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

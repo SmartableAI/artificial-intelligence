@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-t
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.amp.html"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
         width: 720
         height: 406
+        isCached: true
+  - title: "NVIDIA seals deal to acquire Arm for $40 billion, 'Age of AI' coming"
+    excerpt: "NVIDIA announces a 'definitive agreement' to acquire Arm Limited from SBG and SoftBank Vision Fund in a deal worth $40 billion."
+    publishedDateTime: 2020-09-14T00:23:00Z
+    webUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://www.tweaktown.com/images/news/7/5/75144_01_nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "SoftBank is selling chip designer Arm to Nvidia for $40 billion"
     excerpt: "SoftBank announced Sunday that it is selling Arm, whose chip designs power most modern phone processors, to Nvidia for $40 billion in cash and stock. Why it matters: The move will give Nvidia control of the company behind the core chip designs used by Apple,"

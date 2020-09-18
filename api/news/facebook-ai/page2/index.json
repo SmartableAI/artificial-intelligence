@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-20-facebook-ai-produces-accurate-mri-images-4-times-faster-than-current-tech.md",
+      "title": "Facebook AI produces accurate MRI images 4 times faster than current tech",
+      "excerpt": "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
+      "originalUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f12774f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb4%2Fad%2F3947852d441a973d02e8759be072%2Fdepositphotos-10642890-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/facebook-ai-mri-images-faster-study-nyu-langone/?amp=true",
+      "publishedDateTime": "2020-08-19T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-facebook-gamifies-data-collection-to-boost-conversational-ai.md",
       "title": "Facebook gamifies data collection to boost conversational AI",
       "excerpt": "In a preprint paper, Facebook researchers propose a gamified approach to collecting data to train conversational AI models.",
@@ -9,6 +60,7 @@
       "webUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
       "originalUrl": "https://venturebeat.com/2020/08/19/facebook-gamifies-data-collection-to-boost-conversational-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -60,6 +112,7 @@
       "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
       "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -110,6 +163,7 @@
       "webUrl": "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
       "originalUrl": "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -160,6 +214,7 @@
       "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
       "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -202,6 +257,7 @@
       "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
       "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -252,6 +308,7 @@
       "webUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
       "originalUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 239,
       "tags": null,
       "images": [
@@ -302,6 +359,7 @@
       "webUrl": "https://techcrunch.com/2020/08/18/blind-test-shows-ai-enhanced-mri-scans-are-just-as-good-but-4-times-faster/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -352,6 +410,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -403,6 +462,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
       "originalUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -454,6 +514,7 @@
       "webUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -495,6 +556,7 @@
       "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "originalUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -546,6 +608,7 @@
       "webUrl": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -596,6 +659,7 @@
       "webUrl": "https://www.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -646,6 +710,7 @@
       "webUrl": "https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -696,6 +761,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17013736/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-w",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -728,6 +794,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -778,6 +845,7 @@
       "webUrl": "https://venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -829,6 +897,7 @@
       "webUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -879,6 +948,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -929,6 +999,7 @@
       "webUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -979,6 +1050,7 @@
       "webUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -1029,6 +1101,7 @@
       "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -1079,6 +1152,7 @@
       "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1111,6 +1185,7 @@
       "webUrl": "https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -1161,6 +1236,7 @@
       "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1193,6 +1269,7 @@
       "webUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -1235,6 +1312,7 @@
       "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 121,
       "tags": null,
       "images": [
@@ -1286,6 +1364,7 @@
       "webUrl": "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1327,6 +1406,7 @@
       "webUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1367,48 +1447,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
-      "title": "How India can become a powerhouse in Artificial Intelligence",
-      "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/uhc04b/article32197433.ece/ALTERNATES/LANDSCAPE_615/BL25THINKAI1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "publishedDateTime": "2020-07-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
-      "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
-      "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
-      "featuredContent": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
-      "publishedDateTime": "2020-09-16T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-16-aidoc-raises-20-million-more-for-its-computer-vision-medical-tools.md",
       "title": "Aidoc raises $20 million more for its computer vision medical tools",
       "excerpt": "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019.",
@@ -61,7 +9,8 @@
       "webUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
       "originalUrl": "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/",
       "featuredContent": null,
-      "heat": 144,
+      "highlight": null,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -111,7 +60,8 @@
       "webUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
       "originalUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
       "featuredContent": null,
-      "heat": 89,
+      "highlight": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -161,6 +111,7 @@
       "webUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
       "originalUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -202,6 +153,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -251,6 +203,7 @@
       "webUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
       "originalUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -293,57 +246,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-16-artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025.md",
-      "title": "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-09-16-this-entrepreneur-uses-predictive-analysis-and-machine-learning-to-achieve-efficiency.md",
       "title": "This Entrepreneur Uses Predictive Analysis and Machine Learning to Achieve Efficiency",
       "excerpt": "Julian Jewel Jeyaraj created AI-driven technology JJAIBOT, an artificial intelligence bot, is capable of detecting human emotions such as anger, happiness and joy, and here is what start-ups can learn",
@@ -351,6 +253,7 @@
       "webUrl": "https://www.entrepreneur.com/article/356254",
       "originalUrl": "https://www.entrepreneur.com/article/356254",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -401,6 +304,7 @@
       "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
       "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -451,6 +355,7 @@
       "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
       "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -492,6 +397,7 @@
       "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "featuredContent": null,
+      "highlight": null,
       "heat": 384,
       "tags": null,
       "images": [
@@ -542,6 +448,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -585,6 +492,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
+      "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
+      "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-inside-politics-dominic-raab-goes-to-washington-to-explain-brexit-bill.md",
       "title": "Inside Politics: Dominic Raab goes to Washington to explain Brexit bill",
       "excerpt": "The foreign secretary wants to reassure US politicians they have nothing to worry about when it comes to Britain’s minor foray into international law-breaking, writes Adam Forrest",
@@ -592,6 +550,7 @@
       "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
       "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-dominic-raab-us-washington-pelosi-pompeo-trade-deal-b450849.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 147,
       "tags": null,
       "images": [
@@ -632,6 +591,7 @@
       "webUrl": "https://inside-com.breezy.hr/",
       "originalUrl": "https://theundefeated.com/features/his-message-was-powerful-how-doc-rivers-made-an-impact-in-the-nba-bubble/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -672,6 +632,7 @@
       "webUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
       "originalUrl": "https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -713,6 +674,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -763,6 +725,7 @@
       "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
       "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/15/the-entrepreneur-using-ai-to-improve-cancer-care/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -812,6 +775,7 @@
       "webUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
       "originalUrl": "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals",
       "featuredContent": null,
+      "highlight": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -853,7 +817,8 @@
       "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
       "featuredContent": null,
-      "heat": 149,
+      "highlight": null,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -903,6 +868,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -953,6 +919,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
       "originalUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -1002,6 +969,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 123,
       "tags": null,
       "images": [
@@ -1052,6 +1020,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -1101,6 +1070,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
       "originalUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1150,6 +1120,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
       "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -1189,6 +1160,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions.md",
+      "title": "Instagram Makes IGTV More Accessible With Automatic, AI-Driven Captions",
+      "excerpt": "Instagram on Tuesday rolled out a new feature to IGTV: automatic video captions. The captions are powered by artificial intelligence and localized in 16 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60ee45512f01dcd9537442%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -2,104 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
-      "title": "This Philosopher AI has its own existential questions to answer",
-      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "publishedDateTime": "2020-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night.md",
-      "title": "Why Data Bias In AI Will Keep Board Directors And CEOs Awake At Night?",
-      "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f42e153f432c840c716d0af%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-24-why-the-nonprofit-openai-made-gpt-3-a-commercial-product.md",
       "title": "Why the nonprofit OpenAI made GPT-3 a commercial product",
       "excerpt": "A program that can automate website development. A bot that writes letters on behalf of nature. An AI-written blog that trended on Hacker News. Those are just some of the recent stories written about GPT-3,",
@@ -107,6 +9,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/24/why-the-nonprofit-openai-made-gpt-3-a-commercial-product-syndication/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -157,6 +60,7 @@
       "webUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
       "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/08/24/how-the-human--machine-workforce-is-being-accelerated-by-covid-19/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -208,6 +112,7 @@
       "webUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
       "originalUrl": "https://www.zdnet.com/article/sugarcrm-acquires-node-an-ai-as-a-service-company/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -257,6 +162,7 @@
       "webUrl": "https://www.gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php",
       "originalUrl": "https://www.gamasutra.com/view/pressreleases/368731/Orangepixel_preparing_to_launch_the_first_of_a_dozen_games_on_Nintendo_Switch.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -289,6 +195,7 @@
       "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/24/three-tips-to-help-pharmacy-leaders-ensure-a-successful-digital-transformation/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -339,6 +246,7 @@
       "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
       "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/08/24/proptech-and-fintech-providers-fight-to-become-real-estate-market-leaders-in-switzerland/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -389,6 +297,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-medical-imaging-market-new-technologies-and-developments-2020-2026-2020-08-24",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -439,6 +348,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-301116255.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-301116255.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -480,6 +390,7 @@
       "webUrl": "https://www.youtube.com/watch?v=wNLK_f6m4e0&feature=emb_title",
       "originalUrl": "https://www.msn.com/en-us/news/world/gop-convention-to-kick-off-as-audio-emerges-of-trumps-sister-criticizing-him/vi-BB18ji91",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -520,6 +431,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/healthcare-information-technology-it-market-worth-usd-4418-billion-by-2025-2020-08-24",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -570,6 +482,7 @@
       "webUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
       "originalUrl": "https://www.wsj.com/articles/pandemic-has-online-sellers-leaning-on-cloud-11598261400",
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -621,6 +534,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
       "originalUrl": "https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -671,6 +585,7 @@
       "webUrl": "https://continuitycentral.com/index.php/news/resilience-news/5427-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience",
       "originalUrl": "https://continuitycentral.com/index.php/news/resilience-news/5427-researchers-use-artificial-intelligence-to-strengthen-power-grid-resilience",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -712,6 +627,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -762,6 +678,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2019-2026-2020-08-24?mod=mw_quote_news",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -812,6 +729,7 @@
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/08/24/dataiku-ai-enablement-for-enterprises-startup-raises-100-million-series-d/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -861,6 +779,7 @@
       "webUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
       "originalUrl": "https://www.business-standard.com/article/news-cm/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082400217_1.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -893,6 +812,7 @@
       "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -943,6 +863,7 @@
       "webUrl": "https://www.zdnet.com/article/nsw-government-taps-into-ai-and-satellite-data-for-bushfire-detection-and-prevention/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": null,
@@ -983,6 +904,7 @@
       "webUrl": "https://www.newelectronics.co.uk/electronics-news/socionext-and-osaka-university-develop-deep-learning-method-for-object-detection/229831/",
       "originalUrl": "https://www.newelectronics.co.uk/electronics-news/socionext-and-osaka-university-develop-deep-learning-method-for-object-detection/229831/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1015,6 +937,7 @@
       "webUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
       "originalUrl": "https://venturebeat.com/2020/08/23/the-term-ethical-ai-is-finally-starting-to-mean-something/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 116,
       "tags": null,
       "images": [
@@ -1066,6 +989,7 @@
       "webUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
       "originalUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1098,6 +1022,7 @@
       "webUrl": "https://www.foxnews.com/tech/ai-pilot-defeats-human-clean-sweep",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 123,
       "tags": null,
       "images": [
@@ -1136,6 +1061,99 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
+      "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
+      "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.md",
+      "title": "Moravian Academy junior is helping harness artificial intelligence to spot COVID-19",
+      "excerpt": "The teenager from Allentown is working with a Texas company to help speed diagnoses of the coronavirus illness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "originalUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GUA32VEINVBNXI4NNEZKMB77CA.jpg",
+          "width": 1899,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/coronavirus/2020/08/moravian-academy-junior-is-helping-harness-artificial-intelligence-to-spot-covid-19.html?outputType=amp",
+      "publishedDateTime": "2020-08-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

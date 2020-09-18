@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Philips’ Future Health Index 2020 report reveals new insights into younger doctors’ commitment to improving healthcare during COVID-19"
-    excerpt: "COVID-19, overtaking artificial intelligence 47% of younger doctors reported greater appreciation from patients; 44% experienced greater collaboration with colleagues across different skill sets Only 9% of"
-    publishedDateTime: 2020-09-13T09:45:00Z
-    webUrl: "https://www.nasdaq.com/press-release/philips-future-health-index-2020-report-reveals-new-insights-into-younger-doctors-0"
+  - title: "Panalgo Brings the Power of Machine-Learning to the Healthcare Industry Via Its Instant Health Data (IHD) Software"
+    excerpt: "Panalgo, a leading healthcare analytics company, today announced the launch of its new Data Science module for Instant Health Data (IHD), which allows data scientists and researchers to leverage machine-learning to uncover novel insights from the growing volume of healthcare data."
+    publishedDateTime: 2020-09-15T12:00:00Z
+    webUrl: "https://apnews.com/54e0a2a9351d49f4dfe215fc9aad6372"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pnIvWjTUaAqo+BhMLsSshO/HuIvZu6tY9+j1G+NO258s5XSIZXxm+YlRBrHGP9165YZ6SeoVavqK5xU8xjx33S2dTHSYQthBRklT9zEBPnrAHz/TFqrSE1JwM5/fKf/W7B1KVDD97otfSAJxeEhrmb9nM7n04FtQFGMAHkEg1XK12oVMXi70MJYJlO8Hw+b2HATZeUzkYFr5/dMPvn18vRXZpeKi8ahFTxcLCGJQ3bideo5bNJM2awTmC7sw498dYI85rCs755kVmCjGrjmUqnCAblNz/EGb2JI8OBV0meJc5H6MstPRcAgdYKjkUMVlooK4M4facR+I8vj6hONhRrbEAy5Jn94ih871ROFd+yw=;jcvZDLwEYsIAVIJmcxNThg=="
 ---

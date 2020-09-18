@@ -2,105 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2020-08-27-machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Growth Probability, Key Vendors and Future Scenario Up To 2027",
-      "excerpt": "According to the study carried out by Acumen Research & Consulting, The Machine Learning as a Service (MLaaS) Market is projected to grow at noteworthy growing CAGR over the forecast period 2020 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-08-27",
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030.md",
-      "title": "AI in Social Media Market Size, Share, CAGR and Forecast 2020 to 2030",
-      "excerpt": "The global AI in Social Media Market is anticipated to propel at a growth rate of 20% (approx.) during forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-size-share-cagr-and-forecast-2020-to-2030-2020-08-27",
-      "featuredContent": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-27-smart-home-market-worth-144-billion-by-2025.md",
       "title": "Smart Home Market Worth $144 Billion by 2025.",
       "excerpt": "Smart home is a suitable home system where appliances and devices can be controlled remotely from any internet connected place in the world using a smartphone or any other networked devices The smart home system requires an interface application or",
@@ -108,6 +9,7 @@
       "webUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
       "originalUrl": "https://www.openpr.com/news/2122412/smart-home-market-worth-144-billion-by-2025",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -149,6 +51,7 @@
       "webUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
       "originalUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -190,6 +93,7 @@
       "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
       "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -231,6 +135,7 @@
       "webUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
       "originalUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -280,6 +185,7 @@
       "webUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
       "originalUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -321,6 +227,7 @@
       "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
       "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -362,6 +269,7 @@
       "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
       "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -403,6 +311,7 @@
       "webUrl": "https://www.lelezard.com/en/news-19380767.html",
       "originalUrl": "https://www.lelezard.com/en/news-19380767.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -444,6 +353,7 @@
       "webUrl": "https://hoantonthat.com/",
       "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
       "featuredContent": null,
+      "highlight": null,
       "heat": 173,
       "tags": null,
       "images": [
@@ -494,6 +404,7 @@
       "webUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -543,6 +454,7 @@
       "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/",
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/08/26/bipartisan-policy-center-and-ethics-policy-for-artificial-intelligence-inside-the-beltway-thinking-is-still-an-issue/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -593,6 +505,7 @@
       "webUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
       "originalUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -634,6 +547,7 @@
       "webUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
       "originalUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -683,6 +597,7 @@
       "webUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
       "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -724,6 +639,7 @@
       "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -774,6 +690,7 @@
       "webUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
       "originalUrl": "https://www.nextbigfuture.com/2020/08/us-increases-funding-for-ai-and-quantum-information-science.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -815,6 +732,7 @@
       "webUrl": "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems",
       "originalUrl": "https://www.ucdavis.edu/news/uc-davis-lead-new-artificial-intelligence-institute-next-generation-food-systems",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -856,6 +774,7 @@
       "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -906,6 +825,7 @@
       "webUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
       "originalUrl": "https://www.hpcwire.com/off-the-wire/tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -947,6 +867,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -979,6 +900,7 @@
       "webUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
       "originalUrl": "https://www.forbes.com/sites/steveculp/2020/08/26/why-banks-need-to-sharpen-their-focus-on-financial-crime/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1029,6 +951,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1079,6 +1002,7 @@
       "webUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
       "originalUrl": "https://www.benzinga.com/news/20/08/17251073/warehouse-picking-robot-startup-xyz-raises-17-million",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1109,6 +1033,99 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
+      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
+      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
+          "width": 741,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "publishedDateTime": "2020-08-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
+      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
+      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "publishedDateTime": "2020-08-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

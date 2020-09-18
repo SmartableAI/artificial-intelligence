@@ -9,6 +9,7 @@
       "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "featuredContent": null,
+      "highlight": null,
       "heat": 384,
       "tags": null,
       "images": [
@@ -59,6 +60,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -109,6 +111,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -159,6 +162,7 @@
       "webUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
       "originalUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": null,
@@ -191,6 +195,7 @@
       "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
       "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -232,6 +237,7 @@
       "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -282,6 +288,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -325,47 +332,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain “fail-safe trajectories at all times”, meaning they move at a speed and direction allowing them to avoid collisions with other vehicles being driven legally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
-      "originalUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "publishedDateTime": "2020-09-14T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
       "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
       "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
@@ -373,6 +339,7 @@
       "webUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
       "originalUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -423,6 +390,7 @@
       "webUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
       "originalUrl": "https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -473,6 +441,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
       "featuredContent": null,
+      "highlight": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -523,6 +492,7 @@
       "webUrl": "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704",
       "originalUrl": "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -564,6 +534,7 @@
       "webUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
       "originalUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -605,6 +576,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -655,6 +627,7 @@
       "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
       "originalUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": null,
@@ -696,6 +669,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/",
       "originalUrl": "https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -746,6 +720,7 @@
       "webUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
       "originalUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -778,6 +753,7 @@
       "webUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?time=1599650641",
       "originalUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?time=1599650641",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -810,6 +786,7 @@
       "webUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
       "originalUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -842,6 +819,7 @@
       "webUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
       "originalUrl": "https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -892,6 +870,7 @@
       "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
       "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-08/aeva-partners-with-auto-supplier-zf-to-produce-key-self-driving-sensors",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -933,6 +912,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/08/consumer-reports-unmasks-teslas-full-self-driving-mystique-heres-the-upshot/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -983,6 +963,7 @@
       "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
       "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1034,6 +1015,7 @@
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -1084,6 +1066,7 @@
       "webUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
       "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -1134,6 +1117,7 @@
       "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
       "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1175,6 +1159,7 @@
       "webUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
       "originalUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1225,6 +1210,7 @@
       "webUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
       "originalUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1266,6 +1252,7 @@
       "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/",
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1316,6 +1303,7 @@
       "webUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
       "originalUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1337,6 +1325,57 @@
         "name": "SFGate",
         "domain": "sfgate.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-yandex-and-uber-spin-off-self-driving-division.md",
+      "title": "Yandex and Uber spin-off self-driving division",
+      "excerpt": "Russian technology company Yandex and American ride-sharing firm Uber partnered to develop self-driving vehicles, but on Friday, the two companies announced they're spinning this joint venture off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
+      "originalUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/U5E9F3OpPEZ6uR4Rhww4QIovyUw=/2019/07/11/66dc6beb-e710-47b0-aa8e-973ad2f335d6/yandex-hyundai-mobis-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
+      "publishedDateTime": "2020-09-04T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

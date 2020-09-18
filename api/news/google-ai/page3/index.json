@@ -9,6 +9,7 @@
       "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21137976/medical-vampire-robot-seeks-human-vein-inserts-needle-sucks-blood",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -50,6 +51,7 @@
       "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -102,6 +104,7 @@
       "webUrl": "https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -143,6 +146,7 @@
       "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -195,6 +199,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/29/elon-musk-deepmind-ai.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -245,6 +250,7 @@
       "webUrl": "https://www.geeky-gadgets.com/reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95-2-29-07-2020/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -286,6 +292,7 @@
       "webUrl": "https://gizmodo.com/the-most-futuristic-predictions-that-came-true-in-2017-1821226186",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -336,6 +343,7 @@
       "webUrl": "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -379,6 +387,7 @@
       "webUrl": "https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -429,6 +438,7 @@
       "webUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -479,6 +489,7 @@
       "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21137620/digital-dev-boards-reach-the-zenith-of-sophistication-and-application",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -520,6 +531,7 @@
       "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -572,6 +584,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -623,6 +636,7 @@
       "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -673,6 +687,7 @@
       "webUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -714,6 +729,7 @@
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -764,6 +780,7 @@
       "webUrl": "https://www.imperial.ac.uk/news/200533/new-deepmind-scholarships-create-ai-study/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -805,6 +822,7 @@
       "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -846,6 +864,7 @@
       "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -896,6 +915,7 @@
       "webUrl": "https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -946,6 +966,7 @@
       "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21137317/inference-chips-benefit-from-a-concurrent-design-approach",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -987,6 +1008,7 @@
       "webUrl": "https://www.geeky-gadgets.com/last-minute-deal-save-95-on-the-ultimate-artificial-intelligence-scientist-certification-bundle-22-07-2020/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1019,6 +1041,7 @@
       "webUrl": "https://www.techzine.nl/nieuws/devops/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1060,6 +1083,7 @@
       "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1103,6 +1127,7 @@
       "webUrl": "https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1135,6 +1160,7 @@
       "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -1186,6 +1212,7 @@
       "webUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -1236,6 +1263,7 @@
       "webUrl": "https://rp-online.de/kultur/openai-und-deepmind-bestimmen-die-debatte-um-kuenstliche-intelligenz_aid-52218247",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1277,6 +1305,7 @@
       "webUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1328,6 +1357,7 @@
       "webUrl": "https://www.wrcbtv.com/story/42372982/vastsolutionsgroupcom-announces-partnership-with-google-and-tensorflow",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [

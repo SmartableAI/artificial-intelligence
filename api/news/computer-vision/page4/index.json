@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-11-facial-recognition-what-led-ed-bridges-to-take-on-south-wales-police.md",
+      "title": "Facial recognition: What led Ed Bridges to take on South Wales Police?",
+      "excerpt": "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-53742099",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53742099",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099",
+      "publishedDateTime": "2020-08-11T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
       "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
       "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
@@ -9,6 +60,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -59,6 +111,7 @@
       "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -109,6 +162,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 149,
       "tags": null,
       "images": [
@@ -159,6 +213,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -210,6 +265,7 @@
       "webUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 108,
       "tags": null,
       "images": [
@@ -260,6 +316,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -310,6 +367,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/10/finding-the-best-online-computer-vision-courses-for-2021/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -360,6 +418,7 @@
       "webUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -410,6 +469,7 @@
       "webUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -451,6 +511,7 @@
       "webUrl": "https://bdaily.co.uk/articles/2020/08/07/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -492,6 +553,7 @@
       "webUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
       "originalUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -544,6 +606,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
       "originalUrl": "https://www.fool.com/investing/2020/08/06/why-microvision-stock-got-decimated-today.aspx",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -594,6 +657,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -644,6 +708,7 @@
       "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -696,6 +761,7 @@
       "webUrl": "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -746,6 +812,7 @@
       "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8597437/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -787,6 +854,7 @@
       "webUrl": "https://gcn.com/articles/2020/08/05/detecting-adverstarial-computer-vision-attacks.aspx",
       "originalUrl": "https://gcn.com/articles/2020/08/05/detecting-adverstarial-computer-vision-attacks.aspx",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -828,6 +896,7 @@
       "webUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -878,6 +947,7 @@
       "webUrl": "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -919,6 +989,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -960,6 +1031,7 @@
       "webUrl": "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -1010,6 +1082,7 @@
       "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 179,
       "tags": null,
       "images": [
@@ -1060,6 +1133,7 @@
       "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 113,
       "tags": null,
       "images": [
@@ -1110,6 +1184,7 @@
       "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
       "originalUrl": "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1151,6 +1226,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 272,
       "tags": null,
       "images": [
@@ -1201,6 +1277,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -1251,6 +1328,7 @@
       "webUrl": "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 156,
       "tags": null,
       "images": [
@@ -1302,6 +1380,7 @@
       "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1334,6 +1413,7 @@
       "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1355,56 +1435,6 @@
         "name": "PaymentsJournal",
         "domain": "paymentsjournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-singapores-universal-studios-deploys-facial-recognition-for-entry.md",
-      "title": "Singapore's Universal Studios deploys facial recognition for entry",
-      "excerpt": "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state's latest foray with a technology that has stoked privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-singapore-universal-studios-idUSKBN24Z15D",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MU",
-          "width": 792,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z15D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D",
-      "publishedDateTime": "2020-08-03T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

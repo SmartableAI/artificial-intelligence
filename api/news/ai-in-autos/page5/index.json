@@ -2,56 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
-      "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
-      "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a24796857cd70276d476%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D668%26cropY2%3D4606",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
-      "publishedDateTime": "2020-08-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-30-5-artificial-intelligence-stocks-to-consider.md",
       "title": "5 Artificial Intelligence Stocks to Consider",
       "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Then there is Apollo. It is a self-driving platform that powers more than 100 autonomous vehicle types across 17 cities ...",
@@ -59,6 +9,7 @@
       "webUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -91,6 +42,7 @@
       "webUrl": "https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -132,6 +84,7 @@
       "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -173,6 +126,7 @@
       "webUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -223,6 +177,7 @@
       "webUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race",
       "originalUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": null,
@@ -264,6 +219,7 @@
       "webUrl": "https://www.designnews.com/designcon-2019-announces-keynote-speakers-uber-university-texas-and-uc-berkeley",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -296,6 +252,7 @@
       "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -338,6 +295,7 @@
       "webUrl": "https://www.albawaba.com/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -370,6 +328,7 @@
       "webUrl": "https://www.autoexpress.co.uk/car-news/ces-2017/98188/audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -411,6 +370,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -461,6 +421,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -511,6 +472,7 @@
       "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -561,6 +523,7 @@
       "webUrl": "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -611,6 +574,7 @@
       "webUrl": "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -661,6 +625,7 @@
       "webUrl": "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -702,6 +667,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -752,6 +718,7 @@
       "webUrl": "https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -784,6 +751,7 @@
       "webUrl": "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -825,6 +793,7 @@
       "webUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -866,6 +835,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 239,
       "tags": null,
       "images": [
@@ -916,6 +886,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -966,6 +937,7 @@
       "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
       "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1007,6 +979,7 @@
       "webUrl": "https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1048,6 +1021,7 @@
       "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -1098,6 +1072,7 @@
       "webUrl": "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1148,6 +1123,7 @@
       "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1199,6 +1175,7 @@
       "webUrl": "https://www.businessinsider.in/finance/6-scenarios-self-driving-cars-still-cant-handle/slidelist/53860744.cms",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1240,6 +1217,7 @@
       "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -1290,6 +1268,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": null,
@@ -1311,6 +1290,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-teslas-plan-for-level-5-not-feasible-experts-say.md",
+      "title": "Tesla's plan for Level 5 not feasible, experts say",
+      "excerpt": "During a remote appearance at the World Artificial Intelligence Conference in Shanghai ... For comparison's sake, Waymo, the self-driving company spun from Google, has deployed a handful of ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/teslas-plan-level-5-not-feasible-experts-say",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/3TESLA-MAIN_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

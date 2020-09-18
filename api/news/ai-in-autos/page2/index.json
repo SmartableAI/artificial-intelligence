@@ -2,56 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-05-yandex-and-uber-spin-off-self-driving-division.md",
-      "title": "Yandex and Uber spin-off self-driving division",
-      "excerpt": "Russian technology company Yandex and American ride-sharing firm Uber partnered to develop self-driving vehicles, but on Friday, the two companies announced they're spinning this joint venture off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "originalUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/U5E9F3OpPEZ6uR4Rhww4QIovyUw=/2019/07/11/66dc6beb-e710-47b0-aa8e-973ad2f335d6/yandex-hyundai-mobis-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "publishedDateTime": "2020-09-04T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too.md",
       "title": "TENET Is A Palindrome And Maybe Self-Driving Cars Ought To Be Reversible Too",
       "excerpt": "TENET and the reversibility of palindromes and self-driving cars. getty. The new sci-fi thriller Tenet has brought palindromes to the forefront of our minds, along with jolting us",
@@ -59,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -109,6 +60,7 @@
       "webUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
       "originalUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -141,6 +93,7 @@
       "webUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
       "originalUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -182,6 +135,7 @@
       "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -232,6 +186,7 @@
       "webUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
       "originalUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -273,6 +228,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -314,6 +270,7 @@
       "webUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
       "originalUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -355,6 +312,7 @@
       "webUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
       "originalUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -396,6 +354,7 @@
       "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
       "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -437,6 +396,7 @@
       "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -478,6 +438,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 134,
       "tags": null,
       "images": [
@@ -528,6 +489,7 @@
       "webUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
       "originalUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -569,6 +531,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
       "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-vehicle-lifecycle-updates/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -619,6 +582,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/01/elon-musks-neuralink-showcase-spurs-mind-copying-discussion-about-ai-and-self-driving-cars/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -669,6 +633,7 @@
       "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01",
       "originalUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-bring-driverless-trucks-in-texas-2020-09-01",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -701,6 +666,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -751,6 +717,7 @@
       "webUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
       "originalUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -801,6 +768,7 @@
       "webUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
       "originalUrl": "https://www.forbes.com/sites/arielcohen/2020/08/31/get-smart-ai-and-the-energy-sector-revolution/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -851,6 +819,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
       "originalUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -901,6 +870,7 @@
       "webUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
       "originalUrl": "https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -952,6 +922,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/28/it-is-nearly-unthinkable-that-i-think-therefore-i-am-applies-to-ai-possibly-even-self-driving-cars/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1002,6 +973,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1052,6 +1024,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-08-28",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1102,6 +1075,7 @@
       "webUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
       "originalUrl": "https://stockhouse.com/news/press-releases/2020/08/27/fox-robotics-raises-9m-for-self-driving-forklifts",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1134,6 +1108,7 @@
       "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
       "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1175,6 +1150,7 @@
       "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
       "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1216,6 +1192,7 @@
       "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -1266,6 +1243,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17252765/the-global-self-driving-taxi-market-is-expected-to-grow-by-78588-units-during-2020-2024-progressin",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1298,6 +1276,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-26/self-driving-shuttles-blast-uv-rays-to-stay-on-road-in-covid-era",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1321,6 +1300,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
+      "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
+      "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4593b29dbfd756e943c850%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/08/26/robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech/amp/",
+      "publishedDateTime": "2020-08-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

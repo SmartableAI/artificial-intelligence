@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
+      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
+      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
+      "publishedDateTime": "2020-07-22T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
       "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
       "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
@@ -9,6 +51,7 @@
       "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -59,6 +102,7 @@
       "webUrl": "https://www.designnews.com/automation-motion-control/computer-vision-enhances-crop-yield",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -100,6 +144,7 @@
       "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -151,6 +196,7 @@
       "webUrl": "https://www.menshealth.com/health/a33368634/doctor-explains-computer-vision-syndrome/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -192,6 +238,7 @@
       "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -242,6 +289,7 @@
       "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -285,6 +333,7 @@
       "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -326,6 +375,7 @@
       "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -358,6 +408,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -408,6 +459,7 @@
       "webUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -458,6 +510,7 @@
       "webUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -499,6 +552,7 @@
       "webUrl": "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -540,6 +594,7 @@
       "webUrl": "https://www.engadget.com/disneys-new-ai-is-facial-recognition-for-animation-163054440.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 304,
       "tags": null,
       "images": null,
@@ -581,6 +636,7 @@
       "webUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -631,6 +687,7 @@
       "webUrl": "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 298,
       "tags": null,
       "images": [
@@ -681,6 +738,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -722,6 +780,7 @@
       "webUrl": "https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -772,6 +831,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -814,6 +874,7 @@
       "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 128,
       "tags": null,
       "images": [
@@ -864,6 +925,7 @@
       "webUrl": "https://www.wxyz.com/news/region/detroit/facial-recognition-technology-led-to-this-detroiters-wrongful-arrest",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -905,6 +967,7 @@
       "webUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -955,6 +1018,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1006,6 +1070,7 @@
       "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -1056,6 +1121,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1106,6 +1172,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem-2020-07-15?mod=mw_quote_news",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1156,6 +1223,7 @@
       "webUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 179,
       "tags": null,
       "images": [
@@ -1206,6 +1274,7 @@
       "webUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 235,
       "tags": null,
       "images": [
@@ -1256,6 +1325,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -1309,6 +1379,7 @@
       "webUrl": "https://www.wsj.com/articles/massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition-11594773110",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1332,56 +1403,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-fundamentally-flawed-study-describes-facial-recognition-system-designed-to-identify-non-binary-people.md",
-      "title": "‘Fundamentally flawed’ study describes facial recognition system designed to identify non-binary people",
-      "excerpt": "In a study, researchers describe a controversial approach to designing facial recognition systems that can identify non-binary people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
-      "publishedDateTime": "2020-07-14T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,88 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-09-03-tech-stocks-5g-will-live-up-to-all-the-hype-heres-how-to-invest.md",
-      "title": "Tech stocks: 5G will live up to all the hype – here's how to invest",
-      "excerpt": "Taken together they are central to realising the potential from the key digital themes such as big data, artificial intelligence ... uses are discovered. For driverless vehicles, 5G is a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--ULKxhs4q--/v1599129501/1015_MW_P20_Cover-Story.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
-      "publishedDateTime": "2020-09-03T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
-      "title": "Scalise hit with ethics complaint over doctored Barkan video",
-      "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "originalUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scalisesteve_08242020hilltv.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
-      "publishedDateTime": "2020-09-03T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-altigen-acquires-blue-pandas-coreinteract-platform.md",
       "title": "Altigen Acquires Blue Panda’s CoreInteract Platform",
       "excerpt": "Adds Microsoft Teams Digital Customer Engagement Applications to Altigen’s Cloud Solutions Portfolio MILPITAS, CA / ACCESSWIRE / September 3, 2020 / Altigen Communications, Inc. (OTCQB:ATGN), a Silicon Valley-based Microsoft ISV and Cloud Solutions provider,",
@@ -91,6 +9,7 @@
       "webUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
       "originalUrl": "https://apnews.com/4dcb5edf5403fc47bdd3c3764f186ac8",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -132,6 +51,7 @@
       "webUrl": "https://mobile.twitter.com/zoubinghahrama1?lang=en",
       "originalUrl": "https://www.forbes.com/sites/alexanderlavin/2020/09/03/doing-the-hard-things-ai-space-and-climate-science/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -172,6 +92,7 @@
       "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
       "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -214,6 +135,7 @@
       "webUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
       "originalUrl": "https://www.nasdaq.com/articles/invest-in-miso-robotics-now-for-the-kitchen-of-the-future-2020-09-03",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -246,6 +168,7 @@
       "webUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "originalUrl": "https://mashable.com/article/autonomous-vehicles-2025/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -287,6 +210,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -337,6 +261,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
       "originalUrl": "https://www.cnet.com/roadshow/news/garmin-catalyst-ai-performance-analyzer-racing-coach-announced/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -386,6 +311,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-advancements-and-business-opportunities-2020-2025-2020-09-03",
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -436,6 +362,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -486,6 +413,7 @@
       "webUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
       "originalUrl": "https://www.today.ng/technology/nitda-plans-centre-artificial-intelligence-robotics-316206",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -527,6 +455,7 @@
       "webUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
       "originalUrl": "https://www.infoworld.com/article/3573776/the-distributed-cloud-era-has-arrived.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -577,6 +506,7 @@
       "webUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
       "originalUrl": "https://www.infoworld.com/article/3572346/using-robotics-and-immersive-technologies-to-support-work-from-home-employees.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -627,6 +557,7 @@
       "webUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
       "originalUrl": "https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -677,6 +608,7 @@
       "webUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "originalUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -727,6 +659,7 @@
       "webUrl": "https://analyticsindiamag.com/can-googles-new-ai-ethics-service-be-of-any-help/",
       "originalUrl": "https://analyticsindiamag.com/can-googles-new-ai-ethics-service-be-of-any-help/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -768,6 +701,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-aviation-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-impact-of-covid-19-pandemic-2020-09-03",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -818,6 +752,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -868,6 +803,7 @@
       "webUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
       "originalUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -918,6 +854,7 @@
       "webUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
       "originalUrl": "https://venturebeat.com/2020/09/02/biofourmis-raises-100-million-for-ai-remote-medical-tools/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -967,6 +904,7 @@
       "webUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
       "originalUrl": "https://www.wsj.com/articles/biofourmis-raises-100-million-financing-led-by-softbank-11599083717",
       "featuredContent": null,
+      "highlight": null,
       "heat": 187,
       "tags": null,
       "images": [
@@ -1016,6 +954,7 @@
       "webUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
       "originalUrl": "https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -1065,6 +1004,7 @@
       "webUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
       "originalUrl": "https://www.zdnet.com/article/fujitsu-and-tokyo-shinagawa-hospital-to-develop-ai-for-covid-19-pneumonia-diagnosis/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -1114,6 +1054,7 @@
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/02/siri-shortcuts-and-google-assistant-shortcuts-reveal-the-future-and-danger-of-smart-ai-assistants/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1152,6 +1093,81 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
+      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
+      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
+      "sourceUrl": null,
+      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
+          "width": 1155,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
+      "publishedDateTime": "2020-09-02T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Got This Covered",
+        "domain": "wegotthiscovered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-altigen-buys-blue-pandas-coreinteract-platform.md",
+      "title": "Altigen buys Blue Panda's CoreInteract platform",
+      "excerpt": "and using Microsoft Cognitive Services. CoreInteract will become generally available in the fourth quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "originalUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

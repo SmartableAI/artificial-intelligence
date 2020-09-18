@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-p
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
-    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2020-09-14T14:28:00Z
-    webUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/"
-    ampWebUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 58
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
-        width: 800
-        height: 360
         isCached: true
 
 secured: "MLK6h2rsbD6uh3HcnomDmh5kqQqiGQ++g3Dx6YbTaeTpmGlssgPdUuJ8HIZVTIH/PA522OSLDSmEbT0jaqa7STOUPmETiQ46CTS+uBVksmjG0ZZ3Ym3jz7bRXiso9NWwgkM2uUrluQncb7c9s+38+QBEVUy++A/SDxPkzCqHtDxFXQIq4zl2VNcrgPtKQcBLlXsvOO4opwZJiz6SSyY5QrVWv8CkdRKdqPoVMUP5L5TQ65RsO9/qovP5OW7GZV2+mqvPDu+RWk/HBCIJZdZa0PFajcrDrGUuH91GlVF9pLBW4UdWC6EhlmOEeHqEoGzzaSFqrE4A3l/xTs/Lso0rmRkI9TWsgxwbnTUKyJFgdNKT0SkEs5/j/oMRChvSBU+EKPLconOe1RrZ4S8Xe306XWdqyHm5qWUVAxnOIH08QT7nQNQ1oqPl6mbMzxwlARsm8wJazHGSkb4mtktwjJePriefh8KghWwFD4Vo1bTzZ8AR7/EvqqsAKI15oz3rxNx+eieWgBl4EthrBYqh5+BBXQ==;R5PZse9116Fd/MXjQInYTg=="

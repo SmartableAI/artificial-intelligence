@@ -2,97 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-08-17-autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program.md",
-      "title": "AutoX launches its RoboTaxi service in Shanghai, competing with Didi’s pilot program",
-      "excerpt": "Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/",
-      "originalUrl": "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/",
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/WechatIMG20.jpeg?w=1024",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/amp/",
-      "publishedDateTime": "2020-08-16T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
-      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
-      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "originalUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "publishedDateTime": "2020-08-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-17-data-lakes-vs-data-warehouses-common-arguments.md",
       "title": "Data Lakes vs. Data Warehouses – common arguments",
       "excerpt": "While some data warehouses extend their SQL-based access to offer machine learning functionality, they do not offer native support to run widely available, programmatic data processing frameworks such as Apache Spark, Tensorflow and more. In contrast ...",
@@ -100,6 +9,7 @@
       "webUrl": "https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/",
       "originalUrl": "https://www.dqindia.com/data-lakes-vs-data-warehouses-common-arguments/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -132,6 +42,7 @@
       "webUrl": "https://sbr.com.sg/hr-education/more-news/dbs-amazon-web-services-upskill-staff-ai-and-ml-skills",
       "originalUrl": "https://sbr.com.sg/hr-education/more-news/dbs-amazon-web-services-upskill-staff-ai-and-ml-skills",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -173,6 +84,7 @@
       "webUrl": "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -223,6 +135,7 @@
       "webUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
       "originalUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -265,6 +178,7 @@
       "webUrl": "https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -314,6 +228,7 @@
       "webUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "originalUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -355,6 +270,7 @@
       "webUrl": "https://www.nature.com/articles/s42256-020-0217-y",
       "originalUrl": "https://www.nature.com/articles/s42256-020-0217-y",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -387,6 +303,7 @@
       "webUrl": "https://www.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
       "originalUrl": "https://www.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -437,6 +354,7 @@
       "webUrl": "https://www.tcs.com/perspectives/articles/riding-the-cognitive-wave",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -469,6 +387,7 @@
       "webUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
       "originalUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -510,6 +429,7 @@
       "webUrl": "https://www.engadget.com/white-house-2021-budget-ai-quantum-funding-164719748.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -559,6 +479,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -609,6 +530,7 @@
       "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/",
       "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -650,6 +572,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -699,6 +622,7 @@
       "webUrl": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 158,
       "tags": null,
       "images": [
@@ -749,6 +673,7 @@
       "webUrl": "https://www.engadget.com/vid2play-morning-after-130536768.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -798,6 +723,7 @@
       "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
       "originalUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
       "featuredContent": null,
+      "highlight": null,
       "heat": 113,
       "tags": null,
       "images": [
@@ -840,6 +766,7 @@
       "webUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
       "originalUrl": "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876",
       "featuredContent": null,
+      "highlight": null,
       "heat": 154,
       "tags": null,
       "images": [
@@ -890,6 +817,7 @@
       "webUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
       "originalUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -922,6 +850,7 @@
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -971,6 +900,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1022,6 +952,7 @@
       "webUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
       "originalUrl": "https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1063,6 +994,7 @@
       "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -1101,6 +1033,108 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
+      "title": "Clearview AI landed a new facial recognition contract with ICE",
+      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "publishedDateTime": "2020-08-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-automl.md",
+      "title": "Настройка гиперпараметров и AutoML",
+      "excerpt": "В приведенном ниже комплексном примере записной книжки с помощью Hyperopt и SparkTrials выполняется параллельный перебор гиперпараметров для одновременного обучения нескольких моделей.The following en",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/ru-ru/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

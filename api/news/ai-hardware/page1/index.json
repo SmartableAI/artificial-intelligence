@@ -9,6 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
       "originalUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -59,7 +60,8 @@
       "webUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
       "originalUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
       "featuredContent": null,
-      "heat": 99,
+      "highlight": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -109,6 +111,7 @@
       "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 148,
       "tags": null,
       "images": [
@@ -161,6 +164,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
       "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -211,6 +215,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
       "originalUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -261,6 +266,7 @@
       "webUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
       "originalUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -312,6 +318,7 @@
       "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
       "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -362,6 +369,7 @@
       "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
       "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -412,6 +420,7 @@
       "webUrl": "https://www.thestreet.com/tech/news/nvidia091420",
       "originalUrl": "https://www.thestreet.com/tech/news/nvidia091420",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -454,6 +463,7 @@
       "webUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
       "originalUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -495,6 +505,7 @@
       "webUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
       "originalUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -545,7 +556,8 @@
       "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
       "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
       "featuredContent": null,
-      "heat": 129,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -595,6 +607,7 @@
       "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
       "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -636,6 +649,7 @@
       "webUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
       "originalUrl": "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -686,7 +700,8 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/",
       "featuredContent": null,
-      "heat": 109,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -736,7 +751,8 @@
       "webUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
       "originalUrl": "https://www.pcworld.com/article/3574961/nvidia-will-buy-arm-for-up-to-40-billion-combining-smartphone-gpu-powerhouses.html",
       "featuredContent": null,
-      "heat": 124,
+      "highlight": null,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -786,6 +802,7 @@
       "webUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
       "originalUrl": "https://www.bbc.co.uk/news/technology-54142567?intlink_from_url=&link_location=live-reporting-story",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -827,6 +844,7 @@
       "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
       "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -877,6 +895,7 @@
       "webUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
       "originalUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -918,6 +937,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -969,6 +989,7 @@
       "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
       "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1010,6 +1031,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -1060,6 +1082,7 @@
       "webUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
       "originalUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -1110,6 +1133,7 @@
       "webUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
       "originalUrl": "https://www.gizmochina.com/2020/09/10/mediatek-to-announce-6nm-arm-chips-for-chromebooks-next-year/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1160,6 +1184,7 @@
       "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
       "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1201,6 +1226,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1251,6 +1277,7 @@
       "webUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
       "originalUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
       "featuredContent": null,
+      "highlight": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -1292,6 +1319,7 @@
       "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
       "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -1333,6 +1361,7 @@
       "webUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
       "originalUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1374,6 +1403,7 @@
       "webUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
       "originalUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": null,

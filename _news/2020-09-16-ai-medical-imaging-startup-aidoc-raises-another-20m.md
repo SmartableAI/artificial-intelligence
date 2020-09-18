@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
+    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
+    publishedDateTime: 2020-09-15T13:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 28
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "r8TFCgUuLme2bloU1HTYsTURI5MBtHavvCnjFDWXepyRHYuiah5xS/4R2+3cPMVorCdw5znJ90Jft4IsNnhL4T9TkO9X5lX7aTVJr00HZM9Lx/i389NWgOP6fG0+H5RjIJZ/cF1xbI3Q7ODlW15DQrUgYOu8gn1f/T1AeIH+lvF9ZOLw0MlKxqmDTqDdRWUJPp8qef3J4rEO/yWOYQPbslvMhlE/UoXBkPzmapqUG+t5QcqCIrqI21IHgxGW5ObyWi8dHUi911N/TFMhkXFDpMFrWVFSLdX/GKLM/QNXL6/F9zU8a9UPatRXAl/kFNLqjStfD7hujNsTVgKTSxIMteLfdIg5rMPD2qneXV/bmBY=;MY4ZH4nw1FCN2P7aUYSkcg=="
 ---

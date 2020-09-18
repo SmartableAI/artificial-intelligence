@@ -2,87 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2020-08-14-natural-language-processing-market-is-growing-significantly-google-ibm-microsoft-intel-apple-aws-facebook-and-others.md",
-      "title": "Natural Language Processing Market Is Growing Significantly | Google, IBM, Microsoft, Intel, Apple, AWS, Facebook and Others.",
-      "excerpt": "The report titled Natural Language Processing Market sheds a concentrated focus on the Natural Language Processing industry in terms of market driver opportunities restraints of global segmentation Further data on the reports also includes demographic conditions over turning changing business",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "originalUrl": "https://www.openpr.com/news/2112815/natural-language-processing-market-is-growing-significantly",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T814195621_g.jpg",
-          "width": 640,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112815/natural-language-processing-market-is-growing-significantly",
-      "publishedDateTime": "2020-08-14T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-latent-ai-wins-2020-startup-of-the-year-award-from-iot-world.md",
-      "title": "Latent AI Wins 2020 Startup of the Year Award from IoT World",
-      "excerpt": "Latent AI, creators of the Latent AI Efficient Inference Platform (LEIP) and the latest spinout from SRI International, has been recognized as the 2020 \"Startup of the Year\" from IoT World during their virtual awards ceremony on August 12,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/latent-ai-wins-2020-startup-of-the-year-award-from-iot-world-1029504377",
-      "publishedDateTime": "2020-08-14T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
       "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
       "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
@@ -90,6 +9,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -139,6 +59,7 @@
       "webUrl": "https://www.entrepreneur.com/article/354749",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -188,6 +109,7 @@
       "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 214,
       "tags": null,
       "images": [
@@ -238,6 +160,7 @@
       "webUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -279,6 +202,7 @@
       "webUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
       "originalUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -320,6 +244,7 @@
       "webUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
       "originalUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -361,6 +286,7 @@
       "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -411,6 +337,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -461,6 +388,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": null,
@@ -502,6 +430,7 @@
       "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -544,6 +473,7 @@
       "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -585,6 +515,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
       "originalUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -626,6 +557,7 @@
       "webUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -676,6 +608,7 @@
       "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
       "originalUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -726,6 +659,7 @@
       "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
       "originalUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -767,6 +701,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -817,6 +752,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 209,
       "tags": null,
       "images": [
@@ -867,6 +803,7 @@
       "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "originalUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -918,6 +855,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&tesla=y",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -968,6 +906,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1000,6 +939,7 @@
       "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
       "originalUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1041,6 +981,7 @@
       "webUrl": "https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1082,6 +1023,7 @@
       "webUrl": "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1120,6 +1062,89 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-no-facebook-isnt-getting-political-clickbait-out-of-its-news-tab.md",
+      "title": "No, Facebook Isn’t Getting Political Clickbait Out Of Its News Tab",
+      "excerpt": "The last item represents a major venture into supporting news publishers. Facebook News headlines, curated by humans and algorithms ... There are real problems here, as Snopes noted in a 2019 ...",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/",
+      "originalUrl": "https://www.forbes.com/sites/robpegoraro/2020/08/13/no-facebook-isnt-getting-political-clickbait-out-of-its-news-tab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-us-west-1.amazonaws.com/rks-inside-prod/twitter-card.jpg",
+          "width": 1600,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions.md",
+      "title": "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions",
+      "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17075029",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17075029",
+      "publishedDateTime": "2020-08-13T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

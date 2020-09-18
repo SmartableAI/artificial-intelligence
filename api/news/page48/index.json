@@ -2,105 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2020-08-11-seattle-based-threat-response-startup-stabilitas-acquired-by-onsolve.md",
-      "title": "Seattle-based threat response startup Stabilitas acquired by OnSolve",
-      "excerpt": "Critical event management company OnSolve today announced the acquisition of Stabilitas, a 7-year-old Seattle startup that sells threat response software. Stabilitas combines crowdsourced",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/11/5ada3a2ffcceb96958cf2d96_Screen20Shot202017-09-2120at2017.41.18-p-500-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "publishedDateTime": "2020-08-11T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-hyundai-aptiv-name-self-driving-joint-venture-motional.md",
-      "title": "Hyundai, Aptiv name self-driving joint venture Motional",
-      "excerpt": "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ",
-          "width": 849,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "publishedDateTime": "2020-08-11T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-natural-language-processing-the-future-of-the-enterprise.md",
       "title": "Natural Language Processing: the future of the enterprise",
       "excerpt": "At the heart of many of these applications? Natural Language Processing (NLP). Here we introduce NLP, some of its most popular applications today and how it can play a transformational role in ...",
@@ -108,6 +9,7 @@
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the",
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -158,6 +60,7 @@
       "webUrl": "https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -199,6 +102,7 @@
       "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -249,6 +153,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -290,6 +195,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53742099",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -340,6 +246,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -390,6 +297,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -439,6 +347,7 @@
       "webUrl": "https://www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -488,6 +397,7 @@
       "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -529,6 +439,7 @@
       "webUrl": "https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -578,6 +489,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -610,6 +522,7 @@
       "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -659,6 +572,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -709,6 +623,7 @@
       "webUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
       "originalUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -751,6 +666,7 @@
       "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -801,6 +717,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -850,6 +767,7 @@
       "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -900,6 +818,7 @@
       "webUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 141,
       "tags": null,
       "images": [
@@ -950,6 +869,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for-complex-cases-301109974.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -991,6 +911,7 @@
       "webUrl": "https://www.zdnet.com/video/artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -1040,6 +961,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 127,
       "tags": null,
       "images": [
@@ -1089,6 +1011,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 159,
       "tags": null,
       "images": [
@@ -1139,6 +1062,7 @@
       "webUrl": "https://www.leiphone.com/news/202008/hBACeSbAY8PIOcbh.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1169,6 +1093,109 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-python-powered-machine-learning-tool-drives-robot-farming-project.md",
+      "title": "Python-powered machine-learning tool drives robot farming project",
+      "excerpt": "Blue River Technology is using the Python-based machine-learning framework to develop smarter crop-spraying tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/31093303-12fd-4ee2-aaf0-01b2ced00cb6/117209681-649532229249033-1834877204712057685-n.png",
+          "width": 512,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
+      "publishedDateTime": "2020-08-11T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
+      "title": "Facial recognition use by South Wales Police 'unlawful'",
+      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
+      "publishedDateTime": "2020-08-11T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

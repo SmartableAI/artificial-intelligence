@@ -52,20 +52,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
-    excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
-    publishedDateTime: 2020-09-13T10:55:00Z
-    webUrl: "https://www.lbcgroup.tv/news/regional/547269/uae-israeli-educational-institutions-sign-artifici/en"
-    type: article
-    provider:
-      name: LBCI Lebanon
-      domain: lbcgroup.tv
-    quality: 37
-    images:
-      - url: "https://www.lbcgroup.tv/newsimages/News-P-547269-637355907631419226.jpg"
-        width: 836
-        height: 470
-        isCached: true
   - title: "UAE AI University, Weizmann Inst. sign MoU to collaborate on AI research"
     excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""
     publishedDateTime: 2020-09-13T19:22:00Z

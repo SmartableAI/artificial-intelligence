@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Elad-Walach-Pic.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
+    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
+    publishedDateTime: 2020-09-15T13:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 28
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "nXJjajGTNyf1sKwLEsJJiBcY+DQHc4J1PjS0McLZPHydayctMsLVEYimgddfnT9kX/azlMpDevvyWsupuwbaDkCa0surXtcCNr7JdR6tgU39U+lIgJIdM0jCyf270XKIej5DXZ2XBRnBigJN+vWnSxTGx2FUk0lXTEyMsVoZoKPxAfOKN6ToBxvpBmAq8W6db37zD2DEehgjhTB4zmPg48U7af49uwt3gKMihP7AZTS1H0IS/0PIEs9SGJeS9moty+8alao8BlxBEarvy96ExtILMMOUQ+5FB4GEGEftCqCEgWja8bQGaHxxyR261jMA7xBH45DWrpxh93IBOAA16PX1Xtdik9mngm4sedB69jonRNKw3hvU5A8mIcGYdjDA7hUdYnJXBDGPup/lBwbnCkU6e7/IyVQb19Iv6s12ujotTxgP1cYNqUoLrzS/AENllJXwD2aJZ8al3ntMJE0tlLXZLsjz3namZF6jfRv8ucevOqN4cGzK/Hi6QiGNq8oe467Rc9hj6pPIGSaG5olXug==;OA07U/XUUN8kHOkvD8+zFg=="

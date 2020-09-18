@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-i
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Chipsets Market Research Report 2020-2027 of Major Types, Applications and Competitive Vendors in Top Regions and Countries"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-09-16T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2020-2027-of-major-types-applications-and-competitive-vendors-in-top-regions-and-countries-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mJOufw7WH8xt4uGeGh7GCLUCuQYQOdmYrxq3EN/hpzWghgnZFyAI+vNOghj2L0aV4Jk0f5m5mLGfxjlLJt92wJuO61cpT3dExybggwnTJ5IOhYlQ7kN0/L9eL3nWgguga1sA5178pQP58iCXxTi2jhZBn7WlAuEYUibybst/kJubgmiHSdVy2tep1S9Slp0L6VPXeQCygn+2avOZ+speKo3sQ7r7euKQnM1wji5NMheZWFwK7N0y3PdKAfoPpqKkfRFCMz1KDT4oaa/YMg9orEQ6hvA369rMmui3f+dtv9MnKBohxDIZq8CdssXr/JPJkqTX98C9nRXze+U3odi6peDgyruAvhBiIToeNIzwRFY=;sI/jOU68GPHvJ3Ggf/dSiQ=="
 ---

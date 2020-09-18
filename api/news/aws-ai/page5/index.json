@@ -9,6 +9,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -59,6 +60,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws-2020-07-24",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -109,6 +111,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -159,6 +162,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -209,6 +213,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -259,6 +264,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200722005133/en/UiPath-Announces-Integrations-Amazon-Web-Services-Organizations",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -300,6 +306,7 @@
       "webUrl": "https://techent.tv/2020/07/22/frost-sullivan-applaudes-aws-for-leading-the-automotive-cloud-services-market-with-a-comprehensive-suite-of-solutions/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -341,6 +348,7 @@
       "webUrl": "https://www.newswiretoday.com/news/173330/Frost-and-Sullivan-Applauds-AWS-for-Leading-the-Automotive-Cloud-Services-Market-with-a-Comprehensive-Suite-of-Solutions/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -373,6 +381,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -423,6 +432,7 @@
       "webUrl": "https://www.ryt9.com/s/prg/3143656",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -464,6 +474,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -514,6 +525,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -564,6 +576,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -614,6 +627,7 @@
       "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -646,6 +660,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200715005929/en/AWS-Announces-Amazon-Interactive-Video-Service-Amazon",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -687,6 +702,7 @@
       "webUrl": "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -739,6 +755,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -789,6 +806,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200715005132/en/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -830,6 +848,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/aws-and-hsbc-reach-long-term-strategic-cloud-agreement-2020-07-15",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -880,6 +899,7 @@
       "webUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -921,6 +941,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -971,6 +992,7 @@
       "webUrl": "https://www.techrepublic.com/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1021,6 +1043,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1071,6 +1094,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -1121,6 +1145,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/b16449200/capella-space-goes-all-in-on-aws",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1162,6 +1187,7 @@
       "webUrl": "https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1212,6 +1238,7 @@
       "webUrl": "https://www.cbronline.com/news/aws-ai-services",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1253,6 +1280,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [

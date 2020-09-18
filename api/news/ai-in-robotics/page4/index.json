@@ -2,80 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-19-robotics-and-artificial-intelligence-etf-irbo-at-52-week-high.md",
-      "title": "Robotics and Artificial Intelligence ETF (IRBO) at 52-Week High",
-      "excerpt": "For investors looking for momentum, iShares Robotics and Artificial Intelligence Multisector ETF IRBO is probably a suitable pick. The fund just hit a 52-week high and is up 71.9%",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-and-artificial-intelligence-etf-irbo-at-52-week-high-2020-08-19?amp",
-      "publishedDateTime": "2020-08-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-amp-robotics-accelerates-growth-with-key-leadership-hires.md",
-      "title": "AMP Robotics Accelerates Growth With Key Leadership Hires",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the glob",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
-      "originalUrl": "https://www.businesswire.com/news/home/20200819005638/en/AMP-Robotics-Accelerates-Growth-Key-Leadership-Hires",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200819005638/en/813724/23/AMP_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-19-artificial-intelligence-automation-and-robotics.md",
       "title": "Artificial intelligence, automation and robotics",
       "excerpt": "We look at how AI and data science are supporting the global push to deal with the coronavirus pandemic. We reveal, and talk to, the man behind the world’s first computer virus pandemic, the ...",
@@ -83,6 +9,7 @@
       "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
       "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -115,6 +42,7 @@
       "webUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -156,6 +84,7 @@
       "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -197,6 +126,7 @@
       "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
       "originalUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -247,6 +177,7 @@
       "webUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
       "originalUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -289,6 +220,7 @@
       "webUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
       "originalUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -330,6 +262,7 @@
       "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -372,6 +305,7 @@
       "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -413,6 +347,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -463,6 +398,7 @@
       "webUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "originalUrl": "https://venturebeat.com/2020/08/13/ai-researchers-devise-cheap-data-collection-method-to-scale-training-robots/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -514,6 +450,7 @@
       "webUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
       "originalUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -564,6 +501,7 @@
       "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "originalUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -614,6 +552,7 @@
       "webUrl": "https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -664,6 +603,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -705,6 +645,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 122,
       "tags": null,
       "images": [
@@ -755,6 +696,7 @@
       "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -797,6 +739,7 @@
       "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -847,6 +790,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -888,6 +832,7 @@
       "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -938,6 +883,7 @@
       "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -988,6 +934,7 @@
       "webUrl": "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 111,
       "tags": null,
       "images": [
@@ -1039,6 +986,7 @@
       "webUrl": "https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1080,6 +1028,7 @@
       "webUrl": "https://www.openpr.com/news/2108907/artificial-intelligence-ai-in-agriculture-market-next-big",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1121,6 +1070,7 @@
       "webUrl": "https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -1162,6 +1112,7 @@
       "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1203,6 +1154,7 @@
       "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
       "originalUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1244,6 +1196,7 @@
       "webUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1285,6 +1238,7 @@
       "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1326,6 +1280,100 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
+      "title": "3 Daunting Ways AI Will Transform The World Of Work",
+      "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2cd5b7552557925d573987%2F0x0.jpg",
+          "width": 1199,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "publishedDateTime": "2020-08-06T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
+      "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
+      "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
+      "publishedDateTime": "2020-08-05T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

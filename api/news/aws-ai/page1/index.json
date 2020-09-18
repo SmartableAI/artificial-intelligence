@@ -9,7 +9,8 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
       "featuredContent": null,
-      "heat": 109,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -59,6 +60,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -109,6 +111,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-available-in-frankfurt/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -159,6 +162,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-training-time-with-apache-mxnet-and-horovod-on-amazon-sagemaker/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 123,
       "tags": null,
       "images": [
@@ -209,6 +213,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -259,6 +264,7 @@
       "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
       "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -310,6 +316,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -360,6 +367,7 @@
       "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
       "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -411,6 +419,7 @@
       "webUrl": "https://www.barrons.com/quote/stock/us/xnas/ps",
       "originalUrl": "https://www.barrons.com/quote/stock/us/xnas/ps",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -443,6 +452,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-devfactory-builds-better-applications-with-amazon-codeguru/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-devfactory-builds-better-applications-with-amazon-codeguru/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -493,6 +503,7 @@
       "webUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
       "originalUrl": "https://venturebeat.com/2020/09/10/duckienet-lets-developers-test-autonomous-vehicle-systems-using-toy-cars/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -543,6 +554,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualizing-tensorflow-training-jobs-with-tensorboard/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -593,6 +605,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
       "originalUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -643,6 +656,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-sophisticated-conversational-experience-using-amazon-lex-in-australian-english/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-sophisticated-conversational-experience-using-amazon-lex-in-australian-english/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -693,6 +707,7 @@
       "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -743,6 +758,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
       "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -793,6 +809,7 @@
       "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
       "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -844,6 +861,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -886,6 +904,7 @@
       "webUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
       "originalUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -936,6 +955,7 @@
       "webUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
       "originalUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -977,6 +997,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -1027,6 +1048,7 @@
       "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
       "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1077,6 +1099,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1127,6 +1150,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
       "originalUrl": "https://www.businesswire.com/news/home/20200902005251/en/Weta-Digital-Advances-Visual-Effects-Animation-Cloud",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1168,6 +1192,7 @@
       "webUrl": "https://www.pravda.ru/science/1505941-Amazon/",
       "originalUrl": "https://www.pravda.ru/science/1505941-Amazon/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1209,6 +1234,7 @@
       "webUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
       "originalUrl": "https://www.zdnet.com/article/aussie-researchers-leverage-compute-power-to-analyse-genomic-data-and-match-donors/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -1259,6 +1285,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -1309,6 +1336,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1359,6 +1387,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-aws-privatelink/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1409,6 +1438,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
       "originalUrl": "https://www.businesswire.com/news/home/20200901005230/en/Selects-AWS-Preferred-Cloud-Drive-Efficiencies-Global",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [

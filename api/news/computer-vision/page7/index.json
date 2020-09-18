@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-15-fundamentally-flawed-study-describes-facial-recognition-system-designed-to-identify-non-binary-people.md",
+      "title": "‘Fundamentally flawed’ study describes facial recognition system designed to identify non-binary people",
+      "excerpt": "In a study, researchers describe a controversial approach to designing facial recognition systems that can identify non-binary people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "publishedDateTime": "2020-07-14T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
       "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
       "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
@@ -9,6 +60,7 @@
       "webUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -60,6 +112,7 @@
       "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 202,
       "tags": null,
       "images": [
@@ -110,6 +163,7 @@
       "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -151,6 +205,7 @@
       "webUrl": "https://venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -201,6 +256,7 @@
       "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 136,
       "tags": null,
       "images": [
@@ -242,6 +298,7 @@
       "webUrl": "https://mashable.com/article/arrested-facial-recognition-technology/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -283,6 +340,7 @@
       "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -333,6 +391,7 @@
       "webUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -374,6 +433,7 @@
       "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 129,
       "tags": null,
       "images": [

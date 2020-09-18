@@ -2,88 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-09-04-google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations.md",
-      "title": "Google Maps and DeepMind enhance AI capabilities to improve route calculations",
-      "excerpt": "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "originalUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg",
-          "width": 1055,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "publishedDateTime": "2020-09-03T18:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy.md",
-      "title": "Nvidia’s New 30-Series GPUs a Possible Headache for the Competition; Analyst Says ‘Buy’",
-      "excerpt": "Nvidia’s launched its new PC gaming GeForce graphics processing units, the 2 nd gen GeForce RTX 30 Series – the 3090, 3080 and 3070 GPUs— all based on the compan",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
-      "publishedDateTime": "2020-09-03T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-nvidia-shares-more-details-on-geforce-rtx-30-series-gpus-rtxio-pcie-40-hdmi-21-more.md",
       "title": "NVIDIA shares more details on GeForce RTX 30 series GPUs; RTXIO, PCIe 4.0, HDMI 2.1 & more",
       "excerpt": "NVIDIA recently shed some more light on some of the features regarding its GeForce RTX 30 series graphics cards",
@@ -91,6 +9,7 @@
       "webUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
       "originalUrl": "https://www.dsogaming.com/news/nvidia-geforce-rtx-30-series-rtxio-pcie-4-0-hdmi-2-1/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -132,6 +51,7 @@
       "webUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
       "originalUrl": "https://apnews.com/8cadd96d703080b0c317174623ac1fcb",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -173,6 +93,7 @@
       "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
       "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -223,6 +144,7 @@
       "webUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
       "originalUrl": "https://www.nasdaq.com/articles/israels-rafael-anyvision-to-form-face-recognition-jv-for-defence-2020-09-03",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": null,
@@ -255,6 +177,7 @@
       "webUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
       "originalUrl": "https://venturebeat.com/2020/09/03/gao-audit-finds-pervasive-problems-with-u-s-airport-facial-recognition-program/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 270,
       "tags": null,
       "images": [
@@ -305,6 +228,7 @@
       "webUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
       "originalUrl": "https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -347,6 +271,7 @@
       "webUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
       "originalUrl": "https://gizmodo.com/qualcomms-second-gen-laptop-chip-isnt-doing-enough-to-c-1844937226",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -397,6 +322,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -447,6 +373,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/03/the-fourth-generation-of-ai-is-here-and-its-called-artificial-intuition/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -497,6 +424,7 @@
       "webUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
       "originalUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -547,6 +475,7 @@
       "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
       "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -598,6 +527,7 @@
       "webUrl": "https://venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/",
       "originalUrl": "https://venturebeat.com/2020/09/03/myst-ai-claims-its-ai-energy-prediction-technology-boosts-utilities-reliability/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -647,6 +577,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
       "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications-2020-09-03",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -697,6 +628,7 @@
       "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
       "originalUrl": "https://www.si.com/nfl/ravens/ravencountry-plus/ravencountry-plus-promo",
       "featuredContent": null,
+      "highlight": null,
       "heat": 122,
       "tags": null,
       "images": [
@@ -737,6 +669,7 @@
       "webUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
       "originalUrl": "https://www.techrepublic.com/article/healthcare-ai-how-one-hospital-system-is-using-technology-to-adapt-to-covid-19/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 110,
       "tags": null,
       "images": [
@@ -787,6 +720,7 @@
       "webUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind?via=indexdotco",
       "originalUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind?via=indexdotco",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -837,6 +771,7 @@
       "webUrl": "https://www.entrepreneur.com/article/355736",
       "originalUrl": "https://www.entrepreneur.com/article/355736",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -886,6 +821,7 @@
       "webUrl": "https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html",
       "originalUrl": "https://www.engadget.com/google-maps-deep-mind-ai-accuracy-140005698.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 224,
       "tags": null,
       "images": [
@@ -936,6 +872,7 @@
       "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
       "originalUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-amazon-apple-salesforce.com-zoom-and-facebook-2020-09",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -968,6 +905,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1018,6 +956,7 @@
       "webUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
       "originalUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1059,6 +998,7 @@
       "webUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
       "originalUrl": "https://www.vanguardngr.com/2020/09/nitda-set-to-establish-centre-for-artificial-intelligence-robotics/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -1100,6 +1040,7 @@
       "webUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
       "originalUrl": "https://www.businessinsider.com/google-cloud-nabs-government-deal-for-cancer-research-2020-9",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1138,6 +1079,90 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-tech-stocks-5g-will-live-up-to-all-the-hype-heres-how-to-invest.md",
+      "title": "Tech stocks: 5G will live up to all the hype – here's how to invest",
+      "excerpt": "Taken together they are central to realising the potential from the key digital themes such as big data, artificial intelligence ... uses are discovered. For driverless vehicles, 5G is a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
+      "originalUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--ULKxhs4q--/v1599129501/1015_MW_P20_Cover-Story.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/601939/5g-will-live-up-to-the-hype-heres-how-to-invest?amp",
+      "publishedDateTime": "2020-09-03T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-scalise-hit-with-ethics-complaint-over-doctored-barkan-video.md",
+      "title": "Scalise hit with ethics complaint over doctored Barkan video",
+      "excerpt": "The House Democratic campaign arm has filed a formal ethics complaint against Republican Whip Rep. Steve Scalise (La.), who shared a video doctored to alter the wording of a question posed by activist Ady Barkan to former Vice President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
+      "originalUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/scalisesteve_08242020hilltv.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/514923-scalise-hit-with-ethics-complaint-over-doctored-barkan-video?amp",
+      "publishedDateTime": "2020-09-03T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

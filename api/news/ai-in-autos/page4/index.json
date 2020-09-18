@@ -2,47 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-13-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
-      "title": "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads",
-      "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "publishedDateTime": "2020-08-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-13-self-driving-car-only-lanes-theyre-coming-to-an-autonomous-corridor-in-michigan.md",
       "title": "Self-driving car only lanes? They're coming to an autonomous corridor in Michigan",
       "excerpt": "A new public-private endeavor will see a 40-mile stretch between Detroit and Ann Arbor outfitted with dedicated lanes for autonomous vehicles.",
@@ -50,6 +9,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 209,
       "tags": null,
       "images": [
@@ -100,6 +60,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -132,6 +93,7 @@
       "webUrl": "https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It",
       "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -173,6 +135,7 @@
       "webUrl": "https://www.ciol.com/iit-roorkee-partners-coursera-bring-online-certificate-program-ai-data-analytics/",
       "originalUrl": "https://www.ciol.com/iit-roorkee-partners-coursera-bring-online-certificate-program-ai-data-analytics/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -205,6 +168,7 @@
       "webUrl": "https://www.biometricupdate.com/202008/deepfakes-declared-top-ai-threat-biometrics-and-content-attribution-scheme-proposed-to-detect-them",
       "originalUrl": "https://www.biometricupdate.com/202008/deepfakes-declared-top-ai-threat-biometrics-and-content-attribution-scheme-proposed-to-detect-them",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -246,6 +210,7 @@
       "webUrl": "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/",
       "originalUrl": "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -278,6 +243,7 @@
       "webUrl": "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -328,6 +294,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -360,6 +327,7 @@
       "webUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
       "originalUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -402,6 +370,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 159,
       "tags": null,
       "images": [
@@ -452,6 +421,7 @@
       "webUrl": "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html",
       "originalUrl": "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -494,6 +464,7 @@
       "webUrl": "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -535,6 +506,7 @@
       "webUrl": "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -576,6 +548,7 @@
       "webUrl": "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -617,6 +590,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -667,6 +641,7 @@
       "webUrl": "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
       "originalUrl": "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -717,6 +692,7 @@
       "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
       "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -767,6 +743,7 @@
       "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -808,6 +785,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 110,
       "tags": null,
       "images": [
@@ -858,6 +836,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -908,6 +887,7 @@
       "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
       "originalUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -949,6 +929,7 @@
       "webUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 130,
       "tags": null,
       "images": [
@@ -990,6 +971,7 @@
       "webUrl": "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1031,6 +1013,7 @@
       "webUrl": "https://www.nytimes.com/reuters/2020/08/04/business/04reuters-autonomous-uber-levandowski.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1081,6 +1064,7 @@
       "webUrl": "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -1122,6 +1106,7 @@
       "webUrl": "https://www.theverge.com/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1172,6 +1157,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 245,
       "tags": null,
       "images": [
@@ -1222,6 +1208,7 @@
       "webUrl": "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1263,6 +1250,7 @@
       "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 219,
       "tags": null,
       "images": [
@@ -1286,6 +1274,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
+      "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
+      "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a24796857cd70276d476%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D668%26cropY2%3D4606",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "publishedDateTime": "2020-08-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

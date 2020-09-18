@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered ship sets sail for sea trials and environmental research missions"
-    excerpt: "The Mayflower Autonomous Ship today set sail from Plymouth on the southern coast of England, 400 years since its namesake left the same port to take the Pilgrims to Massachusetts,"
-    publishedDateTime: 2020-09-16T15:56:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/amp/"
+  - title: "Robot research vessel to set off on epic ocean voyage of discovery"
+    excerpt: "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean."
+    publishedDateTime: 2020-09-16T11:26:00Z
+    webUrl: "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/"
+    ampWebUrl: "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-16T154312.212-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Robot ship sets sail for autonomous Atlantic crossing"
-    excerpt: "Named The Mayflower ship is getting ready to leave the south coast of England and human crew members behind. It's not the ship that left this southwest England port 400 years ago carrying Pilgrim settlers to America."
-    publishedDateTime: 2020-09-17T21:22:00Z
-    webUrl: "https://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=12365958"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 54
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/IbbqpOOk-FlUndat_PW79vyZjU8=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/KKDEW7E74FGOTBWVSUND3KYS3I.jpeg"
+      - url: "https://assets.newatlas.com/dims4/default/c79b055/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F65%2Fe56342c24447b4e08aa4a06e5550%2Fmasinwater-12.jpg"
         width: 1200
         height: 800
         isCached: true

@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
-    excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
-    publishedDateTime: 2020-09-14T12:13:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
+  - title: "Luxand Has Released a New Face Recognition SDK with a Thermal Face Detection Feature to Help Fight COVID-19"
+    excerpt: "Luxand has released a new FaceSDK 7.2 version with numerous improvements, including a major Thermal Face Detection feature, that helps small-, medium- and"
+    publishedDateTime: 2020-09-17T12:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/luxand-has-released-a-new-face-recognition-sdk-with-a-thermal-face-detection-feature-to/article_e9ab2409-9716-5df2-b0df-9b52415ade66.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Speech-Recognition.jpg"
-        width: 1680
-        height: 840
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c1/8c149bb8-617b-592d-bc17-14036fb0c2ef/5f635e5704180.image.jpg?resize=400%2C225"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "5WbCVINUUhfESGQi2weMqKmr38WiVCG06hvPYu1JUOnVAYNfcnC291LCjbHbsCmazm4QsfBk7NRPGbwNm2uKZEKQfwUJxQK6Nlpvd8DGJfOx6na1xAy8vRw9k9T13If/MIDT2PycygCQRb+7wgOB7mwmJqf7kMGkd7mjGH/DfklcNgqpEBrDAlnGtrv80dJK6Npe8BAx4Uk0lyLoRPvyULE104k//vlhZ5O57Jb7FySvXwHh76xPCV/fUsrY7brxuxTSLEPfuvzx2QvnnGLjwsHEeXc4VylMl12167dfvxPZl6EbpQTXzeK4XyFiu3OmTGtH89OnyYA4SoS0aluhRg/CYQV1UbNuEEqsuZn50Wc=;/2q4mAVdqgzWVqHd1yv5oA=="

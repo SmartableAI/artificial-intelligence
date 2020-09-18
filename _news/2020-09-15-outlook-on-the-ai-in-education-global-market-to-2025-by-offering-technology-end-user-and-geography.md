@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
-    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
-    publishedDateTime: 2020-09-17T19:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
+  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
+    publishedDateTime: 2020-09-15T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "QqpESxCJyR5RnSNMNrRmuvODvEHUeM20og1pmm3e0+fOVPUbBOgVAfNFG7zqd9NK0+ZylfIruDPvqghIZD6w/rq/X9Apf2GsvsuCCPnU3Uwm7tY2fpzNbZLe7GPEZdG4u5473UhbCp1qojRpKctKR4DnOqos8mCfwf6Dqqw+fdqsiPH+Wk+AB0bF8VOIv5MmTFCnbNxJw67ktJIKn7yUguRxxrptDph05zp6SA77W0dlD6e2rZIgC1QPMg64wqC8qTgO6kVV6NANUKaK72fJnsZn0kbPGY5amacZDX0x8VoxWGBOSkMFOGa2dotEeVp3eH05XmBos7KKy53z9Qe2kA4skOY02GilDbzKhRnEFAs=;0q1BZSaHs4EH7+rGl+lzzQ=="

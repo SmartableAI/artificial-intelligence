@@ -2,106 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-09-08-10-ways-ai-improves-pricing-and-revenue-management.md",
-      "title": "10 Ways AI Improves Pricing And Revenue Management",
-      "excerpt": "The global Revenue Management market is expected to grow from $14.5B in 2019 to $22.4B by 2024, attaining a Compound Annual Growth Rate (CAGR) of 9.6%. BCG found that automating revenue management systems' pricing rules with AI can increase revenues up to 5% in less than nine months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f0b6dc8bdaa63c303cbb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
-      "publishedDateTime": "2020-09-07T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
-      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
-      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-08-yandex-self-driving-group-gets-150-million-will-bring-autonomous-vehicles-to-us.md",
       "title": "Yandex Self Driving Group Gets $150 Million, Will Bring Autonomous Vehicles To U.S.",
       "excerpt": "Yandex is not cutting ties with its former autonomous vehicle team by any means. Yandex NV is going to invest $150 million into Yandex SDG ($100 million in equity, $50 million as a convertible loan) and Yandex NV will keep an eye on the autonomous vehicle technology progress and will keep reporting Yandex SDG's results in Yandex NV's \"Other Bets and Experiments\" segment.",
@@ -109,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
       "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -159,6 +60,7 @@
       "webUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
       "originalUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -200,6 +102,7 @@
       "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
       "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -241,6 +144,7 @@
       "webUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
       "originalUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": null,
@@ -274,6 +178,7 @@
       "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
       "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -316,6 +221,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -366,6 +272,7 @@
       "webUrl": "https://www.bbc.com/sport/football/54062392",
       "originalUrl": "https://www.bbc.com/sport/football/54062392",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -415,6 +322,7 @@
       "webUrl": "https://www.entrepreneur.com/article/355840",
       "originalUrl": "https://www.entrepreneur.com/article/355840",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -465,6 +373,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2020-trends-demand-growth-analysis-and-strategic-outlook--ceva-knuedge-amd-xilinx-inc-2020-09-07",
       "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2020-trends-demand-growth-analysis-and-strategic-outlook--ceva-knuedge-amd-xilinx-inc-2020-09-07",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -515,6 +424,7 @@
       "webUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
       "originalUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -565,6 +475,7 @@
       "webUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
       "originalUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -614,6 +525,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/07/this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 116,
       "tags": null,
       "images": [
@@ -663,6 +575,7 @@
       "webUrl": "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
       "originalUrl": "https://www.indiainfoline.com/article/news-business-wire-services/fss-launches-next-gen-recon-with-machine-learning-and-cloud-support-120090700332_1.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -704,6 +617,7 @@
       "webUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
       "originalUrl": "https://www.businessinsider.com/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
       "featuredContent": null,
+      "highlight": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -756,6 +670,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/europe-ai-in-social-media-market-forecast-to-2025-with-profiles-of-10-leading-players-including-microsoft-google-aws-adobe-and-facebook-301125021.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -798,6 +713,7 @@
       "webUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
       "originalUrl": "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -840,6 +756,7 @@
       "webUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
       "originalUrl": "https://www.infoworld.com/article/3573372/amazon-braket-get-started-with-quantum-computing.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -890,6 +807,7 @@
       "webUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
       "originalUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -931,6 +849,7 @@
       "webUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
       "originalUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -972,6 +891,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/appsbroker-recognised-as-google-cloud-managed-service-provider-301124536.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/appsbroker-recognised-as-google-cloud-managed-service-provider-301124536.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1013,6 +933,7 @@
       "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
       "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -1054,6 +975,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
       "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -1104,6 +1026,7 @@
       "webUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
       "originalUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1143,6 +1066,91 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
+      "title": "Google Cloud: A platform for innovation",
+      "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
+      "originalUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/02180919/Colored-pipes-in-The-Dalles.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-tensorflow-robot-recognizes-objects.md",
+      "title": "TensorFlow Robot Recognizes Objects",
+      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI"
       ]
     }

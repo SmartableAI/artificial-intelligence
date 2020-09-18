@@ -2,97 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-09-05-yandex-and-uber-spin-off-self-driving-division.md",
-      "title": "Yandex and Uber spin-off self-driving division",
-      "excerpt": "Russian technology company Yandex and American ride-sharing firm Uber partnered to develop self-driving vehicles, but on Friday, the two companies announced they're spinning this joint venture off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "originalUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/U5E9F3OpPEZ6uR4Rhww4QIovyUw=/2019/07/11/66dc6beb-e710-47b0-aa8e-973ad2f335d6/yandex-hyundai-mobis-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
-      "publishedDateTime": "2020-09-04T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-black-detroit-man-wrongfully-arrested-after-facial-recognition-search.md",
-      "title": "Black Detroit man wrongfully arrested after facial recognition search",
-      "excerpt": "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "originalUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
-      "publishedDateTime": "2020-09-04T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-04-google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic.md",
       "title": "Google Maps partners with DeepMind to better predict the future of traffic",
       "excerpt": "So far, machine learning has improved the accuracy of real-time ETAs by up to 50% in cities around the world, the companies said.",
@@ -100,6 +9,7 @@
       "webUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "originalUrl": "https://www.techrepublic.com/article/google-maps-partners-with-deepmind-to-better-predict-the-future-of-traffic/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -150,6 +60,7 @@
       "webUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
       "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-related-jobs-openings-and-searches-have-gone-up-report/articleshow/77935453.cms",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -191,6 +102,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/04/tenet-is-a-palindrome-and-maybe-self-driving-cars-ought-to-be-reversible-too/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -241,6 +153,7 @@
       "webUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
       "originalUrl": "https://www.bizjournals.com/atlanta/news/2020/09/04/peachtree-corners-viewpoint.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -273,6 +186,7 @@
       "webUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
       "originalUrl": "https://www.kwqc.com/2020/09/04/tsa-is-testing-facial-recognition-at-security-checkpoints/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -305,6 +219,7 @@
       "webUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
       "originalUrl": "https://techcrunch.com/2020/09/04/mustard-raises-1-7m-to-improve-athletic-mechanics-with-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -354,6 +269,7 @@
       "webUrl": "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "originalUrl": "https://www.vice.com/en_us/article/bv8k8a/faulty-facial-recognition-led-to-his-arrestnow-hes-suing",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -404,6 +320,7 @@
       "webUrl": "https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386",
       "originalUrl": "https://www.today.ng/technology/nigeria-establish-centre-artificial-intelligence-robotics-316386",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -445,6 +362,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-09-04",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -495,6 +413,7 @@
       "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
       "originalUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-continues-to-offer-online-programs/article_6739c1fa-eca6-11ea-a71e-2f099e37b615.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -536,6 +455,7 @@
       "webUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
       "originalUrl": "https://www.sify.com/finance/google-maps-using-deepmind-ai-to-predict-your-arrival-time-news-topnews-ujeeOCgacbajb.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -568,6 +488,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04",
       "originalUrl": "https://www.marketwatch.com/press-release/video-analytics-market-size-share-2020-global-industry-analysis-size-share-growth-trends-and-forecasts-2025-says-market-reports-world-2020-09-04",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -618,6 +539,7 @@
       "webUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
       "originalUrl": "https://omaha.com/business/consumer/yandex-restructures-self-driving-business/article_6afbd278-39a3-5fe8-bf20-8f0f1ebbd808.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -659,6 +581,7 @@
       "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -709,6 +632,7 @@
       "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
       "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -750,6 +674,7 @@
       "webUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
       "originalUrl": "https://www.scmr.com/article/supply_chain_startup_enabling_the_self_driving_supply_chain",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -791,6 +716,7 @@
       "webUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
       "originalUrl": "https://www.bloomberg.com/professional/blog/covid-fallout-accelerating-financial-sector-tech-race/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -841,6 +767,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -882,6 +809,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -931,6 +859,7 @@
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/04/3-predictions-for-the-role-of-artificial-intelligence-in-art-and-design/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -980,6 +909,7 @@
       "webUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
       "originalUrl": "https://www.timesunion.com/opinion/article/Happy-Labor-Day-while-there-are-still-jobs-for-15542073.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1021,6 +951,7 @@
       "webUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
       "originalUrl": "https://www.washingtonpost.com/business/technology/daimler-trucks-tests-self-driving-vehicles-in-us-southwest/2020/09/03/c05bb538-ee4d-11ea-bd08-1b10132b458f_story.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1062,6 +993,7 @@
       "webUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
       "originalUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1101,6 +1033,90 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations.md",
+      "title": "Google Maps and DeepMind enhance AI capabilities to improve route calculations",
+      "excerpt": "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "originalUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg",
+          "width": 1055,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "publishedDateTime": "2020-09-03T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy.md",
+      "title": "Nvidia’s New 30-Series GPUs a Possible Headache for the Competition; Analyst Says ‘Buy’",
+      "excerpt": "Nvidia’s launched its new PC gaming GeForce graphics processing units, the 2 nd gen GeForce RTX 30 Series – the 3090, 3080 and 3070 GPUs— all based on the compan",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
+      "publishedDateTime": "2020-09-03T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

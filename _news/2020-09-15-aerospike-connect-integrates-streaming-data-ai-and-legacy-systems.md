@@ -3,10 +3,10 @@ category: news
 title: "Aerospike Connect integrates streaming data, AI and legacy systems"
 excerpt: "After this spring's release of Aerospike 5, new updates to the Aerospike Connect product line improve integration with Spark, Kafka, Pulsar and JMS."
 publishedDateTime: 2020-09-15T09:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
+originalUrl: "https://www.zdnet.com/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
+webUrl: "https://www.zdnet.com/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aerospike-connect-integrates-streaming-data-ai-and-legacy-systems/"
 type: article
 quality: 67
 heat: 67
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "UyIYiEXY/fycx4+9iidfVjDbNwOUv09ZcRa70A3N5tOos0e2cz+g5oj239O57SgPzh7GjtF/S/5rsUWgXcPgHNngMQyumTBIYqeBDojHuvGAsQl0wGI7/swjFTljq3vD6Y3OD7mmO+bqbkrmPGPhPrLSfnL6IpSoGzZh1GMbcFfGvdKprkanl2VITb7crCkJU9CJp+a61RdsCGTzfT6DzJ8OYWg+VuG2ua+gpoc9vsIoJhs7gZx9EIJ91+DQtb1ioBh9yIZRNvUrcHrXFR9IleiCciD1vTYRCCnaTS/7bm9c+wN1ikiLF+OxJRk08XeQAYJrH9sbjF8EkD2uXvxYHPeaYocjurTqea4/i4DG3Z5FMwFG5Ilpd6doQM6wWQYSNg90j32vRrGpN4r1XfG/FcZhwqtNRZdqTgMnQl3GPJ5xp6YrCTS7kKrTnOOGGFp24IsZtkVAXhSmBFx/qf3KKMVe13NWza2emSmkOMPUNkt+6Kld5INfZgGx8qW90hQc1ZxoxQHNXMi6lldv/YXl2w==;LFBprZBsgXCRhOwlRl/ATw=="
+secured: "qADkk0ITPzKDuC0s72yX4fJT1cnVH59KlWWpye+YIJUmq+vBNVcTuzdNXbfTrQ3DnuxJjI9uie6CM9b3DNre+Wau0M2WJKv/VBMaq0frEtxSg1NvLQt48Sw4wxddQmqgt6X7QPyBF8gLsODcYk0z7wETwCV/expCCiPkDqnWI9c32tozgXiHCN+QkXPISxN7otjsl53WnRkWf9oxSD2b/rnfjBTrRpnklzjg3w/j/pbiYT/rGgAMp0Lbd3se/6j73FV6wwHR78hLR3Y4AGQv2icLXzjZRPPqEn2ukH2kM38qz04fbDBUx/r4maMnvY3qZ6UO0WsjJU5sf8CfGf6ZdAJVto9S5umcJWQVJQFtxuY0/IxdWrcRO9f88a8t6t8D7fV27o4LZDMvm85YtZHneNuupeazkIX04pcPlhIW9cIWHMH+vYmWgw0ekCvQMZ9urRn0IQyXQ681OSmyr3KXH6VlBrhVrdEz7HGCeeJfjwpKQsGKwEWgFPE6IiIEUuMjf5Ruciyg1Kj83opSejiWHg==;xpvZ73xdyOHJvwKz1I8FPA=="
 ---
 

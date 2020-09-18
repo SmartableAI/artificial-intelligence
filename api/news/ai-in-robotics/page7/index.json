@@ -2,88 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
-      "title": "Human Quirks: Health & Medicine",
-      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-mind-controlled-arm-boasts-fine-precision.md",
-      "title": "Mind-Controlled Arm Boasts Fine Precision",
-      "excerpt": "This robotic arm used at the University of Pittsburgh offers ten dimensional control of hand movements. The extra dimensions come from four distinct hand movements: finger abduction, a scoop, thumb extension, and a pinch. These new movements have enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/mind-controlled-arm-boasts-fine-precision",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
       "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
       "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
@@ -91,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -141,6 +60,7 @@
       "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -191,6 +111,7 @@
       "webUrl": "https://www.waste360.com/automation/ai-enabled-robotics-are-helping-strengthen-recycling-processing-capabilities",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -232,6 +153,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": null,
@@ -273,6 +195,7 @@
       "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
       "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -314,6 +237,7 @@
       "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -364,6 +288,7 @@
       "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -414,6 +339,7 @@
       "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -464,6 +390,7 @@
       "webUrl": "https://www.theverge.com/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -514,6 +441,7 @@
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -546,6 +474,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -587,6 +516,7 @@
       "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 143,
       "tags": null,
       "images": [
@@ -637,6 +567,7 @@
       "webUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 138,
       "tags": null,
       "images": [
@@ -687,6 +618,7 @@
       "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -728,6 +660,7 @@
       "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": null,
@@ -769,6 +702,7 @@
       "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -820,6 +754,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -870,6 +805,7 @@
       "webUrl": "https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -920,6 +856,7 @@
       "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -961,6 +898,7 @@
       "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1013,6 +951,7 @@
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 103,
       "tags": null,
       "images": [

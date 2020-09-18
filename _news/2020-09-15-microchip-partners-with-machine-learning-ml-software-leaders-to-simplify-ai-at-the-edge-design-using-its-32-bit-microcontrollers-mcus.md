@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/microchip-partners-with-ma
 webUrl: "https://www.eejournal.com/industry_news/microchip-partners-with-machine-learning-ml-software-leaders-to-simplify-ai-at-the-edge-design-using-its-32-bit-microcontrollers-mcus/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "Patriot Software Implements Machine Learning to Simplify Accounting"
+    excerpt: "Patriot Software, an accounting software and payroll company, has implemented machine learning through the launch of its \"Smart Suggestion\" feature. The company's incorporation of machine learning into its accounting software streamlines"
+    publishedDateTime: 2020-09-15T13:38:00Z
+    webUrl: "https://www.lelezard.com/en/news-19421246.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "fw3dNTyzElO/Bi3ftiZK/FCbYgfMSRxFTjeCHgLzTSeh+syilRlfJgobGCbQf7kq6QOyZg6BfjmpnW4GF+vb31Vdu2d/2e+eMv0KwZ1T+qbzd0Jx16yhmWuXv6QOMmgGO59dJgNqo0GnSS4kZldhRvY/JT7UZgKmw4/5ZXgT1KHtuMayUdk7vYTTZModNOWRqYiIUkfnwD848ApUjNiu832K6KYFWz4+ESRyIa5PMXWVNGSwi8391GWjIrdj5SAF6yOOHUTu3QHaFOr8EqwUm4HmOnY6qhYmWC8Y/dRVoclxPzCjj4/NZJMALZ8T4D61ALAgtOSkEnaa59RGn64mAvefxH5KTJSBRkJt2b+3oYY=;vVTLQnBtJL0Zjqv2n1aoeg=="
 ---

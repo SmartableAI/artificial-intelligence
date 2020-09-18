@@ -2,88 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
-      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
-      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsoft-adds-english-india-hindi-to-speech-service-neural-tts.md",
-      "title": "Microsoft adds English (India), Hindi to speech service Neural TTS",
-      "excerpt": "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
-      "publishedDateTime": "2020-08-25T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
       "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
       "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
@@ -91,6 +9,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -133,6 +52,7 @@
       "webUrl": "https://www.datamation.com/applications/business-intelligence-software.html",
       "originalUrl": "https://www.datamation.com/applications/business-intelligence-software.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -165,6 +85,7 @@
       "webUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
       "originalUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -216,6 +137,7 @@
       "webUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
       "originalUrl": "https://venturebeat.com/2020/08/25/michael-kanaan-the-u-s-needs-an-ai-sputnik-moment-to-compete-against-china-and-russia/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -267,6 +189,7 @@
       "webUrl": "https://venturebeat.com/2020/08/25/researchers-ai-can-perform-3d-motion-capture-with-any-off-the-shelf-camera/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -316,6 +239,7 @@
       "webUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
       "originalUrl": "https://newatlas.com/space/exoplanet-discovered-machine-learning-algorithm/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -366,6 +290,7 @@
       "webUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
       "originalUrl": "https://gizmodo.com/this-ai-tech-wants-to-make-you-an-avatar-that-will-work-1844843938",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -415,6 +340,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-will-boost-growth-says-fortune-business-insights-1029533143",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/aerospace-robotics-market-to-reach-usd-7-78-billion-by-2027-adoption-of-artificial-intelligence-will-boost-growth-says-fortune-business-insights-1029533143",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -456,6 +382,7 @@
       "webUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
       "originalUrl": "https://www.cnet.com/health/facial-recognition-designed-to-detect-around-face-masks-are-failing-study-finds/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -506,6 +433,7 @@
       "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/automatic-object-recognition-from-satellite-images-using-artificial-neural-network/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -547,6 +475,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17235849/speech-and-voice-recognition-technology-market-2020-global-analysis-opportunities-and-forecast-to",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -579,6 +508,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/",
       "originalUrl": "https://thenextweb.com/neural/2020/08/25/will-the-uks-housebuilding-algorithm-join-the-governments-growing-ai-graveyard/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -628,6 +558,7 @@
       "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
       "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
       "featuredContent": null,
+      "highlight": null,
       "heat": 138,
       "tags": null,
       "images": [
@@ -678,6 +609,7 @@
       "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
       "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -728,6 +660,7 @@
       "webUrl": "https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/",
       "originalUrl": "https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 179,
       "tags": null,
       "images": [
@@ -777,6 +710,7 @@
       "webUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
       "originalUrl": "https://www.oedigital.com/news/481217-robotics-autobots-transform-in-the-offshore-energy-sector",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -818,6 +752,7 @@
       "webUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
       "originalUrl": "https://www.vice.com/en_us/article/889bwz/more-facial-recognition-and-drones-wanted-for-the-us-canada-border",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -868,6 +803,7 @@
       "webUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
       "originalUrl": "https://www.thinkadvisor.com/2020/08/25/naic-adopts-artificial-intelligence-principles/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -908,6 +844,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-trucks-texas/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -958,6 +895,7 @@
       "webUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
       "originalUrl": "https://pittsburgh.cbslocal.com/video/4678635-city-councilman-introduces-legislation-to-ban-unrestricted-use-of-facial-recognition-and-predictive-policing/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -990,6 +928,7 @@
       "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110608.htm",
       "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110608.htm",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1031,6 +970,7 @@
       "webUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
       "originalUrl": "https://www.cnet.com/news/ai-confirms-50-new-planets-from-old-nasa-data-in-a-groundbreaking-first/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -1080,6 +1020,7 @@
       "webUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
       "originalUrl": "https://www.engadget.com/apple-final-cut-pro-x-social-media-machine-learning-162618607.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1118,6 +1059,98 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade.md",
+      "title": "Researchers examine uncertainty in medical AI papers going back a decade",
+      "excerpt": "In a meta-analysis, researchers investigated how medical machine learning studies handled uncertainty and noise within training data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/",
+      "originalUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/amp/",
+      "publishedDateTime": "2020-08-25T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-indian-english-hindi-added-to-microsofts-text-to-speech-service.md",
+      "title": "Indian English, Hindi added to Microsoft’s text-to-speech service",
+      "excerpt": "Microsoft India has added English (India) and Hindi to its Neural Text-to-Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/tr4ojb/article32439978.ece/ALTERNATES/LANDSCAPE_615/BL26HINDI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/",
+      "publishedDateTime": "2020-08-25T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

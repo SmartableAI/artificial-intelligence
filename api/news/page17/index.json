@@ -2,79 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-09-03-machine-learning-ai-chooses-henry-cavill-as-the-next-james-bond.md",
-      "title": "Machine Learning AI Chooses Henry Cavill As The Next James Bond",
-      "excerpt": "Elizabeth Olsen Deletes Instagram Due To Backlash For Not Po... Eternals Director Wants The Film To Be Bigger Than Avengers:... Grand Theft Auto 6 Is Reportedly Years Away From Being Annou ...",
-      "sourceUrl": null,
-      "webUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "originalUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/",
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wegotthiscovered.com/wp-content/uploads/2020/08/Henry-Cavill.jpg",
-          "width": 1155,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "cdnAmpWebUrl": "https://wegotthiscovered-com.cdn.ampproject.org/c/s/wegotthiscovered.com/movies/ai-henry-cavill-james-bond/amp/",
-      "publishedDateTime": "2020-09-02T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Got This Covered",
-        "domain": "wegotthiscovered.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-altigen-buys-blue-pandas-coreinteract-platform.md",
-      "title": "Altigen buys Blue Panda's CoreInteract platform",
-      "excerpt": "and using Microsoft Cognitive Services. CoreInteract will become generally available in the fourth quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
-      "originalUrl": "https://www.telecompaper.com/news/altigen-buys-blue-pandas-coreinteract-platform--1352473",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-03-telix-pharmaceuticals-enters-strategic-collaboration-with-varian-medical-systems-for-advanced-prostate-imaging.md",
       "title": "Telix Pharmaceuticals Enters Strategic Collaboration with Varian Medical Systems for Advanced Prostate Imaging",
       "excerpt": "(GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, ‘Telix’, the ‘Company’) today announced it has entered into a strategic collaboration agreement with Palo Alto-based Varian Medical Systems,",
@@ -82,6 +9,7 @@
       "webUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
       "originalUrl": "https://apnews.com/9b9b175758637c609edb95d11560c242",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -123,6 +51,7 @@
       "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
       "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -165,6 +94,7 @@
       "webUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
       "originalUrl": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -215,6 +145,7 @@
       "webUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
       "originalUrl": "https://www.pottsmerc.com/lifestyle/phoenixville-public-library-offers-free-online-program-in-september/article_a29e875e-ed6d-11ea-b351-53ce4277149f.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -256,6 +187,7 @@
       "webUrl": "https://www.law360.com/whitecollar/articles/1304822/-a-path-forward-for-eliminating-structural-bias-in-ai-tech",
       "originalUrl": "https://www.law360.com/whitecollar/articles/1304822/-a-path-forward-for-eliminating-structural-bias-in-ai-tech",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -288,6 +220,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-tests-locations-tracking-tool/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 134,
       "tags": null,
       "images": [
@@ -338,6 +271,7 @@
       "webUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
       "originalUrl": "https://www.datanami.com/2020/09/02/low-code-can-lower-the-barrier-to-entry-for-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -379,6 +313,7 @@
       "webUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
       "originalUrl": "https://www.oaoa.com/news/business/lattice-expands-crosslink-nx-fpga-family-of-best-in-class-low-power-fpgas-for-smart/article_0727305f-420b-590d-ae6b-3415106b55ca.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -420,6 +355,7 @@
       "webUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
       "originalUrl": "https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -470,6 +406,7 @@
       "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
       "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -521,6 +458,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -562,6 +500,7 @@
       "webUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
       "originalUrl": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -612,6 +551,7 @@
       "webUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
       "originalUrl": "https://www.pehub.com/cognizant-to-acquire-pe-backed-10th-magnitude/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -653,6 +593,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/02/izotopes-new-rx8-repair-tool-cleans-up-your-noisy-audio-with-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -702,6 +643,7 @@
       "webUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
       "originalUrl": "https://www.techrepublic.com/article/how-to-make-complicated-machine-learning-developer-problems-easier-to-solve/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -753,6 +695,7 @@
       "webUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
       "originalUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -803,6 +746,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -853,6 +797,7 @@
       "webUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
       "originalUrl": "https://venturebeat.com/2020/09/02/google-cloud-secures-u-s-military-ai-cancer-research-contract/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -902,6 +847,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-a-batch-job-completion-message-from-amazon-translate/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -952,6 +898,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ttec-s-ai-powered-learning-solution-wins-disruptive-technology-of-the-year-award-1029557468",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": null,
@@ -993,6 +940,7 @@
       "webUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "originalUrl": "https://www.techradar.com/sg/news/gpu-company-imagination-technologies-to-teach-students-how-to-design-a-cpu",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1043,6 +991,7 @@
       "webUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674?mod=hp_lead_pos1",
       "originalUrl": "https://www.wsj.com/articles/tiktok-deal-talks-are-snarled-over-fate-of-apps-algorithms-11598995674",
       "featuredContent": null,
+      "highlight": null,
       "heat": 172,
       "tags": null,
       "images": [
@@ -1092,6 +1041,7 @@
       "webUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
       "originalUrl": "https://indiaeducationdiary.in/rolls-royce-announces-breakthroughs-in-artificial-intelligence-ethics-and-trustworthiness/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1113,6 +1063,108 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-intel-10nm-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall.md",
+      "title": "Intel: 10nm Tiger Lake CPUs will be in 50 new laptops coming this fall",
+      "excerpt": "Intel took the wraps off its not-so-secret central processing units (CPUs) codenamed Tiger Lake, built with a 10-nanometer manufacturing process. It may as well have been called Tiger Leak.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intel-raja.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/intel-10-nanometer-tiger-lake-cpus-will-be-in-50-new-laptops-coming-this-fall/amp/",
+      "publishedDateTime": "2020-09-02T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers.md",
+      "title": "To build responsibly, tech needs to do more than just hire chief ethics officers",
+      "excerpt": "Sarah Drinkwater works to fuel the responsible tech movement through her role as director at Omidyar Network. In the last couple of years, we’ve seen new teams in tech companies emerge that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1162201571.jpg?w=1000",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/to-build-responsibly-tech-needs-to-do-more-than-just-hire-chief-ethics-officers/amp/",
+      "publishedDateTime": "2020-09-02T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

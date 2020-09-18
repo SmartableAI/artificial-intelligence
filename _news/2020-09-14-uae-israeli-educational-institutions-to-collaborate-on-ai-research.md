@@ -37,20 +37,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "UAE, Israeli educational institutions sign artificial intelligence MoU"
-    excerpt: "UAE's Mohamed Bin Zayed University of Artificial Intelligence and Israel's Weizmann Institute of Science have agreed to work together"
-    publishedDateTime: 2020-09-13T10:55:00Z
-    webUrl: "https://www.lbcgroup.tv/news/regional/547269/uae-israeli-educational-institutions-sign-artifici/en"
-    type: article
-    provider:
-      name: LBCI Lebanon
-      domain: lbcgroup.tv
-    quality: 37
-    images:
-      - url: "https://www.lbcgroup.tv/newsimages/News-P-547269-637355907631419226.jpg"
-        width: 836
-        height: 470
-        isCached: true
   - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
     excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
     publishedDateTime: 2020-09-13T12:09:00Z

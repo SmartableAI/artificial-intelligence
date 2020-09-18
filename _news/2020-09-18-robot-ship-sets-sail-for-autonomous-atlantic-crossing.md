@@ -41,20 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "AI and Solar Powered Marine Research Vessel Mayflower Launching"
-    excerpt: "The Mayflower Autonomous Ship (MAS), an AI and solar-powered marine research vessel which will traverse oceans gathering vital environmental data, was lifted into the waters off the coast of Plymouth,"
-    publishedDateTime: 2020-09-15T23:10:00Z
-    webUrl: "https://maritime-executive.com/article/ai-and-solar-powered-marine-research-vessel-mayflower-launching"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 39
-    images:
-      - url: "https://maritime-executive.com/media/images/article/Photos/Miscellaneous/Mayflower-overhead-IBM.83f505.jpg"
-        width: 643
-        height: 361
-        isCached: true
 
 secured: "Pe2G0/KWmcksCLnVhzUwYDkAXk5JvJEO0VrjgrbcBYhdUi3WIVGx31Yv0d35fInV2okBdtQILoueeN0eWGzkysWUOYRxPtKakhQbnPIUUL/4zVY/lKnn91IYDE9808RFc4q25lCMyagyRvuNiZIp+NIE3T9tiLcKtwTvUtgej00Dd3tJw30TvFmt927Ah7UehkOYOMWuXb9dF199+ykgpCNiFSmC1socOP6MICE9PwkgXjRfVeI4Kg9Elxq9bKWLgvjClir4Xc7o8uKWofFk6x94VacIl7UkYPQrOyYemL2huk2/y2YF622o+UnTjzfLcvVOwvxzhhg1ngvH6jX6DBi5KDxmjIPv1hnbIg4hiZY=;SfYxhhaUZXd8afD7tR2tZQ=="
 ---

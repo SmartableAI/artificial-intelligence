@@ -59,6 +59,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "NVIDIA seals deal to acquire Arm for $40 billion, 'Age of AI' coming"
+    excerpt: "NVIDIA announces a 'definitive agreement' to acquire Arm Limited from SBG and SoftBank Vision Fund in a deal worth $40 billion."
+    publishedDateTime: 2020-09-14T00:23:00Z
+    webUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75144/nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://www.tweaktown.com/images/news/7/5/75144_01_nvidia-seals-deal-to-acquire-arm-for-40-billion-age-of-ai-coming_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
     excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
     publishedDateTime: 2020-09-14T11:53:00Z

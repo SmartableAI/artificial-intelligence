@@ -28,35 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA to officially buy Arm, focus on AI, promises neutrality"
-    excerpt: "Putting all speculation to rest, NVIDIA has finally announced that it is making an official bid to acquire Arm Limited from SoftBank. While the final say will be with regulators, this would mean"
-    publishedDateTime: 2020-09-14T00:27:00Z
-    webUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/"
-    ampWebUrl: "https://www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-to-officially-buy-arm-focus-on-ai-promises-neutrality-13637861/amp/"
+  - title: "How NVIDIA’s Arm acquisition will drive AI to every edge"
+    excerpt: "However, NVIDIA has been frustrated in its attempts to become a dominant provider of AI chips for deployment into smartphones, embedded systems, and other edge devices. To address that strategic gap,"
+    publishedDateTime: 2020-09-17T10:12:00Z
+    webUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html"
+    ampWebUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/09/nvidia-arm.jpg"
-        width: 1280
+      - url: "https://images.idgesg.net/images/article/2017/07/keys-to_access_solutions_rubic-cube_puzzle-100728331-large.jpg"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia will keep ARM licensing “neutral,” wants to license GPU tech, too"
-    excerpt: "Nvidia has officially announced that it is buying ARM from SoftBank for $40 billion. The deal is one of the biggest tech acquisitions of all time and will see Nvidia control the world's most popular CPU architecture."
-    publishedDateTime: 2020-09-14T18:38:00Z
-    webUrl: "https://arstechnica.com/gadgets/2020/09/after-40-billion-deal-nvidia-says-arm-will-keep-a-neutral-business-model/"
+  - title: "NVIDIA pursuing ‘giant AI opportunity’ with $40B Arm acquisition"
+    excerpt: "As NVIDIA CEO Jensen Huang put it, \"We are joining arms with Arm to create the leading computing company for the age of AI.\""
+    publishedDateTime: 2020-09-14T14:38:00Z
+    webUrl: "https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition"
+    ampWebUrl: "https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition/amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 57
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/02fa9902-268a-4449-81f7-17102b2ae9d7-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-9.32.09-AM.jpg"
+        width: 1590
+        height: 892
         isCached: true
 
 secured: "yRwv5U66hvd3jj3nkQpBKPlUBNXjlE9vVDzYNUTz5mAXltXyNdt0QCQHo9D03eUXIB4Rp08pwkXxmJe+Sr5pUOgN31m7TYLJaBJ+vt6LzgqqGU4oidHt3y7u4YdnQbN5ArKYN2rmNyKCEzvXZxAV0ukz3or7KlOzRYhgJNeuQHJK97ifvz9F1K2IV1v5atbm1jp5960BhdJSSaCrrOTnWM162fgf+Z8Ww7wE38Hf8v+q7JuGWtL9pt+V14egAOXAb6nwHjmxLMwDtCzrWEj6khPPGz/T4Pz0LNURvWE3gtb3uC2+j8wE/wstaefq8H0azllCm4hhJq1g/YOBJ3wWAWJAI40A51zqfCWZEyPOc9Rc/j3mkqJkEBRfKURWW6yO/4rP7JYFPlVbDwk+xzApW16WZ1l6NvphK2qlTVYMJ/DlujYmPkn1/ws37RzF3HpP0YWy3ZCqPHZWUEzncO0EK07OMapGU9YXSD2U/WBIXUv7szqawkjZyUw+MQMOQhqL6pK++IJOy6P2mIuUuQgKJQ==;YmpvWtOeGz++YWUqAAdNKA=="

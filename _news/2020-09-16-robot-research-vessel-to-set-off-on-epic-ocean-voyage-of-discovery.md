@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI and Solar Powered Marine Research Vessel Mayflower Launching"
+    excerpt: "The Mayflower Autonomous Ship (MAS), an AI and solar-powered marine research vessel which will traverse oceans gathering vital environmental data, was lifted into the waters off the coast of Plymouth,"
+    publishedDateTime: 2020-09-15T23:10:00Z
+    webUrl: "https://maritime-executive.com/article/ai-and-solar-powered-marine-research-vessel-mayflower-launching"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 39
+    images:
+      - url: "https://maritime-executive.com/media/images/article/Photos/Miscellaneous/Mayflower-overhead-IBM.83f505.jpg"
+        width: 643
+        height: 361
+        isCached: true
 
 secured: "+wtSP9G7/tE3fYgkn7gv/55IZ8wJaw7b9MPAFLxTuuukAi72FOWHJ3hmxOp1I6FmKckmm8vL4w4YA1vajx3F6bGplLAuqxWE8QsHpzOGcFK7x96bGexiQBgnMa4Wp61aPWRbLBHhfL7cRFSvPZMr3SIeA6uhWKHlGOfVSqKJ3hobl5t2vvEowxcMczmeVtg1DJi90lfEBO2MNs2gW3wl9Xz3Hpy4EV0I1rivbd47jJG/H7ppBy0wLU3kTl5eXS7QNFW0KJoa1ylpUe1lRurfMzwStz2ZV1Jhunl2Myi9If5JgozFeamKZw8Y1yg7powuISF+iCuDN8GHIRx59lVc460WirlAZ9ZXRMBJcUnTtyMjY/ves0ubsvO1svSj1NhPrOpw5bX6NrKPVcyYNxB3gCIbQwYIzlehswonCJT4sYCu97Cdk70Uk9wY1DGYs6+INRLy7pSc8MhOo9LDV9zKAGeSyhcafyqI8eDpA+7SfIiTbIhDwkJbm2rmuK9FmzrUoXFrgolZLUSFIvVBYxxZDA==;LTv8sO5S/hUL24Z2DY1XHA=="
 ---

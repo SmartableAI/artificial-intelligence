@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biopharma companies utilizing artificial intelligence for drug research"
+    excerpt: "The BioWorld Artificial Intelligence price-weighted index, which includes biopharmaceutical companies, medical devices and health care services companies, has climbed in value and is currently up almost 37% year-to-date."
+    publishedDateTime: 2020-09-15T01:18:00Z
+    webUrl: "https://www.bioworld.com/articles/497794-biopharma-companies-utilizing-artificial-intelligence-for-drug-research"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-network-machine-learning.png?height=635&t=1588275771&width=1200"
+        width: 847
+        height: 635
+        isCached: true
   - title: "Discovering Top Companies Leveraging Artificial Intelligence"
     excerpt: "As Artificial intelligence is evolving, many companies are deploying AI in cosmetic, gaming and app to offer efficient services to their customers. Companies like Sephora, Perfect Corp, Rocketbots are leveraging augmented reality and machine learning to enhance customer experience."
     publishedDateTime: 2020-09-14T05:02:00Z

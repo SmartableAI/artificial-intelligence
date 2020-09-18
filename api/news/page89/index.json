@@ -2,97 +2,6 @@
   "page": 89,
   "value": [
     {
-      "path": "_news/2020-07-13-documents-reveal-afps-use-of-controversial-facial-recognition-technology-clearview-ai.md",
-      "title": "Documents reveal AFP's use of controversial facial recognition technology Clearview AI",
-      "excerpt": "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2",
-          "width": 750,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/12451554",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554",
-      "publishedDateTime": "2020-07-13T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-robotics-start-up-cloudminds-returns-to-china-after-us-sanctions-hurt-its-business-in-silicon-valley.md",
-      "title": "Robotics start-up CloudMinds returns to China after US sanctions hurt its business in Silicon Valley",
-      "excerpt": "Cloud robotics and artificial intelligence start-up CloudMinds has abandoned plans to go public in the US, as it eyes a move to Shanghai and listing on China's new Nasdaq-style board, after its business was hit by rising tensions between the world’s two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/13/fffc531c-c4b5-11ea-86df-6d561651b5f4_image_hires_170425.jpg?itok=Kpe-CtGF&v=1594631075",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
-      "publishedDateTime": "2020-07-13T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-13-the-intersection-between-self-driving-cars-and-electric-cars.md",
       "title": "The Intersection Between Self-Driving Cars and Electric Cars",
       "excerpt": "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs.",
@@ -100,6 +9,7 @@
       "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -150,6 +60,7 @@
       "webUrl": "https://investorplace.com/2020/07/valuable-tesla-self-driving-tsla-stock/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -191,6 +102,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-301091851.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -232,6 +144,7 @@
       "webUrl": "https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -282,6 +195,7 @@
       "webUrl": "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -314,6 +228,7 @@
       "webUrl": "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -364,6 +279,7 @@
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -413,6 +329,7 @@
       "webUrl": "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -462,6 +379,7 @@
       "webUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -494,6 +412,7 @@
       "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -535,6 +454,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -584,6 +504,7 @@
       "webUrl": "https://www.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -625,6 +546,7 @@
       "webUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -675,6 +597,7 @@
       "webUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -716,6 +639,7 @@
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -766,6 +690,7 @@
       "webUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -816,6 +741,7 @@
       "webUrl": "https://venturebeat.com/2020/07/11/the-enormous-opportunity-in-fintech/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -866,6 +792,7 @@
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -915,6 +842,7 @@
       "webUrl": "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -966,6 +894,7 @@
       "webUrl": "https://www.zdnet.com/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1016,6 +945,7 @@
       "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1067,6 +997,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/b16449200/capella-space-goes-all-in-on-aws",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1108,6 +1039,7 @@
       "webUrl": "https://www.itworldcanada.com/article/opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform/394763",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1138,6 +1070,99 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-police-use-facial-recognition-tech-to-arrest-another-innocent-man.md",
+      "title": "Police use facial-recognition tech to arrest another innocent man",
+      "excerpt": "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/arrested-facial-recognition-technology/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/arrested-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-07-10T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-facial-recognition-linked-to-a-second-wrongful-arrest-by-detroit-police.md",
+      "title": "Facial recognition linked to a second wrongful arrest by Detroit police",
+      "excerpt": "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "publishedDateTime": "2020-07-10T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

@@ -2,104 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2020-08-06-researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color.md",
-      "title": "Researchers say ‘The Whiteness of AI’ in pop culture erases people of color",
-      "excerpt": "Researchers argue predominately portraying artificial intelligence as white in science fiction, stock imagery, and popular culture has consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robot-stock-imagery.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "publishedDateTime": "2020-08-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card.md",
-      "title": "The ‘Tesla Of Banking’ Start-Up Cred.ai Unveils Its AI-Powered Credit Card",
-      "excerpt": "How many bonus features does it take to convince a millennial to use a credit card? Try no fees, no interest, credit optimization, self-destructing account numbers, spending on future paychecks, customizable settings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2c18f3aec36fcaef4955ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/amp/",
-      "publishedDateTime": "2020-08-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-itranslate-launches-ai-powered-writing-assistant-app-grammatica.md",
       "title": "iTranslate launches AI Powered Writing Assistant App, Grammatica",
       "excerpt": "the language technology company behind the world's leading independent translation app with over 200 million global downloads, announced today the launch of its newest product: Grammatica, the AI ...",
@@ -107,6 +9,7 @@
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/itranslate-launches-ai-powered-writing-assistant-app-grammatica/article_1e70851a-f10f-5b79-84f0-0ee95572f35c.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -148,6 +51,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -198,6 +102,7 @@
       "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -250,6 +155,7 @@
       "webUrl": "https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -290,6 +196,7 @@
       "webUrl": "https://bipartisanpolicy.org/report/ai-research-development/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 157,
       "tags": null,
       "images": [
@@ -330,6 +237,7 @@
       "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -380,6 +288,7 @@
       "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -421,6 +330,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/algorithm-created-by-deep-learning-identifies-potential-therapeutic-targets-throughout-genome-301107737.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -462,6 +372,7 @@
       "webUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -494,6 +405,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
       "originalUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -544,6 +456,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": null,
@@ -585,6 +498,7 @@
       "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -634,6 +548,7 @@
       "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
       "originalUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -675,6 +590,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -707,6 +623,7 @@
       "webUrl": "https://www.eejournal.com/article/i-just-created-my-first-ai-ml-app-part-1/",
       "originalUrl": "https://www.eejournal.com/article/i-just-created-my-first-ai-ml-app-part-1/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -748,6 +665,7 @@
       "webUrl": "https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -799,6 +717,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 110,
       "tags": null,
       "images": [
@@ -849,6 +768,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -899,6 +819,7 @@
       "webUrl": "https://www.zdnet.com/article/google-heres-how-much-we-give-to-open-source-through-our-github-activity/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -949,6 +870,7 @@
       "webUrl": "https://www.infoworld.com/article/3568680/is-the-carbon-footprint-of-ai-too-big.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -998,6 +920,7 @@
       "webUrl": "https://www.nature.com/articles/s41598-020-70149-0",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1039,6 +962,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1079,6 +1003,7 @@
       "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -1117,6 +1042,99 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
+      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
+      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "publishedDateTime": "2020-08-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-big-changes-in-ai-design.md",
+      "title": "Big Changes In AI Design",
+      "excerpt": "One is a growing sophistication of the tooling, both in the training tool sets themselves — such as the whole model optimization toolkit inside of TensorFlow that helps prepare models with deployment in constrained environments — and in tooling from ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/big-changes-in-ai-design/",
+      "originalUrl": "https://semiengineering.com/big-changes-in-ai-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg?fit=787%2C443&#038;ssl=1",
+          "width": 787,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

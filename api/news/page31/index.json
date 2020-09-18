@@ -2,105 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2020-08-25-how-insurers-can-help-enterprises-with-ai-adoption.md",
-      "title": "How Insurers Can Help Enterprises With AI Adoption",
-      "excerpt": "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43baedc0067df365f1cd90%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
-      "publishedDateTime": "2020-08-25T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
-      "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
-      "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "originalUrl": "https://www.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/25/369bdc3e-e6b8-11ea-8600-abe4f45458c9_image_hires_181012.jpg?itok=uBMsQDjL&v=1598350221",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3098785/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
-      "publishedDateTime": "2020-08-25T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-25-5-life-saving-applications-of-artificial-intelligence.md",
       "title": "5 Life-Saving Applications Of Artificial Intelligence",
       "excerpt": "It’s one thing for a chatbot to help resolve an e-commerce order—it’s quite another to detect a heart attack in progress. Here are five ways AI is saving lives.",
@@ -108,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
       "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2020/08/25/5-life-saving-applications-of-artificial-intelligence/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -158,6 +60,7 @@
       "webUrl": "https://www.nature.com/articles/s41571-020-0417-8",
       "originalUrl": "https://www.nature.com/articles/s41571-020-0417-8",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -190,6 +93,7 @@
       "webUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
       "originalUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -231,6 +135,7 @@
       "webUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
       "originalUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -272,6 +177,7 @@
       "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-mp-asaduddin-owaisi-seeks-ban-on-facial-recognition/articleshow/77738866.cms",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -313,6 +219,7 @@
       "webUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
       "originalUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -354,6 +261,7 @@
       "webUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
       "originalUrl": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
       "featuredContent": null,
+      "highlight": null,
       "heat": 144,
       "tags": null,
       "images": [
@@ -404,6 +312,7 @@
       "webUrl": "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
       "originalUrl": "https://www.scmp.com/tech/article/3098596/why-indonesia-poised-become-next-ai-start-hub",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -453,6 +362,7 @@
       "webUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -502,6 +412,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -534,6 +445,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions-301117303.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -575,6 +487,7 @@
       "webUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
       "originalUrl": "https://www.indiainfoline.com/article/companies-announcements-bse/hsg-digital-joins-amazon-web-services-contact-center-intelligence-solutions-partner-program-120082500273_1.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -616,6 +529,7 @@
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
       "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -657,6 +571,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program-301117280.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -698,6 +613,7 @@
       "webUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
       "originalUrl": "https://www.forbes.com/sites/calumchace/2020/08/24/the-impact-of-ai-on-journalism/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -749,6 +665,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -799,6 +716,7 @@
       "webUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
       "originalUrl": "https://www.forbes.com/sites/tobyshapshak/2020/08/24/african-manufacturing-ai-firm-dataprophet-raises-6m/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -848,6 +766,7 @@
       "webUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
       "originalUrl": "https://techcrunch.com/2020/08/24/ever-once-accused-of-building-facial-recognition-tech-using-customer-data-shuts-down-consumer-app/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -898,6 +817,7 @@
       "webUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
       "originalUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -939,6 +859,7 @@
       "webUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
       "originalUrl": "https://www.cmswire.com/digital-experience/how-microsofts-analytics-strategy-might-evolve-with-a-tiktok-buy/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -980,6 +901,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/idtechex-research-details-opportunities-and-challenges-of-artificial-intelligence-in-robotic-surgery-1029528471",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -1021,6 +943,7 @@
       "webUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
       "originalUrl": "https://medicalxpress.com/news/2020-08-microsoft-ai-health-covid-vaccine.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1062,6 +985,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
       "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-research-key-players-industry-overview-supply-chain-and-analysis-to-2024-2020-08-24",
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -1101,6 +1025,106 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
+      "title": "This Philosopher AI has its own existential questions to answer",
+      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "publishedDateTime": "2020-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-24-why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night.md",
+      "title": "Why Data Bias In AI Will Keep Board Directors And CEOs Awake At Night?",
+      "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/08/24/why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f42e153f432c840c716d0af%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-24T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

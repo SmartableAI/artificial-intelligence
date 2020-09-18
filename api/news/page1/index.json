@@ -9,7 +9,8 @@
       "webUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
       "originalUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
       "featuredContent": null,
-      "heat": 99,
+      "highlight": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -50,7 +51,8 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
       "featuredContent": null,
-      "heat": 109,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -100,7 +102,8 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
       "featuredContent": null,
-      "heat": 82,
+      "highlight": null,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -150,6 +153,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -192,56 +196,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-18-retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026.md",
-      "title": "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026",
-      "excerpt": "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
       "title": "IBM, AI And The Battle For Cybersecurity",
       "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
@@ -249,6 +203,7 @@
       "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -298,6 +253,7 @@
       "webUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
       "originalUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -348,6 +304,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -398,6 +355,7 @@
       "webUrl": "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
       "originalUrl": "https://www.crainscleveland.com/scott-suttell-blog/small-companies-face-big-financial-hurdles-covid-era",
       "featuredContent": null,
+      "highlight": null,
       "heat": 152,
       "tags": null,
       "images": [
@@ -438,6 +396,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
       "originalUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -488,6 +447,7 @@
       "webUrl": "https://www.newsweek.com/ai-whale-california-shipping-system-1532611",
       "originalUrl": "https://www.newsweek.com/ai-whale-california-shipping-system-1532611",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -537,6 +497,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
       "originalUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -586,6 +547,7 @@
       "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
       "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -635,6 +597,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -686,7 +649,8 @@
       "webUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
       "originalUrl": "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html",
       "featuredContent": null,
-      "heat": 99,
+      "highlight": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -736,7 +700,8 @@
       "webUrl": "https://www.entrepreneur.com/article/356293",
       "originalUrl": "https://www.entrepreneur.com/article/356293",
       "featuredContent": null,
-      "heat": 119,
+      "highlight": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -786,6 +751,7 @@
       "webUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
       "originalUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -833,10 +799,11 @@
       "title": "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%",
       "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16?tesla=y",
       "featuredContent": null,
-      "heat": 74,
+      "highlight": null,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -874,8 +841,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -886,7 +853,8 @@
       "webUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
       "originalUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
       "featuredContent": null,
-      "heat": 99,
+      "highlight": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -936,6 +904,7 @@
       "webUrl": "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses",
       "originalUrl": "https://au.pcmag.com/news/68594/facebook-ray-ban-team-up-on-smart-glasses",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -986,6 +955,7 @@
       "webUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
       "originalUrl": "https://techcrunch.com/2020/09/16/luther-ai-is-a-new-ai-tool-that-acts-like-google-for-personal-conversations/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1035,6 +1005,7 @@
       "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
       "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1084,6 +1055,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -1134,7 +1106,8 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/",
       "featuredContent": null,
-      "heat": 104,
+      "highlight": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1183,6 +1156,7 @@
       "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
       "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1214,6 +1188,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
+      "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
+      "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
+      "originalUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ca4da21f-6d64-4878-8771-b3b8098ebd4e-e1600064374641.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/qualcomm-details-cloud-ai-100-chipset-announces-developer-kit/amp/",
+      "publishedDateTime": "2020-09-16T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "Google AI"
       ]
     }
   ],

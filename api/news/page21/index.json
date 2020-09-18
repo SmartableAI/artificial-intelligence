@@ -2,107 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
-      "title": "AI-enhanced displays are coming to more affordable smartphones",
-      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
-      "publishedDateTime": "2020-09-01T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools.md",
-      "title": "Google debuts custom voices in Contact Center AI and model management tools",
-      "excerpt": "AI is opening up a new world of possibilities in areas like customer experience, user engagement, and access to content,” Google head of conversational AI Antony Passemard wrote in a blog post. “In Cloud AI,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/",
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/01/google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools/amp/",
-      "publishedDateTime": "2020-09-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-01-hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first.md",
       "title": "Hate Symbols on Amazon; Nike Salutes Williams Sisters: Tuesday’s First Things First",
       "excerpt": "Welcome to First Things First, Adweek’s daily resource for marketers. We’ll be publishing the content to First Things First on Adweek.com each morning (like this post), but if you prefer that it come straight to your inbox,",
@@ -110,6 +9,7 @@
       "webUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
       "originalUrl": "https://www.adweek.com/brand-marketing/hate-symbols-on-amazon-nike-salutes-williams-sisters-tuesdays-first-things-first/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -151,6 +51,7 @@
       "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -201,6 +102,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/the-new-era-of-saas-is-here-and-ai-is-leading-the-charge/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -250,6 +152,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/01/symbolism-versus-connectionism-in-ai-is-there-a-third-way/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -300,6 +203,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/01/a-notorious-gpt-3-generated-blog-shows-ai-still-cant-imitate-human-writing-syndication/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -350,6 +254,7 @@
       "webUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
       "originalUrl": "https://www.theatlantic.com/politics/archive/2020/09/read-hillary-rodham-clintons-womens-rights-speech/615733/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -400,6 +305,7 @@
       "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
       "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/01/ai-language-tool-reveals-most-stressed-politicians-and-business-leaders/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -450,6 +356,7 @@
       "webUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
       "originalUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -491,6 +398,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-01",
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-size-regional-outlook-competitive-strategies-and-forecasts-to-2027-2020-09-01",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -541,6 +449,7 @@
       "webUrl": "https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/",
       "originalUrl": "https://venturebeat.com/2020/08/31/cosmose-ai-raises-15-million-to-track-shoppers-in-store-behavior-using-smartphone-data/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -590,6 +499,7 @@
       "webUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
       "originalUrl": "https://www.neowin.net/news/mediatek-helio-g95-chip-announced-for-gaming-smartphones",
       "featuredContent": null,
+      "highlight": null,
       "heat": 139,
       "tags": null,
       "images": [
@@ -640,6 +550,7 @@
       "webUrl": "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/",
       "originalUrl": "https://www.arnnet.com.au/article/682585/max-kelsen-serves-automated-rostering-domino-pizza/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -681,6 +592,7 @@
       "webUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
       "originalUrl": "https://seekingalpha.com/article/4371850-ibm-deep-dive-strategy-shift-driving-growth-attractive-share-price-and-dividend-yield",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -713,6 +625,7 @@
       "webUrl": "https://www.thenewstribune.com/news/nation-world/article245384385.html",
       "originalUrl": "https://www.thenewstribune.com/news/nation-world/article245384385.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -745,6 +658,7 @@
       "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/09/01/amazons-top-robotics-engineer-joins-ai-startup-scale",
       "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/09/01/amazons-top-robotics-engineer-joins-ai-startup-scale",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -786,6 +700,7 @@
       "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/",
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/09/01/5-aws-services-that-implement-aiops-effectively/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -836,6 +751,7 @@
       "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
       "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -877,6 +793,7 @@
       "webUrl": "https://inside.com/campaigns/inside-ai-2020-08-21-24176/sections/204182",
       "originalUrl": "https://www.militaryaerospace.com/computers/article/16714014/navy-asks-hydroid-to-develop-bathymetry-underwater-sensor-for-ocean-floor-mapping",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -917,6 +834,7 @@
       "webUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
       "originalUrl": "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": null,
@@ -949,6 +867,7 @@
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/08/31/how-an-ai-platform-is-matching-employees-and-opportunities/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -998,6 +917,7 @@
       "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
       "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -1040,6 +960,7 @@
       "webUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
       "originalUrl": "https://arstechnica.com/cars/2020/08/teslas-slow-self-driving-progress-continues-with-green-light-warning/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -1090,6 +1011,7 @@
       "webUrl": "https://mobile.twitter.com/bradporter_?lang=en",
       "originalUrl": "https://www.geekwire.com/2020/tech-moves-former-amazon-vp-brad-porter-joins-scale-ai-cto-uw-names-new-communication-leadership-director/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 126,
       "tags": null,
       "images": null,
@@ -1122,6 +1044,108 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-this-month-in-aws-machine-learning-august-2020-edition.md",
+      "title": "This month in AWS Machine Learning: August 2020 edition",
+      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-august-2020-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-august-2020-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/31/1-Header.jpg",
+          "width": 900,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T13:01:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-getting-started-with-the-amazon-kendra-sharepoint-online-connector.md",
+      "title": "Getting started with the Amazon Kendra SharePoint Online connector",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning (ML). To get started with Amazon Kendra, we offer data source connectors to get your documents easily ingested and indexed. This post describes how to use Amazon Kendra’s SharePoint Online connector.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/4-Select-connector-type.jpg",
+          "width": 900,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-31T12:14:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

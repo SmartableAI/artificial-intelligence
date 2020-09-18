@@ -9,6 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "originalUrl": "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -60,6 +61,7 @@
       "webUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
       "originalUrl": "https://www.wsj.com/articles/ibm-nielsen-partner-on-ai-weather-based-ad-service-11600291171",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -110,6 +112,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -159,6 +162,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -208,6 +212,7 @@
       "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
       "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": null,
@@ -241,6 +246,7 @@
       "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
       "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -278,23 +284,42 @@
     {
       "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
       "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
-      "excerpt": "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ...",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html",
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T14:20:00-07:00",
+      "publishedDateTime": "2020-09-10T16:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -315,6 +340,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ey-is-transforming-the-transaction-diligence-process-with-watson/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -364,6 +390,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
       "originalUrl": "https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -414,6 +441,7 @@
       "webUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
       "originalUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -455,6 +483,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
       "originalUrl": "https://thenextweb.com/neural/2020/09/03/nasas-impressive-new-ai-can-predict-when-a-hurricane-intensifies/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -505,6 +534,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/the-next-generation-of-nlp-how-new-capabilities-empower-businesses-to-make-data-informed-decisions/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -554,6 +584,7 @@
       "webUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
       "originalUrl": "https://www.financialexpress.com/industry/technology/beyond-the-court-how-ibm-is-powering-first-ever-spectator-less-us-open/2071803/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -595,6 +626,7 @@
       "webUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
       "originalUrl": "https://www.morningstar.com/news/pr-newswire/20200820ny98850/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -636,6 +668,7 @@
       "webUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
       "originalUrl": "https://localnews8.com/money/2020/09/01/ibms-watson-is-helping-tennis-fans-argue-with-each-other/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -677,6 +710,7 @@
       "webUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
       "originalUrl": "https://biztechmagazine.com/article/2020/08/more-businesses-are-using-ai-drive-user-experiences",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -719,6 +753,7 @@
       "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
       "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -769,6 +804,7 @@
       "webUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
       "originalUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -819,6 +855,7 @@
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
       "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less/article_665140f8-90e5-5c1b-84be-52666b6820ae.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -860,6 +897,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 108,
       "tags": null,
       "images": [
@@ -912,6 +950,7 @@
       "webUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
       "originalUrl": "https://venturebeat.com/2020/08/28/ibm-will-use-ai-to-pipe-in-simulated-crowd-noise-during-the-u-s-open/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -963,6 +1002,7 @@
       "webUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
       "originalUrl": "https://www.techrepublic.com/article/us-open-wont-have-spectators-but-it-will-have-ibms-ai-and-hybrid-cloud/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -1014,6 +1054,7 @@
       "webUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
       "originalUrl": "https://www.forbes.com/sites/andriacheng/2020/08/25/coronavirus-may-help-best-buy-become-a-key-healthcare-player/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -1065,6 +1106,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1106,6 +1148,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/08/ai-is-already-building-a-more-resilient-post-pandemic-world/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -1155,6 +1198,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y",
       "originalUrl": "https://www.marketwatch.com/press-release/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-2020-08-20?tesla=y",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1205,6 +1249,7 @@
       "webUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "originalUrl": "https://www.psychologytoday.com/us/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1237,6 +1282,7 @@
       "webUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "originalUrl": "https://www.psychologytoday.com/za/blog/the-superhuman-mind/202008/artificial-intelligence-loopholes-could-be-deadly",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1278,6 +1324,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&tesla=y",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1328,6 +1375,7 @@
       "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
       "originalUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [

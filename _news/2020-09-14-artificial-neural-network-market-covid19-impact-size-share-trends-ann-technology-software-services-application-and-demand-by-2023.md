@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-09-16T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Healthcare Market Company Share Analysis, Growth and Forecast 2020 to 2030"
     excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
     publishedDateTime: 2020-09-14T07:52:00Z
@@ -52,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Canada Artificial Intelligence Market Insights, Current And Future Market Trends & Forecast Till 2027"
+    excerpt: "The market report offers a comprehensive business study that analyses innovative ways for business growth and describes necessary factors such as leading players, market revenue, and growth rate. This report also focusses on market volume and value at a country level."
+    publishedDateTime: 2020-09-13T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,6 +98,50 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
+    excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
+    publishedDateTime: 2020-09-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Top Companies, Growth Factors, Market Status and Future Forecasts to 2027"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-09-16T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market : 2026 Size, Key Companies, Trends, Growth and Regional Forecasts Research"
+    excerpt: "Global Healthcare Artificial Intelligence Market is likely to grow at CAGR of around 41% and will exceed over USD XX billion by 2026. Global Healthcare Artificial Intelligence Market growth is primarily driven by increasing demand precision medicines,"
+    publishedDateTime: 2020-09-13T19:20:00Z
+    webUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/961130/global-healthcare-artificial-intelligence-market-2026-size-key-companies-trends-growth-and-regional-forecasts-research/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 48
+    images:
+      - url: "https://redandblackonline.com/wp-content/uploads/2020/07/bYy6ax_400x400.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "North America Machine Learning Market 2020 Report Examines Latest Trends and Key Drivers Supporting Growth through"
     excerpt: "The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a"
@@ -113,6 +185,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets."
+    publishedDateTime: 2020-09-14T14:16:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 21
 
 secured: "ptRdP/YpEXEJKrF4f1z9V+0yqd++/eJH9CyPurd/ed7UMCB9boy7ciT83ao7yTAoFVxYjOPMgQkqcdhibCTQ+aeuy6NxMT8ImjudylknNBnvZeyHiY4YQyC7TyUnawwjCzD7t652JHGZqYLNVJI5yows6wqQ2MTZwL7v5QMdUNGXL1shP5fdrXEryThcjSNHVN52fO/EzeMr7AaWppcBdvuW45BsU54uO60/Q+zXiaPpQEbzw4JW7AJWtpghpYQT7xH8PYYJsTNt8U6XbNFtRu3yL8NGmRzaOfk6aoq6JdvBFBLdN1WMwxevzL+VGk6Y42+9S8hSzAauI9XThpIlRsGhAW5rh/X9J/A0y3MZ/8A=;M3VW1ndmIg1Mbvhjev+s2g=="
 ---

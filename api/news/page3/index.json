@@ -2,55 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-15-instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions.md",
-      "title": "Instagram Makes IGTV More Accessible With Automatic, AI-Driven Captions",
-      "excerpt": "Instagram on Tuesday rolled out a new feature to IGTV: automatic video captions. The captions are powered by artificial intelligence and localized in 16 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60ee45512f01dcd9537442%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-google-launches-new-ai-powered-meeting-room-hardware.md",
       "title": "Google launches new AI-powered meeting room hardware",
       "excerpt": "Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to using Google’s own Coral M.",
@@ -58,6 +9,7 @@
       "webUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
       "originalUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -108,6 +60,7 @@
       "webUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -157,6 +110,7 @@
       "webUrl": "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html",
       "originalUrl": "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -198,6 +152,7 @@
       "webUrl": "https://venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/",
       "originalUrl": "https://venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -248,6 +203,7 @@
       "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
       "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -298,6 +254,7 @@
       "webUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
       "originalUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": null,
@@ -330,6 +287,7 @@
       "webUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
       "originalUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -381,6 +339,7 @@
       "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
       "originalUrl": "https://www.msn.com/en-gb/news/world/it-wasnt-our-fault-trump-blames-nevada-governor-for-indoor-rally-criticised-as-homicidal-by-doctors/ar-BB193WpK",
       "featuredContent": null,
+      "highlight": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -421,6 +380,7 @@
       "webUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
       "originalUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -462,6 +422,7 @@
       "webUrl": "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15",
       "originalUrl": "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15",
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": null,
@@ -494,6 +455,7 @@
       "webUrl": "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/",
       "originalUrl": "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -543,6 +505,7 @@
       "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSL1N2GC083",
       "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSL1N2GC083",
       "featuredContent": null,
+      "highlight": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -592,7 +555,8 @@
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
       "featuredContent": null,
-      "heat": 146,
+      "highlight": null,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -642,6 +606,7 @@
       "webUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
       "originalUrl": "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery",
       "featuredContent": null,
+      "highlight": null,
       "heat": 179,
       "tags": null,
       "images": [
@@ -692,6 +657,7 @@
       "webUrl": "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15",
       "originalUrl": "https://www.nasdaq.com/articles/varian-var-expands-presence-with-germanys-ethos-order-2020-09-15",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": null,
@@ -724,6 +690,7 @@
       "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
       "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2020/09/15/this-biotech-startup-just-raised-47-million-to-make-drugs-from-fungi/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -773,6 +740,7 @@
       "webUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
       "featuredContent": null,
+      "highlight": null,
       "heat": 149,
       "tags": null,
       "images": [
@@ -823,6 +791,7 @@
       "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
       "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -873,6 +842,7 @@
       "webUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
       "originalUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -914,6 +884,7 @@
       "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
       "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -964,6 +935,7 @@
       "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
       "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -1005,6 +977,7 @@
       "webUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
       "originalUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1054,6 +1027,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -1104,6 +1078,7 @@
       "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
       "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -1143,6 +1118,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
+      "title": "Portland becomes first city to ban companies from using facial recognition software in public",
+      "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "publishedDateTime": "2020-09-14T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

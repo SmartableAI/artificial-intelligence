@@ -2,88 +2,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2020-08-03-explained-what-is-natural-language-processing-gpt-3-and-how-it-works.md",
-      "title": "Explained: What is natural language processing GPT-3, and how it works",
-      "excerpt": "Natural language processing is how a software or programme reads language. It first checks for grammar and then for semantics. The more a software reads, the better it understands. So, if the information fed into the programme increases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/08/GPT-3-660.jpg",
-          "width": 660,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
-      "publishedDateTime": "2020-08-02T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-aws-announces-general-availability-of-aws-iot-sitewise.md",
-      "title": "AWS Announces General Availability of AWS IoT SiteWise",
-      "excerpt": "SiteWise makes it easy to collect, organize, and monitor data from industrial equipment at scale Volkswagen, Bayer Crop Science, Pentair, and Genie among customers using SiteWise SEATTLE--(BUSINESS WI",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
-      "publishedDateTime": "2020-08-02T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
       "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
       "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
@@ -91,6 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -140,6 +59,7 @@
       "webUrl": "https://www.dailyamerican.com/ap/business/aws-announces-general-availability-of-amazon-fraud-detector/article_8a629921-d75b-5561-b507-dbb54ffecd6b.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -172,6 +92,7 @@
       "webUrl": "https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -221,6 +142,7 @@
       "webUrl": "https://www.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -262,6 +184,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -313,6 +236,7 @@
       "webUrl": "https://www.deccanchronicle.com/science/science/020820/india-meteorological-department-to-use-ai-in-weather-forecasting.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -353,6 +277,7 @@
       "webUrl": "https://www.indiatoday.in/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -393,6 +318,7 @@
       "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 219,
       "tags": null,
       "images": [
@@ -443,6 +369,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -493,6 +420,7 @@
       "webUrl": "https://www.forbes.com/sites/cathrinetodd/2020/08/01/former-ceo-of-artificial-intelligence-company-buys-historic-napa-valley-winery/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -542,6 +470,7 @@
       "webUrl": "https://www.zdnet.com/article/myth-busting-ai-wont-work/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -591,6 +520,7 @@
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -642,6 +572,7 @@
       "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -692,6 +623,7 @@
       "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -733,6 +665,7 @@
       "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -782,6 +715,7 @@
       "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -832,6 +766,7 @@
       "webUrl": "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -881,6 +816,7 @@
       "webUrl": "https://www.forbes.com/sites/karlmoore/2020/08/01/focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -930,6 +866,7 @@
       "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -971,6 +908,7 @@
       "webUrl": "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -1022,6 +960,7 @@
       "webUrl": "https://www.cnn.com/travel/article/airports-facial-recognition/index.html",
       "originalUrl": "https://www.ft.com/content/a5847177-f993-3c8e-af60-747e6109cb7d",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1062,6 +1001,7 @@
       "webUrl": "https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -1103,6 +1043,7 @@
       "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1133,6 +1074,89 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-dhs-analyzed-protester-communications-despite-comments-to-the-contrary.md",
+      "title": "DHS analyzed protester communications despite comments to the contrary",
+      "excerpt": "Arradondo said police had also seized a record number of illegal guns during recent arrests, including ... at a Black Lives Matter protest in Las Vegas has now also been charged with sexual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f2c503ac50991009ef44d5b/lede/1596751220691-pexels-photo-207574.jpeg?crop=1xw:0.84375xh;center,center",
+          "width": 3375,
+          "height": 1898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "publishedDateTime": "2020-07-31T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
+      "excerpt": "According to report publish a new market research report on the \"Artificial Intelligence (AI) in Healthcare Market: Global Size, Trends, Competitive, Historical and Forecast Analysis, 2020-2025 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16884717/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-la",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1596192527.jpeg",
+          "width": 512,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16884717",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16884717",
+      "publishedDateTime": "2020-07-31T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

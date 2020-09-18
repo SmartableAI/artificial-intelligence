@@ -40,6 +40,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biopharma companies utilizing artificial intelligence for drug research"
+    excerpt: "The BioWorld Artificial Intelligence price-weighted index, which includes biopharmaceutical companies, medical devices and health care services companies, has climbed in value and is currently up almost 37% year-to-date."
+    publishedDateTime: 2020-09-15T01:18:00Z
+    webUrl: "https://www.bioworld.com/articles/497794-biopharma-companies-utilizing-artificial-intelligence-for-drug-research"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-network-machine-learning.png?height=635&t=1588275771&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "8hJj6IOkIlX5zTWWmqiB0FoSdTFR1ApzydW0j++xxo+w50bXVNvypXbKmpsbh+esJ/IFzX/G3kWkis/0nFv4Aq+9GQ7CuBz5MW6rJAtbWSNbKLXLYd4yv9n5SmqRo9R7zDpUxZRtdge2KVIle0xPMbaWJNEzlEUmYGLb4U2e96tP4bhSDzajbKtHrRAZtqlZxA7hblxe2loIwvEYWA3i577+aSan8cJANf/4cAI9mNgRoZGyPD/1R7Jw/HrK9Ew2Cd4rvsJuSdzQ65s+e5xSAziOVvXjf3K+vZUfy1I8JUW7YvtHWYhxA1mb5xRoNnTorAwdz+kluuEGOTYLgHbw2g3RoJNua99jVtfAhZQ3g3I=;f/vdvwxIZflyzm720hXGbA=="
 ---

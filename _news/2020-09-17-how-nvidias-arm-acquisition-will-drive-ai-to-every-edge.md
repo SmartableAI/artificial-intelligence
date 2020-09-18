@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisitio
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
+    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2020-09-14T14:28:00Z
+    webUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/"
+    ampWebUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 58
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "NVIDIA pursuing ‘giant AI opportunity’ with $40B Arm acquisition"
     excerpt: "As NVIDIA CEO Jensen Huang put it, \"We are joining arms with Arm to create the leading computing company for the age of AI.\""
     publishedDateTime: 2020-09-14T14:38:00Z

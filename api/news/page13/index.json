@@ -2,89 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-09-07-google-cloud-a-platform-for-innovation.md",
-      "title": "Google Cloud: A platform for innovation",
-      "excerpt": "Using AutoML Vision, organisations can automate the training of their own custom machine learning models. Or they can take advantage of the pre-trained machine learning models in our Vision API to assign labels to images and quickly classify them into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "originalUrl": "https://www.themanufacturer.com/articles/google-cloud-a-platform-for-innovation/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/02180919/Colored-pipes-in-The-Dalles.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-07-watch-google-deepminds-alphago-documentary-for-free.md",
       "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
       "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
@@ -92,6 +9,7 @@
       "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
       "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -133,6 +51,7 @@
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -183,6 +102,7 @@
       "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
       "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/09/07/Dubai-s-RTA-applies-AI-machine-learning-to-plan-better-bus-routes",
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -224,6 +144,7 @@
       "webUrl": "https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/",
       "originalUrl": "https://venturebeat.com/2020/09/06/how-ai-will-automate-cybersecurity-in-the-post-covid-world/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -273,6 +194,7 @@
       "webUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "originalUrl": "https://www.techradar.com/news/nvidia-tells-us-more-about-how-well-the-rtx-3090-gpu-performs-8k-gaming",
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -323,6 +245,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027-2020-09-01",
       "originalUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027-2020-09-01",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -372,6 +295,7 @@
       "webUrl": "https://www.theverge.com/2018/10/9/17950502/robot-farm-future-iron-ox-agriculture-automation",
       "originalUrl": "https://hackaday.com/2019/09/04/are-hydrogen-cars-still-happening/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -412,6 +336,7 @@
       "webUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
       "originalUrl": "https://www.zdnet.com/article/glaxos-biology-research-with-novel-cerebras-machine-shows-hardware-may-change-how-ai-is-done/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -463,6 +388,7 @@
       "webUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
       "originalUrl": "https://venturebeat.com/2020/09/05/how-adobe-is-using-an-ai-chatbot-to-support-its-22000-remote-workers/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -512,6 +438,7 @@
       "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
       "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -562,6 +489,7 @@
       "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
       "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
       "featuredContent": null,
+      "highlight": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -603,6 +531,7 @@
       "webUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
       "originalUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -652,6 +581,7 @@
       "webUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
       "originalUrl": "https://montrealgazette.com/news/local-news/artificial-intelligence-expert-moves-to-montreal-because-its-an-ai-hub",
       "featuredContent": null,
+      "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -692,6 +622,7 @@
       "webUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
       "originalUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -741,6 +672,7 @@
       "webUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
       "originalUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -782,6 +714,7 @@
       "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/",
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/09/04/lean-sensinga-critical-enabler-for-autonomous-vehicles/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -832,6 +765,7 @@
       "webUrl": "https://hackaday.com/2016/08/03/1980s-toy-robot-arm-converted-to-steam-and-other-explorations/",
       "originalUrl": "https://hackaday.com/2016/08/03/1980s-toy-robot-arm-converted-to-steam-and-other-explorations/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -873,6 +807,7 @@
       "webUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
       "originalUrl": "https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -914,6 +849,7 @@
       "webUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
       "originalUrl": "https://techcrunch.com/2020/09/04/ai-drawn-voting-districts-could-help-stamp-out-gerrymandering/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -963,6 +899,7 @@
       "webUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
       "originalUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1004,6 +941,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/04/how-the-pandemic-could-accelerate-ai-powered-professional-sports/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1053,6 +991,7 @@
       "webUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
       "originalUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1094,6 +1033,7 @@
       "webUrl": "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
       "originalUrl": "https://www.techradar.com/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1133,6 +1073,99 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-yandex-and-uber-spin-off-self-driving-division.md",
+      "title": "Yandex and Uber spin-off self-driving division",
+      "excerpt": "Russian technology company Yandex and American ride-sharing firm Uber partnered to develop self-driving vehicles, but on Friday, the two companies announced they're spinning this joint venture off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
+      "originalUrl": "https://www.cnet.com/news/yandex-uber-self-driving-russia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/U5E9F3OpPEZ6uR4Rhww4QIovyUw=/2019/07/11/66dc6beb-e710-47b0-aa8e-973ad2f335d6/yandex-hyundai-mobis-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-uber-self-driving-russia/",
+      "publishedDateTime": "2020-09-04T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-black-detroit-man-wrongfully-arrested-after-facial-recognition-search.md",
+      "title": "Black Detroit man wrongfully arrested after facial recognition search",
+      "excerpt": "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
+      "originalUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
+      "publishedDateTime": "2020-09-04T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

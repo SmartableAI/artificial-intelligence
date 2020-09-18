@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356293"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/phone-5300447_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
-    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
-    publishedDateTime: 2020-09-15T13:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
         isCached: true
   - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
     excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."

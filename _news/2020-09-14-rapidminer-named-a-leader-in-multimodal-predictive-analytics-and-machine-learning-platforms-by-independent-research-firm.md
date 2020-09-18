@@ -30,6 +30,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
+  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
+    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
+    publishedDateTime: 2020-09-17T05:39:00Z
+    webUrl: "https://www.thaipr.net/it/1026362"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 0
 
 secured: "l6nYdRegDIUxOzxoHBzgr/ldTixf4mJOBYiOD0f5twQbznoZyJdZ4OFvSjHGKx7dtZ6YZccX48VUcNo/hb7/++AGTochypWCsOyZUJRQuFkvz9Zka1Z6I5mKhDNXLbfh4kzZtBc4O+2dqA34cpdOeMuAMqkHS2KMvIlGKmTauAzZoZPEa/sIb2f8vMiA+/oDUMKu+ErUNAJ3IqAJvmC6Wy/geOyQBMoscXqYmY2k8X11y4I2X1RraTYOjtjIQbwWFnD9T7K0vIk9Lm3738XXn77ivk8Ku+9WfoF8BR5WbNasSVZMgyYzdT4LMLxxjIXX7jR6qBfe01GhIHyBneWzakfIv+7Den/CLZFUv00Mejo=;rKzWL7QF050OuACyNcrAyg=="
 ---

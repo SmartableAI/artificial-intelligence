@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "City of Portland, Oregon, prohibits facial recognition"
+    excerpt: "The City of Portland, Oregon, has decided to ban the use of facial recognition for City bureaus and by businesses in public spaces."
+    publishedDateTime: 2020-09-14T05:49:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/09/14/city-of-portland-oregon-prohibits-facial-recognition/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/09/face-detection-4791810_1920.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
     publishedDateTime: 2020-09-14T15:30:00Z

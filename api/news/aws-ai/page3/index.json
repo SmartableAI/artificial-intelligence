@@ -9,6 +9,7 @@
       "webUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
       "originalUrl": "https://www.techradar.com/uk/news/aws-reveals-first-quantum-computing-partners",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -59,6 +60,7 @@
       "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
       "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -101,6 +103,7 @@
       "webUrl": "https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -151,6 +154,7 @@
       "webUrl": "https://www.infoworld.com/resources/207272/mit-sloan-implementing-ai-from-exploration-to-execution",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -201,6 +205,7 @@
       "webUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
       "originalUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
       "featuredContent": null,
+      "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -242,6 +247,7 @@
       "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
       "originalUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": null,
@@ -283,6 +289,7 @@
       "webUrl": "https://sbr.com.sg/hr-education/more-news/dbs-amazon-web-services-upskill-staff-ai-and-ml-skills",
       "originalUrl": "https://sbr.com.sg/hr-education/more-news/dbs-amazon-web-services-upskill-staff-ai-and-ml-skills",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -324,6 +331,7 @@
       "webUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
       "originalUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -365,6 +373,7 @@
       "webUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -406,6 +415,7 @@
       "webUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
       "originalUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -447,6 +457,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -497,6 +508,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
       "originalUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -538,6 +550,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -588,6 +601,7 @@
       "webUrl": "https://analyticsindiamag.com/latest-data-science-and-analysts-jobs-at-intel-accenture-and-more/",
       "originalUrl": "https://analyticsindiamag.com/latest-data-science-and-analysts-jobs-at-intel-accenture-and-more/",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -629,6 +643,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -679,6 +694,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -729,6 +745,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/accessing-data-sources-from-amazon-sagemaker-r-kernels/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -779,6 +796,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -829,6 +847,7 @@
       "webUrl": "https://www.bakersfield.com/ap/news/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments/article_4ea21be5-d5a2-59c6-bfa9-61e68da485c1.html",
       "originalUrl": "https://www.bakersfield.com/ap/news/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments/article_4ea21be5-d5a2-59c6-bfa9-61e68da485c1.html",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -870,6 +889,7 @@
       "webUrl": "https://www.liputan6.com/tekno/read/4328298/perdana-liga-perempuan-aws-deepracer-resmi-digelar",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -911,6 +931,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -961,6 +982,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1011,6 +1033,7 @@
       "webUrl": "https://www.infoq.com/vendorcontent/show.action?vcr=5426&itm_source=infoq&itm_medium=VCR&itm_campaign=vcr_news_click&itm_content=bottom",
       "originalUrl": "https://www.infoq.com/vendorcontent/show.action?vcr=5426&itm_source=infoq&itm_medium=VCR&itm_campaign=vcr_news_click&itm_content=bottom",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1052,6 +1075,7 @@
       "webUrl": "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 121,
       "tags": null,
       "images": [
@@ -1103,6 +1127,7 @@
       "webUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
       "originalUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1153,6 +1178,7 @@
       "webUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
       "originalUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1194,6 +1220,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-best-practices-in-financial-services/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1244,6 +1271,7 @@
       "webUrl": "https://www.atmarkit.co.jp/ait/articles/1908/08/news032.html",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1285,6 +1313,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1335,6 +1364,7 @@
       "webUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/",
       "originalUrl": null,
       "featuredContent": null,
+      "highlight": null,
       "heat": 85,
       "tags": null,
       "images": [
