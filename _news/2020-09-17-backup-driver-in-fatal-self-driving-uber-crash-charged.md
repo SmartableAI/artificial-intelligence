@@ -292,22 +292,6 @@ related:
         width: 766
         height: 479
         isCached: true
-  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
-    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in Alberta, Canada."
-    publishedDateTime: 2020-09-18T07:25:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8746695/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8746695/amp/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8746695/amp/Tesla-driver-20-ASLEEP-wheel-self-driving-car-speeding-93mph.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-a-11_1600411151492.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
     excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
     publishedDateTime: 2020-09-15T22:00:00Z
@@ -434,6 +418,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Uber’s “Safety Driver” During Deadly Self-Driving Car Crash Charged With Negligent Homicide"
+    excerpt: "On March 18, 2018 at around 10pm, one of Uber’s self-driving Volvo SUVs was involved in a deadly crash in Tempe, Arizona, killing 49-year-old Elaine Herzberg, who was walking her bicycle across the road."
+    publishedDateTime: 2020-09-18T14:22:00Z
+    webUrl: "https://futurism.com/uber-safety-driver-negligent-homicide"
+    ampWebUrl: "https://futurism.com/uber-safety-driver-negligent-homicide/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/uber-safety-driver-negligent-homicide/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 34
+    images:
+      - url: "https://wp-assets.futurism.com/2020/09/uber-safety-driver-negligent-homicide-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Man behind wheel of self-driving Uber car charged with negligent homicide for running over woman"
     excerpt: "The state of Arizona is pursuing negligent homicide charges against the man who was behind the wheel in a self-driving Uber car that ran over a woman. In 2018, Elaine Herzberg was struck by a self-driving Uber in Tempe,"
     publishedDateTime: 2020-09-16T01:54:00Z
@@ -450,6 +450,20 @@ related:
         width: 618
         height: 407
         isCached: true
+  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
+    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"
+    publishedDateTime: 2020-09-18T06:46:00Z
+    webUrl: "https://www.newsoneplace.com/30766411911/asleep-tesla-self-driving"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 30
+    images:
+      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-m-13_1600411152093.jpg&h=250"
+        width: 335
+        height: 250
+        isCached: true
   - title: "Safety driver in fatal Arizona Uber self-driving car..."
     excerpt: "By David ShepardsonWASHINGTON, Sept 15 (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that"
     publishedDateTime: 2020-09-15T23:02:00Z
@@ -463,6 +477,20 @@ related:
       - url: "https://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"
         width: 636
         height: 382
+        isCached: true
+  - title: "Uber Driver charged in self-driving crash that left 1 dead in Tempe"
+    excerpt: "Vasquez was the \"safety driver\" behind the wheel at the time the self-driving Uber hit and killed Herzberg, a pedestrian who was walking her bike across Mill Avenue in Tempe in March of 2018."
+    publishedDateTime: 2020-09-17T00:23:00Z
+    webUrl: "https://kvoa.com/news/top-stories/2020/09/16/uber-driver-charged-in-self-driving-crash-that-left-1-dead-in-tempe/"
+    type: article
+    provider:
+      name: KVOA 4
+      domain: kvoa.com
+    quality: 24
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/39/2020/09/NC_ubercrash0916_1500x845.jpg"
+        width: 1500
+        height: 845
         isCached: true
   - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
     excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
@@ -492,6 +520,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Uber self-driving car operator charged in pedestrian death"
+    excerpt: "The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide"
+    publishedDateTime: 2020-09-18T15:29:00Z
+    webUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/"
+    ampWebUrl: "https://whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/uber-self-driving-car-operator-charged-in-pedestrian-death/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
     publishedDateTime: 2020-09-15T09:50:00Z

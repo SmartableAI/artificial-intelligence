@@ -75,7 +75,7 @@ related:
   - title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
     excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
     publishedDateTime: 2020-09-17T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17"
+    webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17?tesla=y"
     type: article
     provider:
       name: MarketWatch

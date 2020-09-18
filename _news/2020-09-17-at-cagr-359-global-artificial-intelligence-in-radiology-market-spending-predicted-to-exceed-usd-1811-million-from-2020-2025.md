@@ -3,8 +3,8 @@ category: news
 title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
 excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
 publishedDateTime: 2020-09-17T10:08:00Z
-originalUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17"
-webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17"
+originalUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17?tesla=y"
 type: article
 quality: 41
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -106,6 +106,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "EQq5wsUvcd1SWu/UwehA9PHZxSXzMT8FP/9tYumFOoZ9xcL031FEYhwY170/aZ2Zjsc/oyROgu8pqyZU9Y5z2A0ORFeg6lsv6sVjodA1EhmKUv16FDUzbRuX5mvsUpNSabnxNyCyDsQTYJxWgDIzc5evOxfmq3zjrodNjy7lMvswLaJQfXA4Poa8Er2A2tegtz2TQmJPJwc/kG+eE92VOqn5I1YJmrEj6uGZyoBUANeFUdByVqznbabO4C8BXEaqGsQjt8d/dH1Kr8R3KfYunjY6zGdLO/MTQnKTSTEPpDU7SV7JLngHQlrdtKzAS8jFT0Iio0YowsTSlZTAazn3+Bf3vq9MC6eyrodwAsHOF6s=;vzqpcUeQkokLKjHSKyoKFA=="
+secured: "1PV+90nKhZcfbqfmuz3WulLLxHbi8IBqUQq+FPvLT2ysCvJD0gC2oKBKlOa9IGIAsif+USJMPrr1RNZGkFphoJWlCGVD8kQYFcSczpXTFRmwiCn7gnFtyAnAHPpQXB7TN+KwC6d7oPsBTGP6TWKN/zop90kEFo24BYV2imPl2dD5UNLFF3mo3y4uieddfwt+s/itGRUBBlDFIcB510QWXsASZkpNkPhgl0BZo7UKv/BqCi6Y/EvZrKnS87xo/98POyie/pkdshw4G0eAyE0xE/xFMjXKHP5v4yGD7T5l9NVnII7LpV/MHJ0uxcEg5AQEU2MFJXmcF7dd7HQ55/6BXtBKUOCf2PpRzQCuT0j6o+w=;f7c3uMHlQQSy23NEbLIZcA=="
 ---
 

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-    excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal insights into optimizing Deep Neural Networks (DNNs) for multiple processors at the 2020 Embedded Vision Summit."
-    publishedDateTime: 2020-09-16T14:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-1029595178"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Gyrfalcon Showcases New Tech at 2020 Embedded Vision Summit"
     excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced it is showcasing enhancements to its Lightspeeur® portfolio at 2020 Embedded Vision Summit,"
     publishedDateTime: 2020-09-15T13:00:00Z
@@ -50,6 +39,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
+    excerpt: "StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal"
+    publishedDateTime: 2020-09-16T15:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "VQIk4zfCHv8i6+cRZT4WAsSnyA4LSPlpp8srZdGgdj7p/LU2UcmR8Gm0wM6FioSvh+5mrKTkfc7Ye2HfBJLeyUhvbSQufup5O7/06Fu8bOACV+I48ySpDOF0+x4DdGgcHGAFKjzwy7fOas7rJHdpP+m0EN1gkknNq4+lm/eTn4QFRerRLkd1rfuX9PRfufJwFhinSQWYOSMBMOOONLMM6VO2rusiaHVABX47j4uMZ0mmznmgrQeT/H9TFdYt2h256Cn3no5PQ1SOyvwyZ9MEm5zXyi7CkqW1A5Xg64fNDkQorajzjAbWy8+XgcCWTf5YnWqf2zggMnXBZPhI1DSp79BAGwGgwmgW7/QLW0ZjSxg=;8xPqsqcASoilzfBNNAmegg=="
 ---

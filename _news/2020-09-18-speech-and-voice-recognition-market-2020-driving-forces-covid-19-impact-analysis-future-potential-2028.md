@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Growth and Analysis, Top Manufacturers, Industry Trends, Size, Industry Share, Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Market report also explores future trends for supply,"
+    publishedDateTime: 2020-09-18T13:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-and-analysis-top-manufacturers-industry-trends-size-industry-share-forecast-to-2026-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-Based Fever Detection Camera Market Reports, Scope, Methodology, Timelines And Challenges Forecast Till 2026 | Fortune Business Insights™"
     excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
     publishedDateTime: 2020-09-14T08:42:00Z
