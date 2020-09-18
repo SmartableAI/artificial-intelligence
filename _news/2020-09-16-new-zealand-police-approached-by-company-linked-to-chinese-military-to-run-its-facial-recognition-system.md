@@ -54,20 +54,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
-    excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
-    publishedDateTime: 2020-09-13T12:08:00Z
-    webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 43
-    images:
-      - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
-        width: 846
-        height: 571
-        isCached: true
   - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
     excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
     publishedDateTime: 2020-09-16T16:55:00Z

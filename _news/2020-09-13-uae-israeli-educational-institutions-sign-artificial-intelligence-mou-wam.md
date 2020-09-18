@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26408T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26408T"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478"
         width: 640
         height: 428
-        isCached: true
-  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
-    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
-    publishedDateTime: 2020-09-13T12:09:00Z
-    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 25
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
-        width: 740
-        height: 416
         isCached: true
   - title: "UAE AI University, Weizmann Inst. sign MoU to collaborate on AI research"
     excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""

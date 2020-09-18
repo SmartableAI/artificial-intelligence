@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%"
 excerpt: "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD"
 publishedDateTime: 2020-09-17T00:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
 type: article
 quality: 64
 heat: 114
@@ -92,6 +92,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "btu9elN528HDfBPuWo95fRxFgoXVP2j/O9/5t9Qcp2p3ec5RuOYqGulHFaF9DeVhmUL89BHXRMt7XxzlyqGiZeNxjo03Bqkbd2A0kJKBeiBnT1IczeCb7RvlOno0RJJ/PDopJZ7Z6uzWuyE2nzJLIc+TDY/vzLBBPaWGCuQLrFuqoIYq/1ju2yTe5cIo9ABR+nU67Xt46+w1oRYLTANEF/BREdVNkE9C4b9np45kXFqzk971GI0zTKeji17ZYv5W3wlcsbgGpY3I1i4GZIpdTUu24EmI1C9lzVgIN9xRFMemE/i1OOA63U7Sn2jhUY7MKpW9h1ZUhjW07eTw4f6Qldf4FPEURWa1Qd+rgM+SOy8=;cDaD4LPdWS/wAVWIPWmWkA=="
+secured: "ocvDg7IMNfx9KN2qbdb7mRBSgQyfLt3swRIu46L9iITN7P8m8IUHNnC0O+5ifXyHOrbzbhpOC6/wW4D4TugznDHSAChPkhzJEp03w4KP+9GwF14MDw24xydLBBZIHOM7hXtRz9qH5GVwa8RfH12MdEqiRaDD4hU+vrM5SOHPG8TL6HUPWBwceYkpVIR/+nK4WxuCcFBUjThaBBNkWUlJz0PS6A6LDbnGA0dl02WTBkfPN+ML9ssXP8TFmw/YHjmGUS+z7ggv4orBEZBqi6UWGarFWVjLNhmE8YBzDcsLE3qNYlCiAZEmLbPkLhiaNIlMHMvWhUUe0nnCRRMYx0c9Gb32PL0YkMBGwuQuyUwufbE=;Y3P4nCx63iDojw+lBkW67g=="
 ---
 

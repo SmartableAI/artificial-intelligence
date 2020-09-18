@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Luxand Has Released a New Face Recognition SDK with a Thermal Face Detection Feature to Help Fight COVID-19"
-excerpt: "Luxand has released a new FaceSDK 7.2 version with numerous improvements, including a major Thermal Face Detection feature, that helps small-, medium- and"
+excerpt: "Luxand has released a new FaceSDK 7.2 version with numerous improvements, including a major Thermal Face Detection feature, that helps"
 publishedDateTime: 2020-09-17T12:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/luxand-has-released-a-new-face-recognition-sdk-with-a-thermal-face-detection-feature-to/article_e9ab2409-9716-5df2-b0df-9b52415ade66.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/luxand-has-released-a-new-face-recognition-sdk-with-a-thermal-face-detection-feature-to/article_e9ab2409-9716-5df2-b0df-9b52415ade66.html"
+originalUrl: "https://www.prnewswire.com/news-releases/luxand-has-released-a-new-face-recognition-sdk-with-a-thermal-face-detection-feature-to-help-fight-covid-19-301132978.html"
+webUrl: "https://www.prnewswire.com/news-releases/luxand-has-released-a-new-face-recognition-sdk-with-a-thermal-face-detection-feature-to-help-fight-covid-19-301132978.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c1/8c149bb8-617b-592d-bc17-14036fb0c2ef/5f635e5704180.image.jpg?resize=400%2C225"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1275522/thermal_face_detection_samples.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "z9hdhtiRvyFGQVNcFWUW6RFfcUCJoN/dOhlIWtjZ3VwHzNZHfX//gQuluT1U99jXOtnc4H01n4oQSWQqIwL9E+VdSF8ORGpO6gRelI/e+x3sdZx7t7tSL0whfrvtS8YFVmVq1wLXXALXTK+xvBwqFjQ1laMZZFf1MQ03iFUPQ/Fjjv/4v8H4lE+7nBA6pZv3oiImf3Ml/jpn5fIblCz+9KQdU05sA3QUv4C12stzODTqcxAm6NwcLfgRjJ87V7KR7zGk1VhwUFe01hJDkqNaxb65BKYEZmAe6Bcf5My31Z6fZECyRTMpoyfIsA1p8aq3xsD4j2OErxfXVr0DrcLHCStoxJrMf+vGe1MbyiIlz7s=;HxLfLqNMdBYgGSL96yOMfA=="
+secured: "oRfWZfwL4Oq0nT3ghCCSqXqzEiI3TlRDpbZggPCawPzKyqN7frIwek6OtIlClgf/xc5GiLwVmYQc0I+Cb5oJUMYvhyuqGYbVrb3baxfULL2E43TN0JAVF/v8XVRgFdFTx82pfAfSkinHWquooT2V2tjhmsNY2ljVBMHWxNnQKfq3O12UHghSvuPNzgQQ8zSedifL+WssY6W2NkY2dLQrSTaPLHS/I5S/yr3yIIJDBeEecxwJ3VqWPtOYgPdB7kIUnRpjP0JPAzoBn4t1FNjq4NYpmEo1oJuveZ6NFtU2Rc297GZLSCxxmvbv0k7hzOFC00yGHDUJG2x+sHmTjp2bUQQnoy85+fiuJoabhSk0EtI=;aQgd53KAmu2ZVxFUZ1jbhA=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops"
+    excerpt: "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday."
+    publishedDateTime: 2020-09-18T04:06:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Authorities charge Uber backup driver involved in fatal self-driving crash"
     excerpt: "The Uber driver that was behind the wheel of the self-driving vehicle that struck and killed a pedestrian in 2018 has been charged."
     publishedDateTime: 2020-09-16T10:06:00Z

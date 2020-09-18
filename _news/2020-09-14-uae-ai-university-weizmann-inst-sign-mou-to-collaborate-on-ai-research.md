@@ -45,20 +45,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
-    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
-    publishedDateTime: 2020-09-13T12:09:00Z
-    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 25
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
-        width: 740
-        height: 416
-        isCached: true
 
 secured: "IECuvee3M1iN6zFhNjTzLerBSjuBdWHUJ4oR4pq6oSLLRTZAZewHODwJF8hOxXcqWcftSVDHZNG4wC7IeS2E8sLeI2HdEpDBToeK/K7uYtEqRtrybBoD44blG8tnDY17pKf5NII/jLhgVir4bTFiEbPxeejhjEtZsvB0lAKwbuvWeIviLB17eG3qKEhuwPY8H5Ca5pHiScZdptZQ+WIYM3ni6MP+QklC4RrYkFnoLKuB8x61lOyGxc7uYZ82PGzytFt6izhd5ZVoztGiYcbaTuWtS7ikrBippFELYMwLiuUzSPQX2wJQkUE1Oii0B3Vap2UVIQCXIsSD9N9SXZ/WWF5D2OgBHDbepCx/Ig/MCfVYhjMzTw6tU1LAiKFG4FdToAZgQY5Ov9ToXjytw3SX82OfsOfrQ3Lp1ewCrBfTrJ3js+UtTQZtALwuqi//lwWgs+1+Y1D0bcg/PFqwiriND89TJc02Ins8XWcTJSZ/q30MWF2kJJahhdFU2Zpy/MKr5SclynWVef2Osz0NuyV/PA==;GWCG74ODbTextmydvokZ6Q=="
 ---

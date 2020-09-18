@@ -3,8 +3,8 @@ category: news
 title: "Nvidia sends shockwaves through chip industry with Arm deal"
 excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
 publishedDateTime: 2020-09-15T14:19:00Z
-originalUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
-webUrl: "https://www.bizjournals.com/newyork/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+originalUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
 type: article
 quality: 19
 heat: -1
@@ -91,6 +91,6 @@ related:
         height: 799
         isCached: true
 
-secured: "ce725Wa6cgBEAhflHvpxnFJcaKpWfiSwoGj+pgiRFKX2wcwk1Cd9k466YWlPn//tUGIt9OVbyrP/HhNAljxtnnUo6V5kiH78Q4mDDOdgJEl0rjd3Hap7yYp1xPr0p5PGvMuJbABhAXNGqCZl2e98zQ7jaXksLeaPzAkq6n9Z4D0o15dNCdwrvn7RoEUTb908kvjTOxxCLU6ykOKrN9bqDis47hnXiVmxEqn0G2EmHs3a2BCfTCP47QPokuN5TXq42WOd3PO4cl/heJi61Cd7Y0DJ1O8/ewjfAu40a81qAx/GfdG0ivwKvcRPUk+NnyyZ1U0VX9qZHDinqXyr6GL72jCbcPdcV+KjJxdZQjtpCnqKD2qVS3e9CSbvdFiSmrF7xmcPtFe23FtzHyKCQHPK905w/+Ge0RPVkXDNPc/Bn30w0t4HUZavPUfGhQ0P3yBmq+lXIdjbGV/I79iMY5FXYTf7PKcDzNXAbF7ZyP72z99FuKxh9KndHA149+8fTWxI6T6yxiJ+wcH8LmZnRjlKIg==;810HXRkr+SmjtI/gV1hPeA=="
+secured: "/X0o3VVIGEC3FF6Y6Vkm/0ZufoRer8JK5T5ttNoW8LNVA+nhJMaAE0zpQDqe+CAiPRTp7lWX7uOqmaszBx9tJDnq+CIDCKKYJuHRDB2oWBkGYKOzP6cV41R70nvcK5tZzUmezhfHUXAOAUMz//AfiKH14mPHp4V3FITkWXh4EwXnCDyqxxRGbntcxnbFPMOtPlQTdSHsXCj5m3mApw+ZMtxuXQqiAWzUnH3bamiWjHKQ9OkeYPsZ/4r/lV5OboOBaUKxs9vSvthDaSfe6m6ULl16hvZlSHQYKWkNgqw6voOHmMK7MDu5CWJJEVdQFe7UsKSZj2pKoHMjKpHDxS27S6zz2uogJAYNB2Djaz0akBnzVne48DIIMQRtimyMNmAgH8uQ7ZlVSu7ESPdFM2jOFaGdoEn9Q1UQC85gRHxIYkTaqPAczxyKLOYyNjM9R4QXVZx1QfhQEXdsC2iDI0rZkFUUq68Eg4wtnAcC2YQExYX8bUEKaivHHLqNOPVFwHUSroUX5MITCJfKdvaS/rABUQ==;TXusGDEVDQ08WQjde57Gnw=="
 ---
 

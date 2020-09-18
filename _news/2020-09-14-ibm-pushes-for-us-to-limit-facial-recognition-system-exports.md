@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Amazon tried to thwart Portland's historic facial recognition ban"
-    excerpt: "Amazon, which manufactures that technology, worked vigorously behind the scenes to thwart. The ban on private uses of the technology will go into effect on New Year's Day 2021, while the city ban goes into effect immediately,"
-    publishedDateTime: 2020-09-13T12:08:00Z
-    webUrl: "https://www.salon.com/2020/09/13/amazon-portland-facial-recognition-ban-lobbying-surveillance/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 43
-    images:
-      - url: "https://media.salon.com/2020/09/surveillance-cameras-0911201.jpg"
-        width: 846
-        height: 571
-        isCached: true
   - title: "New Zealand police approached by company linked to Chinese military to run its facial recognition system"
     excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
     publishedDateTime: 2020-09-15T21:43:00Z

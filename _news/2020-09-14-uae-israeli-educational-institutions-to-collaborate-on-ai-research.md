@@ -37,20 +37,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Emirati University, Israel’s Weizmann Institute to Collaborate on Artificial Intelligence Research"
-    excerpt: "Dr. Al Jaber stated that welcomed the opportunity to “collaborate with such a renowned establishment as the Weizmann Institute of Science.”"
-    publishedDateTime: 2020-09-13T12:09:00Z
-    webUrl: "https://www.jewishpress.com/news/israel/emirati-university-israels-weizmann-institute-to-collaborate-on-artificial-intelligence-research/2020/09/13/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 25
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Emirate-AI-MOU.jpg"
-        width: 740
-        height: 416
-        isCached: true
   - title: "UAE AI University, Weizmann Inst. sign MoU to collaborate on AI research"
     excerpt: "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\""
     publishedDateTime: 2020-09-13T19:22:00Z
