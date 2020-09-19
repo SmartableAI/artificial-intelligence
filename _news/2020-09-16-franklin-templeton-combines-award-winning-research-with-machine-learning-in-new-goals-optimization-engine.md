@@ -3,20 +3,26 @@ category: news
 title: "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine"
 excerpt: "Franklin Templeton today announced the introduction of its proprietary Goals Optimization Engine, or GOE TM. The global offering provides investors with personalized investment paths for their unique goals,"
 publishedDateTime: 2020-09-16T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine"
-webUrl: "https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine"
+originalUrl: "https://apnews.com/business-wire/b1d5650433984f78b9f53f17f2762438"
+webUrl: "https://apnews.com/business-wire/b1d5650433984f78b9f53f17f2762438"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vkYb+KI67Z9U10vyF7OlO3jtGvjqaCIQbaXvkrAAo59xWwX2RckXFZEn1obOLVOXCGvMWqKIc770msBvM8cs+xv6kiANHW3vcJ7QlmU1mjav1d+jqnKUgyUtCdZZKQGCKR3MGDQS8mTfhHcrcETdad2aXGhOvzpjIazw00MzxtuZHdu/uVGWDLKSFSvmHPCydb1YHHGDbb6HbdtQIgmdKXLQVECRURQcBKB22ev6y8gQcUIzeKQlUFH7pUMs9Df5BUPzb4Z108BwD5ae5U0tc6pdNANBj4N4AaynTUS6FjwvoLFmxS6aHsELjswZLOS3gDc0wtUWVA7/FWSQ5o+RSX9GUzr5aaPE4UKJHyeizRk=;ZbRXohXb2MbLniErThPkxA=="
+secured: "MtKWeUnDCO3lMTnaWSukY/Y9nQSNEX/hAgqGhlNNSYCFrH7yyreGG84cPTJm2ZkI6kO1fSqbZGZgmg/QK25FuZCjNNkkgynfDQFup3CkFS4ZllRGTheDbgxjtoY+3fpYWgP+sfpCZcdddprtasLd/S80ReMnabqY0yKGID/tOviy1C3ITROmHWTHBuXp7K/Gi0K15yvD1WBxT5poi2KShmNdDzRaLXxc793kB5dVj5SVw6U+fKO3vnJRvxXaKbDLshoIpSdq2QUZVi/mXckfiSTvlIfFG0H50xI+mRCJUMU9vSCp8yrV/VDkuC8iY6OiCTRDHDkYT2TXBcAd3m24fkp2MV0/YdYcwnWgDMjBZU4=;tbXEsgnoekSZQBJO4snIiQ=="
 ---
 

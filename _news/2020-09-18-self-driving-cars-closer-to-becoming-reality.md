@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Self-driving cars closer to becoming reality"
-excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
-publishedDateTime: 2020-09-17T18:01:00Z
-originalUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
-webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
+excerpt: "Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car."
+publishedDateTime: 2020-09-17T17:42:00Z
+originalUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.html"
+webUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.html"
+ampWebUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
+cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
 type: article
 quality: 24
 heat: -1
@@ -17,12 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -657,6 +653,6 @@ related:
         height: 334
         isCached: true
 
-secured: "0VfGzM/E69mn4C1p3eg1fWtSWzV/rOEdzxb7tH2jhoaCD10ltx7V/d7AXqfFexqH4HgcSaZ6UjzaRVgM5y5s/DrK4GxzTvgjqkARrfTx1Ih/eB6WnqkJ+VUpxnFQ6Uvsgdv3VJyP/WajSSNpEy2q9nm7mEODnFybZoC+95gxQvzmctRVUQbOWaslljjRrhXYG3g7CIBVAARqvXFOSFoG8dwuJ0w9BHwDf/YINcXkwxPJwCvLFHBboMwG2pHTVHAPfSZFPxUWSbhk3MF6vOmX6uQbdF9Eztoj/3e4OTP9si2XLHI/Ax6/vUtGB3y6u7jZOllfeWoCKqsS7RAoAG0VBU3K7D34l48Jl4TfNL341j0F0KMDQ230Wq0AGElGQKMvt+PONboint5GNWwlGpnSgIHSw4AJHifB/ShbzWVfNNUKlvEKvo3wwf6wAKY24HmSA+lQHEWtbgUSBPfzzkhXEW2F4NQv6S5oNpNyKBjXK1+a2/g805UVPn8wYOE+a5Pqket3y0rYOAjtGGEABuvSPg==;F6FzM9Wkm8X21eDo/wMvsQ=="
+secured: "nwFfYdbc1n29wk3gLoEUKtKm8KTg7TbzhBGBtotGKSuw7BQDKMqarKN6/zFFdEaEPyBSvfqHi02pMSxNvyG75iZnC/Tn0896rcVf02MNRD9J9EQ/JrbvTTlWhxrTmNm1FAixKmccVLz/k5gvBdNa8Ce0gdtVAyCpLvzGDfr/1u0iPvhVzgP3YySiqggd8BWnQ/D9FHSClCpNMCcCGnI2JQewae9LtE5eBR4nwGntN4K5UyAcKm6W43OhEOs/wGP3OPlPMiAXDiYle5YXm7mQsWd/SciHUJcLDX0UGTrwRQbk67luSkF8kMXBihNGOmkB8PgDZiEyGKTNFrPXfsrJI9RpBcvIXzhL93Y1Jmfz/yNBHjHdI0IGhtpVh/xv2NTMmox9c8DoRGodKzVplFga6HIO2doAnlKc22JW+KOV7v8rD4cKg649AiDz2VRwHTDFTEgCbzFKTG2Nw+sm8VMetAsPouxfDLFVfFHB4+QYvf+tVHRdXDxhxiP2ZugSjM+53kODom9pcTcQEiav0YwN+g==;IXSBqnhcr7cUVzsAUJYzXw=="
 ---
 

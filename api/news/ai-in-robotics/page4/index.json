@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
-      "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
-      "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/iFarm_1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones/amp/",
-      "publishedDateTime": "2020-08-20T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
       "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
       "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
@@ -1362,6 +1311,48 @@
       "provider": {
         "name": "Vanguard",
         "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
+      "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
+      "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
+      "originalUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/nextstemP-1596869064769.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "publishedDateTime": "2020-08-09T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

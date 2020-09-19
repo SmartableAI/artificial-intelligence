@@ -2,6 +2,81 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-22-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook wants to help build AI that can remember everything for you",
+      "excerpt": "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology —",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.html",
+      "originalUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/a/23/a23779fe-95d4-5f39-aa3e-a85307ddf259/5f41ab074fe08.image.jpg?resize=1024%2C616",
+          "width": 1024,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.amp.html",
+      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/facebook-wants-to-help-build-ai-that-can-remember-everything-for-you/article_e6ff5cd3-7700-5870-8f4c-e3fcfd59ba65.amp.html",
+      "publishedDateTime": "2020-08-22T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Atlanta",
+        "domain": "cbs46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-better-buy-alphabet-vs-facebook.md",
+      "title": "Better Buy: Alphabet vs. Facebook",
+      "excerpt": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Facebook (NASDAQ: FB) are the top two companies in the digital ad space. One dominates internet search, while the other holds domain in the social media sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "publishedDateTime": "2020-08-22T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
       "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
       "excerpt": "have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project, which is designed to survey the changes ...",
@@ -1079,108 +1154,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters.md",
-      "title": "CarbonChain is using AI to determine the emissions profile of the world’s biggest polluters",
-      "excerpt": "It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-495112746.jpg?w=1024",
-          "width": 1024,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/21/carbonchain-is-using-ai-to-determine-the-emissions-profile-of-the-worlds-biggest-polluters/amp/",
-      "publishedDateTime": "2020-08-21T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-is-building-home-robots-to-help-you-find-your-ringing-phone.md",
-      "title": "Facebook is building home robots to help you find your ringing phone",
-      "excerpt": "Now, some new breakthroughs made by Facebook AI researchers suggest that home robots might be able to do the hard work for us, reacting to simple commands such as \"bring me my ringing phone.\" Virtual assistants as we know them are utterly incapable of identifying a specific sound,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/21/971abfc1-0652-4769-8468-9fef47e09515/facebook-embodied-ai.png",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "publishedDateTime": "2020-08-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

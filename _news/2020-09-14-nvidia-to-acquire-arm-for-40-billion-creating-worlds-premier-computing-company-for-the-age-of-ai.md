@@ -1,69 +1,30 @@
 ---
 category: news
-title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
-excerpt: "NVIDIA and SoftBank Group Corp. today announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund in a transaction valued at $40 billion. SoftBank will remain committed to Arm’ s long-term success through its ownership stake in NVIDIA,"
-publishedDateTime: 2020-09-14T00:21:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-to-acquire-arm-for-%2440-billion-creating-worlds-premier-computing-company-for"
+title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
+publishedDateTime: 2020-09-14T00:16:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
 type: article
-quality: 35
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Nvidia confirms it’s buying Arm for $40B to expand its AI efforts"
-    excerpt: "Graphics hardware and AI giant Nvidia has confirmed its long-rumored acquisition of UK-based chip design firm Arm in a $40 billion transaction."
-    publishedDateTime: 2020-09-14T04:04:00Z
-    webUrl: "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/14/nvidia-confirms-its-buying-arm-for-40b-to-expand-its-ai-efforts/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/ARM-x-Nvidia-hed-796x419.jpg"
-        width: 796
-        height: 419
-        isCached: true
-  - title: "Nvidia to buy Arm for up to $40B, combining smartphone, GPU powerhouses"
-    excerpt: "Nvidia is set to buy Arm for as much as $40 billion, the largest semiconductor deal ever. Nvidia says that it will use Arm's CPUs to bolster its AI technology."
-    publishedDateTime: 2020-09-14T01:45:00Z
-    webUrl: "https://www.pcworld.co.nz/article/682886/nvidia-will-buy-arm-up-40-billion-combining-smartphone-gpu-powerhouses/"
-    type: article
-    provider:
-      name: New Zeeland PC World
-      domain: pcworld.co.nz
-    quality: 39
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/dreamstime_s_164869732_1.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
-    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
-    publishedDateTime: 2020-09-14T13:39:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 25
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "7RGs7dPQu1FrnjnVEuKvKyHEZDUuYnBzZstVYQR4Hxf+2c+oa0crIg49eRavkm+LZ03H7xmPIa9smNuanGv9oTtn4bHagq8JJDmEJLvo32q0AjGMbBr1JaplCvicduPdghdIhZtRqyzhZ+NAt/OVs9MBsoFmFn4O69RPALeFGgkoJS0R8seF5jDyuKpFAMle8twaQeGdiSD9NRxSF02lDbbdC5Q6tTiWHpbZOT6jplNoFRH77pkgVtNMu/89W66THc8VVZ2Vs9vyxvAp3wleAlH8cugUp3gaEb9tYBeUgmqKJDo2pDDgIoCtsVlfK8PmtF4j1LxnGR7zEVtWtVk1FvtslT9O2tQu3I3B944RcXA=;XTpIa9heuK0tmB+aMfm1Ig=="
+secured: "ITP0DqSpY/L70HNNs+9PKfrWGwEzUFJH8F51Iwz49RkqFdaxILaJjShOk5xdNAWwkYyqvLR9CB0SUw4EE3ehtTBe+hJy4HnSw5842kGNbDZj00VCVVuQhpumPBIzL1xMXKlEIXdNX7mFuGerNMabbRKFB3aejYhfD91Hvqg/OMnYLxmWbXCGC3JmhZYIWTlclCFTCF5pe9lrHOHwhfzqew6K6bIbwOt500rGptj2Idr15v0askenCWUf4b0R/gA3AugFZvkhm0aurUcvygUv1C+ElkqOm/jdr4ZQxfmZEmWYnIuBImDzrH5HpaSBaq98/sfZ4twOzbcAMW2QRyoFyPcYQM+OIsZVydqzR1HjGhk=;hN+r40knj1vXlqDzHN9HUQ=="
 ---
 

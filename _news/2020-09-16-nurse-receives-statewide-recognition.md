@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Luna’s Director Achieves National Recognition"
+    excerpt: "Luna Board member Mary Beth Vitale recognized for her leadership by the NACD as Most Influential Corporate Director and Governance Expert."
+    publishedDateTime: 2020-09-19T16:58:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200909005324/en/Luna’s-Director-Achieves-National-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200909005324/en/339326/23/LUNA_Logo4c.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "JNro+8n7W+qbUNNZPiYm685AvL+fs7s7C21F6ZKGO2jaNSHUnICT0A7YSzE/QFOkQMllrb6cGwW0rqFA9aaYBoYvrw6VuUUMyJoEoBL4LnlQJoyqNxXD9aUKxn9fagY1PcTbTbEWsVkWG2AzIIpdtn7IB8UDJS1A3QZNVSkRaDRVI4lIyxsyYHQJY892ogdwtm7LI9LyBKbRk5foyBBUur8NCFTM5YHPBHw32lmYZEj4uW0+/t/P4CsovnMcAlNZVv74VyzZkRDa7WIvlhl1hb36ilpodYeNnlWxV1yCpmXwzQe6yLABiIR0FH8batOBfLyvmOojTZcoCHDhhUiAfSxyroUnomgU1Q2ZbfpL4gVgE6HXTl3Cov/0xtLdfYvasq3/1mLSmykkOyc1gEKlhb5s0z7FxKtcps4cCSWjfouZi2LkYbOv1Arm1V5JJ7xOIxZtvAaQkWWY609vKEg6NcqwPw5sTK0qWhDZhd66HsdQSG+PFUWXp5nncC2UVZO6L8CD4GAkjvAg+sh4t6yklg==;TjNXTx8EIc7e/qCklbqN6Q=="
 ---

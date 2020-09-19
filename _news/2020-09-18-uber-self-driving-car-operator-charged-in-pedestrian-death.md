@@ -537,19 +537,16 @@ related:
         height: 672
         isCached: true
   - title: "Self-driving cars closer to becoming reality"
-    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
-    publishedDateTime: 2020-09-17T18:01:00Z
-    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
+    excerpt: "Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car."
+    publishedDateTime: 2020-09-17T17:42:00Z
+    webUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.html"
+    ampWebUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
+    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
     type: article
     provider:
       name: WSMV
       domain: wsmv.com
     quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
     excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
     publishedDateTime: 2020-09-15T09:50:00Z
