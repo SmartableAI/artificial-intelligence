@@ -1,30 +1,20 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ..."
-publishedDateTime: 2020-09-10T23:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
-webUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
+excerpt: "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ..."
+publishedDateTime: 2020-09-10T21:20:00Z
+originalUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
+webUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "SjMUS52M1fe1enmjNH4BeR8BkIofJFhcfKw1fpHv95w1Dg/3KNa+QcjmL6HFg3bNSp0MTjNqv3T/Pmj90f61V/wndxUBJsrmJu1+JWgQbROOimc9hUeehKE4QCLtzUr7O7E7TuzMXEG55taNKtSKb4N1DpmxBxfk0KACJGdP6EsO/KPqEXOTgmZTmpp0vJ3NG9kpDdc0C2eqVH1fzp4mR/hw3nOlD9Dd9yFGpV+jlBC8fF8eqOHKJEZGUZpOGKnJSu4ZlolO9v02TqPsk0WHd/iOup3Zqgvt/8kfEcnOiLdsPiNm0oeLVT8QJdCvzClprY2+NaXHuyXiB7xZgk6ASagVgbx0eNv/E31jvRJeu80=;N6r7hHPFewkHIdOwE7Nrfg=="
+secured: "HYU43rsESd1en3dYLQWoxbdBY8Px+m1c0Z1xatbtTAHw+6eXIP1WRrj0Evj3CBUCvK4V5yJH7rKaZG1lQQ5ZjQmdNOv7hF5bXQVRdOr8r01INdiwKa45qctA6hHlQZuoFOZF93KCpgdPSy7zBa18uUPpHuOuAFJYr9B+AIBUZ7wW2osyBOQl1Bi4cFwVPzng/PH2IdAmKIIipEqPixUFEy1T8KY/Cx4nSktiqFz8W+4DHj5HwNgXoXGALCcNjI2CZJSk2aGjIod6QC7yzZYHUixsVwQR+0L0qkiWw8ZRc5bQyyIZYWQ5GmViFK+L2PgF8fVLAIZMs07P9zOaMKN/KHvssZbw85ujU0adG2ye45I=;u18bzgPSo1Ow548ngiKysA=="
 ---
 
