@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1400
     height: 787
     isCached: true
-
-related:
-  - title: "Biopharma companies utilizing artificial intelligence for drug research"
-    excerpt: "The BioWorld Artificial Intelligence price-weighted index, which includes biopharmaceutical companies, medical devices and health care services companies, has climbed in value and is currently up almost 37% year-to-date."
-    publishedDateTime: 2020-09-15T01:18:00Z
-    webUrl: "https://www.bioworld.com/articles/497794-biopharma-companies-utilizing-artificial-intelligence-for-drug-research"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 39
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-network-machine-learning.png?height=635&t=1588275771&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "gzkjnH55j5bVfeicNu62MdGeiLlwNEB7EvNClDdwKqqYyXHTZ6zIj+aAnMzM5IwR0tX9xjaHCiqo48llfHVGI+5nCwhE6qIS98b3Uc1j6WKKdNL3mgryhLdavj1D38WvD7sSLS25g7H2SzYcKJSA0Qw13oqGl/H6qF71+r/aox3CCvBh72CwBuoWxB15WuEJP7lVlzfq0MyFQR7uF5UpIVgYdguC4ra25aHbzORQPJor3kj9e/udMgxZ8BaH9GmqoIkpHLZ8QtEs37dhgFBfu+OJJPG88EEWIMR+DD2v2TS5+1kCdsYui5ey9RS6z99rInHalH2VK1P8NGUWjeIt/a40IEfX7uwrsHm9smrftSLo7NZZgNNE6j/evYZ6hLqjBEs3FkvL28Calzxi6A53saBtWGyRgp52QQfWqKmBkiijCQPSd1yWE6fdt7kXE1/yjZtYFtpTZZlm0LZmivwAXsHLFCj8NSSZvUjNfX39tJUzfD5T65QHqHdubE/iib5Uk9zFasOcIQCBbBxCLLWLHA==;4nnxPydk+xTAyKz67fYVcA=="
 ---

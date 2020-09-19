@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 69
+  - title: "Joget DX Low-Code Application Platform Available on Red Hat Marketplace"
+    excerpt: "CNW/ -- Joget Inc, the open source no-code/low-code application platform company for faster and simpler digital transformation, is pleased to announce"
+    publishedDateTime: 2020-09-19T18:42:00Z
+    webUrl: "https://www.newswire.ca/news-releases/joget-dx-low-code-application-platform-available-on-red-hat-marketplace-848497616.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1078276/Joget_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
 
 secured: "76B8cKqQxB2UZYu3EPJZOj3ayNbDwBL4qqrCA5Z1oNkXkE0H4Kp1cMzu6IMR9Enc/3/r89Yvx0PtpCpfub5Gkulc9UhHzWX7LApcvxd8Zo385mSdTJoDSdal2W/cH4tJOhWgnjnz6CZ0RSM8gbbG3APbpdN5EPMm9ae5/4TevMajatGrGipbMvEJjtUlQVe8tRPOBc7lxdan/V3B6EAsBeSL0ZkmZxdbZwflfqBglcWQU30LOgALR/2H5/qtvTwAlEq4YoSmRSh0dnqqoUfZ7NC4TAlVYA3ooO+Rfis0incjlMPpxqljkIxEV3mdGhUGtj5ngte0D65eIJwwpozKS4x0kQDHmtAqbujnghUFWt4=;tr2ksLq4Y6oHbZTIAnDkKw=="
 ---

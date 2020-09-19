@@ -1,20 +1,30 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ..."
-publishedDateTime: 2020-09-10T21:20:00Z
-originalUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
-webUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ..."
+publishedDateTime: 2020-09-10T23:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
+webUrl: "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10"
 type: article
 
 provider:
-  name: Troy Record
-  domain: troyrecord.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "GQhjWBXb4uBiarN36oFvuV2mhPc47v5LLB4c3h3LCqu5iHkrli1ejDbzbL0CvODgfWz8Bc5BfBH+RP05iXuRoyCmfbxHgSTlI65je3RtfGW2RT2TEWtM70mF/V7AU9uQem4QqP7lpUlpLvcHAeSRvt5tklK/CG0DdagetrsmKC45DOv7s9F9IiSsn8LbzJgU7sYniw+VprYUn6VBwQR1ToXN29lJSG7E2lPNdJiWDVYDyVvZEObLulOwNdeJCuW1norsNeYe1zycObieofSgQ73BEh+L/kzEbbflUvtOluOwfhD/IH9BVOiO+k+OI4B7oVwQzzXTcmfNiozWpq5BC6heGSQZuPgXjxlCMq/mn6Q=;qxKOMCS7ZeugsE5FHcut3w=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "nOCXFnMvDHBOe6DzJYYI61H+cHm9SBjv5qb8gE1atYaEHb84eg3lEpxWLWB4LVP+2jFClAD31jZJqeIHE+yMadkhyNETBzD2mdHrQzmhNtpEsXw4Lt7jVPbCyn8kiISB6fDtZ+ZMJI1Yy6Bbhcb2kMoxhRdsMydArk8KxSBOJ61fbC4WHuVzx4QjGJKgXvcE9clK5bLk2OwP2R6CZIyfP0oguJaLqdusudiODkKL+Q1RoARtUSy0I1lgZmLqhS9Xt3TYEDcg38A6RT+fp7gQ0bIl7ugDICQ9EesYP7fgvHIoWkzGGYcvTngoT/1AYkDMxn0CZ8suk9WN7Wf9fdU8enSyDio7CjqD9DxZRxfAzdQ=;rU4KZ4C8yTr8kicWv6DbJA=="
 ---
 
