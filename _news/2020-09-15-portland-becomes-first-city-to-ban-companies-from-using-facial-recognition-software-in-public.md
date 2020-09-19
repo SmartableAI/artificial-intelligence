@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/portland-becomes-fir
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
+    excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
+    publishedDateTime: 2020-09-18T22:45:00Z
+    webUrl: "https://www.thetelegram.com/business/reuters/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition-495091/"
+    type: article
+    provider:
+      name: The Telegram
+      domain: thetelegram.com
+    quality: 16
 
 secured: "IzbFyk+OlEbWlzsA7F7GXeIAYNxZ5EVFDwO08miKzjlVlZR1GhAvRY6SGnM4HE+L5nIzEk+ObsFXaIBMgtfGVHQLLW4Tnnt8yCWSDQhFPI7TczqX7SZM2Cj74spQEfg3zO9BkOCXJqOlv0G7HPILMUDnJz3xZ2aXNAuNnpn41km7wCfydLM2fDXr355svIiNsSncQMG+Z/AH8D4ssXf2Z8gkyLdURFkLqI8djif8IGqm8nqLyMbFhVeEIWbOAnAlJb0HAGwRRpHC2Y68J/r/JFk3THp6peXJCRzf/KpqjICgD/ikwwiedrsd4YyxbntYK3uQ8LXGr9q2NVzuOo0/jYFscqzEow5EtVWcDbo4ijx1baP4ep3cvRtvEfsHkylKCfw+uvbFfq2jYTtY+Mh5Ia/FJ38265vxxeGym5ZXdbpI6JdkMyUJCJShYtB/eUIvcZ8hpwaKOSMV+nSr85XoDQlHfCalhDO5bxfMNtmcP/KkzNSC9HRZoITun7QCBtzpfajdX5wbj2ICS+WM4BzYkw==;idEUmRRA8itN3SU1HBKmOQ=="
 ---

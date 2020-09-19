@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia chief pledges to make Britain an AI leader with $40bn Arm deal"
-    excerpt: "Jensen Huang says 'no great nation can afford to be left behind' in AI race as he promises to work with Government on deal"
-    publishedDateTime: 2020-09-14T05:06:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/09/14/nvidia-chief-pledges-make-britain-ai-leader-40bn-arm-deal/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/14/nvidia-chief-pledges-make-britain-ai-leader-40bn-arm-deal/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/14/nvidia-chief-pledges-make-britain-ai-leader-40bn-arm-deal/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/13/trump-triller-tiktok_trans_NvBQzQNjv4BqSZCfQn3UNBPwFTCNOaG4IelS64mSNPESJC2oDVKqy_s.png"
-        width: 750
-        height: 469
-        isCached: true
   - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
     excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
     publishedDateTime: 2020-09-14T17:00:00Z

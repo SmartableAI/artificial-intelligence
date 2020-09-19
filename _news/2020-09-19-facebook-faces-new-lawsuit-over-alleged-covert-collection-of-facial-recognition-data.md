@@ -54,6 +54,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Montreal should restrict police use of facial recognition technology: councillor"
+    excerpt: "Montreal police said through a spokesperson they have no comment on the proposed motion but they follow all laws governing their operations and investigations."
+    publishedDateTime: 2020-09-18T22:19:00Z
+    webUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/"
+    ampWebUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 54
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2018/07/facial-recogition.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Bans on Facial Recognition Technology Spread Across U.S."
     excerpt: "The decision earlier this month by the city of Portland, Or., to ban the use of biometric facial recognition by businesses and local police  is one of the strictest measures so far taken by U.S. jurisdictions to address spreading concerns about privacy."
     publishedDateTime: 2020-09-17T11:32:00Z
@@ -107,20 +123,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "City of Portland, Oregon, prohibits facial recognition"
-    excerpt: "The City of Portland, Oregon, has decided to ban the use of facial recognition for City bureaus and by businesses in public spaces."
-    publishedDateTime: 2020-09-14T05:49:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/09/14/city-of-portland-oregon-prohibits-facial-recognition/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/09/face-detection-4791810_1920.jpg"
-        width: 728
-        height: 410
-        isCached: true
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
     publishedDateTime: 2020-09-14T15:30:00Z
@@ -140,6 +142,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "TMncpbs9iP5vrjD9+pA0yh/EtWuTJrFjDpH3Fcf5tCpwfxfgu//vwejxDKl0/KTp/OYUyuq8sd1926N3WhVgxRCaeoOhlMeDs4jo4NmR6rQiRIdFadomC4QGasXrRSCxsOcuOiTqeiWi1dG5Pg4U6usaFdzBJ1pBLy6z0G8M/45x5+82k70pppHWjz2389soU9+W+upnpi24yl/Du4FvvnR01WJdVWkdMOy3BECUqDlBWcMCOYg9SE/j2SXSPy8eYtfEKCm2MJdet9vAztiPruzhPhnkMPcX3doJZGIo2vMRV71TbJbbo/Ae4X5eQuMhc/sIoYlWfD9JG0t77vyDfZhNcErc7JO94m0BvI8kKps=;ezq7sC1P1DTm4oCkZu8pzg=="
+secured: "XsTQj7Z/hhcukb8TjHwUqML2NjY5SdeSX5frBbTgM6Mq2iDjw1alehBdAwUbrOw0oO/9EMhKq242rQSMrBhyt2yto4cSvY2/YzzR1ZKS9fmlPzAvb0xBxERYVM+0dCkZxROOuUZu4PlEWjpuvTQWnidZh3Win8MQqtW9y/fdc8W4VzDfb68/UfweV1YCKoEHT8GRD2qBOdOiA+C9WeuPn+DgOgd3LyMEduajDuKfJbcL5TSptOdHSJX/uk+5KepAf4kq4X/GookEuezy84AsXl6Z/sVe53UJ7c9R2Xfgby2l6fmriIO/NddPFYnwoVA0O/TbcNWCcJMCB0S/rsgRg3+636BZZn2kLwUKPulAVUelZj8+K0puCp6iaQ4ztMt8oRu9GmVmWV6d+bJCFrhlNS6bRk+Q9n8a0znUZQHId6StnCc47F1tKLReUeq1+ZcpTGEYAu/FDXRwbWO97yTaO54xm6S/OILmAtYcmq+5IyYf9RkwiPxAfkdVEGHEYgKocWXJLZJo0k3/LBBIEL6Cew==;/jT5RV6ow6SJ9dL/TG4vwg=="
 ---
 

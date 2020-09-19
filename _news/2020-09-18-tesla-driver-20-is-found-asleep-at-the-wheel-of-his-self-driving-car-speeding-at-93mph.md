@@ -73,6 +73,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Why Wasn't Uber Charged in a Fatal Self-Driving Car Crash?"
+    excerpt: "Authorities charged the vehicle's \"safety driver\" with criminal negligence, but not the company that developed the technology."
+    publishedDateTime: 2020-09-17T18:55:00Z
+    webUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/"
+    ampWebUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5f6285468595a16063bbc4b7/master/pass/business_uber_RTX3MUMK.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Uber Safety Driver in Fatal Self-Driving Car Crash Charged With Homicide"
     excerpt: "The human driver meant to act as a fail-safe for an autonomous Uber car that struck and killed a Tempe, Arizona woman has been charged with homicide by local authorities, the Associated Press reports."
     publishedDateTime: 2020-09-16T16:46:00Z
@@ -641,6 +657,6 @@ related:
         height: 334
         isCached: true
 
-secured: "LLXUPJe0HnLN/Oav2Qubk3d/UJJBGV9qrTQVd+Zsd5OczjLcOQnK7wtWb7rN5AtJEnbWjPKvzkEdxKRBiX/5qvdpUxVHwzXOEd2Ulzrlx+tDVp7/Bk7KgS2xJ6qJAvmzu8IGuz4ouiXAGyP/BuryGzFxeEHOgG0vaw/49DRdEAFuS1nmqvcFjz9EHrr9ij2NSS3z48wM9C76frIyxrmPA+qcL1b0ZCfQdaCz9kp0hTBHP9jQau0Vgz8/6LpkYqQFPaualdDF9pJ0VswSqF1iBeqwO7cZ34lxY3UvwTq/f2o3yPdUxo1eSN3acflWSwh9mFIheoZyUfB+YKyGI6I2Yf787p/9EY5k29W8TyuZZhE=;NZgVspevZ9Q6h4aPpDqtSQ=="
+secured: "X5v8mUlWkccFDLu7rR3JRsng15VeidG6zUPWhUnAAPlcrEwHG0YwRtpdum/7ZKxW9/i0YY8iHmGdck/fv8YPq9rCBtstb2pD581RRoQqbAayppMWZ1F92zsZ5ZKEDrsmnrBpHgwZiTrjcgO/WyYd7Vh706JzSR8torX+CseqrG+nXUfhtdXTsMRsaWlAPmBh4YSMxthKPgNBkrRJVGk4DyrcxPz8f4rUWnOgP0HVbQQFpHVjf3JU95rGe1b4mMOmS/bryKIUJRy7a4hkUZDoVmVm5GUhxOkFNTMHW7wzp3knnfDBfY5T2FIv84iD2P8YA2jFGNcXfE0Lx7973PZaxLE0uUB7vp3rGVJoL2CWkKVOQ2Dkm7GAOQmgOtgsZxBzt9e8ROF4w7vl3n3jnnKJPKzIwkhTeCAIgRrOFgSRKpV7a5F6SIsTBtm2rD9SN3eAii8Sdr+JDDDJ+uuKuIGsr18IfaPnvTbd4GSh16nkuXajkjFCLhIOrtcS7I1cCp7Ilwoa75gkDC2+HwqW8fANkQ==;zSJ+BLx9Rf3lRXJihSxb8w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
 type: article
 quality: 74
-heat: 484
+heat: 494
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Why Wasn't Uber Charged in a Fatal Self-Driving Car Crash?"
+    excerpt: "Authorities charged the vehicle's \"safety driver\" with criminal negligence, but not the company that developed the technology."
+    publishedDateTime: 2020-09-17T18:55:00Z
+    webUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/"
+    ampWebUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5f6285468595a16063bbc4b7/master/pass/business_uber_RTX3MUMK.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Uber Safety Driver in Fatal Self-Driving Car Crash Charged With Homicide"
     excerpt: "The human driver meant to act as a fail-safe for an autonomous Uber car that struck and killed a Tempe, Arizona woman has been charged with homicide by local authorities, the Associated Press reports."

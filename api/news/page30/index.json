@@ -2,6 +2,133 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
+      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
+      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-microsoft-adds-english-india-hindi-to-speech-service-neural-tts.md",
+      "title": "Microsoft adds English (India), Hindi to speech service Neural TTS",
+      "excerpt": "Microsoft India on Tuesday announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/07/full/1512590019-7173.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-adds-english-india-hindi-to-speech-service-neural-tts-120082600016_1.html",
+      "publishedDateTime": "2020-08-25T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely.md",
+      "title": "COVID 19 Update: Global Healthcare Artificial Intelligence Market Stocks Gain, Rises Immensely",
+      "excerpt": "Healthcare Artificial Intelligence Market” Healthcare Artificial Intelligence (AI) Market Research Report: Information by Component (Hardware, Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/ab17242858/covid-19-update-global-healthcare-artificial-intelligence-market-stocks-gain-rises-immensely",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1598357109.jpeg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17242858",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17242858",
+      "publishedDateTime": "2020-08-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-best-business-intelligence-software-and-tools.md",
       "title": "Best Business Intelligence Software and Tools",
       "excerpt": "With those factors in mind, here are ten of the best business intelligence tools you might want to consider: Amazon Web Services (AWS) is the world's leading cloud computing vendor with about a third of the infrastructure as a service (IaaS), platform as a ...",
@@ -1016,149 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade.md",
-      "title": "Researchers examine uncertainty in medical AI papers going back a decade",
-      "excerpt": "In a meta-analysis, researchers investigated how medical machine learning studies handled uncertainty and noise within training data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/",
-      "originalUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/researchers-examine-uncertainty-in-medical-ai-papers-going-back-a-decade/amp/",
-      "publishedDateTime": "2020-08-25T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-indian-english-hindi-added-to-microsofts-text-to-speech-service.md",
-      "title": "Indian English, Hindi added to Microsoft’s text-to-speech service",
-      "excerpt": "Microsoft India has added English (India) and Hindi to its Neural Text-to-Speech (Neural TTS) service language set. The two Indian languages are among the 15 new dialects added to the service enabled",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/tr4ojb/article32439978.ece/ALTERNATES/LANDSCAPE_615/BL26HINDI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/indian-english-hindi-added-to-microsofts-text-to-speech-service/article32439979.ece/amp/",
-      "publishedDateTime": "2020-08-25T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-new-microsoft-live-dictation-and-transcription-feature-for-word-is-now-available.md",
-      "title": "New Microsoft live dictation and transcription feature for Word is now available",
-      "excerpt": "Microsoft is looking to make your work from home life easier with a new Transcribe feature for Word on the Web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/person_microsoftword-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-word-on-the-web-gets-transcribe-feature/?amp",
-      "publishedDateTime": "2020-08-25T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

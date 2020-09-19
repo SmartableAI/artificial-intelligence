@@ -457,6 +457,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%253A-4-stocks-in-focus-2020-09-15</loc>
+    <lastmod>2020-09-15T07:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/</loc>
     <lastmod>2020-09-15T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -685,8 +691,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank</loc>
-    <lastmod>2020-09-14T02:49:00-07:00</lastmod>
+    <loc>https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition</loc>
+    <lastmod>2020-09-14T02:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -933,6 +939,12 @@
   <url>
     <loc>https://www.nasdaq.com/articles/varian-expands-access-to-advanced-cancer-treatment-with-ethos-2020-09-11</loc>
     <lastmod>2020-09-11T08:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://sdtimes.com/ai/microsoft-open-sources-tensorflow-directml/</loc>
+    <lastmod>2020-09-11T07:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2265,6 +2277,12 @@
   <url>
     <loc>https://www.irishtimes.com/business/innovation/space-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722</loc>
     <lastmod>2020-09-03T11:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/global-deep-learning-industry-1029561357</loc>
+    <lastmod>2020-09-03T10:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

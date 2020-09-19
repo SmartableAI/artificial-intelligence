@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-ar
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
 type: article
 quality: 102
-heat: 122
+heat: 123
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
       domain: nasdaq.com
     quality: 84
 
-secured: "XGnC6Y+COPMzlUzAKP7E9eopcdP52k7y+BojwVtHXuXs1R+MYGl9UlD6jZ4+RvjfSVNG4ov4R3ZEvED+cjzaS6uJtj+dvtKyZHC9KJpYWHh8mG/Ksq1MYT0PtTxnh53Ewr9HHZkh/kdvOJWanQpS19uv0viu4Afdnisml8RQ7qoC17quwvHMkBttvBslpq8vEiMyzwJ1qfId9un8PBpUPXWRhqkUctU1ebaG8FjnwZ17aXdZC01hsZl49CDCa3harGQla/8GNnel9LQS3z99pb7+PsXYGN1otEqU8nhyvuIXK/ushLGKPdeWHFecHKDBGq3NA16555ifSmringKXMD6IwlGdrp4/zqYnxSzEr4U=;7AHPENVVynONNqBkNeprOg=="
+secured: "h58a7dmBAQd+5KmXYVEJa5ZkU2Eot7c1QQUSOLqYzS1/24y1TynE03yVE+5MOvCh5LAyW/1J1rwm07J2XuJlrOT/7FyCUvnFkU+EHRDZNSj5F/aqe/MPrb2tAfrB8tou02Ay2FfPjRCqKXo9ab7vOutLfWtUZ33g9w21zpO32YR0DiXzNkgQBovOOqItGUEpNPRZyTV1UXw978CoBUVoAGkts/j+20BV28gnhtQNjYXO8kxG4UZOf72tARkyHAanM2CxNbJHLzp/yE9DhsTpL0k+mVltbShD63lYZD6V69mx0oMQTh/Lb93U4dTdnSYbJERgsQADOtMu/FGETG4wuOlxDyKpwGAskEneM6xhZMclzjKDuH5YfiavWbTZ6hIOXhIKpWD3Oq5p7tji9vdp8k61+fEE2EMz7lDsFhr+X5TzO51Zy4b8Rql+Tca7dROQ7LeGam64RNqgw7wHVfKB7Y2d+5EhGYTgFIG2M1/3AmamnzV1noDtvzWgfB6nd2L4UtYj7pUsxMwUP7B3kxbBeA==;fgCGUwOE1BnjyxAltLhn6Q=="
 ---
 

@@ -2,6 +2,108 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
+      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
+      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "publishedDateTime": "2020-09-09T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-artificial-intelligence-in-pr-is-it-science-fiction.md",
+      "title": "Artificial Intelligence In PR: Is It Science Fiction?",
+      "excerpt": "Artificial intelligence (AI) is everywhere, so you knew it was only a matter of time before a PR agency tried to package it for public relations. But can AI help get stories in the news or is it just a new agency spin to stand out from the crowd?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f03670c093af40007be6125%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
+      "publishedDateTime": "2020-09-09T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
       "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
       "excerpt": "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA).",
@@ -1050,108 +1152,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype.md",
-      "title": "The Guardian’s GPT-3-generated article is everything wrong with AI media hype",
-      "excerpt": "The Guardian today published an article purportedly written \"entirely\" by OpenAI's GPT-3. But the the newspaper's grand claims aren't all they seem.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-08T154853.607-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
-      "publishedDateTime": "2020-09-08T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience.md",
-      "title": "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience",
-      "excerpt": "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acqui
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Hypebeast
@@ -27,46 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Acquires ARM to Shake Up Chip Industry"
-    excerpt: "NVIDIA’s massive purchase of ARM for $40 billion-plus will have some profound implications on AI and its rival, Intel."
-    publishedDateTime: 2020-09-14T06:07:00Z
-    webUrl: "https://www.eweek.com/pc-hardware/nvidia-acquires-arm-to-shake-up-chip-industry"
+  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
+    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
+    publishedDateTime: 2020-09-14T09:49:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
     images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/09/NIVIDA.Arm.logos.jpeg?alias=social_image"
-        width: 560
-        height: 300
+      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
+        width: 720
+        height: 406
         isCached: true
-  - title: "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus"
-    excerpt: "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,"
-    publishedDateTime: 2020-09-15T14:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+  - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
+    excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
+    publishedDateTime: 2020-09-14T11:53:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Why Nvidia's blockbuster deal to buy Arm is sending shockwaves through the chip industry"
-    excerpt: "Rene Haas, head of the intellectual property group at Arm Holdings, spent much of Monday trying to reassure customers that the SoftBank-owned chip design company was not about to turn them into second-class citizens."
-    publishedDateTime: 2020-09-15T21:47:00Z
-    webUrl: "https://leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/"
-    ampWebUrl: "https://leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/amp/"
-    cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/financial-times/why-nvidias-blockbuster-deal-to-buy-arm-is-sending-shockwaves-through-the-chip-industry/wcm/2237b24d-c9a7-4d22-bdd7-99ff14b4b766/amp/"
-    type: article
-    provider:
-      name: Leader-Post
-      domain: leaderpost.com
-    quality: 50
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/09/nvidia.jpg"
-        width: 1000
-        height: 750
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
+        width: 1024
+        height: 549
+        isCached: true
+  - title: "UK's chip design giant Arm Holdings sold in $40bn deal"
+    excerpt: "America's Nvidia has pledged Arm will remain based in Cambridge but the business's co-founder described the deal as a disaster."
+    publishedDateTime: 2020-09-14T07:53:00Z
+    webUrl: "https://news.sky.com/story/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    ampWebUrl: "https://news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/16/08/1600x900/42dcee07ded5c06f53c535b3db49840c20a60f4af1691c3bc83c64ad8434fe5b_3756902.jpg?20160803094809"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia to acquire chip designer Arm for $40 billion"
     excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
@@ -96,15 +103,20 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nvidia sends shockwaves through chip industry with Arm deal"
-    excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
-    publishedDateTime: 2020-09-15T14:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
+  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
+    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."
+    publishedDateTime: 2020-09-15T19:42:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "PT19497WRRUpByNAxdvBlOvONOx8NGpYPpKfwJQWa1r0LTg+fYcHRumPjrUrWhcb2ysWsqsacLn9rXc7ZkP1CYovx8i4z9DFJOM0mpE/tmv/W9s5A2lxRgz8O8cEhLeJ8mUzgWT7YwT6MtBJvV5Ez4CIpK7Qy3S1DXkrNfEBDbka+o90Ufo1SEuiAN/yKIRO2Siiru6zKwWv4E/e1ILQy0sy8Oyarv11dnzwjtxcnqxbW4da+LQf6BTWizbHwJ40uEFIpghWRcSs5anAn6FWVUI7jRG/HBzWVV8Dv8jYKkCJHLcncBCDbGqBC8f9s1kRhfY83xLG3oBl5rP5pZiWybvxuujuWcDfx/n4hTjBA251JDv2KeGaD1HJ2caj44RHdRMUzpOmN32shCCQM9Fn2+EfgPGBJCImalSxHqdNm9Gyu1yu1YWTyTDLzv8al2o3i6/8bqFMXQUWwYxpK4H2cMMS57jNK5rfepxFPbOQLS2jtoHsRnwADPEzahLFIL1JLjEd42+HbttdckojWHKiXw==;jmXgkZYeEOqn1IgghbtWFA=="
 ---

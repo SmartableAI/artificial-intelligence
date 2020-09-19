@@ -311,6 +311,39 @@
       ]
     },
     {
+      "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
+      "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
+      "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
       "title": "What are deepfakes? AI that deceives",
       "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
@@ -668,7 +701,7 @@
       "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -702,34 +735,34 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-nvidia-buys-british-chip-designer-arm-for-40-billion.md",
-      "title": "Nvidia Buys British Chip Designer Arm for $40 Billion",
-      "excerpt": "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion.",
+      "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
+      "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
+      "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank",
-      "originalUrl": "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank",
+      "webUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "originalUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg",
-          "width": 720,
-          "height": 406,
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank",
-      "publishedDateTime": "2020-09-14T02:49:00-07:00",
+      "ampWebUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "publishedDateTime": "2020-09-14T02:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1400,48 +1433,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-nvidia-rtx-3090-3080-3070-gpu-price-release-date-and-specs-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: Price, Release Date, And Specs Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-price-release-date-a/1100-6481673/",
-      "publishedDateTime": "2020-09-08T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
         "images": null,
         "publishers": null,
         "authors": null

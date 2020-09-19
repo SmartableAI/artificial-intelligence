@@ -57,6 +57,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
+    excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
+    publishedDateTime: 2020-09-18T22:45:00Z
+    webUrl: "https://www.thetelegram.com/business/reuters/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition-495091/"
+    type: article
+    provider:
+      name: The Telegram
+      domain: thetelegram.com
+    quality: 16
 
 secured: "a3AV1hMt4V2pz5FBZafd9SiPS5wzNoJvvSrz17xjC5GRzsGrOgGswfoQzJcVDYsVhCF6uzsK75FNeQ9Kx6k3npbmLSTwJgSQpB3JQhKw8ZBh6zn0fy82WQYSaRbe1I/ADFhR5sfkxtWtY95Ibaw0QYuPz9vevM06B/9smGLvZEPZqyjOvGAw0tMJMp9EQDkW+ykb87VVRGV/U6p3+gauUidTERwcW/RB1MoCw+Q/OkM5/X6ZyCltASATZGo6MeA2N9Z0rW/xbm+zGYddKDGTbIBUsJuGqfc8YPnTXCL3PNsEIswrBC+gV5AKy6rF1wBmz/2tzquPqGM25BFH2jJwL84F2/dHSONxwzZb7GbdA7M=;UIDC5HGfI3529OL0v22DlQ=="
 ---

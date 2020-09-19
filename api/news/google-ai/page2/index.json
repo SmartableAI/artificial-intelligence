@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-27-the-evolution-of-high-level-synthesis.md",
+      "title": "The Evolution Of High-Level Synthesis",
+      "excerpt": "What really excites Paulin is what’s happening in the AI space. “TensorFlow and ONNX are basically the de facto standards, so we only have one programming model, and two flavors of that. From that high-level programming model, automated mapping to ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
+      "originalUrl": "https://semiengineering.com/the-evolution-of-high-level-synthesis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/HLS.png?fit=974%2C377&#038;ssl=1",
+          "width": 974,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-tachyum-prodigy-native-ai-supports-tensorflow-and-pytorch.md",
       "title": "Tachyum Prodigy Native AI Supports TensorFlow and PyTorch",
       "excerpt": "SANTA CLARA, Calif., August 26, 2020 – Tachyum Inc. announced that it has further expanded the capabilities of its Prodigy Universal Processor through support for TensorFlow and PyTorch environments, enabling a faster, less expensive and more dynamic ...",
@@ -1350,58 +1392,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-how-to-name-your-baby-using-machine-learning.md",
-      "title": "How to name your baby using machine learning",
-      "excerpt": "When I was young, I always hated being named Dale. This is mostly because my primary image of what Dales looked like was shaped by Dale Gribble from King of the Hill, and also Dale Earnhardt Jr., the NASCAR driver.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-24-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/amp/",
-      "publishedDateTime": "2020-08-02T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

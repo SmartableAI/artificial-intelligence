@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-fie
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

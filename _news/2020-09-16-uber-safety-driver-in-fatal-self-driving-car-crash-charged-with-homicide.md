@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Why Wasn't Uber Charged in a Fatal Self-Driving Car Crash?"
+    excerpt: "Authorities charged the vehicle's \"safety driver\" with criminal negligence, but not the company that developed the technology."
+    publishedDateTime: 2020-09-17T18:55:00Z
+    webUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/"
+    ampWebUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5f6285468595a16063bbc4b7/master/pass/business_uber_RTX3MUMK.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Authorities charge Uber backup driver involved in fatal self-driving crash"
     excerpt: "The Uber driver that was behind the wheel of the self-driving vehicle that struck and killed a pedestrian in 2018 has been charged."
     publishedDateTime: 2020-09-16T10:06:00Z

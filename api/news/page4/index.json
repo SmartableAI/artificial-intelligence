@@ -43,6 +43,39 @@
       ]
     },
     {
+      "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
+      "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
+      "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team.md",
       "title": "Team8 nabs former Bank Leumi CEO Rakefet Russak-Aminoach for Fintech team",
       "excerpt": "Team8 Fintech will focus on founding, investing and growing fintech companies, the company says; Team8 sets up cyber and data companies, and has a VC arm",
@@ -768,7 +801,7 @@
       "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1137,57 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-wants-its-gpus-in-your-arm-powered-smartphone.md",
-      "title": "Nvidia wants its GPUs in your Arm-powered smartphone",
-      "excerpt": "Nvidia chief executive Jensen Huang says he wants to use ARM's licensing model to license GPUs. That probably means that your ARM-powered smartphone will feature an Nvidia GPU, someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "originalUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/dsc06888-100759987-large.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "publishedDateTime": "2020-09-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
