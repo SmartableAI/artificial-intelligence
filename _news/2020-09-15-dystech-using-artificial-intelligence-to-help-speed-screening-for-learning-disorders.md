@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dystech-using-artificial-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,46 @@ images:
     isCached: true
 
 related:
-  - title: "How Amazon is using machine learning to eliminate 915,000 tons of packaging"
-    excerpt: "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly."
-    publishedDateTime: 2020-09-14T14:18:00Z
-    webUrl: "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/"
-    ampWebUrl: "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/"
+  - title: "20/20 GeneSystems Stock: Leveraging AI for More Accurate Cancer Screening"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips 20/20 GeneSystems is the developer of diagnostic testing tools for cancer and"
+    publishedDateTime: 2020-09-18T13:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/20-20-genesystems-stock-leveraging-ai-for-more-accurate-cancer-screening-1029601945"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/20-20-genesystems-stock-leveraging-ai-for-more-accurate-cancer-screening-1029601945"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/20-20-genesystems-stock-leveraging-ai-for-more-accurate-cancer-screening-1029601945"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "Sushant was working on a mobile app to help poor using Artificial Intelligence!"
+    excerpt: "In such times a new story of Sushant Singh Rajpput reportedly developing a mobile app also surfaced that was to help poor using artificial intelligence."
+    publishedDateTime: 2020-09-14T18:10:00Z
+    webUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/"
+    ampWebUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://filmymantra-com.cdn.ampproject.org/c/s/filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Riddhi Dogra
+      domain: filmymantra.com
+    quality: 53
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all"
-        width: 323
-        height: 215
+      - url: "https://filmymantra.com/wp-content/uploads/2020/08/Sushant-2020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DBS: Taking machine learning for a spin"
+    excerpt: "DBS asked Euromoney to join the machine-learning training it gives to thousands of its employees, which includes how to programme your own autonomous racing car. It’s all about getting staff to understand one another. Euromoney is teaching a virtual car ..."
+    publishedDateTime: 2020-09-15T15:55:00Z
+    webUrl: "https://www.euromoney.com/article/27hu075ls1fk7bvgol0xs/banking/dbs-taking-machine-learning-for-a-spin"
+    type: article
+    provider:
+      name: Euromoney
+      domain: euromoney.com
+    quality: 41
+    images:
+      - url: "https://cdn.euromoney.psdops.com/dims4/default/7f7b189/2147483647/strip/true/crop/960x504+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F8f%2Fe2%2F606831ec49c6aa65550cf7a71ae7%2Faws-deepracer-track-car-r-960.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zdaqE5G+odT+jNnlZmWls3zMEryfSEPSyAC4N+IrKba/sbkt+4BGoHjt8rja9xT9DqZOJLnThaX26uvSqi90ZHsBd5p+pF6k3pV/0wm0lO1k4PXwwMIzljttQFc3LuHshOQjKGi7M4Kigqz2/Oqqzyc2645tT4fvEmaei1BgKtow0Y0oKDhrTu0w/+5FJER+jkzMjTVeylILedToaDDyQUZf73AC7oDt46/7Ij/TvIv9W9Lf3E0UmUAA214KN4v9Sg63ew8NKWDUqK42XBzmZEtiaVzW7VnC5qalpIDbxMNz/qunqHpRemxr53bLnc7SkhP41c0Qb3hOQtYxYTHWuIsL4Clzm7KtnPpig1chR1qRcFaJ68GZZ1T8ZwtEFgHY6hhsiu/SnRdI573EiJ8FmLZg0L0r+upKIcnsND/ZamHe2GGAIXtSTTIKf2sS+4rHtjDx+Xbb2a1SbcX09b+TAGpJ4nW1ivyovmFqkcIzw9tHjgi4ItmrFCTYFdMIrJ/B16q5VVnXTiynJ/Um8Jak6A==;eOug51AHvb7HYZe7RYotWQ=="

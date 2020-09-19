@@ -31,37 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA to Acquire Arm for $40 Billion with a focus on Artificial Intelligence"
-    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2020-09-14T14:28:00Z
-    webUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/"
-    ampWebUrl: "https://iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/09/14/09151-nvidia-to-acquire-arm-for-40-billion-with-focus-on-artificial-intelligence/amp/"
+  - title: "Nvidia’s $40 billion Arm acquisition is about bringing AI down from the cloud"
+    excerpt: "Nvidia’s $40 billion acquisition of Arm is a hugely significant deal for the tech world, with implications that will take years to unravel spanning many areas of the sector. But if you listened to the press babble coming from the two companies over the last 24 hours,"
+    publishedDateTime: 2020-09-14T17:03:00Z
+    webUrl: "https://www.theverge.com/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
     type: article
     provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 58
+      name: The Verge
+      domain: theverge.com
+    quality: 86
     images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
-        width: 800
-        height: 360
+      - url: "https://cdn.vox-cdn.com/thumbor/3adfYOvSIiFfP9hVnSwmh87f7ac=/0x0:1785x1186/1400x933/filters:focal(751x451:1035x735):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67403580/1124597225.jpg.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "NVIDIA pursuing ‘giant AI opportunity’ with $40B Arm acquisition"
-    excerpt: "As NVIDIA CEO Jensen Huang put it, \"We are joining arms with Arm to create the leading computing company for the age of AI.\""
-    publishedDateTime: 2020-09-14T14:38:00Z
-    webUrl: "https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition"
-    ampWebUrl: "https://www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20200914/chips/nvidia-pursuing-giant-ai-opportunity-with-40b-arm-acquisition/amp"
+  - title: "How NVIDIA’s Arm acquisition will drive AI to every edge"
+    excerpt: "NVIDIA is sitting pretty in AI (artificial intelligence) right now. For the next few years, most AI systems will continue to be trained on NVIDIA GPUs and specialized hardware and"
+    publishedDateTime: 2020-09-19T06:17:00Z
+    webUrl: "https://www.arnnet.com.au/article/683027/how-nvidia-arm-acquisition-will-drive-ai-every-edge/"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 57
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
     images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-9.32.09-AM.jpg"
-        width: 1590
-        height: 892
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nvidia_ceo.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "wCwaEVWxfcYkzWeclefcO+dFJW56DnRyJI7qqfGR0FmEn0cSjZlQpImpzRKUm35aetCeNsSeb9cvcsaXUuVVF45qkPIhpOmdNtNgQxbGckuePM0NVysOKW778SoAZJS7V9qCFfBFN8RNtiOzp1HJ+QoB643McksSaznU2IU0pkvqJq22uRbbLz1ue7MCsqO8q9vDX6EjXooD9+0ouSkf4Q5iwjpGEkyllI+OEk+As6KAuglHFfIFXa/H+em36zutwsLRJLzVlvbWUWfrYWHGtr4nljwqr7wO8IasVdT42epA4uZaK4RoBGjh/KEza93JkVdOjUiWX7o2gGiCtoTcoJfx2a4V5d/04LnDoLRfquFRQlQCY1q9V+caj3TlefdNhUuaGjT/L5GHZxSs4QhsWIs/o/OpMJwK8KnUthLQkRAq7VpKmDT+9ZyU6eJPfV+GJXbZFghQwIknZGa9Ly+X15OPoVGNgOIxgJ/yRZvMmD/K1P8JCyDHnHNki9fhIgNtfU55lSjLy1/Cx06lLmC7lQ==;Ue60lo7xBTCX27FhZtAjlA=="

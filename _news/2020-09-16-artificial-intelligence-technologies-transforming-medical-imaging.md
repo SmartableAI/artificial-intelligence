@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-t
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-technologies-transforming-medical-imaging-301131134.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 419
     isCached: true
-
-related:
-  - title: "AI for Caring – Technologies needed to use AI in social activities"
-    excerpt: "What technologies do AI system need to work in the care industry, and what challenges does AI currently face? Artificial Intelligence, or AI, is a technology that allows machines to learn behaviour patterns,"
-    publishedDateTime: 2020-09-14T13:30:00Z
-    webUrl: "https://www.electropages.com/blog/2020/09/ai-caring-technologies-needed-use-ai-social-activities"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2020/09/ai-robots.jpg"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "juayW4cafhUXIDlpd/tFGRTfUtHv3GLsdr2djN8P/pht0UnzVRSbEK1jgOlIMhxiHEojZmlo7c/39jX9CKi4igNI8AK+AQUSCNv5xTBP1Eq7Lq3ksBkwtoqoK35wM+VSWNGS3hr3JFXkLo20YO63cK7XSn7iBr0W81WYvfmJqYcOY0BmMmTeKeOnEe647icPVgm6ALPvupLbjOqd4YJPMdTfGqPmZi6EqElqvI227Q5LeolpmhM891ABrdH70HGTuYEUZ8km528vrqJn5Y0MTYtva7Bo098A/KTeJWS6/o8lX4y/I0OAtOBL68UyBqMNVzjGBEX4Y1jVCtr+MoFxhB0MyTlD7NbrpqKAM0kqzNg=;3bsls9Y30TisvBvW/MBvow=="
 ---

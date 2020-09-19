@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "PRA Health Sciences and Deep Lens announce strategic relationship to accelerate patient ..."
+    excerpt: "(GLOBE NEWSWIRE) -- PRA Health Sciences, Inc. (NASDAQ: PRAH) and Deep Lens, Inc., announced today a new strategic relationship to accelerate patient access and recruitment for oncology clinical trials."
+    publishedDateTime: 2020-09-18T12:30:00Z
+    webUrl: "https://apnews.com/globenewswire-mobile/958f88a8ccc663b709053678c1bdb388"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "/+FueAt6izkuqr6ifb86Ha69prIu6cAgOmKTlmJSzMEUZPwlRqTJfyZjESxmXjwOu4nuNOxOgacs4fM3VCHTTvcBxpcHrHj6rqgtIXhYS9ygUqM8sA7x64WJxbUQ37CI/LIPF0OlfG900l7pjDE65rd5ZBAdHO0Q3Ly4KtolXkSbRwPsTFFGckf70J0o+TadIEmf4HB+5cw5JVeA2IlTFdu+VPAhj7c610yNnNpe8LrmBkDQfdRz3+crnyp3C5jVCIkWUh3EzXFxSUGvoF9YOYnOf0KkWlx43bYpasdiy2pkbO70WhZz7zKD787WQfcgt+zSOGGj81j6NlDeMwOmdABHTxhJDshh6irx/slGaTY=;byv44TX9989FhiDggSmLig=="
 ---

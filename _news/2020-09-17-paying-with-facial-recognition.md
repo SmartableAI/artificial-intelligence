@@ -109,20 +109,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
-    excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
-    publishedDateTime: 2020-09-14T14:17:00Z
-    webUrl: "https://www.democracynow.org/2020/9/14/headlines/portland_or_becomes_first_us_city_to_ban_corporate_use_of_facial_recognition_surveillance"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 28
-    images:
-      - url: "https://www.democracynow.org/images/headlines/73/54473/full_hd/h18-portland-oregon-first-us-city-ban-corporate-use-facial-recognition.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
     publishedDateTime: 2020-09-14T15:30:00Z

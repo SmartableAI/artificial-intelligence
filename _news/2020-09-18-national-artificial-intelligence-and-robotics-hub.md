@@ -9,7 +9,7 @@ ampWebUrl: "https://www.today.ng/topic/national-artificial-intelligence-and-robo
 cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://nextpittsburgh.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-06-at-3.13.18-PM-e1570545879203.png"
         width: 750
         height: 394
+        isCached: true
+  - title: "Demand of robots and automation technology is surging the robotics investment."
+    excerpt: "Investments in Robotics are continuously accelerating, even in the uncertain times of the COVID-19 crisis. Investors are taking closer look at robotics and related technologies to keep running businesses and gaining competitive advantages."
+    publishedDateTime: 2020-09-16T09:22:00Z
+    webUrl: "https://www.analyticsinsight.net/top-robotics-funding-investment-september-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 50
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Robotics-1.jpg"
+        width: 1681
+        height: 841
         isCached: true
 
 secured: "beW1VTqIL6qQLfxijLt4HNpiKhznOWiLAgHwG9KoyTrw8dBsycxHl88Dd0nF7Uqr5u+Mci0uKSaroQdz5VmBtfEIDGdeusLQLqIPV2zqD1l/BTCFu9xXt3PLVCdiMOqytUA0QiXed3baC/BxZTTXf6Go/m+OqL4EwByYwsAV3MKucbR+1PLg0A0fvZFPUe8s2+PjV+oZPafD4ZYlOCCTgIxjSO3KgaOQG6MUj80Gm6XGVd4vtpuPtEzhXYYVM5/QdjLKXF5a4n7Uj2/bOSQ0ZSvPxKPmrFA9nzSKj+53v/hNN/Pw5kjj595HXG8StjslnWSdjYhFXseVkPSeArbL2W1gpQQulf8DvRJeRW6bBn/kpL9UjX7dO3GH758y7KNnnCxJ7onmAUVx7vyFeGm9hBkLYH12Ze6lb63qrEIpqowXOC5hhtJhfvxwb97VSP+x2T10dF40BTrmtKeBsTGBMKuIo03Kdj74kmsen5yzAVwHRVX0cMHOeo2E9ZGNuMZq+yKmUsyULT9hxXkK+uhvVA==;QVUu0rUtDHNLK1TG58BotQ=="

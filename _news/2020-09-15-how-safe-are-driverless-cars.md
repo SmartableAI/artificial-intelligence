@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/talking-apes/202009/how-sa
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/talking-apes/202009/how-safe-are-driverless-cars?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 384
     height: 504
     isCached: true
-
-related:
-  - title: "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars"
-    excerpt: "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ..."
-    publishedDateTime: 2020-09-14T15:01:00Z
-    webUrl: "https://www.lancashiretelegraph.co.uk/news/national/18719841.researchers-claim-develop-concept-ensure-legal-safety-driverless-cars/"
-    type: article
-    provider:
-      name: Lancashire Telegraph
-      domain: lancashiretelegraph.co.uk
-    quality: 49
-    images:
-      - url: "https://www.lancashiretelegraph.co.uk/resources/images/11806393/"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "jbAt1wfMfkmdP/NrAgVOWTjGtcBXM9WJNJo3Tz6Zl6RKQbikHMXair7V+UnNojaVTY4ViJVhX9n3OHu6otL5noNteHTX6DW+smt7ZUtfyP5HKL2ZmPRFk2mmsB2EXA028kUyE88RH6+j9SXXZ/R4zQC4YaiNesMgYRUxJw5MBFBo8ax1uBA2dW2YQg2bnI4qkd0VTsipNTsuAsIQdyhU7fe/N/ngrSWnUQpkKyLv+c4pEt1x6lHo4OS6xPlwPCyMEn5+VvGsK6iChoLiQt7vo5hR6I5edxS4t+lVS+eMrUja45XTQm9Va/3vkb9HfTdz46tcGkgfNYjVYJwtBOroL01vHa8pMCvs1VBUyqMly5A=;P8PVntdmlZsH168G+4QLUQ=="
 ---

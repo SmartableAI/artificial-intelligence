@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status"
-    excerpt: "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets."
-    publishedDateTime: 2020-09-14T14:16:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 21
   - title: "Germany ICT Market Report 2020/2021: Market data for 11 Tech Trends like Blockchain and Artificial Intelligence - ResearchAndMarkets.com"
     excerpt: "The “ICT Market Report 2020/21 Germany” report has been added to ResearchAndMarkets.com’s offering. This report contains information about the information technology and telecommunication markets of Germany."
     publishedDateTime: 2020-09-17T13:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Portland, OR Becomes First U.S. City to Ban Corporate Use of Facial Recognition Surveillance"
-    excerpt: "Portland, Oregon, has become the first U.S. city to ban the corporate use of facial recognition surveillance. The ban will bar public agencies and private businesses from using the technology in public spaces."
-    publishedDateTime: 2020-09-14T14:17:00Z
-    webUrl: "https://www.democracynow.org/2020/9/14/headlines/portland_or_becomes_first_us_city_to_ban_corporate_use_of_facial_recognition_surveillance"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 28
-    images:
-      - url: "https://www.democracynow.org/images/headlines/73/54473/full_hd/h18-portland-oregon-first-us-city-ban-corporate-use-facial-recognition.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "IBM calls for limiting export of facial recognition software"
     excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."

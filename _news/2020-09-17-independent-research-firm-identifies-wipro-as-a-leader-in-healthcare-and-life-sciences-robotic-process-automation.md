@@ -33,17 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
-    excerpt: "This year's report evaluated 11 multimodal predictive analytics and machine learning (PAML) platforms based on 26 criteria, which are grouped into three high-level categories: current offering, strategy and market presence. Criteria for the platforms ..."
-    publishedDateTime: 2020-09-14T13:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17488243/rapidminer-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-platforms-by-ind"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z

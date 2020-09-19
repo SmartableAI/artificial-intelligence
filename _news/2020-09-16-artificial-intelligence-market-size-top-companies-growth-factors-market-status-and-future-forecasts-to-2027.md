@@ -184,6 +184,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
+    excerpt: "Analysis and Forecast, 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
+    publishedDateTime: 2020-09-18T08:41:00Z
+    webUrl: "https://apnews.com/business-wire/68816fa04b504b2a98991710d024c324"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Evkf1APgahN0QzneL5in8W2RiSwsJAoeD54k9o1WR1wmDJtQtfmqBctrdKX+9Yy45rJofYpqI2SqeZxKBJJnaItFUj8tJojnFgMrrPw4pnNPnhdfnz7pA7LcXU6TJTXEV7SrxB8DqfC4Fg0RRSnvXFTzSQiuLJ/U4/OUydPulfSplQ77FWLuOSwaJZ/F+niRuw9G1K8IrTAiQXGY21jIRUd8rvB5xfLrGe4TD8DC21FM1iOA1NiODcF9O8ciSgV6gWsctgpL1WNxpdGLe0bJaGgTr8CnVO1IwR/y2oBzV0ntteLFNERoxUz5eSKRIILvlhiFxyvTSrlULjawdxQXsAKWSGpQIxuCmSmxaC1hLGk=;IJoZ1b6Vif1Q/G2qMTng/A=="
 ---

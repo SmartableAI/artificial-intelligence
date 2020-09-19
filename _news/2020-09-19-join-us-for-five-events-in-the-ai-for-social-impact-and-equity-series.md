@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-19T04:58:00Z
 originalUrl: "https://www.scu.edu/ethics/internet-ethics-blog/join-us-for-five-events-in-the-ai-for-social-impact-and-equity-series/"
 webUrl: "https://www.scu.edu/ethics/internet-ethics-blog/join-us-for-five-events-in-the-ai-for-social-impact-and-equity-series/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.scu.edu/media/ethics-center/internet-ethics/Santa-Clara-2.jpg"

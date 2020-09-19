@@ -31,57 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's $40 billion Arm bet all about data centers, edge computing, AI"
-    excerpt: "Arm combination is compelling on multiple fronts and could be \"a first class data center platform\" but now the parties just need regulators to buy into the deal."
-    publishedDateTime: 2020-09-14T13:24:00Z
-    webUrl: "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/"
+  - title: "How NVIDIA’s Arm acquisition will drive AI to every edge"
+    excerpt: "However, NVIDIA has been frustrated in its attempts to become a dominant provider of AI chips for deployment into smartphones, embedded systems, and other edge devices. To address that strategic gap,"
+    publishedDateTime: 2020-09-17T10:12:00Z
+    webUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.html"
+    ampWebUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/dc945c69-549b-484b-9ca6-ea09cbeaec97/nvidia-arm-circle.png"
-        width: 881
-        height: 537
-        isCached: true
-  - title: "Nvidia to Acquire Arm and Create AI Supercomputer in $40 Billion Deal"
-    excerpt: "Graphics and AI chip manufacturer Nvidia confirmed this week it will acquire processing architecture company Arm in a $40 billion deal. The company plans to use Arm's computing ecosystem to create an AI research and education center as well as an AI supercomputer."
-    publishedDateTime: 2020-09-16T21:38:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
-  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
-    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's R&D presence"
-    publishedDateTime: 2020-09-19T05:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17482276/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17482276"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17482276"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
-  - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
-    excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
-    publishedDateTime: 2020-09-14T13:39:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-to-Acquire-Arm-For-40-Billion Uniting-NVIDIAs-Leadership-In-AI-with-Arms-Computing-Ecosystem-142817.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 25
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://images.idgesg.net/images/article/2017/07/keys-to_access_solutions_rubic-cube_puzzle-100728331-large.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "How NVIDIA’s Arm acquisition will drive AI to every edge"
+    excerpt: "NVIDIA is sitting pretty in AI (artificial intelligence) right now. For the next few years, most AI systems will continue to be trained on NVIDIA GPUs and specialized hardware and"
+    publishedDateTime: 2020-09-19T06:17:00Z
+    webUrl: "https://www.arnnet.com.au/article/683027/how-nvidia-arm-acquisition-will-drive-ai-every-edge/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nvidia_ceo.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "Y8xUCfOt1ZKm0QQMamsYOJx4I/g4pM2d5E+W8/pZ/qdWv+nJJpNB/Gt95/m+UAqs/DXPIYJnYfv/3+To2mwb4F1r5+jca94Wmn0VJ3C0jgSKhNE4IJ9R09a8dHn9ph/fheg/X4u7KOwNT0KxXCmVxpFF6gbSpey56lQJFhJpk1crWW/gS7NL6V77WPeueq0HL0WJo27JybCUK7DTizchO9fSClIL6sXmKQ1plVu8s4/7vKyt9frIPnrI23CED6kOWjSzfUcaAiAMKP1t71BC+jrGfoewc2R12XKoGC8cZWCFU/1ucjhM9gEB93xj48/TRWek0RXI4YvptV7s4VwoWRsVU6rQYyZzJt3tIG5noPQqfpuWcZOB3sLpFmWBO3qiDAnvNUAojpVTrVPIo9Q1v2PnIsuTG30+iAATfk7fCPCKJabzkxmk/GXVVaAjtBS9WK+I8AronrIsQelucL9fgNYsR0/0gjeWan20fj8GCxYG8s7KSMMRFjJX3Kz6k6E575JUF3Zzf0kZX+XoWAzKow==;4Tn2+KT4d70/fJ/i1afeMQ=="

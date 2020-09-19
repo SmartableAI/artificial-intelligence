@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
-    excerpt: "This year's report evaluated 11 multimodal predictive analytics and machine learning (PAML) platforms based on 26 criteria, which are grouped into three high-level categories: current offering, strategy and market presence. Criteria for the platforms ..."
-    publishedDateTime: 2020-09-14T13:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17488243/rapidminer-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-platforms-by-ind"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
   - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
     excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
     publishedDateTime: 2020-09-17T05:39:00Z
