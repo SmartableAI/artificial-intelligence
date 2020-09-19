@@ -58,20 +58,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
-    excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
-    publishedDateTime: 2020-09-14T11:30:00Z
-    webUrl: "https://www.extremetech.com/computing/314934-nvidia-buys-arm-for-40-billion-plans-new-ai-research-center"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Nvidia to Acquire Arm and Create AI Supercomputer in $40 Billion Deal"
     excerpt: "Graphics and AI chip manufacturer Nvidia confirmed this week it will acquire processing architecture company Arm in a $40 billion deal. The company plans to use Arm's computing ecosystem to create an AI research and education center as well as an AI supercomputer."
     publishedDateTime: 2020-09-16T21:38:00Z
@@ -83,6 +69,17 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's R&D presence"
+    publishedDateTime: 2020-09-19T05:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17482276/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17482276"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17482276"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "gYpWBQUOo60I9Siso7SyfSZQFQV2CHf76CxOAPgLnB2LpwtlifyACsbH771nMvrA2+R9ahgnQ4aNC69+xGkg/bW1zsnWqjoMIpENr9KdA6beKZvTzEysdnebEht/ysLA8txgUulkHyr2OAuFPfWTLHSQmocHVUc0I5ETwcgDi7orRtI/DrcRoGCLz+edm5tEokovYP/cO2oHVNffbPei22pvAl6TSwljq0OO0BvOm3/p29PRjySGEIK6UC1GV6SjUoqBjtnLvIs3AH2vVWpe6o80Ck+LX+GQQjX+UrQkiFWF9q+AztjTux6bfjaa1qSHniffXOxgVTWY/3fH4dtyBOogRwCyeE6Eq4fFedx7tsY=;5Ris+kbaIqfSSZJdgOjosA=="
 ---

@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Can AI And Other New Technologies Really Help America Reopen Safely?"
-    excerpt: "As businesses look to identify reliable, scalable new technologies amid the Covid-19 crisis, the top priority must be to keep people safe."
-    publishedDateTime: 2020-09-14T12:11:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/can-ai-and-other-new-technologies-really-help-america-reopen-safely/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b873dbe3d60fee69a0c8b%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "WBq3bRc/6SwGrFq1FvEWTtqvZRS1bQe6q6EJM+1Fg7KNyzUXBIURoPEf+o4FBWdNEvw5OVWGSul3amA49qMhUfV+2VAV86+UIF0BECnVC5sHS6Qkt+fJrQR8HuvJ3jb3woNHfP350XGebhhHMViykonV2Fk9/DKWGstMpbVxDMTkBVXzqx2Wz6/EsciTLxkDOA7YsRiPfS3xNx/fqGJPfG0Qj9wGBvy/Pv7YyWKZCC87nF7PhYuyxuf+eazbooH40ORTzh0e4iTq9XckPFqpjamh+Vueyejsol0lxOmUzANt076s0ZDAmi7JigS5mPxIM7Og3mNHiyaajfIsEOOf0J6WbLf0Uocz1/jV+l46KcY=;lj1K/la8i9s62ENqSgoaEQ=="
 ---

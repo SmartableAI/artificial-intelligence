@@ -51,20 +51,6 @@ related:
         width: 560
         height: 420
         isCached: true
-  - title: "IBM’s Watson Advertising Broadens Its Weather Targeting With Nielsen Sales Data"
-    excerpt: "How do you target people without cookies or device IDs? IBM Watson Advertising released a tool that combines weather, location and POS data from Nielsen."
-    publishedDateTime: 2020-09-14T13:00:00Z
-    webUrl: "https://www.adexchanger.com/data-exchanges/ibms-watson-advertising-broadens-its-weather-targeting-with-nielsen-sales-data/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 35
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2020/09/weather.png"
-        width: 400
-        height: 290
-        isCached: true
 
 secured: "09bhIrHYQeA5Xhvx//Z45KnSmG4nT04dthGZci0gd+Jv0JJJPnunWleVRfqp5iRSiPxwu20JFfktsPqTAo40+jynmT2gUfqA2KaA0X40AqYHRJYHR3pL745uUQ7u266USjrGXOnG9EIWHdZJ/QRAyBErAAlvPQfwuiGHSD2O5slge6Oh4BGT/2UhOnex5srN3YEi7s+U0VFpBIF+MumgaMX3zMAWsIfF6MJ3ANjplblSX7MtOOxiVNXk36KC4uK88AiUs0gAW9mkkeH1NyQZJTYDaNHhK3to8tpwZjLmpPQQlqtT1CwqH7gxiOWCxsZrYwNRPdtenRbIH25oLAMQyL1av2L6ZXHieStM8xfehZuMSsA7PYqaZf3qVSMne5GJQiuiQUF8H+IjWfEDnKeAB6MRpqRMwji9MusGSQu55VfG3JdTotZGql/Hby3a10SiDtZ8B7DcHq/SsMip+y5ELPLlYNysWMojcS373V4ZZOzqtzuK+Ot1b2cai1QHpweywV+PLcdb/mwZzuG6sjDpQw==;BA4IPup+7lYRhG779AC7BA=="
 ---

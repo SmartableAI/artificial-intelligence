@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2020 Global Analysis, Opportunities and Forecast to 2026"
+    excerpt: "Wiseguyreports.Com Publish New Market Research Report On-\"Artificial Intelligence in Medicine Market 2020 Global"
+    publishedDateTime: 2020-09-19T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-09-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Automobile Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
     excerpt: "The report outlines the competitive framework of the “Machine Learning in Automobile Market” industry describing the"
     publishedDateTime: 2020-09-15T12:13:00Z

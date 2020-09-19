@@ -1,16 +1,16 @@
 ---
 category: news
 title: "How do we know AI is ready to be in the wild? Maybe a critic is needed"
-excerpt: "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,"
+excerpt: "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,"
 publishedDateTime: 2020-09-18T20:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+originalUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+webUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -21,9 +21,14 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
-secured: "rub+LWJGhsxM19lbbNUxSK8ADqw3Uv50M2FIn4WdyhGbdWufcS7TSfutI8jKqONou/J1iXjeQ/3WR+M7w88Fn+eLcUN1FbNVjy+gOceU18EIFhz5RDlGXfSbh8bnzGoHuAKqP3BOalcJL+llZJrdpuSG1TE6/fC4fpqGsCcKb5Q2qvH5O+uic4o1e1NUcWnWkbQNuGlHo/HCx2Zw5bSDJdT7B47BdGT1J+dSajtNSoz0eXZCKXhXiX9Za4jx92+jO4Xq+wKc8felVROLs6NYZcF6dG0k9y6JJHHWR2Q+ho938AuHh70PKXxIHI+UHpJ3ZtUwSEDSMDrP9+QRgtkiI3T8F/2zISiG0ZC/IqGsi3L2xoEM0npKcrd0qK96MKjA2jzJd/9bmSk8fzUdz5KyM5ILNE/6J2o1L66tGdZef4Ali6plwyaegpY1Dq7Fe0vugbo/uojCUyBwsdEkON4MmJRJtI7DjY9XD/hi9Yv+4cB07gBlVc5NJG9vsB3smzL0kBowp9v6bgfdRrZHvhBzFw==;0Bn5Kzwxtayax5jCAckOqQ=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg"
+    width: 4324
+    height: 3684
+    isCached: true
+
+secured: "vxqjhgHiL3y+0+OYd0uHgQoHoFS1yz3LPdNb63C2SAIzY016U3odDhIPX+7EGIviMeFupzJc18ZUtqvcCDT8udUN6XpA/fzPaHkZD9mTNPFNbbTngFGkuvBJxHI0S8DePGSvvPf7SpDt/twx0Er+7O0U1NJ4JZbM2bOrrRUwt/ht0Uftl7y9k4UkpUMqy73vuPI2wU/Ujt1pQ9sUC82slP2wG93QyY1M7y37JNF0hg9r0C2KldsS1LRyUM4ZXKSMo+GKfkf6Q1KABa13ELPCYzNNgx86emUp6LpMlq0FYAeillXdmCtioZ/MbKqXFmNCD1yFJlc/sxfcn+tN5S0NpgLn6GZThuNq9tOZcWd4pKo=;S5Scs6MtXwASxiZVwH3dAA=="
 ---
 

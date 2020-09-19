@@ -53,20 +53,17 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Nvidia Buys ARM for $40 Billion, Plans New AI Research Center"
-    excerpt: "ARM rumors we’ve been reporting on for the past few months have culminated in a major announcement: Nvidia will acquire ARM for ~$40B in cash and stock. After the deal, Nvidia will own ARM and SoftBank will be the largest shareholder of Nvidia stock."
-    publishedDateTime: 2020-09-14T11:30:00Z
-    webUrl: "https://www.extremetech.com/computing/314934-nvidia-buys-arm-for-40-billion-plans-new-ai-research-center"
+  - title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+    excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's R&D presence"
+    publishedDateTime: 2020-09-19T05:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/g17482276/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17482276"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17482276"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/Nvidia-Orin-e1600046453687.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "NVIDIA to Acquire Arm For $40 Billion, Uniting NVIDIA’s Leadership In AI with Arm’s Computing Ecosystem"
     excerpt: "NVIDIA and SoftBank Group Corp. announced a definitive agreement under which NVIDIA will acquire Arm Limited from SBG and the SoftBank Vision Fund (together, 'SoftBank') in a transaction valued at $40 billion."
     publishedDateTime: 2020-09-14T13:39:00Z

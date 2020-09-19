@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
-    excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
-    publishedDateTime: 2020-09-14T12:13:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-speech-recognition-companies-watch-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Speech-Recognition.jpg"
-        width: 1680
-        height: 840
         isCached: true
   - title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
     excerpt: "Growing demand for deep learning through neural networks is driving the demand for the market - Market Size - USD 1.26 Billion in 2019, Market Growth - CAGR of 21.4%, Market Trends -"

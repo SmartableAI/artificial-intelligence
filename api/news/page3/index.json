@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-16-robot-research-vessel-to-set-off-on-epic-ocean-voyage-of-discovery.md",
+      "title": "Robot research vessel to set off on epic ocean voyage of discovery",
+      "excerpt": "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "originalUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c79b055/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F65%2Fe56342c24447b4e08aa4a06e5550%2Fmasinwater-12.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "publishedDateTime": "2020-09-16T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
       "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
       "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",
@@ -1161,56 +1212,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean.md",
-      "title": "Here’s how Watson Assistant and Soul Machines are helping the UN keep the oceans clean",
-      "excerpt": "The face mask you’re wearing or the plastic bottle you’re drinking from can easily find its way into the world’s oceans—through improper disposal, or through flaws in the waste management chain like improperly managed landfill sites—and join the 5 trillion pieces of detritus clogging our oceans. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_09_14_Watson_Assistant_Blog_Leadspace_V1-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T09:05:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],
