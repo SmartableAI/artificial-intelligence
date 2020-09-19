@@ -25,50 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "When Wildfire Smoke And Ash Fill The Sky, Here’s How Self-Driving Cars Can Go Awry"
-    excerpt: "An especially eerie sight made the national and international news last week when the Bay Area and other surrounding locales became thick with smoke and ash, causing the skies to showcase a menacing red-orange glow and blotted out any semblance of a normal sky."
-    publishedDateTime: 2020-09-14T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/"
+  - title: "Self-driving car algorithm could save lives by constantly predicting the worst"
+    excerpt: "New autonomous vehicle algorithm constantly predicts every scenario it could face. And then figures out how to get out of them without hurting anyone."
+    publishedDateTime: 2020-09-17T19:04:00Z
+    webUrl: "https://www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/"
+    ampWebUrl: "https://www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d987fd704a8411dbcd758%2F0x0.jpg%3FcropX1%3D979%26cropX2%3D5000%26cropY1%3D312%26cropY2%3D3097"
-        width: 1200
-        height: 831
-        isCached: true
-  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
-    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
-    publishedDateTime: 2020-09-17T18:56:00Z
-    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 39
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
-        width: 600
-        height: 331
-        isCached: true
-  - title: "Self-Driving Cars Still Cause Accidents"
-    excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"
-    publishedDateTime: 2020-09-17T20:12:00Z
-    webUrl: "https://spacecoastdaily.com/2020/09/self-driving-cars-still-cause-accidents/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 24
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/self-driving-car-600.jpg"
-        width: 600
-        height: 331
-        isCached: true
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 50
 
 secured: "AmGeNqZA8BtSEbTM6F6J3pfD7eABhsygkhmFAO91IAHK5W4oJlPh71tbSHoB6+nUwKwlMOS9z02TJJ7gFNZ4DTfGgfGv07QN93iFUnIKgZA9RSCNfPWfVu2VgOEwZ+sLDPqNF78TYJAdCfqngruWXMYjNQj/FxcAbEQQJd21mq9VgGb54CkMsymeNL3OPl0CGVmw4d4rMZeleYzWwMoZ1s0DsnhPWMOBT355Bjh2aThR32ea+AjG0yI2Z0Fhli88jMMYw64JmBYojrbc6f4MgajmLiIBPpz5SK4R1mr/vbP78CdkKWkDr6Vne80NGHzX3aI/oX49wSyyeo87ouCKXQDQGpGFz6Pebx9S3/psof+J29d0ahaNoRb+MRnidy49Vw+Uen4DnufsUSTl7Q435EiejOcwFfV144Cfr9mhCuD0iLnoAkJjrIXqD04Lz+RKsaTkIvEURmP4cQieVSVV7I904wXSin0Z8evRQy158lnfdGZ3yXGbPZZv8b/ID48CE4i7bdD8xxenmldMKQfU2A==;3EivGbdgbpSjl6N9+eSJcg=="
 ---

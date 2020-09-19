@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "When Wildfire Smoke And Ash Fill The Sky, Here’s How Self-Driving Cars Can Go Awry"
-    excerpt: "An especially eerie sight made the national and international news last week when the Bay Area and other surrounding locales became thick with smoke and ash, causing the skies to showcase a menacing red-orange glow and blotted out any semblance of a normal sky."
-    publishedDateTime: 2020-09-14T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/"
+  - title: "Engineering students to design the perfect self-driving Indy race car"
+    excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
+    publishedDateTime: 2020-09-17T22:11:00Z
+    webUrl: "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d987fd704a8411dbcd758%2F0x0.jpg%3FcropX1%3D979%26cropX2%3D5000%26cropY1%3D312%26cropY2%3D3097"
-        width: 1200
-        height: 831
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/16/d3af512b-0e0c-424f-9b1a-034aa89bd41d/thumbnail/370x278/46c4cff050aba7218eac14a0caae0916/20200916-beth-appleone.jpg"
+        width: 370
+        height: 278
         isCached: true
-  - title: "Can a New Algorithm Make Self-Driving Cars Safer?"
-    excerpt: "A driverless car isn't driven by a person but is controlled by a system of sensors and processors. In many countries, tests of autonomous driving have been happening for years. Germany wants to permit driverless cars across the country by 2022."
-    publishedDateTime: 2020-09-14T17:11:00Z
-    webUrl: "https://www.insidescience.org/news/can-new-algorithm-make-self-driving-cars-safer"
+  - title: "Self-driving cars are closer to becoming reality"
+    excerpt: "Click here for updates on this story NASHVILLE (WSMV) — Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras,"
+    publishedDateTime: 2020-09-17T18:37:00Z
+    webUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
     type: article
     provider:
-      name: Inside Science
-      domain: insidescience.org
+      name: Local News 8
+      domain: localnews8.com
     quality: 24
     images:
-      - url: "https://www.insidescience.org/sites/default/files/sites/default/files/images/articles/top-images/2020/driverless-cars_cropped.jpg"
-        width: 900
-        height: 530
+      - url: "https://localnews8.b-cdn.net/2019/11/US-World-logo-new.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Self-Driving Cars Still Cause Accidents"
     excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"

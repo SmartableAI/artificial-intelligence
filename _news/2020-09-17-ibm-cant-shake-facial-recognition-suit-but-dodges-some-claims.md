@@ -2,9 +2,9 @@
 category: news
 title: "IBM can't shake facial recognition suit but dodges some claims"
 excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
-publishedDateTime: 2020-09-17T02:09:00Z
-originalUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
-webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
+publishedDateTime: 2020-09-16T22:18:00Z
+originalUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
+webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
 type: article
@@ -112,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM calls for limiting export of facial recognition software"
-    excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
-    publishedDateTime: 2020-09-14T15:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200914/3626202.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
     excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
     publishedDateTime: 2020-09-16T19:57:00Z
@@ -131,6 +122,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "bi8qGOx+WIiBL4xkg7/iiV2Yy1HR0//OUVXPTuasPTic2fUkkXGc9FmAFBg4Ffepxcqw5O9ZMagL/c/IzjtTpauRUIMeAGaIBGVEWEvIgCPY6BQUkDs1kELlBv9s4L8/lef8e4a9MMkuCU3OtQkR0vAkm1DxeE53zRgHOZMXOqLQlPBNI9vutSPZBnkQY+dIk8Ww9FxatJ/e1R5XmYHDtQ0LwG2jg7+09gW+9SV9//aYxLrF7XhCl8T0IBJXjCq6CUBGAtd0Y4L3jZUL8mWL7urRH12QMuoGc1wuZdFDGdyqsGzASKAVx7S6A79i6xbvPZNj4aTCuNGM7o+knQ1ztFFCibReQil4gsbom4CBh9Q=;7d3UXTo9CSoUW0oxY+eS+Q=="
+secured: "/I7JHEhTFyRpfJd4vZmcpS5Ek86KBZOSt8R7G3sMoKbdgsab5bnF3lYQ6ldhJdSbNDGqnd+lkh+et2eSWYBSc5IBUUUMdoFFzD1NQstRNGEMHzcxQAjz0B9oX6Evsax2ERArgf8Hg0p1F34VJpWtX+PPDaGHffWhwJGrmT41Zb6gGFGC2JacHZC/VNXtfT1iCq9/p64WZLQMjf9osz9RwFd7rsTwBBIBsPOJAMYreuQMb26rocQ1VZzyheiXohJ/TW2zXH8XX9CzU341bX2P+cUIdm37/J10Aww16gI6qi9+huTkyxEzl1rOCh7n5dPALU4nhMfxPbbcrn681rFA247d5GKtYouJp8l/PWdx3F4=;7Jrs8TIwjnrdpJrkkTnWUA=="
 ---
 

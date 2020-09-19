@@ -397,6 +397,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-15-seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles.md",
+      "title": "Seegrid closes a $52 million round for self-driving industrial vehicles",
+      "excerpt": "Seegrid, a company that builds self-driving vehicles to carry materials in industrial environments, has raised a further $27 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
+      "publishedDateTime": "2020-09-15T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-varada-raises-12-million-to-automate-data-lake-management-with-ai.md",
       "title": "Varada raises $12 million to automate data lake management with AI",
       "excerpt": "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding.",
@@ -1136,48 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-record-chip-deal-lands-nvidia-in-crosshairs-of-us-china-tensions.md",
-      "title": "Record chip deal lands Nvidia in crosshairs of US-China tensions",
-      "excerpt": "Nvidia's planned purchase of UK-based Arm gives US firm serious sway in an industry crucial to global tech supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
-      "originalUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/14/a14de634fc5e4757afa0738981cb30c7_18.jpg",
-          "width": 583,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
-      "publishedDateTime": "2020-09-14T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

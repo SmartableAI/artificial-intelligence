@@ -9,7 +9,7 @@ ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holding
 cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 707
     isCached: true
-
-related:
-  - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
-    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
-    publishedDateTime: 2020-09-14T17:00:00Z
-    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
-    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
-        width: 1024
-        height: 707
-        isCached: true
 
 secured: "y9RvMM7kf7rsQnCefQbZjNAbedT40dISOWIu3glbJ3+ElZNo19sHswMvlAWq+O763dALa3pG+EU6qPeyEDLMyMOP7cIfgRfsZSVtgyqnMJmyhMZPxP1P4BP33moiZoo3wBuJJLjB735bNAOD+N3oD84YX5RvVYZHgG0jCkNuXjSu4T0ZMBgSKYsBERxr2VbesLhWQ8rfN3XhelFCCLe32Sin+xhMavCqEbm7T5i2FYovgy1fP4OGJ5plBAxyqwyCYk8AnC8YDjffGoJGGetAIbCv0BaKSYySFVmN2rNL6aEIdIB7gBe0EaEjBclf9s+liDb+l1yz2ApFKczQzjI0l7tc9ehbXm2m9j6LkJe07KZWmF+se+lh6YfnqQbdQ8akexzhvUPyHHLdh9WebW6zsuRyO0KSK2A31EXALFtT93xgALFSfHkRSoQXZy4I5ECV4oghooIRg2zJcgXRf7amTcW68FRnowVRN3+cYfXH4R7i734bAmacLsXqRCTn9q2hLk5RLy0uc3D7DPwlEqphNw==;vGcMpuRVdQMoIbw6is8wEQ=="
 ---

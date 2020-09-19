@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "IBM can't shake facial recognition suit but dodges some claims"
     excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
-    publishedDateTime: 2020-09-17T02:09:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
+    publishedDateTime: 2020-09-16T22:18:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics/ibm-cant-shake-facial-recognition-suit-but-dodges-some-claims-idUSL1N2GD2JP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
     type: article
@@ -117,15 +117,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM calls for limiting export of facial recognition software"
-    excerpt: "After revealing its decision to terminate general purpose facial recognition and analysis software products in June, technology giant IBM has now called for greater restrictions on export of facial recognition software from the US."
-    publishedDateTime: 2020-09-14T15:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200914/3626202.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "lf/EAacLpbe/FryueE7fe3UjPGbwGzksuYuKZcixc1Zou+ObVJGSMdEnMN3n/LK9MLIyLd5ckBtEDJmz1JNEGSgs6wUu0rW/PncAKCDPRATVSxgHv8DGUtEsEOaTCVviffiTMSmlGFxSxea/9RHCch8kC8y190EF4PdLHGRcdOBtriXD7KiJ+1ub3UnULOO32qo9v6xnb+FzdCVjbb9T4qiSGzK9Sljk4nHAlJuUmyvCOnr6mjlg+BUEPslRjAA4A6ad5dkg+c/4g6N/M7TKORCw5EHSTzwEQwUZqYEKkuZJVBjiD3d4BzIrmLytSPrbYlSmF+FI+gofwCRfUt0F33LQugpFJQVSX0YI1vYPQAaQK+6dZ9dHrabaOcFiDIj62hvLutYLCvpPj0XhsBdX8XVgSBiDQdU9OgUTEGXFGGfODAIBn3TgGT7iMg7GmGhH/z9xhy/Ay1cWX/7S07lE5iAlgXkga7cu+T+KGTDSH8D2Y1S8b+7PcVVITT+TU/Hqd57G0QvM8gWjpHxaWWyqrQ==;MswMI41Et94S45op7K/nTA=="
 ---

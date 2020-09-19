@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-15-record-chip-deal-lands-nvidia-in-crosshairs-of-us-china-tensions.md",
+      "title": "Record chip deal lands Nvidia in crosshairs of US-China tensions",
+      "excerpt": "Nvidia's planned purchase of UK-based Arm gives US firm serious sway in an industry crucial to global tech supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "originalUrl": "https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/14/a14de634fc5e4757afa0738981cb30c7_18.jpg",
+          "width": 583,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html",
+      "publishedDateTime": "2020-09-14T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ibm-watson-powers-aipex-the-first-fully-ai-driven-index.md",
       "title": "IBM Watson powers AiPEX, the first fully AI-driven index",
       "excerpt": "With financial markets making historic gains and losses week after week, stability and risk mitigation are critical factors for success in equity investing. Historically, quantitative criteria for indexes offered through financial products and index annuities have relied exclusively on structured historical",
@@ -343,19 +385,19 @@
     {
       "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
       "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lancashiretelegraph.co.uk/news/national/18719841.researchers-claim-develop-concept-ensure-legal-safety-driverless-cars/",
-      "originalUrl": "https://www.lancashiretelegraph.co.uk/news/national/18719841.researchers-claim-develop-concept-ensure-legal-safety-driverless-cars/",
+      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
+      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lancashiretelegraph.co.uk/resources/images/11806393/",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -364,11 +406,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:01:00-07:00",
+      "publishedDateTime": "2020-09-14T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Lancashire Telegraph",
-        "domain": "lancashiretelegraph.co.uk",
+        "name": "Express & Star",
+        "domain": "expressandstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1138,50 +1180,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
-      "title": "AI ethics groups are repeating one of society’s classic mistakes",
-      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
-      "originalUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/09/GettyImages-1153022933_web.jpg?w=3000",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
-      "publishedDateTime": "2020-09-14T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

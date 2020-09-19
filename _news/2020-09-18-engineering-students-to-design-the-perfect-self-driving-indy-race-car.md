@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/engineering-students-to-design-the-per
 webUrl: "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: ZDNet
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars are closer to becoming reality"
-    excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
-    publishedDateTime: 2020-09-18T01:37:00Z
-    webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
+    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
+    publishedDateTime: 2020-09-17T18:56:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 39
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
+        width: 600
+        height: 331
+        isCached: true
+  - title: "Self-driving cars are closer to becoming reality"
+    excerpt: "Click here for updates on this story NASHVILLE (WSMV) — Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras,"
+    publishedDateTime: 2020-09-17T18:37:00Z
+    webUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
     quality: 24
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
+      - url: "https://localnews8.b-cdn.net/2019/11/US-World-logo-new.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Self-Driving Cars Still Cause Accidents"
+    excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"
+    publishedDateTime: 2020-09-17T20:12:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/self-driving-cars-still-cause-accidents/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 24
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/self-driving-car-600.jpg"
+        width: 600
+        height: 331
         isCached: true
 
 secured: "vDr14iX5Adoy9UMOBFJEs2NWQi9Fkb3q16i9n8wRByQX5KNev+3pE0YR2sFZUfWmUbMyL4ZbIb2EMf6iidjx5IJG0BCh9zszNH+G76xz/WztDkCRedidP7FaOdN1jNmKsHhyv+M2tqIh/oulZYYKmTLGpAoPk/offB1+1Ztg+XFyP/8wE7zdEroveVnNUj/x6WQhFjo6zyz7BxyuL8CPqGRRmGMwDtuvAQWEFvXA8s8QsltmO2nRdES+BjENSIHRrCpg6S+Th3fP8td7nk/iEIyuNIOq73FqFrUNf+faZcuAetmbArE/GMGoU3O2ACfPFzpT9mm3iz3vgXeNemA66Il82Wza5XvrjhPBGPymheZRyAThjdeYVbh35bfSSf+d3i7w2QFbbmppV2nKimWPNKzFRObZxMc5oNc4ZJIOt3HWWjuw9+ZVdGbEePK5UWUORjNgu4dE0QAe6XC2IUMhiSnTaA7orWqTxx1RoaiA1lXNrDvqi1W8Fw/dnS4TpNzLCCelUL2B3DhTnZr9DHJGSQ==;EOdsbAilV7mEfccZrBkJWw=="

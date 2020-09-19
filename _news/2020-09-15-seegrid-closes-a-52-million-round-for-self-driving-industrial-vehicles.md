@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Idriverplus raises over $14.6 million for autonomous street cleaners and cars"
-    excerpt: "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform."
-    publishedDateTime: 2020-09-14T15:40:00Z
-    webUrl: "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/"
+  - title: "Pittsburgh-based developer of self-driving vehicles raises another $27M"
+    excerpt: "The Pittsburgh-based developer of self-driving industrial vehicles for material handling on Tuesday said it has closed a $52 million growth equity financing round, adding another $27 million. This more than doubles the $25 million Seegrid Corp. raised in ..."
+    publishedDateTime: 2020-09-15T13:46:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.html"
+    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/1280-e1600097257631.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "2bzHG+qsRgknz56ppWeRkjqJhbt9xwZ0RdafRSjN0wGknmQ5BsBSyQE4z8gelcVh9KDwuMwjgAi8Lxd/yGXu/mDSlOSk+GBE4DzeLCZ4YoGvnlBIr80pFIburY5qZ0ONDzkwCDfO33rQCV0kyTLXJBJloA4RDDxS+Ehda+wtff0HYySzQJkMC1S0KpPCnUGifqWM0J1aRyHHKpnrAe9ORnYFJOYKoAaciA4BkLoecE80jEqx/zfwoqkPnoSItdgU7o0t7W/TFsNhSwSY5diASRaRpjgQSqpvdDBoTuC/a3ga94/0xKDak2qU/iXuqzZTMa+9yFNsJ8infzad2bn04sOILgyN+wV9i4X1PtXWKGJcXc1DA/i93q3uGolm/yAZwz00b769u/BoAIrXNjf56RgyHeUEnIcIthshzCi7W4nj4FbCMhjoyBq5AajapO0Odo1JUFML2ybVdwThXhyBYAbJC07ZmL3w8dww6ilOsXjO0W0VEmvdZgV9sYbUA4eP6SjnReLRPwjMsvJZJ0eCgi2QA5T4YenyU+b4N5+kGq0=;uLXoD8rnFJnmIsU0naEjQA=="
 ---

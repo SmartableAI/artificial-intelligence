@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Self-driving cars are closer to becoming reality"
-excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
-publishedDateTime: 2020-09-18T01:37:00Z
-originalUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
-webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+excerpt: "Click here for updates on this story NASHVILLE (WSMV) — Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras,"
+publishedDateTime: 2020-09-17T18:37:00Z
+originalUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+webUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
+  - url: "https://localnews8.b-cdn.net/2019/11/US-World-logo-new.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -39,7 +39,35 @@ related:
         width: 370
         height: 278
         isCached: true
+  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
+    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
+    publishedDateTime: 2020-09-17T18:56:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 39
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
+        width: 600
+        height: 331
+        isCached: true
+  - title: "Self-Driving Cars Still Cause Accidents"
+    excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"
+    publishedDateTime: 2020-09-17T20:12:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/self-driving-cars-still-cause-accidents/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 24
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/self-driving-car-600.jpg"
+        width: 600
+        height: 331
+        isCached: true
 
-secured: "RtrsnUqVSnceqcJHfwntU7nK9QkGXZi1WZsL1D+B+wYVKPJ//GyhaPh+3sOEZwrjy4VosmnG+9HGIiAy9LHS3U7x0M9O+qfEMuiXrQ1Po75X4X2xJCFw6NHp+ou2+qmwt3+TT/ogTX78FAmtyM+SatdpdKg7H1oQJU2w8Z9wKc3JTqp5+OcuxvXRf3XDdSkBetUM1cku1A/EG5f69+RoWFRkXkRHL6ZuVaE7qoRyyzMe5j9OI/ZP7re220Z1jwjHzRYG/2+628GxYJTZj2bJnwilJXdBXU3JhXRIoUgltH1WKI7El//oi+z+ecKR+gR0Fe2iBIChAGRV0H8HrpxWPcdTK+Jm9QeqwS3AstZcmjQ=;TiI0B+uPXc2VLFwqqz2s5w=="
+secured: "lIpi/x9ZMDjhi54Tpn2f3xSqdxjQ5WdmK1OIMpB9PXpZkVGjeLbWfj9teqw9gmLituvMcLglBs/DOodOisIrvtw4XhSD/YTSvC995L8RuTQlVAz9MXbGBDxUjbez8MvDgOeu1edzTQ1ghNNhah6uXq9IJbw/rDAX7cYaEmr8Ttu7+7X3n2B9JzKX1v2bFFSAW9MQXLRhgD6M9gDb4JmDDG1O6UjZx+quBmK43krWHuWX/ZCMV/b3aIypo8J/JeHMXTdbT1lCAZ1Ixhhfb18KUHqxfcaJUawQYES9yBHuHeZEh5nP6mAyHbiN1PAV5uEqgszEj9AX8q6TEplAJNp/ZSSIubcvOG2lryegXTFJXl8=;jUXJpYmA4/T6s6JkDDUMqA=="
 ---
 

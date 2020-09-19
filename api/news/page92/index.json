@@ -2,6 +2,48 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-07-10-how-to-generate-structured-data-automatically-using-computer-vision.md",
+      "title": "How to Generate Structured Data Automatically Using Computer Vision",
+      "excerpt": "The best way to learn and appreciate the power of computer vision is to run a quick example. I put together a simple Colab notebook that basically follows the steps outlined in this repo from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/how-to-generate-structured-data-automatically-using-computer-vision-5f06c03959da0.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "publishedDateTime": "2020-07-10T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
       "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
       "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",

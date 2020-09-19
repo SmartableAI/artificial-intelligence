@@ -2,6 +2,48 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
+      "title": "This cheap coding course is perfect for total beginners",
+      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "publishedDateTime": "2020-07-23T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
       "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
       "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
@@ -1171,56 +1213,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-here-now-how-ai-can-alert-us-to-a-changing-world.md",
-      "title": "Here, Now: How AI Can Alert Us To A Changing World",
-      "excerpt": "The Covid-19 outbreak has changed the world in a myriad of unforeseen ways, and experts in every field are scrambling to predict its impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183d7f6efac20006bffbea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "publishedDateTime": "2020-07-23T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

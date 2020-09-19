@@ -23,19 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Pittsburgh-based developer of self-driving vehicles raises another $27M"
-    excerpt: "The Pittsburgh-based developer of self-driving industrial vehicles for material handling on Tuesday said it has closed a $52 million growth equity financing round, adding another $27 million. This more than doubles the $25 million Seegrid Corp. raised in ..."
-    publishedDateTime: 2020-09-15T13:46:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.html"
-    ampWebUrl: "https://www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/09/15/seegrid-raises-27m.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-
 secured: "3LckNedSTuduRYPh1rO5h7NphFyrGgVDMgge+2rsvpJUxmNhULW+15/RnnWN3I4GPUP8xauQrQPwIOHGvS9ZPzcy5R7Q+IMqIqL/TVWPdTOknoqFlxB/M77lSpor9zocSclPJEpN2AQ8Gpjrv3YJXpvy9oovRx6X4UBdmFvgI94Kb1lcO7IOXGP9hzWo7hwbPef64mlsaj0O4zRh9gBHoHhfxkyDg3lVMOpJaMFhcOFisuHblaSfGQShLAWDwKbgSg1xuxzAfkHBVrVTQqPo8AMyzflp/Ycin/eYY9EbDPEk9FX31U7r42bLTsZKqfJjrr/ZC7/bG8lL2RLNtBfK1vbh0MA+mOBQeXtyhwKMdIGqdzJcI+AXnDNM5O55bJRENbzu+EwLlXqdrYBMbjyIINcVfYRKAUH8g7z1O6daYZbhl+X3z2P0IbfIivCCTcDO82s4QRcrDdzgr4a9I15qE++Af1baxkpd6EOaQStectSzoq4ncqOzjtp6x0Qq6sl1Y4ZKnsglgIyLAP99a1sIuQ==;xyhIzHvqs1Jbi7PITYH5nA=="
 ---
 

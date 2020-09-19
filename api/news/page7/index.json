@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-12-automakers-may-be-hyping-self-driving-cars-report-warns.md",
+      "title": "Automakers may be hyping self-driving cars, report warns",
+      "excerpt": "Automakers may be hyping the capabilities of self-driving vehicles through marketing campaigns. Marketing of auto-driving cars stress on convenience and capabilities, instead of its limitations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece#!",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/xsshqd/article32583338.ece/ALTERNATES/LANDSCAPE_615/AAApng",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/automakers-may-be-hyping-self-driving-cars-report-warns/article32583336.ece/amp/",
+      "publishedDateTime": "2020-09-12T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-toucan-raises-3m-to-teach-you-new-languages-as-you-browse-the-web.md",
       "title": "Toucan raises $3M to teach you new languages as you browse the web",
       "excerpt": "Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automatically translate some of the",
@@ -1140,48 +1182,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out self-driving taxi service in Beijing",
-      "excerpt": "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

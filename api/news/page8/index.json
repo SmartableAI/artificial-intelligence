@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out self-driving taxi service in Beijing",
+      "excerpt": "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
+      "originalUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-delivering-ai-to-warfighters-is-strategic-imperative.md",
       "title": "Delivering AI to Warfighters Is Strategic Imperative",
       "excerpt": "Delivering AI to Warfighters Is Strategic Imperative. The Defense Department is in an important transformational pe",
@@ -1093,57 +1135,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-portland-just-passed-our-countrys-broadest-ban-on-facial-recognition.md",
-      "title": "Portland Just Passed Our Country's Broadest Ban On Facial Recognition",
-      "excerpt": "Portland, Oregon might be best known as the home of bohemian stereotypes a- plenty and some of the wildest donuts you can find in the state. Now it’s also earned the reputation for ambitious privacy legislation after passing the country’s broadest ban on facial recognition technology to date.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594",
-      "originalUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tjgsnhla145urojh2w3s.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-just-passed-our-countrys-broadest-ban-on-facia-1845010594/amp",
-      "publishedDateTime": "2020-09-10T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

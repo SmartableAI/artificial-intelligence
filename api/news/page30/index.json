@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-26-freedom-of-cloud-choice-the-myths-and-truths-about-multi-cloud.md",
+      "title": "Freedom of cloud choice: The myths and truths about multi-cloud",
+      "excerpt": "What does multi-cloud strategy involve? Because of the operational complexities of running across multiple clouds, for most organizations, multi-cloud strategies will really be about freedom of cloud choice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-myths-and-truths-about-multi-cloud/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-myths-and-truths-about-multi-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-myths-and-truths-about-multi-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-myths-and-truths-about-multi-cloud/",
+      "publishedDateTime": "2020-08-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-microsoft-word-how-the-new-transcription-feature-works-and-how-it-compares-to-other-services.md",
       "title": "Microsoft Word: How the new transcription feature works and how it compares to other services",
       "excerpt": "Word can now turn a conversation or meeting into text ready to use in a document, but that might not come to desktop Word for a while.",
@@ -1138,56 +1180,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs.md",
-      "title": "Turing raises $14M to help source, vet, place and manage remote developers in tech jobs",
-      "excerpt": "The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/",
-      "originalUrl": "https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-521234668.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/25/turing-raises-14m-to-help-source-vet-place-and-manage-remote-developers-in-tech-jobs/amp/",
-      "publishedDateTime": "2020-08-25T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

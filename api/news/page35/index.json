@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-22-environmental-sustainability-and-ai.md",
+      "title": "Environmental Sustainability And AI",
+      "excerpt": "AI can contribute to your company's carbon footprint or if managed well, help reduce the impact your company has on the environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3c7a3ef99cba8bd510dbc9%2F0x0.jpg",
+          "width": 660,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/amp/",
+      "publishedDateTime": "2020-08-21T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions.md",
       "title": "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions",
       "excerpt": "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020",
@@ -1128,56 +1179,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-defeats-air-force-pilot-in-head-to-head-competition-but-the-fight-was-on-the-ais-terms.md",
-      "title": "AI Defeats Air Force Pilot In Head-To-Head Competition, But The Fight Was On The AI’s Terms",
-      "excerpt": "Heron Systems yesterday fielded an artificial intelligence system that managed to not only outgun a top current U.S. Air Force fighter pilot and weapons school graduate, but to score a flawless victory against its human opponent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/guysnodgrass/2020/08/21/darpas-ai-defeats-air-force-pilot-5-0-in-head-to-head-competition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3fc4a5c6d15874728d848d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1415%26cropY1%3D0%26cropY2%3D796",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/guysnodgrass/2020/08/21/darpas-ai-defeats-air-force-pilot-5-0-in-head-to-head-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/guysnodgrass/2020/08/21/darpas-ai-defeats-air-force-pilot-5-0-in-head-to-head-competition/amp/",
-      "publishedDateTime": "2020-08-21T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

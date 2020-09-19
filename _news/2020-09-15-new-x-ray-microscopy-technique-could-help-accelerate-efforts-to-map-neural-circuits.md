@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 27
-  - title: "New X-ray microscopy technique enables comprehensive imaging of dense neural circuits"
-    excerpt: "One of the grand quests in neuroscience is to build a precise map of the brain, charting all its neurons and the connections between them. Such a wiring diagram, called a connectome, promises to help shed light on how a collection of cells can together give rise to thoughts,"
-    publishedDateTime: 2020-09-14T16:09:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-x-ray-microscopy-technique-enables-comprehensive.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/newxraymicro.jpg"
-        width: 850
-        height: 536
-        isCached: true
 
 secured: "zSBnNmDeo43MvX9P+fbcSnVP+AyD2amxaCmxb8Ux0G/Tmuo2pndtaI3qSbBqtqSHmlXNav6uG2v92Z0ZF+2FbEy7Oc5hQdQU6HEyrMwfAuCAs260jSWuhDapdY24EvhgwxEGSFbYbCNuhbfofhDwVUCfOPTqLgigSSamIIT3Ius+qA/NdRL3MOdi8OC40sCDALDPRISW0m4oQe5Edq+mK/2SYd/6c5v5Cdh5Aq/4DL+STsy48y/OFKuOIUnY9LYlyYSa14YOhYbJdSbKuFolO429Cg2sYoOT3cndtxvu4LqzFvXF/PA1V4W+g5cV8XfQrVKfElszIUO2zZOrPYb6AqUMyvYyGMerotMgY78RADU=;o+oK8QvX4UsDCbK+sw+q1Q=="
 ---

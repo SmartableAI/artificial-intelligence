@@ -33,20 +33,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "Eta Compute Will Demo Person Detection and People Counting in milliwatt At The 2020 Embedded Vision Summit"
-    excerpt: "Eta Compute Inc., a company dedicated to delivering machine learning to low power IoT and edge devices using its revolutionary TENSAI® Platform,"
-    publishedDateTime: 2020-09-14T16:05:00Z
-    webUrl: "https://www.eejournal.com/industry_news/eta-compute-will-demo-person-detection-and-people-counting-in-milliwatt-at-the-2020-embedded-vision-summit/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 6
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "xdE/paQUgg3PBiBj/9raO61HtG9vAZqQSXveW/wwyi5wU92rc51iR6HsdRP0buy/1Juh9RTYa8CWiwjOF5e2alCZzC5/l4iukn/HqulumBF/aiEUTCpebJ+qryTrZPKYJ4Q5KwMQwUksDorrZKiC//BJiOC+bviyEUN4192QEq96i3zfCVc9FfKcJy4tnYprhOdqljPphtflZQaZywA8s+RRjjwuPsqEYwZSyxXu+G4o4dKDaqWp4Tr6ZiDVholZuvApzFHnBmT2nKCjR1PWt1gfsEFvd4ThHL9mQYGWziVgo1aWYPJM9nHUSWcGFhg352drUTsSIfkPKuNveUHgrcUP0Ou0cdK/jhyYDiJC4OE=;gW1wKgr6igxCPgrqgYTo7Q=="
 ---
