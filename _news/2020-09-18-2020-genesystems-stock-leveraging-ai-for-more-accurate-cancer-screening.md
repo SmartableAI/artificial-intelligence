@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Sushant was working on a mobile app to help poor using Artificial Intelligence!"
-    excerpt: "In such times a new story of Sushant Singh Rajpput reportedly developing a mobile app also surfaced that was to help poor using artificial intelligence."
-    publishedDateTime: 2020-09-14T18:10:00Z
-    webUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/"
-    ampWebUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://filmymantra-com.cdn.ampproject.org/c/s/filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Riddhi Dogra
-      domain: filmymantra.com
-    quality: 53
-    images:
-      - url: "https://filmymantra.com/wp-content/uploads/2020/08/Sushant-2020.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "DBS: Taking machine learning for a spin"
     excerpt: "DBS asked Euromoney to join the machine-learning training it gives to thousands of its employees, which includes how to programme your own autonomous racing car. It’s all about getting staff to understand one another. Euromoney is teaching a virtual car ..."
     publishedDateTime: 2020-09-15T15:55:00Z

@@ -53,22 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Sushant was working on a mobile app to help poor using Artificial Intelligence!"
-    excerpt: "In such times a new story of Sushant Singh Rajpput reportedly developing a mobile app also surfaced that was to help poor using artificial intelligence."
-    publishedDateTime: 2020-09-14T18:10:00Z
-    webUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/"
-    ampWebUrl: "https://filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://filmymantra-com.cdn.ampproject.org/c/s/filmymantra.com/sushant-was-working-on-a-mobile-app-to-help-poor-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Riddhi Dogra
-      domain: filmymantra.com
-    quality: 53
-    images:
-      - url: "https://filmymantra.com/wp-content/uploads/2020/08/Sushant-2020.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "liOrJIOQTv0L4T8/rZ2QNgqE7y502BCQXFpE2oyJWjVQSi1ZP0Eo1Vg11r1zxMjshIJXSJ8uua9jdPa7HkCgLfXKKjvMRSlqOvN8B8DovvUdwMqLI8YlJ8A7QML1nBf3OcHLH33xDp49n9Txb5U8/MGF+3bgZDQC9PvyRu+HkdXbbdyy3CQxq55OvC0zCneiGnlqYmTnuvJJxzYMqrMnGsCun9k6kKEhqBp+X6REuZKsALP82cvshxDH7YnahKSbuSO7VtjVpRjJ9xuS9NKBdFW8LcDlz2bgfoTZFGmYj1rzauHJ27LwLByhKE61ARqW9+fxVXoozWFvWijJv0YrxwXs/fABFNNNEA/53wICbe3wWxSQ27ZyqDiAiMCgZxwNGsSphBPEr0ESNSuTjTPHRszcEAst0XzG3QMbzKR0c2ypJczZnQFZ0GEymYKkBpmxWPGEnoy4oMLt1afNd5mlL1yb+1EUjUh3smrx9BTy5qtt84dWVY6I1EbUCvyKyAhhQKZZN++ImbOtUcnokfM8FJNKiZZvYHB0Sb/47Bgn01A=;THg/PMHPcg2fQnvv+fR9DQ=="
 ---

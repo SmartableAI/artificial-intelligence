@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3575396/how-nvidias-arm-acquisitio
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575396/how-nvidias-arm-acquisition-will-drive-ai-to-every-edge.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s $40 billion Arm acquisition is about bringing AI down from the cloud"
-    excerpt: "Nvidia’s $40 billion acquisition of Arm is a hugely significant deal for the tech world, with implications that will take years to unravel spanning many areas of the sector. But if you listened to the press babble coming from the two companies over the last 24 hours,"
-    publishedDateTime: 2020-09-14T17:03:00Z
-    webUrl: "https://www.theverge.com/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3adfYOvSIiFfP9hVnSwmh87f7ac=/0x0:1785x1186/1400x933/filters:focal(751x451:1035x735):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67403580/1124597225.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "How NVIDIA’s Arm acquisition will drive AI to every edge"
     excerpt: "NVIDIA is sitting pretty in AI (artificial intelligence) right now. For the next few years, most AI systems will continue to be trained on NVIDIA GPUs and specialized hardware and"
     publishedDateTime: 2020-09-19T06:17:00Z

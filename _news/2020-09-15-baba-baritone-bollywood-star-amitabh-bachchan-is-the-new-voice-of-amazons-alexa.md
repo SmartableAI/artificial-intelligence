@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.thenational.ae/arts-culture/film/baba-baritone-bollywood
 cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/arts-culture/film/baba-baritone-bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazon-s-alexa-1.1077811"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
+    excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
+    publishedDateTime: 2020-09-19T10:00:00Z
+    webUrl: "https://www.dailyherald.com/business/20200919/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20200919/business/200919245/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200919/business/200919245/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 44
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20200919/business/200919245/AR/0/AR-200919245.jpg&updated=202009181351&MaxW=800&MaxH=800&noborder"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Amitabh Bachchan is new voice of Amazon's Alexa"
     excerpt: "MUMBAI • Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services.. Read more at straitstimes."
     publishedDateTime: 2020-09-16T09:47:00Z

@@ -26,17 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "New X-ray microscopy technique enables comprehensive imaging of dense neural circuits"
-    excerpt: "A new x-ray microscopy technique could help accelerate efforts to map neural circuits and ultimately the brain itself. Combined with artificial intelligence-driven image analysis, researchers used XNH to reconstruct dense neural circuits in 3D,"
-    publishedDateTime: 2020-09-14T18:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200914114125.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 27
-
 secured: "zSBnNmDeo43MvX9P+fbcSnVP+AyD2amxaCmxb8Ux0G/Tmuo2pndtaI3qSbBqtqSHmlXNav6uG2v92Z0ZF+2FbEy7Oc5hQdQU6HEyrMwfAuCAs260jSWuhDapdY24EvhgwxEGSFbYbCNuhbfofhDwVUCfOPTqLgigSSamIIT3Ius+qA/NdRL3MOdi8OC40sCDALDPRISW0m4oQe5Edq+mK/2SYd/6c5v5Cdh5Aq/4DL+STsy48y/OFKuOIUnY9LYlyYSa14YOhYbJdSbKuFolO429Cg2sYoOT3cndtxvu4LqzFvXF/PA1V4W+g5cV8XfQrVKfElszIUO2zZOrPYb6AqUMyvYyGMerotMgY78RADU=;o+oK8QvX4UsDCbK+sw+q1Q=="
 ---
 

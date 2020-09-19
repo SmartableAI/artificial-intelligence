@@ -2,45 +2,31 @@
 category: news
 title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
 excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
-publishedDateTime: 2020-09-15T20:00:00Z
-originalUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
-webUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
+publishedDateTime: 2020-09-19T10:00:00Z
+originalUrl: "https://www.dailyherald.com/business/20200919/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa"
+webUrl: "https://www.dailyherald.com/business/20200919/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20200919/business/200919245/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200919/business/200919245/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: New Hampshire Union Leader
-  domain: unionleader.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.dailyherald.com/storyimage/DA/20200919/business/200919245/AR/0/AR-200919245.jpg&updated=202009181351&MaxW=800&MaxH=800&noborder"
+    width: 800
+    height: 533
     isCached: true
 
 related:
-  - title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
-    excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
-    publishedDateTime: 2020-09-19T10:00:00Z
-    webUrl: "https://www.dailyherald.com/business/20200919/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20200919/business/200919245/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200919/business/200919245/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 44
-    images:
-      - url: "https://www.dailyherald.com/storyimage/DA/20200919/business/200919245/AR/0/AR-200919245.jpg&updated=202009181351&MaxW=800&MaxH=800&noborder"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baba baritone: Bollywood star Amitabh Bachchan is the new voice of Amazon’s Alexa"
     excerpt: "India’s biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world’s second-most populated nation to its services. The 77-year-old Bollywood patriarch’s image is ubiquitous across the country on advertisements for everything from hair oil,"
     publishedDateTime: 2020-09-15T05:17:00Z
@@ -71,6 +57,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
+    excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
+    publishedDateTime: 2020-09-15T20:00:00Z
+    webUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amitabh Bachchan is the new voice of Amazon’s Alexa"
     excerpt: "Amazon.com Inc has signed up Bollywood mega star Amitabh Bachchan for its Alexa voice assistant, stealing a march over rivals Apple Inc’s Siri and Alphabet Inc’s Google Assistant"
     publishedDateTime: 2020-09-17T16:27:00Z
@@ -86,6 +86,6 @@ related:
         height: 355
         isCached: true
 
-secured: "xRl1aLY5akiwGw4ZvpL5wGeKD9DNhSvFzeKNaplff4GozSICc2uA2pEhq/XudzzN/xfs4q3tohugZL0kXFp8iUdxLP5VrktR64hqr5wp4UFXacryVlh8/ahP1ZULb5BKVaLgW72cW9ZBjUQlmIsQEgLeV/Lb94DdsXBHzgO7X81YjbKLganw9D+FH3E5NXjizDoiaqD2gSEwTuBa26hb84Q+qJpgrS/UELakrggbC5BbNEpI2orN1StVC+TSAx4t2wqMCsEh9Xf9YnknC03lUeVI3rFNVvcDqNJlKCAwz3GhUEA0OpAHH/RKmDgLi1xxKDz4z/VJj26JZRflL/P6InIe32OLf3Qr7UteDpWVuEE=;2GXDp+ZK2WiEvUnGRBRrUg=="
+secured: "hk78AbV2Z5DVQcRRID6kVB0Ow/t53S8OICQR5ZI+DwrvbtkFTX79N9xpcI7k+2cmiryCWzRUyHeD2/N+ldUUMzZ4fdsGqlJfnleUj9Cfpc5x7voIYSQ3WLq4s3uGHpYbN8Nw/w0St2iX7cTgCVWPmBHu4hgcqZ4TQIh3ThZBwBzxXhEHVVCYYHJ8MwPLcHLiwCr2hvMFsXqxGSRCmlRa0zTg1l1m1j9WsoP0geV0HgCWRVcboUlE4SWVDnOzoX1+V40u2YmjNafYFUS/7EbXe55nzgnw6I43jsiJvfA5PBE2lkwGk2oQtFuodVVKm+1eVu6JgDFaaRm2ffQHheGHXv0zHoqvKv3kY8ZMePQYZK4=;g7P62ff42YGXJlxObDjaiw=="
 ---
 

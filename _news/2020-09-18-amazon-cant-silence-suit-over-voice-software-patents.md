@@ -3,8 +3,8 @@ category: news
 title: "Amazon Can't Silence Suit Over Voice Software Patents"
 excerpt: "Amazon can't escape a patent lawsuit over its Echo and Alexa products after a Delaware federal judge found that claims in Voicebox's voice software patents it's being sued over were not invalid for covering an abstract idea."
 publishedDateTime: 2020-09-17T20:36:00Z
-originalUrl: "https://www.law360.com/articles/1310779/amazon-can-t-silence-suit-over-voice-software-patents"
-webUrl: "https://www.law360.com/articles/1310779/amazon-can-t-silence-suit-over-voice-software-patents"
+originalUrl: "https://www.law360.com/articles/1310779"
+webUrl: "https://www.law360.com/articles/1310779"
 ampWebUrl: "https://www.law360.com/amp/articles/1310779"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1310779"
 type: article
@@ -20,6 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "4Jcl/LZvWt2l8P9E3VVSHvrvVG0hZC94QSpI2UxBIwE0idvtLE6+pnbkO6dGUqAw6owfAy6LUSkzkIEP3xmqLzUloIH0oQ3jeBbqy+dTBwgrl+5ik4T9Ch/qpf4YGs3nbo7AM+aYi4imU8FH8rRb1fl+66PKSCxjL5laxJm7ZKOhkeYuW+deTUEsQjphQKFqiNQgN2pHdm+31BD5YyD2AT8rCw9fyI0MjNcDSnH6wn45cYQaAp3wzFEhgVY/0hnRbaCmO4ZiPquSB2oUGCXvPoeLPr0qFOjv+hpbR3w96hxGaHJGwi+kcGTdqoyb/AfosKPq4cogsWkCp20A9VPbo/bkQbgi3EXCdLuV/fZuSZs=;bLJ8FSmEY66x+aCsmpjB3w=="
+secured: "9rafY9uUnR7er1gM4PkJLpe3gPTfypHxUrP2Z4Q5oY4Bbeo5MtJ7kY+aNsVEPJwyh8TQS1mD3lgfwMKh3GSVKfvjra2phgLwBhCq2qQuaEb8zVkuETdpQNqfPFm5rznOeKz8LSgfg3heSuB8Bk9UIAamszvyP6GSB6FlfU5S6zjVpKIMUkvwIgcULE3yftAZyXUXnS6PXp24p9+jBFcOvFzwWuz+rvJuGjmwpjmhT4S7mlb/YqM4cIzAB0dRGhfDYsDISH8fSBBz1oEEpL+V51yh2Ua9yz3baQeEhVVNQEcNGO0EUhJZTaz7g7z8ZczL5LjWHVjQivsNDJt+nsdek4e2jP/g1ometfqzWMpiKmY=;MYxfdMfz86uwbwR+RjMrdg=="
 ---
 
