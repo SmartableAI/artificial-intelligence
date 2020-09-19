@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
 type: article
 quality: 67
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI (Artificial Intelligence) Speaker Market Analysis, Growth by Top Companies, Share, Trends by Types and Application, Forecast Analysis to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI (Artificial Intelligence) Speaker Market” research report includes analysis ofmajor raw materials suppliers, manufacturing equipment suppliers,"
-    publishedDateTime: 2020-09-14T09:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-analysis-growth-by-top-companies-share-trends-by-types-and-application-forecast-analysis-to-2026-2020-09-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

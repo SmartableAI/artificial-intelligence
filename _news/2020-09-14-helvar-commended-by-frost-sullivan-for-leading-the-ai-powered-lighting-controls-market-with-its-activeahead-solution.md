@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/helvar-commended-by-fro
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/helvar-commended-by-frost-sullivan-for-leading-the-ai-powered-lighting-controls-market-with-its-activeahead-solution-1029585359"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -22,22 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT"
-    excerpt: "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. "
-    publishedDateTime: 2020-09-14T10:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg"
-        width: 954
-        height: 768
-        isCached: true
 
 secured: "tFFiYUOg4MFWPVtQp+x1bvsoSTjUJJnv3CbQ8lyW+WuF0b/v9A7Qp5hwcW6ZapjT7eORh6rC41v6rQ0JoJOElkOFm4J8zykl5WjzkNCMnq6NM2/nlt4xFW9xN+/LJ4NwzVMEOarZZYHLUWoLEbHgnKhcnMXwgqFHKdGCo2I+D+tdTJifpyuNSmHD1mAN1MxViLf7HUWmuw8xrmQvrl1quUokgm0x/AUIWUnxlNKtUaLk+tEJdsvylgadDn3lsI/UPquRZaP3kKP0DFMQ5eaoHPPm9yo/gXR29H5+Kb1H+CDSmeQSz4jSmc5lFo8dXiuCGFs18mFbcSnq8rKbe+paLzjTwjtSveTcoPBMV30/L2E=;h3jMrySi4oWBsxzhHt051w=="
 ---

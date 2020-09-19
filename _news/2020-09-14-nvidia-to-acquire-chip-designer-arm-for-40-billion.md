@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal"
-    excerpt: "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ..."
-    publishedDateTime: 2020-09-14T09:41:00Z
-    webUrl: "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition"
-    ampWebUrl: "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 59
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
-  - title: "Nvidia Buys British Chip Designer Arm for $40 Billion"
-    excerpt: "Nvidia will buy Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion. Nvidia ( NVDA) - Get Report reached an agreement to acquire Arm Holdings from the British chip designer's Japanese parent SoftBank for $40 billion."
-    publishedDateTime: 2020-09-14T09:49:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-nvda-stock-arm-holdings-softbank"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://content.jwplatform.com/thumbs/rneqCCgv-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Tech mega-deal: Nvidia will buy chip designer for $40 billion"
     excerpt: "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,"
     publishedDateTime: 2020-09-14T11:53:00Z
@@ -72,20 +40,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549"
         width: 1024
         height: 549
-        isCached: true
-  - title: "Nvidia acquires UK chip specialist"
-    excerpt: "\"AI is the most powerful technology force of our time and has ... the global customer neutrality that has been foundational to its success, with 180 billion chips shipped to-date by its licensees. Arm partners will also benefit from both companies ..."
-    publishedDateTime: 2020-09-15T09:34:00Z
-    webUrl: "https://www.just-auto.com/news/nvidia-acquires-uk-chip-specialist_id197733.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
     excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia in a stock-and-cash deal valued at $40 billion."

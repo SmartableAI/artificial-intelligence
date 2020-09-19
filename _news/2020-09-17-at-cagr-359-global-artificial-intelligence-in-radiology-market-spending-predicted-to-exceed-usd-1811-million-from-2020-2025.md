@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027 at a CAGR of 45.3%| Impact of COVID-19 on this Market"
-    excerpt: "According to this latest publication from Meticulous Research, the global artificial intelligence in the supply"
-    publishedDateTime: 2020-09-14T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027-at-a-cagr-of-453-impact-of-covid-19-on-this-market-2020-09-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice recognition market is estimated to reach US$31.82 billion by 2025"
     excerpt: "Voice and speech recognition features authorize contactless control to several devices and equipment that deliver input for automatic translation and generates print-ready diction."
     publishedDateTime: 2020-09-14T12:13:00Z

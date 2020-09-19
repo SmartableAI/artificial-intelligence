@@ -1,0 +1,59 @@
+---
+category: news
+title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
+excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
+publishedDateTime: 2020-09-19T03:09:00Z
+originalUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
+webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
+type: article
+quality: 18
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
+    excerpt: "MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire/ -- Pure Storage (NYSE: PSTG), the"
+    publishedDateTime: 2020-09-16T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pure storage brings FlashBlade to AWS Outposts, delivering a hybrid cloud infrastructure solution"
+    excerpt: "Pure Storage has announced that its FlashBlade has achieved the AWS Outposts Ready designation, part of the AWS Service Ready Program. Fully tested and supported, FlashBlade for AWS Outposts delivers a hybrid cloud solution with all-flash performance,"
+    publishedDateTime: 2020-09-16T09:38:00Z
+    webUrl: "https://www.pcr-online.biz/2020/09/16/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 26
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/cloud--660x330.jpg"
+        width: 660
+        height: 330
+        isCached: true
+
+secured: "QvOgRM/MK61QNuC0wUca5rnV3xZxSezx6+PxGJfKDFvM/P6Uxkboc9L15Xo7utFmlAQYpLmo8V4cIFNmdGBh50q3oH9KQuGmVbXoZt5+ANY9hNi5UNMTksaQpT7t8dbRYaifekkaSrla9juPUKej2QfMVkcpcGUIsWPypSKwyesvu9g/HMXSl2L+gGBU6WPODqojwmfoEdRP3yA5NzTlAEHUAQbCk+NOECgxtPAMQn+wR83Wb/OXUhjRzbm1baRH2Fd35b4DpuvnqeMM7NZl8axdRMA4OWSASb4z1s76ZtjHG0qcs+GwbAHkropsJv839d42rcKc2hU5Ctqk5q6t0+idekTCQdSH3e/GlwYPyb4=;Hwah5kE8DK1SML6vbMigYg=="
+---
+

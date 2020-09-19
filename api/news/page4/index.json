@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-15-study-during-pandemic-more-workers-are-replaced-by-robots.md",
+      "title": "Study: During Pandemic, More Workers Are Replaced by Robots",
+      "excerpt": "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html",
+      "originalUrl": "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
+          "width": 968,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP",
+      "publishedDateTime": "2020-09-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live.md",
       "title": "How AI can reduce customer service costs by up to 30% (VB Live)",
       "excerpt": "AI-powered virtual agents and chatbots not only help businesses slash the call center costs, but dramatically improve customer relationships as well.",
@@ -1138,40 +1180,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
-      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
-      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "publishedDateTime": "2020-09-14T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

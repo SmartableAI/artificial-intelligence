@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence.md",
+      "title": "Sumo Logic IPO Sees Strong Premium for Growth of Continuous Intelligence",
+      "excerpt": "Business intelligence was one of the key buzzwords in years past. With the explosive growth of the cloud, machine learning, automation and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry1-5gz.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
+      "publishedDateTime": "2020-09-17T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
       "title": "IBM, AI And The Battle For Cybersecurity",
       "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
@@ -354,7 +404,7 @@
       "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -609,7 +659,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1189,48 +1239,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
-      "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
-      "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
-      "originalUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-09/dominos-fall.jpg",
-          "width": 1093,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
-      "publishedDateTime": "2020-09-16T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

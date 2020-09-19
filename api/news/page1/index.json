@@ -2,6 +2,39 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17431514",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514",
+      "publishedDateTime": "2020-09-18T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round.md",
       "title": "Stephen Curry Enters Fitness Wars With Investment In Tonal AI Home Gym’s $110 Million Round",
       "excerpt": "The home fitness craze is winning the attention of professional athletes like Steph Curry, Klay Thompson and Serena Williams as they invest along with Amazon Alexa in Tonal AI home gym. Founder and CEO Aly Orady explains why the future of fitness is intelligent in this exclusive interview.",
@@ -998,7 +1031,7 @@
       "originalUrl": "https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1130,56 +1163,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence.md",
-      "title": "Sumo Logic IPO Sees Strong Premium for Growth of Continuous Intelligence",
-      "excerpt": "Business intelligence was one of the key buzzwords in years past. With the explosive growth of the cloud, machine learning, automation and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry1-5gz.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "publishedDateTime": "2020-09-17T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

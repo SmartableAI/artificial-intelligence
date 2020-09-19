@@ -2,6 +2,98 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-08-28-uber-expands-self-driving-safety-report-after-ntsb-slams-culture.md",
+      "title": "Uber Expands Self-Driving Safety Report After NTSB Slams Culture",
+      "excerpt": "Read More: Fatal Self-Driving Uber Crash Prompts Call for Tighter Oversight The fatality occurred around 10 p.m. on March 18, 2018, when a 49-year-old woman was hit by a 2017 Volvo XC90 SUV ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGf4FGe5VZ4/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-28/uber-updates-self-driving-safety-report-after-ntsb-slams-culture",
+      "publishedDateTime": "2020-08-28T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-memers-are-making-deepfakes-and-things-are-getting-weird.md",
+      "title": "Memers are making deepfakes, and things are getting weird",
+      "excerpt": "Grace Windheim had heard of deepfakes before. But she had never considered how to make one. It was a viral meme using the technology that led her to research the possibility—and discover that it was super easy and completely free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "originalUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/deepfakememes.jpg?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/amp/",
+      "publishedDateTime": "2020-08-28T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ibm-creates-new-fan-experiences-using-ai-and-hybrid-cloud-for-first-ever-spectator-less-us-open.md",
       "title": "IBM Creates New Fan Experiences using AI and Hybrid Cloud for First-Ever Spectator-less US Open",
       "excerpt": "IBM's hybrid cloud architecture with Red Hat OpenShift provided the operational agility and flexibility necessary to quickly develop new experiences powered by IBM Watson's advanced NLP.",
@@ -1081,108 +1173,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features.md",
-      "title": "Latest NVIDIA SHIELD Update Brings AI Upscaling Enhancements And New Features",
-      "excerpt": "Over and above the excellent hardware, NVIDIA has been religious about consistently releasing updates for the SHIELD TV that only make what was already a great device even better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f484190e9c35b243e5a2e95%2F0x0.jpg",
-          "width": 1024,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/08/27/latest-nvidia-shield-update-brings-ai-upscaling-enhancements-and-new-features/amp/",
-      "publishedDateTime": "2020-08-27T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-learn-from-the-first-place-winner-of-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge.md",
-      "title": "Learn from the first place winner of the first AWS DeepComposer Chartbusters Bach to the Future Challenge",
-      "excerpt": "AWS is excited to announce the winner of the first AWS DeepComposer Chartbusters Challenge, Catherine Chui. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). To make the learning more fun, in June 2020 we launched the Chartbusters Challenge, a competition where",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-first-place-winner-for-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-first-place-winner-for-the-first-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/26/1-Catherine-with-ward.jpg",
-          "width": 401,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T15:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

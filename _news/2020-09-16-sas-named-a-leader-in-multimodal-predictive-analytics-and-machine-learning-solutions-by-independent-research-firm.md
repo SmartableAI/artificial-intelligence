@@ -1,22 +1,28 @@
 ---
 category: news
 title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-excerpt: "SAS has been named a leader in The Forrester Wave(TM): Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS"
+excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
 publishedDateTime: 2020-09-16T11:26:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
+originalUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
+webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "RapidMiner Named a Leader in Multimodal Predictive Analytics and Machine Learning Platforms by Independent Research Firm"
@@ -42,13 +48,13 @@ related:
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/Domino-Data-Lab-Named-a-Leader-in-Notebook-Based-Predictive-Analytics-and-Machine-Learning-Evaluation-by-Global-Research-Firm"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
     quality: 0
 
-secured: "scNwyMguybYzcqr6x2lkI/FdpL1IfleTJjc0zoUTEmzu70DxCvBhyW8L/X61SqBhaRZest3AEKbdS2J3QIrYhEvuQr4uV8AyxBZAbl1Gez+V6I5Ak8EK+eAVgfAJJFn/czxbVfdfJZL8lG/uZ61WSJ/f0Er1YGjFF4plBUjXDbymEu8Gy9NkDy/30DTkEFw4uj2gIb+K2gP/ZqhDyAHYs3xv9sZxcVYj/TbgQ3Mw73N2eZdQLb4tfZ9KSKeF4eAeeduw6+9T+v4omRT9max5m06P/iDKMJnQEu36HawMyN22eN3KbRDlEemBB/+FP3vWNv4LqeKnPoxB7FpYbsqwGhGWg1EMpMOWuYL3MxfbglZ0MKIIzqi9XpmCkQdqzmcynGXU7ziBuw8iPpntcKYNLVnmzIfmhGVkFFerVARZdcshCcFOSEfS/p7/0ya7eLnXhDA3qlshcf89nVP8CgMHJeEi8rI9csG7xmXJ7NWGP5QKFrr2gjr0pcNT9/Mawya/nZPE1v+mumG4yHSbbtfXoQ==;5jh0Q6usF57O5Qw5d45vWQ=="
+secured: "sz53qV8uoq622zL5hxvFXRpo2y7+v38efYDJkbgZFzcWzjYFoDqw24ZC36JM4wlmbUlqzf3n4GyRTJz8u4JSlhRmxDLuNQHDXsuAn5NbgxdmfP0edS6igW+fvcBF7sqrgR4kll+KNmhCJ9OyvrEwaWb4g2rB++xHH+mUTkQOA4hZOZQl0WJO2wimYj1oIBVXxrST/b3yPc3GeExzq3dr5DxktV96R5x+IBo/XLBaXWGf7Y48Va0jv37vSRCMVVjtTGGJoUwhQE95v8YCmOnEGZ0HtFyRyGIr1030jjA9HNF5otMUukdUTSl8X8urIHsfq4Vqj99HRF0HAh3+T5udBrbivD6AOkgU9A92kErGH18=;+ffi9rlZuFAS1ei8B7cWqQ=="
 ---
 

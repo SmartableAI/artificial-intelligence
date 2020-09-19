@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17488243"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17488243"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -22,14 +22,19 @@ topics:
 
 related:
   - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS has been named a leader in The Forrester Wave(TM): Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted \"SAS"
+    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
     publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-named-a-leader-in-multimodal-predictive-analytics-and-machine-learning-solutions-by-independent-research/article_740cf08f-d664-59d0-bcd8-fdd3cf9de42a.html"
+    webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
     excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
     publishedDateTime: 2020-09-17T05:39:00Z
@@ -42,7 +47,7 @@ related:
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/Domino-Data-Lab-Named-a-Leader-in-Notebook-Based-Predictive-Analytics-and-Machine-Learning-Evaluation-by-Global-Research-Firm"
     type: article
     provider:
       name: Business Wire

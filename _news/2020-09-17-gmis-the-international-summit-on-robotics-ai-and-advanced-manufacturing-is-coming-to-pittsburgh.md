@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Tesla Vs. Baidu: AI And Robotaxi"
-    excerpt: "Autonomous driving has been one of the most challenging applications of AI of the past few years. Recently, Baidu made headlines over the expansion of its robotaxi service in Beijing, raising questions over Tesla’s dominance in the field."
-    publishedDateTime: 2020-09-14T10:57:00Z
-    webUrl: "https://seekingalpha.com/article/4374045-tesla-vs-baidu-ai-and-robotaxi"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "IXQ7XOtnjGp+U8gR6wGXH/o24ULC5COnUICQtrh4BmMCVlJNrQvyJNogsZtg+CXa+G8+VM+4PsERoDtQuPv9b43ejOTj9uXV+IbbxT9+cFvwgkxNSFv1dG5R4cFiPrqJBhmy/nMlC8D5hXuMp5xFhNsu9+5z2dy9CIOW4Tq6c9eWnVp4JP6j+Hn4HVLDvFh5T/vFnDwtjg7CYFlB7JZvK/OASvWRmcUD/2R+SFuy9o2WwnuU1mkhkk2LkPvjB6+UHegF4IxReppq6BCUo60L7PcSiAZkRcwnkVArHbzZi0o7kFEJjrSec6Nc11+pgghTMgsmQxEdD8i/4NtqxiJzPkvsWsMOrave8mQ8rDoA7Tw7Z6o9RTXYObHMFtYfRfE6gM2xzPj5oT+ACqmMHcnw+20l/BZregGJdZkMExKp7eH+c5IzO6vRN6q3gMRvdTltHxPFx6EEW+Xiy2be940mu78vUoPrAGqw6Yk0LUwRHX4rzB4e0uVAJjNR4sz3aZaiVWHSGjvdRSkIh4CaFoL90A==;ZB5F6ib+BA/2W8Bqg4dN7w=="
 ---

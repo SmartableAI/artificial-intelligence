@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip maker Nvidia takes a $40B chance on Arm Holdings"
-    excerpt: "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it."
-    publishedDateTime: 2020-09-14T10:19:00Z
-    webUrl: "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html"
-    ampWebUrl: "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
     excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
     publishedDateTime: 2020-09-14T17:00:00Z

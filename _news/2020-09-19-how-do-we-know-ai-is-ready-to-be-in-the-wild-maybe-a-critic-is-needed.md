@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How do we know AI is ready to be in the wild? Maybe a critic is needed"
-excerpt: "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,"
+excerpt: "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,"
 publishedDateTime: 2020-09-18T20:04:00Z
-originalUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-webUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
 type: article
 quality: 69
 heat: 69
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "y9Zi5lIdMui8gBfjE+DAketqHBp8X37Wnq2/g6q2vEJ03ukcQECpkB0FYHKSaH0IvYzDgRQ7wFBxSuihD6ENvEm66qceUFpEVv22ALgz24iIYnyAXHZ7EkiCPocGUVFf4rKkQre/gUP8bz/1jlxXfXbmbtm/Lg98cMTXsulCXQSzl6MSUUHImiKHTqtn5QrNwUgfvzel+wNxN4wYdNmL2vfJ5ih1IwvyFPO0hP5TTvZHddQ+lr20RdhihPG0Ifq/zItTkMF7M/mZ9LbA+BK4m+YYN4L1/+18YXC6632xlJ6Er8Waa1kElqEbpCGrGCNt3Z57TlXDHsaq+tNoJTgwfimVv5n9DcE7W1qn5CMBjU56CQfU1uIEJVQQ7jw3CSSPySDkDnQOmFZo7M1+fqVYVkJfevy4oZijnOSXes/j07B37NXsQTiqIXSUCuhkdKuqdz9vVnrQ3SoFXUa7ShkJ9DTK3LKCpr91DG2b1DOoNj9xHwFCjTWEO4JpKTbkFlEXA9xp8/z5K8W5WDaryLOCkQ==;8dDWS3GRVsFe9hSvi8dLqw=="
+secured: "rub+LWJGhsxM19lbbNUxSK8ADqw3Uv50M2FIn4WdyhGbdWufcS7TSfutI8jKqONou/J1iXjeQ/3WR+M7w88Fn+eLcUN1FbNVjy+gOceU18EIFhz5RDlGXfSbh8bnzGoHuAKqP3BOalcJL+llZJrdpuSG1TE6/fC4fpqGsCcKb5Q2qvH5O+uic4o1e1NUcWnWkbQNuGlHo/HCx2Zw5bSDJdT7B47BdGT1J+dSajtNSoz0eXZCKXhXiX9Za4jx92+jO4Xq+wKc8felVROLs6NYZcF6dG0k9y6JJHHWR2Q+ho938AuHh70PKXxIHI+UHpJ3ZtUwSEDSMDrP9+QRgtkiI3T8F/2zISiG0ZC/IqGsi3L2xoEM0npKcrd0qK96MKjA2jzJd/9bmSk8fzUdz5KyM5ILNE/6J2o1L66tGdZef4Ali6plwyaegpY1Dq7Fe0vugbo/uojCUyBwsdEkON4MmJRJtI7DjY9XD/hi9Yv+4cB07gBlVc5NJG9vsB3smzL0kBowp9v6bgfdRrZHvhBzFw==;0Bn5Kzwxtayax5jCAckOqQ=="
 ---
 

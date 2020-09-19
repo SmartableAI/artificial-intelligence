@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-arti
 webUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Helping Companies Identify And Nail New Product Opportunities"
+    excerpt: "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas."
+    publishedDateTime: 2020-09-19T03:25:00Z
+    webUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg"
+        width: 1200
+        height: 609
+        isCached: true
   - title: "How an AI Platform Is Matching Employees and Opportunities"
     excerpt: "Instead of relying on data-driven signals of past accomplishments, Eightfold.ai is using AI to discover the innate capabilities of"
     publishedDateTime: 2020-09-15T17:28:00Z

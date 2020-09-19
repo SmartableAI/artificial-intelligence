@@ -9,7 +9,7 @@ ampWebUrl: "https://www.today.ng/topic/national-artificial-intelligence-and-robo
 cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 750
         height: 394
         isCached: true
-  - title: "Tesla Vs. Baidu: AI And Robotaxi"
-    excerpt: "Autonomous driving has been one of the most challenging applications of AI of the past few years. Recently, Baidu made headlines over the expansion of its robotaxi service in Beijing, raising questions over Tesla’s dominance in the field."
-    publishedDateTime: 2020-09-14T10:57:00Z
-    webUrl: "https://seekingalpha.com/article/4374045-tesla-vs-baidu-ai-and-robotaxi"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "beW1VTqIL6qQLfxijLt4HNpiKhznOWiLAgHwG9KoyTrw8dBsycxHl88Dd0nF7Uqr5u+Mci0uKSaroQdz5VmBtfEIDGdeusLQLqIPV2zqD1l/BTCFu9xXt3PLVCdiMOqytUA0QiXed3baC/BxZTTXf6Go/m+OqL4EwByYwsAV3MKucbR+1PLg0A0fvZFPUe8s2+PjV+oZPafD4ZYlOCCTgIxjSO3KgaOQG6MUj80Gm6XGVd4vtpuPtEzhXYYVM5/QdjLKXF5a4n7Uj2/bOSQ0ZSvPxKPmrFA9nzSKj+53v/hNN/Pw5kjj595HXG8StjslnWSdjYhFXseVkPSeArbL2W1gpQQulf8DvRJeRW6bBn/kpL9UjX7dO3GH758y7KNnnCxJ7onmAUVx7vyFeGm9hBkLYH12Ze6lb63qrEIpqowXOC5hhtJhfvxwb97VSP+x2T10dF40BTrmtKeBsTGBMKuIo03Kdj74kmsen5yzAVwHRVX0cMHOeo2E9ZGNuMZq+yKmUsyULT9hxXkK+uhvVA==;QVUu0rUtDHNLK1TG58BotQ=="
 ---

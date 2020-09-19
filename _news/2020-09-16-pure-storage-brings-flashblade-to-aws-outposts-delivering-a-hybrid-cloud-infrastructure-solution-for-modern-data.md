@@ -43,6 +43,20 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
+    excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
+    publishedDateTime: 2020-09-19T03:09:00Z
+    webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CDRmfy5k13yBnpH2u0sdxksEtxTErFguoiIfZTMtHpdF1FogS8o5gFD1E63jSh33zMPPNEB6OVXHZKBUVz7xqhFV+sXhjfqg/DXkNwklMWttia97NP4h4mkLoj4bID/RYsI3AErlcktVpbHy5pH7FA89D+yuBtRPb9KDortPVQ4JlHvp3wNgtZL6JLn54D1LhbbXgQjMI9XIDQ0riFu144Io5QsrBpqjA13EjYRdn/TMwpErmESh5kGO+/Wr5xHQ8c8Y92QpuKHaCDk4oQjaGLzWI0RbTKdLpHrF/ER3Cfgj4G2ljUDeaPdL+5sq4JdHSXzysG1NvpZcuGa/4uAp81aj64WxwV1shv66bXt/mtE=;3WBhqhFxkyWTgbaLWEb99w=="
 ---
