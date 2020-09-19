@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-19T20:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robotics Market Competition, Status and Forecast, Market Size by Top Key Players, Regions, Type, Application by 2020 to 2026"
     excerpt: "Global “Artificial Intelligence Robotics Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Robotics Market report also explores future trends for supply,"
     publishedDateTime: 2020-09-18T13:16:00Z
@@ -150,6 +164,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-19T20:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

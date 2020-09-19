@@ -2,6 +2,90 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-08-27-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
+      "title": "Baidu creates 'world's largest' Chinese natural language processing database",
+      "excerpt": "C hinese search engine giant Baidu has launched what it says is the world’s largest Chinese natural language processing (NLP) database, among several other artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
+      "originalUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/20200827_baidu.jpg?itok=sv6JP0o-",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
+      "publishedDateTime": "2020-08-26T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
       "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1061,99 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more.md",
-      "title": "Tour de France 2020 to feature augmented reality, machine learning, and more",
-      "excerpt": "The historic Tour de France kicks off this weekend. This year's race will include a host of technology solutions to boost fan engagement amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/26/46475eba-fb95-4125-93d4-d20e8b7520fa/resize/1200x/4181f60c303fec4937ebeec2155b52ca/tdf.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "publishedDateTime": "2020-08-26T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-fast-track-custom-ai-for-the-latest-in-computer-vision-apps.md",
-      "title": "Fast-Track Custom AI for the Latest in Computer Vision Apps",
-      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "originalUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

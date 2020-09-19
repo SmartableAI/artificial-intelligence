@@ -2,6 +2,107 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-07-from-robots-to-3d-printing-transformation-in-manufacturing-has-lead-to-efficiencies-and-also-worries-over-future-employment.md",
+      "title": "From robots to 3D printing, transformation in manufacturing has lead to efficiencies, and also worries over future employment",
+      "excerpt": "Transformation in manufacturing is well underway as robots, AI, and drones become factory fixtures. Some are concerned about leaving workers behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
+      "originalUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f50f3937ed0ee001e25d382?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/100-people-transforming-business-series-leaders-driving-innovation-in-manufacturing-2020-9?amp",
+      "publishedDateTime": "2020-09-07T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review.md",
+      "title": "ThoughtRiver nabs $10M to speed up deal-making with AI contract review",
+      "excerpt": "ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
+      "originalUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/product-3.png?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/07/thoughtriver-nabs-10m-to-speed-up-deal-making-with-ai-contract-review/amp/",
+      "publishedDateTime": "2020-09-07T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-this-ai-analyzes-placentas-to-predict-complications-in-the-next-pregnancy.md",
       "title": "This AI analyzes placentas to predict complications in the next pregnancy",
       "excerpt": "Researchers from Carnegie Mellon University have used machine learning to analyze placenta samples for signs of health risks in future pregnancies.",
@@ -1064,99 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-google-is-creating-a-microscope-with-ai-and-ar-to-help-detect-cancer.md",
-      "title": "Google is creating a microscope with AI and AR to help detect cancer",
-      "excerpt": "Google plans to train an AI using the open-source platform TensorFlow to detect cancerous cells in photos taken from a microscope. They’ve already started developing the neural networks by using the Google Cloud Healthcare API to de-identify and segment",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "originalUrl": "https://www.techspot.com/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-05-image-3.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86645-google-creating-microscope-ai-ar-help-detect-cancer.html",
-      "publishedDateTime": "2020-09-05T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
-      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
-      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "publishedDateTime": "2020-09-05T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

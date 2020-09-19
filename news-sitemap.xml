@@ -31,8 +31,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
-    <lastmod>2020-09-18T16:02:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
+    <lastmod>2020-09-18T16:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -49,7 +49,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
     <lastmod>2020-09-18T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -91,7 +91,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
+    <loc>https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
     <lastmod>2020-09-18T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -513,6 +513,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-15T07:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html</loc>
+    <lastmod>2020-09-15T07:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1395,6 +1401,12 @@
   <url>
     <loc>https://mashable.com/article/portland-bans-facial-recognition-technology/</loc>
     <lastmod>2020-09-09T18:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio</loc>
+    <lastmod>2020-09-09T18:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

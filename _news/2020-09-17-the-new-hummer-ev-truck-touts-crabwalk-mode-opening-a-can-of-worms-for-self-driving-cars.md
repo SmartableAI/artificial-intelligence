@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Anhui opens 5G-covered road for testing self-driving cars"
+    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
+    publishedDateTime: 2020-09-19T20:33:00Z
+    webUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
   - title: "This self-driving pod can be used to transport either humans or carry cargo"
     excerpt: "Chosen as the winner of a competition hosted by autonomous network transit (ANT) company Dromos, this self-driving pod designed by PriestmanGoode is capable of safely carrying humans as well as acting as a logistical truck to deliver consignments."
     publishedDateTime: 2020-09-17T17:00:00Z

@@ -2,6 +2,90 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-14-amazon-and-kindle-news.md",
+      "title": "Amazon and Kindle News",
+      "excerpt": "The Climate Pl... Amazon announced on Thursday that it’s banning police use of its facial recognition technology, Rekognition, for one year. The company said it’s halting th... Following a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
+      "originalUrl": "https://www.consumeraffairs.com/amazon-and-kindle-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.consumeraffairs.com/files/cache/news/Amazon_Fresh_pickup_location_SEASTOCK_Getty_Images_medium.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ConsumerAffairs",
+        "domain": "consumeraffairs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-robots-go-their-own-way-deep-in-the-ocean.md",
+      "title": "Robots go their own way deep in the ocean",
+      "excerpt": "\"Without AI autonomous underwater robots are pretty dumb - only being ... which owns a fleet of 12 unmanned underwater vehicles. It is about to start a two-year programme with Durham University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
+      "originalUrl": "https://www.bbc.co.uk/news/business-53218719?intlink_from_url=&link_location=live-reporting-story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1678A/production/_113924029_eb91544a-5a93-45ee-8fa1-bc4b4a26880a.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/business-53218719",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/business-53218719",
+      "publishedDateTime": "2020-08-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
       "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
       "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
@@ -1072,108 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-root-ai-raises-72m-seed-round-to-deploy-its-harvesting-robot-amid-covid-19-fueled-demand.md",
-      "title": "Root AI raises $7.2M seed round to deploy its harvesting robot amid COVID-19-fueled demand",
-      "excerpt": "By all accounts, the COVID-19 pandemic has accelerated the adoption of robotics and automation by months, if not years. The reasons are fairly clear — robotics don’t call in sick, nor are they disease vectors in the same manner as their human counterparts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
-      "originalUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/unnamed-1.jpg?w=1024",
-          "width": 1024,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
-      "publishedDateTime": "2020-08-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-gpt-3-explained-this-new-language-ai-is-uncanny-funny-and-a-big-deal.md",
-      "title": "GPT-3, explained: This new language AI is uncanny, funny — and a big deal",
-      "excerpt": "You teach the AI how to produce the outputs ... To do natural language processing (speech recognition, transcription, translation, etc.), they drew on the field of linguistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "originalUrl": "https://www.vox.com/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/RFXuHbmdNJbrUXXcT9XZvsIq_4g=/0x0:5308x3539/1400x1050/filters:focal(1249x823:2097x1671):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67198115/1178810737.jpg.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/21355768/gpt-3-ai-openai-turing-test-language",
-      "publishedDateTime": "2020-08-13T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

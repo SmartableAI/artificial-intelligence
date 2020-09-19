@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
+title: "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
 excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-publishedDateTime: 2020-09-18T13:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+publishedDateTime: 2020-09-19T20:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
 type: article
-quality: 36
+quality: 62
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -52,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-18T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-19T20:59:00Z
@@ -226,6 +225,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KvbUlWxxaJZuDdXLSkJZZUqqwuUMkDDe37ROHKX48pDFCqH02kERUTHSQW09K6jEeImPdOtNLJTeKGaUUZ6uwt39vhmX3RQBqgh856U078dhTj0eXC6lrZ4YGb1bYxH3VZ2lkwAeF52xG1NV2TEtaqZHb6aADkFaI1h7YfypV0YR7paXp0NzCEO0vwIL+EzN7KkrjxQM6Kfbpq1GbzdZx0SDnNeWve8/SnzAkgHTyuXsXCwFWyAdV97OeGIJhptWaR4n6FOXMPAH6NbvEuMXPiPpCxea3ZFVYMciyKkTFV8qTRu3KeZhO/3PqqftyrYxBI2XA8GqCYgX2XGbpbqZJihAE2ikslMYvawIFbJeb/A=;VytKaPmfpJjbc2C4LZnuJA=="
+secured: "4+af47BHLJmmyll1r0OzsAnknov0u9q3pOEx4HJvEbz97V/F2KsXa8nBEh77gs2bqTiU0SBid5uWfamvvFJ/el7buXSOyh2aoAStyZ7Q/VmBqmXrsOvwlHfxYhUvktPMS+YYJhlUB6iG8x6TRlPgCkcY8jHTJG695uWZzGl3KT/FEZUh+YZjBmhi1WkBqgFh0A9mQN26HFcxNI5fnTOKjK0WR5stDc//3B1+VbcUrJnklNPQjlC5mI5qPjQm+5hI3OuKe3UcT+ub8f+cs4GU2i2aOElhGvWS+rVDel/l+lb9SgG3mEPpU3KKpDmXumk5PI66Vi76ffmKH3bhfc4o/NcwVJpxu+oIGyJk/8jQmds=;ynC8w4doq47X4kj5tJW2vA=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
+title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
 excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-publishedDateTime: 2020-09-18T13:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+publishedDateTime: 2020-09-19T20:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
 type: article
-quality: 36
+quality: 33
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -169,15 +168,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
+  - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
+    publishedDateTime: 2020-09-18T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -226,6 +225,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KvbUlWxxaJZuDdXLSkJZZUqqwuUMkDDe37ROHKX48pDFCqH02kERUTHSQW09K6jEeImPdOtNLJTeKGaUUZ6uwt39vhmX3RQBqgh856U078dhTj0eXC6lrZ4YGb1bYxH3VZ2lkwAeF52xG1NV2TEtaqZHb6aADkFaI1h7YfypV0YR7paXp0NzCEO0vwIL+EzN7KkrjxQM6Kfbpq1GbzdZx0SDnNeWve8/SnzAkgHTyuXsXCwFWyAdV97OeGIJhptWaR4n6FOXMPAH6NbvEuMXPiPpCxea3ZFVYMciyKkTFV8qTRu3KeZhO/3PqqftyrYxBI2XA8GqCYgX2XGbpbqZJihAE2ikslMYvawIFbJeb/A=;VytKaPmfpJjbc2C4LZnuJA=="
+secured: "7HDInND2V1j4QVOzZhuSOnWPLs8f0TCyKIKmUGn3xZ9hsVctFDTdgoUGXWlGi68twDNVsDhPKHlhgC8AKgxZCU14TdB8XVaGgI+zbx5EQq394hy7kqVNpvle3bQh0lkL66+QnQjMQG7SGOr6TvWPg7gtEF9dKVD5wpaHT89IVOLPB73hd2AEi5o8rEv1AvvIpzwV/69PJTZR6x2rAo3iTfPm6N1Rl97bw6bJ7QfZsmF8p+3z8c/nhwmvtlyl543HmP9XFGnP+M189/Qi7kJeEpukzQQie9muOro53X6+LnGG8Tl8e3DKme9dCr+7Ym+54kOzqlrAOCYWHk8iRYOV8fo/4jTNfez7Camy5bL1hKQ=;5KLS4CygyjAwmUpNFPbzzA=="
 ---
 

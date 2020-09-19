@@ -524,6 +524,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-15-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
+      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review",
+      "excerpt": "As the COVID-19 pandemic has swept the world, researchers have published hundreds of papers each week reporting their findings—many of which have not undergone a thorough peer review process to gauge their reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/aimingforacc.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-machine-scientific-peer.amp",
+      "publishedDateTime": "2020-09-15T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
       "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
       "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
@@ -1144,48 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk.md",
-      "title": "Tesla Self-Driving Software Rewrite Should Be Available By End Of 2020: Musk",
-      "excerpt": "Now CEO Elon Musk said that by the end of the year, a total rewrite of Tesla's Full Self Driving software should be ready for the public by December 2020. The new software will be in private beta within two to weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
-      "originalUrl": "https://www.benzinga.com/tech/20/09/17492558/tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/autopilotoriginal__1_5.jpg",
-          "width": 2880,
-          "height": 1820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17492558",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17492558",
-      "publishedDateTime": "2020-09-14T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
