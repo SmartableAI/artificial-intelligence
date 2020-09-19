@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Healthcare Market Company Share Analysis, Growth and Forecast 2020 to 2030"
-    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
-    publishedDateTime: 2020-09-14T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-company-share-analysis-growth-and-forecast-2020-to-2030-2020-09-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robotics Market Competition, Status and Forecast, Market Size by Top Key Players, Regions, Type, Application by 2020 to 2026"
     excerpt: "Global “Artificial Intelligence Robotics Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Robotics Market report also explores future trends for supply,"
     publishedDateTime: 2020-09-18T13:16:00Z
@@ -179,20 +165,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market Reports, Scope, Methodology, Timelines And Challenges Forecast Till 2026 | Fortune Business Insights™"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe global AI-based"
-    publishedDateTime: 2020-09-14T08:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-reports-scope-methodology-timelines-and-challenges-forecast-till-2026-fortune-business-insightstm-2020-09-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

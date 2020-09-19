@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotax
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu launches Robotaxi trials in Beijing"
-    excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
-    publishedDateTime: 2020-09-14T08:39:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-launches-robotaxi-trials-in-beijing_id197697.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Baidu launches self-driving taxi service in Beijing"
     excerpt: "Chinese internet search giant Baidu Inc launched Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing on Thursday, becoming the first"
     publishedDateTime: 2020-09-17T05:40:00Z

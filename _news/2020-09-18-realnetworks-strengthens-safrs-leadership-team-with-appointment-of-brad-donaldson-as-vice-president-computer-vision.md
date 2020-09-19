@@ -26,16 +26,16 @@ topics:
 
 related:
   - title: "RealNetworks Strengthens SAFR's Leadership Team with Appointment of Brad Donaldson as Vice President, Computer Vision"
-    excerpt: "PR Newswire SEATTLE, Sept. 18, 2020 SEATTLE, Sept. 18, 2020 /"
-    publishedDateTime: 2020-09-18T23:11:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-09-18/realnetworks-strengthens-safr-s-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision"
+    excerpt: "(Nasdaq: RNWK) today announced the appointment of Brad Donaldson as Vice President, Computer Vision to lead the strategic development and market expansion of the SAFR ® product line. Mr. Donaldson's charter is to drive substantial growth of the RealNetworks portfolio of computer vision technologies and solutions,"
+    publishedDateTime: 2020-09-19T01:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-2020-09-18"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 46
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

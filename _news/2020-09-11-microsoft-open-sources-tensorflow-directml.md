@@ -18,6 +18,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/09/opensource_tfdml_blogimage-1.png"
@@ -25,6 +26,6 @@ images:
     height: 450
     isCached: true
 
-secured: "M/K9/PaeVdyOJKCdSwgq7XvxtBKfvePdZ8KEe/BwoB8AsHXDPS/ODrl/A9I8/DR0NWSJmMcMlO8G0S6CUZZKwhV2jaj/uyrPgLH0oM47KzsPhAIvcXPXLBjxViZt7sabeDmB9kPEEgPIe0lF/YSxcPYT7BrymNf039B3oYG1fL/etqyEpC0d1E6zXP7v1EvlI97SQoy3G0dQn93xTd4SnancPh7d60cS9UXOitNWBXNC2y3qSm7r1omPotAJ8hELQ4AFrRe3DhNyOqz/abgsJ0BWOXQUUfxSYTcdYl3tO5sA4PKL8XbU5GhnBwvLpOGaQEN06Kez2LcWpazGq2gtAWkl1CTUX8mmR7eZnUehdAI=;02ffoXb11O7n3Ax6GIDZxg=="
+secured: "tp24oro2aOEkzzNKKWheXF61LqGplOuQXWJFCSMNMIXTNNqWdlr8w3mxGn3iW6K7f0CWdTWf+19pb5viC/Xg3Qs4WRA/tPmQ0hqBBD8z4smuefp3TWMxKEsYQqjK29nSsxTzEKGJO1EICFNT4HBu/O3PTDiC9A1OoLZKGgI4r6hORCY7jf0DrM0ePTtF1ynlCIyBJexURbwc21qrAueOYm5f6gHFziBVY08FmgPozkBdSY97RSM/55lTi5+NG6nbUWK7fvyxBDTyJKZtUzNmbD7lnIwG4YwaKZ6uUJUgbxRzmVkEQwhTtez8cJ67/f+3DsE6a8NID8+QNwUIbTQ2wFGIq+uGkxmOK1ouiy8eX1F4kEHlkLx9R14sZvhPQQ2GJ4qPFHoFQQ/xqVfp9NiewjmZIot/J3Wb6/bykPdcPAN12sj1XKzVhEjavwoLh5/qezyb+PC++nVAI2UJNzUPHagUvrfooFS+4UOVHwgcvzNS07AA/iuSHBQFHrlnJXfazZzP2W6ZJDvjVjfCtU47yA==;aOhhEN3kQw6LjoH7dypE2g=="
 ---
 

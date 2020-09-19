@@ -2,6 +2,193 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-15-how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live.md",
+      "title": "How AI can reduce customer service costs by up to 30% (VB Live)",
+      "excerpt": "AI-powered virtual agents and chatbots not only help businesses slash the call center costs, but dramatically improve customer relationships as well.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/how-ai-can-reduce-customer-service-costs-by-up-to-30-vb-live/amp/",
+      "publishedDateTime": "2020-09-15T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning.md",
+      "title": "AI researchers devise failure detection method for safety-critical machine learning",
+      "excerpt": "Researchers devised a way to predict the failure rates of safety-critical machine learning systems used in self-driving cars, robotic surgery, and planes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/photo-1539109523166-85417acfcdb7.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/ai-researchers-devise-failure-detection-method-for-safety-critical-machine-learning/amp/",
+      "publishedDateTime": "2020-09-15T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing.md",
+      "title": "Baidu (BIDU) Expands Apollo Go Robotaxi Service to Beijing",
+      "excerpt": "The company recently revealed that the Apollo Go Robotaxi service is now available in Beijing, China’s capital. The service covers about 700 kilometers across China, and features about 100 pick-up and drop-off stations across several residential as well as business areas in the Yizhuang,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds.md",
+      "title": "Baidu debuts updated AI framework and voice platform, wireless earbuds",
+      "excerpt": "During a virtual keynote to kick off its Baidu World 2020 conference, Baidu announced updates across its AI product portfolio, including new earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
+      "originalUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/baidu-debuts-updated-ai-framework-and-voice-platform-wireless-earbuds/amp/",
+      "publishedDateTime": "2020-09-15T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-it-wasnt-our-fault-trump-blames-nevada-governor-for-indoor-rally-criticised-as-homicidal-by-doctors.md",
       "title": "'It wasn't our fault': Trump blames Nevada governor for indoor rally criticised as 'homicidal' by doctors",
       "excerpt": "Donald Trump on Tuesday slammed Nevada’s Democratic governor over an indoor weekend campaign rally he held in the state, saying he preferred a second outdoor event but Steve Sisolak “forced us inside” even amid the state government’s own coronavirus restrictions.",
@@ -118,39 +305,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award.md",
-      "title": "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award",
-      "excerpt": "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15",
-      "originalUrl": "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-varada-raises-12-million-to-automate-data-lake-management-with-ai.md",
       "title": "Varada raises $12 million to automate data lake management with AI",
       "excerpt": "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding.",
@@ -259,7 +413,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-structure-research-methodology-forecast-to-2024-2020-09-15?mod=mw_quote_news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1018,159 +1172,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-idriverplus-raises-over-146-million-for-autonomous-street-cleaners-and-cars.md",
-      "title": "Idriverplus raises over $14.6 million for autonomous street cleaners and cars",
-      "excerpt": "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1280-e1600097257631.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "publishedDateTime": "2020-09-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry.md",
-      "title": "When Wildfire Smoke And Ash Fill The Sky, Here’s How Self-Driving Cars Can Go Awry",
-      "excerpt": "An especially eerie sight made the national and international news last week when the Bay Area and other surrounding locales became thick with smoke and ash, causing the skies to showcase a menacing red-orange glow and blotted out any semblance of a normal sky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d987fd704a8411dbcd758%2F0x0.jpg%3FcropX1%3D979%26cropX2%3D5000%26cropY1%3D312%26cropY2%3D3097",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "publishedDateTime": "2020-09-14T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
-      "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
-      "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/robert-playter-headshot.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "publishedDateTime": "2020-09-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

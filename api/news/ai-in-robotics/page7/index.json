@@ -2,6 +2,90 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
+      "title": "A robot walks into White Castle ...",
+      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "publishedDateTime": "2020-07-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Shares Up 5%",
+      "excerpt": "Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares shot up 5% on Tuesday . The company traded as high as $123.51 and last traded at $123.51, 10,035 shares were traded during mid-day trading.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "publishedDateTime": "2020-07-15T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-human-quirks-health-medicine.md",
       "title": "Human Quirks: Health & Medicine",
       "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",

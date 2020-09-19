@@ -2,6 +2,191 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-11-pluralsight-inc-cl-a.md",
+      "title": "Pluralsight Inc. Cl A",
+      "excerpt": "Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/quote/stock/us/xnas/ps",
+      "originalUrl": "https://www.barrons.com/quote/stock/us/xnas/ps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
+      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus.md",
+      "title": "Microsoft’s updated DeepSpeed can train trillion-parameter AI models with fewer GPUs",
+      "excerpt": "The newest version of Microsoft's DeepSpeed library includes optimizations for training trillion-parameter machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
+      "publishedDateTime": "2020-09-10T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ai-driven-platform-shines-a-light-on-corporate-behavior-and-accelerates-values-based-investing.md",
+      "title": "AI-Driven Platform Shines A Light On Corporate Behavior And Accelerates Values-Based Investing",
+      "excerpt": "This is where Floodlight’s AI-driven investment platform comes in, which is now available to financial advisors worldwide to deliver clarity to the world of Environmental, Social, Governance (ESG) investing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/09/10/values-based-investing/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/09/10/values-based-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a9ef33f28cdf3dd5336ac%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D2314%26cropY1%3D624%26cropY2%3D1922",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/09/10/values-based-investing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/09/10/values-based-investing/amp/",
+      "publishedDateTime": "2020-09-10T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-id-rd-voice-biometrics-solutions-now-available-on-microsoft-azure-marketplace.md",
       "title": "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace",
       "excerpt": "ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace",
@@ -42,39 +227,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
-      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
-      "excerpt": "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -1000,158 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools.md",
-      "title": "Intel and Samsung detail AI-powered fetal ultrasound tools",
-      "excerpt": "Intel and Samsung today detailed AI-driven solutions to help doctors accurately and quickly measure a fetus inside the womb.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1ab9a987-4ae0-43aa-b1d2-025974d9a659-e1599164184952.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/intel-and-samsung-detail-ai-powered-fetal-ultrasound-tools/amp/",
-      "publishedDateTime": "2020-09-10T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-5g-in-financial-services-evolution-not-revolution.md",
-      "title": "5G In Financial Services: Evolution, Not Revolution",
-      "excerpt": "G is a leap forward in technology, though the added complexity makes it essential for financial firms to have visibility across their entire network to ensure the best customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f58daa332aad6d69f608d3f%2F0x0.jpg",
-          "width": 1199,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/10/5g-in-financial-services-evolution-not-revolution/amp/",
-      "publishedDateTime": "2020-09-10T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-hkstps-technology-validation-platform-aims-to-build-trust-in-ai-and-robotics-business-solutions.md",
-      "title": "HKSTP’s Technology Validation Platform aims to build trust in AI and robotics business solutions",
-      "excerpt": "The new testing platform – first of its kind in Hong Kong – validates technology capabilities and will encourage greater use among providers and enterprises",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
-      "originalUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/10/8cb41152-f1b4-11ea-8f3b-07283e3f3bd8_image_hires_102614.jpg?itok=wWmjFBkm&v=1599704785",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

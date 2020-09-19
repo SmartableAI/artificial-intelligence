@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos.md",
+      "title": "How Industrial Robotics Market Will Grow In Coming Future Despite COVID-19 Chaos?",
+      "excerpt": "The industrial robotics market is going to experience a negative impact in 2020. High investment cost is required",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-industrial-robotics-market-will-grow-in-coming-future-despite-covid-19-chaos-2020-08-19",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-pets-in-china-now-have-their-own-robot-friends-which-can-entertain-and-even-dispense-treats.md",
+      "title": "Pets in China now have their own robot friends, which can entertain and even dispense treats",
+      "excerpt": "China's pet industry was estimated to be worth 172.2 billion yuan in 2018 and is forecast to more than double by 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/19/60f36cb8-e1d6-11ea-8e8d-92e5de2d33e5_image_hires_174751.JPG?itok=ByhpvlIw&v=1597830480",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3097991/pets-china-now-have-their-own-robot-friends-which-can-entertain-and",
+      "publishedDateTime": "2020-08-19T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-19-robotics-and-artificial-intelligence-etf-irbo-at-52-week-high.md",
       "title": "Robotics and Artificial Intelligence ETF (IRBO) at 52-Week High",
       "excerpt": "For investors looking for momentum, iShares Robotics and Artificial Intelligence Multisector ETF IRBO is probably a suitable pick. The fund just hit a 52-week high and is up 71.9%",
@@ -1262,100 +1364,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
-      "title": "Column: The reason we're afraid of robots",
-      "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milforddailynews.com/apps/pbcsi.dll/bilde?Site=WL&Date=20200808&Category=NEWS&ArtNo=200808218&Ref=AR",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "cdnAmpWebUrl": "https://www-milforddailynews-com.cdn.ampproject.org/c/s/www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart",
-      "publishedDateTime": "2020-08-08T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Milford Daily News",
-        "domain": "milforddailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
-      "title": "Before we put $100 billion into AI",
-      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "publishedDateTime": "2020-08-08T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

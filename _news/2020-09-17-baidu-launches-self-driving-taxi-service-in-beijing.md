@@ -32,20 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Baidu launches Robotaxi trials in Beijing"
-    excerpt: "Chinese internet giant Baidu launched its Apollo Go Robotaxi trials in Beijing last week, becoming the first company to offer self driving passenger transport service in the capital city."
-    publishedDateTime: 2020-09-14T08:39:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-launches-robotaxi-trials-in-beijing_id197697.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "China’s Baidu Demonstrates its Apollo Robotaxi Using its 5G-Powered ‘Remote Driving Service’"
     excerpt: "Baidu displayed Fully Automated Driving using Apollo’ AI platform. This marks a new promise for autonomous vehicles equipped with 5G and AI. Baidu also announced AI platforms: DuerOS, Xiaodu."
     publishedDateTime: 2020-09-18T06:41:00Z

@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of"
-    publishedDateTime: 2020-09-14T08:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584799"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
     excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
     publishedDateTime: 2020-09-17T10:08:00Z

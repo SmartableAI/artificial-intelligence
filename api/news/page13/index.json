@@ -2,6 +2,150 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
+      "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
+      "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-yandex-self-driving-group-gets-150-million-will-bring-autonomous-vehicles-to-us.md",
+      "title": "Yandex Self Driving Group Gets $150 Million, Will Bring Autonomous Vehicles To U.S.",
+      "excerpt": "Yandex is not cutting ties with its former autonomous vehicle team by any means. Yandex NV is going to invest $150 million into Yandex SDG ($100 million in equity, $50 million as a convertible loan) and Yandex NV will keep an eye on the autonomous vehicle technology progress and will keep reporting Yandex SDG's results in Yandex NV's \"Other Bets and Experiments\" segment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
+      "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52670a77958deeab46fb0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/09/05/yandex-self-driving-group-gets-150-million-partners-with-uber-to-bring-autonomous-vehicles-to-us/amp/",
+      "publishedDateTime": "2020-09-07T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-a-peek-behind-the-curtain-as-ibm-watson-media-flexes-its-ai-muscle-at-the-us-open.md",
+      "title": "A peek behind the curtain as IBM Watson Media flexes its AI muscle at the US Open",
+      "excerpt": "Dubbed IBM Watson Media, this new tech uses artificial intelligence and machine learning along with a combination of on-site and cloud-based computing to automatically generate compelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
+      "originalUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2017/09/ibm-watson-us-open.jpg?quality=70&#038;strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2017/09/08/us-open-tennis-results-stats-ibm-watson-behind-the-scenes/amp/",
+      "publishedDateTime": "2020-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
       "title": "Airbus is to produce pilotless planes, but will they take off?",
       "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
@@ -1015,142 +1159,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-watch-google-deepminds-alphago-documentary-for-free.md",
-      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
-      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
-          "width": 1278,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-why-the-secret-ai-sauce-behind-tiktok-is-such-a-vital-ingredient-in-luring-potential-buyers.md",
-      "title": "Why the secret AI sauce behind TikTok is such a vital ingredient in luring potential buyers",
-      "excerpt": "The recent Chinese policy change on exports may mean that a quick deal to sell TikTok’s US operations is now in doubt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/05/4f648fee-ee93-11ea-8288-5c49f42eee5c_image_hires_110621.jpg?itok=0-w5Og9g&v=1599275188",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3100287/why-secret-ai-sauce-behind-tiktok-such-vital-ingredient-luring",
-      "publishedDateTime": "2020-09-06T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

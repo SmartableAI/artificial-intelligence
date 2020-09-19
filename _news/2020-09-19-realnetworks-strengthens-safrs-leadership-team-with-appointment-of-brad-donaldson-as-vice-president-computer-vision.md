@@ -1,20 +1,20 @@
 ---
 category: news
 title: "RealNetworks Strengthens SAFR's Leadership Team with Appointment of Brad Donaldson as Vice President, Computer Vision"
-excerpt: "PR Newswire SEATTLE, Sept. 18, 2020 SEATTLE, Sept. 18, 2020 /"
-publishedDateTime: 2020-09-18T23:11:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-09-18/realnetworks-strengthens-safr-s-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision"
-webUrl: "https://www.bloomberg.com/press-releases/2020-09-18/realnetworks-strengthens-safr-s-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision"
+excerpt: "(Nasdaq: RNWK) today announced the appointment of Brad Donaldson as Vice President, Computer Vision to lead the strategic development and market expansion of the SAFR ® product line. Mr. Donaldson's charter is to drive substantial growth of the RealNetworks portfolio of computer vision technologies and solutions,"
+publishedDateTime: 2020-09-19T01:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-2020-09-18"
+webUrl: "https://www.marketwatch.com/press-release/realnetworks-strengthens-safrs-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-2020-09-18"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
@@ -41,6 +41,6 @@ related:
       domain: businessinsider.com
     quality: 46
 
-secured: "CEl5t1SfbNajaJAi4ffqVEp9NfKI4ATZ2WXBo6bFzLjmlWQ3FQKAnCzNmJ/5k2E2z1fIudBZn9Oj19fDFnJpvylpSjDwk0hW35sEkZ96Anoj+/iXtbq/iRntzkfZJyNbbJXUAV+ciQOI/OtX+FnDd7FXP45cpaWti1fW8cgyvMVRfkDB4oqRE1v6aD4TszwYWrnGtQdDeOVpOB/tvp0OpgIRoEtL9k1LoTnep3Rxff7s00mcTjiy0tWed+1r1DBdMAwKll57VFCXqExYoOubAr+jPaxc5EnrG9U+WtHCgUUNN5x5LQXmvT2wMchtQK82EYMcrZijW7b9Sj2MUpaH2/GmFezxKhwgzLTdY9s2IqU=;0wUmcOMW+NlQidScpk2dtg=="
+secured: "sPhuxe/5PaGPPlH9LG8/1QY7fiP/yaEBm6xla+uvMAZLfdIt45RTDRqV1mh3sVJYd+vPg/d33UX7Ae6mNmCdSEBqtp/GmZSYg4qaw725vdUoSNsVK9KwpC4PqiNFFpR/+2/2KMiL+7CJCvCxX+atQQfBoxu2TQ5nLjxYHrhFz+qZQi0AKnXGp/yePRGaq4bgk6PvzEpdR13DBkdXSvZ1sVsuTkLtOEp6EptyuR/iKhn1CWQBy1rbpZETC+Q1x9e0sleEUVWpNABbE/9qR2mZMjXP65DFulmjn4S70etJP+DZOXWtAg0OdDBkicSwmqHb/Sl8lQg1mxWRuxExxF+YJzHiL+nEduH8aYpPhjzXNqM=;uUbe1+nhzq6s/Ur3ksApzg=="
 ---
 

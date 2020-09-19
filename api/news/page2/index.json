@@ -2,6 +2,199 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
+      "title": "IBM, AI And The Battle For Cybersecurity",
+      "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62aef583206e4962dbb205%2F0x0.jpg",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
+      "publishedDateTime": "2020-09-17T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-the-race-to-build-facial-recognition-tech-for-africa-is-being-led-by-this-award-winning-engineer.md",
+      "title": "The race to build facial recognition tech for Africa is being led by this award-winning engineer",
+      "excerpt": "Facial recognition technology is not widely employed in Africa, partly because the technology available up till now has not been adept at identifying and differentiating the faces of Black people.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
+      "originalUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/lOfIoxKg-e1600368338399.jpeg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/",
+      "publishedDateTime": "2020-09-17T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai.md",
+      "title": "Quantum and classical computers handle time differently. What does that mean for AI?",
+      "excerpt": "As humans, we take time for granted. We’re born into an innate understanding of the passage of events because it’s essential to our survival. But AI suffers from no such congenital condition. Robots do not understand the concept of time.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/06/quantum_vs-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
+      "publishedDateTime": "2020-09-17T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-small-companies-face-up-to-big-financial-hurdles-in-the-covid-era.md",
+      "title": "Small companies face up to big financial hurdles in the COVID era",
+      "excerpt": "Two business operators in Northeast Ohio are part of this New York Times article about small companies — especially music clubs, gyms, restaurants, bars and others that were forced to close by the coronavirus pandemic — trying to figure out how to pay off debts they've accumulated during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "originalUrl": "https://www.crainscleveland.com/scott-suttell-blog/small-companies-face-big-financial-hurdles-covid-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21286c81-0e49-4eae-9c0f-15cb2f524032.jpg?source=amp&fit=scale-down&width=2400",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
+      "publishedDateTime": "2020-09-17T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Cleveland Business",
+        "domain": "crainscleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-adaptive-computing-platforms-deliver-efficient-ai-acceleration.md",
       "title": "Adaptive computing platforms deliver efficient AI acceleration",
       "excerpt": "CPUs alone are not keeping up and some form of compute acceleration is needed to more efficiently process AI inference workloads.",
@@ -416,7 +609,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1038,209 +1231,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination.md",
-      "title": "Why AI Is The Sharpest Weapon In Industry’s Battle Against Discrimination",
-      "excerpt": "When it comes to the enterprise, social fairness is a web of complexity, and you have to establish what you assess as ethical first in order to realize those goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60c0f552a8562b9b537442%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/amp/",
-      "publishedDateTime": "2020-09-16T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system.md",
-      "title": "Nasdaq makes push into anti-money laundering tech with new AI-based system",
-      "excerpt": "Exchange group Nasdaq said on Wednesday that it is launching AI technology to help retail and commercial banks automate anti-money laundering (AML)investigations, as it expands into the financial crime software market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
-      "originalUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533675176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F138",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2671UE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2671UE",
-      "publishedDateTime": "2020-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025.md",
-      "title": "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-this-entrepreneur-uses-predictive-analysis-and-machine-learning-to-achieve-efficiency.md",
-      "title": "This Entrepreneur Uses Predictive Analysis and Machine Learning to Achieve Efficiency",
-      "excerpt": "Julian Jewel Jeyaraj created AI-driven technology JJAIBOT, an artificial intelligence bot, is capable of detecting human emotions such as anger, happiness and joy, and here is what start-ups can learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356254",
-      "originalUrl": "https://www.entrepreneur.com/article/356254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600251356-JJAIBOT.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356254",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356254",
-      "publishedDateTime": "2020-09-16T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

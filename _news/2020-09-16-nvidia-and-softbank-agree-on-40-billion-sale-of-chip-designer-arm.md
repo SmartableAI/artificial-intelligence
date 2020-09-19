@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 549
         isCached: true
-  - title: "UK's chip design giant Arm Holdings sold in $40bn deal"
-    excerpt: "America's Nvidia has pledged Arm will remain based in Cambridge but the business's co-founder described the deal as a disaster."
-    publishedDateTime: 2020-09-14T07:53:00Z
-    webUrl: "https://news.sky.com/story/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
-    ampWebUrl: "https://news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-chip-design-giant-arm-holdings-sold-in-40bn-deal-12071502"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/16/08/1600x900/42dcee07ded5c06f53c535b3db49840c20a60f4af1691c3bc83c64ad8434fe5b_3756902.jpg?20160803094809"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia to acquire chip designer Arm for $40 billion"
     excerpt: "Nvidia announced yesterday that it had reached an agreement with SoftBank Group to acquire ARM for $40 billion."
     publishedDateTime: 2020-09-14T13:57:00Z

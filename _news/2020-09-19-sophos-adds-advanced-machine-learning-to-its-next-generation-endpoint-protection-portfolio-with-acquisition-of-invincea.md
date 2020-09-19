@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T23:45:00Z
 originalUrl: "https://www.thaipr.net/general/757332"
 webUrl: "https://www.thaipr.net/general/757332"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://img.thaipr.net/thaipr/300x250c/prml/h2/1534ABBDE0D41BBC36B1A126C7869C27-3.jpg"
@@ -24,6 +25,6 @@ images:
     height: 250
     isCached: true
 
-secured: "SggtlIZjGbkDMKdACMMIy/MAthKYVhQTRc1HuRZBd5OIvZe+CC1foOcTeU8lkH/VtesvwHnx/SXvkaeoD6RDc30tLH30Nzt4hwtJz5rhISQl9N5MktgSqs4Hh6ZXOjE4jr8HFIPLB5/JW3+OCdYQfMDDixO8YEWbjzWm87XfPEhWKuVti7JCOKaJeNcNm5Cci4BSt7UrP8QTw01X7MRUffmTDjtxnRheF6OME/dKyLz2zWgrBNoktGwedlixNqkxS+humaAc3tr4LOlGwtBa/hAvR8nru/qrAi/4rUmRAsUn4PhyUpagPj33glA+Bt+I4feV8l87ouQzQyIJZ2N5At67ohqHWDFmbTMnSmyxcl4=;zknvW3J51aiRYEujzng6mw=="
+secured: "IyaDe8g94j6K3FZKEUi1k3EYCK3TomqbkgIbXToEIBB1ruDt4hDFMBqKb4Z9uDpUXk9r6emZcON35o3DUlB6jBU0YggpUEpy4lQmMgXMvlmjxGjEOtwokCL81PsNdmXlDFHAm3n4RRLh23xi+OLZVSaNqW41kc9r3fSceHI13mXpgaAEHoYoJg33X1HOq3h3Of62tSJ41TB/kEvlgjdwFtnMQIz6cynIQvrfZ7c3NE0q9dJF9Ntk3u9O0zruSE3c86/lpslDdw5krsxSPwkmOCG2EwMhLtjO10JIQH3eMF4LwUWKxkTPuf5GNZTtp4Jhs9Kyktw/m4x2E6inpwlo2ir2MRFFG8sDEVyoxHXoV4ptJDmmm0FFB1uUnUgkLZOfx2VESuMfK9oKeneV1rbxl5WpfUDNHOE2ckR8blPQUVV/XCjQmBWDECkRELmVodRmxyWhYh4/DSmnxWTI0dffTkXLUR+QtPbBSNVxVFd/QA6JvnhZLXZTX9HWgAPUtPdiqydiL0YG0N2iaUzODbxcoQ==;EzdPjN/EdTq6rBzEJK2Iig=="
 ---
 

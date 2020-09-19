@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T22:23:00Z
 originalUrl: "https://www.marketwatch.com/press-release/integration-of-artificial-intelligence-in-the-global-revenue-cycle-management-software-market-2020-09-18"
 webUrl: "https://www.marketwatch.com/press-release/integration-of-artificial-intelligence-in-the-global-revenue-cycle-management-software-market-2020-09-18"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

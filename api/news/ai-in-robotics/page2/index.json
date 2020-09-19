@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-09-stephen-hawking-was-wrong-about-ai-killing-humans-says-robot.md",
+      "title": "Stephen Hawking was wrong about AI killing humans (says robot)",
+      "excerpt": "Instead, this is GPT-3, an Open AI robot that's just written a column for The Guardian. And what a column. \"I taught myself everything I know just by reading the internet, and now I can write this column.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "originalUrl": "https://www.zdnet.com/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2015/10/16/5f7074dc-9a8d-4085-b278-7fbcbee1d3d5/dwf15-979587.jpg",
+          "width": 2200,
+          "height": 1595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stephen-hawking-was-wrong-about-ai-killing-humans-says-robot/",
+      "publishedDateTime": "2020-09-09T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-future-of-defense-artificial-intelligence-robotics-driving-modern-day-military.md",
+      "title": "Future of Defense: Artificial Intelligence, Robotics Driving Modern Day Military",
+      "excerpt": "With 5G, advanced satellite communication and integration of artificial intelligence and robotics, the future defense system may need minimal human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "originalUrl": "https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/42057/robot-dogs.jpg",
+          "width": 1500,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "publishedDateTime": "2020-09-09T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype.md",
       "title": "The Guardian’s GPT-3-generated article is everything wrong with AI media hype",
       "excerpt": "The Guardian today published an article purportedly written \"entirely\" by OpenAI's GPT-3. But the the newspaper's grand claims aren't all they seem.",
@@ -1246,108 +1339,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research.md",
-      "title": "IBM RXN: AI combined with robotics to speed molecular studies and chemical research",
-      "excerpt": "AI and robotics are working together to find cures for diseases more quickly. Even if you're not in science, you can learn from this project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rxn-ai-combined-with-robotics-to-speed-molecular-studies-and-chemical-research/",
-      "publishedDateTime": "2020-08-31T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control.md",
-      "title": "Japan explores AI as the pandemic curbs in-person quality control",
-      "excerpt": "At a Japanese factory, robots have started sharing the work of quality-control inspectors as the pandemic accelerates a shift in mass production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
-      "originalUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/31/japan-explores-ai-as-the-pandemic-curbs-in-person-quality-control/amp/",
-      "publishedDateTime": "2020-08-31T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
