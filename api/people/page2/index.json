@@ -7,7 +7,7 @@
       "path": "_people/alex-smola.md",
       "title": "Alex Smola",
       "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alex-smola/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alex-smola/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alex-smola/",
       "type": "profile",
       "name": "Alex Smola",
@@ -17,7 +17,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 15813
+        "followers": 15814
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -56,7 +56,7 @@
       "path": "_people/andrew-moore.md",
       "title": "Andrew Moore",
       "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-moore/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-moore/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
       "type": "profile",
       "name": "Andrew Moore",
@@ -66,7 +66,7 @@
       "twitter": {
         "username": "awmcmu",
         "url": "https://twitter.com/awmcmu",
-        "followers": 5821
+        "followers": 5822
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrew-moore-016b751"
@@ -91,7 +91,7 @@
       "path": "_people/jack-clark.md",
       "title": "Jack Clark",
       "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jack-clark/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jack-clark/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jack-clark/",
       "type": "profile",
       "name": "Jack Clark",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "jackclarksf",
         "url": "https://twitter.com/jackclarksf",
-        "followers": 40691
+        "followers": 40693
       },
       "topics": [
         "AI"
@@ -121,7 +121,7 @@
       "path": "_people/noramay-cadena.md",
       "title": "Noramay Cadena",
       "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/noramay-cadena/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/noramay-cadena/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/noramay-cadena/",
       "type": "profile",
       "name": "Noramay Cadena",
@@ -151,7 +151,7 @@
       "path": "_people/john-krafcik.md",
       "title": "John Krafcik",
       "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/john-krafcik/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/john-krafcik/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/john-krafcik/",
       "type": "profile",
       "name": "John Krafcik",
@@ -161,7 +161,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 14191
+        "followers": 14192
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -188,7 +188,7 @@
       "path": "_people/collections/female-pioneers-in-robotics-2020.md",
       "title": "Female Pioneers in Robotics – 2020",
       "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/female-pioneers-in-robotics-2020/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/female-pioneers-in-robotics-2020/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/female-pioneers-in-robotics-2020/",
       "type": "collection",
       "name": "Female Pioneers in Robotics – 2020",
@@ -302,7 +302,7 @@
       "path": "_people/alice-agogino.md",
       "title": "Alice M. Agogino",
       "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alice-agogino/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alice-agogino/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alice-agogino/",
       "type": "profile",
       "name": "Alice M. Agogino",
@@ -333,7 +333,7 @@
       "path": "_people/carol-e-reiley.md",
       "title": "Carol E. Reiley",
       "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/carol-e-reiley/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/carol-e-reiley/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/carol-e-reiley/",
       "type": "profile",
       "name": "Carol E. Reiley",
@@ -343,7 +343,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11519
+        "followers": 11517
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -367,7 +367,7 @@
       "path": "_people/daniele-bonacorsi.md",
       "title": "Daniele Bonacorsi",
       "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/daniele-bonacorsi/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/daniele-bonacorsi/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/daniele-bonacorsi/",
       "type": "profile",
       "name": "Daniele Bonacorsi",
@@ -405,7 +405,7 @@
       "path": "_people/huahai-yang.md",
       "title": "Huahai Yang",
       "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/huahai-yang/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/huahai-yang/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/huahai-yang/",
       "type": "profile",
       "name": "Huahai Yang",
@@ -448,7 +448,7 @@
       "path": "_people/javier-m-duarte.md",
       "title": "Javier M. Duarte",
       "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/javier-m-duarte/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/javier-m-duarte/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/javier-m-duarte/",
       "type": "profile",
       "name": "Javier M. Duarte",
@@ -458,7 +458,7 @@
       "twitter": {
         "username": "jmgduarte",
         "url": "https://twitter.com/jmgduarte",
-        "followers": 194
+        "followers": 195
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
@@ -488,7 +488,7 @@
       "path": "_people/jean-liu.md",
       "title": "Jean Liu",
       "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jean-liu/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jean-liu/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jean-liu/",
       "type": "profile",
       "name": "Jean Liu",
@@ -525,7 +525,7 @@
       "path": "_people/verity-harding.md",
       "title": "Verity Harding",
       "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/verity-harding/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/verity-harding/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/verity-harding/",
       "type": "profile",
       "name": "Verity Harding",
@@ -557,7 +557,7 @@
       "path": "_people/alexandr-wang.md",
       "title": "Alexandr Wang",
       "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alexandr-wang/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alexandr-wang/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
       "type": "profile",
       "name": "Alexandr Wang",
@@ -598,7 +598,7 @@
       "path": "_people/andrew-zisserman.md",
       "title": "Andrew Zisserman",
       "excerpt": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-zisserman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-zisserman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/andrew-zisserman/",
       "type": "profile",
       "name": "Andrew Zisserman",
@@ -634,7 +634,7 @@
       "path": "_people/anil-k-jain.md",
       "title": "Anil K. Jain",
       "excerpt": "Michigan State University",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anil-k-jain/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/anil-k-jain/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/anil-k-jain/",
       "type": "profile",
       "name": "Anil K. Jain",
@@ -668,7 +668,7 @@
       "path": "_people/chuen-tsai-sun.md",
       "title": "Chuen-Tsai Sun",
       "excerpt": "Professor of Computer Science, National Chiao Tung University",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chuen-tsai-sun/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/chuen-tsai-sun/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/chuen-tsai-sun/",
       "type": "profile",
       "name": "Chuen-Tsai Sun",
@@ -700,7 +700,7 @@
       "path": "_people/daniela-l-rus.md",
       "title": "Daniela L. Rus",
       "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/daniela-l-rus/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/daniela-l-rus/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/daniela-l-rus/",
       "type": "profile",
       "name": "Daniela L. Rus",
@@ -752,7 +752,7 @@
       "path": "_people/david-lopez-mateos.md",
       "title": "David Lopez Mateos",
       "excerpt": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/david-lopez-mateos/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/david-lopez-mateos/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/david-lopez-mateos/",
       "type": "profile",
       "name": "David Lopez Mateos",
@@ -791,7 +791,7 @@
       "path": "_people/erekle-magradze.md",
       "title": "Erekle Magradze",
       "excerpt": "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/erekle-magradze/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/erekle-magradze/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/erekle-magradze/",
       "type": "profile",
       "name": "Erekle Magradze",
@@ -828,7 +828,7 @@
       "path": "_people/fedor-ratnikov.md",
       "title": "Fedor Ratnikov",
       "excerpt": "National Research University Higher School of Economics",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fedor-ratnikov/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fedor-ratnikov/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/fedor-ratnikov/",
       "type": "profile",
       "name": "Fedor Ratnikov",
@@ -861,7 +861,7 @@
       "path": "_people/francisco-matorras.md",
       "title": "Francisco Matorras",
       "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/francisco-matorras/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/francisco-matorras/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/francisco-matorras/",
       "type": "profile",
       "name": "Francisco Matorras",
@@ -899,7 +899,7 @@
       "path": "_people/james-peng.md",
       "title": "James Peng",
       "excerpt": "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/james-peng/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/james-peng/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/james-peng/",
       "type": "profile",
       "name": "James Peng",
@@ -932,7 +932,7 @@
       "path": "_people/jitendra-malik.md",
       "title": "Jitendra Malik",
       "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jitendra-malik/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jitendra-malik/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jitendra-malik/",
       "type": "profile",
       "name": "Jitendra Malik",
@@ -966,7 +966,7 @@
       "path": "_people/john-giannandrea.md",
       "title": "John Giannandrea",
       "excerpt": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/john-giannandrea/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/john-giannandrea/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/john-giannandrea/",
       "type": "profile",
       "name": "John Giannandrea",
@@ -991,7 +991,7 @@
       "path": "_people/jonathan-hays.md",
       "title": "Jonathan Hays",
       "excerpt": "Queen Mary University of London",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jonathan-hays/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jonathan-hays/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jonathan-hays/",
       "type": "profile",
       "name": "Jonathan Hays",
@@ -1024,7 +1024,7 @@
       "path": "_people/josh-cogan.md",
       "title": "Josh Cogan",
       "excerpt": "PhD Physics, Stanford University",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/josh-cogan/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/josh-cogan/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/josh-cogan/",
       "type": "profile",
       "name": "Josh Cogan",
@@ -1071,7 +1071,7 @@
       "path": "_people/kalyanmoy-deb.md",
       "title": "Kalyanmoy Deb",
       "excerpt": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kalyanmoy-deb/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kalyanmoy-deb/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/kalyanmoy-deb/",
       "type": "profile",
       "name": "Kalyanmoy Deb",
@@ -1104,7 +1104,7 @@
       "path": "_people/karl-iagnemma.md",
       "title": "Karl Iagnemma",
       "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/karl-iagnemma/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/karl-iagnemma/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/karl-iagnemma/",
       "type": "profile",
       "name": "Karl Iagnemma",
@@ -1144,7 +1144,7 @@
       "path": "_people/leo-breiman.md",
       "title": "Leo Breiman",
       "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/leo-breiman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
       "type": "profile",
       "name": "Leo Breiman",

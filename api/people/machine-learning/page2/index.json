@@ -7,7 +7,7 @@
       "path": "_people/leo-breiman.md",
       "title": "Leo Breiman",
       "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/leo-breiman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
       "type": "profile",
       "name": "Leo Breiman",
@@ -44,7 +44,7 @@
       "path": "_people/lev-dudko.md",
       "title": "Lev Dudko",
       "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lev-dudko/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lev-dudko/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/lev-dudko/",
       "type": "profile",
       "name": "Lev Dudko",
@@ -77,7 +77,7 @@
       "path": "_people/lily-asquith.md",
       "title": "Lily Asquith",
       "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lily-asquith/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lily-asquith/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/lily-asquith/",
       "type": "profile",
       "name": "Lily Asquith",
@@ -110,7 +110,7 @@
       "path": "_people/luc-van-gool.md",
       "title": "Luc Van Gool",
       "excerpt": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/luc-van-gool/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/luc-van-gool/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/luc-van-gool/",
       "type": "profile",
       "name": "Luc Van Gool",
@@ -147,7 +147,7 @@
       "path": "_people/maurizio-pierini.md",
       "title": "Maurizio Pierini",
       "excerpt": "CERN",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/maurizio-pierini/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/maurizio-pierini/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/maurizio-pierini/",
       "type": "profile",
       "name": "Maurizio Pierini",
@@ -180,7 +180,7 @@
       "path": "_people/michael-i-jordan.md",
       "title": "Michael I. Jordan",
       "excerpt": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/michael-i-jordan/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/michael-i-jordan/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/michael-i-jordan/",
       "type": "profile",
       "name": "Michael I. Jordan",
@@ -217,7 +217,7 @@
       "path": "_people/yoshua-bengio.md",
       "title": "Yoshua Bengio",
       "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yoshua-bengio/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yoshua-bengio/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/yoshua-bengio/",
       "type": "profile",
       "name": "Yoshua Bengio",
@@ -255,7 +255,7 @@
       "path": "_people/christopher-m-bishop.md",
       "title": "Christopher M. Bishop",
       "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/christopher-m-bishop/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-m-bishop/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/christopher-m-bishop/",
       "type": "profile",
       "name": "Christopher M. Bishop",
@@ -265,7 +265,7 @@
       "twitter": {
         "username": "chrisbishopmsft",
         "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5176
+        "followers": 5175
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
@@ -303,7 +303,7 @@
       "path": "_people/rajat-monga.md",
       "title": "Rajat Monga",
       "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rajat-monga/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rajat-monga/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/rajat-monga/",
       "type": "profile",
       "name": "Rajat Monga",
@@ -313,7 +313,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14233
+        "followers": 14234
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -362,7 +362,7 @@
       "path": "_people/kai-fu-lee.md",
       "title": "Kai-Fu Lee",
       "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kai-fu-lee/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kai-fu-lee/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/kai-fu-lee/",
       "type": "profile",
       "name": "Kai-Fu Lee",
@@ -372,7 +372,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1580541
+        "followers": 1580537
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",

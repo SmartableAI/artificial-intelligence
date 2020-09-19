@@ -7,7 +7,7 @@
       "path": "_people/laurence-moroney.md",
       "title": "Laurence Moroney",
       "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/laurence-moroney/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/laurence-moroney/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/laurence-moroney/",
       "type": "profile",
       "name": "Laurence Moroney",
@@ -43,7 +43,7 @@
       "path": "_people/rajat-monga.md",
       "title": "Rajat Monga",
       "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rajat-monga/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rajat-monga/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/rajat-monga/",
       "type": "profile",
       "name": "Rajat Monga",
@@ -53,7 +53,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14233
+        "followers": 14234
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"

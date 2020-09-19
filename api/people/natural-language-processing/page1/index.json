@@ -7,7 +7,7 @@
       "path": "_people/christopher-d-manning.md",
       "title": "Christopher D Manning",
       "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/christopher-d-manning/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-d-manning/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/christopher-d-manning/",
       "type": "profile",
       "name": "Christopher D Manning",
@@ -17,7 +17,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 70530
+        "followers": 70531
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -62,7 +62,7 @@
       "path": "_people/huahai-yang.md",
       "title": "Huahai Yang",
       "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/huahai-yang/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/huahai-yang/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/huahai-yang/",
       "type": "profile",
       "name": "Huahai Yang",
@@ -105,7 +105,7 @@
       "path": "_people/ray-kurzweil.md",
       "title": "Ray Kurzweil",
       "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ray-kurzweil/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/ray-kurzweil/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/ray-kurzweil/",
       "type": "profile",
       "name": "Ray Kurzweil",

@@ -7,7 +7,7 @@
       "path": "_people/elon-musk.md",
       "title": "Elon Musk",
       "excerpt": "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/elon-musk/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/elon-musk/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/elon-musk/",
       "type": "profile",
       "name": "Elon Musk",
@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 38810940
+        "followers": 38811851
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -40,7 +40,7 @@
       "path": "_people/lex-fridman.md",
       "title": "Lex Fridman",
       "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lex-fridman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lex-fridman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/lex-fridman/",
       "type": "profile",
       "name": "Lex Fridman",
@@ -50,7 +50,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 315048
+        "followers": 315122
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -89,7 +89,7 @@
       "path": "_people/collections/the-most-influential-ai-researchers-in-2020.md",
       "title": "The Most Influential AI Researchers in 2020",
       "excerpt": "These are some of the most vocal and influential leaders working on artificial intelligence in 2020.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/the-most-influential-ai-researchers-in-2020/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/the-most-influential-ai-researchers-in-2020/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/the-most-influential-ai-researchers-in-2020/",
       "type": "collection",
       "name": "The Most Influential AI Researchers in 2020",
@@ -206,7 +206,7 @@
       "path": "_people/collections/top-ai-professors-in-stanford.md",
       "title": "Top AI Professors in Stanford",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/top-ai-professors-in-stanford/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/top-ai-professors-in-stanford/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/top-ai-professors-in-stanford/",
       "type": "collection",
       "name": "Top AI Professors in Stanford",
@@ -323,7 +323,7 @@
       "path": "_people/john-carmack.md",
       "title": "John Carmack",
       "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/john-carmack/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/john-carmack/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/john-carmack/",
       "type": "profile",
       "name": "John Carmack",
@@ -333,7 +333,7 @@
       "twitter": {
         "username": "ID_AA_Carmack",
         "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 887647
+        "followers": 887648
       },
       "affiliation": {
         "path": "",
@@ -359,7 +359,7 @@
       "path": "_people/andrew-ng.md",
       "title": "Andrew Ng",
       "excerpt": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-ng/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-ng/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/andrew-ng/",
       "type": "profile",
       "name": "Andrew Ng",
@@ -369,7 +369,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 530634
+        "followers": 530641
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -419,7 +419,7 @@
       "path": "_people/andrej-karpathy.md",
       "title": "Andrej Karpathy",
       "excerpt": "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrej-karpathy/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrej-karpathy/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/andrej-karpathy/",
       "type": "profile",
       "name": "Andrej Karpathy",
@@ -429,7 +429,7 @@
       "twitter": {
         "username": "karpathy",
         "url": "https://twitter.com/karpathy",
-        "followers": 301050
+        "followers": 301062
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
@@ -455,7 +455,7 @@
       "path": "_people/yann-lecun.md",
       "title": "Yann LeCun",
       "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yann-lecun/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yann-lecun/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/yann-lecun/",
       "type": "profile",
       "name": "Yann LeCun",
@@ -465,7 +465,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 221452
+        "followers": 221458
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -500,7 +500,7 @@
       "path": "_people/fei-fei-li.md",
       "title": "Fei-Fei Li",
       "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fei-fei-li/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
       "type": "profile",
       "name": "Fei-Fei Li",
@@ -510,7 +510,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 365108
+        "followers": 365112
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -559,7 +559,7 @@
       "path": "_people/jeff-dean.md",
       "title": "Jeff Dean",
       "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jeff-dean/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jeff-dean/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jeff-dean/",
       "type": "profile",
       "name": "Jeff Dean",
@@ -568,7 +568,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 168422
+        "followers": 168427
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -612,7 +612,7 @@
       "path": "_people/demis-hassabis.md",
       "title": "Demis Hassabis",
       "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/demis-hassabis/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/demis-hassabis/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/demis-hassabis/",
       "type": "profile",
       "name": "Demis Hassabis",
@@ -621,7 +621,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 197255
+        "followers": 197258
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -651,7 +651,7 @@
       "path": "_people/geoffrey-hinton.md",
       "title": "Geoffrey Hinton",
       "excerpt": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/geoffrey-hinton/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/geoffrey-hinton/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/geoffrey-hinton/",
       "type": "profile",
       "name": "Geoffrey Hinton",
@@ -659,7 +659,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 91030
+        "followers": 91029
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -692,7 +692,7 @@
       "path": "_people/collections/godfathers-of-ai-won-2018-turing-award.md",
       "title": "'Godfathers of AI' won 2018 Turing Award",
       "excerpt": "The 2018 Turing Award, known as the “Nobel Prize of computing,” has been given to a trio of researchers who laid the foundations for the current boom in artificial intelligence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/godfathers-of-ai-won-2018-turing-award/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/godfathers-of-ai-won-2018-turing-award/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/godfathers-of-ai-won-2018-turing-award/",
       "type": "collection",
       "name": "'Godfathers of AI' won 2018 Turing Award",
@@ -788,7 +788,7 @@
       "path": "_people/collections/top-ai-professors-in-mit.md",
       "title": "Top AI Professors in MIT",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/top-ai-professors-in-mit/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/top-ai-professors-in-mit/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/top-ai-professors-in-mit/",
       "type": "collection",
       "name": "Top AI Professors in MIT",
@@ -901,7 +901,7 @@
       "path": "_people/ilya-sutskever.md",
       "title": "Ilya Sutskever",
       "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ilya-sutskever/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/ilya-sutskever/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/ilya-sutskever/",
       "type": "profile",
       "name": "Ilya Sutskever",
@@ -909,7 +909,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 58104
+        "followers": 58106
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -942,7 +942,7 @@
       "path": "_people/christopher-d-manning.md",
       "title": "Christopher D Manning",
       "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/christopher-d-manning/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-d-manning/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/christopher-d-manning/",
       "type": "profile",
       "name": "Christopher D Manning",
@@ -952,7 +952,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 70530
+        "followers": 70531
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -997,7 +997,7 @@
       "path": "_people/soumith-chintala.md",
       "title": "Soumith Chintala",
       "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/soumith-chintala/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/soumith-chintala/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/soumith-chintala/",
       "type": "profile",
       "name": "Soumith Chintala",
@@ -1007,7 +1007,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 82898
+        "followers": 82896
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -1038,7 +1038,7 @@
       "path": "_people/kate-crawford.md",
       "title": "Kate Crawford",
       "excerpt": "Co-founder @AINowInstitute, NYU | Principal Researcher MSR | Distinguished Research Professor NYU | Chair of AI and Justice, École Normale Supérieure",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kate-crawford/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kate-crawford/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/kate-crawford/",
       "type": "profile",
       "name": "Kate Crawford",
@@ -1048,7 +1048,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 65024
+        "followers": 65023
       },
       "topics": [
         "AI"
@@ -1068,7 +1068,7 @@
       "path": "_people/joy-buolamwini.md",
       "title": "Joy Buolamwini",
       "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/joy-buolamwini/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/joy-buolamwini/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/joy-buolamwini/",
       "type": "profile",
       "name": "Joy Buolamwini",
@@ -1078,7 +1078,7 @@
       "twitter": {
         "username": "jovialjoy",
         "url": "https://twitter.com/jovialjoy",
-        "followers": 31334
+        "followers": 31332
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/buolamwini/"
@@ -1109,7 +1109,7 @@
       "path": "_people/animashree-anandkumar.md",
       "title": "Animashree Anandkumar",
       "excerpt": "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/animashree-anandkumar/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/animashree-anandkumar/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/animashree-anandkumar/",
       "type": "profile",
       "name": "Animashree Anandkumar",
@@ -1119,7 +1119,7 @@
       "twitter": {
         "username": "animaanandkumar",
         "url": "https://twitter.com/animaanandkumar",
-        "followers": 37010
+        "followers": 37013
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/anima-anandkumar/"
@@ -1151,7 +1151,7 @@
       "path": "_people/nando-de-freitas.md",
       "title": "Nando de Freitas",
       "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nando-de-freitas/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/nando-de-freitas/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/nando-de-freitas/",
       "type": "profile",
       "name": "Nando de Freitas",
@@ -1161,7 +1161,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 81053
+        "followers": 81056
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -1191,7 +1191,7 @@
       "path": "_people/laurence-moroney.md",
       "title": "Laurence Moroney",
       "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/laurence-moroney/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/laurence-moroney/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/laurence-moroney/",
       "type": "profile",
       "name": "Laurence Moroney",
@@ -1227,7 +1227,7 @@
       "path": "_people/kyle-cranmer.md",
       "title": "Kyle Cranmer",
       "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kyle-cranmer/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kyle-cranmer/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/kyle-cranmer/",
       "type": "profile",
       "name": "Kyle Cranmer",
@@ -1237,7 +1237,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 9316
+        "followers": 9315
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -1268,7 +1268,7 @@
       "path": "_people/chelsea-finn.md",
       "title": "Chelsea Finn",
       "excerpt": "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chelsea-finn/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/chelsea-finn/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/chelsea-finn/",
       "type": "profile",
       "name": "Chelsea Finn",
@@ -1307,7 +1307,7 @@
       "path": "_people/rana-el-kaliouby.md",
       "title": "Rana el Kaliouby",
       "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rana-el-kaliouby/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rana-el-kaliouby/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/rana-el-kaliouby/",
       "type": "profile",
       "name": "Rana el Kaliouby",
@@ -1343,7 +1343,7 @@
       "path": "_people/oren-etzioni.md",
       "title": "Oren Etzioni",
       "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/oren-etzioni/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/oren-etzioni/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/oren-etzioni/",
       "type": "profile",
       "name": "Oren Etzioni",
@@ -1353,7 +1353,7 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 24959
+        "followers": 24960
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
@@ -1386,7 +1386,7 @@
       "path": "_people/bernhard-scholkopf.md",
       "title": "Bernhard Schölkopf",
       "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bernhard-scholkopf/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/bernhard-scholkopf/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
       "type": "profile",
       "name": "Bernhard Schölkopf",
@@ -1394,7 +1394,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 5485
+        "followers": 5487
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -1425,7 +1425,7 @@
       "path": "_people/rosalind-picard.md",
       "title": "Rosalind Picard",
       "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rosalind-picard/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rosalind-picard/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/rosalind-picard/",
       "type": "profile",
       "name": "Rosalind Picard",
@@ -1467,7 +1467,7 @@
       "path": "_people/sougwen-chung.md",
       "title": "Sougwen Chung",
       "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sougwen-chung/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/sougwen-chung/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/sougwen-chung/",
       "type": "profile",
       "name": "Sougwen Chung",
@@ -1504,7 +1504,7 @@
       "path": "_people/collections/top-ai-artists.md",
       "title": "Top AI Artists",
       "excerpt": "Top artists exploring the impact of AI on art, culture and society.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/top-ai-artists/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/top-ai-artists/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/top-ai-artists/",
       "type": "collection",
       "name": "Top AI Artists",

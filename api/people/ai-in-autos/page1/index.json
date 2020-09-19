@@ -7,7 +7,7 @@
       "path": "_people/elon-musk.md",
       "title": "Elon Musk",
       "excerpt": "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/elon-musk/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/elon-musk/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/elon-musk/",
       "type": "profile",
       "name": "Elon Musk",
@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 38810940
+        "followers": 38811851
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -40,7 +40,7 @@
       "path": "_people/lex-fridman.md",
       "title": "Lex Fridman",
       "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lex-fridman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lex-fridman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/lex-fridman/",
       "type": "profile",
       "name": "Lex Fridman",
@@ -50,7 +50,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 315048
+        "followers": 315122
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -89,7 +89,7 @@
       "path": "_people/john-krafcik.md",
       "title": "John Krafcik",
       "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/john-krafcik/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/john-krafcik/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/john-krafcik/",
       "type": "profile",
       "name": "John Krafcik",
@@ -99,7 +99,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 14191
+        "followers": 14192
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -126,7 +126,7 @@
       "path": "_people/jean-liu.md",
       "title": "Jean Liu",
       "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jean-liu/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jean-liu/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jean-liu/",
       "type": "profile",
       "name": "Jean Liu",
@@ -163,7 +163,7 @@
       "path": "_people/alexandr-wang.md",
       "title": "Alexandr Wang",
       "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alexandr-wang/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alexandr-wang/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
       "type": "profile",
       "name": "Alexandr Wang",
@@ -204,7 +204,7 @@
       "path": "_people/james-peng.md",
       "title": "James Peng",
       "excerpt": "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/james-peng/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/james-peng/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/james-peng/",
       "type": "profile",
       "name": "James Peng",
@@ -237,7 +237,7 @@
       "path": "_people/karl-iagnemma.md",
       "title": "Karl Iagnemma",
       "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/karl-iagnemma/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/karl-iagnemma/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/karl-iagnemma/",
       "type": "profile",
       "name": "Karl Iagnemma",

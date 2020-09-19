@@ -7,7 +7,7 @@
       "path": "_people/yann-lecun.md",
       "title": "Yann LeCun",
       "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yann-lecun/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yann-lecun/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/yann-lecun/",
       "type": "profile",
       "name": "Yann LeCun",
@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 221452
+        "followers": 221458
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -52,7 +52,7 @@
       "path": "_people/sougwen-chung.md",
       "title": "Sougwen Chung",
       "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sougwen-chung/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/sougwen-chung/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/sougwen-chung/",
       "type": "profile",
       "name": "Sougwen Chung",
@@ -89,7 +89,7 @@
       "path": "_people/collections/female-pioneers-in-robotics-2020.md",
       "title": "Female Pioneers in Robotics – 2020",
       "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/female-pioneers-in-robotics-2020/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/female-pioneers-in-robotics-2020/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/collections/female-pioneers-in-robotics-2020/",
       "type": "collection",
       "name": "Female Pioneers in Robotics – 2020",
@@ -203,7 +203,7 @@
       "path": "_people/alice-agogino.md",
       "title": "Alice M. Agogino",
       "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alice-agogino/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alice-agogino/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alice-agogino/",
       "type": "profile",
       "name": "Alice M. Agogino",
@@ -234,7 +234,7 @@
       "path": "_people/carol-e-reiley.md",
       "title": "Carol E. Reiley",
       "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/carol-e-reiley/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/carol-e-reiley/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/carol-e-reiley/",
       "type": "profile",
       "name": "Carol E. Reiley",
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11519
+        "followers": 11517
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -268,7 +268,7 @@
       "path": "_people/madeline-gannon.md",
       "title": "Madeline Gannon",
       "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/madeline-gannon/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/madeline-gannon/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/madeline-gannon/",
       "type": "profile",
       "name": "Madeline Gannon",
@@ -299,7 +299,7 @@
       "path": "_people/rodney-brooks.md",
       "title": "Rodney Brooks",
       "excerpt": "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rodney-brooks/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/rodney-brooks/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/rodney-brooks/",
       "type": "profile",
       "name": "Rodney Brooks",
@@ -309,7 +309,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 21591
+        "followers": 21590
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -345,7 +345,7 @@
       "path": "_people/sebastian-thrun.md",
       "title": "Sebastian Thrun",
       "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sebastian-thrun/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/sebastian-thrun/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/sebastian-thrun/",
       "type": "profile",
       "name": "Sebastian Thrun",

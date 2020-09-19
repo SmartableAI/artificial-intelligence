@@ -7,7 +7,7 @@
       "path": "_people/yann-lecun.md",
       "title": "Yann LeCun",
       "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yann-lecun/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yann-lecun/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/yann-lecun/",
       "type": "profile",
       "name": "Yann LeCun",
@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 221452
+        "followers": 221458
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -52,7 +52,7 @@
       "path": "_people/fei-fei-li.md",
       "title": "Fei-Fei Li",
       "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fei-fei-li/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
       "type": "profile",
       "name": "Fei-Fei Li",
@@ -62,7 +62,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 365108
+        "followers": 365112
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -111,7 +111,7 @@
       "path": "_people/alexandr-wang.md",
       "title": "Alexandr Wang",
       "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alexandr-wang/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alexandr-wang/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/alexandr-wang/",
       "type": "profile",
       "name": "Alexandr Wang",
@@ -152,7 +152,7 @@
       "path": "_people/andrew-zisserman.md",
       "title": "Andrew Zisserman",
       "excerpt": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/andrew-zisserman/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-zisserman/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/andrew-zisserman/",
       "type": "profile",
       "name": "Andrew Zisserman",
@@ -188,7 +188,7 @@
       "path": "_people/anil-k-jain.md",
       "title": "Anil K. Jain",
       "excerpt": "Michigan State University",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anil-k-jain/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/anil-k-jain/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/anil-k-jain/",
       "type": "profile",
       "name": "Anil K. Jain",
@@ -222,7 +222,7 @@
       "path": "_people/jitendra-malik.md",
       "title": "Jitendra Malik",
       "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/jitendra-malik/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jitendra-malik/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/jitendra-malik/",
       "type": "profile",
       "name": "Jitendra Malik",
@@ -256,7 +256,7 @@
       "path": "_people/luc-van-gool.md",
       "title": "Luc Van Gool",
       "excerpt": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/luc-van-gool/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/luc-van-gool/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/luc-van-gool/",
       "type": "profile",
       "name": "Luc Van Gool",
@@ -293,7 +293,7 @@
       "path": "_people/harry-shum.md",
       "title": "Harry Shum",
       "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/harry-shum/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/harry-shum/index.json",
       "webUrl": "https://smartable.ai/apps/ai/people/harry-shum/",
       "type": "profile",
       "name": "Harry Shum",
