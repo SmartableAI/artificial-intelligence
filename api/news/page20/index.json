@@ -2,6 +2,48 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-02-amazon-.md",
+      "title": "Amazon запретил полиции использовать технологию распознавания лиц",
+      "excerpt": "Технологический гигант Amazon запретил полиции использовать программы, которые помогают распознать лицо преступника и быстро найти его \"профиль\" в базе данных, как минимум до конца 2020 года. Это прои",
+      "sourceUrl": null,
+      "webUrl": "https://www.pravda.ru/science/1505941-Amazon/",
+      "originalUrl": "https://www.pravda.ru/science/1505941-Amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.pravda.ru/image/preview/article/9/4/1/1505941_five.jpeg",
+          "width": 585,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pravda.ru/amp/science/1505941-Amazon/",
+      "cdnAmpWebUrl": "https://www-pravda-ru.cdn.ampproject.org/c/s/www.pravda.ru/amp/science/1505941-Amazon/",
+      "publishedDateTime": "2020-09-02T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pravda",
+        "domain": "pravda.ru",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-how-to-make-better-hiring-decisions-with-ai-based-talent-assessments.md",
       "title": "How To Make Better Hiring Decisions With AI-Based Talent Assessments",
       "excerpt": "As a talent acquisition manager, you may have to deal with plenty of data about your prospective hires. Remember that what was once done manually can now be processed in a fraction of the time with AI-powered talent assessments.",
@@ -1094,39 +1136,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-rtx-30-ampere-gpus.md",
-      "title": "Nvidia announces RTX 30 Ampere GPUs",
-      "excerpt": "Nvidia (NVDA +3.0%) officially unveils its GeForce RTX 30 Series GPUs based on the Ampere architecture.The GeForce RTX 3090, 3080 and 3070 GPUs also utilize the second-gen Nvidia RTX PC gaming platform for real-time ray tracing and AI gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "originalUrl": "https://seekingalpha.com/news/3610560-nvidia-announces-rtx-30-ampere-gpus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

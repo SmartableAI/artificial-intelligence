@@ -43,22 +43,6 @@ related:
         width: 968
         height: 630
         isCached: true
-  - title: "The coronavirus pandemic is replacing more jobless workers with robots, new study finds"
-    excerpt: "Workers whose jobs can be done by machines suffered more layoffs than those with jobs that aren’t as easily automated, the Federal Reserve Bank of Philadelphia said in a new report."
-    publishedDateTime: 2020-09-14T20:46:00Z
-    webUrl: "https://www.inquirer.com/business/coronavirus-automation-job-loss-federal-reserve-bank-philadelphia-20200914.html"
-    ampWebUrl: "https://www.inquirer.com/business/coronavirus-automation-job-loss-federal-reserve-bank-philadelphia-20200914.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/coronavirus-automation-job-loss-federal-reserve-bank-philadelphia-20200914.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 51
-    images:
-      - url: "https://www.inquirer.com/resizer/lzTf5nvFAeafvm-5XiXUJWYvPCM=/1200x0/center/middle/www.inquirer.com/resizer/MU_D3pLCckKqtNaZYI2wOW66P0w=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQRSIO6R3BB4FEGSBCLHY33RHM.jpg"
-        width: 1200
-        height: 787
-        isCached: true
   - title: "Coronavirus Accelerates Robot Replacements in Workplaces"
     excerpt: "The Federal Reserve found that workers with jobs that can be done by machines are experiencing layoffs at a greater rate with the pandemic. Workers of color are especially hard-hit by this trend."
     publishedDateTime: 2020-09-15T21:40:00Z

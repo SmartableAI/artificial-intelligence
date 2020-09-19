@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Self-driving taxi concept wins ‘New Designers’ Ford award"
+    excerpt: "The “muvone” concept, developed by Marius Lochner, has won the Ford “New Norm Mobility Award”. This challenged design graduates to develop mobility concepts, ideas and solutions that address the new scenarios presented by COVID-19."
+    publishedDateTime: 2020-09-18T22:11:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/self-driving-taxi-concept-wins-new-designers-ford-award/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 4
 
 secured: "K5Akv92XIBm5USUr/xMrYyFHDPdj8/pcJVAMKypWQHeOFu6EKDp4so2vxx3k9hRFuAAVSmWUQLNHJBtR4mM7z/ynNIcmv3dkZxPtEDEivlM3SNt9oaIrrlGvLrqPE6Tb3dIPPa/Ihcd1I84MYlsP8BJ8bqpAFCU70ELMcXCpdUdTYWpFSGak1q+cLpV/Pgbfwdw/mwguPTGAmKkxw3qlxeyHFLBVJHRrTDFUhlCdZQmxl/caU6s6f0hxTVDJO82TikgjYZCzx0eX6tztFUejaRpAwoTPNM1lyphB/FTKTanax9WAktYDHAu9Hee/ewUy/lnPBlCK3UcKQTxn8tEtXkD7xmnf1S2Z8j0XiKyLlyg=;fDM7b7StsIrWUmENTxIQcQ=="
 ---

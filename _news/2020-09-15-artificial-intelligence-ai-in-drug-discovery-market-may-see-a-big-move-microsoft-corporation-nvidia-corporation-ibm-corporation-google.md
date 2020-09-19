@@ -32,6 +32,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai Governance Market Is Thriving With Rising Latest Trends By 2026 Ibm Corporation, Google, Microsoft, Facebook, Sap Se, Salesforce.Com, Inc"
+    excerpt: "DBMR has added a new report titled Global Ai Governance Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis."
+    publishedDateTime: 2020-09-19T12:37:00Z
+    webUrl: "https://galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 4
 
 secured: "Xvkn+j7nUhE9zeFSWTkxpmW0+/9uSkozaeYAWlARaWXXS5Dso3MQP8od2eZ5dbvfHGxcO2MvsO9bT/1HDt4iCundUS1oGEN1aXSwzTEQZoJYbJg/2TCYtImXa+P1ngOZTmKlCxeRYP1RsSMEbBK/x6WGYRx8fHbGUSgB6Q1QziVYG4/4wX20q+4n5dN5r1GFlcSW55A+oIPwJxTqo0pKgICXdl7wAH+PgoJMQyDU5XtkiUMiyUJbQEbBzIJGbvikaI1TKJWDtg6XfLv/2hFDRmF0MoTmJgQsUiEj2lsIpkChEDcXa9I/6cQjwF+0UWRDXQaNpBI6ierjVJDqAZP/Ay+BJRNiYUABRwJoX8Kz4ww=;AkM5rfk7JjirhwkVtUpyOA=="
 ---

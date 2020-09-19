@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/content/1201157.shtml"
 webUrl: "https://www.globaltimes.cn/content/1201157.shtml"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -26,47 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Portland becomes first city to ban companies from using facial recognition software in public"
-    excerpt: "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag."
-    publishedDateTime: 2020-09-14T19:17:00Z
-    webUrl: "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/"
+  - title: "Beijing unveils crosswalk with biometric facial recognition to catch jaywalkers"
+    excerpt: "The City of Beijing has installed a biometric smart crosswalk at an intersection in Zhongguancun, Haidian district, that can send audio and light alerts to pedestrians, ecns reports. Xu Hui, an"
+    publishedDateTime: 2020-09-17T19:06:00Z
+    webUrl: "https://www.biometricupdate.com/202009/beijing-unveils-crosswalk-with-biometric-facial-recognition-to-catch-jaywalkers"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 78
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
-  - title: "New Zealand police approached by company linked to Chinese military to run its facial recognition system"
-    excerpt: "A company the US says is owned or controlled by China's military made a bid to run the New Zealand police's new facial recognition and image handling system. Inspur Group is on a list of 20 Chinese companies the Pentagon named as military-controlled in late June."
-    publishedDateTime: 2020-09-15T21:43:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2020/09/new-zealand-police-approached-by-company-linked-to-chinese-military-to-run-its-facial-recognition-system.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 42
-    images:
-      - url: "https://www.newshub.co.nz/home/politics/2020/09/families-of-john-key-jacinda-ardern-tracked-by-data-company-linked-to-chinese-military-report/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1600139283842/GETTY-john-key-jacinda-ardern-1120jpg.jpg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
-    excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
-    publishedDateTime: 2020-09-18T22:45:00Z
-    webUrl: "https://www.thetelegram.com/business/reuters/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition-495091/"
-    type: article
-    provider:
-      name: The Telegram
-      domain: thetelegram.com
-    quality: 16
 
 secured: "9C4beZ3FtnYzE99uIgGIayLDhw2vifv19tdzDBsV6iGcJuYHXLmD97q6qKZ1/DOn6T882DFhfhNNCK6kjIx2ymXoH7NiaiMppstqOjejeiQUVmeFF1gdE/SylJ/leZ/sv2A/k7x+38p4bjMPEIPY5DNkbvS5htlJuCGfIhL+hGJ62bkaGx4IkUuWBN5zdXja6ckA8FU0fdVmJWHWT5MXiq4gxocSEPm0UTl9nqCA2Ofeg0Aedj8U5It/cyTkmQkvvU2XSttBnxHGlukSQFxekihjPoCElV9Okai3PzrYuT1jsBByEy5jiPH3l5TH6g6mawjN+DagbtxuOF5x5CDsGYIGSM8oMi8zITUDAsPZVE8=;lG27SfOF1HbK4Gctq/vrXQ=="
 ---

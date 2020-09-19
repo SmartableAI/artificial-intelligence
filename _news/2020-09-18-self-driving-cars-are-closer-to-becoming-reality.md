@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Self-driving cars are closer to becoming reality"
-excerpt: "Click here for updates on this story NASHVILLE (WSMV) — Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras,"
-publishedDateTime: 2020-09-17T18:37:00Z
-originalUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
-webUrl: "https://localnews8.com/news/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
+publishedDateTime: 2020-09-18T01:37:00Z
+originalUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2019/11/US-World-logo-new.jpg"
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
     width: 1024
     height: 576
     isCached: true
@@ -68,6 +68,6 @@ related:
         height: 331
         isCached: true
 
-secured: "lIpi/x9ZMDjhi54Tpn2f3xSqdxjQ5WdmK1OIMpB9PXpZkVGjeLbWfj9teqw9gmLituvMcLglBs/DOodOisIrvtw4XhSD/YTSvC995L8RuTQlVAz9MXbGBDxUjbez8MvDgOeu1edzTQ1ghNNhah6uXq9IJbw/rDAX7cYaEmr8Ttu7+7X3n2B9JzKX1v2bFFSAW9MQXLRhgD6M9gDb4JmDDG1O6UjZx+quBmK43krWHuWX/ZCMV/b3aIypo8J/JeHMXTdbT1lCAZ1Ixhhfb18KUHqxfcaJUawQYES9yBHuHeZEh5nP6mAyHbiN1PAV5uEqgszEj9AX8q6TEplAJNp/ZSSIubcvOG2lryegXTFJXl8=;jUXJpYmA4/T6s6JkDDUMqA=="
+secured: "38K/6VxtBPhzLHeQ3qNqevpVRivcVUnZJj/9uM8lWkqyDnFoGxLKPR6fg3tuqzLi8gwK8FQyyizcgYBrybGFJMgigSnfBqgZfkaRhewk3V0V9wkUQI/PGbrAvCeK7CA2Qhhc3C6zP0a1fV5d8JCangAN1Wi8Mr1I8YaDT/oBbpDyZvXeRmXCFX/1BmclruQsxw6JYNVcSrvTzC0KK17XM1oCkcjLIJM3CVc4qFdPXiDhPPF/hX3PLaFjIHtSZdEiAmpnYTRaTAwn8t+V5zlafGosZsjTNOk72CbtHYQ34lnv17KUYGScrOJOcbjvka37QsqVTGHEImkjPRESHajLqTihVcM7jJidrwea/JkrqIc=;jyKFLRACTvx/gnG70HVMGg=="
 ---
 
