@@ -2,6 +2,98 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is a hot topic these days. Many companies rely on machine learning and deep data analysis to take their business operations to the next level. Other companies want to supply the needed tools to make a reality out of those AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F590693%2Fdata-security.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-09-05T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-on-public-roads-in-new-mexico.md",
+      "title": "Daimler Trucks tests self-driving vehicles on public roads in New Mexico",
+      "excerpt": "SANTA FE — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along major long ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
+      "originalUrl": "https://www.lcsun-news.com/story/news/local/new-mexico/2020/09/03/daimler-trucks-torc-robotics-test-self-driving-vehicles-new-mexico/5709369002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/03/PNM2/5219012c-f7d7-4ece-b613-65135b314c79-AP20121435862361.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.lcsun-news.com/amp/5709369002",
+      "cdnAmpWebUrl": "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5709369002",
+      "publishedDateTime": "2020-09-04T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Cruces Sun-News",
+        "domain": "lcsun-news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-lean-sensing-a-critical-enabler-for-autonomous-vehicles.md",
       "title": "Lean Sensing - A Critical Enabler For Autonomous Vehicles",
       "excerpt": "The Autonomous Vehicle revolution has driven a sensor data overload, creating barriers for practical deployment. Lean sensing needs to happen if AVs are to become a reality.",
@@ -1033,99 +1125,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
-      "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
-      "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
-      "publishedDateTime": "2020-09-04T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news.md",
-      "title": "Microsoft Launches ‘deepfake’ Detector to Spot AI Altered Fake News",
-      "excerpt": "The tech giant Microsoft has launched new software that can assist in spotting 'deepfake' content that are altered by AI to look authentic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
-      "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2020/09/Microsoft-logo_rgb_c-gray-1.png",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
-      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
-      "publishedDateTime": "2020-09-04T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

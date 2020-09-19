@@ -1,12 +1,12 @@
 ---
 category: news
 title: "People’s notions about AI are terrible, an MIT study asks whether they can be helped"
-excerpt: "Given that people can be manipulated, what is the right way to start to dis-assemble some of those notions? On the one hand, AI is a very vexed term. \"AI is such a diffuse matter,\" said Epstein. \"I study artificial intelligence, and I feel like I don't ..."
-publishedDateTime: 2020-09-19T13:58:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+excerpt: "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,"
+publishedDateTime: 2020-09-18T23:02:00Z
+originalUrl: "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+webUrl: "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
 type: article
 quality: 80
 heat: 80
@@ -29,6 +29,6 @@ images:
     height: 1714
     isCached: true
 
-secured: "+RN8mA7Pyqjz1/8Mvxzo9Z57LsXA/dun0R2Mx7IXm2IkJu7zsjIAedddaNwxzgtO9GIiB0RptKedN3uI9cwNVpQZbSs+PDa/BOL8RjK3scNdV/fG/X4fBJo8I6HZhS7f2R/HGdohuwNQng/lB3oQfEpxXuH46SEjKXFAyL7zlSFxcmYpGZQHta7bi85BDj+3RKfRuiFahZzt9X2xKJAFMQycx5MQ0dVr5RmwqWDHEdEUXFUiT6bIFNIdnFHtlT1isFGtx8a7n+nVnQyrOdfWsnJPBs7NZZe+KElSAWTYyF0CmZaiYgXid+muW5mmbp44W5vt9YXfbcpQVWWjDCvf0d8DYUfTOO8X7otPI1h5hrk=;1T+P9i48bmsguL/6EN3Z+w=="
+secured: "xxRkk9KrOhovP6lCPHJ5hM1CB886Hue9efr8e9fbDUOrJPN/D+xhK4w2b2bc9HVSBHWPDsWieXRmYAEU6EuGAcKOJ7AVS+PplY7Y7FLf2Sww4QTMmaJNb2FD0az1NXg1i5qBHA+2t4XVGPiSZ/n7jzb0JYXpBEJddPhEKUzn27sgmTz6iha8DO9Z2Ah6vM151xWBXWH96vMAE4WksLNJPtYIY0I+X/bG76OORsoF8GbuaJyOTBKf+uevvQD/kUL9mViptOIlZS7+mvwQPXvdKfybHOggeknPnmaXgoIVLndWVrFfhVMqyWW582sq3eOm9UbASBi3kTtgjfMIrYoyXV3EvKKLRB9Y1TxLOXMAgG0=;nVb/1abT2FflxQgwLJt6kg=="
 ---
 

@@ -128,6 +128,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
+      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
+      "excerpt": "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
+          "width": 4324,
+          "height": 3684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "publishedDateTime": "2020-09-18T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
       "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
       "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
@@ -1308,48 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-us-air-force-tests-unstoppable-robot-dogs-to-defend-bases.md",
-      "title": "US Air Force tests ‘unstoppable’ robot dogs to defend bases",
-      "excerpt": "The US Air Force has drafted creepy, faceless robot dogs to prepare for combat. The futuristic four-legged friends were deployed to Nellis Air Force Base in Nevada last week as part of a security",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
-      "originalUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/air-force-34.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/09/us-air-force-tests-unstoppable-robot-dogs-to-defend-bases/amp/",
-      "publishedDateTime": "2020-09-09T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

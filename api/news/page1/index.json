@@ -2,56 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
-      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
-      "excerpt": "Given that people can be manipulated, what is the right way to start to dis-assemble some of those notions? On the one hand, AI is a very vexed term. \"AI is such a diffuse matter,\" said Epstein. \"I study artificial intelligence, and I feel like I don't ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
-          "width": 1516,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
-      "publishedDateTime": "2020-09-19T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
       "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
       "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
@@ -219,6 +169,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
+      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
+      "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "originalUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
+          "width": 1516,
+          "height": 1714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "publishedDateTime": "2020-09-18T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-robot-stocking-shelves-in-japanese-convenience-store-lets-workers-maintain-social-distancing.md",
       "title": "Robot stocking shelves in Japanese convenience store lets workers maintain social distancing",
       "excerpt": "Convenience stores in Japan are employee seven-foot tall robots to stock shelves. Human workers control the technology using a virtual reality system to help maintain social distancing.",
@@ -308,6 +308,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
+      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
+      "excerpt": "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
+          "width": 4324,
+          "height": 3684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "publishedDateTime": "2020-09-18T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1111,57 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-engineering-students-to-design-the-perfect-self-driving-indy-race-car.md",
-      "title": "Engineering students to design the perfect self-driving Indy race car",
-      "excerpt": "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
-      "originalUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/16/d3af512b-0e0c-424f-9b1a-034aa89bd41d/thumbnail/370x278/46c4cff050aba7218eac14a0caae0916/20200916-beth-appleone.jpg",
-          "width": 370,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

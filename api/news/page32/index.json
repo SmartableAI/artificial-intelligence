@@ -2,6 +2,106 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-08-25-this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset.md",
+      "title": "This AI just found 50 new planets in a huge NASA dataset",
+      "excerpt": "Scientists from Warwick University made the discovery by analyzing data collected by space telescopes, such as NASA‘s Kepler and TESS. These telescopes capture signs of planets passing in front ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T134309.041-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/this-ai-just-found-50-new-planets-in-a-huge-nasa-dataset/amp/",
+      "publishedDateTime": "2020-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-socure-raises-30-million-to-combat-payments-fraud-with-ai.md",
+      "title": "Socure raises $30 million to combat payments fraud with AI",
+      "excerpt": "Socure, a startup developing an AI-driven platform to combat payment fraud, has raised $35 million in an equity financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/identity.shutterstock_158989667-1-e1597945235962.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/25/socure-raises-30-million-to-combat-payments-fraud-with-ai/amp/",
+      "publishedDateTime": "2020-08-25T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-crunchbase-unveils-salesforce-integration-for-pro-users.md",
       "title": "Crunchbase unveils Salesforce integration for Pro users",
       "excerpt": "The integration allows Crunchbase Pro users to avoid spending time manually exporting prospects from Crunchbase into their customer relationship management applications. The integration supports the ability to enrich all new and existing Salesforce records with Crunchbase’s financial data,",
@@ -1041,89 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-mit-is-developing-an-ai-cancer-diagnosis-system.md",
-      "title": "MIT Is Developing an AI Cancer Diagnosis System",
-      "excerpt": "Diagnosing cancer is a depressingly common activity in hospitals—but spotting subtle variations in tumor types can require sifting through hundreds of previous cases. At MIT, though, researchers are developing a system that uses Artificial Intelligence to speed up that process.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mijxpgk5vtiwiubd04dj.jpg",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-is-developing-an-ai-cancer-diagnosis-system-1699916919/amp",
-      "publishedDateTime": "2020-08-24T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
-      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
-      "excerpt": "SAN JOSE, Calif., Aug. 24, 2020 /PRNewswire/ -- StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision's deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17218459",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17218459",
-      "publishedDateTime": "2020-08-24T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

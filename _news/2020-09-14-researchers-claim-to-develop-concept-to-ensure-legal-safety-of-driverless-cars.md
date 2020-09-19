@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars"
-excerpt: "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ..."
-publishedDateTime: 2020-09-14T15:06:00Z
-originalUrl: "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/"
-webUrl: "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/"
+excerpt: "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ..."
+publishedDateTime: 2020-09-14T15:01:00Z
+originalUrl: "https://www.lancashiretelegraph.co.uk/news/national/18719841.researchers-claim-develop-concept-ensure-legal-safety-driverless-cars/"
+webUrl: "https://www.lancashiretelegraph.co.uk/news/national/18719841.researchers-claim-develop-concept-ensure-legal-safety-driverless-cars/"
 type: article
 
 provider:
-  name: Express & Star
-  domain: expressandstar.com
+  name: Lancashire Telegraph
+  domain: lancashiretelegraph.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.lancashiretelegraph.co.uk/resources/images/11806393/"
+    width: 2400
+    height: 1600
     isCached: true
 
-secured: "nd7tKxug/lTwQiYqcgyBIzJvwLUPAtRAF/QtBLL3NyQjEOqg7SIoUQERL9FTj+hO7r1Rz+wBqrObl0d2bb/0gHba+7NTelTUI91nDj87azO6JKiQm8DVoehcbT/NsXhMAGeqMVFxdwfot8u2HMzXrFdFHsIf/SbyeZyj055ODXkWwEyuCv3riDzuU6iTIcbfTi9wrqqlfu4stBZd9WJAqVKhLeij99UN+LQxHgtzvhmamhZik1upOtaGPoEUPRYKSAh1Y3UkS4xCzAMCSgV/ZKm6OsTsiDSG4zewKa7vfmNKbRdzfGVqqLOAHp/uw4UyYfmT+onQD/UKjko76TtB7EO2VVFS5OGgnKJwGmXISw8=;wyD32Ouel5qcj4hFBMC06Q=="
+secured: "LcC4d0IjxgY17rble3eY44CZlg09nWrr08hJFzjV6J+OQvv17IQ0KLibtVFmcJcYnD3y35+T66K4+PFJ1jaZ0HmHe9OMk3Hafrsn0LbJut/ShDjwCdtUxMY+u4DHYXM37KjJN7jAhxqnWWIllobj8gxXw57eAHuzmwlIG/cJpsjOOPgN3S/NlD7RukjIh+BczqExGiWoCFG9cxDhamKh8JKsCklSFPnzgw41GKVxIybz74nNw/KMs5Zj2e8SAla+Jk03gtzqnxgXiT9lIO1rwF52qVGdUNXED9hY75n0SxGIc8y1p+L8Nf046daNfVty8aUNhZvdJB10GP58m4RuhLCbjVvTWi31eBh1urwB5EI=;8Y7Dy3I1cKEJ03vCTmlzKQ=="
 ---
 
