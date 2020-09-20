@@ -39,7 +39,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 30
+    quality: 47
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence-300x250.jpg"
         width: 300

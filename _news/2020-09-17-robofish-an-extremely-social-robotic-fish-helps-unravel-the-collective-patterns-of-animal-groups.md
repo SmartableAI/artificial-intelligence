@@ -43,6 +43,15 @@ related:
         width: 1500
         height: 900
         isCached: true
+  - title: "Extremely social robotic fish helps unravel collective patterns of animal groups"
+    excerpt: "Using state-of-the-art robotics, a research team shows that animals' speed is fundamental for collective behavioral patterns, and that ultimately it is the faster individuals that have the strongest influence on group-level behavior."
+    publishedDateTime: 2020-09-17T13:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/09/200915194252.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
 
 secured: "m5SV8i3/7r6RH8x3uQtYSXwhQ+w4KbfBUCiiHHyBhAitlybB9CX7OXR1SRIEyu+BRICslwH2eu9RB/bFW/NKNSNofKgkGqM05fasQAgDfgyBWXW+flLZgG3xut0579rGFgziIvFe9l5U0ovk7fxuexrAriF5WcfwgrDNmOUK63zoZ0I4zUuwaQbIeb5prudvyLdOPr9Hy5PTJ0f4XypIxIN7BVJ0zn1lWLn21nPHlEUbG/VB+VyFxvLiEAphtS6osVR+YWBBaWNfAcHlvXiJpfNlOTBVRQ3MWfY6+h2QQLNgl8Qak7f5XxRqPSspKnij+8CQUsiPKCD74IHEf7TmuUwH3C/n4Ig/CyCnUKtnxMdCuCqH/jVKiBWdYj+iQWqVa7RQSUeLe2zENRAZVNj+/yl+yDs+PNpbsP/KVmNsMn21usncH5SMwv6Tmz2peOFBBtsiX2/Wyc2OUIedFy5AgUnEHkv2preGNLdRoMPISTc5VHAHQyV0MhbWGMwScLY4pSQ4GXGsX2Q4OeLp7c7psQ==;9rnRorxc6c5nPHZwFuzH4w=="
 ---

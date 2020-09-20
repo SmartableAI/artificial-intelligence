@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market : Regional Segment Analysis & Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 15, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-09-15T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-regional-segment-analysis-forecast-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market 2020 Global Analysis, Opportunities and Forecast to 2026"
     excerpt: "Wiseguyreports.Com Publish New Market Research Report On-\"Artificial Intelligence in Medicine Market 2020 Global"
     publishedDateTime: 2020-09-19T04:40:00Z

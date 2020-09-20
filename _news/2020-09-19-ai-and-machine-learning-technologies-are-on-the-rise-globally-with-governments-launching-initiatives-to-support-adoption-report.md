@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning
 ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
 type: article
-quality: 30
-heat: 30
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence-300x250.jpg"
