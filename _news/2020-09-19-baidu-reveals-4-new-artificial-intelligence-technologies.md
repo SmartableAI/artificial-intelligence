@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-ar
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
 type: article
 quality: 102
-heat: 123
+heat: 122
 published: true
 
 provider:

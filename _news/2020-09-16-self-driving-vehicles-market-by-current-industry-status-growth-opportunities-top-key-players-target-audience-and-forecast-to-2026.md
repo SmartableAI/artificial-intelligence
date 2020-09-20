@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market Demand, Growth, Trend, Opportunity and Forecast to 2027"
-    excerpt: "The swift surge in the digital data industry is one of the major aspects that is likely to contribute notably towards"
-    publishedDateTime: 2020-09-15T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demand-growth-trend-opportunity-and-forecast-to-2027-2020-09-15?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3z0Uptw74HbUweYEHV4psVHjY7obZJNYoYK4ffKNccV32/c4Zn2S33rg7dombXvC2GXjAE4OkWvLZuYYAueFHyFnHyi6Fn0SLm06Gd+aHZsr+OcdI6krNGpmelgdHVlpWkTpDT6zwY+IDkTmGyEIdhy4gMTopVPKNaz1zhfiA/S1BaTH3wci/uMn6NNYURPFUpZ9cfbqaXZpQAfPtaFqZKj4ZkGEjkw+wnifoReMP75uiv4OXCB4t3ghbFTjuoaG7zLxsfre2esGd55DIW7qa2m4COpBgQPO3mcTnDi1MIl9IYjpIpE8ZXn60wxtECwi3bDP17PDVjEYNjwuQm0ZU653+tIsznoo/jQljpp8icY=;JCW4Hdz25+TGV6Z/F/f1+Q=="
 ---

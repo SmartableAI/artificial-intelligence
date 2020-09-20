@@ -31,8 +31,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
-    <lastmod>2020-09-18T16:02:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
+    <lastmod>2020-09-18T16:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -49,7 +49,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
     <lastmod>2020-09-18T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -91,7 +91,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
+    <loc>https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
     <lastmod>2020-09-18T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -613,6 +613,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/</loc>
+    <lastmod>2020-09-14T13:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/</loc>
     <lastmod>2020-09-14T13:44:02-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,8 +685,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
-    <lastmod>2020-09-14T08:06:00-07:00</lastmod>
+    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
+    <lastmod>2020-09-14T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2127,6 +2133,12 @@
   <url>
     <loc>https://www.fool.com/investing/2020/09/05/3-top-artificial-intelligence-stocks-to-buy-right/</loc>
     <lastmod>2020-09-05T02:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://menafn.com/1100753992/Natural-Language-Processing-NLP-Market-2020-Size-Share-Top-Manufacturers-Segmentation-Future-Plans-Competitive-Landscape-and-Forecast-to-2025</loc>
+    <lastmod>2020-09-04T20:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
