@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/</loc>
+    <lastmod>2020-09-20T14:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/</loc>
     <lastmod>2020-09-20T09:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -151,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/</loc>
+    <lastmod>2020-09-18T05:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/</loc>
     <lastmod>2020-09-18T04:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -171,6 +183,12 @@
   <url>
     <loc>https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom</loc>
     <lastmod>2020-09-18T00:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/</loc>
+    <lastmod>2020-09-17T19:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -481,6 +499,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-uber-selfdriving/safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUSKBN2663FU?il=0</loc>
+    <lastmod>2020-09-15T16:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/</loc>
     <lastmod>2020-09-15T16:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -751,8 +775,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
-    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
+    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -823,7 +847,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/</loc>
+    <loc>https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/</loc>
     <lastmod>2020-09-14T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1551,6 +1575,12 @@
   <url>
     <loc>https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/</loc>
     <lastmod>2020-09-10T01:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://semiengineering.com/compiling-and-optimizing-neural-nets/</loc>
+    <lastmod>2020-09-10T00:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

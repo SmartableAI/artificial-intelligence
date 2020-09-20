@@ -449,15 +449,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Driver Charged for Arizona Self-Driving Car Fatality"
-    excerpt: "The driver behind the wheel during a fatal 2018 crash involving one of Uber’s self-driving cars has been charged with negligent homicide, the Maricopa County Attorney announced Tuesday. The National Transportation Safety Board concluded that the safety driver,"
-    publishedDateTime: 2020-09-16T04:14:00Z
-    webUrl: "https://www.thedailybeast.com/driver-charged-with-negligent-homicide-for-arizona-self-driving-car-fatality"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 4
 
 secured: "PoMH730BZaECnF4y2/9WF/UMUiC3CSL+onhPhoRLF95ODljA0AxXq/fDNvw+TqV7RlRuK2XMj81uZ91q/2jCT5OYAPbyH1SGIah5kr5QNMF712ejH9XZ/XdHHMMYygj20wJLZoDfMnr6L39DJxmfzspB1pRLyCD6EgfT6qWUIzVlEILhOBh3C5mXqbCoVOKvcLpyl3o3nukKwuJrZHuTID32vU4qNhT2SAgCGIc0g7lIQAYGtpZ/a7V2sCeR1Ta8Md3kOkfzEYHkR+uGyR75oRLWGMSCkUmHD/SApVMdK35KPCvP5Dmk9JamrgwU39DudsnnhKbebUMJiLOdMLDv0L2T6+ya8w/CGYo/ykc3kQ8=;2MhBbbW6pi7hCI56bK5B1g=="
 ---

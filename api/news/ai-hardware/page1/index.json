@@ -61,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -91,6 +91,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed.md",
+      "title": "Nvidia RTX 3090, 3080, 3070 GPU: All Specs, Prices, And Release Dates Detailed",
+      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier this month ... of the Turing-based RTX 20 series which first introduced real-time ray tracing and AI capabilities in graphics hardware. Those video cards feature multiple processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/",
+      "publishedDateTime": "2020-09-17T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -587,6 +629,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
+      "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
+      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook",
+          "width": 2224,
+          "height": 1164,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1333,108 +1417,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications.md",
-      "title": "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications",
-      "excerpt": "PRNewswire/ -- Rambus Inc. (NASDAQ: RMBS), a premier silicon IP and chip provider making data faster and safer, today announced it has achieved a record 4 Gbps performance with the Rambus HBM2E memory interface solution consisting of a fully-integrated PHY and controller.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus.md",
-      "title": "Microsoft’s updated DeepSpeed can train trillion-parameter AI models with fewer GPUs",
-      "excerpt": "The newest version of Microsoft's DeepSpeed library includes optimizations for training trillion-parameter machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
-      "publishedDateTime": "2020-09-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

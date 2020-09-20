@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -164,6 +164,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Edge AI Software Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
+    excerpt: "The contemporary development prediction report titled Global Edge AI Software Market 2020 by Company, Regions,"
+    publishedDateTime: 2020-09-20T20:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-software-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
+    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Market 2020"
+    publishedDateTime: 2020-09-20T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2020-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

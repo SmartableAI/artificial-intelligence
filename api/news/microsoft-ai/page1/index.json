@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-21-aws-vs-azure-vs-google-cloud-which-certification-is-best-for-professionals.md",
+      "title": "AWS vs Azure vs Google Cloud – Which certification is best for professionals??",
+      "excerpt": "In this post, we will pit AWS vs Azure vs Google Cloud, to explore which platform makes the most sense for professionals to learn depending on your skills, goals, and experience. A cloud platform is a collection of services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
+      "originalUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Man-Laptop-Network-Server-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
+      "publishedDateTime": "2020-09-20T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
       "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
       "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
@@ -1318,58 +1369,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
-      "title": "AI researchers use heartbeat detection to identify deepfake videos",
-      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "publishedDateTime": "2020-09-03T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

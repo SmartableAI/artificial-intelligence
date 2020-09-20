@@ -2,28 +2,79 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
-      "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
-      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top",
+      "path": "_news/2020-09-15-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
+      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
+      "webUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/WR1PZL59B7EQJJXED9N1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "publishedDateTime": "2020-09-14T10:34:00-07:00",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "publishedDateTime": "2020-09-14T13:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
+      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
+      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:44:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -39,6 +90,151 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
+      "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
+      "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200914&t=2&i=1533358312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8D13J",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "publishedDateTime": "2020-09-14T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
+      "title": "Portland becomes first city to ban companies from using facial recognition software in public",
+      "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "originalUrl": "https://www.techrepublic.com/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/18/59230acb-bdff-45c2-8ebd-ed7360029d05/thumbnail/1200x675/e1b33d49ec267210d75278624895a30d/istock-1047259374.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public/",
+      "publishedDateTime": "2020-09-14T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
+      "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
+      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook",
+          "width": 2224,
+          "height": 1164,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -562,11 +758,11 @@
       "title": "DeepMind's AI is helping to re-write the rules of chess",
       "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "webUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -579,8 +775,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
       "publishedDateTime": "2020-09-14T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -953,190 +1149,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
-      "title": "Microsoft adds more AI security protection for Azure clients",
-      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "publishedDateTime": "2020-09-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-three-reasons-ai-powered-platforms-fail.md",
-      "title": "Three Reasons AI-Powered Platforms Fail",
-      "excerpt": "If you’ve found yourself thinking, \"There's an AI-powered solution for everything these days,\" you’re not far off. Today, more than 37% of organizations have implemented artificial intelligence (AI) in some form,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be269a542d56dbef63e91%2F0x0.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "publishedDateTime": "2020-09-14T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-tech-mega-deal-nvidia-will-buy-chip-designer-for-40-billion.md",
-      "title": "Tech mega-deal: Nvidia will buy chip designer for $40 billion",
-      "excerpt": "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "originalUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549",
-          "width": 1024,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "publishedDateTime": "2020-09-14T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
-      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
-      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "publishedDateTime": "2020-09-14T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

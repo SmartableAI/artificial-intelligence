@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/09/n17530106/stradvision-r-d-
 ampWebUrl: "https://amp.benzinga.com/amp/content/17530106"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17530106"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"

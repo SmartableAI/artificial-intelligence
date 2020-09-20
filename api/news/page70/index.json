@@ -2,6 +2,233 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-07-28-darpas-mind-controlled-arm-will-make-you-wish-you-were-a-cyborg.md",
+      "title": "DARPA's Mind-Controlled Arm Will Make You Wish You Were a Cyborg",
+      "excerpt": "Pointing to his robotic fingertips ... The life-changing impact of DARPA’s mind-controlled limbs was clear after spending just a few minutes with Matheny—as was the fact that we’ve barely ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mdbscxrgplrpbvjpx3dq.jpg",
+          "width": 800,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "publishedDateTime": "2020-07-28T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-future-cars-to-integrate-advanced-healthcare-systems.md",
+      "title": "Future Cars to Integrate Advanced Healthcare Systems",
+      "excerpt": "It is understandable given that driverless cars ... It includes investing in the face recognition Artificial Intelligence (AI) startup Deep Glint which will recognize faces in 3D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "publishedDateTime": "2020-07-28T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
+      "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
+      "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "publishedDateTime": "2020-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities.md",
+      "title": "As ADA turns 30, tech is just getting started helping people with disabilities",
+      "excerpt": "The Americans with Disabilities Act of 1990 paved the way for decades of incremental changes to the way buildings, businesses and laws accommodate people with a wide variety of disabilities. At 30 years old this week,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/teams-captions.png",
+          "width": 520,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
+      "publishedDateTime": "2020-07-28T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market Segmentation, Growth, Share and Size|Google Inc, IBM Corporation, Microsoft Corporation",
+      "excerpt": "MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Machine Learning as a | eTurboNews | Trends | Travel News |",
+      "sourceUrl": null,
+      "webUrl": "https://www.eturbonews.com/577492/machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg",
+          "width": 350,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
       "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
       "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
@@ -893,225 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020.md",
-      "title": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020",
-      "excerpt": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020 Drones and robotics sensitive",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-1029434905",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
-      "title": "NIST study finds that masks defeat most facial recognition algorithms",
-      "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
-      "publishedDateTime": "2020-07-27T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-exploring-the-three-elephants-in-the-autonomous-vehicle-room.md",
-      "title": "Exploring The Three Elephants In The Autonomous Vehicle Room",
-      "excerpt": "Today, in the area of Autonomous Vehicles (AVs), there are three elephants in the room which are worth exploring. Let’s get started. Is it possible that the current Artificial Intelligence(AI) engines underneath AVs are just the wrong architecture and may never work robustly ?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1eea43aae75494c2b3186e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
-      "publishedDateTime": "2020-07-27T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-3-robotics-stocks-that-will-make-peoples-lives-easier.md",
-      "title": "3 Robotics Stocks That Will Make People’s Lives Easier",
-      "excerpt": "Robotics stocks represent one of the most exciting investment prospects for stock buyers. The increasing importance of information technology in manufacturing and the development in the concept of the industrial “internet of things” are likely to power robotics stocks to a new era of growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
-      "publishedDateTime": "2020-07-27T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-halliburton-forms-strategic-agreement-with-microsoft-and-accenture-to-use-azure.md",
-      "title": "Halliburton Forms Strategic Agreement with Microsoft and Accenture to Use Azure",
-      "excerpt": "Halliburton, Microsoft Corp., and Accenture announced they have entered into a five-year strategic agreement to advance",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/halliburton-forms-strategic-agreement-with-microsoft-and-accenture-to-use-azure/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/HPE-Cray-EX-supercomputer-cabinets-cropped-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

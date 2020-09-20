@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
+      "title": "AI researchers use heartbeat detection to identify deepfake videos",
+      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
+      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
+      "publishedDateTime": "2020-09-03T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-global-cognitive-services-market-future-prediction-report-by-2024-ibm-microsoft-google-aws-baidu-nuance-communications.md",
       "title": "Global Cognitive Services Market Future Prediction Report By 2024 : IBM, Microsoft, Google, AWS, Baidu, Nuance Communications",
       "excerpt": "Sep 03, 2020 (PRNews Times via COMTEX) -- Market Research Report Add a new global Cognitive Services market from manufacturers, countries, types and applications, predicts by 2024 in its research ...",
@@ -1277,57 +1329,6 @@
         "name": "Business Standard",
         "domain": "business-standard.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-immersive-reader-for-azure-cognitive-services-is-now-generally-available.md",
-      "title": "Immersive Reader for Azure Cognitive Services is now generally available",
-      "excerpt": "The Azure Cognitive Service which has been in preview since last year has finally become generally available, bringing additional features such as an updated SDK and new translator languages as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
-      "originalUrl": "https://www.neowin.net/news/immersive-reader-for-azure-cognitive-services-is-now-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329609_azure-2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/immersive-reader-for-azure-cognitive-services-is-now-generally-available/",
-      "publishedDateTime": "2020-08-25T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
