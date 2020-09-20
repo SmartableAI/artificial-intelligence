@@ -257,6 +257,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
+      "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
+      "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-best-facial-recognition-home-security-cameras-of-2020.md",
       "title": "Best facial recognition home security cameras of 2020",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
@@ -1343,57 +1394,6 @@
         "name": "AppleInsider",
         "domain": "appleinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
-      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
-      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-03T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,152 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
+      "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
+      "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04Virus-Robots-01/04Virus-Robots-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html",
+      "publishedDateTime": "2020-08-04T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
+      "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
+      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-syntiant-raises-35-million-for-ai-speech-processing-edge-chips.md",
+      "title": "Syntiant raises $35 million for AI speech-processing edge chips",
+      "excerpt": "Syntiant, a startup developing AI and machine learning edge hardware for voice processing, has raised $35 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/004990b4-5a1a-4216-8477-e262b957b5ab-e1596485443668.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
+      "publishedDateTime": "2020-08-04T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures.md",
       "title": "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures",
       "excerpt": "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant NDP100(TM) and Syntiant NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide.",
@@ -966,132 +1112,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-university-of-chicago-engineers-develop-tool-to-protect-your-photos-from-facial-recognition.md",
-      "title": "University of Chicago engineers develop tool to protect your photos from facial recognition",
-      "excerpt": "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai.md",
-      "title": "Improving speech-to-text transcripts from Amazon Transcribe using custom vocabularies and Amazon Augmented AI",
-      "excerpt": "Businesses and organizations are increasingly using video and audio content for a variety of functions, such as advertising, customer service, media post-production, employee training, and education. As the volume of multimedia content generated by these activities proliferates, businesses are demanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/improving-speech-to-text-1-1.jpg",
-          "width": 1000,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:13:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

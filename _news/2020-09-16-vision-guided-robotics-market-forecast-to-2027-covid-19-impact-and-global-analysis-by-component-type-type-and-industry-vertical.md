@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-09-16T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
+  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
+    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
+    publishedDateTime: 2020-09-17T19:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
     type: article
     provider:
       name: MarketWatch
@@ -39,187 +39,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-16T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16"
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Robotics Market Competition, Status and Forecast, Market Size by Top Key Players, Regions, Type, Application by 2020 to 2026"
-    excerpt: "Global “Artificial Intelligence Robotics Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Robotics Market report also explores future trends for supply,"
-    publishedDateTime: 2020-09-18T13:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-competition-status-and-forecast-market-size-by-top-key-players-regions-type-application-by-2020-to-2026-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Network Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-18T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Office Market Future Growth And Forecast From 2020-2022"
-    excerpt: "This technology is still in its infancy. Yet to be truly established, this technology as of now is more spoken of in"
-    publishedDateTime: 2020-09-18T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-future-growth-and-forecast-from-2020-2022-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Top Companies, Growth Factors, Market Status and Future Forecasts to 2027"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
-    publishedDateTime: 2020-09-16T10:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
-    publishedDateTime: 2020-09-16T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Network Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-18T13:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Growth and Analysis, Top Manufacturers, Industry Trends, Size, Industry Share, Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Market report also explores future trends for supply,"
-    publishedDateTime: 2020-09-18T13:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-and-analysis-top-manufacturers-industry-trends-size-industry-share-forecast-to-2026-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-18T13:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2020-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 33
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report 2020-2027 of Major Types, Applications and Competitive Vendors in Top Regions and Countries"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-09-16T10:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2020-2027-of-major-types-applications-and-competitive-vendors-in-top-regions-and-countries-2020-09-16"
+  - title: "Automated Material Handling Equipment Market 2020 With Top Companies, Applications, Developments, Innovative Technologies Research Report"
+    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
+    publishedDateTime: 2020-09-16T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-with-top-companies-applications-developments-innovative-technologies-research-report-2020-09-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-18T08:41:00Z
-    webUrl: "https://apnews.com/business-wire/68816fa04b504b2a98991710d024c324"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "4nr0zOJSgKTeoI99dFY6FWaN/gR3VXJwNP4oK2PDDnR48/M3XBd9dbyXWgIJ+I+DqR53wmrAkELPK/zTPoaURzi3+AnV8gwy/iMhyyvp2kys+TnVPFhCWfXHlmAM7NScZtyAkZllqb8DOB22Z1BvMjcWe5bfGkrR8GyKaGdPgRhW7wuIqbrrZJ+vOJGUnDLA92ulcO8wF1m9JmoMAGKdu47vF/GHop8c5Tu5rYNHHGdyHQUbBNnHjxUOwo3PJ//7YJV2HtSk0u20oY9fyvvKPs6crYqnYZmfg/IwBJ98hwaTUtzjOMFCLTEBOk38wg2az6AnZJ8kcpv2dUenfKN2uJSmh/4H4Yg9kXoCB2wGMXo=;Ql2jkV+pM/kgGc6UcJUXEQ=="

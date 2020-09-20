@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Germany ICT Market Report 2020/2021: Market data for 11 Tech Trends like Blockchain and Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "The “ICT Market Report 2020/21 Germany” report has been added to ResearchAndMarkets.com’s offering. This report contains information about the information technology and telecommunication markets of Germany."
-    publishedDateTime: 2020-09-17T13:02:00Z
-    webUrl: "https://apnews.com/business-wire/2ae5d657e41141da97e8452e51f9726a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
     excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
     publishedDateTime: 2020-09-17T22:27:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Machine Learning in Manufacturing Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
+    excerpt: "The report outlines the competitive framework of the “Machine Learning in Manufacturing Market” industry describing"
+    publishedDateTime: 2020-09-18T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+U2tLS7TYMvN7huX9o2eXH5NXmaZBkhk5O9R1HzPTeRJEx7w7Mr9Xdeb+Bqmuy8pmwXDMClG3/m1uHA/l6Vzx4x5uM/ISEmlcO1tYvbOYvJmgKQrXgr23X2poGGp605ooaxvh33deaUQnsYYavZNiNGTESxE2Zuq0eMq1aj6/9NMwL03M1RuAGL+HBLbTgvKjYfQAS8oIhEV75tQr3j3S4Xax3ApuGGFY4DVUXUaao3csSqtx3lWovCM0HUGEI0EBv2gX3ZMJJWNJ8hRCwLqdbgpwmQdulhBiqJpt35EbCGOxSb3CGbV/7VTdJiGW39h++SCoL7ntz3ajVlfn7yBge5F5JGersEQcf6TLHOEuhQ=;5xSTTi4Zztl0psL1gupgGw=="
 ---

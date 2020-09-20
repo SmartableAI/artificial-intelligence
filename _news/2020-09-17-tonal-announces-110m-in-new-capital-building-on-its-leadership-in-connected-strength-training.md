@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tonal Announces $110M in New Capital, Building on its Leadership in Connected Strength Training"
-excerpt: "Tonal, the world’s most advanced strength and personal training platform that combines proprietary digital weight, artificial intelligence, and expert-led coaching, today announced $110M in new capital,"
+excerpt: "New investors include Delta-v Capital, the Amazon Alexa Fund, and Mousse Partners. Additional strategic investors include Stephen Curry of the Golden State Warriors, Paul George of the Los Angeles Clippers,"
 publishedDateTime: 2020-09-17T12:02:00Z
-originalUrl: "https://apnews.com/business-wire/9757d1db572a4846b6e420632ca03a79"
-webUrl: "https://apnews.com/business-wire/9757d1db572a4846b6e420632ca03a79"
+originalUrl: "https://www.americanpress.com/sports/tonal-announces-110m-in-new-capital-building-on-its-leadership-in-connected-strength-training/article_201d98f8-3d9d-54b5-b76b-45cd14e2579c.html"
+webUrl: "https://www.americanpress.com/sports/tonal-announces-110m-in-new-capital-building-on-its-leadership-in-connected-strength-training/article_201d98f8-3d9d-54b5-b76b-45cd14e2579c.html"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: American Press
+  domain: americanpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/americanpress.com/content/tncms/custom/image/69cd1fbe-135c-11e8-9a25-570f3458ec8f.jpg"
+    width: 600
+    height: 600
     isCached: true
 
-secured: "pQ3Yxs84uudj+kg/2iCDKVryccDoGu2sJOQ4KogIMjae+aiKf2IWr+ZbSlSSLNsjS+kgUkOAy4BWzX6ekrht4o/LEXAGMJteMBuqJ6GMU+c5tMjf8DyKmuAnEtF5mgIPVeS8RaQuZZs6xvR+UQcbtsevswfRAOEpUYAi/U7vDB0LyJbJRfZN0TSSSRIsjYLT/fZy2XR3tRkGncj9n82KhQmg9ZToHUKev/V3L5jb9FzoAwJcdwSV8qcXXZ8H5lF1YvwFVTQzpbDDxmUEKRDJxalgyMn/0SLgKktYn2GeQ9Q+1iWL+0NHZU0pHNrvp12k+0bEgA3Fvz1645JvEzOET2QE1U5wKqQV6l/1SXYbk3c=;l8m3GpMhhGRfwiEvwUVkTw=="
+secured: "YfRxhRxGR/KyvKXVwzxwDlt9ZWdNauI54U4fPUco2Ng5dh7IXWgRIMqkH+7UmFuCksi7WpbsYEb3Vn2yR35ncpVdWSz/HK5g3LWBTvrVDh5q/L/DvzAn+mMpwtiz/CjFxQGNMZC5gXa6zAr1X0nrk7JgfbX211SE7fOdFwzkWzSLAs0X0yf5IOy0NQtaGNamj2J6wzm/2ybx1u5uh2HfIFgCfaMnMLK5IECC657b7Mbd/W0W+fVmluBVaInYtizmlsfkUG9Tj3I4dTX5HY2t8L8f8kG+CkiSRh3q7AXMCcdm+ek8A3ZKwspJ4WwfRPZSieoeV4UZhsUwLc5IFh1COtk3/kSYi17Mg+HNgW4aqCA=;O44vSzyCtbceHB2N159Wig=="
 ---
 

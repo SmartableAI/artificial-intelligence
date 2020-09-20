@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-03-facial-recognition-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Facial Recognition Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware According to the recent study titled 'Facial Recognition Market Size By Component, By Application, By End-Use, Industry Analysis Report, Regional Outlook, Growth Potential, Competitive Market Share & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-to-witness-huge-growth-by-2026-2020-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
       "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -1288,39 +1339,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-solutions.md",
-      "title": "StradVision to collaborate with leading custom SoC supplier Socionext to provide efficient ADAS solutions",
-      "excerpt": "SAN JOSE, Calif., Aug. 24, 2020 /PRNewswire/ -- StradVision has announced a collaboration with Socionext Inc., a leading supplier of System-on-Chip (SoC) solutions, to bring StradVision's deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/n17218459/stradvision-to-collaborate-with-leading-custom-soc-supplier-socionext-to-provide-efficient-adas-so",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17218459",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17218459",
-      "publishedDateTime": "2020-08-24T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

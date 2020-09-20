@@ -29,24 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-09-16T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
+  - title: "Artificial Intelligence Chip Market 2020: Industry Trends,Growth, Trends, and Forecast 2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-18T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-16T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16"
+  - title: "Artificial Intelligence Robots Market 2020 Business Outlook with COVID-19 Scenario Analysis and Forecast 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-09-16T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
     type: article
     provider:
       name: MarketWatch
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
+    excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
+    publishedDateTime: 2020-09-18T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,10 +113,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2020 Global Analysis, Opportunities and Forecast to 2026"
+    excerpt: "Wiseguyreports.Com Publish New Market Research Report On-\"Artificial Intelligence in Medicine Market 2020 Global"
+    publishedDateTime: 2020-09-19T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2020-global-analysis-opportunities-and-forecast-to-2026-2020-09-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size, Top Companies, Growth Factors, Market Status and Future Forecasts to 2027"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
     publishedDateTime: 2020-09-16T10:19:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-top-companies-growth-factors-market-status-and-future-forecasts-to-2027-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Growth, Trends and Year to Year Projections 2020 to 2027"
+    excerpt: "The global Artificial Intelligence In Diagnostics Market was valued at USD 295.3 million in 2019 and predicted"
+    publishedDateTime: 2020-09-18T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-growth-trends-and-year-to-year-projections-2020-to-2027-2020-09-18"
     type: article
     provider:
       name: MarketWatch
@@ -127,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Software System Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
+    excerpt: "MarketsandResearch.biz has recently published a market research report namely Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that contains important statistical and analytical data spread through the entirety of the report and includes contents related to the industry."
+    publishedDateTime: 2020-09-15T19:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Network Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-18T13:19:00Z
@@ -136,6 +192,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Software Market 2020 Sales Channels, Technology and Production Analysis, Business Growth by 2025"
+    excerpt: "A comprehensive research study titled Global Artificial Intelligence Software Market 2020 by Company, Type and Application, Forecast to 2025 presents a basic overview of the industry including definitions,"
+    publishedDateTime: 2020-09-15T22:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-sales-channels-technology-and-production-analysis-business-growth-by-2025-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -155,6 +225,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice And Speech Recognition Software Market 2020 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Voice And Speech Recognition Software Market” report provides in-depth information about top manufacturers, market challenges,"
+    publishedDateTime: 2020-09-15T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-global-industry-size-outlook-share-demand-manufacturers-and-forecast-research-2026-2020-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-18T13:18:00Z
@@ -164,6 +248,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
+    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Platform Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that concentrates on the industry,"
+    publishedDateTime: 2020-09-17T01:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Online Learning Market 2020 – Global Industry Analysis, By Key Players, Segmentation, Trends and Forecast By 2026"
+    excerpt: "Latest Market Analysis Research Report on \"Online Learning Market\" has been added to Wise Guy Reports database. Pune,"
+    publishedDateTime: 2020-09-17T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/online-learning-market-2020-global-industry-analysis-by-key-players-segmentation-trends-and-forecast-by-2026-2020-09-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -183,43 +295,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report 2020-2027 of Major Types, Applications and Competitive Vendors in Top Regions and Countries"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-09-16T10:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-2020-2027-of-major-types-applications-and-competitive-vendors-in-top-regions-and-countries-2020-09-16"
+  - title: "Self-driving Vehicles Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-09-16T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2026-2020-09-16?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
-    publishedDateTime: 2020-09-15T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-18T08:41:00Z
-    webUrl: "https://apnews.com/business-wire/68816fa04b504b2a98991710d024c324"
+  - title: "Germany ICT Market Report 2020/2021: Market data for 11 Tech Trends like Blockchain and Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "The “ICT Market Report 2020/21 Germany” report has been added to ResearchAndMarkets.com’s offering. This report contains information about the information technology and telecommunication markets of Germany."
+    publishedDateTime: 2020-09-17T13:02:00Z
+    webUrl: "https://apnews.com/business-wire/2ae5d657e41141da97e8452e51f9726a"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 2
+    quality: 19
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvi
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Gyrfalcon Showcases New Tech at 2020 Embedded Vision Summit"
-    excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced it is showcasing enhancements to its Lightspeeur® portfolio at 2020 Embedded Vision Summit,"
-    publishedDateTime: 2020-09-15T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-showcases-new-tech-at-2020-embedded-vision-summit-301131227.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1274395/GTI_HIGH_RES_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "xdE/paQUgg3PBiBj/9raO61HtG9vAZqQSXveW/wwyi5wU92rc51iR6HsdRP0buy/1Juh9RTYa8CWiwjOF5e2alCZzC5/l4iukn/HqulumBF/aiEUTCpebJ+qryTrZPKYJ4Q5KwMQwUksDorrZKiC//BJiOC+bviyEUN4192QEq96i3zfCVc9FfKcJy4tnYprhOdqljPphtflZQaZywA8s+RRjjwuPsqEYwZSyxXu+G4o4dKDaqWp4Tr6ZiDVholZuvApzFHnBmT2nKCjR1PWt1gfsEFvd4ThHL9mQYGWziVgo1aWYPJM9nHUSWcGFhg352drUTsSIfkPKuNveUHgrcUP0Ou0cdK/jhyYDiJC4OE=;gW1wKgr6igxCPgrqgYTo7Q=="
 ---

@@ -29,21 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning Technologies Are On the Rise Globally, with Governments Launching Initiatives to Support Adoption: Report"
-    excerpt: "AI and machine learning technologies are on the rise globally, with governments launching initiatives to support adoption: report."
-    publishedDateTime: 2020-09-19T00:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
+  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
+    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
+    publishedDateTime: 2020-09-17T19:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence-300x250.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
+        isCached: true
+  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
+    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
+    publishedDateTime: 2020-09-15T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "u/QGT5la3EsdxpOWXTGhPbgnFwfX9qyBqeHHjxdOt5jO5BGSkNYHZOLcLSx7ei7GMegWKqgYn4FxdaFYh69RCLqPuwx6xwPRFmbx7sjcGyUADKG2tH7vjp1EjQLSDoBwiJMbB/CAzYbyGNxLzMBPcHqYm4GEX7s4f0aWLGoDK72Ga28MgcVch/9oEuug6WhylQcLHanUmUoY/v3368+7DPL4pZQrWIM49mbMVPZ7QWOq1Pi7OR/R82CofQxWsPry9aNI73ynn7pUX2r1nCEJ3TiEBlFmnRO2I7ZLqtZe9Auy0Dze6ZvhPy/Zw/0j61EBnxA5gHjGeuAFthJlkaiULSqTlUk/RHPoEoIgoEyoeMs=;A/XKhFEyqKIKbH3AOXBfXQ=="

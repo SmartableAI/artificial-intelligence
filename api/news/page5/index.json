@@ -2,6 +2,132 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
+      "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
+      "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
+      "originalUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/09/20RIS031_RTX_DecisionSuperiorityCampaign_SponsoredContent_640x500.jpg",
+          "width": 640,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
+      "publishedDateTime": "2020-09-14T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
+      "title": "Amazon under fire for new facial recognition tool",
+      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
+      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
+      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "publishedDateTime": "2020-09-14T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-tesla-self-driving-software-rewrite-should-be-available-by-end-of-2020-musk.md",
       "title": "Tesla Self-Driving Software Rewrite Should Be Available By End Of 2020: Musk",
       "excerpt": "Now CEO Elon Musk said that by the end of the year, a total rewrite of Tesla's Full Self Driving software should be ready for the public by December 2020. The new software will be in private beta within two to weeks,",
@@ -1039,149 +1165,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
-      "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
-      "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/09/15/56f52380-f682-11ea-a41c-8cbd1416100a_image_hires_023122.jpg?itok=6WoDizn9&v=1600108292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "publishedDateTime": "2020-09-14T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-do-you-really-need-an-ai-powered-smart-range.md",
-      "title": "Do You Really Need an AI-Powered Smart Range?",
-      "excerpt": "As the pandemic has forced us to spend more time at home than we did previously, many of us have invested in making these spaces—which are now our offices, daycares, cafeterias, and entertainment hubs—a little more conducive to an always-home lifestyle.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "originalUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5qxsxiclz8wc7nzytru.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "publishedDateTime": "2020-09-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
-      "title": "Microsoft adds more AI security protection for Azure clients",
-      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "publishedDateTime": "2020-09-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -27,22 +27,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Automated Material Handling Equipment Market 2020 With Top Companies, Applications, Developments, Innovative Technologies Research Report"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-09-16T10:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-with-top-companies-applications-developments-innovative-technologies-research-report-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "qKhRZ1pRffrDGYFad6JrPBQKuwse8F3xBRUK9EKvVJ/Lg/pNwl1BtPFXEva03u2QpOk5bxOEJZSHEGQub7CvKvK7HgBoKDhYyi/UFl9zyjpZvFd0knci/iTThJ+LkRo/+POO9nf2BpCaX1ijRcbX0UL/yr2weMo6V2nnaVRNLw1Jx6AyoCFHKXbvwxTeFIPTax3RpolJ90MWNljoxcC77k1smW/tUbHVkYH8xEp7s5Uanm3gLTbgP38hY+R2nEJGzqB29WcFJNVTFsY/8JUdAYmPgoftVU0Mqr/tqYuf5PnLC5E9H5rka0+jR66wZiCitQJpCqXHFI7DakYLufKjHRxrl//JXAsoTbinK3uNJdXUYXwJXfGPGRGMk3SZvIWoIbE0EXdpdzE4jWt2wbziUuvlKsMcqx47AOlUShkOzreD0sP2OBjr73U/ffl5CdzLgf8WCto5sl7tHjy8HxtxvhBsACVOZ3i1EXevVyF6NxzMDxYptdt6XbdXKSnVHpksQx6rkK9tIlVAKphknqun6Q==;PtyU/xSYuCPqmCEw7U+zjQ=="
 ---
 

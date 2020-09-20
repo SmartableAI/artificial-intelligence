@@ -2,6 +2,150 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-08-the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype.md",
+      "title": "The Guardian’s GPT-3-generated article is everything wrong with AI media hype",
+      "excerpt": "The Guardian today published an article purportedly written \"entirely\" by OpenAI's GPT-3. But the the newspaper's grand claims aren't all they seem.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-08T154853.607-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/08/the-guardians-gpt-3-generated-article-is-everything-wrong-with-ai-media-hype/amp/",
+      "publishedDateTime": "2020-09-08T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience.md",
+      "title": "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience",
+      "excerpt": "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19.md",
+      "title": "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19",
+      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-5-surprising-companies-that-have-ai-departments.md",
       "title": "5 surprising companies that have AI departments",
       "excerpt": "Sponsored Jobs Are you dreaming of starting an exciting career in AI? Most of the world’s tech giants are in a race to become the world’s leaders in artificial intelligence at the moment, making it an extremely competitive industry to get into.",
@@ -1049,125 +1193,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
-      "title": "Airbus is to produce pilotless planes, but will they take off?",
-      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
-      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
-          "width": 569,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life.md",
-      "title": "4 Robotics ETFs to Buy as AI Tightens Grip Over All Spheres of Life",
-      "excerpt": "We are living in an era largely dominated by AI applications and technological advancements. Amid the coronavirus crisis, demand for online services has increased which in turn has led to the dominance of the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-etfs-to-buy-as-ai-tightens-grip-over-all-spheres-of-life-2020-09-07?amp",
-      "publishedDateTime": "2020-09-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-use-artificial-intelligence-machine-learning-for-efficient-relief-management.md",
-      "title": "Use artificial intelligence, machine learning for efficient relief management",
-      "excerpt": "Bangladesh located to the north-east of South Asia is one of the disaster-prone areas of the region as well the world due to its geographical characteristics, complex topographical features, excessive and mighty river system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "publishedDateTime": "2020-09-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

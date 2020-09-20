@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-16-harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans.md",
+      "title": "Harvard researchers developed an AI to determine how medical treatments affect life spans",
+      "excerpt": "It was created by researchers from Harvard Medical School’s Sinclair Lab, who say it’s the first study to track a mouse’s frailty for the duration of its life. They plan to use the predictions to quickly test interventions intended to extend the mice’s lives and move towards doing the same in humans.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-15T163117.825-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/amp/",
+      "publishedDateTime": "2020-09-15T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
       "title": "Latent AI makes edge AI workloads more efficient",
       "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
@@ -99,6 +149,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
+      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
+      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
+      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -520,6 +620,48 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-snapdeal-deploys-robots-in-its-delivery-fleet.md",
+      "title": "Snapdeal Deploys Robots In Its Delivery Fleet",
+      "excerpt": "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
+      "originalUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/09/31-1.jpg",
+          "width": 1360,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/",
+      "publishedDateTime": "2020-09-15T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1051,132 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
-      "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
-      "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
-      "originalUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/09/20RIS031_RTX_DecisionSuperiorityCampaign_SponsoredContent_640x500.jpg",
-          "width": 640,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
-      "publishedDateTime": "2020-09-14T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
-      "title": "Amazon under fire for new facial recognition tool",
-      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
-      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
-      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
-      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
-      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
-      "publishedDateTime": "2020-09-14T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

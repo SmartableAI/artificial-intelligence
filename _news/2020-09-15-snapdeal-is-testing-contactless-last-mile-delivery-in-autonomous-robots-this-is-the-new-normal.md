@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian eCommerce player Snapdeal uses robots for last-mile delivery"
-    excerpt: "The Covid-19 led lockdown and its impact on eCommerce resulted in the federal government approving drone-based deliveries in India in June. Though nothing more was heard on this front since, online marketplace Snapdeal has now announced that it had conducted last-mile delivery using robots."
-    publishedDateTime: 2020-09-15T11:31:00Z
-    webUrl: "https://www.techradar.com/in/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/indian-ecommerce-player-snapdeal-uses-robots-for-last-mile-delivery"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/sYHeZM7HacnN6bsm9mivtY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snapdeal Deploys Robots In Its Delivery Fleet"
     excerpt: "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously."
     publishedDateTime: 2020-09-15T14:38:00Z
@@ -75,21 +59,21 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "Snapdeal tests deliveries using robots in partnership with mobility startup Ottonomy IO"
-    excerpt: "E-commerce marketplace Snapdeal and autonomous mobility startup Ottonomy IO have successfully tested last-mile delivery using robots. The orders placed by users were delivered in the last mile by a robot with the package sanitised on the way."
-    publishedDateTime: 2020-09-15T11:43:00Z
-    webUrl: "https://www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112"
-    ampWebUrl: "https://www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/snapdeal-tests-deliveries-using-robots-partnership-mobility-startup-ottonomy-io-133112?amp"
+  - title: "Snapdeal turns to robots to make contactless deliveries amid COVID-19"
+    excerpt: "In collaboration with autonomous mobility start-up Ottonomy IO, Snapdeal has successfully tested last-mile delivery using robots in select locations of Delhi-NCR."
+    publishedDateTime: 2020-09-15T14:13:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.amp"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 51
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Snapdeal_Ottonomy_1200.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/1/9/w600X390/2017-04-05T044237Z_1_LYNXMPED3406Z_RTROPTP_3_SNAPDEAL-FINANCING-INTERVIEW.JPG"
+        width: 600
+        height: 390
         isCached: true
   - title: "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles"
     excerpt: "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously."
@@ -134,15 +118,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 39
-  - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
-    excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
-    publishedDateTime: 2020-09-15T11:13:00Z
-    webUrl: "https://www.sify.com/finance/snapdeal-tests-last-mile-online-delivery-with-ottonomy-io-robots-news-topnews-ujplkCfjhhdfe.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
   - title: "Snapdeal tests last-mile online delivery with Ottonomy IO robots"
     excerpt: "In a bid to address the safety concerns of consumers amid the pandemic, e-commerce marketplace Snapdeal has tested last-mile delivery of packets using robots developed by autonomous mobility startup Ottonomy IO."
     publishedDateTime: 2020-09-15T17:37:00Z

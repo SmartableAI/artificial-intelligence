@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-04-portland-maine-becomes-the-thirteenth-city-to-ban-facial-recognition-tech.md",
+      "title": "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech",
+      "excerpt": "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp",
+      "publishedDateTime": "2020-08-04T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
       "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
       "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
@@ -1383,57 +1434,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-will-pay-650-million-to-settle-facial-recognition-privacy-lawsuit.md",
-      "title": "Facebook will pay $650 million to settle facial recognition privacy lawsuit",
-      "excerpt": "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "publishedDateTime": "2020-07-23T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

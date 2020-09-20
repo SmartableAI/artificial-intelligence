@@ -1,12 +1,12 @@
 ---
 category: news
 title: "People’s notions about AI are terrible, an MIT study asks whether they can be helped"
-excerpt: "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,"
-publishedDateTime: 2020-09-18T23:02:00Z
-originalUrl: "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-webUrl: "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+excerpt: "One of the most striking PR moments of the AI age was the sale by Christie's auction house in October, 2018, of a painting output by an algorithm, titled \"Edmond de Belamy,\" for $432,000. The painting was touted by the auctioneers,"
+publishedDateTime: 2020-09-18T23:11:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/"
 type: article
 quality: 80
 heat: 80
@@ -29,6 +29,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "OsMumrTyqXMjQulYxomEMSkeS2v/ouczHaAAjVOoVz3tF1BK6xbYR21IpOX9KAEyqeQQskUa9lQhIyKiUkkcXnkzrtlzkcQrnGQuXWwu2l+cIud/bEMkY7CJrFzgHPyYCKH1JxrtYtg0gJmgvwvePdVAs3JwBvg5DHN4ow6Xd9ybQZ0N9t2ffnSOF9nnH7JdU9WpudA1BBXdBpsErLFHXt+gPjaeVXXdZSvfxovM7pbSsm+RmjDTmq4PLkig4Ozd7uHv+6URZK/qA9D6TeIZDo2fDNkdMbiuZsqntCQue5glc6N5LKAX/bm//AZghjcAMxtlor91E+kWe7kkPbfZT7GaCIeLKuylCJmCFOdXYmo=;XhI0NlelGlS4cv+UveS7oA=="
+secured: "u/xBFTQ4lzr1imA1D8cvAXxftn7ktEBkgXC7X+OdbeEEKJ12DCm0JpIPCRKz9zggKik4pCzbDU+s8QNMVmqHFm6zxrzh8pLVnsc24u7sIfMJnoywVwFXWamvgdRPEVqQVQkPALanyEi1CsSbR6dldm9nYkRvaZqUSwGBLxFHT+2kh1dpVSm5lxHdjl04rnzUbxJu3B2qXKrK2C0LBUO7ZE6UevTSL2yuoRbE59FkVoDBhKCBz17ixKY2Pf/RB462wp1CZJrwbdUK7Sg4OH2uf+LUDZSlmV8cSDwWV6KuU7t/c6SEDE49MOEdHfnMpQjRHB+cjOjxXqHJGMfGeQwQNlww144DzWbSw5y1mPM15QM=;/lrnM5I2u6XSVKn9MYRqFQ=="
 ---
 
