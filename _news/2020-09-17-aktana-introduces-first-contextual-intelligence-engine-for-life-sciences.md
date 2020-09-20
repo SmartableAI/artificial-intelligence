@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-
 webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Can artificial intelligence replace emotional intelligence?"
-    excerpt: "The rise of artificial intelligence (AI) is one of the defining business opportunities for HR leaders today though the fear is if artificial intelligence (AI) is coming to displace all jobs. If organisations wish to remain competitive in today’s global economy,"
-    publishedDateTime: 2020-09-15T15:08:00Z
-    webUrl: "https://www.newsday.co.zw/2020/09/can-artificial-intelligence-replace-emotional-intelligence/"
-    ampWebUrl: "https://www.newsday.co.zw/2020/09/can-artificial-intelligence-replace-emotional-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/2020/09/can-artificial-intelligence-replace-emotional-intelligence/amp/"
+  - title: "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community"
+    excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond."
+    publishedDateTime: 2020-09-17T13:36:00Z
+    webUrl: "https://apnews.com/business-wire/af8afe69a60c47b1becac9c18bda64e9"
     type: article
     provider:
-      name: News Day
-      domain: newsday.co.zw
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://www.newsday.co.zw/wp-content/uploads/2019/04/Emmanuel-Zvada-new-P-600x330.gif"
-        width: 600
-        height: 330
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
+    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
+    publishedDateTime: 2020-09-17T05:39:00Z
+    webUrl: "https://www.thaipr.net/it/1026362"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 0
 
 secured: "83m/pdpNV+xMkDcCf5SY8xt8BclwiuWDRxSgRQsmCKN3QE0NWNZTL0zoP9pIEeDKXmFkwNkst1oYL9r3DxHyYnEC6N4gWTsgZCJYd6asmLJ2d1eX0cMOuyfUCFmkWKt+jgGvUT4ZfJCSnKSCiXnZYeLLqsC604u+Uggn2jdHb4a16mqPjlV9xiHJ0gGmIjskmAbu1/Vfes4TQxoClbCjB67QZv/dhQhbWlFxXPJbbYWihfGXFKZlDo3ctKGlwJv6RsS4mLpZVArgop4MY1JjCjTNo8VtMSJRqxCMjt2OStnE9bbBQ7RiPJoSQJJanxlUjAZj02AhN7dmKfB/FTwX5CzDxHcNbW2yJEm4ndy0NZ0=;Ka8airQAcSf63mdd715QFA=="
 ---

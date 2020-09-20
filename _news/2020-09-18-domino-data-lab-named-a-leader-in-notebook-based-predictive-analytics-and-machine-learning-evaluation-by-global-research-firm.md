@@ -47,15 +47,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
-    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
-    publishedDateTime: 2020-09-17T05:39:00Z
-    webUrl: "https://www.thaipr.net/it/1026362"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
 
 secured: "3msqJvHQoMr/Y1HK0TChWhJ+8uXlHMomPRefrCtzsMOf9c+1lz0eIWKwG0QtW6DH2pYUZp4ikhNofG9iSm2qJocJUAmO0rtmRj4nbyhm6g2dOrk8xALXMXscg1vCYn5mds5KcZzv03w8Lp7eJ5+Qt5uV+DmW5G6QeIWGZDqNG8FcoUfovWILYzQv2MWWIv1cR4/r9VSJOaiFDwr+CUKZr/XgFtFREpPzwKrC09zWg7n9txFkcX6B17Sp+NMGgNX8T9A01vKyHiixrY1My4qp+tEEmMIX6/Y3RQYv40NdtfZJRwLpUuZ9j5OxYWVpvAPH4kzrbLR+WXBt350mt6SQGSx10aH/Rs9F7plHF/JirsU=;k4Eq/G13v4Vd0g1mZ73bHQ=="
 ---

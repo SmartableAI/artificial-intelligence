@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
-    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
-    publishedDateTime: 2020-09-17T05:39:00Z
-    webUrl: "https://www.thaipr.net/it/1026362"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z
@@ -58,6 +49,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Ay/LqdmfoIu7glJ/JXqWpETjT/eYDYOaR44kiTymtF43XmdfvzxK7QH49Y+XyyBzQNlkPuB+1ASdiJRDNxOJ3+debK4IJjUxOGPT4A+yw2PesppPymVRdbWoHWY/5ECrgkm82NtunHexK9dk2P1AeHfM78l9E5qNYWRwWc+GSinh6fxf8KaWt17+bWwJtywywKE38L6y7g+etmj60yGa+zZi0uuehNEr6eBlDCAP+WUN3kM+x3OjPY9tPv8RuDs1xBwaeJJlQzHknTmT1MtNNGdDOsmkndgniU+DAyJ4zvq/s72ZTzeA9RQwEy6Wq+6ydRV/ZIFIS7agwPuevVj8moP2/P6V27s20SL+tN3CkYs=;YhA9F+vpXuAwWUXtEx4gWw=="
+secured: "gmoWcdqMd1OOEyF0UjTaIHyPa5+Rwi5TNEZrtmNfhAfIsx0fqADyaIaK+ijQwT8JO0xjXviE/H4OYVYqgRHj29kIp+wgDa4O95XTctSCoRa2CiyJAZIp+qQWel7hQyE1O3b1VtCP01FFwgvjx5JZRWOYky7Y4eBpToWPdz/2zEvzb09toLWvmcxyPmDM3+ROfp6+54tls/pfaB/POyIAoe1EOu0QCfWVVViDKwBeMu/KiMi1zvf89o6nn0aY7ecU1P0U+dcUUrIHOWR7V86scWnQPWCrmWEHfcMjPJFUjaYbIYUps/F0LR7vBXZ6GTDrmb+ijTUYY/cWcxiXN7Uqrq4VYbxMSX0MEL05cUb4bUjp0iixjDyl9x1OfTmqrru6UBPwb6Oa+maVFfb4TUUC7pmopHjGQntc7LtGfueMs4Ar6PW2aqoYrVOHxNxGKLy3+V8FPmLOe2N2gk4oVSzAskvsS70Ud4OG0YpT/8jeV4nY2LD9pebrQsJxcSW9Hjb8hW0U/uaxhmWe3w7hPlp+8Q==;bYz2udH/ZcM79+cGBwS4rA=="
 ---
 

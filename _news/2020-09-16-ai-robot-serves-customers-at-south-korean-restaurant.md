@@ -44,17 +44,6 @@ related:
         height: 545
         isCached: true
   - title: "AI Robots serve restaurant customers in South Korea"
-    excerpt: "SEOUL, South Korea (AP) —"
-    publishedDateTime: 2020-09-15T16:34:00Z
-    webUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "AI Robots serve restaurant customers in South Korea"
     excerpt: "A burger shop in the South Korean capital is a bit different from typical fast food restaurants: Its key staff are robots. From order to pick-up, customers don't need a single face-to-face interaction."
     publishedDateTime: 2020-09-15T18:57:00Z
     webUrl: "https://www.sfgate.com/news/article/AI-Robots-serve-restaurant-customers-in-South-15567740.php"

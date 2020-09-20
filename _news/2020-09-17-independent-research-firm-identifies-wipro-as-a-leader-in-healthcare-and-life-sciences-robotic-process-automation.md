@@ -19,43 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
-    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
-    publishedDateTime: 2020-09-20T06:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
+  - title: "Aktana Introduces First Contextual Intelligence Engine for Life Sciences"
+    excerpt: "Aktana, the pioneer in intelligent engagement for the life sciences industry, introduces its next-generation Contextual Intelligence Engine to optimize interactions with healthcare professionals (HCPs)."
+    publishedDateTime: 2020-09-16T17:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
-    publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community"
+    excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond."
+    publishedDateTime: 2020-09-17T13:36:00Z
+    webUrl: "https://apnews.com/business-wire/af8afe69a60c47b1becac9c18bda64e9"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 18
+    quality: 14
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
-    excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
-    publishedDateTime: 2020-09-18T08:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/Domino-Data-Lab-Named-a-Leader-in-Notebook-Based-Predictive-Analytics-and-Machine-Learning-Evaluation-by-Global-Research-Firm"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "Lwr7M/xDV1emYm+naAkp4F8VmUFl/ur+ilGVblbmYQtGvfTO7GBL2O7Ox3FfCG/ADSL9u5hjXcPXYuVbk6mvKCLqDweZdIgtZABSMFNFJMv1gzATy4S7ChfI+kBIIY+FWGYD9RYckjSQOhkSvneqaZBN4vjF68GsYjCuiChJDyakad2mQ4q2Zx73ji3oHD/hKF+WADAzuLVn/5/mabuFzsXhza6HIdkC13rkoL+fslmIYlqBr+nRFbCozluJ06S0xCc2qKcw7f3De2MV1bBbE4ORZmAZ727xj6vitPf00XoovzkHraIhUatb9t3D7ZWQajJwqt1pP7NKbYl4+RI0GTwE+EFuzkGSlpWDzfFGp2s=;tNbpQ03acSRSwQPKDmASPQ=="
 ---

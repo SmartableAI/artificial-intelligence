@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T12:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html"
 webUrl: "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html"
 type: article
-quality: 50
-heat: 50
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/690233/Mphasis_Logo.jpg?p=facebook"

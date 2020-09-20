@@ -8,8 +8,8 @@ webUrl: "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cut
 ampWebUrl: "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp"
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp"
 type: article
-quality: 36
-heat: 36
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"

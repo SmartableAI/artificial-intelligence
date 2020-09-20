@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robots serve restaurant customers in South Korea"
-    excerpt: "SEOUL, South Korea (AP) —"
-    publishedDateTime: 2020-09-15T16:34:00Z
-    webUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-robots-serve-restaurant-customers-in-south-korea-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "A.I. robot serves customers at South Korean restaurant"
     excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
     publishedDateTime: 2020-09-16T11:11:00Z

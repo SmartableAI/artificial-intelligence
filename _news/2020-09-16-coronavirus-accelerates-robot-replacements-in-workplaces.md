@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Study: During Pandemic, More Workers Are Replaced by Robots"
-    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
-    publishedDateTime: 2020-09-15T16:04:00Z
-    webUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html"
-    ampWebUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_483185803.jpg"
-        width: 968
-        height: 630
-        isCached: true
   - title: "During pandemic, more workers being replaced by robots, new study finds"
     excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
     publishedDateTime: 2020-09-17T22:54:00Z

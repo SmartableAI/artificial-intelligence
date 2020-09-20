@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/digital/instagram-adds-ai-powered-automatic-c
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/instagram-adds-ai-powered-automatic-captions-to-igtv-videos/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Instagram Makes IGTV More Accessible With Automatic, AI-Driven Captions"
-    excerpt: "Instagram on Tuesday rolled out a new feature to IGTV: automatic video captions. The captions are powered by artificial intelligence and localized in 16 languages."
-    publishedDateTime: 2020-09-15T16:46:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60ee45512f01dcd9537442%2F0x0.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "J5M/xPct+ERaTRypdhvKwNlM0UHQ925C3pAP9vfpQJ2ch2TysdkqQr/3fFclNVetiI9DMI8AN+QKlDwNsZW5uxzs2UXr+5vkN8bQbb9XIh1zX6eja+13Z+kHMBzNkMdU0jTo/abU8VRwU5+YrTlV54wPxs3TMSK9GnpjMVNiQhc4ZdGsG0Rm+iGRQs5mHgBpzV/5sNMsJWE193Ry5pk8alDNHkRt0aI+y6BFQfA9PMon6JyrX3icgywoxuVMRdZFUIReBAehLA722/20lShI++zSieZKmckBa97aMibBHLjimeUTZh2kDUvY637GctEr5wBcdt+19iWX5gdwvMSTh2v5/qqMjRL8KxaYK/emfRv29rPA+I3deM2YsspLNA3sVrEABji+Xq/OK9AGwsZtJNBLDyhOzMt82pS/lzoAcpjv9O8ILTD2ebt1MnYXt7gWLWDU4S8EcYobWQaYoyOB3BAfX28Kt5imCLg0J6jmMTMt9GLs/BUcjKGiyEOdMzLPgU0dczENItbanpBNOjn3iA==;KXpTg8oh3sQEzHaeGCXZig=="
 ---

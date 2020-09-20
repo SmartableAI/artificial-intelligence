@@ -9,8 +9,8 @@ ampWebUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-w
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Spokesman-Review
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study: During Pandemic, More Workers Are Replaced by Robots"
-    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
-    publishedDateTime: 2020-09-15T16:04:00Z
-    webUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html"
-    ampWebUrl: "https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_483185803.jpg"
-        width: 968
-        height: 630
-        isCached: true
   - title: "Coronavirus Accelerates Robot Replacements in Workplaces"
     excerpt: "The Federal Reserve found that workers with jobs that can be done by machines are experiencing layoffs at a greater rate with the pandemic. Workers of color are especially hard-hit by this trend."
     publishedDateTime: 2020-09-15T21:40:00Z
