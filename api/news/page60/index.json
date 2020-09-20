@@ -2,6 +2,56 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-08-03-this-ai-powered-choose-your-own-adventure-text-game-is-super-fun-and-makes-no-sense.md",
+      "title": "This AI-Powered Choose-Your-Own-Adventure Text Game Is Super Fun and Makes No Sense",
+      "excerpt": "AI Dungeon debuted as a free text adventure game. Now the game’s AI system has been upgraded to GPT-3, or Generative Pre-trained Transformer, which has a language model that uses deep learning to produce human-like text.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bh9ni0rqlv4zfseavxe4.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
+      "publishedDateTime": "2020-08-03T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
       "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
       "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
@@ -1125,48 +1175,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-explained-what-is-natural-language-processing-gpt-3-and-how-it-works.md",
-      "title": "Explained: What is natural language processing GPT-3, and how it works",
-      "excerpt": "Natural language processing is how a software or programme reads language. It first checks for grammar and then for semantics. The more a software reads, the better it understands. So, if the information fed into the programme increases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/08/GPT-3-660.jpg",
-          "width": 660,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/lite/",
-      "publishedDateTime": "2020-08-02T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

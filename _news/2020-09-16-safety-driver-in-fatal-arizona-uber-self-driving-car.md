@@ -547,20 +547,6 @@ related:
         width: 1497
         height: 843
         isCached: true
-  - title: "Uber Backup Driver Indicted in 2018 Self-Driving Crash That Killed Woman"
-    excerpt: "A Maricopa County grand jury has charged a former self-driving car backup driver with negligent homicide over a March 18, 2018, crash in Tempe that killed a homeless woman. As internal video of the Uber car showed,"
-    publishedDateTime: 2020-09-15T09:50:00Z
-    webUrl: "https://www.phoenixnewtimes.com/news/uber-backup-driver-in-phoenix-indicted-over-fatal-self-driving-car-crash-in-18-11494111"
-    type: article
-    provider:
-      name: Phoenix New Times
-      domain: phoenixnewtimes.com
-    quality: 23
-    images:
-      - url: "https://images1.phoenixnewtimes.com/imager/u/original/11494118/volvo-suv-uber.jpg"
-        width: 1386
-        height: 797
-        isCached: true
   - title: "Thatcham Research comments on Uber’s self-driving operator charged over fatal crash and considerations for the UK"
     excerpt: "Director of Insureance Research Matthew Avery has shared his thoughts on the Uber case in the US and the potential implications of self-driving vehicles"
     publishedDateTime: 2020-09-16T21:46:00Z

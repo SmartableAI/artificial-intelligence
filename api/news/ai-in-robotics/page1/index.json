@@ -459,6 +459,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-16-ai-robot-serves-customers-at-seoul-restaurant.md",
+      "title": "A.I. robot serves customers at Seoul restaurant",
+      "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB",
+      "publishedDateTime": "2020-09-15T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-study-during-pandemic-more-workers-are-replaced-by-robots.md",
       "title": "Study: During Pandemic, More Workers Are Replaced by Robots",
       "excerpt": "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report.",
@@ -1300,57 +1351,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
-      "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
-      "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "originalUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-230139/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "publishedDateTime": "2020-09-09T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

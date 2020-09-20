@@ -2,6 +2,56 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-08-25-how-insurers-can-help-enterprises-with-ai-adoption.md",
+      "title": "How Insurers Can Help Enterprises With AI Adoption",
+      "excerpt": "Insurance companies have quantified and mitigated new types of risk for centuries. There's no reason this trend shouldn't continue with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43baedc0067df365f1cd90%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/25/how-insurers-can-help-enterprises-with-ai-adoption/amp/",
+      "publishedDateTime": "2020-08-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
       "title": "Baidu creates ‘world’s largest’ Chinese natural language processing database",
       "excerpt": "Baidu launched Qian Yan, which it says is the largest Chinese database for natural language processing, among other AI-related products on Tuesday.",
@@ -1076,56 +1126,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
-      "title": "This Philosopher AI has its own existential questions to answer",
-      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
-      "publishedDateTime": "2020-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

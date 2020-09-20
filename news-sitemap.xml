@@ -91,7 +91,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
+    <loc>https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
     <lastmod>2020-09-18T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -231,12 +231,6 @@
   <url>
     <loc>https://venturebeat.com/2020/09/17/ibms-watson-assistant-can-now-field-election-questions/</loc>
     <lastmod>2020-09-17T05:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-insights-forecast-to-2026-ibm-microsoft-google-nvidia-corporation-2020-09-17</loc>
-    <lastmod>2020-09-17T03:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -445,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB</loc>
+    <lastmod>2020-09-15T13:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/</loc>
     <lastmod>2020-09-15T12:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -525,12 +525,6 @@
   <url>
     <loc>https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%253A-4-stocks-in-focus-2020-09-15</loc>
     <lastmod>2020-09-15T07:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/</loc>
-    <lastmod>2020-09-15T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,6 +711,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/</loc>
     <lastmod>2020-09-14T07:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
+    <lastmod>2020-09-14T07:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -925,6 +925,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://hackaday.com/2018/06/02/facebooks-universal-music-translator/</loc>
+    <lastmod>2020-09-12T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html</loc>
     <lastmod>2020-09-12T16:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1039,7 +1045,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&amp;ito=1490&amp;ns_campaign=1490</loc>
+    <loc>https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html</loc>
     <lastmod>2020-09-11T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1255,12 +1261,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
-    <lastmod>2020-09-10T08:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail</loc>
     <lastmod>2020-09-10T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1425,6 +1425,12 @@
   <url>
     <loc>https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio</loc>
     <lastmod>2020-09-09T18:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
+    <lastmod>2020-09-09T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

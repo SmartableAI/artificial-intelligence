@@ -2,6 +2,56 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-08-24-this-philosopher-ai-has-its-own-existential-questions-to-answer.md",
+      "title": "This Philosopher AI has its own existential questions to answer",
+      "excerpt": "A new text-generating system called the Philosopher AI will answer your questions about the meaning of life -- unless they're too contentious.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-24T160614.887-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/24/this-philosopher-ai-has-its-own-existential-questions-to-answer/amp/",
+      "publishedDateTime": "2020-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-why-data-bias-in-ai-will-keep-board-directors-and-ceos-awake-at-night.md",
       "title": "Why Data Bias In AI Will Keep Board Directors And CEOs Awake At Night?",
       "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
@@ -1111,57 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-23-the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars.md",
-      "title": "The AI ‘Intelligence Explosion’ Might Happen This Way, Including For AI Self-Driving Cars",
-      "excerpt": "Some vehemently assert that we are potentially going to have an AI “intelligence explosion” that will someday occur, and there are various bets that this might happen somewhere between the year 2050 and the year 2100.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902260582%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/23/the-ai-intelligence-explosion-might-happen-this-way-including-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-08-23T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

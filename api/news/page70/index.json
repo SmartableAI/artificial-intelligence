@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-07-27-a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy.md",
+      "title": "A New Brain-Inspired Learning Method for AI Saves Memory and Energy",
+      "excerpt": "Rather than processing big batches of data at once, the approach simply learns from data as it becomes available, cutting the required memory and energy.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
+      "publishedDateTime": "2020-07-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-this-ai-tool-can-identify-individual-birds-with-90-accuracy.md",
       "title": "This AI tool can identify individual birds with 90% accuracy",
       "excerpt": "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ...",
@@ -1118,48 +1161,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions.md",
-      "title": "DeepMind’s Newest AI Programs Itself to Make All the Right Decisions",
-      "excerpt": "When Deep Blue defeated world chess champion Garry Kasparov in 1997, it may have seemed artificial intelligence had finally arrived. A computer had just taken down one of the top chess players of all time.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/07/red-dice-black-background-probability.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
-      "publishedDateTime": "2020-07-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

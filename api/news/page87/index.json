@@ -2,6 +2,57 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2020-07-15-tiktok-gets-facial-recognition-on-americans-and-sends-to-chinatrump-official.md",
+      "title": "TikTok ‘Gets Facial Recognition’ On Americans And Sends To China—Trump Official",
+      "excerpt": "The threat of a U.S. ban on TikTok has become more real, with the latest warning from Trump's National Security Adviser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1577c1888ec0000690735b%2F0x0.jpg%3FcropX1%3D573%26cropX2%3D3130%26cropY1%3D504%26cropY2%3D2061",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/",
+      "publishedDateTime": "2020-07-15T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-british-chip-designer-graphcore-unveils-new-ai-processor-more-complex-than-nvidias.md",
       "title": "British chip designer Graphcore unveils new AI processor more complex than Nvidia’s",
       "excerpt": "The processor has 59.4 billion transistors and offers an eight times performance increase from the company’s Colossus MK1, says Graphcore. It boasts more than the 54 billion transistors found in Nvidia’s A100,",
@@ -1161,48 +1212,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-virgin-active-south-africa-outlines-plans-for-a-safe-re-opening.md",
-      "title": "Virgin Active South Africa outlines plans for a safe re-opening",
-      "excerpt": "The South African arm of Virgin Active has released the procedures it is going to put in place when it re-opens, including online bookings for attendance, capacity monitoring and employee screening.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/07/Virgin-Active-South-Africa-ReOpen-Image.jpg",
-          "width": 797,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "publishedDateTime": "2020-07-14T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

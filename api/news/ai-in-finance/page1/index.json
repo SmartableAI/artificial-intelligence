@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-15-team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team.md",
-      "title": "Team8 nabs former Bank Leumi CEO Rakefet Russak-Aminoach for Fintech team",
-      "excerpt": "Team8 Fintech will focus on founding, investing and growing fintech companies, the company says; Team8 sets up cyber and data companies, and has a VC arm",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
-      "originalUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/09/Team8-Fintech-team-e1600079367171-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/",
-      "publishedDateTime": "2020-09-15T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-13-machine-learning-market-analysis-size-share-growth-trends-and-forecast.md",
       "title": "Machine learning Market Analysis, Size, Share, Growth, Trends, and Forecast",
       "excerpt": "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during",
@@ -1414,6 +1372,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why.md",
+      "title": "Fintech just made a big leap forward in this tiny country: Here's why",
+      "excerpt": "But now its fintech industry, especially the digital-payments sector, is also beginning to make its mark. When Microblink, an R&D company based in Zagreb, Croatia, started out in 2013, it had to rely on its founders' finances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "originalUrl": "https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/10/25/55775b91-e663-4566-b8d3-471de68b11e7/thumbnail/1200x675/53c53f5d09cf88bbcb76eb0d0ea7e347/fintech-startups-why-bulgaria-is-a-hotbe-5da7266bdc406100013edd0f-1-oct-25-2019-19-26-43-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/",
+      "publishedDateTime": "2020-08-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

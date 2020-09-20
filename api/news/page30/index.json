@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-26-microsofts-immersive-reader-for-azure-cognitive-services-is-now-available.md",
+      "title": "Microsoft’s Immersive Reader for Azure Cognitive Services Is Now Available",
+      "excerpt": "Immersive Reader is now generally available for Azure Cognitive Services following a significant increase in usage of the preview.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "originalUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/05/Translate-Microsoft-Edge-Immersive-Reader.jpg",
+          "width": 741,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/26/microsofts-immersive-reader-for-azure-cognitive-services-is-now-available-xcxwbn/?amp",
+      "publishedDateTime": "2020-08-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-robotaxi-startup-voyage-loads-self-driving-vans-with-coronavirus-killing-tech.md",
       "title": "Robotaxi Startup Voyage Loads Self-Driving Vans With Coronavirus-Killing Tech",
       "excerpt": "The self-driving company that provides ride services for senior citizens is outfitting autonomous minivans with an ultraviolet lighting system adapted from ambulances.",
@@ -1137,48 +1179,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
-      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
-      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

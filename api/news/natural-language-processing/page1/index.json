@@ -391,6 +391,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-13-facebooks-universal-music-translator.md",
+      "title": "Facebook’s Universal Music Translator",
+      "excerpt": "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "originalUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-toucan-raises-3m-to-teach-you-new-languages-as-you-browse-the-web.md",
       "title": "Toucan raises $3M to teach you new languages as you browse the web",
       "excerpt": "Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automatically translate some of the",
@@ -548,8 +590,8 @@
       "title": "Coronavirus led to world's first 'infodemic,' but AI could be answer",
       "excerpt": "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8722673/Covid-19-sparked-worlds-infodemic-AI-provide-answer-study-claims.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1430,57 +1472,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-past-the-ai-hype-when-is-ai-actually-profitable.md",
-      "title": "Past The AI Hype: When Is AI Actually Profitable?",
-      "excerpt": "One of the most important value drivers of machine learning and artificial intelligence technology isn't the technology itself. It's where a company deploys it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f404fde7a59af5a9e083a3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/09/01/past-the-ai-hype-when-is-ai-actually-profitable/amp/",
-      "publishedDateTime": "2020-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

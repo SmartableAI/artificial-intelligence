@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
+      "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
+      "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-221966/social",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
+      "publishedDateTime": "2020-08-18T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan.md",
       "title": "Facebook says AI can help you spend less time getting an MRI scan",
       "excerpt": "Facebook doesn't manufacture MRI machines, but the partnership with NYU is a way for the company to advance AI research. Artificial intelligence is playing a larger role in health care, including in robotic surgery, cancer risk predictions and medical ...",
@@ -1149,58 +1200,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-google-claims-tensorflows-opencl-can-double-inference-performance.md",
-      "title": "Google claims TensorFlow’s OpenCL can double inference performance",
-      "excerpt": "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/",
-      "originalUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "publishedDateTime": "2020-08-17T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

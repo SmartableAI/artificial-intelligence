@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakef
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/team8-nabs-former-bank-leumi-ceo-rakefet-russak-aminoach-for-fintech-team/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Times of Israel
@@ -40,20 +40,6 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2020/800x392.2020915T124948.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "Former Bank CEO and Two Fintech Unicorn Entrepreneurs Join Forces with Team8 to Launch New Fintech Venture Powerhouse"
-    excerpt: "PRNewswire/ -- Team8, company-building venture group backed with strategic funding from Microsoft, Walmart, Barclays and Moody's, among others,"
-    publishedDateTime: 2020-09-15T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/former-bank-ceo-and-two-fintech-unicorn-entrepreneurs-join-forces-with-team8-to-launch-new-fintech-venture-powerhouse-301131054.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1273585/Team8_Fintechs_leadership_team.jpg?p=facebook"
-        width: 1279
-        height: 670
         isCached: true
 
 secured: "7CrrkzuoSwxLuXdiJVMw28LS+LMBwd1hiIJQB9tTae64ivzZE/wpiIYEC764g48Uc2fDrjd8CZqgd3pLxBnJJH7Fk79zpguxHTFIVckvUfW4GDOuokopeIjvj5rGA61F4e4P1Lp8ry1FPGV3gcRN9HkvIrZc3UoGD1tNI0OoE2Z0SaC0/u63+Be4bZwRCEIF+Dx5rf9EJ2HQaumvsYvhZTl7yMCTtFVVdWI3aCpY623hJn2nRGc20spjg0BscmrQL/fvYo4M+jqbEaQZ2SQ9FofFOO+9wfzd4yFDX7duQ/A+5+Y0dinazINciMm1WILb6ldA76IFr3H8LF4XEyiuC+/yaGbDE6s4vU8Z7HXAc3qkiZr+nXUjNaNASuzGBFtJOyutB1N88yb3y0E/G90pfcj9lMmgqvoDZtxv5pZ0KgTPvOXCVYs9E0CzfaJ9ZN9zQV7/k/ZZANFRLJC+h8rSdZfiykTMxVU/6wfxVPLsRVTGLT3dKs2wmZHZgMp2uAIJQupYR/43hCs829P2Sqp8JFk+NDtKsMOeiAqSIELD1KI=;QfxqAlBSvsbA8Lj/CsqTfQ=="

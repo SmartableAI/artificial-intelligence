@@ -2,6 +2,47 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-07-31-dhs-analyzed-protester-communications-despite-comments-to-the-contrary.md",
+      "title": "DHS analyzed protester communications despite comments to the contrary",
+      "excerpt": "Arradondo said police had also seized a record number of illegal guns during recent arrests, including ... at a Black Lives Matter protest in Las Vegas has now also been charged with sexual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f2c503ac50991009ef44d5b/lede/1596751220691-pexels-photo-207574.jpeg?crop=1xw:0.84375xh;center,center",
+          "width": 3375,
+          "height": 1898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests",
+      "publishedDateTime": "2020-07-31T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
       "excerpt": "According to report publish a new market research report on the \"Artificial Intelligence (AI) in Healthcare Market: Global Size, Trends, Competitive, Historical and Forecast Analysis, 2020-2025 ...",
@@ -1127,57 +1168,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
-      "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
-      "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24b122319cd74a70cf29d5%2F0x0.jpg",
-          "width": 1199,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
-      "publishedDateTime": "2020-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

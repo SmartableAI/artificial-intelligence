@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-15-national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin.md",
+      "title": "National University of Singapore used Intel neuromorphic chip to develop touch-sensing robotic ‘skin’",
+      "excerpt": "Researchers at the National University of Singapore used an Intel-designed neuromorphic chip to create touch-sensing robotic \"skin.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/7d2e4946-42e2-44e0-acbf-4da10f08eec1-e1594251380414.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
+      "publishedDateTime": "2020-07-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-british-chip-designer-graphcore-unveils-new-ai-processor-more-complex-than-nvidias.md",
       "title": "British chip designer Graphcore unveils new AI processor more complex than Nvidia’s",
       "excerpt": "The processor has 59.4 billion transistors and offers an eight times performance increase from the company’s Colossus MK1, says Graphcore. It boasts more than the 54 billion transistors found in Nvidia’s A100,",

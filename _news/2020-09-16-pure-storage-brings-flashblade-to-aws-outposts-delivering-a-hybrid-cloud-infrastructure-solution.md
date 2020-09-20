@@ -40,6 +40,15 @@ related:
         height: 630
         isCached: true
   - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
+    excerpt: "Pure Storage, the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the Amazon Web Services Partner Network, today announced that FlashBlade ® has achieved the AWS Outposts Ready designation,"
+    publishedDateTime: 2020-09-20T02:21:00Z
+    webUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
+  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
     excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
     publishedDateTime: 2020-09-19T03:09:00Z
     webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"

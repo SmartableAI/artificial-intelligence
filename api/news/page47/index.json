@@ -2,6 +2,56 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-08-13-no-facebook-isnt-getting-political-clickbait-out-of-its-news-tab.md",
+      "title": "No, Facebook Isn’t Getting Political Clickbait Out Of Its News Tab",
+      "excerpt": "The last item represents a major venture into supporting news publishers. Facebook News headlines, curated by humans and algorithms ... There are real problems here, as Snopes noted in a 2019 ...",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/",
+      "originalUrl": "https://www.forbes.com/sites/robpegoraro/2020/08/13/no-facebook-isnt-getting-political-clickbait-out-of-its-news-tab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-us-west-1.amazonaws.com/rks-inside-prod/twitter-card.jpg",
+          "width": 1600,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions.md",
       "title": "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions",
       "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
@@ -1129,48 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-sas-automl-.md",
-      "title": "코오롱베니트, 'SAS AutoML 활용 전략’ 웨비나 개최",
-      "excerpt": "[파이낸셜뉴스] 코오롱그룹 IT서비스 전문기업 코오롱베니트가 오는 27일 ‘AI기반 의사결정 지원을 위한 SAS AutoML 활용 전략’ 웨비나를 개최한다고 13일 밝혔다. 자동화 머신러닝(AutoML)은 최적의 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnnews.com/news/202008131602495034",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.fnnews.com/resource/crop_image/2020/08/18/thumb/202008181506500395_1597797299405.jpg",
-          "width": 280,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fnnews.com/ampNews/202008131602495034",
-      "cdnAmpWebUrl": "https://www-fnnews-com.cdn.ampproject.org/c/s/www.fnnews.com/ampNews/202008131602495034",
-      "publishedDateTime": "2020-08-13T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "파이낸셜뉴스",
-        "domain": "fnnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
