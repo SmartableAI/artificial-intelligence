@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
 webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
+    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
+    publishedDateTime: 2020-09-20T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
     excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
     publishedDateTime: 2020-09-17T05:39:00Z

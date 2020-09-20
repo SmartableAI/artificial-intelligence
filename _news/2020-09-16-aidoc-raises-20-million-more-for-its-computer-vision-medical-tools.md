@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Observe.ai raises $54 million to analyze call center conversations"
-    excerpt: "Call analytics startup Observe.ai, which taps AI to glean insights from customer service recordings, raised $54 million in a funding round."
-    publishedDateTime: 2020-09-15T13:18:00Z
-    webUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/"
-    ampWebUrl: "https://venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/observe-ai-raises-54-million-to-analyze-call-center-conversations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/b0a90ea6-65ce-4f04-bddf-a4036c2c9034-e1599603079929.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Aidoc raises $20 million more for its computer vision medical tools – Jaweb"
     excerpt: "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019, bringing the round total to $47 million and the company’s total raised to $60 million."
     publishedDateTime: 2020-09-16T13:23:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Elad-Walach-Pic.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution"
-    excerpt: "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin"
-    publishedDateTime: 2020-09-15T13:45:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 28
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
         isCached: true
 
 secured: "nXJjajGTNyf1sKwLEsJJiBcY+DQHc4J1PjS0McLZPHydayctMsLVEYimgddfnT9kX/azlMpDevvyWsupuwbaDkCa0surXtcCNr7JdR6tgU39U+lIgJIdM0jCyf270XKIej5DXZ2XBRnBigJN+vWnSxTGx2FUk0lXTEyMsVoZoKPxAfOKN6ToBxvpBmAq8W6db37zD2DEehgjhTB4zmPg48U7af49uwt3gKMihP7AZTS1H0IS/0PIEs9SGJeS9moty+8alao8BlxBEarvy96ExtILMMOUQ+5FB4GEGEftCqCEgWja8bQGaHxxyR261jMA7xBH45DWrpxh93IBOAA16PX1Xtdik9mngm4sedB69jonRNKw3hvU5A8mIcGYdjDA7hUdYnJXBDGPup/lBwbnCkU6e7/IyVQb19Iv6s12ujotTxgP1cYNqUoLrzS/AENllJXwD2aJZ8al3ntMJE0tlLXZLsjz3namZF6jfRv8ucevOqN4cGzK/Hi6QiGNq8oe467Rc9hj6pPIGSaG5olXug==;OA07U/XUUN8kHOkvD8+zFg=="

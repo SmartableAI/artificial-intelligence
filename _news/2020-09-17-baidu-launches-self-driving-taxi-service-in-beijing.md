@@ -9,7 +9,7 @@ ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-serv
 cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu (BIDU) Expands Apollo Go Robotaxi Service to Beijing"
-    excerpt: "The company recently revealed that the Apollo Go Robotaxi service is now available in Beijing, China’s capital. The service covers about 700 kilometers across China, and features about 100 pick-up and drop-off stations across several residential as well as business areas in the Yizhuang,"
-    publishedDateTime: 2020-09-15T15:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bidu-expands-apollo-go-robotaxi-service-to-beijing-2020-09-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "China’s Baidu Demonstrates its Apollo Robotaxi Using its 5G-Powered ‘Remote Driving Service’"
     excerpt: "Baidu displayed Fully Automated Driving using Apollo’ AI platform. This marks a new promise for autonomous vehicles equipped with 5G and AI. Baidu also announced AI platforms: DuerOS, Xiaodu."
     publishedDateTime: 2020-09-18T06:41:00Z

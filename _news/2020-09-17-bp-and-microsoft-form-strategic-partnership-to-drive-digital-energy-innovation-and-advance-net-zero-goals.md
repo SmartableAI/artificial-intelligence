@@ -45,17 +45,6 @@ related:
         width: 630
         height: 354
         isCached: true
-  - title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
-    publishedDateTime: 2020-09-15T14:24:00Z
-    webUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
-    ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 54
   - title: "BP and Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
     excerpt: "Microsoft Corp. today ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
     publishedDateTime: 2020-09-16T06:42:00Z
@@ -67,15 +56,6 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 21
-  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T07:38:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 3
 
 secured: "LJQp1y7qzjkrN8tYDm8Dss9k6yf3Sej+YBWK3i4pflREIIw/2z9MdAeTQJU/cjkkCdzspdusB/I/bsQq7orzehu3Ibf9gqJqADQHSTLpqZrEenhdT+xQY5u89aypzJbaKuCAwL7QQAwIX90SULO9tU836J6wZ1OsulNcJzGBQGhcbSzLAlfNgTz2X2ND60rOV60joazi+WeILP+VeQ5UGE9KzBTnvbeX13lag3YrTN0kMkadXUDhQPBGRLPg/m/YbEJUoUC0TN6rsm6R5Xu4En+rT4dPLzcqxymlpkXAaBYJ42jaky8hTyIETK//l970hIn0Rmbes/McvYrby9z2M+LqzgPqy3PzSc2mUlEXn70=;8AfHCnP6Wfx8d38b6PL9NQ=="
 ---

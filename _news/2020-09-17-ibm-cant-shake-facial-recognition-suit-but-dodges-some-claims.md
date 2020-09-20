@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
+    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
+    publishedDateTime: 2020-09-20T07:15:00Z
+    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
+    type: article
+    provider:
+      name: Willamette Week
+      domain: wweek.com
+    quality: 21
+    images:
+      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
     excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
     publishedDateTime: 2020-09-16T19:57:00Z

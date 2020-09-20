@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural"
-    publishedDateTime: 2020-09-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chipsets-market-worth-57-8-billion-by-2026---exclusive-report-by-marketsandmarkets-301130934.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
 
 secured: "Iv8/I0yYSNLRVbC43tHCMYBeOLcC16P+lR3X+LBWabrM3vSycx2BBOM1+rWVsjLflD9yd2tnFrnjgrDt/cO2EhwqDAFH+mFicOghuhz0Bnmw338f3NuE3WHobyJ29DMvJ0vCBXJIUrAike2El8UAsQxwYgYWEVy5MEogLuovpU/q4kw+MekPo+7wn9ZvLUPt8MfWezksMHSofCRKQM2580hrAjDXI94m+zJWmcB1SkudyNtwrmHUIOi2+e4n+4JJKe4Ka2KjICBnf0/4Vvi6eJHdj86aZrsB7JzBP69dSH+/AdG3kucw5uPt8Tte3C+nmT65r/PXLg8Ju5KwFfBs4pcPXI0cC9I7xxPWNdiyTsg=;vV6m7XhGyx5Mg3nNAWICkg=="
 ---

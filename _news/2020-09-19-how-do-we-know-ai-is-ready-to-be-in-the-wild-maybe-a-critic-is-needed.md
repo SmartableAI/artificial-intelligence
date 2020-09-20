@@ -1,15 +1,15 @@
 ---
 category: news
 title: "How do we know AI is ready to be in the wild? Maybe a critic is needed"
-excerpt: "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,"
+excerpt: "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,"
 publishedDateTime: 2020-09-18T20:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+originalUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+webUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 3684
     isCached: true
 
-secured: "enOARk1VvUUSeKu4YW769KEaG40EBjsSzchObkwuTe/P4sKFl5QTx+0/5cCND/ZmEfJntKp4VO/64kxBNUdG90wM8KtUA2SFzuWv/R0BNP3ZMW3v/6jipbIAXJRid4GGvd27l5BWJc+JagwmLZZXulCJioa5RoQThIv/FW78poIMWdlc1kjCnKUw4Tw0wXvwCltJagvxRGPjetmkp76dZxK6Ukno0TAtkSYI3CPTAWNJilVNpZ5qrFcqHzM7i3LPzrps9jLxLTITHs2JwKGnyMoOXIivs8EIC5DYBpCK0FCEWudWLKq8EIdflC8jRmnfrNLuc3igqjC/vcweMAolZmSxLjl2Bro23jzmUC5YqdQ=;JRhj5vv+I2RUaR1BTSHBFw=="
+secured: "tmf9P8A++K6nneEm6k/pQmvGB6WzdvCDzcURj7TslAp5FAut/MFpZ/1XlICuyzjFBSxseuU4Pm3BCRNJiyCvsSvgUP/Vd18FJiuBxQST1LNE9G5GhIJ98qtts8muUxDRKIP46VMeWo18a/Xm3DDzZvjAFfRb1Q3onMnJiLy5G91qXbcKtsp2fAVAZpCqGNTom/QVN/4UDpXSQJkMtC92SRujZU7zy6UlTcsldJRUbBaeZXyMpxa0XRqufmYUKhacTb4KqIHKdShy//NEOB70/a1Z6bkbyqZEc362H5ueGfHbbjTIU49GwDf6m0/njvYWL3hN1BpHUkZtCW+tSyhCWnzUZjOsd5xZhMOU8DMZ778=;/RqVxW/AiogmcKpc68HHew=="
 ---
 

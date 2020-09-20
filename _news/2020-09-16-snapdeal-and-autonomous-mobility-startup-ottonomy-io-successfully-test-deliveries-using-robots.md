@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snapdeal Deploys Robots In Its Delivery Fleet"
-    excerpt: "Ottonomy IO has developed delivery robots for autonomous last-mile and local deliveries which can actually run along sidewalks and local streets autonomously."
-    publishedDateTime: 2020-09-15T14:38:00Z
-    webUrl: "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/"
-    ampWebUrl: "https://inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/snapdeal-partners-with-ottonomy-io-for-contactless-delivery-via-robots/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2020/09/31-1.jpg"
-        width: 1360
-        height: 630
-        isCached: true
-  - title: "Snapdeal to deliver packages using robots"
-    excerpt: "Snapdeal to deliver packages using robots. In collaboration with autonomous mobility start-up Ottonomy IO, Snapdeal has successfully tested last-mile delivery using robots in select locations of Delhi-NCR."
-    publishedDateTime: 2020-09-15T14:43:00Z
-    webUrl: "https://www.rediff.com/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-snapdeal-to-deliver-packages-using-robots/20200915.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 59
-    images:
-      - url: "https://im.rediff.com/345-230/money/2020/sep/15export.jpg"
-        width: 345
-        height: 230
-        isCached: true
-  - title: "Snapdeal turns to robots to make contactless deliveries amid COVID-19"
-    excerpt: "In collaboration with autonomous mobility start-up Ottonomy IO, Snapdeal has successfully tested last-mile delivery using robots in select locations of Delhi-NCR."
-    publishedDateTime: 2020-09-15T14:13:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/sep/15/snapdeal-turns-torobots-to-make-contactless-deliveries-amid-covid-19-2197240.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/1/9/w600X390/2017-04-05T044237Z_1_LYNXMPED3406Z_RTROPTP_3_SNAPDEAL-FINANCING-INTERVIEW.JPG"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles"
     excerpt: "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously."
     publishedDateTime: 2020-09-15T18:58:00Z
@@ -90,22 +42,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK"
         width: 647
         height: 363
-        isCached: true
-  - title: "Snapdeal Is Testing ‘Contactless Last-Mile Delivery’ In Autonomous Robots & This Is The New Normal"
-    excerpt: "We've already seen a lot of companies get on board the idea of autonomous delivery. Now, it looks like Snapdeal is also trying to get a taste of it. Yes, the e-commerce giant is now testing using autonomous robots for last-mile delivery."
-    publishedDateTime: 2020-09-15T13:38:00Z
-    webUrl: "https://www.mensxp.com/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
-    ampWebUrl: "https://www.mensxp.com/amp/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
-    cdnAmpWebUrl: "https://www-mensxp-com.cdn.ampproject.org/c/s/www.mensxp.com/amp/technology/news/80522-snapdeal-is-testing-contactless-last-mile-delivery-in-autonomous-robots-this-is-the-new-normal.html"
-    type: article
-    provider:
-      name: MensXP
-      domain: mensxp.com
-    quality: 45
-    images:
-      - url: "https://img.mensxp.com/media/content/2020/Sep/Snapdeal-Is-Testing-Contactless-Last-Mile-Delivery800_5f60c3af87b71.jpeg"
-        width: 800
-        height: 420
         isCached: true
   - title: "Snapdeal tests last mile delivery with robots"
     excerpt: "The robots developed by Ottonomy can run along sidewalks and local streets autonomously to deliver orders to nearby homes."

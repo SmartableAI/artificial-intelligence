@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ceva-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ceva-partners-with-fluent-ai-to-offer-multilingual-speech-understanding-solutions-for-intelligent-edge-devices/article_684a3e5b-64b4-5f9f-84fe-b97ace1c4629.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Choosing solutions for edge AI"
-    excerpt: "While it’s clear what’s pushing AI to the edge, there are a number of different ways to implement AI at the edge. For engineers, choices are always"
-    publishedDateTime: 2020-09-15T14:00:00Z
-    webUrl: "https://www.embedded.com/choosing-solutions-for-edge-ai/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 41
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200915094239What-Enables-AI-at-the-Edge-_2.jpg"
-        width: 640
-        height: 345
-        isCached: true
 
 secured: "uvCL5wDQSK9JtaHM5LCIjQuRW3Lc2IMRm5FZqGR7Ng922bZ6J6wS1KEU+EP4J+dQXVV7ViPgL9+drELZLZcFVU2v4uJM+VuzBUQfA3xUujypljLkY7SiS9uXyv29JiQT0qoTQHwDcZSm9OgTfc5J9d0l9RG/Ve5NaPtuXwB8Dfd3ApqC889/cVBaSSCIWlruvyWfaa1yP5iGWWyhPfR5x/NkJZRpbgK829P5UMGM/rjz7FyZF1fPP3QoWB/m0P0za3yniqjgKVwvxDMApHKA5afTev9BybXnzf0DNOZVQNTgNYFOcl9LUZe+SsmMM4q2KX+oyLfMDvGW252uHNbcgbYN2raakBVW6D9jFT920UUt5TUF6wtyFvcH6z/OIp8lo6Vb72cgnjv7jo4uHjXoBc8aXg70b7MS1xbHrGg5snWHh25sYtg9E/e0cYz8iG4xApJOI6C5jgFSNumq9j1nzA9XwWFGk3t0wTMfx2o0f/Q3GYF7ZcQO+afa0ZRFUMUQvEfaAygtHrtOPheGAjqXbg==;cScpYx2KehzJp02I9VNkNQ=="
 ---

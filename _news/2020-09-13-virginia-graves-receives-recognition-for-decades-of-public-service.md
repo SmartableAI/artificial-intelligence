@@ -2,13 +2,10 @@
 category: news
 title: "Virginia Graves receives recognition for decades of public service"
 excerpt: "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,"
-publishedDateTime: 2020-09-13T04:53:00Z
-originalUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
-webUrl: "https://salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
+publishedDateTime: 2020-09-13T04:07:00Z
+originalUrl: "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
+webUrl: "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: Salisbury Post
@@ -19,43 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg"
+  - url: "https://www.salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg"
     width: 622
     height: 466
     isCached: true
 
-related:
-  - title: "Nurse receives statewide recognition"
-    excerpt: "Carol Ervin, BSN, RN, with Carolinas HealthCare System Blue Ridge, has been selected for this year’s list of the Great 100 Nurses in North Carolina. The statewide recognition is a"
-    publishedDateTime: 2020-09-15T18:12:00Z
-    webUrl: "https://morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.html"
-    ampWebUrl: "https://morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.amp.html"
-    cdnAmpWebUrl: "https://morganton-com.cdn.ampproject.org/c/s/morganton.com/news/local/nurse-receives-statewide-recognition/article_fd15b976-f77e-11ea-af36-4bb844cd4557.amp.html"
-    type: article
-    provider:
-      name: morganton.com
-      domain: morganton.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/morganton.com/content/tncms/assets/v3/editorial/8/14/81481432-f77f-11ea-838e-bb99ffbab905/5f61067fdcc0c.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "WalkMe Receives Forbes Cloud 100 Recognition for the Fifth Consecutive Year"
-    excerpt: "WalkMe, the leading digital adoption platform and one of the fastest growing companies globally, today announced its inclusion in Forbes"
-    publishedDateTime: 2020-09-17T01:26:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/walkme-receives-forbes-cloud-100-recognition-for-the-fifth-consecutive-year-301132604.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/733440/WalkMe_Logo.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "U2nlu5nHh4twt0O97LRbVTopi8iot+aUCzTdiiG0cyQdjvqnweSHkbROLtG3eFqWQWUk2u3WBkSg3nmSocj7hDa32W4N+BNP5Y198K5IRAjc210adnXMrkxm6RDYVT5ee56/1MWrLGc3+ioYrKxtovzObG5DVZ65BBDGzQ1gUDYsJ0/mcCludKC+CA6+syVvprQziJlG0fkTVb57o5HqawfK3pPR8wvxNct3kPgzYAG9eP+Fm+d8FtOE9wKRetbsAQhClvVYOdWAbDpoFbTGjoO0FMogRhOFsD/WSfUXH+2/JrPZoxX6J329cHTnnAJBweGts5VzetOUNDO/SeDfVgQjnyVsiBtKQhXbJI6TkV6Yv+0cjCcLEMvko6NvTU43JITkrlS2PBKOg4GPaeA+eXtY+NNWOzutXj4qq6sWBH1vsNKXsf9zX/swooAWzHvzgaS4iRMb4juK0zP5B4pw8DJlBRac8zfCOgYpDbJILiDXyB6SvFzUSdMqDn1EP9UryFuK7CYrTKUmJLOV25dbeIt1HLpyghUurrhrTqwN48Q=;iAySvgKhkkVRrRDt+f8MyQ=="
+secured: "BfD+JmMNIE1P3vE/g/NGckcrhp9G/2MlJSe8F3jnQjbpeMOHO/lYDprTwC5Q74LNAFvboue0vJ8bwIatsk7sZpXP72atN4kqNIkYgiizLESGU5xmxoE8zBieYOjNvbS9SfMpSpHhmRAWtYaZIbnHMwbSsw0KuTrqCwdbjtHUxzk0ZkVr0V7dE5PjpHkiwz3JDf9pqGNoLBdSW6m8hSeS8lvFgO24rvQSqG7+YSSjKIHbBwBiCdMVjodDRtiAJQeoM/BqYJMVfh+pytpS/8D7M/NXZ1LceE+xbc3aREWHqG2pS5u+A2U5QXK0+gUX+DfTVb4sLBgBqatPR8gFpak1O+h/8guYTc26lGmHoctiD/M=;ZtiwB8iQeYX0U4v5h7g2bA=="
 ---
 

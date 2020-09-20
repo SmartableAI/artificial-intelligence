@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades"
-excerpt: "ARMONK, N.Y., Sept. 10, 2020 /PRNewswire/ -- Today, IBM (NYSE: IBM) and ESPN announced Trade Assistant with IBM Watson, a new feature to the ESPN Fantasy Football app designed to help fantasy ..."
-publishedDateTime: 2020-09-10T21:20:00Z
-originalUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
-webUrl: "https://www.troyrecord.com/news/national/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from/article_c883cbbc-b2df-5c32-bedf-e174aeacd7c9.html"
+excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2020-09-10T21:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
 type: article
 
 provider:
-  name: Troy Record
-  domain: troyrecord.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "aEns4WZjkWUy/8PG26sU3no7wzKplKyX/7rhD9R5vxB2TSqDjXD4LSHbdhYgs38lEkAIPqwOK3CNXPgd2U3QEd+Cr3LNM8nCkKd1PptbHzKvdyWQacRlA2IwRbxJVeydMscyOTqI+QSYJtVYqe+KFIVtaC+vZDWAzxHLeyW/M7njglgwAsCL5+oPET7AuL71h42XbZKDsTX5S+qEBNA+Apd9XVAky4DOMCceudLWhLKgLd9a8AOYwookG0rGSco1A6XDcadlwkqahGTqfhbFEFYmIrwuwjRpJeNm27ZqQefS677533Cbbu/X6g1hrci/NQKjTIR8NeKIoMpADXAfmMlg99rHuiBULdI7BbR9hY4=;MrFGgEsu92lAqsXSjrkWnA=="
+secured: "1lca8lwKcYtfyAPdCbcU2agOIZ/PMJBTjHK/T4WHI+8nm90rUe5XFZc0Su2Mgrul8MbLlQTIuWIOIQ2oop+kn+tNCbEkQGq6sXw8qdxmZdy4GllxgRErxCMoZrARoLdEaZzKORwlFbhZxPe4Q/8WgBYtI6TEjlj3mz8k+vdtEoYwN/29d7qR9bwE8WwWfIQWzHcO2PSxnaxF5mSM3NFl3ie7AclwknVXBitxqrlghYCgnSOXgAf9mzI3cDJnf9Duj+RXblzvzHdZmFjPZvcQSwqSqnliMXc3CTb45L4WtbCj6FRr+wU2vGhhCW3BXxICCgXb0alObIgKKYow5VZJ5+cPzo8zowyYkUvTVNcS2Yo=;aS2H3FC0HHokl4+4yC1ZNw=="
 ---
 

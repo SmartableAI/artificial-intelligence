@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural"
-    publishedDateTime: 2020-09-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chipsets-market-worth-57-8-billion-by-2026---exclusive-report-by-marketsandmarkets-301130934.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market Size Targets to Grow at a CAGR of 49.6% & to Hit $18.12 Billion by 2025"
     excerpt: "Allied Analytics :Different interventions that range from identification of patients and maintenance of their records during clinical trials, to application in drug discovery and repurposing are gradually incorporating artificial intelligence,"
     publishedDateTime: 2020-09-18T18:48:00Z

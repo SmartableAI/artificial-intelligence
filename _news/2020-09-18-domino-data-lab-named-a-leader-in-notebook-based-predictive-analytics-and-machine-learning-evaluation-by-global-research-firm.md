@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
+    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
+    publishedDateTime: 2020-09-20T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
     excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
     publishedDateTime: 2020-09-16T11:26:00Z

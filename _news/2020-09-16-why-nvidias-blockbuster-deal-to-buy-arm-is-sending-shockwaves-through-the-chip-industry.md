@@ -27,26 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus"
-    excerpt: "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,"
-    publishedDateTime: 2020-09-15T14:18:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp"
+  - title: "NVIDIA Strikes an ARMs Deal to Take All the Chips"
+    excerpt: "If NVIDIA NVDA gets regulatory approval to buy privately-held Arm Holdings from Softbank Group, it will not only be the biggest semiconductor deal ever at $40 billion, it could be the most controversial and powerful."
+    publishedDateTime: 2020-09-17T21:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Nvidia sends shockwaves through chip industry with Arm deal"
-    excerpt: "The $40 billion deal between Nvidia and SoftBank for Arm Holdings was tantamount to dropping a bomb in the middle of the chip industry."
-    publishedDateTime: 2020-09-15T14:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/09/15/nvidia-arm-holdings-softbank-shockwaves.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "rK8RB+nz4z/r78QKBJnMu1wHOk3WO0dhdhxCItPW1HNxU+AWGQha7sfT6/6xjD/CpCiZGr3qTW+TP1y9WYLOtYYNBP+n2P0ob57mo4v3o8YqFyYQpYwRh6nX/DLZ706ia/sxOu3ZfvnArI5H/2urjNs0pWimI7xWAJvf0+uFoYpbdG9m1syYw/fXQ0sFWJPmSDjWyH3boqAZgE3MqKpnPh53DiSDfNztdUtB6CoU6dFzTopSZYVA3ACehxv+6zH0x6MR1GsPBJfsd7jTlU7msiPtmwmfM+cee/pbsyr5V//UA+ShQSfvxJyVtVpAzcxIFTHZhXe7so+ywRXz166Xf2eJKISox1VEjXZUu6/9m/s=;N+W1iG2WeNBQC5CmvS+xjA=="
 ---

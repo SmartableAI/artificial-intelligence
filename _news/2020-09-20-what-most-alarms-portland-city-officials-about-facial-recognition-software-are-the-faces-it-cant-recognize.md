@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
-excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
-publishedDateTime: 2020-09-17T02:52:00Z
-originalUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
-webUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
-ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
-cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
+excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
+publishedDateTime: 2020-09-20T07:15:00Z
+originalUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
+webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: CBS Boston / WBZ
-  domain: cbslocal.com
+  name: Willamette Week
+  domain: wweek.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Best facial recognition home security cameras of 2020"
@@ -94,6 +98,17 @@ related:
         width: 720
         height: 393
         isCached: true
+  - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
+    excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
+    publishedDateTime: 2020-09-17T02:52:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Paying with facial recognition"
     excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
     publishedDateTime: 2020-09-16T21:02:00Z
@@ -108,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
-    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
-    publishedDateTime: 2020-09-20T07:15:00Z
-    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
-    type: article
-    provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 21
-    images:
-      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
     excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
     publishedDateTime: 2020-09-16T19:57:00Z
@@ -132,6 +133,6 @@ related:
       domain: triblive.com
     quality: 15
 
-secured: "Cxwui4W/rJx9d//zuY12ezT1Nxx5gu0fp/HaEDUQNzGj9IL1tQcMmkH45K8q25RUmI1FhjqkLa4JSTJiDa9BZA3GOI2gqQMQmdRPHqM0DMHXCsMhN5aWpAyjKzLg4bQIWaW44X/c+vayP366XqJWgVKAJeXLkhb4aJ75R0S6WnS/KC3gz36MoiaIJLh6Kf3W3sl+SzIcGNy5L17ALTm/GQtWt4hlHNQjSrEmO13cNVtw1MJwDXcugoqpHJGtCX3xEoWjwP5ZaKHsW1MBPEajjy7k9F27mdTYmalDWMt+GpH+fJWCSyaxzTMduny5ABYYuPJb0qDGSFhRNPeh757truKNH9rANHFPtQcU3RwdGKYWgQ+j9Qq+OHW1KfGEW1cBolej+x2/CwgOgfZyqjA8sYkCObD6wzkEpDP1wUfTzBGb6RqTe6ZA/qlcGW8BGlZ1ApEE97Z0Vfm6VVVZky6K3vCHsmsL52J06ioTYTkDFPKlF4Yxg6tUI4XBqcddexYExteS7eFIoMWhkJYyUmJBxg==;wQtCCXUwKG29LSFWel7QCA=="
+secured: "9omaA2KqschbPI43J4hYb2yAoY7fz6RovFiRGYkxr+YNHzyF8mr0q985NFyCmLyDhQ9za8wLdYPIS97tlSqPKcfVWgfE+CISRr0ZeFR5UsFxilU6wQs+czsrhVzsm3+JjnT6V6mGZzupSZPZJYfIQHcZklbM3d1WPtq8Pjk4rw07DQ6OAhbGLkBaw2A6GchIqdpgA10DbgxQa0ju+fbKzED1YXui8U3sskuGu80yilLCmVtdCnVVo7TIXKhYPhYbHnyWl5M7Qd+LIeob+0k3Ysy9SloOcLpnrWi3ikMHo6b2AFlrsh0f4qCWL3+vWvlAhHv21N1P+njAOSl34osRgnqQFycBJc13xGNem6AzvoA=;Y7RO2+rVLsnJnJth7AkZTQ=="
 ---
 

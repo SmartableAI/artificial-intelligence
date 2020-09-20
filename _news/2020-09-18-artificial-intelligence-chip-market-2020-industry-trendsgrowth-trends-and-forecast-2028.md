@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -220,20 +220,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market 2020 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Voice And Speech Recognition Software Market” report provides in-depth information about top manufacturers, market challenges,"
-    publishedDateTime: 2020-09-15T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-global-industry-size-outlook-share-demand-manufacturers-and-forecast-research-2026-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

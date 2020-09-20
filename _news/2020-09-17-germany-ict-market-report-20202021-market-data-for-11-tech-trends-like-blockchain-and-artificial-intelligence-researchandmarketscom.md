@@ -234,20 +234,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Software Market 2020 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Voice And Speech Recognition Software Market” report provides in-depth information about top manufacturers, market challenges,"
-    publishedDateTime: 2020-09-15T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2020-global-industry-size-outlook-share-demand-manufacturers-and-forecast-research-2026-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-18T13:18:00Z

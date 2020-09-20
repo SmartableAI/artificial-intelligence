@@ -19,58 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "bp and Microsoft join forces to advance sustainability goals"
-    excerpt: "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere."
-    publishedDateTime: 2020-09-16T00:14:00Z
-    webUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals"
-    ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
+  - title: "Nokia simplifies Microsoft Azure integration"
+    excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
+    publishedDateTime: 2020-09-16T12:26:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
     type: article
     provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 74
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
     images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg"
-        width: 630
-        height: 354
+      - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
-    publishedDateTime: 2020-09-15T14:24:00Z
-    webUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
-    ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
+  - title: "Mobius Logic's MAKANA Python Function Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Mobius Logic, Inc. a leader in next-generation digital services, today announced the availability of MAKANA Python Function (MPF) in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-09-17T19:27:00Z
+    webUrl: "https://www.lelezard.com/en/news-19427252.html"
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 54
-  - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-    excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
-    publishedDateTime: 2020-09-17T08:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "BP and Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "Microsoft Corp. today ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T06:42:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-‎innovation-and-advance-net-zero-goals/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 21
 
 secured: "EmWFWPlLYYYvihYkgu46KiSNAEuGG+7teOj2cdsgVrKhgsPMiopSaT/yUwKrd+0fCZQMatMJ7A0HCpoti/Lt2cQVgC7VuITG6DbFax3zMBHZA7sIVMvl2dEGrqHD5MjbDD5JA77Dkj6pc5EpkAfKc1zbzxOwpHXB7niywt3z1co69AIASPL7jhecqbzsL7651FkpXhwLiazJjibHwmIzBKe1B1XhsVMutOI8pw0uEr7qwX0EhSxSeFYA28dWS8813EjsFIhWSk8nFw9ETOot0KqEUe2vuV+qxy5QGWEB6XsQNQrSC4qwVTpZT4hysfH3C8H3taZ9qzL0xCCZN2gvod1fftIRbx+eip4FcbTcBDQ=;rHpVFqRsbfKwIhUG5T8oiw=="
 ---

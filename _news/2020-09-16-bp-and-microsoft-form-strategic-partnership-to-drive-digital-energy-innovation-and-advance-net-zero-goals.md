@@ -37,17 +37,6 @@ related:
         width: 630
         height: 354
         isCached: true
-  - title: "Microsoft (MSFT) And BP Sign Major Sustainability Partnership"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) And BP plc (NYSE: BP) announced that they have formed a strategic partnership to drive digital energy innovation and advance net-zero goals."
-    publishedDateTime: 2020-09-15T14:24:00Z
-    webUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/"
-    ampWebUrl: "https://pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-msft-and-bp-sign-sustainability-partnership/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 54
   - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
     excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
     publishedDateTime: 2020-09-17T08:28:00Z
@@ -62,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T07:38:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 3
 
 secured: "BZQ46jjoAJOhF+ZI33c8I3/ZgboVKZX7HPU09exT5X3qZ9AHvUQaIf4KnBflW59FZUookj61pM8FdHqly/qTUUDrXtdwNeFOPbWIAIvN9eY13bJwgR2/D6kskPG7fLUbilFq/5yiCKO3fZpnl3BGHMGyCBPiiP4l7wPvaQ/d89XmSI0GSNuT6gLnjRs/vo6CJz0aLJkCCi2mJcEeLKj4yLy13SFc4LYOiEGp+dtzJ9cQMHbaabgKXzs5/ABT24wUZO/KCMYIlt1EivwLVeox6SOUV23YmGIOcbN/2//hApjr6RIb7lPNtl7GK4coSBp9/Xxh2ami5wqMV3Etmq6/meBMVZaL8BlRq6+B8vncXs8=;TPYjNd+Du/bhxiZmQ2vJPg=="
 ---

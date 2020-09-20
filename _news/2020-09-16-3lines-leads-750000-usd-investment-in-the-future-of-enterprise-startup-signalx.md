@@ -23,22 +23,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "3Lines Leads $750,000 USD Investment in the Future of Enterprise Startup SignalX"
-    excerpt: "PRNewswire/ -- SignalX, a fast growing and AI-enabled Governance Risk Management and Compliance startup company based out of Hyderabad, India, has"
-    publishedDateTime: 2020-09-15T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/3lines-leads-750-000-usd-investment-in-the-future-of-enterprise-startup-signalx-301131332.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "W1Lv3VVkx1TyuU4q1cuY7tFyhJr/zhiucfQR6xwy2+cdeAQ9pFYJHg8mRfUpyjyRQuIzqQ9KgPofXCGToKNAsGiaZpvT4ziGG5hsPrf9/CzMCKW/r5npJVFqxQxgOMpkFZ3UBH0+gzA4797UKnVht9MOsHPZASW4JrrZMVRJ/SkigD3+jsme/YqNJpSrnxw8Z3F8R5UakR8u7H6kduMr/pebSnWjarI8687bAul2XGpPTajSZImnC1uX+b/ORvGO1q+TpcMvFiKF6w5bmJRMdhuETpdQPBgWm/WoG0gX/JxfWIHldXHz6tFIaIJEdrbG6qn1NA5Fd5x+ggXNyhs+TNbAGnGhjrhG/Pl4R/7XA+A=;AZ8C0bjSZepjq/NWEEo0nA=="
 ---
 

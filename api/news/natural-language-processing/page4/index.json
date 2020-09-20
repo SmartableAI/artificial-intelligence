@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-12-large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience.md",
+      "title": "Large Provider of Veterinary Products Selects Celebros AI Search to Power Their eCommerce Search Experience",
+      "excerpt": "(NASDAQ: BLIN), a provider of cloud-based digital experience software, announced today that a leading provider of animal health and veterinary products has selected Celebros Search by Bridgeline as their site search solution for their online store.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/3e71c4647c2839e8932b892c1003b0fd",
+      "originalUrl": "https://apnews.com/3e71c4647c2839e8932b892c1003b0fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-natural-language-processing-the-future-of-the-enterprise.md",
       "title": "Natural Language Processing: the future of the enterprise",
       "excerpt": "At the heart of many of these applications? Natural Language Processing (NLP). Here we introduce NLP, some of its most popular applications today and how it can play a transformational role in ...",
@@ -1428,48 +1470,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-nlp-poised-to-revolutionize-the-enterprise.md",
-      "title": "NLP poised to revolutionize the enterprise",
-      "excerpt": "Recent improvements in natural language processing (NLP) are bolstering mainstream technologies with speech and text capabilities, whether that's reading emails aloud in a natural-sounding voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
