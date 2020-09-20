@@ -2,6 +2,98 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-07-24-apple-acquires-more-ai-startups-than-any-other-tech-company.md",
+      "title": "Apple Acquires More AI Startups Than Any Other Tech Company",
+      "excerpt": "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353773",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1595605777-apple.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353773",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773",
+      "publishedDateTime": "2020-07-24T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-rbc-powers-up-its-ai-with-new-partnerships.md",
+      "title": "RBC powers up its AI with new partnerships",
+      "excerpt": "Plus, through the use of a GPU, Borealis AI has created trade execution algorithms used by RBC’s Capital Markets division. Said Agrafioti: “AI has the potential to model complex market decisions and increase accuracy in trade execution while adapting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investmentexecutive.com/news/industry-news/rbc-powers-up-its-ai-with-new-partnerships/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2018/01/AI_word_cloud.jpeg",
+          "width": 804,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investment Executive",
+        "domain": "investmentexecutive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-startup-founders-at-new-5g-open-innovation-lab-explain-how-theyve-adjusted-to-the-covid-19-crisis.md",
       "title": "Startup founders at new 5G Open Innovation Lab explain how they’ve adjusted to the COVID-19 crisis",
       "excerpt": "Evolute has Infrastructure AI, which allows us to seamlessly understand and transform ... How has your business been affected by COVID-19 and how are you adapting? As a stealth mode startup, we anticipated that our customer base could dissipate.",
@@ -1074,107 +1166,6 @@
         "name": "insidebigdata.com",
         "domain": "insidebigdata.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
-      "title": "Closing data gaps with Lacuna Fund",
-      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "publishedDateTime": "2020-07-23T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga.md",
-      "title": "Amazon brings Contact Lens, a set of AI-powered contact center tools, into GA",
-      "excerpt": "The machine learning-powered set of capabilities allow companies to automatically transcribe and analyze customer calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/22/50660081-ce3a-4998-ac36-6ea4c455bed6/thumbnail/1200x675/dc14c7d75bfcc9ea40ab77d1c94e9af7/googrecommendations.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "publishedDateTime": "2020-07-23T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

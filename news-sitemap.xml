@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias</loc>
+    <lastmod>2020-09-20T08:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240</loc>
     <lastmod>2020-09-20T03:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -67,7 +73,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
+    <loc>https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
     <lastmod>2020-09-18T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -187,12 +193,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17</loc>
-    <lastmod>2020-09-17T14:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/</loc>
     <lastmod>2020-09-17T14:46:53-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -249,6 +249,12 @@
   <url>
     <loc>https://www.newsweek.com/ai-whale-california-shipping-system-1532611</loc>
     <lastmod>2020-09-17T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/</loc>
+    <lastmod>2020-09-17T08:59:56-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -493,6 +499,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.neowin.net/news/get-this-deep-learning--data-analysis-certification-bundle-for-only-3999/</loc>
+    <lastmod>2020-09-15T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/09/15/harvard-researchers-developed-an-ai-to-determine-how-medical-treatments-affect-life-spans/</loc>
     <lastmod>2020-09-15T12:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -715,8 +727,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
-    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
+    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -805,7 +817,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
+    <loc>https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
     <lastmod>2020-09-14T07:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1267,6 +1279,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
+    <lastmod>2020-09-10T16:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1281,12 +1299,6 @@
   <url>
     <loc>https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/</loc>
     <lastmod>2020-09-10T14:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
-    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1843,7 +1855,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
+    <loc>https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution</loc>
     <lastmod>2020-09-08T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2875,6 +2887,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic</loc>
+    <lastmod>2020-09-02T12:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/</loc>
     <lastmod>2020-09-02T12:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2883,12 +2901,6 @@
   <url>
     <loc>https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/</loc>
     <lastmod>2020-09-02T12:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated</loc>
-    <lastmod>2020-09-02T12:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3691,8 +3703,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study</loc>
-    <lastmod>2020-08-31T06:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study-1029548140</loc>
+    <lastmod>2020-08-31T06:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

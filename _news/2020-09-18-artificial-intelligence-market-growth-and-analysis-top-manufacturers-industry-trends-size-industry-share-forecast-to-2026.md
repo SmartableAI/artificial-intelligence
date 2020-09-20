@@ -196,20 +196,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2020 Sales Channels, Technology and Production Analysis, Business Growth by 2025"
-    excerpt: "A comprehensive research study titled Global Artificial Intelligence Software Market 2020 by Company, Type and Application, Forecast to 2025 presents a basic overview of the industry including definitions,"
-    publishedDateTime: 2020-09-15T22:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-sales-channels-technology-and-production-analysis-business-growth-by-2025-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2020 , Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-18T13:18:00Z

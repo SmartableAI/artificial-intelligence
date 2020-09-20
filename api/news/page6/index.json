@@ -2,6 +2,91 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-14-big-data-reveals-new-insights-into-what-our-dreams-say-about-us.md",
+      "title": "Big Data Reveals New Insights Into What Our Dreams Say About Us",
+      "excerpt": "Some scientists enthuse about possible uses in therapy; Covid-fueled dreams of massive bug attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
+      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-231790/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "publishedDateTime": "2020-09-14T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
+      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
+      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
+      "publishedDateTime": "2020-09-14T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-idriverplus-raises-over-146-million-for-autonomous-street-cleaners-and-cars.md",
       "title": "Idriverplus raises over $14.6 million for autonomous street cleaners and cars",
       "excerpt": "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform.",
@@ -438,30 +523,21 @@
       "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
       "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "originalUrl": "https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-14T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1089,89 +1165,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation.md",
-      "title": "Inside Gilead’s $21 billion purchase of Immunomedics: Lamb chops, steak, and a chance for transformation",
-      "excerpt": "Gilead saw a chance to get a foundational asset in solid tumor oncology, while Immunomedics saw a chance to cap off a dramatic turnaround.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.statnews.com/2020/09/14/inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-artificial-intelligence-in-drug-discovery-market-size-worth-35-billion-by-2027-grand-view-research-inc.md",
-      "title": "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc.",
-      "excerpt": "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of 28.8%, according to a new report by Grand View Research, Inc. The growing adoption of artificial intelligence (AI) platforms aimed at reducing the overall cost associated with drug discovery and to enhance results is expected to propel the demand for these platforms in the pharma market.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
-      "publishedDateTime": "2020-09-14T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

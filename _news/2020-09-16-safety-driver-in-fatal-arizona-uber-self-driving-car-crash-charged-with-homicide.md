@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
-excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-publishedDateTime: 2020-09-15T22:00:00Z
-originalUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
-webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
+title: "Safety Driver in Fatal Arizona Uber Self-Driving Car Crash Charged With Homicide"
+excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+publishedDateTime: 2020-09-16T00:46:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
@@ -218,22 +212,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Backup driver in fatal Arizona Uber self-driving car crash charged with negligent homicide"
-    excerpt: "Maricopa County Attorney Allister Adel's office said on Tuesday that Rafaela Vasquez was charged with on Aug. 27 in the 2018 crash in Tempe that killed 49-year-old Elaine Herzberg. She pleaded not guilty during a hearing on Tuesday."
-    publishedDateTime: 2020-09-15T22:45:00Z
-    webUrl: "https://www.cnbc.com/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/15/associated-press-the-backup-driver-in-fatal-arizona-uber-autonomous-crash-charged.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105249986-GettyImages-659266224.jpg?v=1532563629"
-        width: 2000
-        height: 1403
-        isCached: true
   - title: "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'"
     excerpt: "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\""
     publishedDateTime: 2020-09-16T15:00:00Z
@@ -297,20 +275,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/18/tesla_mr_image_trans_NvBQzQNjv4Bqql6ZVqw2K9kLBBgaKs87NIpcJcYmaR3n9ZH-3CaApuA.jpg"
         width: 766
         height: 479
-        isCached: true
-  - title: "Back-up driver in Arizona 2018 fatal Uber self-driving car crash charged in death"
-    excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-    publishedDateTime: 2020-09-15T22:00:00Z
-    webUrl: "https://www.reuters.com/article/uber-selfdriving/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSL1N2GC2E3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
@@ -376,38 +340,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Backup driver charged with negligent homicide in deadly Tempe self-driving Uber crash"
-    excerpt: "A backup Uber driver who was in a self-driving Uber when it hit and killed a pedestrian in 2018 has been charged with negligent homicide, according to the Maricopa County Attorney’s Office."
-    publishedDateTime: 2020-09-15T22:42:00Z
-    webUrl: "https://www.abc15.com/news/crime/backup-driver-charged-with-negligent-homicide-in-deadly-tempe-self-driving-uber-crash"
-    ampWebUrl: "https://www.abc15.com/news/crime/backup-driver-charged-with-negligent-homicide-in-deadly-tempe-self-driving-uber-crash?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/crime/backup-driver-charged-with-negligent-homicide-in-deadly-tempe-self-driving-uber-crash?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 37
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fc63cc3/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd7%2Fb9%2F2754500145499c221791ef4b68b8%2Fuber.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Grand jury indicts woman behind wheel of self-driving Uber that killed woman in Tempe"
-    excerpt: "PHOENIX (3TV/CBS 5) - The woman behind the wheel of a self-driving Uber that hit and killed a woman in Tempe in 2018 has been officially charged but said she didn't do it. New report finds flaw in self-driving Uber that hit,"
-    publishedDateTime: 2020-09-15T22:46:00Z
-    webUrl: "https://www.azfamily.com/news/grand-jury-indicts-woman-behind-wheel-of-self-driving-uber-that-killed-woman-in-tempe/article_e5fcc1d4-f79d-11ea-9dbe-7fbfbc948b46.html"
-    ampWebUrl: "https://www.azfamily.com/news/grand-jury-indicts-woman-behind-wheel-of-self-driving-uber-that-killed-woman-in-tempe/article_e5fcc1d4-f79d-11ea-9dbe-7fbfbc948b46.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/grand-jury-indicts-woman-behind-wheel-of-self-driving-uber-that-killed-woman-in-tempe/article_e5fcc1d4-f79d-11ea-9dbe-7fbfbc948b46.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/d/7a/d7a8a610-f79e-11ea-aadb-473e2c68d2b1/5f613972522fa.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
     excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
     publishedDateTime: 2020-09-16T00:30:00Z
@@ -469,20 +401,6 @@ related:
       - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-m-13_1600411152093.jpg&h=250"
         width: 335
         height: 250
-        isCached: true
-  - title: "Safety driver in fatal Arizona Uber self-driving car..."
-    excerpt: "By David ShepardsonWASHINGTON, Sept 15 (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that"
-    publishedDateTime: 2020-09-15T23:02:00Z
-    webUrl: "https://www.thisismoney.co.uk/wires/reuters/article-8737163/Safety-driver-fatal-Arizona-Uber-self-driving-car-crash-charged-homicide.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 24
-    images:
-      - url: "https://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"
-        width: 636
-        height: 382
         isCached: true
   - title: "Backup Driver in Fatal Self-Driving Uber Crash Charged"
     excerpt: "The backup Uber driver involved in the first self-driving vehicle fatality has been charged with negligent homicide for being distracted in the moments before fatally striking a woman in suburban Phoenix."
@@ -567,17 +485,6 @@ related:
         width: 933
         height: 700
         isCached: true
-  - title: "Uber self-driving car operator indicted in Tempe crash that killed pedestrian"
-    excerpt: "The indictment comes more than two years after Elaine Herzberg was struck and killed while walking across a street in Tempe. #phoenix"
-    publishedDateTime: 2020-09-15T22:06:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.html"
-    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/09/15/uber-driver-charged-in-fatal-crash.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
   - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
     excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
     publishedDateTime: 2020-09-17T21:36:00Z
@@ -644,6 +551,6 @@ related:
         height: 334
         isCached: true
 
-secured: "Ja5CwWQoJvcvU+/w5aZh58ahqGFtTcxLxUaA2W4XuwbDo5BbQpDaRl+DC9vSwwG80qJI6Vqb1x18CIOTzT/EZABdULsUjwCkSlSJUUMZyc3GAsH4+WqNSp+grFMZ1J40cisDF3RlLwCncWAJbjIlRVDuNOb61Zjcr8oJ4wpG015az5T5k2hhW7TmI057RdF24hGkcY3QHOjnxlp0WieX7TIyaWMNTD8vDzfWkJkchc1ffjf3BZQ7WN0y7wFkEjU4Y0rEyiDVM+oal38FLhZYlo1vTITk1SLFHAdX6Q8NYgWo4CIWedqU3PYc2VfrFaWigYzixdeWwGduXZpmpxFedPtevmW2Aj6oNf2WOzzqoTY=;Ze1YKwQFslxRkx3ohxDY3Q=="
+secured: "5AidJeP3dwLpnEFBUNinSaRk02NgS6J4Yevtq6Ln4GUCbYnzELtSEnqeqyG5akSU0v7LFNsZ3i6VHRwConH3EJ2+CmLSPGRqZInpp5lQV4hzTrh2nzcmsp63Cv22fQysNIaQ50wTbfTUJana5odRWM0yuPjMQo781qBQFrSFeUrKMGdp5ZQd7i0EBgcgUqJdYBmZ9a9/wfFn4mgn+J+4xf3Wyphed2cJqPNwaoa47LrtL96mpNrWyTd8yGIhY8uNMUlXDZdX7ShRVhQ8c5ZaHJEh1qVzcR7nTkOeiBADrjfC8Y4HCJ9AbjGyXGz4EwRc2XS65VvehX5z5NazgHGh0kvY35vxQKP5jwee7PzBmMmLR1bFRAG6ZRPE7xZKTY0ahFRhKRAIBOsKPf9DbSzvKnrbuDnDzgboz6BPNhiocECXz/GAuilKmQIYGaL0XBbtSH0UP7pVvBIa5RQ4I0OeMF3qIJiCc5dFgjcSAKkENQ2jQUnB6qnfaWfFTTNMsliHsOVnAK2Efge+doW2laUF5V5bgNbLWbL7VBv3vM/4nts=;mM4CCHZDp0FUHwD4VHW9qA=="
 ---
 

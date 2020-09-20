@@ -43,17 +43,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Coronavirus Accelerates Robot Replacements in Workplaces"
-    excerpt: "The Federal Reserve found that workers with jobs that can be done by machines are experiencing layoffs at a greater rate with the pandemic. Workers of color are especially hard-hit by this trend."
-    publishedDateTime: 2020-09-15T21:40:00Z
-    webUrl: "https://www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html"
-    ampWebUrl: "https://www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
     excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."
     publishedDateTime: 2020-09-16T15:21:00Z

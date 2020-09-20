@@ -2,6 +2,110 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-07-10-natural-language-processing-a-cheat-sheet.md",
+      "title": "Natural language processing: A cheat sheet",
+      "excerpt": "Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand, and duplicate human speech. It wasn't too long ago that talking to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/07/b27b579f-2498-4333-bafe-b4748deaf50c/resize/1200x/089a7e1aa216b3ae64c32ec52e724d16/natural-language-processing-concept-banner-header-vector-id1133656955.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/natural-language-processing-a-cheat-sheet/",
+      "publishedDateTime": "2020-07-10T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
+      "title": "The path to real-world artificial intelligence",
+      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
+      "publishedDateTime": "2020-07-10T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-white-house-advisory-council-calls-on-us-to-increase-ai-funding-to-10-billion-by-2030.md",
       "title": "White House advisory council calls on U.S. to increase AI funding to $10 billion by 2030",
       "excerpt": "PCAST, an advisory council within the U.S. Office of Science and Technology, recommends increasing government investment in AI research.",
@@ -1087,99 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
-      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
-      "excerpt": "Announced on Friday, July 10, ahead of the International Conference on Machine Learning, Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "publishedDateTime": "2020-07-09T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
-      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
-      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "publishedDateTime": "2020-07-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

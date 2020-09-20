@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
+      "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
+      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "originalUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "publishedDateTime": "2020-09-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-in-china-paying-with-your-face-is-hard-sell.md",
       "title": "In China, Paying With Your Face Is Hard Sell",
       "excerpt": "Ant Group, which revolutionized China’s payments industry, is learning how difficult it is to separate people from their mobile phones.",
@@ -340,7 +381,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "type": "article",
@@ -519,13 +560,13 @@
     {
       "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
       "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
-      "excerpt": "Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous, the most vivid in recent memory being the disastrously bad performance of Amazon's facial recognition technology,",
+      "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "webUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "originalUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -538,8 +579,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
       "publishedDateTime": "2020-09-18T13:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -563,7 +604,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1061,7 +1101,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1150,48 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-brains-memory-inspires-neural-networks-to-be-less-forgetful.md",
-      "title": "Brain’s memory inspires neural networks to be less ‘forgetful’",
-      "excerpt": "Researchers say they have successfully addressed what they call a ‘major, long-standing obstacle to increasing AI capabilities’ by drawing inspiration from a human brain memory mechanism known as ‘replay’.",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/13873/dreamstime_xxl_117459916.jpg?crop=0,0.0610791015625,0,0.4467333984375&cropmode=percentage&width=1200&height=450&rnd=132448974890000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

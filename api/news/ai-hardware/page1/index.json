@@ -61,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -91,39 +91,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-nvidia-strikes-an-arms-deal-to-take-all-the-chips.md",
-      "title": "NVIDIA Strikes an ARMs Deal to Take All the Chips",
-      "excerpt": "If NVIDIA NVDA gets regulatory approval to buy privately-held Arm Holdings from Softbank Group, it will not only be the biggest semiconductor deal ever at $40 billion, it could be the most controversial and powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-strikes-an-arms-deal-to-take-all-the-chips-2020-09-17?amp",
-      "publishedDateTime": "2020-09-17T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -633,48 +600,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
-      "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
-      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook",
-          "width": 2224,
-          "height": 1164,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-15-record-chip-deal-lands-nvidia-in-crosshairs-of-us-china-tensions.md",
       "title": "Record chip deal lands Nvidia in crosshairs of US-China tensions",
       "excerpt": "Nvidia's planned purchase of UK-based Arm gives US firm serious sway in an industry crucial to global tech supremacy.",
@@ -772,30 +697,21 @@
       "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
       "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "originalUrl": "https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-14T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1417,6 +1333,108 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications.md",
+      "title": "Rambus Advances HBM2E Performance to 4.0 Gbps for AI/ML Training Applications",
+      "excerpt": "PRNewswire/ -- Rambus Inc. (NASDAQ: RMBS), a premier silicon IP and chip provider making data faster and safer, today announced it has achieved a record 4 Gbps performance with the Rambus HBM2E memory interface solution consisting of a fully-integrated PHY and controller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/rambus-advances-hbm2e-performance-to-40-gbps-for-aiml-training-applications-2020-09-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus.md",
+      "title": "Microsoft’s updated DeepSpeed can train trillion-parameter AI models with fewer GPUs",
+      "excerpt": "The newest version of Microsoft's DeepSpeed library includes optimizations for training trillion-parameter machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/amp/",
+      "publishedDateTime": "2020-09-10T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

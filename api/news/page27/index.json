@@ -2,6 +2,97 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-08-29-elon-musks-neuralink-brain-computer-watch-working-demo-replay.md",
+      "title": "Elon Musk's Neuralink brain-computer: Watch 'working' demo replay",
+      "excerpt": "The brain-computer startup showed off a 'working' device, in pigs, on Friday. You can rewatch the presser here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=sr8hzF3j2fo",
+      "originalUrl": "https://www.cnet.com/how-to/elon-musks-neuralink-brain-computer-how-to-watch-working-demo-reveal-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sr8hzF3j2fo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-29-stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.md",
+      "title": "Stocks start September in high gear as Apple and Tesla split, and markets await the August jobs report",
+      "excerpt": "Stocks could start the historically weak month of September on an upswing, after what is so far the best August for the S&P 500 since 1986.",
+      "sourceUrl": null,
+      "webUrl": "https://jobs.apple.com/en-us/search?search=%23aimlresidency&sort=relevance",
+      "originalUrl": "https://www.cnbc.com/2020/08/28/stocks-start-september-in-high-gear-as-apple-and-tesla-split-and-markets-await-the-august-jobs-report.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-28T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-29-facial-recognition-technology-is-biased-with-higher-error-rates-against-people-of-colour.md",
       "title": "Facial recognition technology is biased with higher error rates against people of colour",
       "excerpt": "Even though Williams had nothing to do with the incident, facial recognition technology used by Michigan State Police “matched” his face with a grainy image obtained from an in-store surveillance video showing another African American man taking $3,",
@@ -1073,110 +1164,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-google-offers-to-help-others-with-the-tricky-ethics-of-ai.md",
-      "title": "Google Offers to Help Others With the Tricky Ethics of AI",
-      "excerpt": "After learning its own ethics lessons the hard way, the tech giant will offer services like spotting racial bias or developing guidelines around AI projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "originalUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f483e71bb023d54b55e4e09/master/pass/business_google_20.93146987.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-help-others-tricky-ethics-ai/amp",
-      "publishedDateTime": "2020-08-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-are-robots-eating-our-jobs-not-according-to-ai.md",
-      "title": "Are Robots Eating Our Jobs? Not According To AI",
-      "excerpt": "AI is replacing jobs while creating new ones and new job roles — profound benefits to the global economy await their arrival.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "publishedDateTime": "2020-08-28T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "IBM AI"
       ]
     }
   ],

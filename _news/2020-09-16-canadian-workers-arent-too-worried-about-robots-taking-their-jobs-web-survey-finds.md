@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Coronavirus Accelerates Robot Replacements in Workplaces"
-    excerpt: "The Federal Reserve found that workers with jobs that can be done by machines are experiencing layoffs at a greater rate with the pandemic. Workers of color are especially hard-hit by this trend."
-    publishedDateTime: 2020-09-15T21:40:00Z
-    webUrl: "https://www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html"
-    ampWebUrl: "https://www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/Coronavirus-Accelerates-Robot-Replacements-in-Workplaces.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
 
 secured: "vhIASnmkr/PHDxIZ6/2L4n6QnWQ6SPFzGE3n35jvizyYGNZGOdcYATKbd6eI4ngG5uxmLTKmjUsevCHFdGxUFsqNaa0u8KSGGkYtwVyg4hIuOZtCLqpr9sppgxNDfbru3Gd2mlnM+QSrIZyANJ2pAiLgUoGrfX5GnsugYRQRcozCy0bE4HaftjcR4LWO8aXRYpr12j9La4ghvylF9LFbLIp4s0kO+5GvEb1PzbrTCFTMhN9hDR9HgZvoXv9dQ9IFzHuMt7Fgd7NJdtwX1Z3i494Yy/oZ7qLE+L2nQTzVkbFOPSIqUTPM8qd74R7ulWf8K9miTnGjEZgnl/zESPSkw/i26Xkv44xMMsIfge/1Ukc=;mhzt002w7f/liOddlU80+A=="
 ---

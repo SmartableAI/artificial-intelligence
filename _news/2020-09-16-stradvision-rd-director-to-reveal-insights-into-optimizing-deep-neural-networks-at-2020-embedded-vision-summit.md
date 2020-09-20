@@ -1,23 +1,29 @@
 ---
 category: news
 title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-excerpt: "StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal"
-publishedDateTime: 2020-09-16T15:02:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
+excerpt: "PRNewswire/ -- StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and"
+publishedDateTime: 2020-09-16T14:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
+webUrl: "https://www.prnewswire.com/news-releases/stradvision-rd-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded-vision-summit-301132380.html"
 type: article
-quality: 0
-heat: 0
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "xdE/paQUgg3PBiBj/9raO61HtG9vAZqQSXveW/wwyi5wU92rc51iR6HsdRP0buy/1Juh9RTYa8CWiwjOF5e2alCZzC5/l4iukn/HqulumBF/aiEUTCpebJ+qryTrZPKYJ4Q5KwMQwUksDorrZKiC//BJiOC+bviyEUN4192QEq96i3zfCVc9FfKcJy4tnYprhOdqljPphtflZQaZywA8s+RRjjwuPsqEYwZSyxXu+G4o4dKDaqWp4Tr6ZiDVholZuvApzFHnBmT2nKCjR1PWt1gfsEFvd4ThHL9mQYGWziVgo1aWYPJM9nHUSWcGFhg352drUTsSIfkPKuNveUHgrcUP0Ou0cdK/jhyYDiJC4OE=;gW1wKgr6igxCPgrqgYTo7Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
+    width: 1413
+    height: 740
+    isCached: true
+
+secured: "Jm9fJYXjaj3+tTy6o8XcbKGhY5BMXeeKJBpJKGpPKhVMOanQ3Ef6OTHrdqFXKRinusI2H9M0+MyrLhmYwsesN8jsiBsuNLFWkS6Pdzxyvqtpmg0xTufUYIa146GRGnPIFO/32ZqOhqAkqevMM+zj7GdfRPeT+KC4Q0WoUZKXLXLjbUDQr8HqVQN/3Q0BdqpnyiNlKrGY6IgF4YiPu6jVE6xa6VRiPTQ4vt2YvXgrQrY84Wp9GM/vm15vOI3Eg541XBVllR9yfDLD5igmDRPGsD7kR8Mhoyd9lggjHC63aiX4j8joAHntiZMw5URBuhgnzcEZGphE2M96Vx8jMRdiYKmUlv59P+d3fcoWTuZAgBQ=;skS6/oUxBrDzAfVR3CfKkA=="
 ---
 

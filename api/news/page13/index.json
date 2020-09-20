@@ -2,6 +2,90 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-09-future-of-defense-artificial-intelligence-robotics-driving-modern-day-military.md",
+      "title": "Future of Defense: Artificial Intelligence, Robotics Driving Modern Day Military",
+      "excerpt": "With 5G, advanced satellite communication and integration of artificial intelligence and robotics, the future defense system may need minimal human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "originalUrl": "https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/42057/robot-dogs.jpg",
+          "width": 1500,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327",
+      "publishedDateTime": "2020-09-09T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-computer-chips-that-can-read-our-brains-have-moved-from-sci-fi-to-reality-for-better-and-worse.md",
+      "title": "Computer chips that can read our brains have moved from sci-fi to reality, for better and worse",
+      "excerpt": "The near-term applications will mostly benefit society, but the danger of a dystopian future is becoming more real, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/computer-chips-can-read-our-brains-have-moved-sci-fi-ncna1239575?cid=sm_npd_nn_tw_ma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_37/3410638/200908-arnold-schwarzenegger-total-recall-ew-626p_e922fd2ecd3b951d1378390b3b409eef.jpg",
+          "width": 2500,
+          "height": 1682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1239575",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1239575",
+      "publishedDateTime": "2020-09-09T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-swyg-raises-12m-pre-seed-to-use-peer-interviewers-and-ai-to-reduce-bias-in-recruitment.md",
       "title": "Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment",
       "excerpt": "Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures,",
@@ -315,8 +399,8 @@
       "title": "Neousys Technology Launches NRU-120S, NVIDIA Jetson AGX Xavier Powered Edge AI Solution",
       "excerpt": "NRU-120S series is a new rugged edge AI-based video analytics solution capable of video recording, transcoding, real-time inference, etc.",
       "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
-      "originalUrl": "https://www.embedded-computing.com/home-page/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "webUrl": "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
+      "originalUrl": "https://www.embedded-computing.com/news/neousys-technology-launches-nru-120s-an-nvidia-jetson-agx-xavier-powered-edge-ai-solution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1068,98 +1152,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-artificial-intelligence-can-improve-process-management-in-construction.md",
-      "title": "Artificial Intelligence Can Improve Process Management In Construction",
-      "excerpt": "Construction has reasons, from safety to high cost and more, to be a slower adopter of technologies. What is shown is that artificial intelligence can help the industry and is beginning to make inroads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/08/artificial-intelligence-can-improve-process-management-in-construction/amp/",
-      "publishedDateTime": "2020-09-08T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast.md",
-      "title": "Chatbots at the front line of online therapy (Brains Byte Back podcast)",
-      "excerpt": "Many of us have probably interacted with chatbots, perhaps even without knowing, when interacting with businesses, but what if chatbots were not just designed to help businesses, but also our mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
-      "originalUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2020/09/bbb-chatbots.png",
-          "width": 640,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/web/chatbots-at-the-front-line-of-online-therapy-brains-byte-back-podcast/amp/",
-      "publishedDateTime": "2020-09-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
