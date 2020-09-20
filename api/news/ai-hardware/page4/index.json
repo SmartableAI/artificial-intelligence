@@ -2,48 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-25-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
-      "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
-      "excerpt": "It is expandable with Nvidia Tesla Card, Nvidia GPU card, Nvme card, image capture card and I/O card. Furthermore, EBOX-7000 can be used in edge AI enhancements, intelligent video analytics AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "originalUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000-0?amp",
-      "publishedDateTime": "2020-08-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-24-sintrones-edge-ai-gpu-computing-solution-enabling-flexibility-ebox-7000.md",
       "title": "SINTRONES Edge AI GPU Computing Solution enabling flexibility: EBOX-7000",
       "excerpt": "SINTRONES, one of the global leaders in computing technology in vehicles, announces the launch of the new EBOX-7000 Edge AI GPU Computing.",
@@ -1383,6 +1341,57 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-ai-based-approach-to-make-the-supply-chain-more-sustainable.md",
+      "title": "AI-Based Approach To Make the Supply Chain More Sustainable",
+      "excerpt": "It has become imperative to leverage the wonders of AI to make the supply-chains immersive, improved and hassle-free",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354613",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597218741-supplychain.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354613",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354613",
+      "publishedDateTime": "2020-08-12T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

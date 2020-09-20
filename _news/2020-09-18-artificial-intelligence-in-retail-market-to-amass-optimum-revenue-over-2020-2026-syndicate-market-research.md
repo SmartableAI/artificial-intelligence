@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
-    publishedDateTime: 2020-09-15T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Automated Material Handling Equipment Market 2020 With Top Companies, Applications, Developments, Innovative Technologies Research Report"
     excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
     publishedDateTime: 2020-09-16T10:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-des
 webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia to Acquire Arm and Create AI Supercomputer in $40 Billion Deal"
-    excerpt: "Graphics and AI chip manufacturer Nvidia confirmed this week it will acquire processing architecture company Arm in a $40 billion deal. The company plans to use Arm's computing ecosystem to create an AI research and education center as well as an AI supercomputer."
-    publishedDateTime: 2020-09-16T21:38:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
+  - title: "Japan's SoftBank sells British chip designer stakes"
+    excerpt: "ANKARA Japan's SoftBank on Monday announced it was selling all its stakes in British chip designer Arm Ltd to the US-based Nvidia Corporation. US"
+    publishedDateTime: 2020-09-20T10:25:00Z
+    webUrl: "https://turkishpress.com/japans-softbank-sells-british-chip-designer-stakes/"
+    ampWebUrl: "https://turkishpress.com/japans-softbank-sells-british-chip-designer-stakes/?amp"
+    cdnAmpWebUrl: "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/japans-softbank-sells-british-chip-designer-stakes/?amp"
     type: article
     provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
+      name: Turkish Press
+      domain: turkishpress.com
+    quality: 59
+    images:
+      - url: "https://cdn.turkishpress.com/2020/09/14055122/thumbs_b_c_95c28250fe59baf97cc079b5b15388ae.jpg"
+        width: 862
+        height: 486
+        isCached: true
 
 secured: "3y836yE709LPlvuofsWr19oAojXY0XPz+YzHNHsvcrrBTLY2oevMm5uhkyz6TzaIdZ5p5UQXVjlJDL9lUaRqboGThs/5XTPHVjQw6hlVLeipOO8hNdlP92kr6pe+aGQTtAbrFymOp1Hzjhz+qCxmKWXW37rV+xKPyUqjAOV3EADZIvOPFyP7yisCTMkG4F6k5L8insUItRyhczX2NRt9mFNMqlMtnWX8v3RXpgQN2g4JZQkKgd+s8avaHnQw8RgtaRsouHip97GWS7UebzATAbmAi/0CQy8dot3Sgjr/C2Hj/JS5/EK5oMtthOKesZy5KtoNsFWoFCKWppTnzFbZZbzoFPSXvwIElMZ/N1cYusXGoWJc4CWEeIvCBaHJfUN3kQjwiXJXJxFykgFRK305rv3z89dkvgk7Rdrw4vAU+a7BtzgicD0ZAYnpberuPfQ527KzL2b0ZzwazrpzUFsWE+71pMWaEpM2mpyqfp4OFOxFvkBGZaRA0UkkyATm14+hiTXItKkuMGgSvUGCe8ujWnEbNcHcRcBanQ6gMUMzPZE=;6j7tFLVManPatZDrul2l7Q=="
 ---

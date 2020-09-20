@@ -9,7 +9,7 @@ ampWebUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-w
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "During pandemic, more workers being replaced by robots, new study finds"
+    excerpt: "Workers whose jobs can be done by machines suffered more layoffs per capita than those with jobs that aren’t as easily automated, the Federal Reserve Bank of Philadelphia says."
+    publishedDateTime: 2020-09-20T11:13:00Z
+    webUrl: "https://www.dailypress.com/business/careers-finance/vp-bz-career-connections-0920-20200920-2kyycksiyva2hluuvlt7wcqvza-story.html"
+    ampWebUrl: "https://www.dailypress.com/business/careers-finance/vp-bz-career-connections-0920-20200920-2kyycksiyva2hluuvlt7wcqvza-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/business/careers-finance/vp-bz-career-connections-0920-20200920-2kyycksiyva2hluuvlt7wcqvza-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 59
+    images:
+      - url: "https://www.dailypress.com/resizer/9J5Mx0_d7gT7yoBL017FTr_zT6c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7D7IU3DS2VJTWJVYRUKC5JCI3A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Coronavirus Accelerates Robot Replacements in Workplaces"
     excerpt: "The Federal Reserve found that workers with jobs that can be done by machines are experiencing layoffs at a greater rate with the pandemic. Workers of color are especially hard-hit by this trend."
     publishedDateTime: 2020-09-15T21:40:00Z

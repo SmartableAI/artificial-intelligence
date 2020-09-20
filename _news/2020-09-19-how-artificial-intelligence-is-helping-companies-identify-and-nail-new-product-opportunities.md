@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 609
         isCached: true
-  - title: "How an AI Platform Is Matching Employees and Opportunities"
-    excerpt: "Instead of relying on data-driven signals of past accomplishments, Eightfold.ai is using AI to discover the innate capabilities of"
-    publishedDateTime: 2020-09-15T17:28:00Z
-    webUrl: "https://www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547"
-    ampWebUrl: "https://www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://lcolumbus.files.wordpress.com/2020/09/how-an-ai-platform-is-matching-employees-and-opportunities-hero-image.jpg?w=900&h=506"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "vfr7xwTZVtQO8huaK5Va5e2HZrdpbtNPduaxHzbl9ewZ36YXVfyO3OFSvBH5JbwBFGGF/M8+bPzn35CsIfACaumjRckgQvTTd4Xt5qapXshHSMpECjos32NQjlMZmy6kw9uSsv6jSYt8toRZIxuIa3lS+zcjZG/Q8xL6f5bjiuHN8T6MJeuQPY2V3AX4C8Jl30uzjrT7+4tDQ9VaHzD9KqGk0rRlN8fIxKBBvHrikQAcKvBMUJJnibd3LDQFWxmCcRTzcT3tXcTQXLqo9dbft7l3qWJkKhkl6gLrS1wkmWljlemFOHuNcynQBmYegx6xRC+LP07ym+SNKHcY72P6WllBJp+QPwKfovxMYeYBeTXf950TJ3hjTin7bInuw2+25NIa2ArBww/SZiGMbgpk763CYZQFoC6IQhSo8OhB0jt6bkCvyOhK1Wh0kCBaqFzNJBkI47wZ4ZKilGgPaAEJYsoKT+f0+5FZskpyurkpiijKRmTFj7nT3AqHKvZOSTqGQyIWGr/pEQ3iDKd+zS3hzQ==;jrKC7iNcEBervux75Q9Uew=="
 ---

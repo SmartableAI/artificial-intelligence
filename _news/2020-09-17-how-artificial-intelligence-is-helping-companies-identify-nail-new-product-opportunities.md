@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-arti
 webUrl: "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg"
         width: 1200
         height: 609
-        isCached: true
-  - title: "How an AI Platform Is Matching Employees and Opportunities"
-    excerpt: "Instead of relying on data-driven signals of past accomplishments, Eightfold.ai is using AI to discover the innate capabilities of"
-    publishedDateTime: 2020-09-15T17:28:00Z
-    webUrl: "https://www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547"
-    ampWebUrl: "https://www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/how-an-ai-platform-is-matching-employees-and-opportunities-02345547/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://lcolumbus.files.wordpress.com/2020/09/how-an-ai-platform-is-matching-employees-and-opportunities-hero-image.jpg?w=900&h=506"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "VADfHEhlcWNCEzVzak1kVPDLTv06/VO/Dqkrzh6lFBp3/jHFDtkwrhj70iFLd3hZFwciVDV8BPIr2TVGPWQWUaXyKwbhL0sLF8yAbnoXo+r0t13qx4e8jtFiFyaVFR6QwawAR0ckBTDywyMwBjwZRxVVXlaDZ9SIDB5LzL+tOc9j/qNl98zlb+shrAvNgZQBItRu5Cr2zS9Zh0ZnDzBak4x4hkXRaH0ec5Z3BXX/JMn+XL6q+bR/EWqU5hrPW5Gh06pyKWMBDEblc21yi7W8n22Wnw4AFeZCBNzYITf2SH02P6eWqCGK9bjQXpPJmfSfLA/+o4C/69mK3hK6OWrpAdr9SO3YoacUdDkxPLF6K127OnweBpO59caC8pAZIokYBJtvfKwOnlhNytW6gmHt1g5RLMm81jsA27lxhVqa8SXE+d9m/tjaPoMurZSf/PjLuJ0KnYqK7D+f2GVInUlr3lUxdrgrE03ZbVie6RjcUkLVqKGRcMENMhGa8+M7oty750fhU5pFpkqO695nP6fXIA==;0ltpZcTTQdBbQcl/zlmTJg=="

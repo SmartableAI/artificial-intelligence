@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240</loc>
+    <lastmod>2020-09-20T03:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/</loc>
     <lastmod>2020-09-20T01:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,8 +49,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
-    <lastmod>2020-09-18T16:11:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/</loc>
+    <lastmod>2020-09-18T16:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -55,7 +61,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
+    <loc>https://www.marketwatch.com/press-release/dashboard-ai-announces-its-technology-vision-for-the-foodservice-and-hospitality-industry-2020-09-15</loc>
+    <lastmod>2020-09-18T13:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
     <lastmod>2020-09-18T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -91,7 +103,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
+    <loc>https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/</loc>
     <lastmod>2020-09-18T10:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -649,8 +661,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/</loc>
+    <lastmod>2020-09-14T16:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/</loc>
     <lastmod>2020-09-14T15:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bleepingcomputer.com/offer/deals/get-started-in-artificial-intelligence-with-this-online-course-deal/</loc>
+    <lastmod>2020-09-14T14:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -691,14 +715,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
-    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
+    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.aljazeera.com/ajimpact/record-chip-deal-lands-nvidia-crosshairs-china-tensions-200914125714528.html</loc>
     <lastmod>2020-09-14T10:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.recyclingtoday.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/</loc>
+    <lastmod>2020-09-14T09:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1093,6 +1123,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-ibm-facial-recognition-exports-idUSKBN2621PV</loc>
+    <lastmod>2020-09-11T10:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/09/11/convergence-of-financial-institutions-risk-management-aided-by-artificial-intelligence/</loc>
     <lastmod>2020-09-11T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1467,6 +1503,12 @@
   <url>
     <loc>https://newatlas.com/around-the-home/vibrosense-home-appliance-usage-deep-learning-lasers/</loc>
     <lastmod>2020-09-10T01:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-09-10</loc>
+    <lastmod>2020-09-09T22:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3721,7 +3763,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
+    <loc>https://www.techradar.com/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram</loc>
     <lastmod>2020-08-30T22:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

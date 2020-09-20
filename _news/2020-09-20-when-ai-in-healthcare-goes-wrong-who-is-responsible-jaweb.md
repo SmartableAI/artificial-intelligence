@@ -35,13 +35,13 @@ related:
     provider:
       name: Quartz
       domain: qz.com
-    quality: 89
+    quality: 106
     images:
       - url: "https://cms.qz.com/wp-content/uploads/2020/09/2020-08-22T142247Z_1828428544_RC22JI9OLR4W_RTRMADP_3_HEALTH-CORONAVIRUS-MEXICO-ROBOT-e1600448079302.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 786
         isCached: true
 
-secured: "3vu4o90ZDmZ3h5MpcLEij9UYsHJIzabhV1MZD0f75bH0p9sY1EqZitK97WMcUM/DUBPZFE/IDF+Ema5YtibtR5cj4JZSsX1LOJQKOIWF1ycfq8C9JHNUsTrUZ+c/pSX1A0uTcz5cKZRHsAyfgM+g0SCVg9BDseOGXt+zYW+SVGNfG9hoii0BsiiG8u08h6aPYMKYmmuPwxLDAJ8QTauWB/qypZVJxsbdpXvki+HfkhpnoU/XJIGhRo9xn9n66bpfQN+PFhs3Rw3qcEK2csZCqJZdWbFqN+pCFP2TMe7ZYeo/yvwIGMdlFp/WuuwASxn8lQzpXUNjXqD/f0e1sx9A+h3IferwWX5x1aT3zLLOK84=;NSYkk8et75hfSS7haFH5Kw=="
+secured: "ph4NSTOLHT0OYVeX/4n42O9MO6C+f/V8zKjAx9M/7L1b9uR5EukW+fsi7YEMrjhEcFOW82QDk/WVDUZ4+8sFyYAdQTnq3Ie61XrM6+24rKtH2HUuNI5yjC9dU97ZMt8RI2geBylsxpX8GL0GDBIy9tUhYT8LLkt7jz+EXKYDg/hDJ7jq3ym1nqWR5X4hgREUn1LTKo1zmJlIcMm7pSXeQdtmHSMbmFYo3BqELS+zvE5H+5e8PK/nWJ9ANhPx/eVg+SjqAM7nZ53sv2XrnrQfaRmSk6QGNtlqSqYePw5QMpp0G4eU+cxPz/RFQ8Bnb5SevVkiHrqVqcsD3bVKFK+Ylt96yLaCZAYmiYtaIEbq9VJdg4ipC+T1Slbkv3/ZAiLnQYSu9winVrDD/O+dZ8sXNXl+afGUL63oBJ8gMe8XCrMJ7EbcV2TVMpEHSnHahr7T1O4F1Tpni6Otl9GxIN147jlnw0l7QxfIJg5p9OOrRzZpO5hueGdN+NwXr+Y3eMCFVBQNonHsD4/8rxDh6Ql/UA==;wcPdvioD9sBeOCX7HifZrA=="
 ---
 

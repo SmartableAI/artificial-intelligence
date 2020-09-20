@@ -3,10 +3,10 @@ category: news
 title: "The AI landscape is shifting from ‘data’ to ‘knowledge.’ Here’s why that matters"
 excerpt: "The Artificial Intelligence (AI) revolution was ignited more than half a century ago. In the last decade, AI has grown from an academic scientific field to start being a practical part of our everyday lives."
 publishedDateTime: 2020-09-18T17:20:00Z
-originalUrl: "https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/"
-webUrl: "https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/"
-ampWebUrl: "https://thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/"
+originalUrl: "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/"
+webUrl: "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/"
+ampWebUrl: "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/"
 type: article
 quality: 82
 heat: 82
@@ -29,6 +29,6 @@ images:
     height: 529
     isCached: true
 
-secured: "QH08JG2FVvcaahib88CY5DRBM/wGLGBO4Kfr7nDaE0V6+AX0bVEuNiC2OD9j2l06F49jNUE3fyu4mGiTd+h03ucuSDfAYgyyAJQNBPoQZMC4oSnJLsJW33ik69GTFdgIkBJuTt+Lq5ct3BvEMEqHjxG97W2UH+JvaeOCePr1x7o+eeN2p/dFisD/NdiKXxI/LTukZSx+VnritdNEUSKY/LqmHI8SnPNbVX0Pplnl13QVd+MBiurZXrtCFu6gy/CbKe51mat/WpXXsjsYmbpvhL3eyfaICqE3eXFVNr+IIMyv0UGaUa1fPCwUGNaWAU0bsdwZykguPBKuM636xhJkGZgrDOV0/Cr9+ZS3owf91uA=;h4ftmQEhfzzxQk2f8pzpWw=="
+secured: "dPmWkmM0iLxTaobXJFwz/hluGIHOvxj0W3aN8uB1SYLjLF2JNJ0CFtJLhp4QtNpsdzujvZhakrHmC6n8dSu9DXAxLr/eNRrPWajoozaa+UY1Lq9E9lmutbQZDc8y6oLaPL1w46bh104MlfqOVKNjx+C8zhM5FarNb6X2uZ62J5H/ggngLX9vLtfRy1ylOSKJxj4OJS7n3rR8p0I2XtDGsrzXDUdVQEpebighFsEG8W9rWdUjCwUhA4/FLV1gsJLbAYFxThGKf+4Nxxc8d7kQii7HUXyX9DraCp7/s20syfkKkaWIEZvga2T9fH98vFyEVrvIiKHl3vcGyZ3RAVxrcxP5nM8Whp1/bG47qwhac3Q=;B9T3sGwti+PmB6gxlMtjPA=="
 ---
 

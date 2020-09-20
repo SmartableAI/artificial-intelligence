@@ -57,20 +57,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Vision Guided Robotics Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component Type, Type, and Industry Vertical"
-    excerpt: "In terms of revenue, the global vision guided robotics market was valued at US$ 4,616.6 million in 2019 and is projected to reach US$"
-    publishedDateTime: 2020-09-15T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vision-guided-robotics-market-forecast-to-2027---covid-19-impact-and-global-analysis-by-component-type-type-and-industry-vertical-301131010.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "u/QGT5la3EsdxpOWXTGhPbgnFwfX9qyBqeHHjxdOt5jO5BGSkNYHZOLcLSx7ei7GMegWKqgYn4FxdaFYh69RCLqPuwx6xwPRFmbx7sjcGyUADKG2tH7vjp1EjQLSDoBwiJMbB/CAzYbyGNxLzMBPcHqYm4GEX7s4f0aWLGoDK72Ga28MgcVch/9oEuug6WhylQcLHanUmUoY/v3368+7DPL4pZQrWIM49mbMVPZ7QWOq1Pi7OR/R82CofQxWsPry9aNI73ynn7pUX2r1nCEJ3TiEBlFmnRO2I7ZLqtZe9Auy0Dze6ZvhPy/Zw/0j61EBnxA5gHjGeuAFthJlkaiULSqTlUk/RHPoEoIgoEyoeMs=;A/XKhFEyqKIKbH3AOXBfXQ=="
 ---

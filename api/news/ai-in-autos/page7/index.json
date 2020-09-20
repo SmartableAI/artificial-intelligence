@@ -2,6 +2,39 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-10-ai-for-self-driving-cars-doesnt-account-for-crime.md",
+      "title": "AI for self-driving cars doesn’t account for crime",
+      "excerpt": "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
       "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
       "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",

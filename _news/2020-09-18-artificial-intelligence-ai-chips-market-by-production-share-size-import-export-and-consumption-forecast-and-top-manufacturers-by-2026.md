@@ -32,7 +32,7 @@ related:
   - title: "Machine Learning in Manufacturing Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
     excerpt: "The report outlines the competitive framework of the “Machine Learning in Manufacturing Market” industry describing"
     publishedDateTime: 2020-09-18T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-17"
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-18"
     type: article
     provider:
       name: MarketWatch
