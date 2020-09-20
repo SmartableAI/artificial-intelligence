@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "An extremely social robotic fish helps unravel the collective patterns of animal groups"
-    excerpt: "The spectacular and complex visual patterns created by animal groups moving together have fascinated humans since the beginning of time. Think of the highly synchronized movements of a flock of starlings,"
-    publishedDateTime: 2020-09-15T23:05:00Z
-    webUrl: "https://phys.org/news/2020-09-extremely-social-robotic-fish-unravel.html"
-    ampWebUrl: "https://phys.org/news/2020-09-extremely-social-robotic-fish-unravel.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-extremely-social-robotic-fish-unravel.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/youwantbeale.jpeg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "Robofish: An Extremely Social Robotic Fish Helps Unravel the Collective Patterns of Animal Groups"
     excerpt: "Using state-of-the-art robotics, a research team from the University of Konstanz, Science of Intelligence, and the Leibniz Institute of Freshwater Ecology and"
     publishedDateTime: 2020-09-16T22:35:00Z

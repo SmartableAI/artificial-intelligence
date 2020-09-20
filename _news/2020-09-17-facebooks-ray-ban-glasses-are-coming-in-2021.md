@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "Facebook to Launch Line of Smart Glasses in 2021, Starting With AR-Enabled Ray-Bans"
     excerpt: "The social giant is developing the “next generation” of smart glasses, in partnership with European eyewear company EssilorLuxottica. The"
-    publishedDateTime: 2020-09-16T18:03:00Z
-    webUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/#!"
+    publishedDateTime: 2020-09-16T18:54:00Z
+    webUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/"
     ampWebUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
     cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
     type: article

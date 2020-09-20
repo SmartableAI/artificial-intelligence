@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356293"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "CORRECTING and REPLACING Observe.AI Raises $54 Million Series B Round; Leverages AI to Transform the Contact Center"
-    excerpt: "Observe.AI today announced a $54 million Series B financing led by Menlo Ventures, with participation from Next47 Ventures, and NGP Capital."
-    publishedDateTime: 2020-09-15T23:34:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200915005502/en/CORRECTING and REPLACING-Observe.AI-Raises-54-Million-Series-B-Round-Leverages-AI-to-Transform-the-Contact-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "7mVgGRDDmyU9GZhayo+qBFS/gqmzV4rzonH7QV7hn1Wvo/GRohY66HzTx9oxsj/yeCqJgAur03VKdieCN9gGVOOccmxPxJeF2qXfDf6MHZ4AHW94IQI97Wp/9kcKq0k982lFkc5HAoevNQARx72NgdRuKClPU7ml8V7uhJ2oi1yXvjSvmtteLhVYWgtw0nohzS+nN5wRuoe9C3WRm79Q3RkN+xw/2Gcm9doONu04qqqcGwa3CD6Ow3LQcli2b40sAPrz6zBY9MIXzN0b7zQsxoZSm+JwCbKqh7UVmDs3bUtIOtVczJikbpAvl721TMIVccuOrjMhMFlZKI25IbTuyTGqprrmsHgCYUh7YZG59CtqfgUMoi5/N/yiqgsEmhhWFVUtEYMIAu/aIoOCH/e9I6svKKSSM4B43S9j/AQBcDuD1SZ/zGT6RSNKN9rT92P2n1OPE5w2wxbRo3Zmw7ffl9JNlL4DWWxquaTzfeCR/bKfyaHs8VkNJafvtcWf/KK585acbXRk+uwp6tGqibnb4Q==;NxFxkPhc7QAtrQfvKShKQQ=="
 ---

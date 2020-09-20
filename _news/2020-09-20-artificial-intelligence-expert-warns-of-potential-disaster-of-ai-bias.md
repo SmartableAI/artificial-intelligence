@@ -8,8 +8,8 @@ webUrl: "https://www.express.co.uk/news/science/1337896/artificial-intelligence-
 ampWebUrl: "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231"
@@ -25,6 +26,6 @@ images:
     height: 350
     isCached: true
 
-secured: "1GL9CWc5VgCQoKUjxI6ctnrzEGBdU0x74ILc/bE2NzMzIUJiwTgJ2WVu5uaXf4cm0LxUG3bLCrpqJGWgDD/IzTQyrB8nFpwgX/G2V1my2KzzvOYV7Ypf63QQBt7nOi5KJWOG+Z+A/UFrWEqiQPaT0e97UdFdn0Nw9azeA8cDnrAne7hgqtWXlLTsBdRQK07q5GYt6thAHJ/NqH+uSDbDV7iCzWtenRESa29ELiZQfsPgTiMmTbbglh8HlALmBdzCTDWtvnCdAiGYMpF/dQ37hSeTAtfTCa/CqYSXJ/V5IzIatZRIwPMG4tR7rka25t36tNMs5YLOLuTKTKy8zplk4jxVca+N8TNwl1908pxlzXU=;kflJ6p3iEX4eo6hq5aGfYw=="
+secured: "oys3PHLtFgFQJG02MijuSolv0TayiY0XztttsLr8cdy+U/NVWR/25IS1DMeReWUnt1EkK4/Fc2xLdygiC667Rx8T6GemkWO3MI4q8yT7k3I+zqlJ4UyHXHFATmS5NgeLmrNxIXh7cyYm28Br439ZS7lR2RM7pZDbEx0gXJIOCXFqn7RkHS5ZJoMbUd8EhZRouo40ZG/oLOK+9GO6rWRP0hdH7GQAEF0dck0QVBG/PBTa44q9wEEDBY5jWFTLQNc9dZ5r0XdofiSJtmUSt7MK56FCTx/ZPNQJLvMudq6O9xelY+6vWezoj51bTbtkuw0XkMGih6plCP45NRAgK2BzWt4hyKjtWREezUizFkQQWIjSEOFEVLgoQoqWR59u1ZaY6SNr+DRl2HKulQencPyXahKMRYJ07m+SjUzLYOSEfMivitEUsM4c01Ocya/Peo2gcZSn6Za7pIUohbAetl1DMnXEnOPtSouHN8t9C+Hg/O29V1UpOSBWn+BeKLdqU6SuJ3PCiGqB8zxK37ZyIEuSsQ==;nS/9sGyuYLXb7QnoYmhCGg=="
 ---
 

@@ -21,35 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "bp and Microsoft join forces to advance sustainability goals"
-    excerpt: "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere."
-    publishedDateTime: 2020-09-16T00:14:00Z
-    webUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals"
-    ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
+  - title: "Powering up the transition to a new energy world - E.ON, AI and digitalisation"
+    excerpt: "There’s a bold statement of intent on the homepage of the E.ON corporate website: We are going to be the energy company that supplies energy for the digital age. In pursuit of that ambition, the energy giant has embarked on a number of digital transformation initiatives in recent years,"
+    publishedDateTime: 2020-09-17T12:06:00Z
+    webUrl: "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation"
+    ampWebUrl: "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp"
     type: article
     provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 74
+      name: Diginomica
+      domain: diginomica.com
+    quality: 53
     images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg"
-        width: 630
-        height: 354
+      - url: "https://diginomica.com/sites/default/files/images/2019-06/EON.jpg"
+        width: 466
+        height: 335
         isCached: true
-  - title: "bp and Microsoft form strategic partnership to drive digital energy innovation and advance net zero goals"
-    excerpt: "LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire via COMTEX/ -- LONDON and REDMOND, Wash., Sept. 15, 2020 /PRNewswire/ -- bp and Microsoft Corp."
-    publishedDateTime: 2020-09-17T08:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
+  - title: "$1.3 Trillion was Spent on Digital Transformation in 2018, About $900 Billion “Went to Waste,” Fintech Exec Reveals"
+    excerpt: "cloud and Artificial Intelligence (AI), and a more open regulatory environment.” Kittane claims that research reveals that most of the digital transformation initiatives haven’t delivered the level of expected or desired results. He cites an IDC ..."
+    publishedDateTime: 2020-09-17T01:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/04/Garbage-Trash-New-York-Bryant-Park-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "BZQ46jjoAJOhF+ZI33c8I3/ZgboVKZX7HPU09exT5X3qZ9AHvUQaIf4KnBflW59FZUookj61pM8FdHqly/qTUUDrXtdwNeFOPbWIAIvN9eY13bJwgR2/D6kskPG7fLUbilFq/5yiCKO3fZpnl3BGHMGyCBPiiP4l7wPvaQ/d89XmSI0GSNuT6gLnjRs/vo6CJz0aLJkCCi2mJcEeLKj4yLy13SFc4LYOiEGp+dtzJ9cQMHbaabgKXzs5/ABT24wUZO/KCMYIlt1EivwLVeox6SOUV23YmGIOcbN/2//hApjr6RIb7lPNtl7GK4coSBp9/Xxh2ami5wqMV3Etmq6/meBMVZaL8BlRq6+B8vncXs8=;TPYjNd+Du/bhxiZmQ2vJPg=="

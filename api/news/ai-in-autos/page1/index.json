@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -112,7 +112,7 @@
       "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -850,19 +850,19 @@
     {
       "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
       "title": "Baidu rolls out self-driving taxi service in Beijing",
-      "excerpt": "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com.",
+      "excerpt": "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
+      "webUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB",
-          "width": 763,
-          "height": 509,
+          "url": "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg",
+          "width": 513,
+          "height": 342,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -871,11 +871,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T22:27:00-07:00",
+      "publishedDateTime": "2020-09-10T23:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

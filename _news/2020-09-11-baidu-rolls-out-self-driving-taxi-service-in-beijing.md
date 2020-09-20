@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Baidu rolls out self-driving taxi service in Beijing"
-excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
-publishedDateTime: 2020-09-11T05:27:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
-webUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
+excerpt: "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ..."
+publishedDateTime: 2020-09-11T06:01:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
+webUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
 type: article
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: China Daily
+  domain: chinadaily.com.cn
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
-    width: 763
-    height: 509
+  - url: "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg"
+    width: 513
+    height: 342
     isCached: true
 
-secured: "7KT4Ewh/LOrL2Cm2iWheQK1+6G6J5ZF/6ypmDBVoQLGiiFGfK+J8mqBQnHHRVdU4oErYphTRbR/Vs5wgx5JDP68pMn1DSGlul/Mv+4PvZ72KJTTG4wPgGUaZg2psqwwjGAn+DChCQoyOaRaucHejtnJLmzaNGgM1Z0YZ2rDiq8tDtwXri5xxhkR+Co6qn+1msdT8FWE0CwPsUvBJDKriNRI3+9qal70Nfy7wEji8hrQgPulkzLjAvN5UxVbnJeori4w8ArAStwTMtR8GYQXshWvZ5mOXgYyaH/Whbg136/CEA7FACZcXy4ReSG0xzdtzS2YnXT0XbQjrKYzu0gKW27oGwldG7PtLRfExY+mwrWw=;qkc1Nq3kryKZxCjuFDoOKQ=="
+secured: "Q+h1vI1d/3srfaOybI+42yf4wUlrh1dBElSVaG3lI6k8kWqNSnWArfq+XqNcM/rGBXck/f+O8LXfYTBRI1MclnEH52irjjGZqCKNRZjkLCEZetHp7o4eYn9RxqqEVSj7CL21R2tyf2s2Ac2gyzfonz/RHh8lRph64a2rzorNGHAQ1HNCKuy4c93w230d/QlqcmNIJjVA47qmwgfJYUN0I67H1xt9SGnE9gBmpJN5qW9ArC8+HIsyqqTZUqsKltOh/lcJrvbhCRIGnZSx/pN0DFd1qzQYo/pWB+13vR1VlS9NxCgO1DTDvKIiSm2GFrpk+w+Od4awckRNRMti9OHMjZPJpIPsIeJCrnJjvUbdt2k=;9lv8ciEvds0oF2ekf8GPaQ=="
 ---
 

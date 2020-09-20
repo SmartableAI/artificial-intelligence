@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2G8043"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043"
 type: article
 quality: 86
-heat: 96
+heat: 146
 published: true
 
 provider:
@@ -31,6 +31,77 @@ images:
     isCached: true
 
 related:
+  - title: "IBM can't shake facial recognition suit but dodges some claims"
+    excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
+    publishedDateTime: 2020-09-17T02:09:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+  - title: "Montreal should restrict police use of facial recognition technology: councillor"
+    excerpt: "Montreal police said through a spokesperson they have no comment on the proposed motion but they follow all laws governing their operations and investigations."
+    publishedDateTime: 2020-09-18T22:19:00Z
+    webUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/"
+    ampWebUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 54
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2018/07/facial-recogition.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Facebook Faces New Lawsuit Over Alleged Covert Collection Of Facial Recognition Data"
+    excerpt: "For the third month in a row, Facebook faces a lawsuit over the collection of biometric data. Facebook blames the latest intrusion on a camera bug that has been fixed."
+    publishedDateTime: 2020-09-18T20:11:00Z
+    webUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246"
+    ampWebUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/01/01/smartphone-camera.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Bans on Facial Recognition Technology Spread Across U.S."
+    excerpt: "The decision earlier this month by the city of Portland, Or., to ban the use of biometric facial recognition by businesses and local police  is one of the strictest measures so far taken by U.S. jurisdictions to address spreading concerns about privacy."
+    publishedDateTime: 2020-09-17T11:32:00Z
+    webUrl: "https://thecrimereport.org/2020/09/17/bans-on-facial-recognition-technology-spread-across-u-s/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
+  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
+    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
+    publishedDateTime: 2020-09-20T07:15:00Z
+    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
+    type: article
+    provider:
+      name: Willamette Week
+      domain: wweek.com
+    quality: 21
+    images:
+      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
     excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
     publishedDateTime: 2020-09-18T22:45:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Facebook to Launch Line of Smart Glasses in 2021, Starting With AR-Enabled Ray-Bans"
 excerpt: "The social giant is developing the “next generation” of smart glasses, in partnership with European eyewear company EssilorLuxottica. The"
-publishedDateTime: 2020-09-16T18:03:00Z
-originalUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/#!"
-webUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/#!"
+publishedDateTime: 2020-09-16T18:54:00Z
+originalUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/"
+webUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/"
 ampWebUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
 type: article
@@ -74,6 +74,6 @@ related:
         height: 719
         isCached: true
 
-secured: "zgKoKGrlcRzj6WjxHT0Yp7VBk3xZiBLmxSUHxx+XlItL1pWGgDjusurrVCmPRTLm/i1BOjhv/qHJm0tyBB4hY9LnWX8ByxaGbzVZM1GiM27SpOzI5dYczAtn6Z8vWtUHHCRw1SWIJ336D+QQHlprWNM+VCT0zn1mPvr/nRdTIPxVpUqXBFTQqlfryJaxpuAD7yMQ9G2HL1/vdYRlH16VJILKkScYv5ZfmJHuL/7QHZBeaxHovOnPOw4qtxfkFgP/C0TrVWH3g/KWo06QAtIpAEQ0nqnBEsgs81MvLCbVXQJhcUDY5mELRcwSidGikyu2+8LcOA8xgZrJmm8TcAGp8r+Oirx5sqyrLiJA2NiRoxfS5SGYV/kpwXubYtFubEnf0rAcJNIu+lSnp63MjeAX9z1K6EV+uKIvmcVv/7Vr4GPlx0xFGCCRHqzYS+c85JkJW4K70yJVPgO46W3UJA3dshvwKkRJZu47Rm50+4CsPykPJyp6mVUbuk4tp4m8djBLsCnQmCmLta7QmMvmFmk0vg==;Cj/rNJs9YuLlT57iqDHH4g=="
+secured: "qUoCvZyQHUC8j/vdk3/eZodZrTVXzpzVnwQZoLS2BpcASIrpcEepRfRdnEjogu0qUj1b2WA6Z1fyaiuxgV4oWQco+3wPa3WL1tvy3AtijdWlyIQqHfPDRWqM3jloLdu9Xyx9LJkg3uvsGnuOuK1lsSfs9W0wIvLifN60bxOmiMGcitnsZ0bm5/AU+U5guKg1K/3nY8QwOnxTCeTHl+MsYwPcSZe2CufTvli59AdtVKkVs4QzrLjZazDu+FRBO3Rt7GEkLqtsPv/Ed212lA+N+SjlnMDxVyoo1BU3B7gGIevkikhwjSfT+egZiPej4FKRgrE2G6s7w+RQeHXP/MYM5JrrZTCjqZcWXhg5Sm0UH3E=;zym9gSZDGBjtNQ5wFbrTzQ=="
 ---
 

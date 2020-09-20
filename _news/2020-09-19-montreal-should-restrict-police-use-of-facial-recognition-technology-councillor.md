@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Best facial recognition home security cameras of 2020"
-    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces."
-    publishedDateTime: 2020-09-15T23:17:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/"
+  - title: "IBM says U.S. should adopt new export controls on facial recognition systems"
+    excerpt: "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations."
+    publishedDateTime: 2020-09-20T06:02:00Z
+    webUrl: "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2G8043"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 86
     images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL"
+        width: 818
+        height: 545
         isCached: true
   - title: "IBM can't shake facial recognition suit but dodges some claims"
     excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
@@ -84,31 +84,6 @@ related:
         width: 720
         height: 393
         isCached: true
-  - title: "Facial Recognition Funding: ACLU Of Michigan Pushes Back On DPD"
-    excerpt: "The ACLU of Michigan is pushing back against the Detroit Police Department's effort to expand facial recognition."
-    publishedDateTime: 2020-09-17T02:52:00Z
-    webUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/"
-    ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
-  - title: "Paying with facial recognition"
-    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
-    publishedDateTime: 2020-09-16T21:02:00Z
-    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z
@@ -123,15 +98,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
-    excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
-    publishedDateTime: 2020-09-16T19:57:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-council-debates-proposed-restrictions-on-facial-recognition-program/"
+  - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
+    excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
+    publishedDateTime: 2020-09-18T22:45:00Z
+    webUrl: "https://www.thetelegram.com/business/reuters/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition-495091/"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 15
+      name: The Telegram
+      domain: thetelegram.com
+    quality: 16
 
 secured: "7KxUawuA5yRMtroOPJm4w46N40qF/Tb0eTADaUohPCvinVnUypD9Fo9C1K7RLlOQw7DImQ9RMZsH4e9sSeVhyasJcJ6il/x8ODykd+IBVs0tRN4fFVpp4xPs6isQGYeNzrdU95AMlJphiyaM9CoQU5RKyyh2vhxJycdGe5Nt6JJ6zq/bKzViG9ZOtA8btTkyXX9n8ytUv6tm0KRks4PikMzv15szM+4XD9SwcCbCVFYdFbK2lJSQtr3AcIyyFRTciEprqeoe4AO75SwE1Y7ILeagvwf5KvVRXihgeGvFZ78LKZSByQ0HGKbFpBMCrGM9z2TOpEo1goDLzGdZqDFnGQogeMrogAjCCdDDeAv6PXCplSXfbQlAX9j+t13b42dsnSRwE7NzILlcvtYKU94Jo5VPjxzqvLZnvJxJhGEkTKXkUH3xVxHF6zx+s4IGxMN+6euiHnAla2FcBvNOVE3oL2mJh2poRER6dlfiGQX+bvvpWtclAkbnEUaUdZIJ3kKu+tcF2MLIhVMRnuAuohaP4g==;mBC/5SP8AoD+LkhSuz1GbA=="
 ---

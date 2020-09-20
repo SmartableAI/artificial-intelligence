@@ -265,17 +265,6 @@ related:
         width: 766
         height: 479
         isCached: true
-  - title: "Safety Driver in Fatal Arizona Uber Self-Driving Car Crash Charged With Homicide"
-    excerpt: "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
-    publishedDateTime: 2020-09-16T00:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-15/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Uber back-up driver charged in self-driving car death"
     excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
     publishedDateTime: 2020-09-16T01:50:00Z
@@ -323,38 +312,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a87ea82a0cde6bef13993171e53d58316cf8c7ae/0_69_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2ba9163c913bf8cb15e652a4c351573"
         width: 600
         height: 360
-        isCached: true
-  - title: "Operator of self-driving Uber charged with negligent homicide for 2018 fatal crash"
-    excerpt: "Distracted driving is an issue of great importance in our community,” County Attorney Allister Adel said. The operator could face 4 to 8 years in prison if convicted"
-    publishedDateTime: 2020-09-15T23:26:00Z
-    webUrl: "https://www.azcentral.com/story/money/business/consumers/2020/09/15/rafaela-vasquez-charged-negligent-homicide-2018-uber-crash-arizona/5810172002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5810172002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5810172002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 38
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/86e1261b0553879c92a57f9cedce11e1d8c06c82/c=0-107-519-400/local/-/media/2018/03/21/Phoenix/Phoenix/636572551586209311-uber.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Uber safety driver charged with negligent homicide in 2018 fatal crash of self-driving car"
-    excerpt: "The Uber safety operator whose driverless car hit and killed a pedestrian in Arizona in 2018 could face 4 to 8 years in prison if convicted."
-    publishedDateTime: 2020-09-16T00:30:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/15/uber-safety-driver-rafaela-vasquez-charged-negligent-homicide-2018-fatal-crash-arizona/5811636002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5811636002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5811636002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/86e1261b0553879c92a57f9cedce11e1d8c06c82/c=0-107-519-400/local/-/media/2018/03/21/Phoenix/Phoenix/636572551586209311-uber.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
         isCached: true
   - title: "Uber’s “Safety Driver” During Deadly Self-Driving Car Crash Charged With Negligent Homicide"
     excerpt: "On March 18, 2018 at around 10pm, one of Uber’s self-driving Volvo SUVs was involved in a deadly crash in Tempe, Arizona, killing 49-year-old Elaine Herzberg, who was walking her bicycle across the road."
@@ -499,20 +456,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Uber driver charged in self-driving crash that left a woman dead in Tempe in 2018"
-    excerpt: "An Uber driver has been charged with negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. She pled not guilty in court on Tuesday."
-    publishedDateTime: 2020-09-15T23:37:00Z
-    webUrl: "https://www.12news.com/video/news/crime/uber-driver-charged-in-self-driving-crash-that-left-a-woman-dead-in-tempe-in-2018/75-d2d5c818-9fa9-4880-bfb3-783f58987ff2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 19
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/61f4bfc2-4a10-46e2-8b66-3bc1786a4116/61f4bfc2-4a10-46e2-8b66-3bc1786a4116_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Uber driver who plowed self-driving car into homeless woman and killed her is charged with homicide"
     excerpt: "Vasquez was acting as a back-up safety driver behind the wheel of the self-driving Uber Technologies test vehicle and was supposed to take control of the vehicle if anything went wrong. Rafael Vasquez, 46 Elaine Herzberg, 49 Vasquez pleaded not guilty on ..."
     publishedDateTime: 2020-09-16T15:51:00Z
@@ -551,6 +494,6 @@ related:
         height: 334
         isCached: true
 
-secured: "yQxf50qxqbW+d12a8uHqf9pV276ZtWs72HphA0gctJj3+YApAETc0rRkI968AWhIlArtULzZcp3dDkD98y4SN7sOKw03eaSPPMNJTN4DzQBAyjTfik/4iv+xdKF6oDcXXE2HP+SEjfPFmhdSZflel2xhBaS2TME0H3W7AYNvthG4uU+msgnQadpO0VD8JYtypbMqudi5XD1EnZH6WkAz9dXgk8eJFCCd0sy9aP4ytBJoFiGp990gwrMAHN96Y58s5RfsqUFixpAuYydnfJEBW1ou+sec4ARhDvhQ0Ei0OqXENJA8+XN08XPXxQ5R9CPsaUWpErLZf9wMrvyZF6umGsfMvV69e7YR2G8YzuDO8ao=;jyjnaj8zeI0fuk1mcwRbQw=="
+secured: "Ua/mHeythMOgVuJGfxyP5yE1oFwxE+fNkIV34ZUf0GXIAKj99mv7P623UDT1+4pIXdgqO1VNiCDnLKqgvTjzrSRvv6gHZBTKNgztYxZlqn8XMXF+4qmu9Z7B2uaYTZJ6MgjmfZLKgT/brc9fU9MEa7WlQsCxUsyuvn6dH/NZaMuOqT8prMpmUeI9KPZ67lybxgcT8kFEukUY5kB1UTVAEwFPvTgi05XxDVBzkLi2pMY+lfk5v7jAAv3Z5Y60H2OSXMiqOXzp8W1EZrricsf6VcC0Ghnfy+Xbl1GognW+X5s11C5Fx1n0OcLcWAiJwtcd8cQAwjSXyhw42UGbaaVOSvpvI0qCZt6cU1w4DEvVLV8twqvHxFvOnXqthbOxFp6+OkKJ1dJPEHLGdnDg/TgM7dsRAK6/ilgLk4m9OrHCRuJk95dpNO62ZhwIs+ngFrI4pjpNa7gDJGnCiY3un+jsY969GQ255Ili/wHV0opOONbrb5ljREoWXWNuflWQL74NVLVAXGwLzNMGcj8Ud1GJC+QK8ZnHwP59V4A5o5DkY18=;wVBBcpmf8IE/+uEt5BcziQ=="
 ---
 

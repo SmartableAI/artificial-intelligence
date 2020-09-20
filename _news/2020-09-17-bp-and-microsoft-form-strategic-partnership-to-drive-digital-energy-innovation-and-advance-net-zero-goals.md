@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-st
 webUrl: "https://www.marketwatch.com/press-release/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-2020-09-15"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -27,35 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "bp and Microsoft join forces to advance sustainability goals"
-    excerpt: "(NEW YORK) — bp and Microsoft have joined forces to advance their sustainability goals. To become net-zero, bp will need to remove or offset the same amount of emissions it releases each year into the atmosphere."
-    publishedDateTime: 2020-09-16T00:14:00Z
-    webUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals"
-    ampWebUrl: "https://www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/478897/113/bp-and-microsoft-join-forces-to-advance-sustainability-goals/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 74
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2020/09/15/8d5481f7-6748-4cbd-bfd9-73a82679572b/original.jpg"
-        width: 630
-        height: 354
-        isCached: true
-  - title: "BP and Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "Microsoft Corp. today ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T06:42:00Z
-    webUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-‎innovation-and-advance-net-zero-goals/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/bp-and-microsoft-form-strategic-partnership-to-drive-digital-energy-%e2%80%8einnovation-and-advance-net-zero-goals/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 21
 
 secured: "LJQp1y7qzjkrN8tYDm8Dss9k6yf3Sej+YBWK3i4pflREIIw/2z9MdAeTQJU/cjkkCdzspdusB/I/bsQq7orzehu3Ibf9gqJqADQHSTLpqZrEenhdT+xQY5u89aypzJbaKuCAwL7QQAwIX90SULO9tU836J6wZ1OsulNcJzGBQGhcbSzLAlfNgTz2X2ND60rOV60joazi+WeILP+VeQ5UGE9KzBTnvbeX13lag3YrTN0kMkadXUDhQPBGRLPg/m/YbEJUoUC0TN6rsm6R5Xu4En+rT4dPLzcqxymlpkXAaBYJ42jaky8hTyIETK//l970hIn0Rmbes/McvYrby9z2M+LqzgPqy3PzSc2mUlEXn70=;8AfHCnP6Wfx8d38b6PL9NQ=="
 ---

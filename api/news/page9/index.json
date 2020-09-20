@@ -2,6 +2,107 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-11-baidu-opens-its-robotaxis-to-the-public-in-beijing-making-it-the-third-city-in-china-with-service.md",
+      "title": "Baidu opens its robotaxis to the public in Beijing, making it the third city in China with service",
+      "excerpt": "AutoX also opened its robotaxi ride-hailing service in Shanghai to the general public for the first time last month after running a pilot program with a limited group of users sin",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/11/b8a264c2-f3fc-11ea-8f3b-07283e3f3bd8_image_hires_160937.jpg?itok=_zKbtl1Z&v=1599811784",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china",
+      "publishedDateTime": "2020-09-11T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-new-human-pilot-vs-ai-contests-in-real-and-virtual-worlds-to-settle-who-is-top-gun.md",
+      "title": "New Human Pilot Vs. AI Contests In Real And Virtual Worlds To Settle Who Is Top Gun",
+      "excerpt": "The military and gaming worlds are setting up two new events to see where human or AI pilots are best when it comes to dogfighting, including a contest involving real fighter jets. Given how aerial combat has changed and is continuing to,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b4a5e7a0e61983a39a74a%2F0x0.jpg",
+          "width": 619,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/09/11/new-human-vs-machine-contests-in-virtual-and-real-worlds-to-settle-who-is-really-top-gun/amp/",
+      "publishedDateTime": "2020-09-11T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-how-the-tech-driven-pandemic-response-is-revolutionizing-the-health-care-industry.md",
       "title": "How The Tech-Driven Pandemic Response Is Revolutionizing The Health Care Industry",
       "excerpt": "It is essential for health care marketers to take note of the ever-evolving industry in order to meet the demands of the market and help spread awareness of new and innovative technologies.",
@@ -292,19 +393,19 @@
     {
       "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
       "title": "Baidu rolls out self-driving taxi service in Beijing",
-      "excerpt": "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com.",
+      "excerpt": "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing",
+      "webUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB",
-          "width": 763,
-          "height": 509,
+          "url": "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg",
+          "width": 513,
+          "height": 342,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -313,11 +414,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T22:27:00-07:00",
+      "publishedDateTime": "2020-09-10T23:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -593,57 +694,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
-      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. ARMONK, N.Y., Sept. 10, 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y., Sept. 10, 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-11-microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus.md",
       "title": "Microsoft’s updated DeepSpeed can train trillion-parameter AI models with fewer GPUs",
       "excerpt": "The newest version of Microsoft's DeepSpeed library includes optimizations for training trillion-parameter machine learning models.",
@@ -785,6 +835,48 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades.md",
+      "title": "IBM and ESPN Announce New Feature in Fantasy Football App That Uses Artificial Intelligence from IBM Watson To Create Fair Trades",
+      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100",
+      "publishedDateTime": "2020-09-10T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1054,106 +1146,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies.md",
-      "title": "Toyota Launches $800M Fund To Boost ‘Mobility’ And AI-Focused Companies",
-      "excerpt": "The carmaker expects to see a drop in vehicles sold this year, as Covid-19 keeps consumers out of dealerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/",
-      "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5a71f213cf9ccd68ba0d56%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4177%26cropY1%3D0%26cropY2%3D2785",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/10/toyota-launches-800m-fund-to-boost-mobility-and-ai-focused-companies/amp/",
-      "publishedDateTime": "2020-09-10T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials.md",
-      "title": "AI to take on human pilots in real-world fighter aircraft trials",
-      "excerpt": "The Pentagon will pit AI against human pilots in real fighter aircraft, Secretary of Defense Mark Esper revealed on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/33022138836_f3e61b0ecb_k-796x476.jpg",
-          "width": 796,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/10/ai-to-take-on-human-pilots-in-real-world-fighter-aircraft-trials/amp/",
-      "publishedDateTime": "2020-09-10T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

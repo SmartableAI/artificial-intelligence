@@ -9,7 +9,7 @@ ampWebUrl: "https://infosurhoy.com/science/robofish-an-extremely-social-robotic-
 cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/science/robofish-an-extremely-social-robotic-fish-helps-unravel-the-collective-patterns-of-animal-groups/amp/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An extremely social robotic fish helps unravel the collective patterns of animal groups"
-    excerpt: "The spectacular and complex visual patterns created by animal groups moving together have fascinated humans since the beginning of time. Think of the highly synchronized movements of a flock of starlings,"
-    publishedDateTime: 2020-09-15T23:05:00Z
-    webUrl: "https://phys.org/news/2020-09-extremely-social-robotic-fish-unravel.html"
-    ampWebUrl: "https://phys.org/news/2020-09-extremely-social-robotic-fish-unravel.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-extremely-social-robotic-fish-unravel.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/youwantbeale.jpeg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "Extremely social robotic fish helps unravel collective patterns of animal groups"
     excerpt: "Using state-of-the-art robotics, a research team shows that animals' speed is fundamental for collective behavioral patterns, and that ultimately it is the faster individuals that have the strongest influence on group-level behavior."
     publishedDateTime: 2020-09-17T13:37:00Z
