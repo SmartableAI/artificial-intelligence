@@ -198,22 +198,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Backup Driver In Fatal Uber Self-Driving Car Crash Charged With Negligent Homicide"
-    excerpt: "The safety driver in an Uber self-driving car that struck and killed a pedestrian in 2018 has been charged with negligent homicide, Arizona officials announced Tuesday.  A grand jury charged Rafaela Vasquez with one count of negligent homicide for allegedly causing the death of 49-year-old Elaine Herzberg,"
-    publishedDateTime: 2020-09-16T01:25:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/09/15/backup-driver-in-fatal-uber-self-driving-car-crash-charged-with-negligent-homicide/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/09/15/backup-driver-in-fatal-uber-self-driving-car-crash-charged-with-negligent-homicide/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/09/15/backup-driver-in-fatal-uber-self-driving-car-crash-charged-with-negligent-homicide/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6163e7f59551eb4e0263ba%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6016%26cropY1%3D305%26cropY2%3D3690"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'"
     excerpt: "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\""
     publishedDateTime: 2020-09-16T15:00:00Z
@@ -278,21 +262,21 @@ related:
         width: 766
         height: 479
         isCached: true
-  - title: "Uber back-up driver charged in self-driving car death"
-    excerpt: "The backup driver who was behind the wheel of an under-development Uber self-driving car that hit and killed a woman in 2018 has been charged with negligent homicide. Rafaela Vasq"
-    publishedDateTime: 2020-09-16T01:50:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/09/16/uber-back-up-driver-charged-self-driving-car-death/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/16/uber-back-up-driver-charged-self-driving-car-death/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/16/uber-back-up-driver-charged-self-driving-car-death/amp/"
+  - title: "Safety driver charged with homicide in fatal 2018 Uber self-driving car crash"
+    excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
+    publishedDateTime: 2020-09-17T13:29:00Z
+    webUrl: "https://www.autoblog.com/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
+      name: Engadget
+      domain: autoblog.com
+    quality: 41
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/16/TELEMMGLPICT000239481755_trans_NvBQzQNjv4BqobE__zKPrp_qUFvuWbuFf90QECfe9XkIeOc6ImxMNmQ.jpeg"
-        width: 2069
-        height: 1293
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/09/16074923/8e62a4f0-0029-11ea-a5bf-14e4819f2afe.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
     excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
@@ -325,22 +309,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/09/uber-safety-driver-negligent-homicide-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Man behind wheel of self-driving Uber car charged with negligent homicide for running over woman"
-    excerpt: "The state of Arizona is pursuing negligent homicide charges against the man who was behind the wheel in a self-driving Uber car that ran over a woman. In 2018, Elaine Herzberg was struck by a self-driving Uber in Tempe,"
-    publishedDateTime: 2020-09-16T01:54:00Z
-    webUrl: "https://www.rawstory.com/2020/09/man-behind-wheel-of-self-driving-uber-car-charged-with-negligent-homicide-for-running-over-woman/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/man-behind-wheel-of-self-driving-uber-car-charged-with-negligent-homicide-for-running-over-woman/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/man-behind-wheel-of-self-driving-uber-car-charged-with-negligent-homicide-for-running-over-woman/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 31
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Uber.jpg"
-        width: 618
-        height: 407
         isCached: true
   - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
     excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"

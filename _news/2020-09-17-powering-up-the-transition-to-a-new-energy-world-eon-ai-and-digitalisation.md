@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/powering-transition-new-energy-world-eon-ai-a
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision In Field Service: Empowering And Enabling Technicians"
+    excerpt: "Even before COVID-19 disrupted the world, the introduction of Computer Vision into field service had begun to transform the industry. Seasoned Baby Boomer field service technicians are rapidly approaching retirement, causing a generational gap. When these ..."
+    publishedDateTime: 2020-09-17T21:19:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/computer-vision-in-field-service-empowering-and-enabling-technicians-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 39
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/27ca355d/27ca355d-3998-437a-aa8a-74fd03a40b46/tablet_pic.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "$1.3 Trillion was Spent on Digital Transformation in 2018, About $900 Billion “Went to Waste,” Fintech Exec Reveals"
     excerpt: "cloud and Artificial Intelligence (AI), and a more open regulatory environment.” Kittane claims that research reveals that most of the digital transformation initiatives haven’t delivered the level of expected or desired results. He cites an IDC ..."
     publishedDateTime: 2020-09-17T01:52:00Z

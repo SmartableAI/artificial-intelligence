@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "NTT DATA Delivers End-to-End AI Capabilities with New Data Partners, Dataiku and Snowflake"
-    excerpt: "NTT DATA Services, a digital business and IT services leader, announced today the addition of two new data partners, Dataiku and Snowflake, the cloud data platform, to its robust partner ecosystem. Together the companies will accelerate their clients’ digital transformation journeys and establish a trusted data foundation to operationalize and scale Artificial Intelligence (AI)."
-    publishedDateTime: 2020-09-17T21:00:00Z
-    webUrl: "https://apnews.com/business-wire/020f4b1ae5d34f8f9b2258892bb04623"
+  - title: "A Strategic Playbook for Data, Analytics, and Machine Learning"
+    excerpt: "Harnessing the value of these massive data volumes requires a modern, cloud-based data infrastructure that unifies disparate information silos and leverages analytics and machine learning to promote critical business decision-making. Regardless of where ..."
+    publishedDateTime: 2020-09-17T19:40:00Z
+    webUrl: "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "d5vm2u7rmNMbLOFrAQVlR9nSeh6mMO/N+qScKoL4LuOhtCAJ5Ir3us+7sbllEYNNtowA3lhI4GtGbs5LegWyC9ymsQ+6TYJBWLTH2DVNJPG8qVnW06Y3ktNuadRQDixzW6PfDe5gCmMs8WQz5BqAetW6lSFQasz4Yd8roL4a7rQsgI2BTjfDRabu22Kr+ACtAIY1YX2e80RKxxHFVjrHDkt4Swe3vUwz/AkfojUfvOcTuQP10+FDUOMEeMOozCCs6dwdfphgJaECwcyDbaUbJuMBbgXaEEmESDO/qZgj76hANPi2pfCuAIFLRcrvzCstSy71YCFE5zDkw/lGljmQ+aWM3GJb1sGbFhipSep6Xrs=;4Sg8yVbKFtlqFWxcInT3iQ=="

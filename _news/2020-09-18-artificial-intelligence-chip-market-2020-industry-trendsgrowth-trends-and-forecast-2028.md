@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -178,6 +178,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2025"
+    excerpt: "Selbyville, Delaware, Growth forecast report \" Deep Learning Chipset Market size by Product Type (Graphics Processing Units (GPUs), Central Processing Units (CPUs), Application Specific Integrated Circuits (ASICs),"
+    publishedDateTime: 2020-09-17T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2025-2020-09-17?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -43,6 +43,20 @@ related:
         width: 466
         height: 335
         isCached: true
+  - title: "Computer Vision In Field Service: Empowering And Enabling Technicians"
+    excerpt: "Even before COVID-19 disrupted the world, the introduction of Computer Vision into field service had begun to transform the industry. Seasoned Baby Boomer field service technicians are rapidly approaching retirement, causing a generational gap. When these ..."
+    publishedDateTime: 2020-09-17T21:19:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/computer-vision-in-field-service-empowering-and-enabling-technicians-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 39
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/27ca355d/27ca355d-3998-437a-aa8a-74fd03a40b46/tablet_pic.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "BP and Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
     excerpt: "Microsoft Corp. today ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
     publishedDateTime: 2020-09-16T06:42:00Z

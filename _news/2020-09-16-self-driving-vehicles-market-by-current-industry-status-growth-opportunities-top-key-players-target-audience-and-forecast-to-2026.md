@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chipset Market Size – Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2025"
+    excerpt: "Selbyville, Delaware, Growth forecast report \" Deep Learning Chipset Market size by Product Type (Graphics Processing Units (GPUs), Central Processing Units (CPUs), Application Specific Integrated Circuits (ASICs),"
+    publishedDateTime: 2020-09-17T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2025-2020-09-17?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Network Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-18T13:19:00Z

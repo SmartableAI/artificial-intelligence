@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire via COMTEX/ -- MOUNTAIN VIEW, Calif., Sept. 15, 2020 /PRNewswire/ -- Pure Storage (NYSE: PSTG), the"
-    publishedDateTime: 2020-09-16T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution-for-modern-data-2020-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
     excerpt: "Pure Storage, the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the Amazon Web Services Partner Network, today announced that FlashBlade ® has achieved the AWS Outposts Ready designation,"
     publishedDateTime: 2020-09-20T02:21:00Z
     webUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud"

@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Maxis adopts Google Cloud to boost data analytics, AI and machine learning capabilities"
-    excerpt: "Malaysian operator Maxis has announced it is working with Google Cloud to integrate data analytics into its business, from consumers to enterprise, network, retail channels and employees. The company's digital analytics transformation programme entails transitioning 100 percent of its business intelligence,"
-    publishedDateTime: 2020-09-18T02:18:00Z
-    webUrl: "https://www.telecompaper.com/news/maxis-adopts-google-cloud-to-boost-data-analytics-ai-and-machine-learning-capabilities--1354417"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
-
 secured: "zNf0/AJfOm1eLjVnqk9ku36OL4obzFd2Z89oZbxsdhO3/ah9Mm5/A0ilb87wAjfG5eIM8QJPGb2rqEvpxC5NQuwkdpi6XOj0tOE9KPkQcHFLw0TsKRj0xcpKPr5FMye7H/raBYx+Hry67L5/KiXsFUpo4noJ2cWPybj9pfomZi1ebUun8wilMRnBZehb/HB61gHAuYaQj+yLvWnlhmHovKFKwz8PG+XVmw8hgMoMzZGJ7IloV17WBsdvEGL9/vVZUTOxBymBKiq9mG84tlkGGUHsHvy9zlzzMseKIpXgEqUEut8anSEL7fJBY4QOgi9eSOY2E3UJTLHZoNLfc3BQudT2M+3jisiO8LWYvjBcQWs=;HaU8cBPqFTCb978KmC90nA=="
 ---
 

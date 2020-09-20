@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-16T22:05:00Z
 originalUrl: "https://www.fedscoop.com/partnership-for-defense-jaic-ai-allies/"
 webUrl: "https://www.fedscoop.com/partnership-for-defense-jaic-ai-allies/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "g5CrypOaX9JqMdrbUSm7X91S4onUoGY87Jsk+IPQ9BvnVh2KGBkbY4ycyt3SOItyYiAPbRz9YKKFSQaEYOfluj9lrVFauGzdo+Q9+4q7vUsB2p5BO8JYRiWb+dEH3UFxHdRXrrayMSxZreKmtEFL8DDts9kxZJ/KZOA3TE8FLgsNRLT4RlMUwBwyjeglpcLXShrAl6+KYXLEmAOnhRGqiq2DSDI4i46Fqy6usRnx5twVO1QwgAbvSIrewlW9dSspf4ndXj4vdF86nOwos25rP4auGe4QoiMP8LYBCacd7JysMeYl9dpUOUzZSTpFLqJ9PK2M6tuwSmqv/Y0EoI4JNvM5t5QAbHjfczE06qhfKCM=;Qkw6b6gpywsw1E+uZgHpJg=="
+images:
+  - url: "https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2017/03/06131917/map-pic-getty-images.jpg"
+    width: 3964
+    height: 2324
+    isCached: true
+
+secured: "B8nHATFHFxlFvjPWsdWSbpDXrEw/d+r1SVIODVQgfsidefZCjB3IKXSbZf8DQuHOoQY1tyXn1DVaqG75rG4vM4oaosp/iB0iGckM87ZuUk3yi4nlVkUabdSW1inBak195+4UgdlPh1DLTiprhsC7mtKChgHPHD55LhjG4vc0n0Pf59xvFTqcqkGE9q6iy5jhuTqqYis569DSqWwFvD5ZekRC/RKzPduwmfFUYYbGh2wLgND0JOddzcttXaIuCTiMsYxAyo8nHAyn0Amd+3Vo3RTK4V6FCs26OLsraefJDqD0sXBZnefJ5BIAIQCwCNutEgH/SjN7hVn+JQVy4oW0ycQkBGOITKtzw+4NACLyjWU=;QX79Vngn5JpBBR3JGrS9YQ=="
 ---
 
