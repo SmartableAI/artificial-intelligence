@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VianaiSystems"
   url: "https://twitter.com/VianaiSystems"
-  followers: 572
+  followers: 571
 
 size: 11-50 employees
 yearFounded: 2019
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Vianai"
 
-secured: "YG1EZGes3PbzJGvhYTYZ7aHK/3l2zGvSaULrBJM50aAmR5tWLZS48iu3lS7ibDmskHhfLkT+qwpdEmhZ86K9nMKKNLhwt/X4Zbo6ijt/OJSsMmImXFA+6HPcIff9WzV4nK1tN/QNRIe+MpjgO2WYG79DLCn5ZptBbO0XyghJivLTHY2eXjujOmGMQDYGrZUqVtkwlUyEef+s15QO7tv8vwl8IHrHOzAFHoV5wT6cyK4p2a2NmQtizqmncu8mP0ifSnKBoXQE/e0/WxrYkeoVr1WqboKTJ//AA+V2RBcYQwyD0Q94dRTiLgwPSRGQ66wYUr7044Xi6s43KDn77tq1UMJKXOacDjhEhw+K+peCYqew3K3aiqJrLNrbzljI84KttQ+aF9lNRTRPXW3wxYovLw==;bz6I42NjzDkoRzPp4LAQ0w=="
+secured: "Z/rwmbKfpJ3U4fNzDLYc2nRyVAUj24qQRoFLEA8uXLv++FBMEYJd/v8JPxDSGGv7+IYFhmg4twjTx//oKYQs3NlYCCjRqcJ2CpH9tnCOdvysc+kKbi9plb/rlDRU2oMnhwCaZg/+5cGX/RfHluWx9bFzL+6XtVQwAlY/QR4sYWDA2jcMoWlTVU3me6h6U7E2Dl2ci2tmgA5wOFJISibFXvN19OZqVnt/qUAd4eHbqnE/+UtRDEx2yKNnxpbgzbhVZwXYaXK9QuEDwNChUT576ff9Uy4PbIznKIiLh1XEUF6zwxFm3ZXW3Vz+dGxVgxwJDbXYUnREytoY9W7b4xZxYskMcPCWmynlj6sD6vNiyCv5vVrLGaQaiFBpqrdgXfpNhZ3qkrQaCoaZL+/WUkXpGw==;fHulkEDMZ8jP8pchOlbQSQ=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Kairos AR"
 overview: "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide."
 type: "profile"
-heat: 3
+heat: 50
 
 website: https://www.kairos.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LoveKairos"
   url: "https://twitter.com/LoveKairos"
-  followers: 4577
+  followers: 4576
 
 size: 11-50 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "SQUZFB1FS3u8Lp4GnV4CEOHuSBwwm2DQ8moTIeiVhK0ZICrs7e8/+d6kFjytIhyCPOAWYUOEsB7FjcIdMxRgLSKLjHFQJ4IANlWO/HUYu6lhHc7oGTXmC/E30/bPztWWVKyubDJ0M72+wepMa1iW5sdnTiG36nUIXJ10wK+eIoF0BTXWecG9D94eJmsQrJelSy1qWL6H7GqSDtGpUhG8ZpPxZUzvdETtqVKCo6R9XOMVk+K8nO3sMRD7f8Ei995E6s2GGWXqEKUGGSYulx3yIPjSWmymvGqiTBj667wXo16cXGVZ+q7a18GWy3V/ndddSbDXuOrw5tJin/FgdkGZ7qXhhLp/rVNn8yJ3SOoEnnr8NV/HPT8SqXU+r2IGwYsDPfBX5fgTfwI/fGEio13Af7auphfuOubVwAh1WhddP4E=;RIj0CD9EayAxfP5Xik+rag=="
+secured: "UQQI555BtQTEUJ3eFy/GwHW/yhxxRdYDcBFRBTnF6WbhNFC+bTCAJAUje8TWlmudMbJfMV9ZNWOO6bAZbjDMWXprlug2fhsd7Gj+1xnYAyb69io6mfRwHzHHUWFhbFbzVh17BJOt1ESBr5L8otJ9PmL8yeqGFZePKq5ucaNtC41Y6HiabmZcBZ0Z2cEat2P91KdLrAaBcmEA8dWx004bRs0R9+jBYtzLxbSk6N3WBgC9IhHVvW2Fg4M+Fa+5FI57W0C+k8R5wtAh/ACHqVYP6aCStp6YCaYOJj7S03Oq5DSKjjrG1HCInsxJc1DdWN5sm0tkYQhUVMCyvZyIMmlQVR2pEfc/I7n8oVgjWXT75Apwm/xsuHLU2x03SLrxD+qNPSd12YgzNUPmvRMxvuzY70PtatcWsUxwNA66oVKRnRA=;hoB0Qhn5rJzj4pmU/OQ0mw=="
 ---
 
