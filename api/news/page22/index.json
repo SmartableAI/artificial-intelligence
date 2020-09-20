@@ -2,6 +2,99 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-09-02-dahua-technologys-ai-gait-recognition-technology-hits-historical-heights-on-casia-b-gait-dataset.md",
+      "title": "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset",
+      "excerpt": "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/cctv-remote-monitoring-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-technology-ai-gait-recognition-technology-co-4261-ga-npr.1598888787.html",
+      "publishedDateTime": "2020-09-02T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025",
+      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Type and Application, Forecast to 2025 aims to deliver an expert and inside and out examination of the industry status and outlook of the market. The report mainly focuses on the accurate and primary analysis of business growth statistics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
       "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
       "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
@@ -1053,90 +1146,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming.md",
-      "title": "NVIDIA announces RTX 30 series GPUs based on Ampere architecture for next-gen gaming",
-      "excerpt": "NVIDIA has just launched its RTX 30 series GPUs based on the new Ampere architecture, which succeeds the Turing architecture on which the RTX 20 series was based. The company has introduced three new graphics cards – the beastly RTX 3090 for 8K gaming,",
-      "sourceUrl": null,
-      "webUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
-      "originalUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2020/09/nvidia-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains.md",
-      "title": "AI and Machine Learning Algorithms are Increasingly being Used to Identify Fraudulent Transactions, Cybersecurity Professional Explains",
-      "excerpt": "AI and ML algorithms are increasingly being used to identify potentially fraudulent transactions, cybersecurity professional explains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look-600x800.jpeg",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "publishedDateTime": "2020-09-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

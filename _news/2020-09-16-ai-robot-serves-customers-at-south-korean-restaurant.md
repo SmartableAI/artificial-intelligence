@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "A.I. robot serves customers at Seoul restaurant"
-    excerpt: "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
-    publishedDateTime: 2020-09-15T20:08:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
+  - title: "Pandemic brings robot waiters to South Korean restaurants"
+    excerpt: "South Korean telecom company KT has partnered with restaurant chain Mad for Garlic on a pilot program using an AI-powered serving robot in Seoul."
+    publishedDateTime: 2020-09-16T14:26:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/16/Pandemic-brings-robot-waiters-to-South-Korean-restaurants/3561600254093/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: UPI.com
+      domain: upi.com
+    quality: 74
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Robot server at Seoul restaurant, UAE okays vaccines for health workers & other Covid news"
-    excerpt: "As the Covid-19 pandemic shows no signs of letting up, ThePrint highlights the most important stories on the crisis from across the globe."
-    publishedDateTime: 2020-09-16T09:48:00Z
-    webUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/"
-    ampWebUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 49
-    images:
-      - url: "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2020/08/robots.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdnph.upi.com/sv/ph/og/i/3561600254093/2020/1/16002549476790/v1.5/Pandemic-brings-robot-waiters-to-South-Korean-restaurants.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "pdSxYcU8prP0F2pTbFC0wsBKQleqTn1qXI0hen0PLuCk/uH4hy9HQ4KmaDx3mKIXlBnbBox5y7Pe1/OSuyOicKGz91H3OnDj+X+vNEQKYEsOozGhSfjKnWZoexJmdMc07T2YHIe6bj8ilLGcuXEpqkd2LJ8s5bcvQdFxXtTz+tn4u7m8cyUacoCYUwUxbMyi42rs0q5/odXBsJXp8GuoFBLHjS7NZh5qUrl4WfnFwosFnDxC7BEgCxB5tov7EXd29+D0S6Patj2sS3RqSmInLxX0XMTv5RVuHNlw3N6r9kX1o4NtsVQWtX+ST23sPipRK9eaAUHLVptH2MI7oxFlbKaeCBrxpHv2+etzWo+3yUE=;Qy8kZBOrl7katjlbfZFT8g=="

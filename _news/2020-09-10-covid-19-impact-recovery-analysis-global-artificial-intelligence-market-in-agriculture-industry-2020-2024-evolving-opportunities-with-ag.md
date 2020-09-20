@@ -1,10 +1,10 @@
 ---
 category: news
 title: "COVID-19 Impact & Recovery Analysis | Global Artificial Intelligence Market in Agriculture Industry 2020-2024 | Evolving Opportunities With Ag Leader Technology and aWhere Inc ..."
-excerpt: "The global artificial intelligence market in agriculture industry is expected to grow by USD 205.87 million as per Technavio. This marks a significant market growth compared to the 2019 growth estimates due to the impact of the COVID-19 pandemic in the first half of 2020."
+excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Market in Agriculture Industry 2020-2024 (Graphic: Business Wire). LONDON-- ( BUSINESS WIRE )--The global artificial intelligence market in agriculture industry is expected to grow by USD 205."
 publishedDateTime: 2020-09-10T01:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio"
-webUrl: "https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio"
+originalUrl: "https://www.businesswire.com/news/home/20200909005696/en/"
+webUrl: "https://www.businesswire.com/news/home/20200909005696/en/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "oWq6qCZZgSPOHonM14h0VxVnSP3jRDGE4sdkckiHdW8Xb0kEBeSNWybKl9HmAzRGjqByDXXfbBdS1PorDaiOs2t3RFoVbEFqlfUm+5a4HMGdCdcaDDfM39GQopkLcL3qDUfyhUjKkZl7SM9h8acimkpJCFe3K48qH5IQhBexj1fSEJKffq3bg1z2HOMar8EBrqg4EQ8yqIlbKReisjNFc20hxiEQAE1/OogkCE+66tUBZbcwtdGEQjFN/JyCr0XoezFMjF1zfjCvzlmb4uRxj6bJpyEB4raeMD1hGF0r57PV0s1VAM1XYdO8ObhDqhShN9/89PICqzNLx8d1LWWvghpoDika1T6ADMpMJdkMNIQwIAiKXvb/NltlJoO2+i0BjXn957K3ipauDag2I7Px7x1RiCkoZBpu4Ve5Rt1INkKKu7wy7U8AoITTKQ0tNOg7ykWvDOn4MQuBQJoKh/dnYjz8SrGkIkbvZEtiWrimA+b4K+CtwUqYmL5SpvU5r7VA+MRhZuiLjUrSNz6yWnuywQ==;lQ/eNmS2WNAJD2kDDXUUQg=="
+secured: "hHev4RPDJPReqpyukFXE26abapNVbJVTR/I/KOmkEBLyHuNeW8WRHt+OEmd8LfXvNsOaw2oIjZlxK839w58z3of7b7BDkM9RQCzdWrj3km5mriqlecvv1lzDA1le4XjzbuRDh0lrijBDh8xG1ffJuxA7cjOROpt04Z4Ix3ogVLPWQ2h4CD2a7tmAwd1wLXtc5f5pRD4vJKdEO0rMjiUdMHU35ueo5wx39MlacSahS4ICi7SrGr8C+CbwUrXNCOkRvne9EfE59ELkm+MDq9gAI/q7lrfr9NM20Fh3W6GmV4YIF1dcQbsqaiqUoHWrWvkggZa43+RFLQk+lPsR4ulopjF5qIIHIRKK/VHanzDnJws=;AL6fwiB+fsQ03qxiZzY5Mg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -159,20 +159,6 @@ related:
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
     publishedDateTime: 2020-09-16T10:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-business-outlook-with-covid-19-scenario-analysis-and-forecast-2025-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Software System Market 2020 Analysis Trend, Applications, Industry Chain Structure, Growth, and Forecast to 2025"
-    excerpt: "MarketsandResearch.biz has recently published a market research report namely Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that contains important statistical and analytical data spread through the entirety of the report and includes contents related to the industry."
-    publishedDateTime: 2020-09-15T19:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2020-analysis-trend-applications-industry-chain-structure-growth-and-forecast-to-2025-2020-09-15"
     type: article
     provider:
       name: MarketWatch

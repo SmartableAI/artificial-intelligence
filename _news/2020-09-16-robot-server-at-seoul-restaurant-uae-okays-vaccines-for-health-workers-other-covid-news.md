@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/world/robot-server-at-seoul-restaurant-uae-okays
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robot-server-at-seoul-restaurant-uae-okays-vaccines-for-health-workers-other-covid-news/503791/?amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "A.I. robot serves customers at Seoul restaurant"
-    excerpt: "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
-    publishedDateTime: 2020-09-15T20:08:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2661KB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "A.I. robot serves customers at South Korean restaurant"
-    excerpt: "Aglio Kim”, a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing."
-    publishedDateTime: 2020-09-16T11:11:00Z
-    webUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant"
-    ampWebUrl: "https://www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/entertainment/index.php/showbiz/2001386573/ai-robot-serves-customers-at-south-korean-restaurant?amp"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 59
-    images:
-      - url: "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/wednesday/clslu8ufchufij50ovy5f61b16d1750f.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "VhEN7dIDpHYKygoa9I3NL2RWMMIqwkwEyK9kSXDPv9+h5zasZ5ymkdu7RNzBT2s9ljAL/AdcpMNqBV7AmoMcGUSQf9U5kfyxYwdTGAcew2FF9SdV2/Dkr6lo+UtT04ac/RubLJQpQXJlqQHOKsacx3+mUAA0Fxvdhvmq0y6LDVJMGy2d6Md0tAXd+KskTPCDeoSzdcM4eE5QtmWH+GpgAbOK54VNnhIdqy/yPd2FlR9LQjCUNMMI8JyG7dSLhfo7RdwF2ySK0toqK99VWigfOfWp229n6xjl2DPSaIAdxc00Jr5tnphF25cjIcEjIRfSxPcrAMnQMKwPj3SibxV+nLrPPjbE3Dv1siHvzZ9IIZA=;AHm2pkWruJcRBH0Up/v9bQ=="
 ---

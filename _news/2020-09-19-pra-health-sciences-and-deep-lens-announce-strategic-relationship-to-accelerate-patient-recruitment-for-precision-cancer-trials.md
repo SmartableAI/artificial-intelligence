@@ -44,19 +44,14 @@ related:
         height: 450
         isCached: true
   - title: "PRA Health Sciences and Deep Lens announce strategic relationship to accelerate patient recruitment for precision cancer trials"
-    excerpt: "PRA Health Sciences and Deep Lens announce strategic relationship to accelerate patient recruitment for precision cancer trials"
-    publishedDateTime: 2020-09-18T12:30:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/pra-health-sciences-and-deep-lens-announce-strategic-relationship-to-accelerate-patient-recruitment-for-precision-cancer-trials-9309913"
+    excerpt: "(GLOBE NEWSWIRE) -- PRA Health Sciences, Inc. (NASDAQ: PRAH) and Deep Lens, Inc., announced today a new strategic relationship to accelerate patient access and recruitment for oncology clinical trials."
+    publishedDateTime: 2020-09-18T12:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pra-health-sciences-and-deep-lens-announce-strategic-relationship-to-accelerate-patient-recruitment-for-precision-cancer-trials-1029602469"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 0
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 6
 
 secured: "XYH5/Hqs/tvWKBzs5T9Zr/wmbeDNtjGPRSBw0g/nZS188LYJWz1GUTKJWKbkvwS6ptcl8R0ULH7u0dUkzxX1nsp0ac0NWvnnDJnyJE+rgE2Iu2CiREkKdt7rlGx3+T5bCxKSkhHzatbDHslldWij4XlizqAtOysqYu2lZ7N7aM+dOlIS7NNkDjn/tJx3i6bRtLm/YX0ZeA6DZu2NyHlwsHR+8x0r7PXdbtrC+Ix2em+X7FdZuUQCQI+DUKWpT+fR79n3XlElppB2PtCocWN1lYZyTvDFbuYadbpRkDxEeribaGUZQWrxyQeQcoNiJLHQzEJTHDKKHK+pOmeVAp8bHwes/dp485oC2C70O8no1qI=;EZz5flej7J2QQPdyEhu/uw=="
 ---

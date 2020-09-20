@@ -897,33 +897,33 @@
     {
       "path": "_news/2020-09-15-explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event.md",
       "title": "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event",
-      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top",
+      "excerpt": "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\"",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
+      "webUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook",
+          "width": 2224,
+          "height": 1164,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162",
-      "publishedDateTime": "2020-09-14T10:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -932,6 +932,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -980,17 +981,17 @@
     {
       "path": "_news/2020-09-14-zenrobotics-helps-to-start-automated-mrf-in-finland.md",
       "title": "ZenRobotics helps to start automated MRF in Finland",
-      "excerpt": "Remeo’s automated MRF in Finland will feature 12 robotic arms from ZenRobotics. ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
+      "excerpt": "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
       "sourceUrl": null,
-      "webUrl": "https://www.recyclingtoday.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
-      "originalUrl": "https://www.recyclingtoday.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
+      "webUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
+      "originalUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://www.recyclingtoday.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop",
+          "url": "http://www.cdrecycler.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop",
           "width": 736,
           "height": 414,
           "title": null,
@@ -1001,11 +1002,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T09:20:00-07:00",
+      "publishedDateTime": "2020-09-14T09:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Recycling Today",
-        "domain": "recyclingtoday.com",
+        "name": "C&D Recycling",
+        "domain": "cdrecycler.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -41,20 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Bollywood star Amitabh Bachchan is the new voice of Amazon's Alexa"
-    excerpt: "Amazon.com has signed up India's biggest movie star Amitabh Bachchan for its Alexa voice assistant in a bid to lure users in the world's second-most populated nation to its services."
-    publishedDateTime: 2020-09-15T20:00:00Z
-    webUrl: "https://www.unionleader.com/news/back_page/bollywood-star-amitabh-bachchan-is-the-new-voice-of-amazons-alexa/article_7cdb5a4f-10a3-5543-a15b-771e094e1f7f.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amitabh Bachchan is the new voice of Amazon’s Alexa"
     excerpt: "Amazon.com Inc has signed up Bollywood mega star Amitabh Bachchan for its Alexa voice assistant, stealing a march over rivals Apple Inc’s Siri and Alphabet Inc’s Google Assistant"
     publishedDateTime: 2020-09-17T16:27:00Z
