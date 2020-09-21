@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
+    excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
+    publishedDateTime: 2020-09-21T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
     excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
     publishedDateTime: 2020-09-18T08:55:00Z

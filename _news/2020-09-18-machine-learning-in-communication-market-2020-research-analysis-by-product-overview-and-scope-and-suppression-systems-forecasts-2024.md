@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
+    excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
+    publishedDateTime: 2020-09-21T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "CMEV1PK+zRWzfSSPEMudu0TrDxCxQ5LL3YSqqzBvUY9Q8OfRyJ1RT1LHOn3XXqzOJqL/vHwWqjVarvEN2qQf2z6Ctv9YgR9vKF1J19lwkrxWZ8SafaCQI6xSVOOmGhSBojaVSq46J7SRwaXkBrL2CdKFMjf+UW5HAKkfSlQa3sz7BCLMkmbBKCpOpCj4AkVm0eTL2GpZFLbcCtnjPvxRR1yF42YEAKFRbfoUrgdGwJ/gXmdCXyIemR39TOUb0nyLbHLqN4W+7WzAp1R5/zp3/vPxYRa0DFbK82Wfybfpz5x3ymM42Qs1kIepy3uYIAeker8+Uk0NpCl+Rh61Kk2goEH3IcU+Baa8jyzI2F9tsWU=;imyCqq6xNcFOXK0pCRJNdg=="
 ---

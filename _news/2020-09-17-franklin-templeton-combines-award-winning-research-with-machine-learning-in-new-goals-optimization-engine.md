@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/franklin-templeton-combi
 webUrl: "https://www.marketwatch.com/press-release/franklin-templeton-combines-award-winning-research-with-machine-learning-in-new-goals-optimization-engine-2020-09-16"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Franklin Templeton Combines Award-Winning Research with Machine Learning in New Goals Optimization Engine"
-    excerpt: "Franklin Templeton today announced the introduction of its proprietary Goals Optimization Engine, or GOE TM. The global offering provides investors with personalized investment paths for their unique goals,"
-    publishedDateTime: 2020-09-16T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200916005185/en/Franklin-Templeton-Combines-Award-Winning-Research-with-Machine-Learning-in-New-Goals-Optimization-Engine"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "JM74OaAPQk2gBREiBRNY5rspWdHOWwCaUHmjcC/7nGSMr7K94RseKHvgKJgU48fiFFqWSWzB09G1FfLC1zN7NaIHwlqF+dGjiGPuf3MlgX0VQqsfzeRVPBuoQfQo8ZHfREgpSXPjMnK4TorKKCHpuDi/I7CK7rpyezJWKmURkx3uAurLK9AyrGR9fydTaYpzluAHmwBJA8Lz+7fuqdzyBjnjFwYo1NbxkkiWD/FiC9NGzg4eqAAYxFOkWntgqhVFXVDL/eNOPGeEpPEkXE/m01FNmcyX6LvijaIl3KcTAYic010bjUIqIWWKuNRiRWslcNgJYVY9cILQBflPjGNbTP/wb5xuOfO8Xz4p77l5eAo=;u4L+eQm3oj7+WAdmTWK4Gw=="
 ---

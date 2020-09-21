@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition tested by Brent Cross West station contractor"
+    excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
+    publishedDateTime: 2020-09-21T05:00:00Z
+    webUrl: "https://www.railwaygazette.com/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
+    type: article
+    provider:
+      name: Railway Gazette International
+      domain: railwaygazette.com
+    quality: 39
+    images:
+      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/4/3/8/35438_inndex_106783_crop.jpg"
+        width: 2000
+        height: 1338
+        isCached: true
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z

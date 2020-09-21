@@ -57,20 +57,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Combating Human Trafficking With Knowledge-Sharing And Machine Learning"
-    excerpt: "Human trafficking can be hard to detect, but knowledge sharing combined with machine learning can help disrupt the criminals."
-    publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/09/16/combating-human-trafficking-with-knowledge-sharing-and-machine-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37c0e91cca000073bc3a1%2F0x0.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "ThtzPion1Tt98D+06YtcAxFIVNVe6vGETYno78YjJripF36syaWuPk6oHjJq9krmhvmR0Y68J6PZS4cJNDwpkrMxDvUKGhiPqxTR/4X4ejDfxREUDt2GELHGPg7wEZEMbq0/Cdk13UlB+iqzgdufA2m8DE1OMRdqVATDQci8FHkdvyBD8qVxACMO4ld0r+9bpo5DVtC+Ssqpj/B6QAflIjUup+5lvG4tnY5g4b4zr3uk8ZGXVzwfiQiVRYrv9swj3M5olGasCr4uojBa4LmL9z7jbavBuba17u16Q2EZnVkodup4hFS7S+PdlRvE7unqzJQA+TykEamd5ReWWVqs3RrquXFf6ju4eN3YW/O8NEs=;ARwX5HNTDP75gGJDrZC5/Q=="
 ---

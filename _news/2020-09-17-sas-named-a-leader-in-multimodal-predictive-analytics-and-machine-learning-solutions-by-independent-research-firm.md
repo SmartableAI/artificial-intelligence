@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
-    publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z

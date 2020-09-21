@@ -1,0 +1,47 @@
+---
+category: news
+title: "UK chip designer Arm to be acquired by US firm Nvidia"
+excerpt: "UK-based computer chip design firm Arm is to be bought by US tech giant Nvidia in a deal worth 40 billion dollars (£31.2 billion). The US-based graphics chip maker has pledged to keep Arm headquartered in Cambridge while also promising to expand on Arm’s work to build a “world-class” technology centre."
+publishedDateTime: 2020-09-21T05:26:00Z
+originalUrl: "https://www.salisburyjournal.co.uk/news/national/18718604.uk-chip-designer-arm-acquired-us-firm-nvidia/"
+webUrl: "https://www.salisburyjournal.co.uk/news/national/18718604.uk-chip-designer-arm-acquired-us-firm-nvidia/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Salisbury Journal
+  domain: salisburyjournal.co.uk
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.salisburyjournal.co.uk/resources/images/11804326/"
+    width: 1620
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Nvidia to buy UK's Arm, sparking fears of chip dominance"
+    excerpt: "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create"
+    publishedDateTime: 2020-09-17T01:50:00Z
+    webUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html"
+    ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
+
+secured: "tUf+Jgq+Hlf1K3w/DzwlldSEF+Cr2oowdA94jTDVR4yP4WNZHT1ITtPllr6oj7F8X/jYAsUb0CaZqQPvf/Dh8TG7jLJseQ0hk1CVRm2OcTcEs+l5mOHsrzwUSG4tEGANVbcIxySC1w5gGjYvyDStmKEm5Kip5gN2Ys2QPBlC2CCZ0XDSIlM/RiBtO2f2mHVc8VJ/evJ+ZC0I9peM3SllPlzzA6kVNXH4vmSmXgRzyAJvdIp8iA0QZ8X/IdO780okpRaWMiTWeE45hfTCe5VBMkQr943DzrZfs3mgDQ7/3fKSMXvS5MXs/ZDxeVJxoqBdeLJKHiP93lwnFUVSqqVTAEmp1X4h4g4iW0hfU9ngcLE=;Kw8XR/BVV8LIU1XqGQQUhA=="
+---
+

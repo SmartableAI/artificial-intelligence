@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Aktana Introduces First Contextual Intelligence Engine for Life Sciences"
-    excerpt: "Aktana, the pioneer in intelligent engagement for the life sciences industry, introduces its next-generation Contextual Intelligence Engine to optimize interactions with healthcare professionals (HCPs)."
-    publishedDateTime: 2020-09-16T17:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
+  - title: "Embedded computing development kit for artificial intelligence (AI)-based machine vision offered by AAEON"
+    excerpt: "The BrainFrame Edge AI DevKit helps create machine vision-based access control, uniform compliance, manufacturing automation, and video analytics."
+    publishedDateTime: 2020-09-21T05:32:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14183603/artificial-intelligence-ai-embedded-computing-machine-vision"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
-    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
-    publishedDateTime: 2020-09-17T05:39:00Z
-    webUrl: "https://www.thaipr.net/it/1026362"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
+      name: Military
+      domain: militaryaerospace.com
+    quality: 37
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/09/Aaeon_21_Sept_2020.5f63aa1b69ff0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0twCWmDzijA0lLY/cG/TIKE5SkRdySgay45s7OFf0Y+O7wy9RkROOaxy+lqovoUC+2Y5A2Z98tULZYQF2tnDez0NbjvCpvfuoWaCsrRr4s7c23swm5eMqBc+qgWffgz3O+srs3FcRLuk50+wuHvgdRAnwjbNZ1vvUUHf0G8YJtNhJfdHRj7SfS3XZZO0UG8XPVaTHLLyncW1WpTRvSNZixuw8XfrE5ON6F0RVjcmv1tGu9jIWggdokgoUMJ3mI77zAH1VfyP6B9smNmQu79pcwGypdGKps1se1W08JNL1UFmAMlUr+BrPRorGJ/zORg6YaAmfx45mIjEyqadyZgNTN0QvSb+/8DN3YIpeMQ+gIw=;sgUa6h1OfhuLoADWWJJvzQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
-    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
-    publishedDateTime: 2020-09-16T11:26:00Z
-    webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "SAS Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions by Independent Research Firm"
     excerpt: "“Most industries working with large amounts of data have recognized the value of machine learning technology to work more efficiently and quickly garner insights from their data,” said Susan Kahler Artificial Intelligence and Machine Learning ..."
     publishedDateTime: 2020-09-16T19:57:00Z

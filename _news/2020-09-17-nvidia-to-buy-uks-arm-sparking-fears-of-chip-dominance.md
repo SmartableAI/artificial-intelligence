@@ -9,7 +9,7 @@ ampWebUrl: "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holding
 cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 707
     isCached: true
+
+related:
+  - title: "UK chip designer Arm to be acquired by US firm Nvidia"
+    excerpt: "UK-based computer chip design firm Arm is to be bought by US tech giant Nvidia in a deal worth 40 billion dollars (£31.2 billion). The US-based graphics chip maker has pledged to keep Arm headquartered in Cambridge while also promising to expand on Arm’s work to build a “world-class” technology centre."
+    publishedDateTime: 2020-09-21T05:26:00Z
+    webUrl: "https://www.salisburyjournal.co.uk/news/national/18718604.uk-chip-designer-arm-acquired-us-firm-nvidia/"
+    type: article
+    provider:
+      name: Salisbury Journal
+      domain: salisburyjournal.co.uk
+    quality: 39
+    images:
+      - url: "https://www.salisburyjournal.co.uk/resources/images/11804326/"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "y9RvMM7kf7rsQnCefQbZjNAbedT40dISOWIu3glbJ3+ElZNo19sHswMvlAWq+O763dALa3pG+EU6qPeyEDLMyMOP7cIfgRfsZSVtgyqnMJmyhMZPxP1P4BP33moiZoo3wBuJJLjB735bNAOD+N3oD84YX5RvVYZHgG0jCkNuXjSu4T0ZMBgSKYsBERxr2VbesLhWQ8rfN3XhelFCCLe32Sin+xhMavCqEbm7T5i2FYovgy1fP4OGJ5plBAxyqwyCYk8AnC8YDjffGoJGGetAIbCv0BaKSYySFVmN2rNL6aEIdIB7gBe0EaEjBclf9s+liDb+l1yz2ApFKczQzjI0l7tc9ehbXm2m9j6LkJe07KZWmF+se+lh6YfnqQbdQ8akexzhvUPyHHLdh9WebW6zsuRyO0KSK2A31EXALFtT93xgALFSfHkRSoQXZy4I5ECV4oghooIRg2zJcgXRf7amTcW68FRnowVRN3+cYfXH4R7i734bAmacLsXqRCTn9q2hLk5RLy0uc3D7DPwlEqphNw==;vGcMpuRVdQMoIbw6is8wEQ=="
 ---
