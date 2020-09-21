@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2020 Key Aspects of the Industry by Segments to 2025"
-    excerpt: "Sep 16, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has presented an updated research report titled Global Deep Learning Chipset Market 2020 by Manufacturers, Type and Application, Forecast to 2025 which is generated with the expertise and ..."
-    publishedDateTime: 2020-09-16T20:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-09-16?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robotics Market Competition, Status and Forecast, Market Size by Top Key Players, Regions, Type, Application by 2020 to 2026"
     excerpt: "Global “Artificial Intelligence Robotics Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial Intelligence Robotics Market report also explores future trends for supply,"
     publishedDateTime: 2020-09-18T13:16:00Z
@@ -187,6 +173,20 @@ related:
     excerpt: "Selbyville, Delaware, Growth forecast report \" Deep Learning Chipset Market size by Product Type (Graphics Processing Units (GPUs), Central Processing Units (CPUs), Application Specific Integrated Circuits (ASICs),"
     publishedDateTime: 2020-09-17T11:51:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2025-2020-09-17?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
+    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
     type: article
     provider:
       name: MarketWatch

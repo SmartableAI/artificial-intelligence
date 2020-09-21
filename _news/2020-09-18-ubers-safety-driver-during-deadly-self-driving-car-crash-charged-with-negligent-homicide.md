@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber's self-driving car 'safety driver' charged in fatal 2018 crash"
-    excerpt: "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide."
-    publishedDateTime: 2020-09-16T19:46:00Z
-    webUrl: "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/4RWp-CT8SdPs7I1-asH1y47N9IY=/1200x630/2018/12/19/ff7286c9-b975-4789-97fb-fd86b387cee6/aaa4508-pit.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops"
     excerpt: "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday."
     publishedDateTime: 2020-09-18T04:06:00Z
@@ -74,6 +58,22 @@ related:
       - url: "https://media.wired.com/photos/5f6285468595a16063bbc4b7/master/pass/business_uber_RTX3MUMK.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
+    excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
+    publishedDateTime: 2020-09-21T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Uber backup driver charged with negligent homicide in self-driving accident"
     excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
@@ -155,6 +155,70 @@ related:
         width: 766
         height: 479
         isCached: true
+  - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68 Canadian police say"
+    excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
+    publishedDateTime: 2020-09-19T13:26:00Z
+    webUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html"
+    ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7FZOGDNWNJEH3EH5LNRETMSCPE.jpg"
+        width: 5152
+        height: 3400
+        isCached: true
+  - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
+    excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
+    publishedDateTime: 2020-09-18T20:13:00Z
+    webUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/"
+    ampWebUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 46
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/09/manny-becerra-vDloaizQO6I-unsplash-1.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68mph zone, Canadian police say"
+    excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
+    publishedDateTime: 2020-09-21T09:29:00Z
+    webUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html"
+    ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 45
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7FZOGDNWNJEH3EH5LNRETMSCPE.jpg"
+        width: 5152
+        height: 3400
+        isCached: true
+  - title: "Uber self-driving car operator charged in 2018 pedestrian death"
+    excerpt: "(CNN) — The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
+    publishedDateTime: 2020-09-18T15:18:00Z
+    webUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/"
+    ampWebUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 44
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2020/09/Volvo.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Safety driver charged with homicide in fatal 2018 Uber self-driving car crash"
     excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
     publishedDateTime: 2020-09-17T13:29:00Z
@@ -171,21 +235,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
-    excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
-    publishedDateTime: 2020-09-16T20:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged?ref=hvper.com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/16/uber-self-driving-car-death-safety-driver-charged"
+  - title: "Canadian man booked for falling 'asleep' as his self-driving car zoomed at 140kmph"
+    excerpt: "Police in Canada have charged a man for falling \"asleep\" while his self-driving car was travelling at a speed of 140 km/hr. The cop who charged him said he was \"speechless\" to seeing it."
+    publishedDateTime: 2020-09-18T11:14:00Z
+    webUrl: "https://www.indiatoday.in/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
+    ampWebUrl: "https://www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
+      name: India Today
+      domain: indiatoday.in
+    quality: 38
     images:
-      - url: "https://i.guim.co.uk/img/media/a87ea82a0cde6bef13993171e53d58316cf8c7ae/0_69_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2ba9163c913bf8cb15e652a4c351573"
-        width: 600
-        height: 360
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/GettyImages-1217880607-647x363.jpeg?FSzeVbegnIS1n2uRLO.hvIEEqKulrw4f"
+        width: 647
+        height: 363
         isCached: true
   - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
     excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"
@@ -229,6 +293,20 @@ related:
         width: 1024
         height: 672
         isCached: true
+  - title: "Self-driving cars closer to becoming reality"
+    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
+    publishedDateTime: 2020-09-17T18:01:00Z
+    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
+    type: article
+    provider:
+      name: WSMV
+      domain: wsmv.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
     excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
     publishedDateTime: 2020-09-18T15:25:00Z
@@ -243,21 +321,30 @@ related:
         width: 1497
         height: 843
         isCached: true
-  - title: "Thatcham Research comments on Uber’s self-driving operator charged over fatal crash and considerations for the UK"
-    excerpt: "Director of Insureance Research Matthew Avery has shared his thoughts on the Uber case in the US and the potential implications of self-driving vehicles"
-    publishedDateTime: 2020-09-16T21:46:00Z
-    webUrl: "https://www.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
-    ampWebUrl: "https://amp.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
-    cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/uk/thatcham-research/pressreleases/thatcham-research-comments-on-uber-self-driving-operator-who-faces-charges-after-fatal-crash-and-highlights-considerations-for-the-uk-3035364"
+  - title: "Anhui opens 5G-covered road for testing self-driving cars"
+    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
+    publishedDateTime: 2020-09-19T20:33:00Z
+    webUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
     type: article
     provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 23
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
+  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
+    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
+    publishedDateTime: 2020-09-17T21:36:00Z
+    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
     images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,h_700,q_auto,w_auto/ap0542iqdzwbcxe6ijrq.jpg"
-        width: 933
-        height: 700
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
+        width: 600
+        height: 315
         isCached: true
   - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
     excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"

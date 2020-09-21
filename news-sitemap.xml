@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/</loc>
+    <lastmod>2020-09-21T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/</loc>
+    <lastmod>2020-09-21T04:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/pra-health-prah-enters-into-strategic-deal-with-deep-lens-2020-09-21</loc>
     <lastmod>2020-09-21T04:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,12 +25,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/</loc>
-    <lastmod>2020-09-21T04:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/</loc>
     <lastmod>2020-09-21T03:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html</loc>
     <lastmod>2020-09-21T03:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d</loc>
+    <lastmod>2020-09-21T03:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -253,6 +265,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph</loc>
+    <lastmod>2020-09-17T21:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-all-specs-prices-and-release-dates-detailed/1100-6481673/</loc>
     <lastmod>2020-09-17T19:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -267,6 +285,12 @@
   <url>
     <loc>https://www.today.ng/topic/national-artificial-intelligence-and-robotics-hub</loc>
     <lastmod>2020-09-17T15:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/</loc>
+    <lastmod>2020-09-17T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -967,6 +991,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html</loc>
+    <lastmod>2020-09-14T06:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/</loc>
     <lastmod>2020-09-14T06:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1093,8 +1123,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137</loc>
-    <lastmod>2020-09-13T17:16:00-07:00</lastmod>
+    <loc>https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2</loc>
+    <lastmod>2020-09-13T16:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1423,6 +1453,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
+    <lastmod>2020-09-10T16:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1437,12 +1473,6 @@
   <url>
     <loc>https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/</loc>
     <lastmod>2020-09-10T14:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
-    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-inclu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/samsung-galaxy-s30-might-include-iphone-rivaling-facial-recognition"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Paying with facial recognition"
-    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
-    publishedDateTime: 2020-09-16T21:02:00Z
-    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fzaIRibGmV/U3fc5wvLboqNqjuK30ogK5gaGSO+XebziOXXVcNbBKPWPOi/LC5r7aByL9i5E11oaTaxcgLl0zd4s8/ajKMBZXsKC5K7LhOr7XoeCwnaFBE2qQFSL0A8eDjKg+qioal9lQDS3n/VAAq94Kquk11N5m04ZSAEX66GxJ2BgKHP+nAU+H4YQs9k6FfAmOgA96VP7I21NkltT0nhj75A7TyUaIpPJb5ZDE1Ftrw7iRRPyFbFvE/ZKhNhoL12SoFeszfYRjxE/9OD1hhb8OQxFPgRBF2nyABdj6S26Y02MjUfAzDDrsgIrBF6eXYaP6UFTzgsJeCwlKy5k/IzhHWd2aZbMdYCn6/GVegcMu70VfhqNtq6IWhrmNhQ33iIvjw4t5HMTGxN4qoG3QCa3SexqTMFfoNJv/2j2YXDX/Y99/j+2QSmHQ78hRo1KEOzo2Kzk+Jk3T1NtVTr4TsZxX/GprJkFN76jzn+WSuaVaGKpEyi1ZIs5WT6snR2VHl0hlVQkuY27F61wuTOcjw==;YaVY67b6oT7psS49+prmAg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
-    excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
-    publishedDateTime: 2020-09-16T19:57:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-council-debates-proposed-restrictions-on-facial-recognition-program/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 15
 
 secured: "j6qITydqBkLx5fs31fFmIwpeSdlgP4rM/BaRUFFx2KuhqAP8mQABKaxU+XdYecswOgsHCUVilKOCNRq8VsGBxsPjTAEpiba8cMLQ9dGGSspPzDgAfwsuVHTjyeAbbgn3E96+Dk0fiEISPDiRFZjXJKFD7dum7Q9kdskOpRXmBPMceAemTdevNY77i2GQMydaeeO7lN5tGvh8Tpt2fvkiVf1KCiztkltZ9G4TF/OdxXF8a/Y6/ol6R9YQTV/JwuZShNMW1glxCoI2VbhNb+qKrdmnG4KL3TWQi1Ukp3jEMAw8f/rD7Y14EP8+PB/X+kGbR34b5dvhjlbqxwcvilEfBZO07lOeACnRXfHuZvJAp+e1HzMVTCMf07UFLhJKbzkOE/ZKhZ1xOvq6jSxF9BjrKKN94lgER7rBVQZSdYO/ZeGhEfxSBOcN5fYAtdy3XKsDhQAEVJp7drWkNBgfdrn+a7nsuCQHerZOCtN5gsosJ++39i4XHznQ3sLCitqG57RUQLhXhxkB8/QBXh3gWbBfBg==;0F29vFhbBjB3ZzmKFvmDsA=="
 ---

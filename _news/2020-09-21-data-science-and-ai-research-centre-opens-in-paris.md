@@ -3,8 +3,8 @@ category: news
 title: "Data science and AI research centre opens in Paris"
 excerpt: "Two of Paris’s leading education institutions have created Europe’s first centre of its kind dedicated to research into artificial intelligence (AI) and data science."
 publishedDateTime: 2020-09-21T09:28:00Z
-originalUrl: "https://www.research-live.com/article/news/data-science-and-ai-research-centre-opens-in-paris/id/5074262"
-webUrl: "https://www.research-live.com/article/news/data-science-and-ai-research-centre-opens-in-paris/id/5074262"
+originalUrl: "https://www.research-live.com/article/news/data_science_and_ai_research_centre_opens_in_paris/id/5074262"
+webUrl: "https://www.research-live.com/article/news/data_science_and_ai_research_centre_opens_in_paris/id/5074262"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074262&name=data-science-and-ai-research-centre-opens-in-paris"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074262&name=data-science-and-ai-research-centre-opens-in-paris"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 581
     isCached: true
 
-secured: "wCjYnVWnyLACDuXdA7Wndj0ifRIvpV2OYigrnK0foiysGGKg9G0DtJ2Q7Zel+rbqLCveQe8JeogfqxquXZG+glVAOHJYW60uLo+IM1zg4kgiLIg/rPE2/rnVUAnM8A0M08HfLHT3acQdl/H3CmNzQMAGRlSmKR1eAEjtEvRk5KXOOKc4OjO29IJzNqB8y28cDxXNciv1FZX92F9L2XZ7hgKCSidOMT+67XC0dCqhA4sJyPGQkjTfAs1Y5uawXM15JcFA1KFHG96A2m+yjOK65Enw8lHyEEHnnFxziyRxj1VD1UvNvf+i6symDbBihXnwCSbA5BpU3+sid9fCvwpZrvvLUGmUfJKy80lQIhEl5cz1V2iC0MPe8Vadup887LENxo8L7TXUmpUHMLNF2FJXuP2UXNo+cJRnCb4yL4Qlck7F8wFudqTvJJOjuT6zLvi50SqveQRPLhx83W8p4+yR82AvIfhrruGrxUWDAB7QE6uqj5Rdeiw4Tj2pCd6SFLap93aNHK1yjY6Pb3JhzNWWkg==;6GL67S9TZj6nrkhMYlDBIg=="
+secured: "MUU4zlUvmBXpDNBLfbEqiJklbhAJk30pGiwCd7SeQ0Z2WYUAWYek4MiLaLi9r54t0ceP6ldB+Nqu6769lRQAv6xFBPrgH6iyicAyYGqkOf8c2k9x6+pGahy6HSwXKozJktGcUsZSa2xPKly6ozWJa0Ts6k03Xyt7GtEaOyqH2qJZ46GErErxF/LnTBvTYkh7lLJR5vV5O8ySsk88vxAIM+c53B+U+hEbtayalEzK6Io8/39lRDywAe9DSz+XeXNQ3X/hyFaNjfawcKblIUYeJRFE41qHIzrFC4Pf1iEeOo2gKarglFXn5zw87uZT4biyO69c4P3m6lu47fVoQKkONI4xcqlDoacMURq0zvG7zXw=;D3Wcz7cx35t5rM8jUvWOfA=="
 ---
 

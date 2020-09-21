@@ -9,7 +9,7 @@ ampWebUrl: "https://www.krtv.com/portland-oregon-passed-broadest-facial-recognit
 cdnAmpWebUrl: "https://www-krtv-com.cdn.ampproject.org/c/s/www.krtv.com/portland-oregon-passed-broadest-facial-recognition-technology-ban/?_amp=true"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Plan regulating police facial recognition technology in Pittsburgh gets preliminary approval"
-    excerpt: "The Pittsburgh City Council gave preliminary approval Wednesday to a plan that would regulate the use of facial recognition technology by police."
-    publishedDateTime: 2020-09-17T10:23:00Z
-    webUrl: "https://www.wpxi.com/news/investigates/plan-regulating-police-facial-recognition-technology-pittsburgh-gets-preliminary-approval/UUYDDI3GDZGC5NQJKSLIMYN3DI/"
+  - title: "Portland’s Face-Recognition Ban Is a New Twist on ‘Smart Cities’"
+    excerpt: "The first big US city to prohibit private businesses from using the technology reflects rising skepticism of new tools and concerns about fairness."
+    publishedDateTime: 2020-09-21T13:00:00Z
+    webUrl: "https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/"
+    ampWebUrl: "https://www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/portlands-face-recognition-ban-twist-smart-cities/amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 28
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://www.wpxi.com/resizer/PZcVAXsTSuPiISJmldyh8fA0oHM=/1200x628/d1hfln2sfez66z.cloudfront.net/09-16-2020/t_1ff54a948e544f7bb2ec146377a8b319_name_WNB2ALL_COVID_Facial_Recognition_PKG_mp4_frame_2562.png"
-        width: 1200
-        height: 628
+      - url: "https://media.wired.com/photos/5f6503d2eb3bb2da971988d6/master/pass/business_portland_20027039523780.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "yzn7UknamfrQ4nu0HEIlhArLZ+MKPMh1V3PdQbmt8Xm8k0TFj/QG+G+QTSStkcAgtDH1rDDjq8vT9ICL6XV0fLgIMx6Np+FEj9DaxiBBpDY2yXYA5NM+XibuXRDzyexsMQEwKVu47cqpaKuZ4Rek1VPZmxjeP/KzxBUrjPyd3yonqHr1p8RC7sTOV1v3+sFs6vvP1VKH6DmbL3xottdWjCYMvIevXhp6OxXnIFSWtDL+3ONyeHm5iq4O6nMgedKVnA+oGNt7Ua2Ek4t8Am18eDrN6dIvqEO7aBG0aExnUJ+DSUIjy5pzZ1Z7hMYgKt1e0EbedbzV+kSdI9jDEwsOGka2Wj5U46xe1Y95T+kgA7w=;4AlO9nFvAHPuqApT0ve+8w=="

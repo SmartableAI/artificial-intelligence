@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 800
     isCached: true
 
-secured: "bJXdZa38BMxyqJWE8s3vCND6mNLfADIX62wmKJeuWVv+1oxKInranrnkzOFG9pss9SlMAkO7edzq1Q05T2ZwF9O0DfvjZpeSIXEQ3t8ZuCEdNW1rLX/bE6STjMYXUGCiqFfnVivoE9xIzfisiGuU3+SuYarzPhtlQgMNVQ2pulT9NIxGWR8QHW+zdfuX/j2j+wsVJ2LnFG1xnyoq9tIgSDwXCpKC47Kmmivb+kx0JpvWPnphmhm7oKtE5GfIlF2FAQWTqNxCm0NeFbhypFGSvkhNVSUt3N1j/5FAUOeUd+c88Q1u4spL6Qzy9ATr0RxJlCXmwZ0Mi6K5RXBflJ6ZOlzRqoD6ox1Dfc9NfGqn8L0=;yF9Ev4Avhwx9BW/0FaU1ew=="
+related:
+  - title: "5 steps to AI transformation and survival"
+    excerpt: "If an operating model defines how an organization positions people, process, and technology to deliver customer value, then companies with an AI-first operating model are those that prioritize the use of AI to weave more intelligence and automation into the firm’s products,"
+    publishedDateTime: 2020-09-21T12:27:00Z
+    webUrl: "https://www.cio.com/article/3575542/ai-first-or-nothing.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "UeyUUEo9riget+1Y3OceVsFWPMjcSw2yzULZsTFJB8HiVZgFKEBEz+ERE82itlwsswItYQ0ZcFFV5Foga87x7nmM7khuLByrdbdop4RhX4B6G0HKilGlk53Gs/AS85fNyJhP/nYdsSJLHu4ClVHxeoKfXhusxLwXD382MFm53JZvfPrdhhNaCviQunZHN7isa2LyEwOyEsTPt+7LwCVM6+aU2suFwT4ueuebibcQTCc2tUVfczihY79gsSzBX28TGUpteDsv5HO2W4at+oYJW390gengTEIj44xWNQOAKkMA2yevZSVJGbhyQieEv3fZ3yqQEv0MEzLGJYcSgivnZAeWr5RUf8VN7IyNk+OS8cSB3DeQLGMoiGrao7yLKfPpX60kpmjGDxtpAym9/K8RT6Ms7DXCpiXcJAdFGoTJ7a4crPugveIwGXam0QNKGcr4TsHEckgHR9F3CHiIBs4doJfzlVswb3QhR2RbDaNyzr9EV2JWNSgyPeL4xIADTU6LxgbQQ/DluebALo0idIKaNA==;1SlJ6CGiZz/vxfBubV7P8g=="
 ---
 

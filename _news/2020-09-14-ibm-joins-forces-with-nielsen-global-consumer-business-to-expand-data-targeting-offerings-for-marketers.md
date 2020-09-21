@@ -1,29 +1,26 @@
 ---
 category: news
 title: "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Weather Targeting, a new suite of"
-publishedDateTime: 2020-09-14T14:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-1029586367"
+excerpt: "The Weather Targeting data tool is part of a suite of AI-driven targeting solutions. Most recently, IBM Watson Advertising used the technology to assist with the COVID-19 pandemic by enabling ..."
+publishedDateTime: 2020-09-14T13:51:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "5MEiiVl5uDNqys7K04Ui/NL/0QIVSBsVLAtn0vHT2v5615ixGstIr8DzdbODdb5erWUydmbsC2kTa8owykmOURn6Xqs3RAWm26L4wfnHS5+LMWXVLghpSGSj8Df3JlHmPHF32GM70WgG4oYqejOJcISKZudtCEXA1eEmq8xw1wTvj6/DVOlI4Q+0P3sCrS7Aakzplr57CiKJN6cr32GYaAQ/W/WEacoYbL+R6fRniqJ8q0/fqhg1YQN7kdt8jaYXqBOIm/MPYpE2Gr0SUSnlOOlKhYK43WyRG2FdXXj8j6Et3o+/SG9YIAovW+1/be6kFbjvkMcopxlIHATtn1GnegWeexMsXgJOYld8cPfNy09Sqz0NDO61gG8E14fRdE5KLmDWshZDeZvKCfIOyVbmvQGQBaH3uivfNYI5pdLdr0RzzNR8aih0dyBmY5M/XohvR+wOz+vVAVFmJYGSg9fCkP4SXo4kiIReikkUkJjSs8stsUtlPVUJrFWXoGWq8tNR5v7G3FFIFFjZk/DaJQAW2n+1hEOFDMLTN4s3ALq8KVk=;BU0rmfJ9bShmq4bluP4Y6A=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "HE4DRPxfb1/Tvu8R3fhGbC7BmK6ztoWC8UHR4xjgMqM42JTZ3wScOaje1751GvZgCYb4PVRA1DGavkiuX5G4rSrwNRHCUYOlfndGqP598X17ah6DkkMhDkM1pYhj8iWYQ34AwwlLkHdbn8buSZgbDPnfKFqOKiqsnwwLLFLdytr2ReY8aEFr3pxFjXWnL0iJuQeKEAzADzdtuVwQLicOsutHysR5G7HJk0zmTJ84I1uHj+XkjDh2fDXlmDLOcFuQZ/pMtTYWef4HUyfyBRZGDfbus1Y5+8AsPhEIHTBeBV97XrFRcRQTtrvSeNXPza024qyhbatkNVKGglByxZ483uYdobD5wHAQx3rIpCn1tK4=;L+n/0qPQe0l3wo6313PkaQ=="
 ---
 

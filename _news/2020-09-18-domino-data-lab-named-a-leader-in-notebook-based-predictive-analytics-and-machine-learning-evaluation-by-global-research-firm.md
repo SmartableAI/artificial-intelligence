@@ -19,38 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
-    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
-    publishedDateTime: 2020-09-20T06:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
+  - title: "Nuvi Named Best Social Media Analytics Platform by MarTech"
+    excerpt: "Nuvi, the leading enterprise Social Customer Experience (CX) platform, has been recognized as the Best Social Media Analytics Platform, according to the 2020"
+    publishedDateTime: 2020-09-21T12:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuvi-named-best-social-media-analytics-platform-by-martech/article_16d2cb5d-5934-5594-acca-d80c4b7b3d1e.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
     images:
-      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
-        width: 1200
-        height: 627
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/64/c64213de-9a66-5295-a3a3-055eb04f13fc/5f689d1aa9a84.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
-    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
-    publishedDateTime: 2020-09-17T05:39:00Z
-    webUrl: "https://www.thaipr.net/it/1026362"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 0
-  - title: "SAS Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions by Independent Research Firm"
-    excerpt: "“Most industries working with large amounts of data have recognized the value of machine learning technology to work more efficiently and quickly garner insights from their data,” said Susan Kahler Artificial Intelligence and Machine Learning ..."
-    publishedDateTime: 2020-09-16T19:57:00Z
-    webUrl: "https://www.newswiretoday.com/news/173679/SAS-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-by-Independent-Research-Firm/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "3msqJvHQoMr/Y1HK0TChWhJ+8uXlHMomPRefrCtzsMOf9c+1lz0eIWKwG0QtW6DH2pYUZp4ikhNofG9iSm2qJocJUAmO0rtmRj4nbyhm6g2dOrk8xALXMXscg1vCYn5mds5KcZzv03w8Lp7eJ5+Qt5uV+DmW5G6QeIWGZDqNG8FcoUfovWILYzQv2MWWIv1cR4/r9VSJOaiFDwr+CUKZr/XgFtFREpPzwKrC09zWg7n9txFkcX6B17Sp+NMGgNX8T9A01vKyHiixrY1My4qp+tEEmMIX6/Y3RQYv40NdtfZJRwLpUuZ9j5OxYWVpvAPH4kzrbLR+WXBt350mt6SQGSx10aH/Rs9F7plHF/JirsU=;k4Eq/G13v4Vd0g1mZ73bHQ=="
 ---

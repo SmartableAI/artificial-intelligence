@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detecting-and-redact
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
         width: 1260
-        height: 630
-        isCached: true
-  - title: "Automating the analysis of multi-speaker audio files using Amazon Transcribe and Amazon Athena"
-    excerpt: "In an effort to drive customer service improvements, many companies record the phone conversations between their customers and call center representatives. These call recordings are typically stored as audio files and processed to uncover insights such as customer sentiment, product or service issues,"
-    publishedDateTime: 2020-09-16T21:00:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-the-analysis-of-multi-speaker-audio-files-using-amazon-transcribe-and-amazon-athena/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/16/1-SolutionArchitecture-1-651x630.jpg"
-        width: 651
         height: 630
         isCached: true
 
