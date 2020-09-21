@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3615340-aitx-establishes-new-subsidi
 webUrl: "https://seekingalpha.com/news/3615340-aitx-establishes-new-subsidiary-for-mobile-robotics-solutions"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/17/the-new-hummer-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/17/the-new-hummer-ev-truck-touts-crabwalk-mode-opening-a-can-of-worms-for-self-driving-cars/"
 type: article
 quality: 45
-heat: 45
+heat: 65
 published: false
 
 provider:

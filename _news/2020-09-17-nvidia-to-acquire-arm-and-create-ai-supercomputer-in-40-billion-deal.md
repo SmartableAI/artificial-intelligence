@@ -9,7 +9,7 @@ ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/09/16/44658
 cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/09/16/446584-nvidia-acquire-arm-create-ai-supercomputer-40-billion.htm/amp"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

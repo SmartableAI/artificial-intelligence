@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/content/1201331.shtml"
 webUrl: "https://www.globaltimes.cn/content/1201331.shtml"
 type: article
 quality: 46
-heat: 46
+heat: 56
 published: false
 
 provider:

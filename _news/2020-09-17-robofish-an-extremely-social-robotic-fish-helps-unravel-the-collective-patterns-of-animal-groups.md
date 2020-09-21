@@ -9,7 +9,7 @@ ampWebUrl: "https://infosurhoy.com/science/robofish-an-extremely-social-robotic-
 cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/science/robofish-an-extremely-social-robotic-fish-helps-unravel-the-collective-patterns-of-animal-groups/amp/"
 type: article
 quality: 31
-heat: 31
+heat: 41
 published: false
 
 provider:

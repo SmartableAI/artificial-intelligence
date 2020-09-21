@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-w
 ampWebUrl: "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/"
 type: article
-quality: 67
-heat: 67
+quality: 89
+heat: 89
 published: false
 
 provider:
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "7zVwxSOcTJRQ8a7L1YGouHcovajsUzC4tNnL4Zi4resRclupoE4U+W0xQb13Q1ARsu8jHSJlujNlgH0iCSOAB93nRfzAW5ZOIRSB0Q4jMUEWMcx6Ulg9vIU2SLxcc1Dlo10qBqsa42swQy7rjkZ8qW999uEk1gYAAhdIojEFHg2zsZj40Q02XcYazfHSZ7NaWZURJnoUzSA2qsuL6q7DpXqD9DxyE0Nrzl7gFoDFAGkSoNsPovPQN4UvgQcx95X9Gr4co29NFfxXzxpGWVtwdpTrhsAxQ+Q2Lxn0yVkD/RrATApXvpHb5rFPXHtzT2XyVukyEzxMUU7bRK5G7UaHly4GXUFeyMyPTQ9FkqmXuEvLWI1LbHy755aUfVT/Z+B4OajRWXD8H8HiJ5NvpjkvrYP1+k21nRQ05uMKBWvBjFe8xmud7SAL5RfhdVvh64FZ1MFVsIn4wx7bPjsNTo7y8x+9fEiDK3aERStUzGLZFIOzcJVlqgB47TPy4RfgdjTabR9slw47v2LsTPJyWmGXgg==;D3JXXUI1XshelIhkdb6rsA=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg"
+    width: 4324
+    height: 3684
+    isCached: true
+
+secured: "b59OP9UPFFzD/EAHvei9hgY/PgHMw6G3o2os2zs1Cwhx7Ty97rfwiC0JD0HxnBkLHg+3LFYco9fBHBTS7NgG7PaAkvbKqcfvUbIyweEjXd2XexS9TqGf0xnqiL+UNUKjFCuOf41BRXSwG8V5WSLty5y6Cnr/WuGuJnuh2THuKZfZ/AfsM9U4chtgK41U+GWp8K62WgqBnj7rd6r+mrAs382So+ZESlOXB9kFHosOBNSNvBDA8+j0aSttB1NKdqXcaG9Sw0j1vAfE/5oio2G6l1azsWUojZmPMKMzkDz/S5dKXQT1j2ptnVSjMZpJaKwwPGEgxTPVxGL0uUOY51lpB0WL3jKeZPCseI15xqdXrMk=;cRf8iFQXedtWiRGU03L3zA=="
 ---
 

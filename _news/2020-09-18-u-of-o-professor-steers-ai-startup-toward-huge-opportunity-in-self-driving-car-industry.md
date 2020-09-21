@@ -7,7 +7,7 @@ originalUrl: "https://obj.ca/article/techopia/u-o-professor-steers-ai-startup-to
 webUrl: "https://obj.ca/article/techopia/u-o-professor-steers-ai-startup-toward-huge-opportunity-self-driving-car-industry"
 type: article
 quality: 30
-heat: 30
+heat: 40
 published: false
 
 provider:

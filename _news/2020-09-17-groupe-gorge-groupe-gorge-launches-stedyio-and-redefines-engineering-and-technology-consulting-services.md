@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50723974-grou
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50723974-groupe-gorge-groupe-gorge-launches-stedy-io-and-redefines-engineering-and-technology-consulting-services-650.htm"
 type: article
 quality: 0
-heat: 0
+heat: 10
 published: false
 
 provider:

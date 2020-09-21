@@ -9,7 +9,7 @@ ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-serv
 cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

@@ -1,0 +1,27 @@
+---
+category: news
+title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+excerpt: "View the full release here:  Although the COVID-19 pandemic continues to transform the growth of various industries, the immediate impact of the outbreak is varied. While a few industries will register a drop in demand,"
+publishedDateTime: 2020-09-20T23:20:00Z
+originalUrl: "https://www.financialbuzz.com/covid-19-recovery-analysis-artificial-intelligence-platforms-market-rise-in-demand-for-ai-based-solutions-to-boost-the-market-growth-technavio/"
+webUrl: "https://www.financialbuzz.com/covid-19-recovery-analysis-artificial-intelligence-platforms-market-rise-in-demand-for-ai-based-solutions-to-boost-the-market-growth-technavio/"
+type: article
+quality: 14
+heat: 14
+
+provider:
+  name: Financial Buzz
+  domain: financialbuzz.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200916005770/en/821962/4/IRTNTR44235.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "pbuo/u/VoaU/3b+TZ7+KcVsBQ9Erpfa2GWoZnitxeb9sc2t0gLif/4efSt1m9rcPq49Lk34x5wXLMAn8q1MMzATc4ZKJiAME7gKQAl7acvq8g6cPqRi8AwWzAqlWrj4MIaMgme99QYnlsS2If3n3/o8T0vRJ0LaW+eduIe/FmOXC8GWUwqt3te9lbN1zNsTWgNFgFJI/uNAlp14iOElKvEpRY5w/0Fb/hJQCa4wHw7bl9QJSxmTt75y1RdHCXkQT1JPBZ0vPpyJ7eM6rhV+h5OlrKnS20IMohpriWvi1xdYhuePU9UELlsFd/0T2RZMA7+luTWUjX/CSXw40xKZ+K676jLb5LyxRjWXla2dAbHY=;JsGoRgciwlq89r3txxvBPA=="
+---
+

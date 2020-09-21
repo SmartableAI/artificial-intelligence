@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b2
 webUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

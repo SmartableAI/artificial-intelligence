@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
 type: article
 quality: 49
-heat: 49
+heat: 69
 published: false
 
 provider:

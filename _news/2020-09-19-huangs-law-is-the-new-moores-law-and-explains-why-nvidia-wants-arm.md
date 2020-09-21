@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/dow-jones/202009199/huangs-law-is
 webUrl: "https://www.morningstar.com/news/dow-jones/202009199/huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm"
 type: article
 quality: 19
-heat: 19
+heat: 29
 published: false
 
 provider:

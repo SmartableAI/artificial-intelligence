@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/pra-health-sciences-and-
 webUrl: "https://www.marketwatch.com/press-release/pra-health-sciences-and-deep-lens-announce-strategic-relationship-to-accelerate-patient-recruitment-for-precision-cancer-trials-2020-09-18-81843022"
 type: article
 quality: 26
-heat: 26
+heat: 46
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/pr-newswire/ebb2f0d23cf7841660443da72221265e"
 webUrl: "https://apnews.com/pr-newswire/ebb2f0d23cf7841660443da72221265e"
 type: article
 quality: 15
-heat: 15
+heat: 25
 published: false
 
 provider:

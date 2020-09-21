@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202008/Abstraction-Four.png"

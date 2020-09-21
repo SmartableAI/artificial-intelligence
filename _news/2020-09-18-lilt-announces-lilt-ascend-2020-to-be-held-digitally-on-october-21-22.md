@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascen
 webUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-301133832.html"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

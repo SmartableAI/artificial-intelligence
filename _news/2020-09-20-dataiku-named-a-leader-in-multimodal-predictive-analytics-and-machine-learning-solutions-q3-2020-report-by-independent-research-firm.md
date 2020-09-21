@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-N
 webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
 type: article
 quality: 23
-heat: 23
+heat: 43
 published: false
 
 provider:

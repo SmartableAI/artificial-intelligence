@@ -7,7 +7,7 @@ originalUrl: "https://www.shropshirestar.com/news/motors/2020/09/18/self-driving
 webUrl: "https://www.shropshirestar.com/news/motors/2020/09/18/self-driving-taxi-concept-wins-ford-award-for-new-designers/"
 type: article
 quality: 24
-heat: 24
+heat: 44
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/chatbot-market-statistic
 webUrl: "https://www.marketwatch.com/press-release/chatbot-market-statistics-opportunities-demands-and-growth-revenue-by-2025-brandessence-market-research-report-2020-09-16"
 type: article
 quality: 32
-heat: 32
+heat: 72
 published: false
 
 provider:
