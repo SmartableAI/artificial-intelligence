@@ -51,22 +51,6 @@ related:
         width: 899
         height: 300
         isCached: true
-  - title: "Qualcomm's Cloud AI 100 aims for first half 2021 deployments"
-    excerpt: "Qualcomm's bet that it can use 5G to bring AI inferencing closer to edge compute nodes may be about to pay off."
-    publishedDateTime: 2020-09-16T10:30:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-cloud-ai-100-aims-for-first-half-2021-deployments/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/09/11/a38032ce-5d52-488e-93e8-c726297e438f/cloud-ai-use-cases-2.png"
-        width: 1017
-        height: 559
-        isCached: true
   - title: "Qualcomm announces three new AI accelerator chips to power edge computing"
     excerpt: "The company also is testing a Cloud AI 100 Development Kit that includes a new chip, 5G connectivity, and Snapdragon 865 mobile platform module."
     publishedDateTime: 2020-09-16T13:30:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Demand of robots and automation technology is surging the robotics investment."
-    excerpt: "Investments in Robotics are continuously accelerating, even in the uncertain times of the COVID-19 crisis. Investors are taking closer look at robotics and related technologies to keep running businesses and gaining competitive advantages."
-    publishedDateTime: 2020-09-16T09:22:00Z
-    webUrl: "https://www.analyticsinsight.net/top-robotics-funding-investment-september-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 50
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Robotics-1.jpg"
-        width: 1681
-        height: 841
-        isCached: true
 
 secured: "IXQ7XOtnjGp+U8gR6wGXH/o24ULC5COnUICQtrh4BmMCVlJNrQvyJNogsZtg+CXa+G8+VM+4PsERoDtQuPv9b43ejOTj9uXV+IbbxT9+cFvwgkxNSFv1dG5R4cFiPrqJBhmy/nMlC8D5hXuMp5xFhNsu9+5z2dy9CIOW4Tq6c9eWnVp4JP6j+Hn4HVLDvFh5T/vFnDwtjg7CYFlB7JZvK/OASvWRmcUD/2R+SFuy9o2WwnuU1mkhkk2LkPvjB6+UHegF4IxReppq6BCUo60L7PcSiAZkRcwnkVArHbzZi0o7kFEJjrSec6Nc11+pgghTMgsmQxEdD8i/4NtqxiJzPkvsWsMOrave8mQ8rDoA7Tw7Z6o9RTXYObHMFtYfRfE6gM2xzPj5oT+ACqmMHcnw+20l/BZregGJdZkMExKp7eH+c5IzO6vRN6q3gMRvdTltHxPFx6EEW+Xiy2be940mu78vUoPrAGqw6Yk0LUwRHX4rzB4e0uVAJjNR4sz3aZaiVWHSGjvdRSkIh4CaFoL90A==;ZB5F6ib+BA/2W8Bqg4dN7w=="
 ---

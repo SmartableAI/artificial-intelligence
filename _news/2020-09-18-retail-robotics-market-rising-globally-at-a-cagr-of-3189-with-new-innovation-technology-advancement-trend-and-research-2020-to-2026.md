@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-r
 webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Automated Material Handling Equipment Market 2020 With Top Companies, Applications, Developments, Innovative Technologies Research Report"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-09-16T10:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2020-with-top-companies-applications-developments-innovative-technologies-research-report-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "aDkxQlJuEzIs9t7IcZcAayjgPDAxSt6jpEpVtFF8bfsLICS682bgC4WL7Uid8f2M/8Gs6SUqPOQ+SosYlxRDLnb5DcmePzRVHTgS1faFs6G9zBTWZ4faZyEgPYmMM0UxggFXj0gyWmWNui4xkju1NmfOvJaGI4ozoBcwAiAH/Kp9S4eDygyoGjeqSRxL65iZGtFY9ygjLyKIROoECSvJ4zv2vb1WeIYNdwe7AMcURvvLaanGYjPpPZiSbzeiR2Mz82Ynve73nbz10RInlIcMuUIi9cYFNT1vFZRnlMYqnifX/Lk1lNRTs2lOcHnxYjVUKfAwAQePMfscPaCdWOYZF+NPrm5qKKjTQ1a8r9pCKZ8=;f5Cf0wY7EYuvINXfpFGpaw=="

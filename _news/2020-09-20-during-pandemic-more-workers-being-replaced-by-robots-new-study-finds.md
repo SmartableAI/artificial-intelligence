@@ -43,6 +43,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "During pandemic, more workers being replaced by robots, new study finds"
+    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
+    publishedDateTime: 2020-09-21T03:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/09/21/during-pandemic-more-workers-being-replaced-by-robots-new-study-finds"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/19/866892.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
     excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."
     publishedDateTime: 2020-09-16T15:21:00Z

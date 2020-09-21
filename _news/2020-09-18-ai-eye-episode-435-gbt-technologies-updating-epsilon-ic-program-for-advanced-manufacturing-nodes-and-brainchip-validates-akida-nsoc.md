@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-18T16:38:00Z
 originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09181AIEye-GBT-BrainChip.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/09181AIEye-GBT-BrainChip.asp"
 type: article
-quality: 8
-heat: 8
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

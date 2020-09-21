@@ -9,7 +9,7 @@ ampWebUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-w
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.dailypress.com/resizer/9J5Mx0_d7gT7yoBL017FTr_zT6c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7D7IU3DS2VJTWJVYRUKC5JCI3A.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "During pandemic, more workers being replaced by robots, new study finds"
+    excerpt: "The coronavirus pandemic is accelerating the trend of robots replacing humans in the workplace, which could result in a recovery from recession that nonetheless costs jobs, according to a new report."
+    publishedDateTime: 2020-09-21T03:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/09/21/during-pandemic-more-workers-being-replaced-by-robots-new-study-finds"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/09/19/866892.jpeg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
     excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."

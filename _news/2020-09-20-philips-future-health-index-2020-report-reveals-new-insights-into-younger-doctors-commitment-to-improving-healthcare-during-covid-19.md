@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "THE US HOME HEALTHCARE REPORT: How the Smart Hospitals Market is tapping into the booming home care market in 2020"
-    excerpt: "Global Smart Hospitals Market trends, with detailed analysis on consumer trends & manufacturer trends. Overview on supply analysis covering trends across raw material suppliers, technology providers and distributors."
-    publishedDateTime: 2020-09-16T10:42:00Z
-    webUrl: "https://www.medgadget.com/2020/09/the-us-home-healthcare-report-how-the-smart-hospitals-market-is-tapping-into-the-booming-home-care-market-in-2020.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-
 secured: "1KjQClp70KmRA00ljaN+xWH2ekSU8pXlLp+sacp/FJG5G47P+a9s46IdIAbFrhryTjOobZgnkBh7N6XIFA5z/Veca7eN6GNKV4zE6XjtWGsY1k2t16zISn0jbF+e7bmZh7VGDqUEsq8Rhe/NmrRuI9dlZE0CZx9qyPTVDHCCMIH9h6/Q7BC7sIr/sYVwHHmgbZByIzvpyz61iY9+g07rLbiuwE1GkI3gwieNiXltuUsPtsGs2PSz0+LTApLZgjD7+MNH+LEgPcsELB4bqDwirVK6YhJug0q9dROdUxhySbt6diwEEan9GGICe6cSQYbSq9pZTo4BjJ0NIZ0jBTiCK/HS1HB7aTGr53Ms3c6DUV8=;GPcE1dMKey3vQh/1FDEaKw=="
 ---
 

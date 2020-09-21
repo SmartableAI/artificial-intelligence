@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
-  - title: "Pure storage brings FlashBlade to AWS Outposts, delivering a hybrid cloud infrastructure solution"
-    excerpt: "Pure Storage has announced that its FlashBlade has achieved the AWS Outposts Ready designation, part of the AWS Service Ready Program. Fully tested and supported, FlashBlade for AWS Outposts delivers a hybrid cloud solution with all-flash performance,"
-    publishedDateTime: 2020-09-16T09:38:00Z
-    webUrl: "https://www.pcr-online.biz/2020/09/16/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 26
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/cloud--660x330.jpg"
-        width: 660
-        height: 330
-        isCached: true
 
 secured: "QvOgRM/MK61QNuC0wUca5rnV3xZxSezx6+PxGJfKDFvM/P6Uxkboc9L15Xo7utFmlAQYpLmo8V4cIFNmdGBh50q3oH9KQuGmVbXoZt5+ANY9hNi5UNMTksaQpT7t8dbRYaifekkaSrla9juPUKej2QfMVkcpcGUIsWPypSKwyesvu9g/HMXSl2L+gGBU6WPODqojwmfoEdRP3yA5NzTlAEHUAQbCk+NOECgxtPAMQn+wR83Wb/OXUhjRzbm1baRH2Fd35b4DpuvnqeMM7NZl8axdRMA4OWSASb4z1s76ZtjHG0qcs+GwbAHkropsJv839d42rcKc2hU5Ctqk5q6t0+idekTCQdSH3e/GlwYPyb4=;Hwah5kE8DK1SML6vbMigYg=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Pure storage brings FlashBlade to AWS Outposts, delivering a hybrid cloud infrastructure solution"
-    excerpt: "Pure Storage has announced that its FlashBlade has achieved the AWS Outposts Ready designation, part of the AWS Service Ready Program. Fully tested and supported, FlashBlade for AWS Outposts delivers a hybrid cloud solution with all-flash performance,"
-    publishedDateTime: 2020-09-16T09:38:00Z
-    webUrl: "https://www.pcr-online.biz/2020/09/16/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud-infrastructure-solution/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 26
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/cloud--660x330.jpg"
-        width: 660
-        height: 330
-        isCached: true
   - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
     excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
     publishedDateTime: 2020-09-19T03:09:00Z

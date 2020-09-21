@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
+    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
+    publishedDateTime: 2020-09-17T21:36:00Z
+    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "PhDoXYrbqFPqH8/5mQCqNBqYQW2oduDkWL0Ypyv1VqoRQ/SO4L3yhRtODr+NSBtuBNIALOUs0JEAgfu2U0kDnCZZPI5IwxV4AxzWVERiERIRY+s2FGvrsZ882J2XXOgIT9tbtlzfU63Id8nUSBHW1Sy+rxLwO4r9TSpE9X73lRvy67tIdDnzGhE8/Sb0vSsR0GFtjVdtBOuvcxdbh0MtNAX8YTqlRZql3iTj6z2vKSZit5EZNMaF6/R9ejvVnO3jSZ5IFZvLBpQweyju75PecNxlmJP9vDyji2yNRheANKZDbBTHpaWp4ry7Rnrl+m+P+vuxk3tOzscILe5OL7VGWG9+GQQ3TNwG8zZwuyZwk3Q=;k3o1uIjvo0I+fp0EFhw9LA=="
 ---

@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber backup driver charged in fatal 2018 self-driving car crash"
-    excerpt: "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,"
-    publishedDateTime: 2020-09-16T09:06:00Z
-    webUrl: "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Bjdq9rwdqqGu0imAP6-L8aQZTe4=/0x0:1434x790/1400x933/filters:focal(603x281:831x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png"
-        width: 1400
-        height: 790
-        isCached: true
   - title: "Uber's self-driving car 'safety driver' charged in fatal 2018 crash"
     excerpt: "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide."
     publishedDateTime: 2020-09-16T19:46:00Z
@@ -111,22 +95,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Authorities charge Uber backup driver involved in fatal self-driving crash"
-    excerpt: "The Uber driver that was behind the wheel of the self-driving vehicle that struck and killed a pedestrian in 2018 has been charged."
-    publishedDateTime: 2020-09-16T10:06:00Z
-    webUrl: "https://thenextweb.com/shift/2020/09/16/authorities-charge-uber-backup-driver-involved-in-fatal-self-driving-crash/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/09/16/authorities-charge-uber-backup-driver-involved-in-fatal-self-driving-crash/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/16/authorities-charge-uber-backup-driver-involved-in-fatal-self-driving-crash/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 72
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Uber_Self_Driving_Volvo_at_Harrison_at_4th-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Uber backup driver charged with negligent homicide in self-driving accident"
     excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
     publishedDateTime: 2020-09-17T13:29:00Z
@@ -174,33 +142,6 @@ related:
       - url: "https://i.insider.com/5f621a7e323fc4001e0d68b2?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "7 Self-Driving Car Companies Racing to Gains"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Self-driving car companies hit a major pothole earlier this year. Long a"
-    publishedDateTime: 2020-09-16T18:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'"
-    excerpt: "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\""
-    publishedDateTime: 2020-09-16T15:00:00Z
-    webUrl: "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282"
-    ampWebUrl: "https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 63
-    images:
-      - url: "https://d.newsweek.com/en/full/1637737/elon-musk.jpg"
-        width: 3290
-        height: 2320
         isCached: true
   - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
     excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."
@@ -354,20 +295,6 @@ related:
         width: 1024
         height: 672
         isCached: true
-  - title: "Self-driving cars closer to becoming reality"
-    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
-    publishedDateTime: 2020-09-17T18:01:00Z
-    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
-    type: article
-    provider:
-      name: WSMV
-      domain: wsmv.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
     excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
     publishedDateTime: 2020-09-18T15:25:00Z
@@ -398,20 +325,6 @@ related:
         width: 933
         height: 700
         isCached: true
-  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
-    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
-    publishedDateTime: 2020-09-17T21:36:00Z
-    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 20
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Uber driver who plowed self-driving car into homeless woman and killed her is charged with homicide"
     excerpt: "Vasquez was acting as a back-up safety driver behind the wheel of the self-driving Uber Technologies test vehicle and was supposed to take control of the vehicle if anything went wrong. Rafael Vasquez, 46 Elaine Herzberg, 49 Vasquez pleaded not guilty on ..."
     publishedDateTime: 2020-09-16T15:51:00Z
@@ -441,6 +354,6 @@ related:
         height: 334
         isCached: true
 
-secured: "hJG34sPjkMOYpLZmer4pOO359ANBcXqZgoa/d+qKQLCQtQeMgN+bO+HNgt1KGKhw2Z+ihk3xNw05+zcX5phzPioVmae8vF1k2UQY1+9zqKj6xBxVbwMjggCfGTg8evOjDAVWPcP2w1VTaahewmcuNxkWjTLeUXux4qr4w91BK+A5GfCzRj2ufz61bskBoZkQM+ol+3Vtc3g4YL4vzzpvdiGDb5Hs1gHmrq3zslJrqR9He0fLqe6dgdbrTfkLCmfj4/LvPiq3CoOLLRjgSYr8kkDvlszAu8qxXGwf4gscFXlJXHTjgxJ0wqcdjfqlbzzxHFMY1pJoT/tqL1yrnv7w67YvQPUuqcJYa74fos+JH1w=;0S3pArLqwYWsHaSHj+PZtg=="
+secured: "qESn1Eejh5Mlnke5v69bM8qUkeBmokPP2Xmru9UUGBYEvgQlHbA4oGB/YkeL6rw93e0TQ+cXPcnQ2dsOmz37zTidQ9njmD/m/dyNDpSWiBkpNnLB4bscnlG71r4gs6FMozybt93o8mq5wjvSSl5Ao12b9lfL06W75/uXUpUfe3fKSaWD5nbuJzDRBNcmzfcZatFyvzpC9xgcUSaIljLY5O9+62nMaUS4lD06SM6DK4xLDa/CtOrwNo49Xk/OT61QJWsgYFsoMTJlr9O9d7NE79dktgWLcGKj+6O8wXfVaRndZ/mPL0KDZfNy9M7tkTBWgwc4gWwcw5Y/t3yrIGjHoXz4C/ZgJHWKRdfCOJtvsER4LJMuHeKNbIhHNMPjsfyL7PfGDz5s0AmXeAZUPZ7fFPI8w0iM2HmueEnGu3Fa8oK/hUbtgUIyDEXmXeyrlxOU6KHUYT2m3bBjJcmufPdam3fN9uj6tM06S5n0quGAsi/vyhRXotbDTLzGpnuD9sNKnQD1giN1EEbGxLabKuygfQ==;xvb3FdYPRuBtrvBjYhH3Lg=="
 ---
 
