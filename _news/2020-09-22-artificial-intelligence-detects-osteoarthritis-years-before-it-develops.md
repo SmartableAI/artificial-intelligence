@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence detects osteoarthritis years before it develops"
-excerpt: "Researchers at the University of Pittsburgh School of Medicine and Carnegie Mellon University College of Engineering have created a machine-learning algorithm that can detect subtle signs of osteoarthritis—too abstract to register in the eye of a trained radiologist—on an MRI scan taken years before symptoms even begin."
-publishedDateTime: 2020-09-21T19:06:00Z
-originalUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-osteoarthritis-years.html"
-webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-osteoarthritis-years.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-osteoarthritis-years.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-09-artificial-intelligence-osteoarthritis-years.amp"
+excerpt: "Researchers have created a machine-learning algorithm that can pick up on subtle signs of osteoarthritis - too abstract to register in the eye of a trained radiologist - on an MRI scan taken years before symptom onset."
+publishedDateTime: 2020-09-21T19:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uop-aid092120.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uop-aid092120.php"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/27-machinelearn.jpg"
-    width: 1920
-    height: 1238
+  - url: "https://www.eurekalert.org/multimedia/pub/web/243548_web.jpg"
+    width: 400
+    height: 442
     isCached: true
 
-secured: "uNdMNypMN71VdHoYdMtvop1g/lqOZdfEu3Bc1hm3gqDM+hWZYJi1VvAMVjQvy7dbpVboqwGYBI2rUPcFCd9w9qPGFokc5Ys1JZ+521X4KuK4DiISL7QjQWJtejFdgO9zaPR5rZpgXiOUdKB3leqjS1STmV/IRgGjCXw5nrU9owgjzHWre3bl+uAiXdmJio+QvslfpXGeP1Nra1klf2nG0eznzN3lQpLOHzMHkJ+E3nGLHXR5O5Fl20RK6TdohzvGzMWBko5B6FqTb/d1zp++eTdQwmPsvjJjTg5eEHmSScbnHpQrSVGfH2cfIKalIR54i+Kv09O8uzziAKpaZUPefcArOmtN/tsjQJMh7J10vGA=;0oVV8cuJRuJjlEVNh0sakQ=="
+secured: "q+bf6bdoVxLf5MhF4y6FgKoJ2l8bb8PLi/DzX8fEctU+kzLHq/K2nhSHkmzcJ/psns1nWwOaYjutVy34+0CkC3ocHJG0X9UShwPK+xy6q8dymZbVRyzxa0Gy9otu4w55FhTHGN+/6pgWI0ddntzfiaFTeLtZXiFQy0VYqQx8FtXIKoWT3W88o2F6wq8M9/SUYnKctjWb4t4exuedtykN/WuYCj7Tj+HgKuj0Yz6NSb2nFJ9FV3CapH9zTXRTngPoOT/1XVnMe2zLINtLu/x8DnzgGbn2N9bYzX2Xqz2XAj6r9oAWlQSs2VAYvtHbqmjNGyoVpBot3pnmwpZ2211GVUfklLDgBH7/Ze+8NoBrA1U=;fhwm64YLD9iubr/GJxIU7Q=="
 ---
 

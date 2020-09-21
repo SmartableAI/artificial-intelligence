@@ -31,14 +31,14 @@ images:
 
 related:
   - title: "Greenwich-based Oak HC/FT invests in health care IT startup"
-    excerpt: "Oak HC/FT's latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
-    publishedDateTime: 2020-09-21T18:23:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
+    excerpt: "Oak HC/FT’s latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
+    publishedDateTime: 2020-09-21T21:13:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 24
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 22
     images:
       - url: "https://s.hdnux.com/photos/01/10/75/50/19126843/15/rawImage.jpg"
         width: 2048

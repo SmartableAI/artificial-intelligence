@@ -2,6 +2,149 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
+      "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
+      "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6918d1895310be38ba6df5%2F0x0.jpg",
+          "width": 1200,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
+      "publishedDateTime": "2020-09-21T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
+      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
+      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "publishedDateTime": "2020-09-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
+      "title": "Long Island artificial intelligence startup can write your emails",
+      "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.49402301.1600711691!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "publishedDateTime": "2020-09-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-photoshop-sky-replacement-continues-adobes-ai-magic-rally.md",
       "title": "Photoshop Sky Replacement continues Adobe’s AI magic rally",
       "excerpt": "Adobe showed their latest in AI Photoshop magic with Sky Replacement. With this special feature, the user will (most likely) begin with a photo captured outdoors with a view of the sky",
@@ -972,7 +1115,7 @@
       "originalUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1053,140 +1196,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-tesla-reintroduces-enhanced-autopilot-offering-cheaper-alternative-to-full-self-driving.md",
-      "title": "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’",
-      "excerpt": "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
-      "originalUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/",
-      "publishedDateTime": "2020-09-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
-      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17431514",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514",
-      "publishedDateTime": "2020-09-18T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round.md",
-      "title": "Stephen Curry Enters Fitness Wars With Investment In Tonal AI Home Gym’s $110 Million Round",
-      "excerpt": "The home fitness craze is winning the attention of professional athletes like Steph Curry, Klay Thompson and Serena Williams as they invest along with Amazon Alexa in Tonal AI home gym. Founder and CEO Aly Orady explains why the future of fitness is intelligent in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64d6c25280e44e52d7ab87%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/18/stephen-curry-enters-fitness-wars-with-investment-in-tonal-ai-home-gyms-110-million-round/amp/",
-      "publishedDateTime": "2020-09-18T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,159 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-07-17-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
+      "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
+      "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... by people without an RTX GPU. This intelligently sharpens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4jz7DHRm7XADmwG6gGgrKm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "publishedDateTime": "2020-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-announcing-the-women-in-ai-awards-winners.md",
+      "title": "Announcing the Women in AI Awards winners",
+      "excerpt": "They have all made outstanding contributions in the AI field, from advancing the work in ethics and fairness in AI, to trailblazing research critical to AI innovation, to ensuring young women ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Women-in-AI-Awards-Transform-2020.png?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "publishedDateTime": "2020-07-17T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models.md",
+      "title": "Why Unity claims synthetic data sets can improve computer vision models",
+      "excerpt": "And, Romero said, those problems don’t go away with scale. For example, computer vision systems for AVs learn from road events like car accidents, which are (fortunately) so rare that it’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/unity-technologies-transform-2020-romero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "publishedDateTime": "2020-07-17T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software.md",
       "title": "Homeland Security fears widespread mask-wearing will break facial recognition software",
       "excerpt": "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ...",
@@ -1074,142 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-platesmart-alpr-helps-authorities-stop-domestic-terrorist.md",
-      "title": "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist",
-      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with both state-of-the-art cameras and video management ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
-          "width": 2079,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
-      "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-female-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast.md",
-      "title": "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast",
-      "excerpt": "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "publishedDateTime": "2020-07-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

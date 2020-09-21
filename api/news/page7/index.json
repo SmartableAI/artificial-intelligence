@@ -2,6 +2,108 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
+      "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
+      "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Flowchart.jpg",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T13:44:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-nvidia-acquisition-of-arm-throws-company-into-tech-spat-between-us-and-china.md",
+      "title": "Nvidia acquisition of Arm throws company into tech spat between U.S. and China",
+      "excerpt": "Nvidia Corp's $40 billion acquisition of chip designer Arm is set to catapult it into the fray of geopolitical tensions between Beijing and Washington, analysts and lawyers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "originalUrl": "https://www.reuters.com/article/us-arm-holdings-m-a-nvidia-china-analysi-idUSKBN2651UJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200914&t=2&i=1533358312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8D13J",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2651UJ",
+      "publishedDateTime": "2020-09-14T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-portland-becomes-first-city-to-ban-companies-from-using-facial-recognition-software-in-public.md",
       "title": "Portland becomes first city to ban companies from using facial recognition software in public",
       "excerpt": "City lawmakers are taking action over facial recognition software as the push for federal laws continue to lag.",
@@ -1047,98 +1149,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
-      "title": "Microsoft adds more AI security protection for Azure clients",
-      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "publishedDateTime": "2020-09-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-three-reasons-ai-powered-platforms-fail.md",
-      "title": "Three Reasons AI-Powered Platforms Fail",
-      "excerpt": "If you’ve found yourself thinking, \"There's an AI-powered solution for everything these days,\" you’re not far off. Today, more than 37% of organizations have implemented artificial intelligence (AI) in some form,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be269a542d56dbef63e91%2F0x0.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "publishedDateTime": "2020-09-14T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

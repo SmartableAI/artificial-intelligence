@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Uber investors push for new self-driving strategy - Bloomberg"
+    excerpt: "Bloomberg sources say SoftBank (OTCPK:SFTBF,OTCPK:SFTBY) and Benchmark have advised Uber (NYSE:UBER) CEO Dara Khosrowshahi to find more investors for the company's self-driving unit and ..."
+    publishedDateTime: 2020-09-21T20:35:00Z
+    webUrl: "https://seekingalpha.com/news/3615934-uber-investors-push-for-new-self-driving-strategy-bloomberg"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "Uber investors pressure CEO to revamp troubled self-driving unit, report says"
     excerpt: "With deep pockets, some of the best brains in robotics and its hallmark hustle, Uber Technologies Inc. was once a serious contender in the race to build self-driving cars and revolutionize global transportation."
     publishedDateTime: 2020-09-21T12:36:00Z

@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Greenwich-based Oak HC/FT invests in health care IT startup"
-excerpt: "Oak HC/FT's latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
-publishedDateTime: 2020-09-21T18:23:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
+excerpt: "Oak HC/FT’s latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
+publishedDateTime: 2020-09-21T21:13:00Z
+originalUrl: "https://www.sfchronicle.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
+webUrl: "https://www.sfchronicle.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/10/75/50/19126843/15/rawImage.jpg"
@@ -42,6 +41,6 @@ related:
         height: 301
         isCached: true
 
-secured: "qtO/1poEwiBteDiiZBAQnmRXRQxysFGz3+E/c3sWBhbyFLIWq+4GOEY3piOcLlI6PWI0kCIc8l/hFnNlqkTHcc0aJC1/GZRlbvNT2pwpJuLkgo9NI/+3EjlEjFeoPKbgMT2WiKB8QY6JUjrbOOZX1Z3jOyRoKPKEk77NggVpMNuDwuIa7JshOrLA52/GHdSSk5cStU6kpaqkNmP4njKLFcE/cAp0DNI2KoXruC8OXF1c5pRY++uFOaE9DlltTzwrXE4Bm1RpnnThkaMz8dA1mX4ZDodpBm6TVEmd6Yevw6Cg1nPrgILT7S1RDTATBwSwtnBwD9k6AUQho8aSu167cH7zoYjz7BQE4x35WbJiH7o=;VSZZyb+Ka8vNWxtBIYFM7g=="
+secured: "q3tE6rKg3KWH3pZFUD1iBrephBIVcv1DbkMHs4dGDCjA7I8xZx/WO9zTMgo1Tddll3x6g6wgyM5yLGjQOf70tsG0lNBoXT6ndh87Dlze5hYU1cYFq2/UzwlYv5iHAWwsLSlPtnO8MSJE1yEQLODNCsY6fp4guY8SGTk1mNa3d0L6w6T/YWezkTKs3K/6bYWphWUBKMGIZl7khyuUEZoIICkZ8IxeYdhvZBBPlITjwSlTQiUn+cEseS4+FYSBk5+5UNTNHXdYIiEQk5DiWJzFaSSWo8GdIPryESm+WjW9WMVZzUA+dmLBwvW7iOW6g67FhpYirvm1ZkTYZ1uxfyUk9oLziB4z3KcwiAXPLA9k/Es=;dF5E6yQosWIPIOCGZCpmhQ=="
 ---
 

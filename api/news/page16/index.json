@@ -2,6 +2,108 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-08-4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing.md",
+      "title": "4 Ways Tesla Self-Driving ‘Falls Short’ In Consumer Reports Testing",
+      "excerpt": "Tesla has repeatedly rolled out crude beta features, some of which can put people’s safety at risk and shouldn’t be used anywhere but on a private test track or proving ground,” says William Wallace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f571cfcf3fd84099a0bd48f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/08/4-ways-tesla-self-driving-falls-short-in-consumer-reports-testing/amp/",
+      "publishedDateTime": "2020-09-07T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-10-ways-ai-improves-pricing-and-revenue-management.md",
+      "title": "10 Ways AI Improves Pricing And Revenue Management",
+      "excerpt": "The global Revenue Management market is expected to grow from $14.5B in 2019 to $22.4B by 2024, attaining a Compound Annual Growth Rate (CAGR) of 9.6%. BCG found that automating revenue management systems' pricing rules with AI can increase revenues up to 5% in less than nine months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f0b6dc8bdaa63c303cbb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/07/10-ways-ai-improves-pricing-and-revenue-management/amp/",
+      "publishedDateTime": "2020-09-07T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture.md",
       "title": "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture",
       "excerpt": "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,",
@@ -184,6 +286,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-meet-the-robot-designed-to-insert-elon-musks-neuralink-ai-brain-chip-heres-how-it-works.md",
+      "title": "Meet the robot designed to insert Elon Musk's Neuralink AI brain chip — here's how it works",
+      "excerpt": "Elon Musk’s neural technology startup Neuralink showed off a demo ... The neural chip will be inserted surgically by a robot, which is designed to plant the chip and wires while avoiding damage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "originalUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f529211e6ff30001d4e739e",
+          "width": 2084,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9/amp",
+      "publishedDateTime": "2020-09-07T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1015,150 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
-      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
-      "excerpt": "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event-2020-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-chinas-driverless-car-upstarts-see-robotaxis-scaling-up-in-3-years-as-tech-firms-race-to-get-ahead.md",
-      "title": "China's driverless car upstarts see robotaxis scaling up in 3 years as tech firms race to get ahead",
-      "excerpt": "A number of so-called \"robotaxi\" projects have popped up in the world's second-largest economy over the past two years, with the companies involved eyeing creating viable autonomous ride hailing businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/07/china-driverless-car-firms-see-robotaxis-scaling-up-in-3-years.html",
-      "publishedDateTime": "2020-09-06T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-azure-machine-learning-studio-web-debuts.md",
-      "title": "Azure Machine Learning Studio Web Debuts",
-      "excerpt": "Microsoft announced the Azure Machine Learning studio web experience is generally available. The company yesterday (July 8) announced the advancement to GA, with a bevy of new features touching upon Notebooks functionality, the designer, experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2020/07/09/azure-ml-studio-web.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0117vsm_McCaffreyDataSciLab.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,90 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-25-roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade.md",
+      "title": "Roombas robot vacuums getting artificial intelligence software upgrade",
+      "excerpt": "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/08/roomba.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "publishedDateTime": "2020-08-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-294.md",
+      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Increases By 29.4%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) saw a large increase in short interest during the month of July. As of July 31st, there was short interest totalling 4,400 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
+      "originalUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/08/23/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-increases-by-29-4.html/amp",
+      "publishedDateTime": "2020-08-25T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-irobot-is-giving-its-vacuum-cleaners-a-new-ai-powered-brain.md",
       "title": "iRobot is giving its vacuum cleaners a new AI-powered brain",
       "excerpt": "Robot is announcing what it’s calling the biggest software upgrade to its robot vacuum cleaners since the company’s inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence.",
@@ -1284,100 +1368,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
-      "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
-      "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/drones.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20591.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html",
-      "publishedDateTime": "2020-08-12T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-how-a-30-ton-robot-could-help-crops-withstand-climate-change.md",
-      "title": "How a 30-Ton Robot Could Help Crops Withstand Climate Change",
-      "excerpt": "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-218942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
-      "publishedDateTime": "2020-08-12T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

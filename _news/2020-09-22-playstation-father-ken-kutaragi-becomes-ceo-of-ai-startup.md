@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T18:36:00Z
 originalUrl: "https://asia.nikkei.com/Business/Technology/PlayStation-father-Ken-Kutaragi-becomes-CEO-of-AI-startup"
 webUrl: "https://asia.nikkei.com/Business/Technology/PlayStation-father-Ken-Kutaragi-becomes-CEO-of-AI-startup"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F1%2F4%2F2%2F29402419-3-eng-GB%2FCropped-1600259825PS5_Group_01.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
@@ -23,6 +24,6 @@ images:
     height: 900
     isCached: true
 
-secured: "zQB7og0qnFNh1/P2dSX3VIhjlllSbvDk/WCa+1mkr5u7Xj1F7HhnR9L738wLHBtVpLD+JOHXA5B3qZFy/qtQ3tkpNAOP90yCmpi4WEJ4OBVBPiWfgWFxdz+/fxTa1OUJk9IAmq7ZXmI05d4rT/71EClMFe9Dl7uVMS8cPHCVW94J0cRMI/IpGpTGqHqPg2q2NXNBbfMeR5pda8MxHWl+h6nWQK2QSinbiP332rUxsO5rJVZtgS94blanQQVBKWle1nZMbvRyMZ8CFwLXLMFDMqvtCu2/0/LqE5on65HtVhPubd429d9abSGJXnjK5L+uyUoqr2Ha1L1AQMYwmXzVJ9FSx9GP3lufBFk94wUmp48=;ePh4P/5VkIbUavRgt6qqTQ=="
+secured: "y0ypLRAjSQfa2QEAD4MTTOJPk4WfezN4AiT4EP7+/oOgjt1WMjGJU+w9DNCbvWkcJvoI/O2r10rviOYFdkJPF7pofxsSyc3Yo/Qv3AhTTTeH/JMnTriFVtOtaybsNq0eHqZYJWijHhlfv1J5CFDsGhuixkoaSU0cTaZZ1zrkommXMWcQo9dQLB0amecB03Ma3XtenxzbfBmPK/PiN2AJ/FKci6AIR5A+6Id/Yg9Iw/B0anm+Zl/DgWGxVResgicYoBDxtt4Ldrnk84auLX/kIarv+2OFVAuRIfDVpSm4i9e6cqvnWrs6iG41ximwEjD71UUnLYaPZ4RvhxlFc2HUJYoco/L0SxAin05+HKomGKvSgUc+HJsCUY6IX21nJXI8t5k2xXauEqjDoz53k3L2G2wCbr5wsx7CGUMnvc1FggIx1pkCn695nh1OdRYXLV+uoqHvcu1+J0Vvd69FnsrjqMaFgMqJZSVsLRJVkssgri0VwoKvinn5ZFi/dAGmK0z8P/YQWyA8DqzY8R7O7sQ2Tg==;pUOu7KJekWEiZSfPmg6uIg=="
 ---
 

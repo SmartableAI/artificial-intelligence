@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/</loc>
+    <lastmod>2020-09-21T14:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/</loc>
+    <lastmod>2020-09-21T13:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292</loc>
+    <lastmod>2020-09-21T13:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/</loc>
     <lastmod>2020-09-21T10:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -177,12 +195,6 @@
   <url>
     <loc>https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/</loc>
     <lastmod>2020-09-18T13:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsday.com/business/technology/software-generate-emails-1.49388959</loc>
-    <lastmod>2020-09-18T12:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2271,6 +2283,12 @@
   <url>
     <loc>https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off</loc>
     <lastmod>2020-09-07T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com.au/neuralink-and-woke-studios-ai-chip-implantation-robot-2020-9</loc>
+    <lastmod>2020-09-07T15:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

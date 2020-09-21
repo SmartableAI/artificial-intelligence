@@ -43,6 +43,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Detroit council expected to vote on facial recognition software contract"
+    excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
+    publishedDateTime: 2020-09-21T20:58:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/09/21/detroit-council-vote-facial-recognition-software/5855946002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5855946002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5855946002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/03/15/PDTN/89d77051-63a2-4687-9bf3-6760a79d16b1-RealTime-Crime-Center-04.JPG?auto=webp&crop=4221,2374,x0,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Montreal should restrict police use of facial recognition technology: councillor"
     excerpt: "Montreal police said through a spokesperson they have no comment on the proposed motion but they follow all laws governing their operations and investigations."
     publishedDateTime: 2020-09-18T22:19:00Z

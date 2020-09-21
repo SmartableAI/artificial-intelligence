@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tech for lunar landing makes self-driving cars safer on Earth"
-excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet, NASA has said. The technology will ..."
-publishedDateTime: 2020-09-21T19:17:00Z
-originalUrl: "https://www.sify.com/news/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-education-ujvr5Ohffdhba.html"
-webUrl: "https://www.sify.com/news/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-education-ujvr5Ohffdhba.html"
+excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
+publishedDateTime: 2020-09-21T20:27:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
@@ -56,6 +56,6 @@ related:
       domain: pymnts.com
     quality: 4
 
-secured: "JbKHKqVIwvF5ACtL8MlkXHUupA+tS9F2jSeKCb03QXLrU9CtCERYfjOvi492Ca8nTjjclJ60a7eW378/MZpIruHKEPLR1XmwmiZRwRRUcFiWdIOqsEs3Xq4zsNEJAInz371omQZ3utHF0v0jVN3Azf5Ud8gRRCkyOspbrC8bJrTskdSu7YhmXJMlQMgQggyWGnjaeWuei/O5lHKIwFB2hwgL1xcGObLWI9DHFhfjIbQv6VwaXM67g63IFoEvgFqlE4upDWB+ncsFZcQCtLA+u6r52vXsn/hg/zxrN8aZ8SGbAdIDkx1bwDkw2h2gfsH3ngJxQMp4QPvM2tvpEK7GyNQIspsmgeYPIpHsd0s+ggg=;8I4Ggc40KSBkCUUh2kp5Mg=="
+secured: "Lqn+EAjRNDIfgBswpL/YMB+fo99NK5C36S2WnNMSzSi8f0u9FbT5Ao7skyxZqqpRFyiOqKVrpbqz1+LEZJDjxJ/BBZ8F0hkIzYDipBrbNyK3BW9snY+BA1bYc4YGutV82AMrsIIkcnpaTXpmM4XPLmsqKlEPrGdYTAKDlp64v/lGhNWh//rkT6yEynAipHZSGwWcEe2Z6yAqSVpRIUjNlxfZnMxQGaDZDKN33FP/FntAQ63E/sIYUQpOZ254zmy2oRPJ6/fNb3UcR2pI3kk9NMKGNhL2SKTw6p3NE8SJn56dpzzsP+vfZsVUul52k+6ZT4hq+1InfCKa2c5qGpqZUB4rWKBi7unw4RtqsdIXaUA=;Yi4yYojf0PBuNY0P8uwRhw=="
 ---
 

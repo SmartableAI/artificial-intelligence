@@ -2,6 +2,132 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-08-22-better-buy-alphabet-vs-facebook.md",
+      "title": "Better Buy: Alphabet vs. Facebook",
+      "excerpt": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Facebook (NASDAQ: FB) are the top two companies in the digital ad space. One dominates internet search, while the other holds domain in the social media sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-alphabet-vs.-facebook-2020-08-22?amp",
+      "publishedDateTime": "2020-08-22T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson.md",
+      "title": "IBM Collaborated with the City of Seoul, South Korea to Develop an AI-based Virtual Assistant for its Citizens using IBM Watson",
+      "excerpt": "have launched an AI-based virtual assistant for Seoul citizens using IBM Watson Assistant. The virtual assistant is part of the city's \"I Care You\" project, which is designed to survey the changes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-collaborated-with-the-city-of-seoul-south-korea-to-develop-an-ai-based-virtual-assistant-for-its-citizens-using-ibm-watson-301115686.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-22-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
+      "title": "Key brain region was “recycled” as humans developed the ability to read",
+      "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing — the ability to recognize written letters and words.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "originalUrl": "https://news.mit.edu/brain-recycled-ability-read-0804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202008/MIT-orthographic-processing-01.jpg",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-22T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-full-self-driving-cars-are-still-a-long-way-off-heres-why.md",
       "title": "Full Self-Driving Cars Are Still A Long Way Off – Here’s Why",
       "excerpt": "Tesla﻿ makes a lot of noise about its self-driving abilities, and contender Lucid is claiming it will go further with its Air. But is this really all hype, and will we ever really be able to sit back and let the cars do all the work?",
@@ -1020,158 +1146,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-is-building-home-robots-to-help-you-find-your-ringing-phone.md",
-      "title": "Facebook is building home robots to help you find your ringing phone",
-      "excerpt": "Now, some new breakthroughs made by Facebook AI researchers suggest that home robots might be able to do the hard work for us, reacting to simple commands such as \"bring me my ringing phone.\" Virtual assistants as we know them are utterly incapable of identifying a specific sound,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/21/971abfc1-0652-4769-8468-9fef47e09515/facebook-embodied-ai.png",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-building-robots-to-help-you-find-your-ringing-phone/",
-      "publishedDateTime": "2020-08-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-indias-logistics-saas-startup-fareye-bags-13-million.md",
-      "title": "India’s logistics SaaS startup FarEye bags $13 million",
-      "excerpt": "More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its Series D financing round at $37.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1208712080.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/21/indian-logistics-saas-startup-fareye-bags-13-million/amp/",
-      "publishedDateTime": "2020-08-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-how-a-designer-used-ai-and-photoshop-to-bring-ancient-roman-emperors-back-to-life.md",
-      "title": "How a designer used AI and Photoshop to bring ancient Roman emperors back to life",
-      "excerpt": "Machine learning is a fantastic tool for renovating old photos and videos. So much so that it can even bring ancient statues to life, transforming the chipped stone busts of long-dead Roman emperors into photorealistic faces you could imagine walking past on the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/parnimYG6TPATjWjkGiaHVr-njE=/0x0:938x528/1400x933/filters:focal(394x189:544x339):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67274650/1_N0Jv3LyLM5yFf4tK0Bh7AQ.0.jpeg",
-          "width": 938,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart",
-      "publishedDateTime": "2020-08-21T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
