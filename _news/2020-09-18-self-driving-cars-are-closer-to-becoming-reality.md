@@ -53,6 +53,22 @@ related:
         width: 600
         height: 331
         isCached: true
+  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
+    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
+    publishedDateTime: 2020-09-21T13:59:00Z
+    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
+    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 38
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
+        width: 5300
+        height: 3535
+        isCached: true
   - title: "Self-Driving Cars Still Cause Accidents"
     excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"
     publishedDateTime: 2020-09-17T20:12:00Z

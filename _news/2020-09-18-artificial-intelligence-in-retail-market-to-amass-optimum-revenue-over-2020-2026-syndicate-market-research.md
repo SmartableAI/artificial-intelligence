@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Service Robots Market to Reach $2.82 Billion by 2025, Reports BIS Research"
+    excerpt: "According to a new market intelligence report by BIS Research titled Global Healthcare Service Robots Market Analysis and Forecast 2020 2025 the global healthcare service robots market is anticipated to witness a significant CAGR of 26 4 in the forecast"
+    publishedDateTime: 2020-09-21T10:38:00Z
+    webUrl: "https://www.openpr.com/news/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "Lix/I+waVtGPF4je9zLe2AOm6xk2QROjsJWmGmTeajDift9dYRn11+tZUZ5eqf9T74LIEv8BjDC9q+K+4rSUnXH1uxKxZkoQjqx+rtJKEbOgJM59ddKl6x2IKbKmvVBBZq7JAawkX8kV+CNR7K810I2HteWhbodUqnijr0AR4iza69uni7K+Vm266DghYFg3HMQB3Sm/PZsUuc0eOTyQitnxLBqXc5ghXcj0Je0SszhnuWjXcoJkhTI9aVeCuKmg9tvXnlNmdjgrWa7vgB/kJXaA1vPfVftR1XFGiwSA5014e76+3LtdvPW4ZFjywlybQ6CMYYJQPC4ZX4ZOVwkCWHzjmaXtDbJTmFEyP3gwZNQ=;1R8N4kAEzXtdK2+CIiZTWw=="
 ---

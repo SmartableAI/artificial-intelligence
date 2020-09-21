@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI Should Change What You Do — Not Just How You Do It"
-excerpt: "In the end, our best chance at reinvention is to answer a deceptively simple question: What is possible now in an age of smart machines that was not even conceivable before? Few leaders would dispute the fact that business today is driven by data and smart algorithms."
+excerpt: "Yet, rather than real digital transformation, many instead pursue digital incrementalism, using automation to cut costs or, worse — cut jobs. Doing so might buy you some time from impatient shareholders,"
 publishedDateTime: 2020-09-21T13:25:00Z
-originalUrl: "https://hbr.org/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it?ab=hero-subleft-2"
+originalUrl: "https://hbr.org/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it"
+webUrl: "https://hbr.org/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it"
 ampWebUrl: "https://hbr.org/amp/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/ai-should-change-what-you-do-not-just-how-you-do-it"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "n499l1n+dKDbpMDEqBw6qYCaepWoTTNWxti9hoJ4fFkQ8AGbVbdgq26XuA8YTnZ6UhUX0MQbv7bMjbW8NlkjAAXtjLPNiEqlvOdMwprnMP6vAn/UdoNOsSMSuQ2BvSd93gjn1U6EH/XnRy7o8xKTiLMyu36s/jlXAEM2buWZwc6vUuOOJQsggpQXYwEuHKA1pZ62bXgYJbP/4o9VUI6ooOzcTUw4FQMZ6qJXWcu6nB/AFWTyDmbGd7Y57aiqyyaHL+kf0hvnfHSLDIrScSuUihQBOtZDFviyWYi/czijtHIRekYJgO1BHezfRIqkn85Yh/c0gBGK0BWAs+ca2MpCrP4I357QG49zXXxYUqqqVg0=;iZSMqAFntn3WXkyzIlNDDg=="
+secured: "eyY0LGIRMkGBexV7zKAHFiLUEpAr0TTNQjyVD/zu62n6wx8/PXcJyYEgp2pB67vIkPvpiblNu/c77kPbYFxUE6lHlRXJ3NHMTMtduGafktY/ryaomv89oFPRIThUmm4EaiWInW+NI6tMALhtwAvbbK2N3KugZNUDi/yWS8PR3oSH5rXh2o6qA/eIgPshnVGU3/hNzh1BRrdfNPe7u66RYHJdXpLTbx0j9AX02J0E+T/ObtCw9Xojt2QEjsZJj1iCgs0mC3ceFzfbqiBGztAnqCr6BJT0AvWaCA9YvhBJH1iIVEYUxlIU89AOLu3zmt6L7Hqvgnu5LsvOlnwuBhsbhjC0DpqQcOgSBsvKdMgNAG0=;DyTZAXYnXU6T1gwTwKDYSQ=="
 ---
 

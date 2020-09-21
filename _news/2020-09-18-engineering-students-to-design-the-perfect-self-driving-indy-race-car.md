@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/engineering-students-to-design-the-per
 webUrl: "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
         width: 600
         height: 331
+        isCached: true
+  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
+    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
+    publishedDateTime: 2020-09-21T13:59:00Z
+    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
+    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 38
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
+        width: 5300
+        height: 3535
         isCached: true
   - title: "Self-driving cars are closer to becoming reality"
     excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"

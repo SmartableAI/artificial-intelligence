@@ -1,0 +1,44 @@
+---
+category: news
+title: "Tech for lunar landing makes self-driving cars safer on Earth"
+excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
+publishedDateTime: 2020-09-21T14:21:00Z
+originalUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
+webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
+ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Newsd
+  domain: newsd.in
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+related:
+  - title: "Baidu launches self-driving taxi service in Beijing"
+    excerpt: "Chinese internet search giant Baidu Inc launched Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing on Thursday, becoming the first"
+    publishedDateTime: 2020-09-17T05:40:00Z
+    webUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/"
+    ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 39
+
+secured: "TXghK+hEfhnJrd7oE3HQfoxWF05q1sTMyLeNpo2+q0MQTsCp2c18v7nxYKOwoOVjWI1SuRvxF97Ap29qac4/SZNTRDTCTsMg5teUUEyDiVGCSzMf5WebwCqYujnLv+H1YBYqCwJ3d8P32E1xmZq1XyOnuGj860g13WwLIwywfeAm4zaj+vHw9rO/P+b/RXBkkW8GnwIEULd/qvkTeYO7NmyOxmNqxt4rj9ql4QT+IrDj8SlML4y8E6a8Op8X+8XYfwmLdf+IzD8riSfDtfrkl7qxYSmZvulbPQu8MMvWMq+0HrBYWWs8QBKxFqXlnBI+nSbcJuCZBXsaACzLpXrnELVr4AZqQoqccdj2tL7GgkE=;mFpbpzbQthczG9SQNBWfGg=="
+---
+

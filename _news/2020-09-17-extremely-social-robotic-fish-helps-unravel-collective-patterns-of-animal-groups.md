@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/09/200915194252.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/09/200915194252.htm"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Robofish: An Extremely Social Robotic Fish Helps Unravel the Collective Patterns of Animal Groups"
-    excerpt: "Using state-of-the-art robotics, a research team from the University of Konstanz, Science of Intelligence, and the Leibniz Institute of Freshwater Ecology and"
-    publishedDateTime: 2020-09-16T22:35:00Z
-    webUrl: "https://infosurhoy.com/science/robofish-an-extremely-social-robotic-fish-helps-unravel-the-collective-patterns-of-animal-groups/"
-    ampWebUrl: "https://infosurhoy.com/science/robofish-an-extremely-social-robotic-fish-helps-unravel-the-collective-patterns-of-animal-groups/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/science/robofish-an-extremely-social-robotic-fish-helps-unravel-the-collective-patterns-of-animal-groups/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 31
-    images:
-      - url: "https://scitechdaily.com/images/Robofish-With-Guppys-777x466.jpg"
-        width: 777
-        height: 466
-        isCached: true
 
 secured: "jDb/z50B3Herphbf6mKLJcw8wwAK95BcrC267o8J6tk+atziAyJ5Uv3+ApviNyXHhzEgrT6P3gahtvD1hlQi7DkGDUOe6tG5sVNhMSfj4ZTWW9eEdzsY5DhID6MgSS59UwXUMJuXVWiZvLKP3PLDpn4L0eenjf4bz8QKAP0Iob8aLhUSOsbQGhnzZCtAu3+jmF3FMLm3yl5lRYHYSDvahj1Jqf7KjZq751E8uf9K9bPj/tnOYCClHZ1cOPmm42alvX2PWu+hyQ6gZvfKDZjJiFOZwW23P8Sj/fe2c7YyCe8hJAXwzMBitMpyHdAmLcZXJv6+n+pGIer5PNScImkr3gmwFr8e4iXX6p7cm+qYICk=;CHiBra+OtkIZu82Y/GEbwQ=="
 ---

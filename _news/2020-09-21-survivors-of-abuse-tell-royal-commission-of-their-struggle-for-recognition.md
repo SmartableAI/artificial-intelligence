@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/national/crime/300112379/survivors-of-abus
 webUrl: "https://www.stuff.co.nz/national/crime/300112379/survivors-of-abuse-tell-royal-commission-of-their-struggle-for-recognition"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1420
     height: 798
     isCached: true
+
+related:
+  - title: "Bridgewater Cancer Survivor Leads MA Team to National Recognition"
+    excerpt: "One of your neighbors posted in Neighbor News. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2020-09-21T14:21:00Z
+    webUrl: "https://patch.com/massachusetts/across-ma/bridgewater-cancer-survivor-leads-ma-team-national-recognition"
+    ampWebUrl: "https://patch.com/massachusetts/across-ma/amp/28973722/bridgewater-cancer-survivor-leads-ma-team-to-national-recognition"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/massachusetts/across-ma/amp/28973722/bridgewater-cancer-survivor-leads-ma-team-to-national-recognition"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/22848322/20200921/101428/styles/patch_image/public/patti-collecting-petitions___21101307929.jpg?width=984"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Luna’s Director Achieves National Recognition"
+    excerpt: "Luna Board member Mary Beth Vitale recognized for her leadership by the NACD as Most Influential Corporate Director and Governance Expert."
+    publishedDateTime: 2020-09-19T16:58:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200909005324/en/Luna’s-Director-Achieves-National-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20200909005324/en/339326/23/LUNA_Logo4c.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "9DL6E1BvYmCzcQVHtREcGQVGaKqbTLdv+gw1YQnhFV6OarQIWZLReelef/5tCAEHkMsMf64YfAKyyePkLkZwp+BIeMUYZblqq0VgCLXhWsnp7QYnS9GIAqajWhwzKLmHdnTJf2fueX3gUEXiiqRKJJQJeUG+gKEdW+8W9+iRhMrXSpTwuuoGq5Klh77NFcyHhXA9JaYixTMmM43Bc0tsHQE/rOm2b6EhV1shjtej/P3CuxsUCvvpTAK+vIiBV0yOQ8HRGKqXYLYq6k2RhqFXYUd7WlH5DdszYbR4D/BHx5s1iUzrlVr5yokyuMeBuKBkvL2nCZwR5S/sBZPljoAt62JNs4LPS4jF+IxTmIdHJT6xCVz1Bq7sBYDVl/Ov9lR7fdebSWWN7lEkBBJUAiyYbD2YTjFfdOGmqRWZ6IChEvTzAj16cc68nA47uYG9i4PZyCQnYdtAECXG462i6NCnXqU3XVLS3DII/i/cDRS7evzPCWqJzppaiFFAPeqmtusI17/1GmYWvWw9KopSpFPkgg==;TCpPzL97L+/hg+UyA5TyhQ=="
 ---

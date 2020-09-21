@@ -28,7 +28,7 @@ related:
   - title: "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale"
     excerpt: "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program."
     publishedDateTime: 2020-09-17T12:50:00Z
-    webUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
+    webUrl: "https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf"
     type: article
     provider:
       name: Associated Press

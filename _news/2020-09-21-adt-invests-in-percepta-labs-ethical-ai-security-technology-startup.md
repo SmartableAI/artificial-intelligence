@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "ADT Slumps on AI Startup"
+    excerpt: "ADT Inc. (NYSE: ADT) shares dropped sharply Monday morning, on the announcement that, via its commercial channel, it is investing in Percepta Labs , an artificial-intelligence technology startup out of Philadelphia."
+    publishedDateTime: 2020-09-21T14:07:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/60420/ADT-Slumps-on-AI-Startup"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 37
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/7/stockstowatch4.jpg"
+        width: 1024
+        height: 400
+        isCached: true
   - title: "ADT invests in Percepta Labs, a startup developing shoplifting detection technology"
     excerpt: "The commercial arm of ADT has committed to investing over $1 million in Percepta Labs, a Philadelphia-based startup developing artificial intelligence technology to detect and deter shoplifting. ADT Commercial will work directly with Percepta founders Philippe Sawaya,"
     publishedDateTime: 2020-09-21T13:22:00Z

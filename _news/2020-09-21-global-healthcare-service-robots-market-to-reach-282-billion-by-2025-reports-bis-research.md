@@ -27,33 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-21T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
+  - title: "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026"
+    excerpt: "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data"
+    publishedDateTime: 2020-09-17T19:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
-    excerpt: "Analysis and Forecast, 2020-2025” report has been added to ResearchAndMarkets.com’s offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
-    publishedDateTime: 2020-09-18T08:41:00Z
-    webUrl: "https://apnews.com/business-wire/68816fa04b504b2a98991710d024c324"
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 2
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "rfYg4Dc6y3Q+BrMG2zsl1nWUMwBCcwTCMUYYjkKbzl9Z6ddbr2whMeOaTtqwg4c5yFAh/7TKLTQfo6CiNDZhJLjnLRcCuXFhsMjOO7lZI2gt8ajg8HBLvT5qQcQaACEQb+nvIjEQ/iSElywWZLyOUqvlnwQ3uB+PtnjryvE0d2taAWucROBPrqAymyCsPv72LaSeBW/Z/HCTVIV7SrVCqhRvie+1lfGdg4jaaUy8X9BOymrUmpFyEwUD7cLmZXYuzC4iZXw7QP4iJ33p5toyrr4cyQA2QpmaudsuyzDP+vKaxfoXZGOTBP0W92GimL277NuXhlP04STuu2yRavQJG36Xpetd2HO5xei5CnIoEhI=;eIHx/aOieEZlAlnF/aN1Pw=="
