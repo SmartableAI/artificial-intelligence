@@ -4,6 +4,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/cambricon.md",
+      "title": "Cambricon",
+      "excerpt": "寒武纪是全球智能芯片领域的先行者，是全球第一个成功流片并拥有成熟产品的智能芯片公司。公司的使命是打造各类智能云服务器、智能终端以及智能机器人的核心处理器芯片，让机器更好地理解和服务人类。",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cambricon/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/cambricon/",
+      "type": "profile",
+      "name": "Cambricon",
+      "otherNames": [
+        "Cambricon Technologies Corporation Limited",
+        "寒武纪",
+        "寒武纪科技",
+        "北京中科寒武纪科技有限公司",
+        "Hanwuji Keji"
+      ],
+      "overview": "寒武纪是全球智能芯片领域的先行者，是全球第一个成功流片并拥有成熟产品的智能芯片公司。公司的使命是打造各类智能云服务器、智能终端以及智能机器人的核心处理器芯片，让机器更好地理解和服务人类。",
+      "website": "http://www.cambricon.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cambricon/",
+        "followers": 2997
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cambricon-technologies"
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Beijing, China",
+        "北京, 北京"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=oWbF3wQRaOA"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGNv0UfS97dSA/company-logo_200_200/0?e=1594857600&v=beta&t=0o7BfJX5DM7gVXQaaYLYayFgCrNTQQHCNnuBalCrEVk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/care.ai.md",
       "title": "care.ai",
       "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
@@ -950,7 +1003,7 @@
       "twitter": {
         "username": "FDNA",
         "url": "https://twitter.com/FDNA",
-        "followers": 6458
+        "followers": 6459
       },
       "size": "11-50 employees",
       "yearFounded": 2011,
@@ -1007,7 +1060,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6731
+        "followers": 6732
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1405,7 +1458,7 @@
       "twitter": {
         "username": "healx",
         "url": "https://twitter.com/healx",
-        "followers": 2046
+        "followers": 2048
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1439,52 +1492,6 @@
           "width": 400,
           "height": 400,
           "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/hibrainy.md",
-      "title": "HiBrainy",
-      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/hibrainy/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/hibrainy/",
-      "type": "profile",
-      "name": "HiBrainy",
-      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "website": "https://hibrainy.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hibrainy/",
-        "followers": 164
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hibrainy"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Paris, France",
-        "Paris, Île-de-France"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "HiBrainy",
           "isCached": false
         }
       ]

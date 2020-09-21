@@ -4,6 +4,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_companies/hibrainy.md",
+      "title": "HiBrainy",
+      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/hibrainy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/hibrainy/",
+      "type": "profile",
+      "name": "HiBrainy",
+      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "website": "https://hibrainy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hibrainy/",
+        "followers": 164
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hibrainy"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, France",
+        "Paris, Île-de-France"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "HiBrainy",
+          "isCached": false
+        }
+      ]
+    },
+    {
       "path": "_companies/icertis.md",
       "title": "Icertis",
       "excerpt": "Icertis, the leading enterprise contract management platform in the cloud, solves the hardest contract management problems on the easiest to use platform. With Icertis, companies accelerate their business by increasing contract velocity, protect against risk by ensuring regulatory and policy compliance, and optimize their commercial relationships by maximizing revenue and reducing costs. The AI-infused Icertis Contract Management (ICM) platform is used by companies like 3M, Airbus, Cognizant, Daimler, Microsoft and Sanofi to manage 6.5 million contracts in 40+ languages across 90+ countries.",
@@ -200,7 +246,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 38154
+        "followers": 38155
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -625,7 +671,7 @@
       "twitter": {
         "username": "labgeni_us",
         "url": "https://twitter.com/labgeni_us",
-        "followers": 2133
+        "followers": 2134
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1268,7 +1314,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7107
+        "followers": 7108
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1462,51 +1508,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_companies/nuviainc.md",
-      "title": "NUVIA",
-      "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nuviainc/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nuviainc/",
-      "type": "profile",
-      "name": "NUVIA",
-      "overview": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
-      "website": "https://nuviainc.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nuviainc/",
-        "followers": 1673
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nuvia-ed93"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Santa Clara , CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=J6ciNns9pxk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
           "width": 400,
           "height": 400,
           "title": "logo",
