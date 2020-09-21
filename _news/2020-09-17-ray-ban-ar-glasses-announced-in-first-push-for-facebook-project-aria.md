@@ -47,36 +47,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Facebook to Launch Line of Smart Glasses in 2021, Starting With AR-Enabled Ray-Bans"
-    excerpt: "The social giant is developing the “next generation” of smart glasses, in partnership with European eyewear company EssilorLuxottica. The"
-    publishedDateTime: 2020-09-16T18:54:00Z
-    webUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/"
-    ampWebUrl: "https://variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/facebook-smart-glasses-ray-bans-essilorluxottica-1234772183/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 38
-    images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/09/facebook-project-aria-smart-glasses.png?w=890"
-        width: 890
-        height: 501
-        isCached: true
-  - title: "Facebook’s Ray-Ban glasses are coming in 2021"
-    excerpt: "The social media company and the fashion frames company EssilorLuxottica will team up on glasses with cameras on the front."
-    publishedDateTime: 2020-09-16T18:10:00Z
-    webUrl: "https://www.fastcompany.com/90551321/facebooks-ray-ban-smart-glasses-are-coming-in-2021"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-1-facebookand8217s-and-ray-banand8217s-smart-glasses-are-coming-in-2021.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "w+wHT+4D7DlUVWZs0JIGEszQZm/wIHO08uyw2Y7sfb/pKey0SWGwoNfdZG18xmdl3/p8abjPyQXJip5qpGyUM7d88OEBYAUi0lxV5zq/nb2Y5WVTWcqvkMJYouhC/OezUdO0MCfXd+35LC6XV02ybhaEpiChfIeu6O45Hy/ovyAcEko7A5/kDQNe4yt0bg8tY5zrrUyNoCF/N46beF6yLF+Wpl2IPnyhknY2/Sr1VEMFgLXcjR6QKvt9lolsXHyNuWLQq3ESX3+VgMLx6g129kiWicGX5g5H3wjjnsgHNTHBHI4Wu+rZlloFkCxIu+2MC0N/yULwekUDLhbsBfvPu3uX0+k+e75G3+S8FEapbl4eP3lhgiZEd3khCDBgs626ZmGYCVFbBtg5DrpEp3idiRbAIei67IT7sdD/ps4w6Q/hw2QrO6lltzJ6whMXOBEUNny7r+2MJR0NT+ahi5S0WgJHyXxZUGlwoXfPWgV9O3fhLuH0v7V/9MzC4CovJV7TksAuEh8rGk9Wz/xG/lVkjQ==;IOSH4YJ/fWdR1UnQcFW3mA=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
+    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
+    publishedDateTime: 2020-09-21T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
     excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
     publishedDateTime: 2020-09-17T22:27:00Z

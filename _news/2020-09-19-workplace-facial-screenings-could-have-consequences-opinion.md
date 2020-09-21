@@ -26,6 +26,19 @@ images:
     height: 625
     isCached: true
 
+related:
+  - title: "Workplace facial screening is a bad idea"
+    excerpt: "Artificial intelligence has been on the rise in workplaces for at least the past decade. From consumer algorithms to quantum computing, AI’s uses have grown in type and scope."
+    publishedDateTime: 2020-09-21T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2020/09/21/opinion/workplace-facial-screening-is-a-bad-idea/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2020/09/21/opinion/workplace-facial-screening-is-a-bad-idea/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2020/09/21/opinion/workplace-facial-screening-is-a-bad-idea/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 24
+
 secured: "RGgwtrJRZ73AACRSbeJH3e+1l605bbevBGjUhScFaBMGYstchQtlEEyXGCHlsy5wZCV4FV7Tuq+WoVSXoi1jAetW/Bd2GTC7gW/ozKGq8SV06cYacLVGX6Cgds0/3EcjcSqOLfdCIoDbMXiRXYNMtqJ1CV/SfJA1Al6lUkQF8v356Zp2rn38TDYdZiXEXKtxGLywvlfw3D3D2w/tBQK6BoPGrgkugcfBwYEEIqH3m/B/Tib3HdrYlvdFMmwBEP0MC4evcLoXn0uEKS6g83zYUumS57XUwXKrjq6zk4iQyG6OQqRKX98Juu+N+OZbZIXy2rKYzuo3nxbuiidCUEUB+gcmdnsPZqIyEy/BblAtXl0=;2+9i89M3v+D7DeozL0/feQ=="
 ---
 

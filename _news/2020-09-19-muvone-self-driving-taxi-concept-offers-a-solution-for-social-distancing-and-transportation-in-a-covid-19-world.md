@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Self-Driving Taxi Concept Wins ‘New Designers’ Ford Award"
+    excerpt: "The COVID-19 crisis has presented new challenges for mobility, with social distancing impacting public transportation, the flow of traffic being affecte"
+    publishedDateTime: 2020-09-21T10:02:00Z
+    webUrl: "https://www.albawaba.com/business/pr/self-driving-taxi-concept-wins-‘new-designers’-ford-award-1381925"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/self-driving-taxi-concept-wins-%E2%80%98new-designers%E2%80%99-ford-award-1381925"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/self-driving-taxi-concept-wins-%E2%80%98new-designers%E2%80%99-ford-award-1381925"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 24
   - title: "Self-driving taxi concept wins ‘New Designers’ Ford award"
     excerpt: "The “muvone” concept, developed by Marius Lochner, has won the Ford “New Norm Mobility Award”. This challenged design graduates to develop mobility concepts, ideas and solutions that address the new scenarios presented by COVID-19."
     publishedDateTime: 2020-09-18T22:11:00Z

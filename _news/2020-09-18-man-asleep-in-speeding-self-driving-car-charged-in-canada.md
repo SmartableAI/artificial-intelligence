@@ -215,20 +215,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Backup Driver in Fatal Self-Driving Uber Crash Charged"
-    excerpt: "The backup Uber driver involved in the first self-driving vehicle fatality has been charged with negligent homicide for being distracted in the moments before fatally striking a woman in suburban Phoenix."
-    publishedDateTime: 2020-09-16T18:42:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21194432/backup-driver-in-fatal-arizona-uber-autonomous-crash-charged"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/09/16x9/Uber_iStock_621146940.5f6225cf65619.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Uber Driver charged in self-driving crash that left 1 dead in Tempe"
     excerpt: "Vasquez was the \"safety driver\" behind the wheel at the time the self-driving Uber hit and killed Herzberg, a pedestrian who was walking her bike across Mill Avenue in Tempe in March of 2018."
     publishedDateTime: 2020-09-17T00:23:00Z

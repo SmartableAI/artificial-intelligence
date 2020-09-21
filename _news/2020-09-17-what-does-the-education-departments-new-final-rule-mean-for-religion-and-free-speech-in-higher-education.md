@@ -7,7 +7,7 @@ originalUrl: "https://diverseeducation.com/article/190343/"
 webUrl: "https://diverseeducation.com/article/190343/"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Advocates praise Trump admin's rule on campus free speech, religious liberty"
-    excerpt: "Secretary of Education Betsy DeVos published a final rule on protecting free speech and religious liberty on American college campuses. According to the Department of Education, t"
-    publishedDateTime: 2020-09-16T18:10:00Z
-    webUrl: "https://www.campusreform.org/?ID=15704"
-    type: article
-    provider:
-      name: Campus Reform
-      domain: campusreform.org
-    quality: 36
-    images:
-      - url: "https://s3.amazonaws.com/campus.reform/15704/Capture.jpg"
-        width: 840
-        height: 600
-        isCached: true
 
 secured: "saHNuBFKpTx1bzwVGT3+Nw0r1c350N10MOjdt0tPPNqpTFaWa9UV5KaxYrTQ0TUD1uISv/8pdRXrSnTJn/5okGmv1ejkRVVquodJpwdH2LPWe5K9oxEn/UayPzdUg+yrJ0T5FTurZ4sG4y+fRSKlO9QTD/B2+47DUOwjg4hSd3pw6y5XxL+/85o4fW5eo05EyORtK9KgqueKnhZ6HYoEeO07ddUVxbZLRrfs0STnXSvr6SJysnx+WE8Ot+7vaIiZSb3JGABMYfjn3m3R0ESohNX9QfNvwlJatAAyX5EPhzAGajEnL8uC9Jh6iTy1rOnEMMO6kc63AIsewrYrUVmCXcE63eKEu5UeOW4z3dYb9qexCsUHtJ7gzNbYGhq/w7r8iuPID3EwdhUtSgp1axov1/Ou1KWVNw+NkujoUNYY/BaYMuorRzHe/IMJGOgbcE9CVsCZF5ZadnRT/ZfL06eg10AWmx2UEQO+2O1jIlue6ZOeYXXT5KYyKgXdfz+3/4B5Gfpc0IQC1M9N0L5cuDz5Xw==;bc7nlQwUAuqZizYRERzvvw=="
 ---

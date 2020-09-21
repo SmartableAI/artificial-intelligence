@@ -49,6 +49,17 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Self-Driving Taxi Concept Wins ‘New Designers’ Ford Award"
+    excerpt: "The COVID-19 crisis has presented new challenges for mobility, with social distancing impacting public transportation, the flow of traffic being affecte"
+    publishedDateTime: 2020-09-21T10:02:00Z
+    webUrl: "https://www.albawaba.com/business/pr/self-driving-taxi-concept-wins-‘new-designers’-ford-award-1381925"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/self-driving-taxi-concept-wins-%E2%80%98new-designers%E2%80%99-ford-award-1381925"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/self-driving-taxi-concept-wins-%E2%80%98new-designers%E2%80%99-ford-award-1381925"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 24
 
 secured: "IgZVcGvQRh4tFAbCWE3f9r06WNMc3kJt7Vn7GvG2puqvFOFbJSkdTLsAyoV+KN57C9CDcGH4p3KhOTCUWXKwjXbMrYDikDeX7Udp+Esa9Ueu6OeqwesySO02xbf8d4clUV2029ihPW+WosztBWIQS5jeaRgWgYDHjI/MKf1Brwxv0zVm7b2Z2XLwNuVZ02LhqJ4DvngF7wwjJ23GzCYOi6zM1SUOhclxvlPJ1XyzOpWHnsAIvd8fiqNcEZdYpqwM+t8s+360b3etFugX9Vi9jRetQex08reJHTPtfdgDHAOaKcvglEDzW6azg6YqVb7Jo7WIiFvnWOiYTzS4yey/gLs++z3Hf/fvdH3grHL8sCk=;Uj8eflqChLJAPo0XJmZ/3w=="
 ---

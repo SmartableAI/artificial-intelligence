@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
+    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
+    publishedDateTime: 2020-09-17T05:39:00Z
+    webUrl: "https://www.thaipr.net/it/1026362"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 0
   - title: "SAS Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions by Independent Research Firm"
     excerpt: "“Most industries working with large amounts of data have recognized the value of machine learning technology to work more efficiently and quickly garner insights from their data,” said Susan Kahler Artificial Intelligence and Machine Learning ..."
     publishedDateTime: 2020-09-16T19:57:00Z

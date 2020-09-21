@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-01-how-to-run-distributed-training-using-horovod-and-mxnet-on-aws-dl-containers-and-aws-deep-learning-amis.md",
+      "title": "How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs",
+      "excerpt": "Distributed training of large deep learning models has become an indispensable way of model training for computer vision (CV) and natural language processing (NLP) applications. Open source frameworks such as Horovod provide distributed training support to Apache MXNet, PyTorch, and TensorFlow. Converting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Architecture.jpg",
+          "width": 900,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T12:29:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-using-amazon-textract-with-aws-privatelink.md",
       "title": "Using Amazon Textract with AWS PrivateLink",
       "excerpt": "Amazon Textract now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Textract from within your VPC and avoid using the public internet. In this post, we show you how to access Amazon Textract APIs from within your VPC without",
@@ -1329,59 +1380,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-unlocking-the-financial-potential-of-millions-with-machine-learning.md",
-      "title": "Unlocking the financial potential of millions with machine learning",
-      "excerpt": "To date, Tala’s innovative machine learning solution has found, scored, and offered more than 5 million customers $2.5 billion in loans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/KE.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/20/unlocking-the-financial-potential-of-millions-with-machine-learning/amp/",
-      "publishedDateTime": "2020-08-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance",
-        "Machine Learning"
       ]
     }
   ],

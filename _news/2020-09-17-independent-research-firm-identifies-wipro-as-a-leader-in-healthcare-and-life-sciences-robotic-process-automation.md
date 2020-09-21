@@ -19,15 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Aktana Introduces First Contextual Intelligence Engine for Life Sciences"
-    excerpt: "Aktana, the pioneer in intelligent engagement for the life sciences industry, introduces its next-generation Contextual Intelligence Engine to optimize interactions with healthcare professionals (HCPs)."
-    publishedDateTime: 2020-09-16T17:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
+  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
+    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
+    publishedDateTime: 2020-09-20T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "SAS Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions by Independent Research Firm"
+    excerpt: "“Most industries working with large amounts of data have recognized the value of machine learning technology to work more efficiently and quickly garner insights from their data,” said Susan Kahler Artificial Intelligence and Machine Learning ..."
+    publishedDateTime: 2020-09-16T19:57:00Z
+    webUrl: "https://www.newswiretoday.com/news/173679/SAS-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-by-Independent-Research-Firm/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
+  - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
+    excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
+    publishedDateTime: 2020-09-18T08:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/Domino-Data-Lab-Named-a-Leader-in-Notebook-Based-Predictive-Analytics-and-Machine-Learning-Evaluation-by-Global-Research-Firm"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Lwr7M/xDV1emYm+naAkp4F8VmUFl/ur+ilGVblbmYQtGvfTO7GBL2O7Ox3FfCG/ADSL9u5hjXcPXYuVbk6mvKCLqDweZdIgtZABSMFNFJMv1gzATy4S7ChfI+kBIIY+FWGYD9RYckjSQOhkSvneqaZBN4vjF68GsYjCuiChJDyakad2mQ4q2Zx73ji3oHD/hKF+WADAzuLVn/5/mabuFzsXhza6HIdkC13rkoL+fslmIYlqBr+nRFbCozluJ06S0xCc2qKcw7f3De2MV1bBbE4ORZmAZ727xj6vitPf00XoovzkHraIhUatb9t3D7ZWQajJwqt1pP7NKbYl4+RI0GTwE+EFuzkGSlpWDzfFGp2s=;tNbpQ03acSRSwQPKDmASPQ=="
 ---

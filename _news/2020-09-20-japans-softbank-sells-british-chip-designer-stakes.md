@@ -9,7 +9,7 @@ ampWebUrl: "https://turkishpress.com/japans-softbank-sells-british-chip-designer
 cdnAmpWebUrl: "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/japans-softbank-sells-british-chip-designer-stakes/?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 862
     height: 486
     isCached: true
-
-related:
-  - title: "Nvidia and SoftBank Agree on $40 Billion Sale of Chip Designer Arm"
-    excerpt: "The SoftBank Group agreed to sell U.K.-based chip design company Arm Ltd. to Nvidia ... bringing together Nvidia's artificial intelligence (AI) computing platform with Arm's CPU designs to expand ..."
-    publishedDateTime: 2020-09-16T18:39:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/15/nvidia-sale-of-chip-designer-arm.aspx?admgarea=BDNA"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CPUcircutBoardBluePinkBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
 
 secured: "352EQzUQyNeeD7UEeurMbHpnKEwp2Hao6JhOeGpDoAkBYy2Yxnu+l96xiSPJW0+aSKDfMq9mTK8zXhqwQKEcyISGvP9H0hOEKwD7+9zZrj+ekqWBX4BF/Cxddrb9uaFwy/Ad0Ctrf+3nudb/3A6ETz44DPXmJZ1IuJNyueKiKOILLvNvlh5duvGwCtcgFg3SwHP6m5bM+pZKAYBH37pxgwKMGT65Taw8ZmxRlHa8AWiqQmwXYVGfxy9m89xSJSpK0+XJjngdk7EnSD7AzUuRfT29TtSb4X627kdjOBrpUg6illPXqNHbyAhLwEhU00V17AZ8X79Hg+ZSJ0Gq8pl6MKLZGZvl/iQvhyPk1loSgCeFbfkBKZR5AXGskA5ui4OzNPGADwF+F7D3wa2Moq4JAgLbKcgukqRnijzA/tlqwKlCelg+UfPT+QasTUkJmu6HSA4Atu/yJ8nuZenYKEEsUrq4oyTYhVJ28ERp5wftsPSysKKUPq132wE4iz/X5Y27lVs2CKGXQMT/JB6iFfyOgg==;Qd2gcKlTHhzjc2REMvFWdg=="
 ---

@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Explainable-AI (Artificial Intelligence) Image Recognition Startup Selected by US Air Force for Premier Space Industry Event"
-excerpt: "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top"
-publishedDateTime: 2020-09-14T17:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162"
-webUrl: "https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162"
+excerpt: "PRNewswire/ -- Z Advanced Computing, Inc. (ZAC), a software startup, is selected by the US Air Force, among the top teams to exhibit at \"EngageSpace\""
+publishedDateTime: 2020-09-14T17:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html"
+webUrl: "https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
-secured: "iG6iLioX2QUZ2jA0DwrGtG8i8Hb0R7zVpL5cZl2ai4gOcjQwdoSBA6+w4etPq0ZIKB7fRFvgvBunES8sS8+1sMPv40ma88hCXS7CYFPuHKfpNr+9NE8333ojoXLS4osd6KvkEl8S3IRePBqnr3+ud4OUOFjpJwQgIyxXdEQfh/p6V5sPo9UnnemRlV/wFbBTMm1ZRIZWDQqBkkMbRCBnB3F2ltEfbgYkSqqRAWi+etpRzth0BoI8MNqo5KLQz9y4h4uL3QPJo2mYZj79dd0cTyV9h7na2u8nmXozrFux6JTOP9aoxmz8q4cqxuO4hZrIWg7Y8mFL0xCvgOAvNrTEMKhZB8SR8920MabliU6P0UM=;Q0TTf3qE74n9t676qRYcIA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1273016/ZAC_Applications.jpg?p=facebook"
+    width: 2224
+    height: 1164
+    isCached: true
+
+secured: "IGaKBZN0qvKdQ1dTrx5WcDVwI4OhjCVDxeTLeNdQWzSwsQ24U5ZTjK+EZkJHX4p18IX+/UsIT62QrotEqWJizXglKGSRGpXXfvkwayoDDa1jgaa+/Hr/1c51O1v/Wc8bdPKrGytpT/Yy8lvSGq6YF7hMQvFNe14dINr+aBRC9itjQ4UQ7tQfDANuDMboBxtLD5HR4sPGCWFeoC64qwgzNi8/hV7iPXBwYTCH0rLBr2MwH1QuJC9W7VSad5HslC3wQ8QgHqDOQXPmyw2qEV4mNnYHW9+Q0nNJRcezCmfSs48aGmZ7bxeiGSJaO+9Kob37LL99YrUvl/qAaRA8pmNhEnmRfiKPZ54/wANfBxdsSkg=;bHrtHvmtoGVLzHu38HVIDg=="
 ---
 

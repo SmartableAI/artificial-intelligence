@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "7 Self-Driving Car Companies Racing to Gains"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Self-driving car companies hit a major pothole earlier this year. Long a"
-    publishedDateTime: 2020-09-16T18:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-self-driving-car-companies-autonomous-vehicle-stocks-1029596050"
+  - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
+    excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
+    publishedDateTime: 2020-09-21T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Engineering students to design the perfect self-driving Indy race car"
     excerpt: "A new competition pits engineering squads in the task of designing the ultimate high-speed controls architecture."
     publishedDateTime: 2020-09-17T22:11:00Z
@@ -50,17 +55,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "Self-driving car algorithm could save lives by constantly predicting the worst"
-    excerpt: "New autonomous vehicle algorithm constantly predicts every scenario it could face. And then figures out how to get out of them without hurting anyone."
-    publishedDateTime: 2020-09-17T19:04:00Z
-    webUrl: "https://www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/"
-    ampWebUrl: "https://www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/self-driving-ai-predicts-the-worst/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 50
   - title: "The New Hummer EV Truck Touts Crabwalk Mode, Opening A Can Of Worms For Self-Driving Cars"
     excerpt: "Self-driving cars to cope with crabwalk mode. getty. This week, the new GMC Hummer EV truck was showcased in a sneak -peek video teaser that hinted at the use of its Crabwalk mode"
     publishedDateTime: 2020-09-17T15:44:00Z
@@ -75,17 +69,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Baidu launches self-driving taxi service in Beijing"
-    excerpt: "Chinese internet search giant Baidu Inc launched Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing on Thursday, becoming the first"
-    publishedDateTime: 2020-09-17T05:40:00Z
-    webUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/"
-    ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
+  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
+    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
+    publishedDateTime: 2020-09-17T18:56:00Z
+    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
     type: article
     provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
     quality: 39
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
+        width: 600
+        height: 331
+        isCached: true
   - title: "Self-driving cars are closer to becoming reality"
     excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
     publishedDateTime: 2020-09-18T01:37:00Z
@@ -139,6 +136,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
+    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
+    publishedDateTime: 2020-09-17T21:36:00Z
+    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "VxiGa/+xs8MZBQF/lAe0VyFfKgL5h5PIs+/jiKHZ6AecwYOca/I/0U8Qt3VNHyU4OHzshasO97CJqrsM1it4eeb7/M/MvLTgZXZclVIxpkm/883FPopKNr3SB+Vjvr4pa+QjWvEj2+UxwwnR9eSPdPWp7pamw2HwudSyK+G/3oz157JMw3rAAoRI6ErsToK+HNSkGhUPxCxGZNpwaQipu8E8eZnZKp1Ntav0D1FbdAiC9A7V3nf8OuPTUjuM5XOaqj9TH+B+ztlHFACvi2RsbJ4uVVXgXS0Cxsh1tOyZgALCNDCplrrCFaviDFyFugnDSJ1K86/qSLfcHKDhfiJ0cahVGflZVwnmdUWx431fbL7sXatVBgHELm0a291ycwHsXFMjQU7taa1yVjbajsDn930MHa1XNscD2Ft2z9nN+p3T+TfHV8M4uDyGdrcyVGFEjOlyFaIi9lhSzCShRu1X0K7eFH83mKbPbmFghJrMzAw870mLjthF2P/1SCwZMe3YhkT/IaBn2hpsSeHw0O816g==;SSp/+A3j+uASh5pDYCN1rQ=="
 ---

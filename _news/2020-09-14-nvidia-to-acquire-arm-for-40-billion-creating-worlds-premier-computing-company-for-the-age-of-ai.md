@@ -1,26 +1,30 @@
 ---
 category: news
-title: "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI"
-excerpt: "Arm-powered AI supercomputer, training facilities for developers and a startup incubator, which will attract world-class research talent and create a platform for innovation and industry partnerships in fields such as healthcare, robotics and self-driving ..."
-publishedDateTime: 2020-09-13T23:21:00Z
-originalUrl: "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2"
-webUrl: "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2"
+title: "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI"
+excerpt: "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's"
+publishedDateTime: 2020-09-14T00:16:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "KKYyFApOyg66VlckemCVnEFvPSwK1OLlUAuylHxM3/+yZandpUlDhlqwZd7v5hLzU17Cq5Wf2O0x2pfpk/G37yPJxoYlzJ46doTu6oyflz24DQty/UQUFfbhHNXVX/oe4oaegDC+rs4WJgpt0xGTo+FUepN8yTZZw5UN+ZsXXhdTXKL1dmrE3boW9KGqf6yd6NfK5C5xUpIKkeOT7z6ATqjgRTLAz+xbUvHBGS1JF1/JaDOdH8KxGjlQO+Dfb0L375M80QI48ZRMYbdombg3eSpxR9NJsSw9Aa0pvQd3Ptw3k5QiZia6A9vwoCWkMVSV9hdGLKUju2B5FsYz2n2iZK2lx0lengVXx4rvq4yRYDg=;2g7ZDsgbCuEWr/8JyWupCw=="
+secured: "kIIygyfnBYlM6n2CbXhepKarxmRs76s8nIgWmToXbdXSidSAJxaW/XqcCS3aeSn1JgLeH5UNstsdXqWSV+4UoaldETDW+KcKtQ2oidiGqRcBOIiukc5wLV2lIDVvQezUCOBfQmZI+DI+q/s3xUcrSBDBiMqMm3IquriYgJxVXUqgXvZaBkKAUiYypY55Z1Q7Nm58zHyHpABQrI1DLtQCyiCfOPbwzkuhqq9d54aH95kVVqmnLd4/aHkG4RanEnT/kagOwa5x/3FNPRh20jAh5zY611eQV1O85W4CHLkt0p29pUUJKfjK8+wDFTL9cyRiNHpp9VpO9hGF2/GAe2ivlLEDQ1fNsTKPZoaA9gAjrVc=;HrazLXmdyIxq++AiOUYcdA=="
 ---
 

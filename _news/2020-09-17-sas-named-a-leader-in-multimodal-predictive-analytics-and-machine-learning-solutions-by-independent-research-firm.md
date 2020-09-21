@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Independent Research Firm identifies Wipro as a Leader in Healthcare and Life Sciences Robotic Process Automation"
+    excerpt: "The pandemic has accelerated the adoption of automation across the Healthcare & Life Sciences (HCLS) value chain. Forrester initiated this research to get a deeper insight into how automation projects are unfolding in the HCLS industry."
+    publishedDateTime: 2020-09-17T05:39:00Z
+    webUrl: "https://www.thaipr.net/it/1026362"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 0
   - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
     excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
     publishedDateTime: 2020-09-18T08:21:00Z

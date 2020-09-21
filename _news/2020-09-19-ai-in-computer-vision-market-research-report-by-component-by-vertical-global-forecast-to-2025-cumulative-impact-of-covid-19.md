@@ -22,6 +22,19 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
+    excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
+    publishedDateTime: 2020-09-21T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
+    ampWebUrl: "https://www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+
 secured: "crN1HC1oCA8t/QPWpnGlAnBNGZMquQnm1cAxj6lNqxJXUP5FBBL3jaqsrGFoK8/CQd6HN9eAuZ9m1z6uTyOs3L9jB0ORF4CgwcyZ6AdYcyA79zh9jmPOOaz6b3Yp07jwYi8i6tVSe2Q5KMbsN3Tp5Q6/c3caV/zLnMy5RhWRacKuvlK078Jd5BZrBODKJfoaew6NEKnqV9FYuHFYi5idDmPw/26qZKUgXQTjmPjTncpnEMWbSZ+xB1Xa0DmAX7TJFp2GxuWSI2AZaVhcKFuFlJvHuDdKwi/HYgUXJ/APFWqnv1IzfFfFluoAkXF88tS/vgJnCqO5I9heiqRcJ4BkC/VFbQMCRqDqwHdsbOyMbKk=;KPayVUAsnVBYTnOcgsqg+g=="
 ---
 
