@@ -80,24 +80,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
-    excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
-    publishedDateTime: 2020-09-21T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
+  - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
+    excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
+    publishedDateTime: 2020-09-18T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
-    excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
-    publishedDateTime: 2020-09-18T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18"
+  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
+    publishedDateTime: 2020-09-21T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
     type: article
     provider:
       name: MarketWatch

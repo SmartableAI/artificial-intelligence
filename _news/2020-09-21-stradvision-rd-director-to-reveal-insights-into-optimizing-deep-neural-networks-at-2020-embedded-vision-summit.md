@@ -21,17 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "StradVision R&D Director to Reveal Insights into Optimizing Deep Neural Networks at 2020 Embedded Vision Summit"
-    excerpt: "StradVision, whose AI-based camera perception software is a leading innovator in Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles (AVs), will reveal"
-    publishedDateTime: 2020-09-16T15:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/stradvision-r-d-director-to-reveal-insights-into-optimizing-deep-neural-networks-at-2020-embedded/article_60333d04-dd91-5a06-b06f-66dcee7b2314.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "Y3g4KuDwSDxARqv6tl5bEdh6EnzD7V00o9uwhfIDerfWPYLcz6DWYAEuXVXS8gcfQSN7GaEL1Dexmp3TJpmzMEd759oxipyIof/51h0holn+qKcXXJ3/YaCPgAa9IXNbBPTgJk6k99XeYWx04HEeVn6p1BSyQkxYz143FTgVkWfap8FTmiCyVL66uAn0smq06HGUIa0hPEaVd3oI0BJhqNViwgE9dotJMJfeKNqI1Q0j+hcYiUYuai8e5GR32Eq3UxDcSKwl2j6iLMpzbiLDa+3pQd8y3Y5tASKfJkcaefNwhLmyFe/a+g7opKkCmjx6GGZJDMPFN7zjEsim5BwqsdhUVVtWN8fvDOLyEQVF+es=;tavsCy7naU+Sj4KTl2RUyw=="
 ---
 

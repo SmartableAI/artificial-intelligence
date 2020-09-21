@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-17T19:06:00Z
 originalUrl: "https://www.biometricupdate.com/202009/beijing-unveils-crosswalk-with-biometric-facial-recognition-to-catch-jaywalkers"
 webUrl: "https://www.biometricupdate.com/202009/beijing-unveils-crosswalk-with-biometric-facial-recognition-to-catch-jaywalkers"
 type: article
-quality: 20
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,28 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
     width: 1600
     height: 1035
     isCached: true
-
-related:
-  - title: "Beijing launches smart crosswalk and uses facial recognition to catch traffic violators"
-    excerpt: "Beijing has installed a smart crosswalk that can send audio alerts to pedestrians and uses facial recognition to catch traffic violators and display their faces on public video screens, according to media reports on Wednesday."
-    publishedDateTime: 2020-09-16T16:55:00Z
-    webUrl: "https://www.globaltimes.cn/content/1201157.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 33
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-09-16/c599d02e-b962-4a1c-8e04-b3ceaf634777.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "eE+3YJYlGOSxpXQaQQWuOBkXdIq47qdCytY2ocqS+5dWmlI6btZTQ9zs/1N2LEha9BxUf8Lw6mXT/KMAVkpclTBKGU2qDK5M4HgjgLmIe6ItwJ15WfLMnF9EU90ZvT0J2Wv1h1GG0BO8Arn4N4wwicwf0KLyp3Mixn7ybQ2q0GLn6u7R+JFuYwEpljV7VbfMNmCPblEAMaQ3/5PLk5PqrbRaQE5qUzOrlKW3XmzSCER1Q+hwGn7AYl/qVBqaE22CQTBsI+1PAurpyXG+ZtvfANw2ZVYvAbw/HsvahMYiN5kLa9+FduBqX2UZgl33gD+ZL3T6n6WqapfXla9WJKvE+c5gQhj02Kq638tkKiPZZ+LW8ZcriV8wqXw7xshbz76dSfSXK90NDM1mM1hiC/4nYP73OKhQrAB+8zhS0Yr96qe8X4Alt1VqmASiXkpM1ALZeMkA+wrjKukIG/dRWJI2CAoV/gVKNEHIpPYZ4b2nWzdFGP7QE8lGjHCyNzzYgYjLAwiEvwxu7P/XOO7vvwtqjg==;rgaVEwRWn4rht6lVef14mQ=="
 ---

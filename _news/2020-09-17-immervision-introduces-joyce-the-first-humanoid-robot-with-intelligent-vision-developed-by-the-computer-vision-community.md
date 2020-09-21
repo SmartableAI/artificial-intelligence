@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "InterDigital develops CompressAI platform to accelerate AI-based video compression research and development"
+    excerpt: "InterDigital, Inc., a mobile and video technology research and development company, today announced that it has developed CompressAI, a software platform to simplify and accelerate AI-based video compression research."
+    publishedDateTime: 2020-09-21T08:02:00Z
+    webUrl: "https://www.nasdaq.com/press-release/interdigital-develops-compressai-platform-to-accelerate-ai-based-video-compression"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 29
 
 secured: "0twCWmDzijA0lLY/cG/TIKE5SkRdySgay45s7OFf0Y+O7wy9RkROOaxy+lqovoUC+2Y5A2Z98tULZYQF2tnDez0NbjvCpvfuoWaCsrRr4s7c23swm5eMqBc+qgWffgz3O+srs3FcRLuk50+wuHvgdRAnwjbNZ1vvUUHf0G8YJtNhJfdHRj7SfS3XZZO0UG8XPVaTHLLyncW1WpTRvSNZixuw8XfrE5ON6F0RVjcmv1tGu9jIWggdokgoUMJ3mI77zAH1VfyP6B9smNmQu79pcwGypdGKps1se1W08JNL1UFmAMlUr+BrPRorGJ/zORg6YaAmfx45mIjEyqadyZgNTN0QvSb+/8DN3YIpeMQ+gIw=;sgUa6h1OfhuLoADWWJJvzQ=="
 ---

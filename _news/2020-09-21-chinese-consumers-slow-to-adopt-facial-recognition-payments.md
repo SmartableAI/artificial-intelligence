@@ -98,20 +98,6 @@ related:
         width: 720
         height: 393
         isCached: true
-  - title: "Paying with facial recognition"
-    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
-    publishedDateTime: 2020-09-16T21:02:00Z
-    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition tested by Brent Cross West station contractor"
     excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
     publishedDateTime: 2020-09-21T05:00:00Z

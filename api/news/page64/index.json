@@ -2,6 +2,99 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-07-31-the-ai-boost-using-more-artificial-intelligence-will-boost-gdp-growth.md",
+      "title": "The AI-boost: Using more artificial intelligence will boost GDP growth",
+      "excerpt": "A PwC study in 2017 estimated the world would gain $15.7 trillion by 2030 if artificial intelligence (AI ... India can not afford a 'shock therapy' of the kind Russia experienced in early 1990s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/opinion/the-ai-boost-using-more-artificial-intelligence-will-boost-gdp-growth/2040406/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/07/1-1082.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/opinion/the-ai-boost-using-more-artificial-intelligence-will-boost-gdp-growth/2040406/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/the-ai-boost-using-more-artificial-intelligence-will-boost-gdp-growth/2040406/lite/",
+      "publishedDateTime": "2020-07-31T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
+      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
+      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "publishedDateTime": "2020-07-31T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
       "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
       "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
@@ -1076,100 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found.md",
-      "title": "Nvidia Trounces Google And Huawei In AI Benchmarks, Startups Nowhere To Be Found",
-      "excerpt": "For the latest training version 0.7, new workloads were added for Natural Language Processing (NLP) using Bidirectional Encoder Representations from Transformers (BERT), recommendation systems using Deep Learning Recommendation Machines (DRLM), and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f231b3bb1c1e3f2bfbbd0e2%2F0x0.jpg",
-          "width": 1200,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/",
-      "publishedDateTime": "2020-07-30T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep-learning-to-boost.md",
-      "title": "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200730005779/en/COVID-19-Impacts-Deep-Learning-Market-Accelerate-CAGR",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200730005779/en/809410/23/IRTNTR41147.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

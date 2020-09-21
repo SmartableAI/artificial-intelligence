@@ -57,20 +57,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
-    excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."
-    publishedDateTime: 2020-09-16T15:21:00Z
-    webUrl: "https://www.thestar.com/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/5ehPdSSK7ylKHT38tmck9Z6Gas0=/1200x800/smart/filters:cb(1600270436116)/https://www.thestar.com/content/dam/thestar/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds/robot.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "I/g42tsZOhYjIdFVkB4R6FJwW0G7h9c+MDcQ/++ZFN0ekCJD5GchAQ76pkDcM/DcPdl+LN22x6S8XaGR+eXLAxE9Pz8DKM6ohBtOPFDpK2FPw+Sl72PQRExtVZMAlK079rZtaIhOQmYoT8117vnqDtZCUwbWbYj2lB1vXBedeYLgk9Vm2Tn46MIfDDLc5D5aHXqXQRkUfRP7dzoq3fDJzBuypOFppqRSQmXQfmVlGDY0ElFCqGbvGWnOHyEmYC2atR67JNyQm3//AuAL2JcQnn79zTPWq7MGSAlLrBChGk1aEDJzTgQOkCRMeUceOiW6I2dWgSFNBmRPjW0zC6vltO0LMwqRVTGSyLxcRbiSpLl+wq++ODnA3hqTUWhHiLRrPQmPNWd0UW6HeAoX8iZDMyG+9H00Rq9ZiCiaSoFbiJiXfwCjfF4iYfac+yI6BISRPwCvvv+GhEBKAljfyR0TSgJ8KzepAYwt6k03OiJJtPEMie9YK2InVvVUlnhciNvu6mB1ZtkLoK0sOviPVBNFkg==;MPqYmmTZ+4+pnxn7BuqdGg=="
 ---

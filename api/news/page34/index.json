@@ -2,6 +2,108 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-08-25-a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon.md",
+      "title": "A Robot Tried to Fix Value Investing and Ended Up Buying Amazon",
+      "excerpt": "Artificial intelligence has been touted as a solution for everything from ending lines at the checkout to rooting out systematic bias in Wall Street hiring. It was almost inevitable that someone would suggest using it to fix value investing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGRK1N7WsVRU/v2/pidjEfPlU1QWZop3vfGKsrX.ke8XuWirGYh1PKgEw44kE/360x-1.png",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-25/a-robot-tried-to-fix-value-investing-and-ended-up-buying-amazon",
+      "publishedDateTime": "2020-08-25T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-google-anthos-gains-new-features-including-hybrid-ai-capabilities.md",
+      "title": "Google Anthos Gains New Features Including Hybrid AI Capabilities",
+      "excerpt": "Google is betting big on Anthos. With the latest release, it has upped the ante on the hybrid cloud with an aim to gain a foothold in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f452087638f3d981d14e6b2%2F0x0.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/08/25/google-anthos-gains-new-features-including-hybrid-ai-capabilities/amp/",
+      "publishedDateTime": "2020-08-25T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-fifty-new-planets-confirmed-in-machine-learning-first.md",
       "title": "Fifty new planets confirmed in machine learning first",
       "excerpt": "Fifty potential planets have had their existence confirmed by a new machine learning algorithm developed by University of Warwick scientists.",
@@ -1066,90 +1168,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-introduces-hindi-indian-english-to-neural-text-to-speech-service.md",
-      "title": "Microsoft introduces Hindi, Indian English to Neural Text-to- Speech service",
-      "excerpt": "Microsoft India has announced the addition of English (India) and Hindi to its Neural Text to Speech (Neural TTS) service language set, featuring the two languages among the 15 new dialects added to the service enabled with state-of-the-art AI audio quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
-      "originalUrl": "https://www.dailypioneer.com/2020/technology/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-introduces-hindi--indian-english-to-neural-text-to--speech-service-2020-08-25.jpg",
-          "width": 1000,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-mobile-speech-recognition-software-market-to-grow-in-future-by-size-developments-trends-by-2027.md",
-      "title": "Mobile Speech Recognition Software market to grow in future by size, developments, trends by 2027",
-      "excerpt": "The most advanced study released by AMR on the Mobile Speech Recognition Software market comprising key market segments such as Type Application Sales Growth Comprises details of companies manufacturing field production volume capacities value chain product specifications raw material sourcing",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "originalUrl": "https://www.openpr.com/news/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T825932661_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2120587/mobile-speech-recognition-software-market-to-grow-in-future",
-      "publishedDateTime": "2020-08-25T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

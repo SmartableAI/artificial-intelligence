@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2G8043"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
         width: 720
         height: 393
-        isCached: true
-  - title: "Paying with facial recognition"
-    excerpt: "Many people use facial recognition to unlock their smartphones, but would you scan your face to pay for a meal instead of using cash or a credit card? With touchless devices risin"
-    publishedDateTime: 2020-09-16T21:02:00Z
-    webUrl: "https://www.latimes.com/business/00000174-9895-dfae-a1f5-faf7b7080000-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc1e63c/2147483647/strip/true/crop/810x425+0+14/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc0%2F0f%2F11943c2f4999a65ae2286a1864ad%2Fpaying-with-facial-recognition-latt.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."

@@ -20,17 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Pittsburgh council debates proposed restrictions on facial recognition program"
-    excerpt: "A debate over whether Pittsburgh police should be allowed to use facial recognition software and predictive policing techniques is part of the overall process of police reform in the city, the sponsor of legislation restricting use of the technology said Wednesday."
-    publishedDateTime: 2020-09-16T19:57:00Z
-    webUrl: "https://triblive.com/local/pittsburgh-council-debates-proposed-restrictions-on-facial-recognition-program/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 15
-
 secured: "Cxwui4W/rJx9d//zuY12ezT1Nxx5gu0fp/HaEDUQNzGj9IL1tQcMmkH45K8q25RUmI1FhjqkLa4JSTJiDa9BZA3GOI2gqQMQmdRPHqM0DMHXCsMhN5aWpAyjKzLg4bQIWaW44X/c+vayP366XqJWgVKAJeXLkhb4aJ75R0S6WnS/KC3gz36MoiaIJLh6Kf3W3sl+SzIcGNy5L17ALTm/GQtWt4hlHNQjSrEmO13cNVtw1MJwDXcugoqpHJGtCX3xEoWjwP5ZaKHsW1MBPEajjy7k9F27mdTYmalDWMt+GpH+fJWCSyaxzTMduny5ABYYuPJb0qDGSFhRNPeh757truKNH9rANHFPtQcU3RwdGKYWgQ+j9Qq+OHW1KfGEW1cBolej+x2/CwgOgfZyqjA8sYkCObD6wzkEpDP1wUfTzBGb6RqTe6ZA/qlcGW8BGlZ1ApEE97Z0Vfm6VVVZky6K3vCHsmsL52J06ioTYTkDFPKlF4Yxg6tUI4XBqcddexYExteS7eFIoMWhkJYyUmJBxg==;wQtCCXUwKG29LSFWel7QCA=="
 ---
 

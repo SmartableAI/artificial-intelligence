@@ -2,6 +2,106 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-07-29-scientists-use-ai-to-predict-what-makes-a-successful-relationship.md",
+      "title": "Scientists use AI to predict what makes a successful relationship",
+      "excerpt": "A new AI study led by Western University could provide them with some pointers. The researchers say it’s the first systematic attempt at using machine learning to predict relationship satisfaction. “Satisfaction with romantic relationships has important implications for health,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T185605.585-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "publishedDateTime": "2020-07-29T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
+      "title": "Leverage AI to optimize customer service outcomes",
+      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "publishedDateTime": "2020-07-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -1069,99 +1169,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026.md",
-      "title": "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026",
-      "excerpt": "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation",
-      "excerpt": "Following that trial, store operator FamilyMart says it plans to use robot workers at 20 stores around Tokyo by 2022. At first, people will operate them remotely - until the machines' artificial intelligence (AI) can learn to mimic human movements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

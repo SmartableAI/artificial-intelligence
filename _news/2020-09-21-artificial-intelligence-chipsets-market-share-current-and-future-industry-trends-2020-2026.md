@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
 excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
 publishedDateTime: 2020-09-21T06:03:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -296,6 +295,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+79EVkg9mSOsaDWvl1UdwLwtchmi+xPtYE5BEOO5tGFDfLD4iyhYLurzho3lK6wh04P64qvlPqfub8JWhkd/kCD1K+6v9+oUC8n4OeYe0UDAPoXD4ZPLB9uo3gbS845u7lPmwZ4fNUSnTl0GH9lzKqw7Fq8wI+wHuoE5Go65tcbxY0iYPGC8O7FaUAR+osokes5PRVR/9en51i03ZzY+z9RVN/x0B39q/kLn98yYTDX8kHeqOXDyGmkoAxN9x0ZbI+xJ+cUoFIrc7ihsrfhhLGdB/y95HPmiy2j0LZs5oWVU2jRbijZzH0XVAQBEUw+QwllaBkdb3C181p5NB1uyFESSC8zuAu+gUvYWfW9Vhfw=;6usFD0o6SNIcOBRAFi/7SA=="
+secured: "KGaY1G/RVnWlqOmna+o1xcQRnlMkBz5UbNcHWy7CHTdsLzZjhh84As5T/du5DOTCMQD5AU2LuvqNf8hV/7gTUu1mXeeoxTFTZQ8mf3uwfgG2XL8RiyC5wjmGr/r9cWpv2fDllxS7qrqO6OqNHo+x9vETyfd6+AGierUJcclTp5/86Xgh3BgiDrz+vFlhSqsoz/pyCQa5e1BRUSLpFoMdUSnfkHxphH51/+elONVvWctEEcm6x9Ga1LY54Sg0j9opiDScMvyiloCxdJKlpcVuV3NfKUToliM7SpQX+03MpyG241jMaZb71I+QffBqAKj3KtMsSZVPtwQ3b0KDGoXyO6KNIEbdqpMrh0vVb1eZmmI=;Ldgj5p9EOvJ0ALg0s/sCwQ=="
 ---
 

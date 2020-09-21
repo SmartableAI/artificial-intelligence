@@ -9,7 +9,7 @@ ampWebUrl: "https://www.spokesman.com/stories/2020/sep/15/during-pandemic-more-w
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2020/sep/15/during-pandemic-more-workers-being-replaced-by-rob/?amp-content=amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/09/19/866892.jpeg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "Canadian workers aren’t too worried about robots taking their jobs, web survey finds"
-    excerpt: "If walking and talking robots are coming to replace employees at counters, desks and tills, Canadians don’t appear to be too concerned about it."
-    publishedDateTime: 2020-09-16T15:21:00Z
-    webUrl: "https://www.thestar.com/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/5ehPdSSK7ylKHT38tmck9Z6Gas0=/1200x800/smart/filters:cb(1600270436116)/https://www.thestar.com/content/dam/thestar/politics/federal/2020/09/16/canadian-workers-arent-too-worried-about-robots-taking-their-jobs-web-survey-finds/robot.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "A1U39F393M4RtsSCIXQkW95gE3WTdxP1C2T0Uw5AZKFLh/Vw2gRdB+TdJax2yD94NgkJcEfq9lJb6hzWmrJSvTX6gmJFOVRAkurtKBAuHMsm0ZaIXrgHfiareJDLfyXMh80Gu0rvTxHSSXTWYSWkBlSCn+EkvUMCLNsA4DPxNPXxgJg9g8B3MGrzTWFSoh7bLKgYbZIoYAhje1Pnt7ExrG1PxOU11R3Qibe1LNlirvB6qcnPQjy4YwpU7QhaOpIQ9ocZUDkx35wtNTmza/j15ZjN6Ft6R2s/mOgyMIl/qAuDEtUm4KVX7k590OVRL/QOXGjOVeOhaiidQDmDAZV2aRuQyUYGt/BjGGRBMlEVAhQQDxz0kyhIYjG/VHyuVpeV/C/XC4knLG8/bZNkcvfH2fKB2Aq04F0AbZZL0isTSKnYO7fR+nfKjOsC1LZ4CiXidoTAm+3g0SKk4A5ffYEwCLX72QCGrrSGr5llKxPPStzRnyJ5F8zpuUGCUgLS8BEg6lf74aDeMvv6QZsoNZ1PSw==;sKsqQYFOG/q+jqR9nXbwEA=="

@@ -59,6 +59,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68mph zone, Canadian police say"
+    excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
+    publishedDateTime: 2020-09-21T09:29:00Z
+    webUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html"
+    ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 45
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7FZOGDNWNJEH3EH5LNRETMSCPE.jpg"
+        width: 5152
+        height: 3400
+        isCached: true
   - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
     excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
     publishedDateTime: 2020-09-17T21:36:00Z

@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-17-rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms.md",
+      "title": "RapidAI raises $25 million to analyze medical scans with AI algorithms",
+      "excerpt": "RapidAI, a company developing algorithms that analyze medical imagery primarily from stroke victims, has raised $25 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/bca0635a-8374-451e-8ff1-1b16e8791b19-e1600108808571.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "publishedDateTime": "2020-09-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom.md",
       "title": "AI-powered weight training startup Tonal raises $110 million amid home workout boom",
       "excerpt": "Tonal, a startup developing an AI-powered home weight training system, raised $110 million to further its R&D and mass-production efforts.",
@@ -338,6 +388,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-17-nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance.md",
+      "title": "Nvidia to buy UK's Arm, sparking fears of chip dominance",
+      "excerpt": "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html",
+      "originalUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707",
+          "width": 1024,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html",
+      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html",
+      "publishedDateTime": "2020-09-16T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-ibm-nielsen-partner-on-ai-weather-based-ad-service.md",
       "title": "IBM, Nielsen Partner on AI Weather-Based Ad Service",
       "excerpt": "The service uses machine-learning models to find correlations between weather and sales data across the U.S., and then recommends actions for marketers.",
@@ -540,7 +632,7 @@
       "originalUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1121,99 +1213,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-robot-research-vessel-to-set-off-on-epic-ocean-voyage-of-discovery.md",
-      "title": "Robot research vessel to set off on epic ocean voyage of discovery",
-      "excerpt": "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
-      "originalUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c79b055/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F65%2Fe56342c24447b4e08aa4a06e5550%2Fmasinwater-12.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
-      "publishedDateTime": "2020-09-16T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
-      "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
-      "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
-      "originalUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-09/dominos-fall.jpg",
-          "width": 1093,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
-      "publishedDateTime": "2020-09-16T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

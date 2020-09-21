@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "InterDigital develops CompressAI platform to accelerate AI-based video compression research and development"
+    excerpt: "InterDigital, Inc., a mobile and video technology research and development company, today announced that it has developed CompressAI, a software platform to simplify and accelerate AI-based video compression research."
+    publishedDateTime: 2020-09-21T08:02:00Z
+    webUrl: "https://www.nasdaq.com/press-release/interdigital-develops-compressai-platform-to-accelerate-ai-based-video-compression"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 29
   - title: "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community"
     excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond."
     publishedDateTime: 2020-09-17T13:36:00Z

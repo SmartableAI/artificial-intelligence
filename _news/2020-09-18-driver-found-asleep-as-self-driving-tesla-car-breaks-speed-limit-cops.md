@@ -75,22 +75,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Uber Safety Driver in Fatal Self-Driving Car Crash Charged With Homicide"
-    excerpt: "The human driver meant to act as a fail-safe for an autonomous Uber car that struck and killed a Tempe, Arizona woman has been charged with homicide by local authorities, the Associated Press reports."
-    publishedDateTime: 2020-09-16T16:46:00Z
-    webUrl: "https://gizmodo.com/uber-safety-driver-in-fatal-self-driving-car-crash-char-1845075851"
-    ampWebUrl: "https://gizmodo.com/uber-safety-driver-in-fatal-self-driving-car-crash-char-1845075851/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-safety-driver-in-fatal-self-driving-car-crash-char-1845075851/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 73
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fnjcgchqexdxoudopjc9.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Uber backup driver charged with negligent homicide in self-driving accident"
     excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
     publishedDateTime: 2020-09-17T13:29:00Z
@@ -122,22 +106,6 @@ related:
       - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
         width: 4200
         height: 2359
-        isCached: true
-  - title: "Uber Driver Charged With Negligent Homicide in Fatal Self-Driving Car Collision"
-    excerpt: "Rafael Vasquez was supposed to be watching the road, but she was looking down at a video on her phone at the time her autonomous vehicle struck and killed a pedestrian."
-    publishedDateTime: 2020-09-16T16:56:00Z
-    webUrl: "https://www.pcmag.com/news/uber-driver-charged-with-negligent-homicide-in-fatal-self-driving-car-collision"
-    ampWebUrl: "https://www.pcmag.com/news/uber-driver-charged-with-negligent-homicide-in-fatal-self-driving-car-collision?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/uber-driver-charged-with-negligent-homicide-in-fatal-self-driving-car-collision?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 70
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06B0MWw0wY92GN6CRT3qvFO-1.1600274565.fit_lim.size_1200x630.jpg"
-        width: 680
-        height: 383
         isCached: true
   - title: "Tesla driver caught asleep behind wheel of self-driving car going 93mph"
     excerpt: "Police - who spotted both front seats fully reclined - say the autopilot feature \"still comes with the responsibility of driving\"."
@@ -304,20 +272,6 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,h_700,q_auto,w_auto/ap0542iqdzwbcxe6ijrq.jpg"
         width: 933
         height: 700
-        isCached: true
-  - title: "Uber driver who plowed self-driving car into homeless woman and killed her is charged with homicide"
-    excerpt: "Vasquez was acting as a back-up safety driver behind the wheel of the self-driving Uber Technologies test vehicle and was supposed to take control of the vehicle if anything went wrong. Rafael Vasquez, 46 Elaine Herzberg, 49 Vasquez pleaded not guilty on ..."
-    publishedDateTime: 2020-09-16T15:51:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8737163/amp/Safety-driver-fatal-Arizona-Uber-self-driving-car-crash-charged-homicide.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 10
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/16/07/33242012-0-image-a-2_1600236708271.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
     excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"
