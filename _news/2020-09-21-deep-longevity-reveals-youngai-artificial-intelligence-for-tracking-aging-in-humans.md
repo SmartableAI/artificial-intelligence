@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://eurekalert.org/multimedia/pub/web/243488_web.jpg"
