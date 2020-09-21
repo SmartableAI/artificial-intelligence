@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T16:57:00Z
 originalUrl: "https://www.adweek.com/programmatic/ibm-teaming-up-with-nielsen-for-new-post-cookie-ad-targeting-options/"
 webUrl: "https://www.adweek.com/programmatic/ibm-teaming-up-with-nielsen-for-new-post-cookie-ad-targeting-options/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Adweek

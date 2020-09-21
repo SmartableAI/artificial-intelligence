@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:00:00Z
 originalUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/09/21/why-fashion-needs-more-imagination-when-it-comes-to-using-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/brookerobertsislam/2020/09/21/why-fashion-needs-more-imagination-when-it-comes-to-using-artificial-intelligence/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Forbes

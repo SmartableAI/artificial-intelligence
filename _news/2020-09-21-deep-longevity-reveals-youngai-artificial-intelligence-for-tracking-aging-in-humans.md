@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T13:37:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/dll-dlr092120.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-09/dll-dlr092120.php"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:

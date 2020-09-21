@@ -43,17 +43,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "IBM can't shake facial recognition suit but dodges some claims"
-    excerpt: "An Illinois federal judge has largely refused to dismiss a lawsuit accusing International Business Machines Corp of violating Illinois' biometric privacy law in the way it used facial image scans from a dataset from photo sharing site Flickr."
-    publishedDateTime: 2020-09-17T02:09:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-ibm-biometrics-idUSL1N2GD2JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GD2JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GD2JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Facebook Faces New Lawsuit Over Alleged Covert Collection Of Facial Recognition Data"
     excerpt: "For the third month in a row, Facebook faces a lawsuit over the collection of biometric data. Facebook blames the latest intrusion on a camera bug that has been fixed."
     publishedDateTime: 2020-09-18T20:11:00Z

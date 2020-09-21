@@ -275,20 +275,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Uber Driver charged in self-driving crash that left 1 dead in Tempe"
-    excerpt: "Vasquez was the \"safety driver\" behind the wheel at the time the self-driving Uber hit and killed Herzberg, a pedestrian who was walking her bike across Mill Avenue in Tempe in March of 2018."
-    publishedDateTime: 2020-09-17T00:23:00Z
-    webUrl: "https://kvoa.com/news/top-stories/2020/09/16/uber-driver-charged-in-self-driving-crash-that-left-1-dead-in-tempe/"
-    type: article
-    provider:
-      name: KVOA 4
-      domain: kvoa.com
-    quality: 24
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/39/2020/09/NC_ubercrash0916_1500x845.jpg"
-        width: 1500
-        height: 845
-        isCached: true
   - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
     excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
     publishedDateTime: 2020-09-18T10:15:00Z

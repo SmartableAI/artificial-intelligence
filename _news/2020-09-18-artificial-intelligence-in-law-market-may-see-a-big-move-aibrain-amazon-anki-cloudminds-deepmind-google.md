@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Ai In Supply Chain & Logistics Market MAY SEE A BIG MOVE | IBM, BonVision Technology, Intel, SAP, General Electric, Amazon Web Services (AWS)"
+    excerpt: "The major restraint for the market is the limited number of the artificial intelligence technology experts. But the limited number of artificial intelligence technology experts is expected to ..."
+    publishedDateTime: 2020-09-21T16:38:00Z
+    webUrl: "https://menafn.com/1100832307/Ai-In-Supply-Chain-Logistics-Market-MAY-SEE-A-BIG-MOVE-IBM-BonVision-Technology-Intel-SAP-General-Electric-Amazon-Web-Services-AWS"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
   - title: "Artificial Intelligence (Ai) Market MAY SEE A BIG MOVE | Atomwise, Inc., Lifegraph, NVIDIA CORPORATION, IBM Corporation"
     excerpt: "Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025. Artificial intelligence helps the businesses to use resources effectively and efficiently and in turn,"
     publishedDateTime: 2020-09-18T10:07:00Z

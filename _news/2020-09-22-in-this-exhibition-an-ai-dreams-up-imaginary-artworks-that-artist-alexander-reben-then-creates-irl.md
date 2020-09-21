@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:40:00Z
 originalUrl: "https://www.forbes.com/sites/jessedamiani/2020/09/21/in-this-exhibition-an-ai-dreams-up-imaginary-artworks-that-artist-alexander-reben-then-creates-irl/"
 webUrl: "https://www.forbes.com/sites/jessedamiani/2020/09/21/in-this-exhibition-an-ai-dreams-up-imaginary-artworks-that-artist-alexander-reben-then-creates-irl/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Forbes

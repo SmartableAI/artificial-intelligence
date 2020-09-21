@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-20T12:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-things-ibm-wants-you-to-know-about-its-cloud-strategy-2020-09-20"
 webUrl: "https://www.nasdaq.com/articles/3-things-ibm-wants-you-to-know-about-its-cloud-strategy-2020-09-20"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

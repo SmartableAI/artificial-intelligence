@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-05-daimler-trucks-tests-self-driving-vehicles-in-us-southwest.md",
+      "title": "Daimler Trucks tests self-driving vehicles in US Southwest",
+      "excerpt": "SANTA FE, N.M. (AP) — Daimler Trucks and allied vehicle software company Torc Robotics announced Thursday the expansion of testing for self-driving trucks to public roads in New Mexico along ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "originalUrl": "https://www.sfgate.com/news/article/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Daimler-Trucks-tests-self-driving-vehicles-in-US-15540999.php",
+      "publishedDateTime": "2020-09-04T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-how-the-pandemic-could-accelerate-ai-powered-professional-sports.md",
       "title": "How The Pandemic Could Accelerate AI-Powered Professional Sports",
       "excerpt": "At first, the “new normal” of stadium sports and sports broadcasting seemed abnormal at best. But the potential is vast. Here's why.",
@@ -1085,56 +1127,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-ai-start-ups-are-tackling-one-of-minings-oldest-problems.md",
-      "title": "AI Start-Ups Are Tackling One of Mining’s Oldest Problems",
-      "excerpt": "In a small town near Lake Balkhash, a Kazakh gold miner is relying on artificial intelligence to predict when an ore mill is about to overload.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJz10sie50Zg/v0/360x-1.jpg",
-          "width": 360,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-04/ai-start-ups-are-tackling-one-of-mining-s-oldest-problems",
-      "publishedDateTime": "2020-09-03T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

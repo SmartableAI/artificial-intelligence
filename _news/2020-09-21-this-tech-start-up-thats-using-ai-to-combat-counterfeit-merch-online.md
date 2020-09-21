@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T16:26:00Z
 originalUrl: "https://www.billboard.com/articles/deep-dive/maximizing-merch/9452431/this-tech-start-up-thats-using-ai-to-combat-counterfeit-merch-online"
 webUrl: "https://www.billboard.com/articles/deep-dive/maximizing-merch/9452431/this-tech-start-up-thats-using-ai-to-combat-counterfeit-merch-online"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Billboard

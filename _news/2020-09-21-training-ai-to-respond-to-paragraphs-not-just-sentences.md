@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T13:40:00Z
 originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/training-ai-to-respond-to-paragraphs-not-just-sentences/"
 webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/training-ai-to-respond-to-paragraphs-not-just-sentences/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

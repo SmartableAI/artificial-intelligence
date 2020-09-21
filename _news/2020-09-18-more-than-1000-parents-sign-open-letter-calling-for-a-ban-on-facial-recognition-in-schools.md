@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/press-release/more-than-1000-
 webUrl: "https://www.campussafetymagazine.com/press-release/more-than-1000-parents-sign-open-letter-calling-for-a-ban-on-facial-recognition-in-schools/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 2560
     height: 1483
     isCached: true
-
-related:
-  - title: "More than 1,000 Parents Sign Open Letter Calling for a Ban on Facial Recognition in Schools"
-    excerpt: "As kids head back to school, parents raise the alarm about invasive surveillance tech being used both in person and for remote learning, and call for lawmakers and school administrators to ban facial recognition."
-    publishedDateTime: 2020-09-17T01:49:00Z
-    webUrl: "https://www.commondreams.org/newswire/2020/09/16/more-1000-parents-sign-open-letter-calling-ban-facial-recognition-schools"
-    ampWebUrl: "https://www.commondreams.org/newswire/2020/09/16/more-1000-parents-sign-open-letter-calling-ban-facial-recognition-schools?amp"
-    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/09/16/more-1000-parents-sign-open-letter-calling-ban-facial-recognition-schools?amp"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 49
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
-        width: 288
-        height: 342
-        isCached: true
 
 secured: "fOR7nBpUETfVfRf9GyiHbk8leYaL3yZEV6lcX1mCi8HpkY5SBg6yrG3+g++wQ7oCfyRQAcGtIK7QiJp4u3K0LMPw91THJ9olVRdh8/vUEAJE44+Q9qBe641EvLQ7rDQmuR50m9NDqIU5QmDulV+mDHEHwGyP6gE4HavxCS1ByYfFnaxYekl0+4hfFyuN1/4uTKE2Ad9M/mi4QaHie8UqbdLASthXvN22Ktco4jMWMxXpEibvwNCRnZQJyx26iI7s7T1cScF1cFVm01iLw8j2GAiCQg0+5IfzEnMpg/6q3R/BwsUFIk3MEFaHvntz9IQCHW2XGicRTM91/4LxzCgfmkiQ0nCqXKsD+jjC1a1YbeM=;zcbHo2ghAbc2/ZHjbbqhmQ=="
 ---

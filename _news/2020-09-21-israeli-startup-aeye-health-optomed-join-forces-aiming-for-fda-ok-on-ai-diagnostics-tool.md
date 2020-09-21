@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T16:07:00Z
 originalUrl: "https://www.geektime.com/aeye-health-partners-with-optomed/"
 webUrl: "https://www.geektime.com/aeye-health-partners-with-optomed/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Geektime

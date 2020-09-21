@@ -248,20 +248,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
-    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Platform Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that concentrates on the industry,"
-    publishedDateTime: 2020-09-17T01:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2020-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Online Learning Market 2020 – Global Industry Analysis, By Key Players, Segmentation, Trends and Forecast By 2026"
     excerpt: "Latest Market Analysis Research Report on \"Online Learning Market\" has been added to Wise Guy Reports database. Pune,"
     publishedDateTime: 2020-09-17T11:14:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:27:00Z
 originalUrl: "https://www.datanami.com/2020/09/21/nlp-in-the-cloud-is-growing-but-obstacles-remain/"
 webUrl: "https://www.datanami.com/2020/09/21/nlp-in-the-cloud-is-growing-but-obstacles-remain/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: datanami.com

@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:04:00Z
 originalUrl: "https://www.maritime-executive.com/corporate/kotug-rotortug-and-captain-ai-demonstrate-fully-autonomous-sailing"
 webUrl: "https://www.maritime-executive.com/corporate/kotug-rotortug-and-captain-ai-demonstrate-fully-autonomous-sailing"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Maritime Executive

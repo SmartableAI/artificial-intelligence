@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T15:55:00Z
 originalUrl: "https://morningstaronline.co.uk/article/w/iranians-call-international-recognition-chemical-attack-33-years"
 webUrl: "https://morningstaronline.co.uk/article/w/iranians-call-international-recognition-chemical-attack-33-years"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Morning Star

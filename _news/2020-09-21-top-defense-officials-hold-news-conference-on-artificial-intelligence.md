@@ -23,6 +23,17 @@ images:
     height: 563
     isCached: true
 
+related:
+  - title: "Top Defense Officials Discuss Artificial Intelligence"
+    excerpt: "Add the following CSS to the header block of your HTML document. Then add the mark-up below to the body block of the same document. .videoWrapper { position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; } .videoWrapper iframe { position ..."
+    publishedDateTime: 2020-09-21T16:45:00Z
+    webUrl: "https://www.dvidshub.net/video/766596/top-defense-officials-discuss-artificial-intelligence"
+    type: article
+    provider:
+      name: DVIDSHub
+      domain: dvidshub.net
+    quality: 17
+
 secured: "gs2OXW5ttjKVMbQck/3PttHbeezsK8OHtgpjAKcdAUg3eeZIcGqi2lYXq7McWY73X0tOlXgHnYCzKRcpVdo/S3YWZeHI/uLV1wpN9h8DqOvPJCFFYfFVgupMoUmRM7tAG7v+LO7v+Q5tu4xXkDfBIW7aJGxU/gfzaaEehTc64sWgzNLELmfMsHWZXPSg1d8S3NsMhKj0rb0yp1ncZNz22oIXF3Q2trzRuKZlrxZa0JwqRd0D4Z0iJ7ShTVTarW2q54bzJakhey4u4ZIcHQFg5zoRYpX44vExxixa3/hKH3ZNWOsMLcbOoHR5SWfWVui6MDNmYtne8k0CNtfORtfPp1RanH5XzrISopk5yg0GmoQVIWkqbVu/BiIc/hl2eIGdBcmlOf8KwPkfP5vasf82SCh/ijgQryn/DWa5mShffb5ZawMGfKMCI+awAW9oHxIkcchWiwnwcjpjcXF4sMEtIj3lZOXqOhWuyB3rrbRxXntDae8B1Ij3jIlbuJSKIxKJOifiyk1bseyJCCeT1gr+eA==;B7bXDAWWuaqZrcncw9x50Q=="
 ---
 

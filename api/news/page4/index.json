@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-17-snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything.md",
+      "title": "Snowflake’s IPO is a bet on companies using AI for everything",
+      "excerpt": "Snowflake's $70 billion valuation is based on its ability to analyze cloud data faster and cheaper than its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "originalUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2019-01-23T092808Z_1666479738_RC17FEB4AE50_RTRMADP_3_NEPAL-WEATHER-e1600289144541.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "publishedDateTime": "2020-09-16T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-reps-hurd-kelly-formalize-national-ai-strategy-resolution.md",
       "title": "Reps. Hurd, Kelly Formalize National AI Strategy Resolution",
       "excerpt": "The resolution introduced by Reps. Hurd and Kelly in coordination with BPC and other stakeholders includes recommendations from four AI white papers on workforce, national security, R&D, and ethics. “American ongoing and future leadership in AI will be ...",
@@ -1155,47 +1206,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-the-clippers-fell-short-of-an-nba-title-but-doc-rivers-still-showed-the-way.md",
-      "title": "The Clippers fell short of an NBA title, but Doc Rivers still showed the way",
-      "excerpt": "As the LA Clippers head out of the NBA bubble stunned and disappointed after being eliminated by the Denver Nuggets in Game 7 of their",
-      "sourceUrl": null,
-      "webUrl": "https://inside-com.breezy.hr/",
-      "originalUrl": "https://theundefeated.com/features/his-message-was-powerful-how-doc-rivers-made-an-impact-in-the-nba-bubble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
-          "width": 1143,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Undefeated",
-        "domain": "theundefeated.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:24:00Z
 originalUrl: "https://www.latimes.com/california/story/2020-09-21/lapd-controversial-facial-recognition-software"
 webUrl: "https://www.latimes.com/california/story/2020-09-21/lapd-controversial-facial-recognition-software"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Los Angeles Times

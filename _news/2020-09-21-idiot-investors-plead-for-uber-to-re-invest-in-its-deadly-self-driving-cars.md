@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Uber investors pressure CEO to revamp troubled self-driving unit, report says"
-    excerpt: "SAN FRANCISCO -- With deep pockets, some of the best brains in robotics and its hallmark hustle, Uber Technologies was once a serious contender in the race to build self-driving cars and ..."
-    publishedDateTime: 2020-09-21T15:23:00Z
-    webUrl: "https://europe.autonews.com/automakers/uber-investors-pressure-ceo-revamp-troubled-self-driving-unit-report-says"
+    excerpt: "With deep pockets, some of the best brains in robotics and its hallmark hustle, Uber Technologies Inc. was once a serious contender in the race to build self-driving cars and revolutionize global transportation."
+    publishedDateTime: 2020-09-21T12:36:00Z
+    webUrl: "https://www.autonews.com/mobility-report/uber-investors-pressure-ceo-revamp-troubled-self-driving-unit-report-says"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/UBER-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+    quality: 1
 
 secured: "U9sP3j+MqoOZf0IxieplqtfsfCzbwErlEsS33EjU93YkjpRonkQDMFa2tkvkWpwQIgjhleEtScdVjgAQRLoOfu/hmv1LwXwjeMto+jsyF563poS2XETFPe60lgU9zcs7XsO5MOnfulQ0eJUeg/JmqTUxhLu6ZvkJmXf3mvmXzm+z5Orlf04TtyGXMXt/UIrM/eW093XeewuEOmkwyFib64ZS9mtqASZ2CPgfNYMlHgNe7/tVG1IElqhqrAywdEcbdjguC0oV/ThFuv5QkFatNMuu4UobMwRlhEpOo5KLOjEfZnpcnzoraBcVuR2HKOJ8BeXEHnj0XI/wTllDd1sbrvIMLKkporESMrSUHFqq2X6azKwQ0i7cOjxwGbEZu2kmEgKkXxKkGvDVADNHA9IBAXlhH/mqS7S59Bkp6g2v+IpuG180kQSv3SCWeNQmj5vXuXl5sIpvrJ6evP4DT16KEQkwoPOpWmhykwtenhhiBlSzBTBBWTGWjvaOL3nfCDqPUKn3Xof0Lrh3Nj2TVDSRuA==;cEuKx1E7MpAR/EmhXXPxPQ=="
 ---

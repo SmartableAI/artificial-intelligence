@@ -37,6 +37,24 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
+    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
+    publishedDateTime: 2020-09-21T16:34:00Z
+    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 4
+  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
+    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet, NASA has said. The technology will ..."
+    publishedDateTime: 2020-09-21T19:17:00Z
+    webUrl: "https://www.sify.com/news/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-education-ujvr5Ohffdhba.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
 secured: "SmcZZrRBX8W6YtIEK7CvNHo4WjN2lXOBAaPrIGE7L+cfwTgp1/8xjPCxZSnkrFumud0GxP8yX4RlipAvlcyFEV1JiN/eY01uqGn4uTPmBg3iLDv9yGgDq+u03c+qJGVqmjaKJHpPkTk9jm87Lxg5JRF5g7yyJ+HlDFG4ExI48TzY/sznOkKx+KfciF4MJhNMxYBz1ZOEjSd0IujcQFEqaPf0wsGYisxsLke968X1640fERV7+srqMmF1GCVPDAobCz2RLWs4mH0bU8N/Z225gB256bfgxtbN7CdBhw6i7aMnLLn+sPy77lsryrByTxLYUFv5MGyu/mtEYG1YM75Z0c27xO6xis+if35lQQ7J+vo=;+tk6VYTyaAtelRvBh00Vnw=="
 ---

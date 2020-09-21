@@ -5,6 +5,8 @@ excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reser
 publishedDateTime: 2020-09-10T21:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100"
 type: article
 
 provider:
@@ -19,6 +21,6 @@ topics:
   - IBM AI
   - AI
 
-secured: "VIacpduUhsibt3LO+QLfKR6LOWdi3yznn88srVrq6Nl6AN+YZyf99bp1iusoGHNpOpEuAP/GPqeyerXOv4IkRxJjBDCCxIwou4GMHoDvEE88nZKj4OXjtiP7CjPLGTsC5cy0B6ebnEEtyKaIXgUgDJEbuJa2Z7+y8mQaHp2/B0T2K4nPrqOkAj+x0107+1g2DIjm5dnD744aCF0y7ymfXlU/Kkxawh1Lur7iWZS5dTzihDCvxJkbRR8c94GPM0OEWZyuuqQLH/UFsMlE4fc4hRgJ9EGOLm2kF9wCKlyfEWKThV0vswnHzdID2T+fSK39XhSUJyjCul4Alkm7Bpdx7jT8OyXJsxfu+uH8HUj4Si4=;UgRx/zc7DONdrT/w58pHiw=="
+secured: "rugtzqYnHtqqObjK68d2tpqQaE5WTM135beTQXKLGtAfJLy38UjAaOzitE3Jh8hom1u6SkQc39LTCp8AuS3hR2iHXAk84vduhhw79xcgfWNQyCL8hrIiR/nHvksDHaZDxaET2Hs/xCnkYxzH6NzyEhCGBjJpp3claftdvOghkc0IuH0V2NU5dPF4LO/+89lVfGqNS4Pf9l1G4hsyrTxn0D7BBjX3pxjIG6ch9+skH3WawhhaSiv95wzYZGxn/uV1OLZ2s/9tWq0zjBPWrBsEPrt02fD+5u4eDZbnX5/2MXGCCI2Yd9gQHH3e9wdH0lulNTZ9uKR35vnEg4UIMpyNxiqCYj0xaEcc10W4Shnqxh0=;TfzS18E79Jv8jF+pYJe5jA=="
 ---
 

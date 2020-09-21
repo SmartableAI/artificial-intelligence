@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T15:34:00Z
 originalUrl: "https://www.modernhealthcare.com/information-technology/kaiser-permanente-works-microsoft-integrate-genomics-research-and-clinical"
 webUrl: "https://www.modernhealthcare.com/information-technology/kaiser-permanente-works-microsoft-integrate-genomics-research-and-clinical"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Modern Healthcare

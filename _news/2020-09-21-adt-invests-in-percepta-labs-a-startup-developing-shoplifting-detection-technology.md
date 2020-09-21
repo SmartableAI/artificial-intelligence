@@ -29,18 +29,13 @@ related:
     quality: 47
   - title: "ADT Slumps on AI Startup"
     excerpt: "ADT Inc. (NYSE: ADT) shares dropped sharply Monday morning, on the announcement that, via its commercial channel, it is investing in Percepta Labs , an artificial-intelligence technology startup out of Philadelphia."
-    publishedDateTime: 2020-09-21T14:07:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/60420/ADT-Slumps-on-AI-Startup"
+    publishedDateTime: 2020-09-21T16:41:00Z
+    webUrl: "https://menafn.com/1100832255/ADT-Slumps-on-AI-Startup"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 37
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/7/stockstowatch4.jpg"
-        width: 1024
-        height: 400
-        isCached: true
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "CAFttEWwdDi6QFb5bkkZgTyaIMQj8RGsuMCfTLT8k77feMngspGy+h1G4CNDvdJEwUSUkkZpvp4C3w1z89kwprm6guWyIuRi5PdbwoFjksOvDs1dnADeCd0QRv/TvA51Jy5aJbzBFGnaxietf/nfSamIM6x1A2xX9RcS29WRT2ReXg+/YcS69pae9TLkw8tX5HjzW8GCbR9G6St6rw+vtMMHld8ne8A7faa9d0tgK6khKeQnnzrucs4TWphHTz4/VbeLZbP7Xx5fD3CIgYrJgVGyGw8nHjUW20OjyqR/uOshBymgiXF3Z4ClnbKW7k7VP4xU5BxO9Kleb777XMypVmLrC5QshtvIjexJQfu+J+dGSgi1lgQ/hSB98JFgRIQoXO/cf5CgWSeyFOI4jz02hqZnO+j6lRaFxNlXOufDB6Rhk8hexfhsYgB+t69uisB+cWhs1xowlt0CAKPfp4GTf1NJvUPUEVG1vqVmSbJ5VQdsrDdFfMfbjXomsMTW10W/flQ333mFk4/aXzJW7SoYpg==;0HsaoC+xn9qboiZHsMW9Xw=="
 ---

@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "yAYmrnFU469iBcU6kEJ8PANWGLYQnCgDoqXs1UiWchtOWxN/rvgfdr654be/8T3q/OqhKqdwCRCR+xxpJrk1lLswnyDZpEo8iDBMj/8Zg9WfP+ukyqsnR9XbKvYAUlNSYyPZQRuP4PUV96sFuTRvkdMOSPlClPn6bvz6iecgMnTyTD6iXQsnTUCwXZidehAV5UH5LKsbU3d61UoK1HOUZjH3B6ajRy1NSW0y0Z4Dez7Uyvy0NkjsxuYiI7Wgkvz55evoBl/IT+UYyHvpsB2h1osyW7jDlVfn3QdAYDvkrqPIuGI5Mw57ytpjLnoij2SIRyVbnzPGQBGRnkPrxZ82YsJMPHxJQaRlIvxvS8//uWA=;Tl8XMrVBinpjFOERHL0Sww=="
+images:
+  - url: "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "JlaoOshYBh4KN39qqeYPKhaCwLMN96fi9ILGMi40s9wxNJ3hd2dyjedpobbcLSMYbU24Gp6dujpNpykkSejRObJR41LVNWOnkM6C/7Rjb6RmExASssfhNSWQTGDVc6uiVTP+RCaIQkGUi4FssiZ7hy/U5HeO0h7d+ULRvTsr6oNhYQ4uCGaoZ/Kv/4VjhimQRVhA8QG/Wz4LfbmvWjJVfnp45LWQHC/9ObpU7pUx/5hGyTxVMqSKEqGIlqgsBbqz4oP4E47WcivSVBNznuKM6E/HQyUpFep1C6CHfYS7pc+D9SZsrNspGIg0Yd/AoeWeMhe4GW0N5UMHEdlebzWP3ya9EuywtAEHgh8424z49Q0=;fj4O1euIP43slZpUMDZsFw=="
 ---
 

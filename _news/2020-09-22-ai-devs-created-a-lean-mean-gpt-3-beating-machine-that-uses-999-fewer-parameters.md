@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:54:00Z
 originalUrl: "https://thenextweb.com/neural/2020/09/21/ai-devs-created-a-lean-mean-gpt-3-beating-machine-that-uses-99-9-fewer-parameters/"
 webUrl: "https://thenextweb.com/neural/2020/09/21/ai-devs-created-a-lean-mean-gpt-3-beating-machine-that-uses-99-9-fewer-parameters/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: The Next Web

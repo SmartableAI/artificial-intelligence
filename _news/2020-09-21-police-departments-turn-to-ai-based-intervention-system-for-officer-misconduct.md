@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T16:41:00Z
 originalUrl: "https://www.wsj.com/articles/police-departments-turn-to-ai-based-intervention-system-for-officer-misconduct-11600693200"
 webUrl: "https://www.wsj.com/articles/police-departments-turn-to-ai-based-intervention-system-for-officer-misconduct-11600693200"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Wall Street Journal

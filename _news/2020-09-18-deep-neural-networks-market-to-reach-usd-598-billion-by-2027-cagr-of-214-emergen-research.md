@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%"
-    excerpt: "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD"
-    publishedDateTime: 2020-09-17T00:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16"
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 | CAGR of 40.1%"
+    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor,"
+    publishedDateTime: 2020-09-17T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "At CAGR 35.9%, Global Artificial Intelligence In Radiology Market Spending Predicted To Exceed USD 181.1 Million From 2020-2025"
-    excerpt: "Global Artificial Intelligence in Radiology Market is valued at USD 21.5 Million in 2018 and expected to reach USD"
-    publishedDateTime: 2020-09-17T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-359-global-artificial-intelligence-in-radiology-market-spending-predicted-to-exceed-usd-1811-million-from-2020-2025-2020-09-17?tesla=y"
+  - title: "Artificial Intelligence in Medicine Market Size Targets to Grow at a CAGR of 49.6% & to Hit $18.12 Billion by 2025"
+    excerpt: "Allied Analytics :Different interventions that range from identification of patients and maintenance of their records during clinical trials, to application in drug discovery and repurposing are gradually incorporating artificial intelligence,"
+    publishedDateTime: 2020-09-18T18:48:00Z
+    webUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
     excerpt: "Growing demand for deep learning through neural networks is driving the demand for the market - Market Size - USD 1.26 Billion in 2019, Market Growth - CAGR of 21.4%, Market Trends -"

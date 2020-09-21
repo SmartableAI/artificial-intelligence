@@ -28,6 +28,15 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 29
+  - title: "Ai In Supply Chain & Logistics Market MAY SEE A BIG MOVE | IBM, BonVision Technology, Intel, SAP, General Electric, Amazon Web Services (AWS)"
+    excerpt: "The major restraint for the market is the limited number of the artificial intelligence technology experts. But the limited number of artificial intelligence technology experts is expected to ..."
+    publishedDateTime: 2020-09-21T16:38:00Z
+    webUrl: "https://menafn.com/1100832307/Ai-In-Supply-Chain-Logistics-Market-MAY-SEE-A-BIG-MOVE-IBM-BonVision-Technology-Intel-SAP-General-Electric-Amazon-Web-Services-AWS"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
   - title: "Artificial Intelligence In Agriculture Market MAY SEE A BIG MOVE | John Deere, IBM, Agribotix, Microsoft, The Climate Corporation"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2020-09-18T10:02:00Z

@@ -41,22 +41,6 @@ related:
         width: 466
         height: 335
         isCached: true
-  - title: "$1.3 Trillion was Spent on Digital Transformation in 2018, About $900 Billion “Went to Waste,” Fintech Exec Reveals"
-    excerpt: "cloud and Artificial Intelligence (AI), and a more open regulatory environment.” Kittane claims that research reveals that most of the digital transformation initiatives haven’t delivered the level of expected or desired results. He cites an IDC ..."
-    publishedDateTime: 2020-09-17T01:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166836-1-3-trillion-was-spent-on-digital-transformation-in-2018-about-900-billion-went-to-waste-fintech-exec-reveals/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/04/Garbage-Trash-New-York-Bryant-Park-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "fJRe60Sb8gQxP3n8mueebnMHgeuWZSowxRtxB+nvoSjiG18xSFg63e3Sb3UaHxsFkOkdBt3dltXLEo2QYlNYfr/qVzIQdbEGL01/Jn+9c1uTrBJFahYUL84nqk4xP88zH8Iib/iXcEtxpk4ekefP+r2ApbSHBhcqAbERBdUTLUCYMgWVl6iswQrQyzWYDpm5kCgSucEGzMvc26t/oUWARjh6mEY6bgF4KE11ssNoQGs6oAoMikWi/JWdnxxMAolCXal/cQjjeTO6vf0fwfPAEcoe1p5w0yM08THVinKa6K58aYK8pv8SltwUnckHWSkUDyufBwDFYKjN52JWBJTy3c3tdDmtRabowU5vZtA8FSM=;/AMGaf+l7vSDMZ/g53KT8w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-21T17:52:00Z
 originalUrl: "https://www.usnews.com/news/business/articles/2020-09-21/scientists-combat-anti-semitism-with-artificial-intelligence"
 webUrl: "https://www.usnews.com/news/business/articles/2020-09-21/scientists-combat-anti-semitism-with-artificial-intelligence"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: U.S. News & World Report

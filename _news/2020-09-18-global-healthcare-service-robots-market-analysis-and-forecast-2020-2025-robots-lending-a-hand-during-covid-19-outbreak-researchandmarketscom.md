@@ -28,17 +28,12 @@ related:
   - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
     excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
     publishedDateTime: 2020-09-21T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 52
 
 secured: "nXEqt2AUgKjIpsh2kmTHHmgQP2lZ1oIOeBbskDmGa/o6svtYzVEMrn6RXdxaS4s8JCDm8OlCJBRDG2bSJgH7AI2QuQ2bAA/Dpyq+7/7Is/9D55O05iqiySuKWczUeLNSo8Jr6snwd8StDQo153UBGHOXODUupqm3HgnzFyGcxoMHqd2Jag3kQBLsC5Cm1fz1M2z9SaSy3GB8iWYhC0cQRHFXiManJY9DtPZZeQ3hHbQL3euaiosPE/X02PE9/Ckjg6p7nqETCEyml2FQUZRsY/8EodSl1nArlw2b6zZhXcskoMOWXiQebM0IPoDIqC6/3RE6Mr71yo1IIhtpOOC/4jt7sh9lfc/sQPLY/sKCXUU=;uIl8ja7kuMdKfwGmfQCMMw=="
 ---

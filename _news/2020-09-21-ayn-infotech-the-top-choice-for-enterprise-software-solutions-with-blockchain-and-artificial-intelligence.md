@@ -1,19 +1,29 @@
 ---
 category: news
-title: "AYN InfoTech: The Top Choice for Enterprise Software Solutions with Blockchain and Artificial Intelligence"
-excerpt: "In today's digitally driven world, there is a growing demand for software solutions to drive business processes in a more structured manner. To support this, companies like AYN InfoTech drive Enterprise Software Solutions with Blockchain and Artificial Intelligence in innovative products."
-publishedDateTime: 2020-09-21T10:04:00Z
-originalUrl: "https://whattheythink.com/news/102476-ayn-infotech-top-choice-enterprise-software-solutions-blockchain-artificial-intelligence/"
-webUrl: "https://whattheythink.com/news/102476-ayn-infotech-top-choice-enterprise-software-solutions-blockchain-artificial-intelligence/"
+title: "AYN InfoTech : The top choice for Enterprise Software Solutions with Blockchain and Artificial Intelligence"
+excerpt: "In today's digitally driven world, there is a growing demand for software solutions to drive business processes in a more structured manner."
+publishedDateTime: 2020-09-21T04:16:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/ayn-infotech-the-top-choice-for-enterprise-software-solutions-with-blockchain-and-artificial-intelligence-834886977.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/ayn-infotech-the-top-choice-for-enterprise-software-solutions-with-blockchain-and-artificial-intelligence-834886977.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: WhatTheyThink
-  domain: whattheythink.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "203OtIvNhyeYtVb+8f3XzQcjcPh33+j970dsXD9oK1Q6VRy51yEaCLoHYClt7I/pLbqmg17i2jW4+HlDoJ3IPVXfphgX0zVlOuVwRF1QNU9CgKO9Nv0Bn9TAbFlv6XXdowt6jB64rTpFPc0Z3YVaXy97eWeMseF6akd29eUUv4e1tKAH2D/rqK/NU/j4MkYtEkWbP/ZzeX7+n7lFMmgz4mH9P19HKd4BPlorAEm7fyDEwB8iWMDj/OKh+HGg3Z7BwukjMMqpG4kaQV8CRiZ8aqnqwBKJJOLKA9aRqyEH2xXvMGFJ6jSZNKN6SXsHHX1gfq5JplFgcXxJhgSUrhuVZCvj1gBEtn6jlsJl2L/jNXI=;DqC0q8m6h/SEj9QN+7w/Nw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1276988/Mr_Yakub_Sheikh_Founder_AYNInfoTech.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "rdJLdCNh4tkO/cz5+hljRDMEIvoNQrCqtB4889MVSi3YDzSqTTbgoqZVYdEC/HFqxOF1ahUuifrbhNQPTqR+/nvTzvkmlXY0UmVRCSATT3j9X2wiS2ecDXbJSx8awmR1LarFutEQrMbl7B0RF3lexpxwyEQcoFBtiWLwJRDkStoObSiItVX9ufUBt/zYIqqukHlRSfw+6bhJaoT9hI9/mg3TixXBbZbEK0/DiHynndCYwQkxMkVWHnXDM/epAQZ3TgIpjzi48HQsZCNLwCAAr+8OrLOlEKwnIK7o7pH8Vav1k3Eb9hSyJt2nUjs4FFDx0X+jIlvcw48mA96wycrcDVxWzO2VFrwzhyFWK/XNELg=;1cO7KZuGc5bypm40E3D/ZQ=="
 ---
 
