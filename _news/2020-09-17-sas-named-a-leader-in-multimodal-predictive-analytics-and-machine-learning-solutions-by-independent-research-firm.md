@@ -7,7 +7,8 @@ originalUrl: "https://www.newswiretoday.com/news/173679/SAS-Named-a-Leader-in-Mu
 webUrl: "https://www.newswiretoday.com/news/173679/SAS-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-by-Independent-Research-Firm/"
 type: article
 quality: 0
-heat: 0
+heat: -1
+published: false
 
 provider:
   name: Newswire Today
@@ -16,6 +17,45 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Dataiku Named a Leader in Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020 Report by Independent Research Firm"
+    excerpt: "Dataiku, a global Enterprise AI and machine learning platform, appeared as a Leader in the The Forrester Wave™: Multimodal Predictive Analytics and Ma"
+    publishedDateTime: 2020-09-20T06:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005744/en/Dataiku-Named-a-Leader-in-Multimodal-Predictive-Analytics-and-Machine-Learning-Solutions-Q3-2020-Report-by-Independent-Research-Firm"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200910005744/en/820193/23/forrester-wave-LI-dataiku-quote.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "SAS named a leader in multimodal predictive analytics and machine learning solutions by independent research firm"
+    excerpt: "SAS has been named a leader in The Forrester Wave™: Multimodal Predictive Analytics and Machine Learning Solutions, Q3 2020. The report noted “SAS offers strengths across the board, including exceptionally well-integrated AutoML and other guided analytics capabilities."
+    publishedDateTime: 2020-09-16T11:26:00Z
+    webUrl: "https://apnews.com/pr-newswire/78c0abee0a4f5dd4b16e9d04b942daae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Domino Data Lab Named a Leader in Notebook-Based Predictive Analytics and Machine Learning Evaluation by Global Research Firm"
+    excerpt: "Domino Data Lab, provider of the leading open enterprise data science management platform trusted by over 20% of the Fortune 100, has been named a ‘Le"
+    publishedDateTime: 2020-09-18T08:21:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005335/en/Domino-Data-Lab-Named-a-Leader-in-Notebook-Based-Predictive-Analytics-and-Machine-Learning-Evaluation-by-Global-Research-Firm"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Z2AI5Ei/Az8Zgy90phmIKpPbK7ouyKCDba772iVHcqLqnXUQ6dYAgRILureChc14QPf/EdHVZ214GRKoLxIv5+DYt+vvxEr21YVZs4auetbSbtw4wqGX+/QSUsTU81o7Iii6W+G3XoxjjPYyxXgDDUIqUX89mzMtWyvhlQmccrVQZfWVR78evDklv8dRVQHloFqTwTcr62Sj49PyXvcuNPFud9HRYWd0DH3QSvd3bqTqZwVTBZBWt3aOPcR6u9odrG3yhDHb2gwpKcEnzWfeJqCtirG6xzacxzlmzEjFdcP0k05hO74pSpYBc7t8H+zSp/c7QqEV2lRAXXRXmw0ObD1R7QTbUfL9bCjb1ruuNNTxzZse1zi/ZHGmag4a/7z+67CKBdrKzYYInV4HV8ayNlpAoFKswvThURO+2z716oSN/0QhrMWeSOOWuO5dTvUfR9502aBfmOi9lrqoQdl/hJjzvW27a0EBh9K7w+Ggzv9cW9lE5kfi9BNY7uro6NaS+ybXRiJfD/yiCiycpsY+Ta6ohmhZ3ET6Qej6iUlGAO4=;cmPZmPW/Oe18qso+PfN2Bg=="
 ---

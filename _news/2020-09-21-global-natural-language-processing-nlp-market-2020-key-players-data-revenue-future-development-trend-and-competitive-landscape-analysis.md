@@ -29,61 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chatbot market Statistics | Opportunities, Demands and Growth Revenue by 2025 | Brandessence Market Research Report"
-    excerpt: "The 'Chatbot Market' research report delivers a comprehensive analysis on the newest market drivers. The report also"
-    publishedDateTime: 2020-09-18T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-statistics-opportunities-demands-and-growth-revenue-by-2025-brandessence-market-research-report-2020-09-16"
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Business Outlook with COVID-19 Scenario to 2025"
+    excerpt: "MarketsandResearch.biz, a prominent market research firm in its own industry, has published a study titled Global Artificial Intelligence (AI) in Agriculture Market 2020 by Company, Regions, Type and Application,"
+    publishedDateTime: 2020-09-20T23:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition Software Market Industry Development, Demand Analysis and Growth Opportunities|Google, Baidu, Facebook"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Automatic | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-18T01:46:00Z
-    webUrl: "https://www.eturbonews.com/584592/automatic-speech-recognition-software-market-industry-development-demand-analysis-and-growth-opportunitiesgoogle-baidu-facebook/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 24
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T22:27:00Z
-    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 10
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T20:32:00Z
-    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 2
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
         isCached: true
 
 secured: "FQg9hVxz2ZcamDNZZoZqNWpD2vbZnJqSA6NbTHXeyOMNvE4K2GFj/huST9OF+5DuVo2H+2UDhq0Q7zd7TN9mafposo92N0JjknMqs34JUJ67Xci8e+eyn3krkT9mdM42L6z3rCx9lTeYZ/ReotX76ehKNurFpBLIanT3LGahqyWWWiPxOmu7RvUdtvwQ2DzlOzdY26C2F5CnUZayBA3QA8VMzTaOV+T1jEIw4gc9J2iH6YSQX3+LK864RafMpGxAaoN5viWSH6e6YVAcD14vGTzWLu532QF71j4OzVDpYI7xyMn2ndwM9YOj6BjNurrCMHKIMp0dntUR4rPqTGZipCjVkaTd9y5fGBGliq1gygY=;sZ9m0gKO8T1Zfg85dRM/AQ=="

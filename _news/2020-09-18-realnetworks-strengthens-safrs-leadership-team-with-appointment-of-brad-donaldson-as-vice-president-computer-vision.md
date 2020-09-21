@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/realnetworks-strengthen
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/realnetworks-strengthens-safr-s-leadership-team-with-appointment-of-brad-donaldson-as-vice-president-computer-vision-1029602751"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:

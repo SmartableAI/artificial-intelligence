@@ -138,11 +138,11 @@ related:
         height: 350
         isCached: true
   - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
-    excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona.  For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+    excerpt: "Last Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
     publishedDateTime: 2020-09-17T16:15:00Z
-    webUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    ampWebUrl: "https://www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    webUrl: "https://www.vice.com/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    ampWebUrl: "https://www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
     type: article
     provider:
       name: VICE
@@ -276,22 +276,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-    excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-16T05:54:00Z
-    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 40
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
     excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
     publishedDateTime: 2020-09-16T20:10:00Z
@@ -381,16 +365,19 @@ related:
         height: 672
         isCached: true
   - title: "Self-driving cars closer to becoming reality"
-    excerpt: "Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car."
-    publishedDateTime: 2020-09-17T17:42:00Z
-    webUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.html"
-    ampWebUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
-    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
+    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
+    publishedDateTime: 2020-09-17T18:01:00Z
+    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
     type: article
     provider:
       name: WSMV
       domain: wsmv.com
     quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Thatcham Research comments on Uber’s self-driving operator charged over fatal crash and considerations for the UK"
     excerpt: "Director of Insureance Research Matthew Avery has shared his thoughts on the Uber case in the US and the potential implications of self-driving vehicles"
     publishedDateTime: 2020-09-16T21:46:00Z

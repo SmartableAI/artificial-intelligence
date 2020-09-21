@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-
 webUrl: "https://markets.businessinsider.com/news/stocks/aktana-introduces-first-contextual-intelligence-engine-for-life-sciences-1029595941"
 type: article
 quality: 33
-heat: 53
+heat: 33
 published: false
 
 provider:

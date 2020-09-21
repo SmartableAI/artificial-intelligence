@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/35
 webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T07:38:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 3
 
 secured: "mWuGk/hF32fSwCTdf6nxSDWx7O7p3ul8q7VV4Sh36ondNhCC4qe1QA8AdbE7gzEHQVgf36Q1jLkGyHAgq4t0tw3fyIvkmduXzcw7mNgfLMK/vdD+JgGQmzCdvuoSFh4yVFkZ6SLwpCa/tlXJS4+ciS4bk50DI88F2bwy1lquisFA68QcYR0X4yWk+alHUH8atLVk94JACG0mpH9u5tV5dFIcpIVQyWdFKipawDfMA/TUo9JDfeWUax5Ut+oX9gmbItYpofZ0YsfOvUwyxHjWs+GBD0x/YluEsebAmD5uDMmvdKKpMx8ymsUMLuoSN1IAd7fE5Rwbj4lw7/sDKjcowWvpnwdNTQmftTcvtT/BscE=;GFwoVvA8aDsWlFKjjkFIQQ=="
 ---

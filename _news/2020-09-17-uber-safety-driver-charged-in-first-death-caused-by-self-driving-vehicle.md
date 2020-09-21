@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
-excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona.  For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+excerpt: "Last Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
 publishedDateTime: 2020-09-17T16:15:00Z
-originalUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-webUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-ampWebUrl: "https://www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+originalUrl: "https://www.vice.com/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+webUrl: "https://www.vice.com/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+ampWebUrl: "https://www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
 type: article
 quality: 72
 heat: -1
@@ -266,22 +266,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-    excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-    publishedDateTime: 2020-09-16T05:54:00Z
-    webUrl: "https://www.12news.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 40
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Safety driver charged in 2018 incident where self-driving Uber car killed a woman"
     excerpt: "Arizona prosecutors decided the company was not liable in the crash, the first death of a pedestrian involving a self-driving vehicle"
     publishedDateTime: 2020-09-16T20:10:00Z
@@ -371,16 +355,19 @@ related:
         height: 672
         isCached: true
   - title: "Self-driving cars closer to becoming reality"
-    excerpt: "Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car."
-    publishedDateTime: 2020-09-17T17:42:00Z
-    webUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.html"
-    ampWebUrl: "https://www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
-    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/video/self-driving-cars-closer-to-becoming-reality/video_35c5a9dd-de98-5152-8251-55026f8dbccc.amp.html"
+    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
+    publishedDateTime: 2020-09-17T18:01:00Z
+    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
     type: article
     provider:
       name: WSMV
       domain: wsmv.com
     quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
     excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
     publishedDateTime: 2020-09-18T15:25:00Z
@@ -454,6 +441,6 @@ related:
         height: 334
         isCached: true
 
-secured: "+X91lwsw4z8fIj/8V33o3IE6UKtlnUh6ajcdYIjuhFkIrKdi/gCqTsT9MawoIUTQbET8PL+RHflA5v4wkJD6DuYqTBYpcHXQ3vBA/XXMRz1Fly9ffeEsMA65Ve7NyfpCki59xM7q8r3Lp9aS4xfAiQdzY1ktqmyXaA1/CQg5BtFTNovPmze6ftPTDMiUz5rk57sE0lIBmLzZmfTbG9mOynvlVOmKcTaFXvPXAcGe/mogBmKu7btW6L3ot/kWzG4Mk3cDWVNx7HMUndHWgYse65NY98m+s2z6o75sEvmAHNUkprJRxIi4t3iU/mwaBU7LIcLmxTc4EewDpcghPIhjC7tJs+n+NOLPXYw0bgQsAeX9IafkMxW+sXWcreLnf/gVqyC0NJC0gXxOk92q6kOSweelumPFpINi/1Di5K3c1mrOmB4MQl2F+LGwP+c5Ao1vgsnE/HfIkTHVKNeSB1QLEfqnOFze9XFHFBM7kYO9LBSSJ5dY7SkhmXrEPmVEFeEwkBZNyU8f7CPhbj7w0M5gdw==;rOdpoDdh9lveanc1Hz22Qg=="
+secured: "hJG34sPjkMOYpLZmer4pOO359ANBcXqZgoa/d+qKQLCQtQeMgN+bO+HNgt1KGKhw2Z+ihk3xNw05+zcX5phzPioVmae8vF1k2UQY1+9zqKj6xBxVbwMjggCfGTg8evOjDAVWPcP2w1VTaahewmcuNxkWjTLeUXux4qr4w91BK+A5GfCzRj2ufz61bskBoZkQM+ol+3Vtc3g4YL4vzzpvdiGDb5Hs1gHmrq3zslJrqR9He0fLqe6dgdbrTfkLCmfj4/LvPiq3CoOLLRjgSYr8kkDvlszAu8qxXGwf4gscFXlJXHTjgxJ0wqcdjfqlbzzxHFMY1pJoT/tqL1yrnv7w67YvQPUuqcJYa74fos+JH1w=;0S3pArLqwYWsHaSHj+PZtg=="
 ---
 

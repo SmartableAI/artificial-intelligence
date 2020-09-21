@@ -9,7 +9,7 @@ ampWebUrl: "https://detroit.cbslocal.com/2020/09/16/facial-recognition-funding-a
 cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/09/16/facial-recognition-funding-aclu-of-michigan-pushes-back-on-dpd/amp/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

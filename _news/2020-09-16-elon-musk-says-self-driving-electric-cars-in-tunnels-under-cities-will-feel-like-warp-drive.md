@@ -144,11 +144,11 @@ related:
         height: 350
         isCached: true
   - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
-    excerpt: "On Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona.  For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
+    excerpt: "Last Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
     publishedDateTime: 2020-09-17T16:15:00Z
-    webUrl: "https://www.vice.com/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    ampWebUrl: "https://www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    webUrl: "https://www.vice.com/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    ampWebUrl: "https://www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
     type: article
     provider:
       name: VICE

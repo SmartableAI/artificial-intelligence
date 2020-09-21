@@ -7,7 +7,7 @@ originalUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tac
 webUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tackle-facial-recognition-fraud/d/d-id/764030"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/business/consumer/philips-future-health-index-20
 webUrl: "https://omaha.com/business/consumer/philips-future-health-index-2020-report-reveals-new-insights-into-younger-doctors-commitment-to-improving/article_bda0e651-cf56-5b3b-9211-7b5525ce2434.html"
 type: article
 quality: 7
-heat: 17
+heat: 7
 published: false
 
 provider:

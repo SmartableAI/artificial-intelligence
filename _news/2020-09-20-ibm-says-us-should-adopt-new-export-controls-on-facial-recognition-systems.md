@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2G8043"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
         width: 720
         height: 393
+        isCached: true
+  - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
+    excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
+    publishedDateTime: 2020-09-20T22:39:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2020/chinese-consumers-slow-adopt-facial-recognition-payments/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"

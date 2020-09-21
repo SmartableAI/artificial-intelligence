@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356293"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356293"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Contact center startup Observe.ai raises $54M in new round of funding"
-    excerpt: "Call center software startup Observe.AI said today it has closed on a sizable $54 million round of funding that brings its total amount raised to $88 million. Menlo Ventures led the Series B round, with participation from Next47 Ventures and NGP Capital."
-    publishedDateTime: 2020-09-16T06:37:00Z
-    webUrl: "https://siliconangle.com/2020/09/15/contact-center-startup-observe-ai-raises-54m-series-b-round-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/phone-5300447_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "7mVgGRDDmyU9GZhayo+qBFS/gqmzV4rzonH7QV7hn1Wvo/GRohY66HzTx9oxsj/yeCqJgAur03VKdieCN9gGVOOccmxPxJeF2qXfDf6MHZ4AHW94IQI97Wp/9kcKq0k982lFkc5HAoevNQARx72NgdRuKClPU7ml8V7uhJ2oi1yXvjSvmtteLhVYWgtw0nohzS+nN5wRuoe9C3WRm79Q3RkN+xw/2Gcm9doONu04qqqcGwa3CD6Ow3LQcli2b40sAPrz6zBY9MIXzN0b7zQsxoZSm+JwCbKqh7UVmDs3bUtIOtVczJikbpAvl721TMIVccuOrjMhMFlZKI25IbTuyTGqprrmsHgCYUh7YZG59CtqfgUMoi5/N/yiqgsEmhhWFVUtEYMIAu/aIoOCH/e9I6svKKSSM4B43S9j/AQBcDuD1SZ/zGT6RSNKN9rT92P2n1OPE5w2wxbRo3Zmw7ffl9JNlL4DWWxquaTzfeCR/bKfyaHs8VkNJafvtcWf/KK585acbXRk+uwp6tGqibnb4Q==;NxFxkPhc7QAtrQfvKShKQQ=="
 ---

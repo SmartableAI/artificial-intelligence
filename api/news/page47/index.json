@@ -2,6 +2,321 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
+      "title": "There is a crisis of face recognition and policing in the US",
+      "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/ai-policing_web.jpg?w=2896",
+          "width": 2896,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "publishedDateTime": "2020-08-14T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-chip-startup-blaize-debuts-ai-modules-for-machine-learning-at-the-edge.md",
+      "title": "Chip startup Blaize debuts AI modules for machine learning at the edge",
+      "excerpt": "Venture-backed chip startup Blaize Inc. has introduced three new hardware modules for running artificial intelligence models at so-called edge locations such as factories. The modules, announced on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/",
+      "originalUrl": "https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/blaize.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-blaize-delivers-breakthrough-for-ai-edge-computing.md",
+      "title": "Blaize Delivers Breakthrough for AI Edge Computing",
+      "excerpt": "News Highlights Blaize now sampling embedded and accelerator platforms built on the Blaize GSP architecture with up to 60x greater systems efficiency, 10x lower latency, 50x less memory bandwidth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eejournal.com/industry_news/blaize-delivers-breakthrough-for-ai-edge-computing/",
+      "originalUrl": "https://www.eejournal.com/industry_news/blaize-delivers-breakthrough-for-ai-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-fda-clears-rapidais-occlusion-spotting-stroke-software-for-ct-scans.md",
+      "title": "FDA clears RapidAI's occlusion-spotting stroke software for CT scans",
+      "excerpt": "RapidAI has secured an FDA clearance for its artificial intelligence algorithms that ... in-class drug can perform as a disease-specific therapy for HCM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/fda-clears-rapidai-s-occlusion-spotting-stroke-software-for-ct-scans",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/fda-clears-rapidai-s-occlusion-spotting-stroke-software-for-ct-scans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1597418284/RedBloodCells.jpg/RedBloodCells.jpg?65_5JMNSLmIlVP.e54n.V38ta0w82BiA",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
+      "title": "Google open-sources LIT, a toolset for evaluating natural language models",
+      "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/",
+      "originalUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/figure-1-e1597419390343.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/amp/",
+      "publishedDateTime": "2020-08-14T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-michigan-self-driving-vehicle-corridor-aims-to-lead-nation.md",
+      "title": "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation",
+      "excerpt": "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_614402420.jpg",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP",
+      "publishedDateTime": "2020-08-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-analyst-watch-the-rise-of-ai-chips.md",
+      "title": "Analyst Watch: The rise of AI chips",
+      "excerpt": "In a recent study on AI chips for Kisaco Research, where we closely examined 16 chip providers, we also mapped the AI chip landscape and found 80 startups globally with over $10.5 billion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
+      "originalUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/08/board-453758_640.jpg",
+          "width": 640,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-giant-lawsuit-alleges-instagram-used-face-recognition-illegally.md",
       "title": "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally",
       "excerpt": "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent.",
@@ -820,328 +1135,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance.md",
-      "title": "Amazon EC2 Inf1 instances featuring AWS Inferentia chips now available in five new Regions and with improved performance",
-      "excerpt": "Following strong customer demand, AWS has expanded the availability of Amazon EC2 Inf1 instances to five new Regions: US East (Ohio), Asia Pacific (Sydney, Tokyo), and Europe (Frankfurt, Ireland). Inf1 instances are powered by AWS Inferentia chips, which Amazon custom-designed to provide you with the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
-      "title": "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads",
-      "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
-      "publishedDateTime": "2020-08-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.md",
-      "title": "Healthcare provider and payer execs point to AI, robotics as next industry disruptors: report",
-      "excerpt": "Nearly half of healthcare provider and payer executives (45 percent) believe that rapid advancements in new tech and innovations will disrupt the healthcare industry, according to an Aug. 11 Accenture report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-artificial-intelligence-warning-ai-will-know-us-better-than-we-know-ourselves.md",
-      "title": "Artificial intelligence warning: AI will know us better than we know ourselves",
-      "excerpt": "ARTIFICIAL Intelligence (AI) is a totalitarian's dream and will have the potential to know you better than you know yourself, a researcher has claimed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-1322607.jpg?r=1597350957986",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
-      "publishedDateTime": "2020-08-13T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-aws-announces-general-availability-of-amazon-braket.md",
-      "title": "AWS Announces General Availability of Amazon Braket",
-      "excerpt": "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
-      "originalUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200813005776/en/812634/4/Amazon_Braket_Console.jpg?download=1",
-          "width": 480,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-blaize-ai-now-in-production-and-trials.md",
-      "title": "Blaize AI: Now In Production And Trials",
-      "excerpt": "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg",
-          "width": 1199,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "publishedDateTime": "2020-08-13T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-amazon-launches-braket-quantum-computing-service-in-general-availability.md",
-      "title": "Amazon launches Braket quantum computing service in general availability",
-      "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "publishedDateTime": "2020-08-13T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

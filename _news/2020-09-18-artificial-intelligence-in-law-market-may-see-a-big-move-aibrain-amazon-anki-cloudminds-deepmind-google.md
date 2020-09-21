@@ -7,7 +7,7 @@ originalUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-in
 webUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-in-law-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind-google/"
 type: article
 quality: 29
-heat: 49
+heat: 29
 published: false
 
 provider:

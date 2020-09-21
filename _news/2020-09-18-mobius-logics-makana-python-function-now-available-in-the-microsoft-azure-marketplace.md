@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "BP, Microsoft form strategic partnership to drive digital energy ‎innovation and advance net zero goals"
-    excerpt: "BP and Microsoft Corporation ‎announced that they have agreed to collaborate as strategic partners to further digital transformation ‎in energy systems and advance the net zero carbon goals of both companies."
-    publishedDateTime: 2020-09-16T07:38:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/sep/16/bp-microsoft-form-strategic-partnership-to-drive-digital-energy-innovation-and-advance-net-zero-goals-6431828/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 3
 
 secured: "76B8cKqQxB2UZYu3EPJZOj3ayNbDwBL4qqrCA5Z1oNkXkE0H4Kp1cMzu6IMR9Enc/3/r89Yvx0PtpCpfub5Gkulc9UhHzWX7LApcvxd8Zo385mSdTJoDSdal2W/cH4tJOhWgnjnz6CZ0RSM8gbbG3APbpdN5EPMm9ae5/4TevMajatGrGipbMvEJjtUlQVe8tRPOBc7lxdan/V3B6EAsBeSL0ZkmZxdbZwflfqBglcWQU30LOgALR/2H5/qtvTwAlEq4YoSmRSh0dnqqoUfZ7NC4TAlVYA3ooO+Rfis0incjlMPpxqljkIxEV3mdGhUGtj5ngte0D65eIJwwpozKS4x0kQDHmtAqbujnghUFWt4=;tr2ksLq4Y6oHbZTIAnDkKw=="
 ---

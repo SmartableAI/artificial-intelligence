@@ -7,7 +7,7 @@ originalUrl: "https://news.engineering.utoronto.ca/connaught-new-researcher-awar
 webUrl: "https://news.engineering.utoronto.ca/connaught-new-researcher-awards-boost-data-driven-decision-making-and-machine-learning-research/"
 type: article
 quality: 27
-heat: 37
+heat: 27
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyherald.com/amp-article/20200919/business/200919245/
 cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200919/business/200919245/"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

@@ -7,7 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/09/200915105938.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/09/200915105938.htm"
 type: article
 quality: 50
-heat: 50
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -20,6 +21,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Researchers say artificial intelligence and machine learning could enhance scientific peer review."
+    excerpt: "In some cases, poorly validated research has massively influenced public policy, as when a French team reported COVID patients were cured by a combination of"
+    publishedDateTime: 2020-09-19T20:53:00Z
+    webUrl: "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/"
+    ampWebUrl: "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 60
+    images:
+      - url: "https://infosurhoy.com/wp-content/uploads/2020/09/aimingforacc.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "zjCrLS6VhnNCeK/id4/UY0Sxa69Cv0HbcEK2d5CV91MiIDrdw1GQBZO4T2QxpK14mAslGUD8szC0EV5mq38MHmsKkAYdFQOM0p1fMXmO2Jevg3TZZvMiIvHzCZLCNQVZivDjcvpSJAI+2ZHRyOiIQnPkkjvEmafWIrN7ukRAeQVKHy//gk4uiOcyMRX2l3H/3IXODHXeg/U4mfUq9HtPA9Bf+huKNpId8wDht7FQJ+g4qNKueSilgf8R8LGGD6/1jFyEK+FiG6WYai7LABeNrwK9QwKLS2W+GxZptbG9m3Y/r5RDkeVyxQXuU1KPaZRgJn/gLUZfahzOKrL+KR6EHd1YbY/G5Sb5Jq9enj3+loY=;4+eIvrZfVbxIthLKxVNESA=="
 ---

@@ -2,6 +2,156 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-17-rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms.md",
+      "title": "RapidAI raises $25 million to analyze medical scans with AI algorithms",
+      "excerpt": "RapidAI, a company developing algorithms that analyze medical imagery primarily from stroke victims, has raised $25 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/bca0635a-8374-451e-8ff1-1b16e8791b19-e1600108808571.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/rapidai-raises-25-million-to-analyze-medical-scans-with-ai-algorithms/amp/",
+      "publishedDateTime": "2020-09-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom.md",
+      "title": "AI-powered weight training startup Tonal raises $110 million amid home workout boom",
+      "excerpt": "Tonal, a startup developing an AI-powered home weight training system, raised $110 million to further its R&D and mass-production efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
+      "originalUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/tonal_fitness_official-e1600102966312.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/amp/",
+      "publishedDateTime": "2020-09-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-how-artificial-intelligence-is-helping-companies-identify-nail-new-product-opportunities.md",
+      "title": "How Artificial Intelligence Is Helping Companies Identify & Nail New Product Opportunities",
+      "excerpt": "The best and most cutting edge examples of how firms are using AI in the new product & service development process to identify and optimize new business ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6205e8a15156fd3358e745%2F0x0.jpg",
+          "width": 1200,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-ibms-watson-assistant-can-now-field-election-questions.md",
       "title": "IBM’s Watson Assistant can now field election questions",
       "excerpt": "IBM is teaming up with states to deploy a Watson Assistant solution that answers questions about the election via phone or online.",
@@ -62,7 +212,7 @@
       "originalUrl": "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -146,6 +296,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-17-inside-politics-joe-biden-offers-brexit-bill-warning.md",
+      "title": "Inside Politics: Joe Biden offers Brexit bill warning",
+      "excerpt": "Boris Johnson has forged a compromise deal with the Tory rebels on his controversial legislation – but the US presidential candidate has a warning about jeopardising transatlantic trade, writes Adam F",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-joe-biden-boris-johnson-deal-withdrawal-agreement-good-friday-ireland-b464207.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-observeai-bags-54-mn-in-series-b-round-led-by-menlo-ventures.md",
       "title": "Observe.AI Bags $54 Mn In Series B Round Led By Menlo Ventures",
       "excerpt": "Observe.AI, a contact centre artificial intelligence (AI) startup, announced that it has raised a $54 million Series B round led by Menlo Ventures, with participation from Next47 Ventures and NGP Capital.",
@@ -154,7 +345,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/356293",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -797,7 +988,7 @@
       "originalUrl": "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -836,6 +1027,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-deep-learning-market-2020-key-regions-company-profile-opportunity-and-challenge-2026.md",
+      "title": "Deep Learning Market 2020 - Key Regions, Company Profile, Opportunity and Challenge 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Sep 16, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020---key-regions-company-profile-opportunity-and-challenge-2026-2020-09-16?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020---key-regions-company-profile-opportunity-and-challenge-2026-2020-09-16?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -979,251 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system.md",
-      "title": "Nasdaq makes push into anti-money laundering tech with new AI-based system",
-      "excerpt": "Exchange group Nasdaq said on Wednesday that it is launching AI technology to help retail and commercial banks automate anti-money laundering (AML)investigations, as it expands into the financial crime software market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
-      "originalUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533675176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F138",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2671UE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2671UE",
-      "publishedDateTime": "2020-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-this-entrepreneur-uses-predictive-analysis-and-machine-learning-to-achieve-efficiency.md",
-      "title": "This Entrepreneur Uses Predictive Analysis and Machine Learning to Achieve Efficiency",
-      "excerpt": "Julian Jewel Jeyaraj created AI-driven technology JJAIBOT, an artificial intelligence bot, is capable of detecting human emotions such as anger, happiness and joy, and here is what start-ups can learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356254",
-      "originalUrl": "https://www.entrepreneur.com/article/356254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600251356-JJAIBOT.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356254",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356254",
-      "publishedDateTime": "2020-09-16T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools.md",
-      "title": "Over 1,000 parents sign open letter protesting facial recognition in schools",
-      "excerpt": "More than 1,000 parents from all 50 U.S. states signed an open letter advocating for a ban on facial recognition in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
-      "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
-      "publishedDateTime": "2020-09-16T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
-      "title": "Life academy promotes ethical ways AI can with help food security",
-      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
-      "sourceUrl": null,
-      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
-      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
-          "width": 1280,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
-      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
-      "publishedDateTime": "2020-09-16T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crux",
-        "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-uber-backup-driver-charged-in-fatal-2018-self-driving-car-crash.md",
-      "title": "Uber backup driver charged in fatal 2018 self-driving car crash",
-      "excerpt": "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
-      "originalUrl": "https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Bjdq9rwdqqGu0imAP6-L8aQZTe4=/0x0:1434x790/1400x933/filters:focal(603x281:831x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png",
-          "width": 1400,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide",
-      "publishedDateTime": "2020-09-16T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

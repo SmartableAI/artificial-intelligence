@@ -2,6 +2,299 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-08-06-algorithm-created-by-deep-learning-identifies-potential-therapeutic-targets-throughout-genome.md",
+      "title": "Algorithm Created By \"Deep Learning\" Identifies Potential Therapeutic Targets Throughout Genome",
+      "excerpt": "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/algorithm-created-by-deep-learning-identifies-potential-therapeutic-targets-throughout-genome-301107737.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels.md",
+      "title": "You'll finally be able to run a Windows virtual machine on your Chromebook with Parallels",
+      "excerpt": "Chromebooks were initially designed to be lightweight web-browsing laptops but gradually started gaining more features, especially when it came to offline",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
+      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
+      "publishedDateTime": "2020-08-06T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "AWS has a long, and growing ... NVIDIA continues to release new artificial intelligence hardware, including its recent A100 Tensor Core GPUs, which allow data centers to accelerate both AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": "https://www.fool.com/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F585688%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-08-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
+      "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
+      "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "publishedDateTime": "2020-08-06T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies.md",
+      "title": "Salesforce open-sources the AI Economist, a research environment for exploring tax policies",
+      "excerpt": "Salesforce today open sourced the AI Economist, a research environment that leverages AI to arrive at optimal tax policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot66_photo_x4-e1596572153473.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "publishedDateTime": "2020-08-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-deep-learning-market-size.md",
+      "title": "DEEP LEARNING MARKET SIZE",
+      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "originalUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "publishedDateTime": "2020-08-06T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer.md",
+      "title": "Artificial Intelligence System Tops One Billion Neurons on a Desktop Computer",
+      "excerpt": "In a significant advance in the development of Artificial General Intelligence (AGI), the Brain Simulator II neural simulator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16964889",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16964889",
+      "publishedDateTime": "2020-08-06T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-i-just-created-my-first-aiml-app-part-1.md",
       "title": "I Just Created my First AI/ML App! (Part 1)",
       "excerpt": "Happily, we have just such a plan… Tiny AI/ML Steps Earlier this year, I read a rather interesting book whose name, it has to be said, is a bit of a mouthful: “TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power ...",
@@ -835,334 +1128,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-improving-online-learning-and-more-with-artificial-intelligence.md",
-      "title": "Improving Online Learning and More with Artificial Intelligence",
-      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-05T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-improving-online-learning-with-artificial-intelligence.md",
-      "title": "Improving Online Learning with Artificial Intelligence",
-      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-05T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
-      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
-      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "publishedDateTime": "2020-08-05T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-nih-harnesses-artificial-intelligence-and-medical-imaging-to-fight-covid-19.md",
-      "title": "NIH harnesses artificial intelligence and medical imaging to fight COVID-19",
-      "excerpt": "The National Institutes of Health has launched the Medical Imaging and Data Resource Center, an ambitious effort that will harness the powers of artificial intelligence, and medical imaging to fight COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2020-08-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library.md",
-      "title": "Training knowledge graph embeddings at scale with the Deep Graph Library",
-      "excerpt": "We’re extremely excited to share the Deep Graph Knowledge Embedding Library (DGL-KE), a knowledge graph (KG) embeddings library built on top of the Deep Graph Library (DGL). DGL is an easy-to-use, high-performance, scalable Python library for deep learning on graphs. You can now create embeddings for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/05/ml1084-training-knowledge-graph-embeddings-2-2.jpg",
-          "width": 800,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T10:07:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone.md",
-      "title": "Researchers propose AI that delivers personalized health recommendations via smartphone",
-      "excerpt": "Researchers at Harvard, Stanford, and the University of Michigan propose an AI system that delivers personalized health recommendations via mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
-      "publishedDateTime": "2020-08-05T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create.md",
-      "title": "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create",
-      "excerpt": "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "publishedDateTime": "2020-08-05T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
+    excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
+    publishedDateTime: 2020-09-18T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

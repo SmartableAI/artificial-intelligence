@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblad
 webUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud"
 type: article
 quality: 28
-heat: 48
+heat: 28
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfchronicle.com/business/amp/The-new-startup-pitch-We-re
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/The-new-startup-pitch-We-re-not-Uber-15579206.php"
 type: article
 quality: 42
-heat: 52
+heat: 42
 published: false
 
 provider:
