@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-ma
 ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "Artificial intelligence (AI) Chips Market by Production, Share, Size, Import, Export and Consumption Forecast and Top Manufacturers by 2026"

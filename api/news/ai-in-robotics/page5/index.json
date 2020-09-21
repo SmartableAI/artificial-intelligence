@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-08-12-more-countries-are-demanding-an-international-treaty-to-ban-killer-robots.md",
-      "title": "More Countries are Demanding an International Treaty to Ban ‘Killer Robots’",
-      "excerpt": "Now, eight years into their push for new international legislation regarding LAWS, HRW has announced in a new report that 30 countries—including Argentina, Iraq, Pakistan, Palestine, Zimbabwe, Colombia—are now finally explicitly seeking a ban on the use of these weapons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f33d111f7a95c009efe2f15/lede/1597231383355-000arp3501469-1.jpeg?crop=1xw:0.844xh;0xw,0.1274xh",
-          "width": 3997,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "publishedDateTime": "2020-08-12T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020.md",
       "title": "Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020",
       "excerpt": "Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned people in the world to speak",
@@ -1369,6 +1318,39 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated.md",
+      "title": "AI POWERED ROBOTS WILL REPLACE HUMANS ON THE SHOPFLOOR IF NOT INTEGRATED",
+      "excerpt": "Automation will enhance and complement human activity, resulting in safer and less repetitive roles for workers • 60% of manufacturers that have introduced AI are using it to support their workforce •",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingtomorrow.com/news/2020/07/29/ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated-/15615/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturingtomorrow.com",
         "images": null,
         "publishers": null,
         "authors": null

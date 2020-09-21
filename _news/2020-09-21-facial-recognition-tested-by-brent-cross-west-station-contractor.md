@@ -3,8 +3,8 @@ category: news
 title: "Facial recognition tested by Brent Cross West station contractor"
 excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
 publishedDateTime: 2020-09-21T05:00:00Z
-originalUrl: "https://www.railwaygazette.com/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
-webUrl: "https://www.railwaygazette.com/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
+originalUrl: "https://www.railwaygazette.com/uk/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
+webUrl: "https://www.railwaygazette.com/uk/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
 type: article
 quality: 39
 heat: -1
@@ -150,6 +150,6 @@ related:
       domain: thetelegram.com
     quality: 16
 
-secured: "kKlrPxPozcobJVC3VTkt50SqbWu5Og0IuAGVdDMQSTmfXrEjnUmfRo0NwgRf/NQqD+TqfJ1mviBH5BXzjK/vAKMbsxJghX/8vurmo0zR+HP2w3ghXtS/uWmhP0hSaEKeBXv+cJSpAmJQqaMa4/RZ8RY50M3eufY88cyyZB1K2VvpQUy3gA8/RCVyryUpZoB6JQTLYYr9yyBwQPI3/9YOTBpI8pJijI60rT0CBtDz7YirzU5GNlCEAIyKd/knbNogTBIfjN8VccAXE6T6gRWdioYSOS+T22iSxfrDL4f9zqPEYoz6M/CpqoJOWUqPMmjkMC+xXEPeiYoOcBJbqBN6EeS+4wpR3b/zAfjSzkVN5ds=;eyTTOU2A6LW/aewWHj9KlA=="
+secured: "GDZcorVNw15buSJDI0B0uiTajY8r9sNw1y+3hIGXUmFXMT4NDwQWqT3fBOkN7wJAqQsdT0oBWh5SveZN0P0V2pRaLlt7Er5w39HhBp7A13ezCW9hI+UZR011FiGsG3Ve1TvdwrSbbfF6EJrVKyuUbOGKVEi97gKy6A64kuE78peiRz13SNSGDvwJ5m72F18BRQLISBosuUVihvp6LDBg2oTH5C6U/ioHNfh2NeSFa6j9WQjaZHIZ6x0ou6k/AjJlwIoOcmQcFYHbygcIzKwp/SzLefhJmYQNvd72mkClTjUv3B99L6A1wxFYEljjjawb4rzl5qGnGgPvz3SyOxtroGTnRYkudyAaCNIuBGYDFL8=;g/hr8VXZp5JcHuGM4l6yMw=="
 ---
 

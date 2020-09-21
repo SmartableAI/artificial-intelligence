@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/09/16/aidoc-announces-extended-serie
 webUrl: "https://siliconangle.com/2020/09/16/aidoc-announces-extended-series-b-round-amid-growing-demand-medical-ai/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Aidoc raises $20 million more for its computer vision medical tools"
-    excerpt: "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019."
-    publishedDateTime: 2020-09-16T13:14:00Z
-    webUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/"
-    ampWebUrl: "https://venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/05/Aidoc-Covid-e1599583845771.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Aidoc raises $20 million more for its computer vision medical tools – Jaweb"
-    excerpt: "Aidoc, which bills itself as an AI solutions provider for radiologists, today closed a $20 million extension to the series B it raised in April 2019, bringing the round total to $47 million and the company’s total raised to $60 million."
-    publishedDateTime: 2020-09-16T13:23:00Z
-    webUrl: "https://elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/aidoc-raises-20-million-more-for-its-computer-vision-medical-tools-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 72
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Aidoc-raises-20-million-more-for-its-computer-vision-medical.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI Medical Imaging Startup Aidoc Raises Another $20M"
-    excerpt: "Aidoc develops full-body AI medical imaging software designed to detect and pinpoint critical anomalies for radiologists."
-    publishedDateTime: 2020-09-16T13:21:00Z
-    webUrl: "https://nocamels.com/2020/09/ai-medical-imaging-aidoc-20m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/09/AIDOC-101_websize.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "gopkDyv4fL/O4IpPZxBVRKSZqwP9kMiCMtECa/DME6W8CSlY0AxWaV/WDj8q9Q6wF0NnFR+BT2Dntxg+LPSBAzfn8ws1UHRswhIYIPTGIS80yIhAJtG0BTSCyXr9zvJjTtneT2Cadsi9AIByRYL0lrlbtAeKiBGForgfw4rpt5lVQbP32UeHjmX558z9tFZpq/QU7WKe3AwcwnrWO1Erqa6lUfCGIC+YJG6U7mq8Z+Jdts/8JvwHD4BTDA37Wa5UEh9QxEfLfVp6qpUJdyLBWs8AerOLJdSAKU0gnRPUZXANObzNcSXa2l9nwmn9PAXvAvQO2C+GY4PZgkd2hqORyMA95YVz/pRDAUhrRRteWNg=;uWquXiAU/OzCIQ7rIAFVLg=="
 ---

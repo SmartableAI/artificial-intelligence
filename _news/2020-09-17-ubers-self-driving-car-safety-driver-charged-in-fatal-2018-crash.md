@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-d
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/"
 type: article
 quality: 74
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06B0MWw0wY92GN6CRT3qvFO-1.1600274565.fit_lim.size_1200x630.jpg"
         width: 680
         height: 383
-        isCached: true
-  - title: "Driver in fatal 2018 Uber self-driving car crash charged with negligent homicide"
-    excerpt: "Rafaela Vasquez, who was operating the self-driving Uber car at the time of the crash, has been charged in Maricopa County Superior Court."
-    publishedDateTime: 2020-09-16T14:35:00Z
-    webUrl: "https://www.businessinsider.com/fatal-uber-self-driving-autonomous-crash-driver-charged-negligent-homicide-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/fatal-uber-self-driving-autonomous-crash-driver-charged-negligent-homicide-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fatal-uber-self-driving-autonomous-crash-driver-charged-negligent-homicide-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/5f621a7e323fc4001e0d68b2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
     excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."

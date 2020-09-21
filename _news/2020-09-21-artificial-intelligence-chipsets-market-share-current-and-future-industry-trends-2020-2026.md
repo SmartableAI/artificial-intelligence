@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global Artificial Intelligence Platform Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
-excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Platform Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that concentrates on the industry,"
-publishedDateTime: 2020-09-17T01:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2020-09-16"
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2020-09-16"
+title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
+publishedDateTime: 2020-09-21T06:03:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
 type: article
-quality: 34
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -79,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
-    excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
-    publishedDateTime: 2020-09-21T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -252,6 +239,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
+    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Platform Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that concentrates on the industry,"
+    publishedDateTime: 2020-09-17T01:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2020-09-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Online Learning Market 2020 – Global Industry Analysis, By Key Players, Segmentation, Trends and Forecast By 2026"
     excerpt: "Latest Market Analysis Research Report on \"Online Learning Market\" has been added to Wise Guy Reports database. Pune,"
     publishedDateTime: 2020-09-17T11:14:00Z
@@ -295,6 +296,6 @@ related:
         height: 450
         isCached: true
 
-secured: "2bAuiBIiCCOkb0nAQpEUtoJ3+p9lvNp8ZnE1VFxuH/ru3Z60QDBeG3E9KRVvh2MzQIaWcXRdiD/SAd2F3ORLKS+HBxBs1UCWeqE9/+RppBj2Ockh7k/eT6ZaFjfqIZ4eeGWJxjXc8yU9z2wvNKAGgVqXD5EbInftQU6jf3EYd7uqQ0n9BJ6tMukMdN6g9x2B6C7zt1qaqZAeGTjgQC2YvtaF6cEFIGObiXRLNR11vdyTJJSYA5jdAR1ZmRpz3vHhPLgJAKHzv3lbNAYj64kc8KPD+szJrtQ8uOvhsEcaCfA0+x3YidNWvZV9dW/xb1xdc8ipC9GImHuOXrzlfqi95k0KPc6aX+0fW6SmpUT//7E=;jVcBgG3BKTHi6rmOtDNN/w=="
+secured: "+79EVkg9mSOsaDWvl1UdwLwtchmi+xPtYE5BEOO5tGFDfLD4iyhYLurzho3lK6wh04P64qvlPqfub8JWhkd/kCD1K+6v9+oUC8n4OeYe0UDAPoXD4ZPLB9uo3gbS845u7lPmwZ4fNUSnTl0GH9lzKqw7Fq8wI+wHuoE5Go65tcbxY0iYPGC8O7FaUAR+osokes5PRVR/9en51i03ZzY+z9RVN/x0B39q/kLn98yYTDX8kHeqOXDyGmkoAxN9x0ZbI+xJ+cUoFIrc7ihsrfhhLGdB/y95HPmiy2j0LZs5oWVU2jRbijZzH0XVAQBEUw+QwllaBkdb3C181p5NB1uyFESSC8zuAu+gUvYWfW9Vhfw=;6usFD0o6SNIcOBRAFi/7SA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Emmys 2020: Tyler Perry Accepts Governor's Award With Amazing Speech About His Grandmother’s Quilt"
 excerpt: "The Emmy Awards honored Tyler Perry with the 2020 Governors Award in recognition not only for his career achievements but also for the doors he helped to open in the entertainment industry for people of color."
 publishedDateTime: 2020-09-21T03:40:00Z
-originalUrl: "https://www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.html#!"
-webUrl: "https://www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.html#!"
+originalUrl: "https://www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.html"
+webUrl: "https://www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.html"
 ampWebUrl: "https://www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.amp.html"
 cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/celebrities/news/2020/09/20/tyler-perry-emmys-2020-governors-award.amp.html"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "KATXg66S+13dHzDMyJKyK0LJGI+yleHkTdDW0X4PSFbwgAvJPG8+OBIVcX32Hole3R+EC9x4UWIW2ryyGsEIbe70HfdxU/sJpJ+tXS0ZsfIxE3AME65fuR+UBkO+BNmhBJ5zfh/rXI5Mx4OwGR9zky/OGIQyB5lirehddw6xvYF5sdiZamGWwEo0yIAHMy9dkdGlaGVF8OXF330LFilWe7a5qZNp4mogwnaBya27lukis/QpKIQh+cLrby6WObAXZ3qZEHqhuVPCzPukORFvuNpWkvEZbGzW7d3APRvXPtJOCjm6VXLruflslq/ynfDaK/P/EaX9lD4HhOPbBCDs8zUIiiMNJhleoUDCJ0diHqOw3goQcogzfJKTm7YuJH8DcZwBqmshmSNvODTYr7KkXrX4k72Efejh2iCi8WZwA4PgPCZaj39t9rwdA/E/xYBYZLkQO6ygTOomVg01ojWLfjZ7dkkb0u2yWXOldxu8u40VrlsLD8wVA+WRqp67aFS4TjM1iF9ZGcCWLFAuwmVyrg==;sGL9CQxwddGbuCKw4UAWQA=="
+secured: "/meurmJBckwDubnODxqKVA15HR75/TM9zPN7NbXYOi7ZURGwuy5QJ1pSAg9SPJ+DTg6PreYlaLED0rwCWKUVQjnFVu3HwAkjFX6cii1vd2agZYTatsjMWb/DYz+wxmJgYNlkl9QzRFY0N/6g5XKj9XNpfTRLjsI5PzkJY+E4PNyq5k+uq3zmLgzvnyiUbMbGsIWv7nB/zujf8xnM4w2dMSRQEF92T7Ytco5fXzHN4eSe7LQgat8mDThHC5vQMBnDsEjyhsm7Md24Zh3dyUAOfmcXKDhS1gCkbGVxPT9iBaoCr5Q3wWuEMzJnlOzOwhQpzO911dtPjISCGIpovq3uu2U/GmXyHNKmedD36HzPtD4=;LS7kcNz9Dpwui+qISpJQ+g=="
 ---
 

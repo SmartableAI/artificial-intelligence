@@ -67,7 +67,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 39
+    quality: 41
 
 secured: "CMEV1PK+zRWzfSSPEMudu0TrDxCxQ5LL3YSqqzBvUY9Q8OfRyJ1RT1LHOn3XXqzOJqL/vHwWqjVarvEN2qQf2z6Ctv9YgR9vKF1J19lwkrxWZ8SafaCQI6xSVOOmGhSBojaVSq46J7SRwaXkBrL2CdKFMjf+UW5HAKkfSlQa3sz7BCLMkmbBKCpOpCj4AkVm0eTL2GpZFLbcCtnjPvxRR1yF42YEAKFRbfoUrgdGwJ/gXmdCXyIemR39TOUb0nyLbHLqN4W+7WzAp1R5/zp3/vPxYRa0DFbK82Wfybfpz5x3ymM42Qs1kIepy3uYIAeker8+Uk0NpCl+Rh61Kk2goEH3IcU+Baa8jyzI2F9tsWU=;imyCqq6xNcFOXK0pCRJNdg=="
 ---
