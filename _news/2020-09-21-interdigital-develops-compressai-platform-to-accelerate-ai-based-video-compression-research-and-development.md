@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Immervision Introduces JOYCE, the First Humanoid Robot with Intelligent Vision Developed by the Computer Vision Community"
-    excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, introduces JOYCE, the first humanoid robot developed by the computer vision community to help machines gain human-like perception and beyond."
-    publishedDateTime: 2020-09-17T13:36:00Z
-    webUrl: "https://apnews.com/business-wire/af8afe69a60c47b1becac9c18bda64e9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "INxSkWfiUsSZPYQ2dqMQ0PGZxKDflFo/Xw0DzcpX620TGepqkbb4fN8QeDF6JkGc/ZXA5oYHaSOjDnSWKtHydRrPdhgUndI+DfnjTnh3HofQFr9KFCe0l3qFlYtkvw49VU0toudNWo5c/WQTLE1CLCUx+eT9Wwg+EesY2l4deypVZ4LCMmV/Nf371S4xoZfhH9tsfLEKmEZB5mheuTbWoc4oxoaHukwnJ7gTljCG2fMp5rW2OVBLXb2MVbtZepzu64nDKuRybl/aZe2nBTeAfiHeE4b3hGAcPDdVK/E9WGHiTog/EffTBkzJ6sdZdf1VW54PVqcecuFeqr2fT2sueVAQnKxTe9cmL25Y4OPN0AE=;6s2T3VwCq4ywgkYOtOhmAw=="
 ---

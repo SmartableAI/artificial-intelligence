@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Kmart Australia uses AI and AR to bring KBot shopping experience in-home"
-excerpt: "Kmart Australia has launched its KBot platform that uses a combination of augmented reality (AR) technology and artificial intelligence (AI) to enable shoppers to view products in their own homes. The AR technology, developed by Valis, allows shoppers to ..."
-publishedDateTime: 2020-09-22T04:37:00Z
-originalUrl: "https://www.zdnet.com/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-webUrl: "https://www.zdnet.com/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+excerpt: "The AR technology has been developed by Valis, while the AI platform is powered by the Oracle Digital Assistant platform."
+publishedDateTime: 2020-09-22T04:25:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
 type: article
 quality: 66
 heat: 66
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "UFjb2FR9muFiEePRFq5nMWFKEapsdsP/WbGKgtUu8TsRqBXIacmyCvpb5YPZwQtJZvx7L/WxkX5N3NrMBZ5UfIEF/TpVHyEGLR5GPbCT+kYsYbFYUFzCowGlEjyHcMGvhbOkf30UmamK1rvUiGhy69LWXGh4dAuesp9pTsxU9J1oEl+bWmoUYgPCCBn1FmWg0akd5APdlYYNZxlHB1P/NHzquMosJf3gmpRIyv1lUyrDFG4LdobevAwd/jtwJ0HXV2JZjs30enGBnO9RoTC2T4hL74XYFCtbHrlNcoOKN6MvhSo1ZtVfCb0cm5VQx4S9mFf2cGACoHTkrz82CUQuCH4Vw1QYFkwpjpf6CeXuIX98XdWSM9pUMEdwT/iT74Glb/YVZz/aiktGSQxYcmVGjtIWY69OJ8np+Pszw8/U8AHe0rfb5aw3GfHwL7FGi2nNKzh8vkkUxyozpBtrv2ldcvHuBL18DIi5kur+VcNnVZypxLHkEBo+2SHnY8TnMLsZwvIo7/qEoXVPJF87c0fyfw==;6HJKDqD1P/o0jp6ehw77Ww=="
+secured: "2EX5ScIIQ4jzLQYMCwm74kLa6reTwzGqxNdLsKhgaGLzLw6fhAf2VIwgpyeNimOFblcMdajP5f0NFTy7QAuAbA2pHiCUsJZBZtenjBjinaWG2eWup5+8gjwqfS10SODxNeqrcgpfixOaAhAyF9v6WhamNkoa++YPCDAgcFfhhqvHBYLyu3087vHgQ2SZNr4UhoTexNWJV5b84CVEQgUUPs8WaVLK4hkGXoKqqXJIr15agj5/TvE4KkfFzbiZH7YdGl396gQhmV8eMPcAsjWagnEQ/mNcLwnzsRMYzICkATeDeGOGYQ4R1R35jnnOUmltYm71ezMIU3ZZ/1C3/L0ME2mkiPxJQdgZ0rwzzt/buaDcdNTUVk7g5E4wKE0YTgvyaJxa8yhJCNsmIWiYRLLTSC4TG1Mlg5ocO3cVVOFaTloz66IhHpgcMNzG1dQHSmTBWVIumuYbbFT/4twSUNnHaELa0qjG08jRt4BkASOKrLkr++J+poRQg0LI1uPT75i201wr3zi+j7d9pjGqED3G6A==;NNl+SkC15kFn2qCuUhGMSg=="
 ---
 

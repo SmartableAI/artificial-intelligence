@@ -28,6 +28,17 @@ images:
     height: 336
     isCached: true
 
+related:
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
+
 secured: "iDFatVfZbE8CstcuYK/K2Fxwfw/KHtCwhFGgoXm5mObax1jBaT4gsizxFirR23cT7SXUm8qx8LCjlFv+ERUSI83GZRMJ6nvbayzmXURstUJx2KPPFPSQs4HvieNtLkQczT8HwSDoQyMVXmdRlWPQhuUDjz+wGf9pKYKgeaPN0/wcddADGerlx9rZilb23M3pf74KJ4iAqH6FE6dDWAZRaiNvh7LCKCtNVPVR985P15VJzdojqUT4WyHY/hL/Gfxi/hgB9BTs9rAXCu0V9OpqXRLOmLU0/yTLIUY7WCUfSxvAF16mj8JQiYIDn98nQAWFUx70BEBBcXd48Cuahdb/+c3Xx89qVvxu7KapX/OJnfaae7xK5LuzUL3L1PBXjOfe7KjF1BbCXDk6knZPeqll8h60OtlXj/KSEzbUpRg6HVZrx6nX+bc9LY0EdPKI3UdmP3mZUyicxgg6KtCnX4hUT72N496bLVzWCEVsy9YfdGGkgSGDDQFT3JIPHJp07+xbLkV9DGuwaiw2AC+MEoHT3g==;aD4qFun1/6gllfx4KTHztQ=="
 ---
 

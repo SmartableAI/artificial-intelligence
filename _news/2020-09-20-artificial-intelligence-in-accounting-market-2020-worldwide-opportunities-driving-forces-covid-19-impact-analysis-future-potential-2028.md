@@ -238,6 +238,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2020-to-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7HDInND2V1j4QVOzZhuSOnWPLs8f0TCyKIKmUGn3xZ9hsVctFDTdgoUGXWlGi68twDNVsDhPKHlhgC8AKgxZCU14TdB8XVaGgI+zbx5EQq394hy7kqVNpvle3bQh0lkL66+QnQjMQG7SGOr6TvWPg7gtEF9dKVD5wpaHT89IVOLPB73hd2AEi5o8rEv1AvvIpzwV/69PJTZR6x2rAo3iTfPm6N1Rl97bw6bJ7QfZsmF8p+3z8c/nhwmvtlyl543HmP9XFGnP+M189/Qi7kJeEpukzQQie9muOro53X6+LnGG8Tl8e3DKme9dCr+7Ym+54kOzqlrAOCYWHk8iRYOV8fo/4jTNfez7Camy5bL1hKQ=;5KLS4CygyjAwmUpNFPbzzA=="
 ---

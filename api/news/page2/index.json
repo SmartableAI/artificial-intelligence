@@ -2,6 +2,201 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-20-how-ai-platforms-are-improving-talent-management-in-2020.md",
+      "title": "How AI Platforms Are Improving Talent Management In 2020",
+      "excerpt": "It's encouraging to see how AI platforms evaluate candidates on their capabilities while anonymizing factors that might lead to hiring bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483424715%2F0x0.jpg%3FcropX1%3D967%26cropX2%3D5727%26cropY1%3D0%26cropY2%3D2234",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "publishedDateTime": "2020-09-20T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
+      "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
+      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "originalUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "publishedDateTime": "2020-09-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-in-china-paying-with-your-face-is-hard-sell.md",
+      "title": "In China, Paying With Your Face Is Hard Sell",
+      "excerpt": "Ant Group, which revolutionized China’s payments industry, is learning how difficult it is to separate people from their mobile phones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
+      "originalUrl": "https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-233469/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
+      "publishedDateTime": "2020-09-20T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-when-ai-in-healthcare-goes-wrong-who-is-responsible.md",
+      "title": "When AI in healthcare goes wrong, who is responsible?",
+      "excerpt": "In all these cases, studies suggest AI outperforms human doctors in set tasks. But when something does go wrong, who is responsible? There’s no easy answer, says Patrick Lin, director of Ethics and Emerging Sciences Group at California Polytechnic State University.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
+      "originalUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2020-08-22T142247Z_1828428544_RC22JI9OLR4W_RTRMADP_3_HEALTH-CORONAVIRUS-MEXICO-ROBOT-e1600448079302.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
+      "publishedDateTime": "2020-09-20T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.md",
       "title": "AdvisorNet Financial Inc Cuts Position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)",
       "excerpt": "AdvisorNet Financial Inc trimmed its holdings in shares of Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 5.4% in the 2nd quarter, according to its most recent disclosure with the SEC.",
@@ -91,48 +286,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
-      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review.",
-      "excerpt": "In some cases, poorly validated research has massively influenced public policy, as when a French team reported COVID patients were cured by a combination of",
-      "sourceUrl": null,
-      "webUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/",
-      "originalUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infosurhoy.com/wp-content/uploads/2020/09/aimingforacc.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/",
-      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/",
-      "publishedDateTime": "2020-09-19T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -329,7 +482,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": null,
       "type": "article",
@@ -950,7 +1103,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1001,7 +1154,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1040,149 +1193,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care.md",
-      "title": "Conversational AI: A Boon For Business, But Choosing The Best Fit Requires Care",
-      "excerpt": "An increasing number of businesses are trialing cognitive artificial intelligence, but that doesn't mean they should jump on board the AI bandwagon with reckless abandon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a3454d741880d2c57eaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "publishedDateTime": "2020-09-18T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-using-natural-language-processing-to-improve-customer-satisfaction.md",
-      "title": "Using Natural Language Processing To Improve Customer Satisfaction",
-      "excerpt": "Customers, like everyone else, have short memories in their busy lives. The most recent issue — the one that prompted the customer care call — vividly colors their experience and their impression of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a2aab1d25898b2a67b21%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/using-natural-language-processing-to-improve-customer-satisfaction/amp/",
-      "publishedDateTime": "2020-09-18T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-brains-memory-inspires-neural-networks-to-be-less-forgetful.md",
-      "title": "Brain’s memory inspires neural networks to be less ‘forgetful’",
-      "excerpt": "Researchers say they have successfully addressed what they call a ‘major, long-standing obstacle to increasing AI capabilities’ by drawing inspiration from a human brain memory mechanism known as ‘replay’.",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/13873/dreamstime_xxl_117459916.jpg?crop=0,0.0610791015625,0,0.4467333984375&cropmode=percentage&width=1200&height=450&rnd=132448974890000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

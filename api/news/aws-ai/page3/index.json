@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-22-aws-deepracer4-deepracer-13.md",
+      "title": "AWS DeepRacer入門：第4回 手を動かして強化学習を体験してみよう（自動運転ロボットカーDeepRacer編） (1/3)",
+      "excerpt": "連載目次 AWS DeepRacerは、自律走行を行うロボットカーである（第1回詳しく説明した）。 その走行エンジンの作成には、ディープラーニングの ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
+      "originalUrl": "https://www.atmarkit.co.jp/ait/articles/1908/22/news025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.itmedia.co.jp/ait/articles/1908/22/cover_news025.png",
+          "width": 841,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MONOist",
+        "domain": "atmarkit.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-21-how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live.md",
+      "title": "How machine learning helps companies stay agile in a pandemic (VB Live)",
+      "excerpt": "Join this VB LIve event to learn how machine learning has offered companies powerful ways to adapt in these uncertain times.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/how-machine-learning-helps-companies-stay-agile-in-a-pandemic-vb-live/amp/",
+      "publishedDateTime": "2020-08-21T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-relevance-tuning-with-amazon-kendra.md",
+      "title": "Relevance tuning with Amazon Kendra",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning (ML). As your users begin to perform searches using Kendra, you can fine-tune which search results they receive. For example, you might want to prioritize results from certain data sources that are",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/relevance-tuning-with-amazon-kendra/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/11/relevance-tuning-kendra-8.jpg",
+          "width": 1000,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T16:35:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-using-ab-testing-to-measure-the-efficacy-of-recommendations-generated-by-amazon-personalize.md",
       "title": "Using A/B testing to measure the efficacy of recommendations generated by Amazon Personalize",
       "excerpt": "Machine learning (ML)-based recommender systems aren’t a new concept, but developing such a system can be a resource-intensive task—from data management during training and inference, to managing scalable real-time ML-based API endpoints. Amazon Personalize allows you to easily add sophisticated personalization",
@@ -1251,151 +1396,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
-      "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
-      "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/83c3e898-f187-4a2a-9aa3-64d02fd75f9e/key-campus-summer-holidays-2019-louise-reily-hero.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
-      "publishedDateTime": "2020-08-10T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-achieve-machine-learning-goals-faster.md",
-      "title": "Achieve machine learning goals faster",
-      "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
-      "originalUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-go-long-with-machine-learning.md",
-      "title": "Go long with machine learning",
-      "excerpt": "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
-      "originalUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-iit-madras-faculty-develop-ai-models-to-process-text-in-11-indian-regional-languages.md",
+      "title": "IIT Madras Faculty Develop AI Models to Process Text in 11 Indian Regional Languages",
+      "excerpt": "Indian Institute of Technology Madras Faculty has developed Artificial Intelligence Models and datasets to process texts in 11 Indian Regional Languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
+      "originalUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/09/AI-and-Machine-Learning-Models-in-Business.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/amp/",
+      "publishedDateTime": "2020-09-22T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required.md",
+      "title": "Can Robots Write? Machine Learning Produces Dazzling Results, But Some Assembly is Still Required",
+      "excerpt": "You might have seen a recent article from The Guardian written by “a robot”. Here’s a sample: I know that my brain is not a “feeling brain”. But it is capable of making rational, logical decisions. I taught myself everything I know just by reading the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/",
+      "originalUrl": "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2016/04/Killer-Robots.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/amp/",
+      "publishedDateTime": "2020-09-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22.md",
       "title": "Lilt Announces Lilt Ascend 2020 To Be Held Digitally On October 21-22",
       "excerpt": "What: AI-powered enterprise translation services and software company Lilt will host its annual conference to explore the challenges surrounding \"Localizing at Scale in an Increas",
@@ -1123,6 +1209,39 @@
       ]
     },
     {
+      "path": "_news/2020-09-08-impact-analysis-of-covid-19.md",
+      "title": "Impact Analysis of Covid-19",
+      "excerpt": "The rising demand for improved customer services in the healthcare and life sciences sector is a major factor driving growth of the natural language processing in healthcare and life sciences market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
+      "originalUrl": "https://www.medgadget.com/2020/09/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-find-better-growth-with-us-21347-million-by-2026-cagr-26-8-coherent-market-insights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-microsoft-announces-the-general-availability-of-immersive-reader-service-on-the-azure-ai-platform.md",
       "title": "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform",
       "excerpt": "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform, provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service.",
@@ -1291,159 +1410,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-were-entering-the-ai-twilight-zone-between-narrow-and-general-ai.md",
-      "title": "We’re entering the AI twilight zone between narrow and general AI",
-      "excerpt": "OpenAI's GPT-3 transcends the definition of narrow AI. It doesn't qualify as general AI, but it's the first clear sign that we've begun the shift.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/were-entering-the-ai-twilight-zone-between-narrow-and-general-ai/amp/",
-      "publishedDateTime": "2020-09-03T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap.md",
-      "title": "OpenAI reveals the pricing plans for its API — and it ain’t cheap",
-      "excerpt": "The company says developers can apply it “to any language task — semantic search, summarization, sentiment analysis, content generation, translation, and more — with only a few examples or ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T133902.980-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "publishedDateTime": "2020-09-03T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition.md",
-      "title": "Windows 10 is improving the way you interact with it – including better voice recognition",
-      "excerpt": "Build 20206, which has been released to testers in the Dev Channel, comes with a new and improved version of Windows dictation which has been renamed Windows voice typing. As was the case with dictation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "originalUrl": "https://www.techradar.com/sg/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/siQHALnsW9itubbrJGKDn7-1200-80.jpeg",
-          "width": 1175,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/windows-10-is-improving-the-way-you-interact-with-it-including-better-voice-recognition",
-      "publishedDateTime": "2020-09-03T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

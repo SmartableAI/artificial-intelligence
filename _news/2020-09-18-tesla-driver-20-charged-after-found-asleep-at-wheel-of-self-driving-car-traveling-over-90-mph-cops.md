@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
 type: article
 quality: 74
-heat: 284
+heat: 264
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Uber backup driver charged with negligent homicide in self-driving accident"
-    excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
-    publishedDateTime: 2020-09-17T13:29:00Z
-    webUrl: "https://www.engadget.com/uber-autonomous-crash-negligent-homicide-032513753.html"
-    ampWebUrl: "https://www.engadget.com/amp/uber-autonomous-crash-negligent-homicide-032513753.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-autonomous-crash-negligent-homicide-032513753.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 72
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F025fb570-f7cb-11ea-bfbf-c7f295791eb4&client=amp-blogside-v2&signature=d24d5c6c8b0aa170ff84e24a5bfe40df270c9470"
-        width: 600
-        height: 350
         isCached: true
   - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
     excerpt: "Last Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
@@ -206,22 +190,6 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2020/09/Volvo.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Safety driver charged with homicide in fatal 2018 Uber self-driving car crash"
-    excerpt: "Uber's self-driving test car struck and killed a person two years ago, and today a grand jury indicted the backup driver on a charge of negligent homicide."
-    publishedDateTime: 2020-09-17T13:29:00Z
-    webUrl: "https://www.autoblog.com/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/09/16/uber-tempe-fatal-crash-autonomy-backup-driver-charged/"
-    type: article
-    provider:
-      name: Engadget
-      domain: autoblog.com
-    quality: 41
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/09/16074923/8e62a4f0-0029-11ea-a5bf-14e4819f2afe.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Canadian man booked for falling 'asleep' as his self-driving car zoomed at 140kmph"
     excerpt: "Police in Canada have charged a man for falling \"asleep\" while his self-driving car was travelling at a speed of 140 km/hr. The cop who charged him said he was \"speechless\" to seeing it."

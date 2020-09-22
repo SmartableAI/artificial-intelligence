@@ -2,6 +2,199 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-16-robot-research-vessel-to-set-off-on-epic-ocean-voyage-of-discovery.md",
+      "title": "Robot research vessel to set off on epic ocean voyage of discovery",
+      "excerpt": "On the 400th anniversary of the start of an epic voyage from England to the New World aboard the Mayflower, an autonomous, solar-powered marine research vessel is due to launch on a mission to gather environmental data about the ocean.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "originalUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c79b055/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F65%2Fe56342c24447b4e08aa4a06e5550%2Fmasinwater-12.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/mayflower-autonomous-ship-ibm-promare/?amp=true",
+      "publishedDateTime": "2020-09-16T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-as-well.md",
+      "title": "Unethical AI unfairly impacts protected classes - and everybody else as well",
+      "excerpt": "We've established that unethical AI hurts protected classes - but it doesn't stop there. Across industries and regions, unethical AI can impact the entire population. Here's some questions to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
+      "originalUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-09/dominos-fall.jpg",
+          "width": 1093,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/unethical-ai-unfairly-impacts-protected-classes-and-everybody-else-well?amp",
+      "publishedDateTime": "2020-09-16T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination.md",
+      "title": "Why AI Is The Sharpest Weapon In Industry’s Battle Against Discrimination",
+      "excerpt": "When it comes to the enterprise, social fairness is a web of complexity, and you have to establish what you assess as ethical first in order to realize those goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60c0f552a8562b9b537442%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/16/why-ai-is-the-sharpest-weapon-in-industrys-battle-against-discrimination/amp/",
+      "publishedDateTime": "2020-09-16T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system.md",
+      "title": "Nasdaq makes push into anti-money laundering tech with new AI-based system",
+      "excerpt": "Exchange group Nasdaq said on Wednesday that it is launching AI technology to help retail and commercial banks automate anti-money laundering (AML)investigations, as it expands into the financial crime software market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
+      "originalUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533675176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F138",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2671UE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2671UE",
+      "publishedDateTime": "2020-09-16T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-this-entrepreneur-uses-predictive-analysis-and-machine-learning-to-achieve-efficiency.md",
       "title": "This Entrepreneur Uses Predictive Analysis and Machine Learning to Achieve Efficiency",
       "excerpt": "Julian Jewel Jeyaraj created AI-driven technology JJAIBOT, an artificial intelligence bot, is capable of detecting human emotions such as anger, happiness and joy, and here is what start-ups can learn",
@@ -995,199 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-ottonomy-io-and-snapdeal-conduct-last-mile-deliveries-using-autonomous-robotic-vehicles.md",
-      "title": "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles",
-      "excerpt": "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "originalUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
-      "publishedDateTime": "2020-09-15T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
-      "title": "Latent AI makes edge AI workloads more efficient",
-      "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
-      "publishedDateTime": "2020-09-15T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
-      "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
-      "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-15-at-1.54.30-PM-2.png?w=680",
-          "width": 680,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "publishedDateTime": "2020-09-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
-      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
-      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
-      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

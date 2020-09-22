@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KCpayxFpgaWje2i1wWGcITz7NXkZ94nj7o2vfT/BEnMFzy1C6FTru2iU7soCZp3iibLvlXdOCElLuxtT3xSxeqOgNSWxkKQUWHXV29z9arJUc8FLp74V8RU1EYZcRtbYKcMttZNMaRlmbbXuPQS2i7kDgfv1B10WLewgY1KwjtrJ1TroQc/MYmD7lL6uhBvBHpy2toKmrWtuGNwhZaLTcHC2tdfOCyzp3tY2ZNCOO/dyY/fJdqFRNXlOXgrD24a0fyKqgeEETTNq2sctea3ELh8cTaBtR1To3otzYQ4gBrvAnsOP/8aC+JT/8WWurH/J9/RmUvj/kjwK8HUN5ZwppeyLsqRCoQO5m1UTqhRP90E=;piDbFI3vRkNNDgE7Lz31bw=="
 ---

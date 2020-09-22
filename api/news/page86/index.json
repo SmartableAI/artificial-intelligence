@@ -2,6 +2,430 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-07-17-the-poetic-process-powering-real-time-language-translation-in-namibia.md",
+      "title": "The poetic process powering real-time language translation in Namibia",
+      "excerpt": "If we can design applications that are able to translate what we’re saying in real time,” Nekoto says, “then that’s one step closer toward economic [development].” That’s one of the goals of the Masakhane project,",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/Image-from-iOS-16.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/",
+      "publishedDateTime": "2020-07-17T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-5-ways-self-driving-cars-could-make-our-world-and-our-lives-better.md",
+      "title": "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better",
+      "excerpt": "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/",
+      "publishedDateTime": "2020-07-16T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-watch-ai-edit-my-skate-video.md",
+      "title": "Watch AI edit my skate video",
+      "excerpt": "It's hard to know what to do with 360 footage, but maybe AI can fix that problem. I took the Insta360 One R to the skate park and let it edit my footage for me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/watch-an-ai-edit-my-skate-video/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/RA2sMVZdETZv8DhmAcN8GDMCIuk=/2020/07/15/4cfa2ae2-d8d5-4ca3-8339-0b6ce21f048a/nic-insta360-v3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/watch-an-ai-edit-my-skate-video/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/watch-an-ai-edit-my-skate-video/",
+      "publishedDateTime": "2020-07-16T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-flippy-the-burger-cooking-robot-has-a-cousin-with-a-white-castle-gig.md",
+      "title": "Flippy, the burger-cooking robot, has a cousin with a White Castle gig",
+      "excerpt": "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/",
+      "cdnAmpWebUrl": "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/",
+      "publishedDateTime": "2020-07-16T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Star-News",
+        "domain": "pasadenastarnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-tag-aws-reinvent-2018.md",
+      "title": "Tag: AWS re:Invent 2018",
+      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics.md",
+      "title": "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics",
+      "excerpt": "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "publishedDateTime": "2020-07-16T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants.md",
+      "title": "Alexa and Google Assistant execs on future trends for AI assistants",
+      "excerpt": "Executives leading Alexa and Google Assistant teams say multimodal experiences and unsupervised learning are notable trends for AI assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/alexa-google-assistant.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "publishedDateTime": "2020-07-16T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-trump-daughter-ivanka-show-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
+      "title": "Trump, daughter Ivanka show support for Goya Foods, in possible violation of ethics rules",
+      "excerpt": "Watchdogs warned that Ivanka Trump’s support for Goya may violate rules. “You can’t use your official position to promote a private business,” said Noah Bookbinder, execut",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_151441.jpg?itok=NQ_Cedet&v=1594883689",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "publishedDateTime": "2020-07-16T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners.md",
+      "title": "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners",
+      "excerpt": "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-4-important-types-of-bias-to-tackle-when-building-ai-tools.md",
       "title": "4 Important Types Of Bias To Tackle When Building AI Tools",
       "excerpt": "With every passing day, it gets more challenging to mitigate the biases that are powering AI tools and systems. Now more than ever, awareness and consideration of these biases need to be brought to the forefront of all AI development and implementation.",
@@ -790,401 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-cognitive-services-platform-market.md",
-      "title": "Cognitive Services Platform Market",
-      "excerpt": "The COVID-19 pandemic disruption is estimated to transform the Cognitive Services Platform Market in the years to come drastically, and its after-effects will be persistently seen in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2091693/cognitive-services-platform-market-2023-technology-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T716835005_g.jpg",
-          "width": 650,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
-      "publishedDateTime": "2020-07-16T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
-      "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
-      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T716884054_g.jpg",
-          "width": 539,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
-      "publishedDateTime": "2020-07-16T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
-      "title": "Why Diversity In AI Is So Important",
-      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
-      "publishedDateTime": "2020-07-16T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-white-castle-is-testing-a-burger-grilling-robot-named-flippy.md",
-      "title": "White Castle is testing a burger-grilling robot named Flippy",
-      "excerpt": "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
-      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
-      "publishedDateTime": "2020-07-16T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSMV",
-        "domain": "wsmv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
-      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
-      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
-      "publishedDateTime": "2020-07-16T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-big-backing-to-pair-doctors-with-ai-assist-technology.md",
-      "title": "Big backing to pair doctors with AI-assist technology",
-      "excerpt": "\"We believe Activ Surgical's platform and technology are poised to transform the surgical space by enabling existing surgical systems and robots to visualize what surgeons can't and guide them, thus making surgeries safer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/big-backing-pair-doctors-ai-assist-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/15/6505f11f-3e03-4449-9f2a-ca3c437c9148/surgery.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/big-backing-pair-doctors-ai-assist-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/big-backing-pair-doctors-ai-assist-technology/",
-      "publishedDateTime": "2020-07-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-space-tech-used-to-build-improved-prosthetic-leg.md",
-      "title": "Space tech used to build improved prosthetic leg",
-      "excerpt": "A new prosthetic leg which uses small motors originally designed for robot arms on the International Space Station (ISS) offers a more natural gait and quieter operation than existing prosthetics, scientists have said. The streamlined design offers a free ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/07/space-tech-used-to-build-improved-prosthetic-leg/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/13406/leg2amputee_stride.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132393763660000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-banking-analytics-helping-banking-financial-services-and-insurance-firms-build-a-robust-risk-culture-quantzig.md",
-      "title": "Banking Analytics: Helping Banking, Financial Services and Insurance Firms Build a Robust Risk Culture | Quantzig",
-      "excerpt": "Quantzig’s comprehensive suite of banking analytics solutions provide an edge by empowering businesses with- A roadmap to strengthen the risk culture and drive improvements across all segments Innovative end-to-end solutions that offer comprehensive insights to drive growth Insights on improving end-to-end processes by embedding analytics into the decision-making processes Advanced methodologies that help drive transformations in the banking and financial services industry Quantzig’s comprehensive suite of banking data analytics solutions provides an edge by empowering banking and financial services companies with advanced solutions that leverage machine learning and NLP-based methodologies.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/d38cd1f8b0b04dea9a5827aea6d53613",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-wellness-platform.md",
-      "title": "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform",
-      "excerpt": "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr.com/press-release/817036",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR",
-        "domain": "pr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

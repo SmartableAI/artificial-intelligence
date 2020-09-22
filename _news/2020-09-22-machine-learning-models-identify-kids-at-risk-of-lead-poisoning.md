@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Machine Learning Index Identifies Patients at High Risk of COVID-19"
-    excerpt: "A risk index leverages machine learning and big data to identify and alert people most at risk of exposure to COVID-19."
-    publishedDateTime: 2020-09-17T13:37:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-index-identifies-patients-at-high-risk-of-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "Acmhl+3CKjDyGmkE86QnAMgB1IFeVbLJwMsCNUv/ab7E63SHHd6dMf4om5rmtXt8sVm1ZiD9GNbrwDQtDKWskP6ea85uJS8/YOs7lA/vsQy+QjHQSuWESKoi902sSjPwS9Ehym291rnB9gK5cCjYEg8uOOpLcnCCu3ryoQhdaaSx/grb5UjaAtY3ixthYbV0E+dHqbjnjtUrgtVuTlOJj9yRNW/wu9DfL2n2FyLcZHOPJ1pq32Lqa/isA7e40pHoHQAMkTdQHggWRyQmhRJOkQw5umRs1p+/XQ2fR/FbAD2BqVFkgfWVatK74byXVxOC1fbSWgLNWsYup4Sn/H3dMgkqwPDDiKuKMrjwBYsFIPM=;QTNmwTPDQQpbn0MrXqDOZA=="
 ---
 

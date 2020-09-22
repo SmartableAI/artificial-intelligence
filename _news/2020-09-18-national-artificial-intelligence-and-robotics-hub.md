@@ -9,7 +9,7 @@ ampWebUrl: "https://www.today.ng/topic/national-artificial-intelligence-and-robo
 cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/topic/national-artificial-intelligence-and-robotics-hub/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63642f1d09c31654e76aaf%2F0x0.jpg"
         width: 1200
         height: 836
-        isCached: true
-  - title: "GMIS, the international summit on robotics, AI and advanced manufacturing is coming to Pittsburgh"
-    excerpt: "A first for Pittsburgh, the Global Manufacturing and Industrialization Summit will highlight robotics, AI and advanced manufacturing."
-    publishedDateTime: 2020-09-17T13:13:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/gmis-the-international-summit-on-robotics-ai-and-advanced-manufacturing-is-coming-to-pittsburgh/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 56
-    images:
-      - url: "https://nextpittsburgh.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-06-at-3.13.18-PM-e1570545879203.png"
-        width: 750
-        height: 394
         isCached: true
 
 secured: "beW1VTqIL6qQLfxijLt4HNpiKhznOWiLAgHwG9KoyTrw8dBsycxHl88Dd0nF7Uqr5u+Mci0uKSaroQdz5VmBtfEIDGdeusLQLqIPV2zqD1l/BTCFu9xXt3PLVCdiMOqytUA0QiXed3baC/BxZTTXf6Go/m+OqL4EwByYwsAV3MKucbR+1PLg0A0fvZFPUe8s2+PjV+oZPafD4ZYlOCCTgIxjSO3KgaOQG6MUj80Gm6XGVd4vtpuPtEzhXYYVM5/QdjLKXF5a4n7Uj2/bOSQ0ZSvPxKPmrFA9nzSKj+53v/hNN/Pw5kjj595HXG8StjslnWSdjYhFXseVkPSeArbL2W1gpQQulf8DvRJeRW6bBn/kpL9UjX7dO3GH758y7KNnnCxJ7onmAUVx7vyFeGm9hBkLYH12Ze6lb63qrEIpqowXOC5hhtJhfvxwb97VSP+x2T10dF40BTrmtKeBsTGBMKuIo03Kdj74kmsen5yzAVwHRVX0cMHOeo2E9ZGNuMZq+yKmUsyULT9hxXkK+uhvVA==;QVUu0rUtDHNLK1TG58BotQ=="

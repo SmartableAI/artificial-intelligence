@@ -33,7 +33,7 @@ related:
     provider:
       name: Gizmodo Australia
       domain: gizmodo.com.au
-    quality: 48
+    quality: 65
     images:
       - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2016/04/Killer-Robots.jpg"
         width: 1280

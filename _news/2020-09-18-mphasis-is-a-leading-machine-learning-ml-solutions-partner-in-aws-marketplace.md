@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-mach
 webUrl: "https://www.prnewswire.com/news-releases/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-301133749.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PR Newswire
@@ -24,6 +24,19 @@ images:
     width: 2700
     height: 1414
     isCached: true
+
+related:
+  - title: "Mphasis is a leading Machine Learning (ML) solutions partner in AWS Marketplace"
+    excerpt: "We’re proud to currently offer the most ML solutions for SageMaker in AWS Marketplace to help customers gain data-driven insights to achieve greater agility in driving innovation,” said Nitin Rakesh, Chief Executive Officer & Executive Director ..."
+    publishedDateTime: 2020-09-22T07:05:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-120092200391_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-120092200391_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/mphasis-is-a-leading-machine-learning-ml-solutions-partner-in-aws-marketplace-120092200391_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 35
 
 secured: "SpKvu4j2a+38psO726ySoTe4uE6myY9fuoPnMHI88ymOPpfrDwPhTDXjI+esSNaVnpuOnPDPWpi7sKajY7qA4NNmC0h9GPH+/siLmcSRK8v34uL4AwtXthUbz5CNEfCBQvf8HxgSNGKixFr0c4WmAI/iuhgDU0nk4DBm1O6uXbVUsNJyuNQmOlkPdbn7czHShX5s8aOh/UUBMl6Joxqo7U130cGFmlGxeDq6Jg9DBn36KUbnitk49Wf1L0znqWq1VcOPNwXElmaFTxpWbhVb1M13wqtUp5J4JigYjc8TFWK/0Ec+tu9hP1YkCxQHUi9NJ7mg7BO7Inc2399eDIbTubMbOKjq5J+xt2SPm3kZb1g=;ydGt1EkQp5vUKOBg18M9Ug=="
 ---

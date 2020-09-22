@@ -8,9 +8,9 @@ webUrl: "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-pr
 ampWebUrl: "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/amp/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
   name: Gizmodo Australia
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2016/04/Killer-Robots.jpg"

@@ -225,6 +225,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-19T20:59:00Z
@@ -234,6 +248,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2020-to-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
