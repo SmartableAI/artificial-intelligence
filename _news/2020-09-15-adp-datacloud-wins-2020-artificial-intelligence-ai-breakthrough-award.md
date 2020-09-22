@@ -1,45 +1,26 @@
 ---
 category: news
 title: "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award"
-excerpt: "The mission of the AI Breakthrough Awards is to honor excellence and recognize the innovation, hard work and success in a range of AI and machine learning related categories, including AI platforms, Deep Learning,"
-publishedDateTime: 2020-09-15T13:34:00Z
-originalUrl: "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15"
-webUrl: "https://www.nasdaq.com/press-release/adpr-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-2020-09-15"
+excerpt: "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for"
+publishedDateTime: 2020-09-15T12:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
+webUrl: "https://www.prnewswire.com/news-releases/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-301130634.html"
 type: article
-quality: 63
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "ADP® DataCloud Wins 2020 Artificial Intelligence (AI) Breakthrough Award"
-    excerpt: "Recognized as a leading company in the global AI market today, ADP was selected as a winner in the 2020 AI Breakthrough Awards for its innovative workforce analytics solution, ADP® DataCloud. Named as winner for the \"Best AI-based Solution for Data Sciences\" category,"
-    publishedDateTime: 2020-09-19T00:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adp-datacloud-wins-2020-artificial-intelligence-ai-breakthrough-award-1029590053"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-  - title: "PROS Recognized for Artificial Intelligence Innovation in SalesTech with 2020 AI Breakthrough Award"
-    excerpt: "Digital transformation is driving a massive shift in how businesses engage customers, sell products and services, and create a better buyer experiences, and AI is perhaps the most promising new technology in this shift,"
-    publishedDateTime: 2020-09-17T14:36:00Z
-    webUrl: "https://www.nasdaq.com/press-release/pros-recognized-for-artificial-intelligence-innovation-in-salestech-with-2020-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
+images:
+  - url: "https://mma.prnewswire.com/media/1273754/AI_Breakthrough_Awards_2020_ADP.jpg?p=facebook"
+    width: 1004
+    height: 526
+    isCached: true
 
-secured: "/HWrQ9fU8ZrxqCBx0R9r5y/IZvcVnnYR1192Yv9GHe54DUQeaFIIAPRpGG4pqZyYLYQatdyeJvNJt8P2UqPdkoZnu+l1I1Ss9pM07JnrYsoi2EeLU2X1dHv8bfNbWiggLsPH0uZKR7C1u4UVpohgdlOBfPTQypXHyJm5PDPNa8wQOshEp5vIxfMIgWACD5brLIlgz1VYsKBbiwHZk1WyjJURn3hLgR0lN85BnjUKFkCJAlSaCmpBa8vBh5iLe7ett/MLb36+KKbe0YEZDU+jtLIFPwjzM44GdSyn8Yyy5WOnzxqc8rXeuQdrtzdYo+YXCZ8pY0/HS9+uBv0IYaXsYJOP3abb6BlhEuLVOi1k+xQ=;mb4I0kUfbYoxUFjeQLE59w=="
+secured: "iMNKyaaW8ON4y9giA+Q0Kuf65Kjx18UJ7GLjJ43b1NfMtW+nr78LJiqYaIClWolT6vKl7cl14/zQYa957VkcScbmlzi3AFkDb4XvVuVGOjKUcQsHTigNmskhOyQWQM0T0r3N8S0MV4vMA3e5j5sZJJN6G+b7PSjC3SJSnOXciI3FDn94SnHgtYSvARjM1w16NrsX0F7LAUOhHuR1HAuTz/AWhRixL0Pk0X6ZEktdQXWolQ4UHXVSvfm2qXt4lMCSfT1WNrxhMX+Twcb4CuVFUzcG2IgnOeE+S1n456tV3HyN4u5FyvxxEef+MITrxjY4EG0NxM/1YOTQHD/I9TuGuWgRYV9tffqVLRJ5jaqA4Ww=;5mQNtF/InAlFgMY0R4CYZA=="
 ---
 

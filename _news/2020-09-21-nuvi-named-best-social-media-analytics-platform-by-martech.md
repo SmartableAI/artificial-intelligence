@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Nuvi Named Best Social Media Analytics Platform by MarTech"
-excerpt: "Nuvi, the leading enterprise Social Customer Experience (CX) platform, has been recognized as the Best Social Media Analytics"
-publishedDateTime: 2020-09-21T12:13:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nuvi-named-best-social-media-analytics-platform-by-martech-301134618.html"
-webUrl: "https://www.prnewswire.com/news-releases/nuvi-named-best-social-media-analytics-platform-by-martech-301134618.html"
+excerpt: "Nuvi, the leading enterprise Social Customer Experience (CX) platform, has been recognized as the Best Social Media Analytics Platform, according to the 2020"
+publishedDateTime: 2020-09-21T12:51:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuvi-named-best-social-media-analytics-platform-by-martech/article_16d2cb5d-5934-5594-acca-d80c4b7b3d1e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuvi-named-best-social-media-analytics-platform-by-martech/article_16d2cb5d-5934-5594-acca-d80c4b7b3d1e.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1277969/Nuvi.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/64/c64213de-9a66-5295-a3a3-055eb04f13fc/5f689d1aa9a84.image.jpg?resize=400%2C267"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "hTVK8zyEDS0ZrsXWtC7evOz1PNV1/8q/BdX37ucV/3bPfWK4m3BodJ+KHahiYPSyoRVTAJuqxzawNl9R3kzPGb8+FZD4oSbfZvDWt8lixtbyEWxJcs/tRaVM+8Ot8H7nMqaMEUjwEUxCkBL8nGhW8Fktth9I+etUzMpItSekwmwf7mx0PI6cxz1AZjO8A1Ose1UrAB99Rk9wtmbo+kf1M1udlLdBcY3PpM1DGf2PYmXX3mJ0hdFtOgp5ULQQtOtVFcUH+IBP499WJqF69k/cX/kHjzF1oZw2MSE9CT/qLM9Hl5WsMbEK/1H48uBy4i5pQk6mnoQ8oWf+qo8RmGCicw6HPOPufc4q7Oib/K9VHXk=;P3A+tl5VwRgA37gxT4lBZg=="
+secured: "F4ma0D7VF3pvX3C5Q41cVmyYTNRv1M+uGA9V+yaUJfPGRuerYwAlUHj9wglhMuhhHdtYBR0iOPCyj4cUSMmNVmFsySFd5qT0DaaepyT0tihvNqCNXpcXeJeE8oCHZrm2N/VgfXv3uRWDyJRkM3T12xSEzeAWpUbGEwx3nbWQoQ3h31N5hKbZGLX0sXjJ1qAsFiX+vzh3RmxWijzXwhT6eNEkMlDSSvENegdUWyoWIiAuNi9iYKhLI3WljT+K1UeHHccWXWcUvUINVlGWDDQGh8svfKFU3dkKxJdgm9hoZC7i4lHiSzG2KK6WhkyjJ+sICt/5ue4ORAUkoy69cDuEUxzbJxgmaVyUBlFAM8f9VyA=;2GZwfuF9kNEeK1A2vIEgtQ=="
 ---
 

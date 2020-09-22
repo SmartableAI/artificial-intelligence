@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-excerpt: "“Unifying Data Pipelines, Business Analytics and Machine Learning with Apache Spark ... environments from Hadoop to Microsoft Azure Databricks. “AMN has realized significant cost savings ..."
-publishedDateTime: 2020-08-31T14:39:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
-webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
+excerpt: "Unifying Data Pipelines, Business Analytics and Machine Learning with Apache Spark ... production environments from Hadoop to Microsoft Azure Databricks. “AMN has realized significant ..."
+publishedDateTime: 2020-08-31T16:18:00Z
+originalUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
+webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
-secured: "ubbj0F61AENnbAV/2hLJbEUASjZK2qe080lZDTQ8W8Pfcg2+cM1+EoDb/XQ1aYykf41EyNqOujaUzIPLcxOSGC9J7Am7WI+Uma8tNGmRJee6BfJSYs+9vOLlHbpspFpiiPnhL2sBx4G7rZ8/Oe5gF0f9Rfh1NuPIBp9iRvmnJlh+3NDsD1Uuc6t+2R0upo8JZEB/Qs768iM2r/bWS8MDvZLCDuds+8NkoqJ9gYLGOhSgIfNmLI1FNi94RHlIGEKlY7xpkHXzn+nPf25ajPijbvrtHfkHyqVtnUWqquDe9MU5b6mTODE5eavqUNA1iqb1JL4Hd8au4okkSF4AoTilKtX0inBalzZrso9ycCbdCIg=;YF/7A0hpb6HT5nbSLvCxZA=="
+secured: "sOFkoWQoDUlIuG6dBG/9jOUqaZUzaeMDln4mmYVtRv8RldGHr9VKmiOLX8JtjkDt0D7fPrlBTxpkujwRFUWwdtk1Pt/sEls0mQz7R00jZd0NCJl1Cj1yNPbbkpEaUbceGX9pyvN2yIBAMwot9hyr4aWSSAuEpRvxHFVu+0/GyUcyD3V/Ojuf0O1/4vblc9Wbd6M2NSCC0S7vfyXA542Cr1ENiFppayqOqWUos5Lb+O7JFAL1KrXaV10zrYlPmZsvrF4c3ha+a24Makuau1igDEMJphfK57hdEsorGBFiVIL4loW3qai2b/JCJ4v1J5X6eMGXlUc8MzkX55FoykpuTmBukzg8+oX5YP/kRtYIoCY=;28q6RLdud2WbHfkNwJDXRw=="
 ---
 

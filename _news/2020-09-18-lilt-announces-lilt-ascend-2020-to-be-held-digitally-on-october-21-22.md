@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascen
 webUrl: "https://www.prnewswire.com/news-releases/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-301133832.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lilt Announces Lilt Ascend 2020 To Be Held Digitally On October 21-22"
+    excerpt: "What: AI-powered enterprise translation services and software company Lilt will host its annual conference to explore the challenges surrounding \"Localizing at Scale in an Increas"
+    publishedDateTime: 2020-09-21T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lilt-announces-lilt-ascend-2020-to-be-held-digitally-on-october-21-22-2020-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lilt Announces Lilt Ascend 2020, A Digital Conference on October 21-22"
     excerpt: "Lilt will host its annual conference to explore the challenges surrounding “Localizing at Scale in an Increasingly Digital World”."
     publishedDateTime: 2020-09-18T17:00:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Greenwich-based Oak HC/FT invests in health care IT startup"
-excerpt: "Oak HC/FT’s latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
-publishedDateTime: 2020-09-21T21:13:00Z
-originalUrl: "https://www.sfchronicle.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
-webUrl: "https://www.sfchronicle.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
+excerpt: "Oak HC/FT's latest investment is part of $100 million-plus funding for a Columbus-based company that provides artificial intelligence-based services to the health care industry."
+publishedDateTime: 2020-09-21T18:23:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/Greenwich-based-Oak-HC-FT-invests-in-health-care-15584373.php"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 301
         isCached: true
 
-secured: "RLJ0mLHUI9alqF3IzqzHyl6GrRlA+UPthGklygGYyjhupvy7QW+X4c9KtcM2+xeS7pvM8H1wOauc+NrXxMRtsOCgLIJttYiuVl9hCD2KFaUzN5DcrUxXlhN4fUE19pC1asfGwAXZuDvYIq4LQnE7kNV+VcGl1N8mLfWvJNIMHlDt3CM1onPr4qZiVk5JdEMJPcc4ByQ1bCs26D5vJWfcIqa2GYtPf+sm0sKBSM24W+4DLmyIYGYFiMZHjHmOLQUqFexWyeGkoXFAPSR1pm9HpkBjLGQR6Q1Uy6irnAFbuHgr3UkzACZqGYXM8CSbg3HH7sBj0/pllNjFMWf2nnkvGwJaE1I2NrbT/cYAB59aEC3yTDEHepELVZY5hKG9BeNrPhTvn4qwpyg7wemEL9sLiHvhodKaUp/1qPrc73EuyQglTihrITrf1b+XrdqyTTWzTZTePikcAzsjjqUvGlQOXFepcTnPRpBRY3E97UsyxAXGVjJ3C+sRP6KpNO/L5GWprM29ew3NQCxLQOCWmQjGeA==;gBySjds0iGoAbfhW0ernxA=="
+secured: "sxkBlvUUtz9qWXJu4MDkDjLyc/tIdbI0or9TSdn8gOJKuccwA5V5OvSZiEh43VEpUc0GRS4laAPDGE1uIkureLT4SQ3JNURcbpFUM2IiYkeXNheKSL4nEfn352bxSYtH1xxWd17LLr3Xku9Q22sIF7s2hDTzkF720KCdSGsBLkBOnNmyvSq6+ZzOFX/phD0xP8FVC+okQG/Ob6Xez1mlVm7nCcGgrKyvABJjZqsAz7uXY5i9HKKVX3nnr4OSUBK1u9c6dzxH/JjJ256xwVmNDr79dhTs8tukHO1goqlQfo6kuKO6qlvhpJB/u2v6YeL9pGN1CSvX2AnKTRBNA8dRwR/2LQZMMT5bLcGg9KJIT6U=;r3Q+JOuYhSfBVrW7I7nePw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Despite Denials, LAPD Reportedly Used Facial Recognition Nearly 30,000 Times Since 2009"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday. The LAPD doesn't have its own face ..."
+    publishedDateTime: 2020-09-22T01:18:00Z
+    webUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 51
+    images:
+      - url: "https://media.nbclosangeles.com/2020/09/GettyImages-174932708.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fujitsu flags efforts to tackle facial recognition fraud"
     excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
     publishedDateTime: 2020-09-18T13:12:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/4/3/8/35438_inndex_106783_crop.jpg"
         width: 2000
         height: 1338
+        isCached: true
+  - title: "Bill introduced in Council to ban facial recognition technology"
+    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
+    publishedDateTime: 2020-09-22T01:27:00Z
+    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Baltimore Brew
+      domain: baltimorebrew.com
+    quality: 39
+    images:
+      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LAPD Relies on Facial Recognition Software in 30,000 Cases, Despite Denials"
     excerpt: "Los Angeles police officers have run facial recognition software nearly 30,000 times in the last 11 years to help track down suspects, despite concerns about its reliability, especially when identifying people of color,"
@@ -109,6 +139,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "yP34DRzl995BuP24Zj0U4LLKGDN17HFOczhYP4BQFaJXcVnuKULGCxqOy9KuWLwkr9gZGSvJqHWjIgbq5f38A5MkyfZt6dFRAdPXld9MKUv7kc7ogro856srbhF/xoK8NPDhKlaUr/jjgx/wxrdQMP/Gi4PHkdrzXR528QiqVV2yeUABEHLhamjkvg95zKE9lSbdXvJ/ZG5VdluU/J6gYogi/5vpy7dasOsZd8t79cz7C2NNQudHawJhjfQc/OnFLa6gp0tgRbfnCn6yzO7NhApxyh3ytfHam7vcDNSRIyfhqwwyT1V/nUsn5arEXSJilEax/yz6Agy+YkbL/O0+oNlb5JP3pLsMYChrmpkiPSU=;9OClFq/CCfta2+PmMtHlzg=="
+secured: "MOGxolw9fuf5B8ul8azSQ9jYUdZcY2EbNPhviUYXb2Lkg+aybyNJPJbwwrBzWLKMchRSn6zrRJmh2P87T/BNjKRasVH9g5T8asUpxOOlAOfMgjWnCRB2s8ebgqzkCkI7AebIs0XHEfWs50/2SqC4NktPxNZYCaCu9V9o74Y9yHm0ly0aQWGndWAwbGh8Q3BbNgpWZiMJtywfOUWTcrfhEpWJetR2xWSPWbs+FcY5jEPl3PO9gpPSzzTQjuqTMikemPvH/2fMIZzwT+PDoZJWFFUD9srwdxbh9Ij6/inffZJrHWka/MTeVDQdropG8N0dRNDnp2cTklUdnqW7fgOUPr15lFBf+red858ZDTh4ZD7yGJJ1tGNkyC/QmUdDkrO6GO+xceZfGzqI7u9WX+ryusErRO6/DY+c/H4j9rPLexGJ1IfhUvSjsvesIV5ayddWVf0ETAe58qGKN4V1I5ulrRAGsfNQRmGIiNVJZUUPR4AmJ+QQ+QG31kSFEyFjgtcXDuWvPJRPyEZB+wEj3D4QVg==;lGMmqB3JhDFCPR2bDr9LWQ=="
 ---
 

@@ -1,0 +1,60 @@
+---
+category: news
+title: "Accelerate digital transformation with 5G, cloud, and AI"
+excerpt: "Underpinning this is 5G, cloud, and AI, which represent where the rubber hits the road in building the adaptability and responsiveness future enterprises need. These technologies will help organizations compete in a digitally transformed world that will ..."
+publishedDateTime: 2020-09-21T19:42:00Z
+originalUrl: "https://www.cio.com/article/3575995/accelerate-digital-transformation-with-5g-cloud-and-ai.html"
+webUrl: "https://www.cio.com/article/3575995/accelerate-digital-transformation-with-5g-cloud-and-ai.html"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: CIO
+  domain: cio.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.idgesg.net/images/article/2020/09/huawei-article-6-image-100858362-large.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Powering up the transition to a new energy world - E.ON, AI and digitalisation"
+    excerpt: "There’s a bold statement of intent on the homepage of the E.ON corporate website: We are going to be the energy company that supplies energy for the digital age. In pursuit of that ambition, the energy giant has embarked on a number of digital transformation initiatives in recent years,"
+    publishedDateTime: 2020-09-17T12:06:00Z
+    webUrl: "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation"
+    ampWebUrl: "https://diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/powering-transition-new-energy-world-eon-ai-and-digitalisation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 53
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-06/EON.jpg"
+        width: 466
+        height: 335
+        isCached: true
+  - title: "Computer Vision In Field Service: Empowering And Enabling Technicians"
+    excerpt: "Even before COVID-19 disrupted the world, the introduction of Computer Vision into field service had begun to transform the industry. Seasoned Baby Boomer field service technicians are rapidly approaching retirement, causing a generational gap. When these ..."
+    publishedDateTime: 2020-09-17T21:19:00Z
+    webUrl: "https://www.fieldtechnologiesonline.com/doc/computer-vision-in-field-service-empowering-and-enabling-technicians-0001"
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 39
+    images:
+      - url: "https://vertassets.blob.core.windows.net/image/27ca355d/27ca355d-3998-437a-aa8a-74fd03a40b46/tablet_pic.jpg"
+        width: 450
+        height: 300
+        isCached: true
+
+secured: "rsahL4A8RDvJGZf1S2FzyiVhVOCheI2EetE7B6VC5scLupj1GLiHGa6jUav9+RmGh6wtHBGEhRkPPr7vZQ3WFyU1lsAqpgGlz9G/cRtKfIlGbltrZefQSZE6Z+r6guBayQbQsEtS9bmkuon8NsBIKfh3e+nI9/5pJs0RUuWByE83pLikBOBzfwJQDvObxy1dD5sWtEPl3gzHCqJkheB9DVfmQECV4FWatTgBwES1LeQcuynHL+wz4U2/N7ABEc5GGqqfsZyVTo/dkeTBNmahGiQ0wDxmZHFyw6+XLLwV0e0HKPciPqRPVEhnnyOWIPWUklWOcTN9zLbJpDWV8HuEydtiahjU1lz+KkG6lOeh6hg=;IhojXMvKYeOpw0/RoPeu4w=="
+---
+

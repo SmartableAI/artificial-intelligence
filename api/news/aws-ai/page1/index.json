@@ -10,7 +10,7 @@
       "originalUrl": "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
-        "AWS AI"
+        "AWS AI",
+        "Google AI"
       ]
     },
     {
@@ -789,19 +790,19 @@
     {
       "path": "_news/2020-09-09-aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season.md",
       "title": "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and the National Football League (NFL) announced they will debut six",
+      "excerpt": "The NFL has used AWS compute technology for its Next Gen Stats platform since 2015, and began using AWS machine learning services to enhance Next Gen Stats in 2017. These stats help teams, players, broadcasters,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
+      "webUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
+      "originalUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/americanpress.com/content/tncms/custom/image/69cd1fbe-135c-11e8-9a25-570f3458ec8f.jpg",
+          "width": 600,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -810,21 +811,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T06:38:00-07:00",
+      "publishedDateTime": "2020-09-09T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "American Press",
+        "domain": "americanpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

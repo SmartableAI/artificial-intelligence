@@ -41,6 +41,20 @@ related:
         width: 466
         height: 335
         isCached: true
+  - title: "Accelerate digital transformation with 5G, cloud, and AI"
+    excerpt: "Underpinning this is 5G, cloud, and AI, which represent where the rubber hits the road in building the adaptability and responsiveness future enterprises need. These technologies will help organizations compete in a digitally transformed world that will ..."
+    publishedDateTime: 2020-09-21T19:42:00Z
+    webUrl: "https://www.cio.com/article/3575995/accelerate-digital-transformation-with-5g-cloud-and-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/huawei-article-6-image-100858362-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "fJRe60Sb8gQxP3n8mueebnMHgeuWZSowxRtxB+nvoSjiG18xSFg63e3Sb3UaHxsFkOkdBt3dltXLEo2QYlNYfr/qVzIQdbEGL01/Jn+9c1uTrBJFahYUL84nqk4xP88zH8Iib/iXcEtxpk4ekefP+r2ApbSHBhcqAbERBdUTLUCYMgWVl6iswQrQyzWYDpm5kCgSucEGzMvc26t/oUWARjh6mEY6bgF4KE11ssNoQGs6oAoMikWi/JWdnxxMAolCXal/cQjjeTO6vf0fwfPAEcoe1p5w0yM08THVinKa6K58aYK8pv8SltwUnckHWSkUDyufBwDFYKjN52JWBJTy3c3tdDmtRabowU5vZtA8FSM=;/AMGaf+l7vSDMZ/g53KT8w=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-
 ampWebUrl: "https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.amp.html"
 type: article
-quality: 108
-heat: 108
+quality: 110
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_man_graphic_interface_data_by_art24hr_gettyimages_1157378096-100817765-large.jpg"

@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T15:15:00Z
 originalUrl: "https://nationalinterest.org/blog/reboot/can-robots-write-articles-closer-look-software-generated-writing-169276"
 webUrl: "https://nationalinterest.org/blog/reboot/can-robots-write-articles-closer-look-software-generated-writing-169276"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/2020-02-19T160208Z_2128848235_RC2S3F9RZBT3_RTRMADP_3_EU-TECH.JPG_1.jpg"
