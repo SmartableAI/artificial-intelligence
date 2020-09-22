@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -47,7 +47,18 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
+    excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
+    publishedDateTime: 2020-09-22T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
+    ampWebUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
 
-secured: "nzenfEeMrnQB6LWoH3iKEpgQQuLvSbt17DcWay3XruupvyCvJb2WOvv6kAuyVLYlVfKetIOxRjVkzB/cJ23HoS0lZXhHaaVl8xu4qg9VNfNDp1qnhJFSF2BB6lrkxMfJWCRXyeUqTgdQj96x9NxVvcAoObWIUmUGVfFETISR05Rbmd6J9IqApdSsgVyCZKbfjEedBUwHCYdLXycaWjP4UELGq8l6lSVh8N11/fTGw9JTuqld2eYTsAlri/dVKAiqa1VVx+vIYZVWBBgwD21GklbyBn+dDgZ5slehISGWNZ77WYZiTvLv6lCbih4RptBElSnEVoXY3dAC2E4sElqkHJ9yieRwXCydeIJTaAqh9Xc=;Y4Z96uWz1Jcw90Rsnw1gHw=="
+secured: "lKmKEj7d79qARUxi0eJzNjPP2pCqVLPktekerQr0PZYULrP+8bZ4IDhgmonibBSm/WwZdvNBJsnV2/Yvko4+351iyx+SUgr2Bp6v/HupMgJZRmxcsT4g0xsSRXP21iwG5RjyXPq1EV1NM5zE62AyuHLjDZZ/MqpU30FbylNbzRUHrdgocTS/kQWs9jxwlC0DKZKTy0FMAIgK0/kvqIwz3y1HUVYNjs6TWhb6a7/6HzpeGuT9O8IlPFw6Ae5SZtEwiQmByz+CZxH5OnNPwWzlDrmDzLeUteX06FG92Ic9wtPGlN2s4P1mcD59DfCGWjwnwVMW7OC301J8lGuMyjU1cJo8yR4Y2IXj+k/C8udQENbm7Fk/ouH6YzWg5UliIG+L/DvOCIVbmofvA5s1Kej6R2p65sB4g7iT6YNSjFCyTMFERdPdvaeevuYyD2DiKuoc3hik16p0FVzN3MmIvyC5nGgk2W+1Z07ErTr4ukHBHcsNHhLAggSjUN42snFN4ayuuGIkFtg85vTnvPGw2BXwBg==;q2P5573Kg5vG5X8V8GQzBg=="
 ---
 

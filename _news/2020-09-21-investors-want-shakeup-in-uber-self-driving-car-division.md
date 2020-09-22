@@ -51,20 +51,6 @@ related:
         width: 5300
         height: 3535
         isCached: true
-  - title: "Self-driving cars are closer to becoming reality"
-    excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
-    publishedDateTime: 2020-09-18T01:37:00Z
-    webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 24
-    images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
     publishedDateTime: 2020-09-21T20:27:00Z

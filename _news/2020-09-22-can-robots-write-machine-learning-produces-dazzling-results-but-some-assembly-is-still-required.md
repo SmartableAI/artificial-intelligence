@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/amp/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Gizmodo Australia
@@ -27,19 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Can robots write? Machine learning produces dazzling results, but some assembly is still required"
-    excerpt: "Text generators like GPT-3 can produce remarkably convincing writing, but they can't do away with human supervision just yet."
-    publishedDateTime: 2020-09-18T02:20:00Z
-    webUrl: "https://theconversation.com/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required-146090"
-    ampWebUrl: "https://theconversation.com/amp/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required-146090"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required-146090"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
 
 secured: "CyuPWSkQYnG68jnh4MrbXxEVOt2DEyCSmAgFKkDvaq/iyfG4RCiiX7HY0VKhuJNGxlZi0Cqhcr4rQqin1eyMEZqubEwAtrz1ibR5FgmW86nlP19DjU7HZXaPVSMSDCIc9/pQGFHclbSyJLuMVVxZWBdUZlrZh2Ery7YutUX1jEVwzug2xHYidTXqEo8aGUewMJKOeuqoUVAACHWasniAtTGw+JhhRY3V6hZquM3m0Y1Lx/XfaSXQGBgmpcQBM0BRUy3MxfbdhZKhRNLCth/sNreLcJoTER/9HSqG5oC1umUGGf0OguIcvwqiZ/KxVuAbxI0/IFZr66/B5QNCUGjaM3p3DODTFIXKwp1J2RgufeA=;j+JbCWaWa2ZyyZncvOmrOQ=="
 ---

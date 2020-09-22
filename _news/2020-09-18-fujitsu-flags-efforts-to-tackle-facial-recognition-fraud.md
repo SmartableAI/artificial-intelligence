@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mayor Peduto to sign legislation restricting facial recognition in Pittsburgh"
+    excerpt: "Pittsburgh Mayor Bill Peduto plans to sign legislation passed Tuesday by city council that restrict use of facial recognition software and predictive policing technology by police, a mayoral ..."
+    publishedDateTime: 2020-09-22T16:55:00Z
+    webUrl: "https://triblive.com/local/mayor-peduto-to-sign-legislation-restricting-facial-recognition-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 16
 
 secured: "V4cEaBA3OiJPjATQbC+bLbg/ShDnzAc2TzvNEpe5plMSyXxr9/xhBOUdTlKfq2Lizfra4lBHbL/XfPGEYi391F8FiB/FBxPcEG0g4hbbPVGdTZXT73S20fcdif173vqle0EMBZh6PFRzHpzH7Svmp80iILkk5HX/I8FoCC+vyJwRy+GtQLfqfaRkD9Su8Z7dIxOkQFtdxZHnmFvyhN2fZN7mtNLvrPKmuoqSeU25zD9lUnMi4deGnhLM2BGFH3MvR7+Ix8MUSkm2MWSjSGn6yuurAKU/Zocph7CgcEP1EdLXmuPWgTFbKPsWo0ON09VLqW/xFhmnVLT0Ec8xgOwuwO0Oew14lo9QUdR+hHN91Yg=;eRsJax7LXEwI+OFttoBqag=="
 ---

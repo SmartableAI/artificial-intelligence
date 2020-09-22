@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azu
 ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
-quality: 112
-heat: 122
+quality: 129
+heat: 159
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
@@ -33,10 +34,10 @@ images:
 related:
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "They can be used to handle analytics and to do AI processing locally on the devices. Microsoft also is announcing new Azure Arc capabilities at Ignite this week. Azure Arc-enabled servers, initially announced a year ago at Ignite, is now generally ..."
-    publishedDateTime: 2020-09-22T15:49:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    publishedDateTime: 2020-09-22T15:13:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?via=indexdotco"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
     type: article
     provider:
       name: ZDNet
@@ -47,7 +48,25 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
+    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
+    publishedDateTime: 2020-09-22T16:57:00Z
+    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
+  - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
+    excerpt: "Now in preview, Azure Orbital on-ramps your data directly into Azure, where it can immediately get processed with market-leading data analytics, geospatial tools, machine learning, and Azure AI services. \"Whether you choose to use Microsoft' or partner ..."
+    publishedDateTime: 2020-09-22T15:52:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-takes-on-aws-unveils-azure-orbital-to-enter-space-biz-news-topnews-ujwpOCfjjbaca.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
 
-secured: "nHPFz21TabWc+0sx7StS6vksGs3/lBOAnb/mHYOm5ecO+z/L0kz6ztsJUZmIi6AGYBrbT/igMnsCe1m8fhCMiVBRBp7ZtQ8RYM7cUxUpAsoSSPsEIyaprM64qkFHxfSVRJ9mlbW/cdADFHu0MdDz53JIckSE4Rsy69biQG12r026fPAejehK1UJX48etHRdWFeY7pfTq3tB7devAzB1f9NqrZi+tvN6IpiU4zucdwpa0mHokbhTpcfAv831ZhlNyqFNgjWWsD40JEnIGAKnFbKkPUM/qUYZC0EyrcUjK4QB1gNh21KQ/R8mb8MHcIQyCw9tf7xHX3GuURYYfZhJn74hQKyTJnrXXxQCnDVTCPbI=;Dod849NOMOCsI8qKmD5+Gg=="
+secured: "BRL+Oz60kzmEEXDmNo9Wk4XiKOyEd/fK1vEJ5LVEWWPtkowvWTVSM9Dw15HfMt5AhfYv58wprEECkwS2JNfzOtyvMIVq6RByjMz9cX8dkXwbexFcYcdqIQE6HfSIP41qawPl95T6XTBMtBsjBDMRjYjBElV6ki+3V8Igdj8/uRXfj3IH59WLIh3xyCXGGb6cGGwt7Pv2L71+s0bY6A2NUWh691ExmJr2alrytAi9YKJeHqqPecg9JW162BmfZZnhdzs9t9qGbgPra3+KQpw3tdTcbLdbfk6Uc2z9GMmvBiELeTJvzo4JGu2aDwoHzmE0QOBuCRGX9CkARhXEhtIGYC0sVcpkOvjz0+9y5f2T2RA8WxQVxPSRQ+LwBLr8sEXuUr97l0/wJiDzgRumQZ9FKIls7HWNNsGuFrCJjN9RwpGNjtunP5YKD/JQVdacUGcx1LKLEOxpU7RIqdwlYkMIPYVkYV2K8tc0ksgdQv/2jUmZOv+8VABx9qMA9pC4U+iPUCqwJX3QetR0CmQVeFttCg==;X/izy44DBx3iIWczpKwagg=="
 ---
 

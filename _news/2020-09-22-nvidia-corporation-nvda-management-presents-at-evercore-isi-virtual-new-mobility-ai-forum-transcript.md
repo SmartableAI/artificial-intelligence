@@ -30,6 +30,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "Ford Motor Company (F) Management Presents at Evercore ISI Virtual New Mobility & AI Forum Conference (Transcript)"
+    excerpt: "Ford Motor Company (NYSE:F) Evercore ISI Virtual New Mobility & AI Forum Conference September ... Sure. So let me start with LiDAR, because that's the most straightforward. It's really important ..."
+    publishedDateTime: 2020-09-22T17:55:00Z
+    webUrl: "https://seekingalpha.com/article/4375758-ford-motor-company-f-management-presents-evercore-isi-virtual-new-mobility-ai-forum"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "yZlMIpSk15tC61jzAX9DRBYl37S2Gubaf/V+v57d6RtinH+BFpK4sgUnc6vaPy8jUbifij2pXsSjh0OULpljJYz/zEny70ezYxhySe67Ea1eFUtc4UcyfAVUiqzzc4gWHK+YYQ5PHTr3FsO1j0e3OO3S/RhnhIaj8vEuzcwKajaY02ijo8XiHK2ZPgYIp/c2HHJj9YA+iFkLssfJwLXlcgpCBm1tOUS8/kkf11Cv4H6W3kkdnyivgQFddvTPtSpK+mNhto6on16Lk+PH9YYoudLVwL/AFTZqJb/nzhvJkM5IVtxxW/V+8jGJidnUKFFN/L3ewabypSYzVKEyI2r1l/8HmWCmCN2Z7oZc0/4lApg=;f3ZYL6Hev5rht8/jQp4DTA=="
 ---

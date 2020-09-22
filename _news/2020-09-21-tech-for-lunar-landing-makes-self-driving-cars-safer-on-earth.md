@@ -43,20 +43,6 @@ related:
         width: 5300
         height: 3535
         isCached: true
-  - title: "Self-driving cars are closer to becoming reality"
-    excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
-    publishedDateTime: 2020-09-18T01:37:00Z
-    webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 24
-    images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
     excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
     publishedDateTime: 2020-09-21T16:34:00Z

@@ -35,6 +35,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
+    excerpt: "22, 2020 /PRNewswire/ -- Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announced its ... Freeagent, Freshbooks, Microsoft Dynamics GP, and Sage, among others. The partnership will be ..."
+    publishedDateTime: 2020-09-22T17:55:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/mphasis-partners-with-fintech-platform-upswot-to-offer-marketing-insights-though-alternative-data-for-business-banking-9321369"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 0
 
 secured: "0k9pksAfkk46TnE76twR3KTJt4y86/xJrngWFldlPApsxC4dMgurfSPgMM3KnCnNajRZPndaWQ2w136JuuPDrmjs1BRof/aEoVXfVYw3sasMHzaIZPj3RZUT1nBSuGrI1GNim7Oi6wn9H898mEDqOJEmsr307nxgiaedke0xcOohYNkC3nbGtz5zy/STEs44eNd4/FiQgjtpcvPugw8pCRMqKkLj71T2haxFQk8t744LS1YFSYUCxEpWGtJAeDHNeVp6WGugD92iGTHDD1pZ4lrHyMQZpwUM5J2jf+sFHXKy2xGil5kbU5vbo7g641KR/+Laifk5WBmKqhxDtLBbRQ8oCtIjvGrBzaTdEt9JpbY=;PYZ6zrlSGv3+24GqqbMlvA=="
 ---

@@ -47,7 +47,18 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
+    excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
+    publishedDateTime: 2020-09-22T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
+    ampWebUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
 
-secured: "2mnQ2MNPFB1amnzTeuVM9Yr6mjzG3OasC5PAlKy4Mq0aizpsm5JkaKhjFWgFRtduQLmIlU7tkTUG8UWId/qvJhn+3oRtx1IBB1VXTBCDTWyXmJOzd4D+wSRHcpB2PUL1NTH5M0nYUEIvzZtf5i/fW76TwCNPj0uj/Fm99EkPyPD0Zm7eDuOEyuUYKd7ytcFkROdJpe4z4937QDIJGGY8MvklldROxkuOsPn47fam4unHuQpxIkdLHveiZTmUQNBlVzFWDVTqIIpM/x77nhW1jQOhSSIZ7RIWz9mCxIciw/S8Ik9anb8TyMUDuuyf+KUH7PIiRaSiVjQ5lLLc8j2I/raQXhIvnm7hP4MKeo1ABsE=;7UskZZ8Q+9xBCSAaRt43WQ=="
+secured: "ahLpvx6Wry7rwOIPWHHcRX8v8+4ysueoNgUHo1Lw1Wbbdvr13oN3eIwR5hFEK+Wx+HikhHhM1sSYvLmTS+TCgsaAaCdmgWubh0faoHkegphkFfagmZwGe+G4rCBU6mmdlEjEhfUsFdYi8BABQBe9I5hsYQhJHKR2SZy4rFdoDP4/QA0ErRBuYgnKsYOubfJC0ltOsVmesm8tMPCTONxSbnufMaNBbWs+sBfKFE2DCOJ0osoakFqLAlGT0RRnCF1Vev3SN0etFwAGVn6o93M3jFEaNK3YWpeLmdqr1FQFzhcRcTIyxgG74Qp4lh0kdRj4PVNT4lTsw7ATbaUJuLcT1U9HKNoOd6VYR22cFMwxQ6XYMmTIQvQrWCF2avW+VQRAUqLpkN/wDaSmebPZ+4e1ifoIu+BP9UN5eyfpy6Fx/WKNiPhddNDzuCnaIN+bWAf//0icSUUJMzK3nl6N5JBj4Cj8g2bKBDFY0IJGmWzhwkCghp0g1HeY/oUiB7VVWtDv+SCNfF9bKcdJd+KJMHgzWw==;dLZ8HB0ihuWYbc3BT/XsSw=="
 ---
 

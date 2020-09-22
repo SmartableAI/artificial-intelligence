@@ -21,15 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global AI in Computer Vision Market is expected to grow from USD 3,"
-    publishedDateTime: 2020-09-18T22:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-in-computer-vision-market-research-report-by-component-by-vertical-global-forecast-to-2025-cumulative-impact-of-covid-19-1029603995"
+  - title: "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ..."
+    publishedDateTime: 2020-09-22T16:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
+    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
+    publishedDateTime: 2020-09-18T11:18:00Z
+    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "lYQ3qulYWv2hGZD+2Y2P5+VNZi6qBtOrDrOlYyqQWhVsg7gxoP9+N/nGbymM2zzUyKlaBcMlJ6gYzlzPi8OPSXLHKWjdu44gV+a3RgwgNrKfbJ8JIsrhi+kqL1JbXVpieprOLMpClV4oemD59IKy06fi/8iLbRxzfaDDTowlw07SXyxZtySKnzZqmsmXsJs7cXVxxRtOayCNN3fSFrBrgyaVakYMD3Dge6xFw6IbttM+3fhIyO+htTVuS3tTwwp99lZGQ5vBA3EMn7pPQGIH+4NH8NJo2hSAXkgCAbXT1Ld5OnMvC1ZO3hqGzWTWar3dsPaDVjvJ+t0tGs4tK0fD5BPu+LN7AT6+tAwxzvm2+u8=;w22fJBKPEFlb40zPBQQlDg=="
 ---
