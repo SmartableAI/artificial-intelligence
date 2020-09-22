@@ -129,6 +129,17 @@ related:
         width: 583
         height: 300
         isCached: true
+  - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
+    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
+    publishedDateTime: 2020-09-22T02:21:00Z
+    webUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article245908335.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article245908335.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 36
   - title: "Controversial facial-recognition software used 30,000 times by LAPD in last decade, records show"
     excerpt: "The LAPD has used facial-recognition software nearly 30,000 times since 2009, with officers running suspect images against a mugshot database."
     publishedDateTime: 2020-09-21T17:24:00Z

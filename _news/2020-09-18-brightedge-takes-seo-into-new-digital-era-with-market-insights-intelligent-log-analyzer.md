@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brigh
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brightedge-takes-seo-into-new-digital-era-with-market-insights-intelligent-log-analyzer/article_2c1c01d9-ffd3-54d5-805c-e3644e862e9a.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "BrightEdge Takes SEO into New Digital Era with Market Insights & Intelligent Log Analyzer"
-    excerpt: "BrightEdge, the global leader in organic search and content performance, today released BrightEdge Market Insights and BrightEdge Intelligent Log Analyzer at its annual Share20 industry event to thousands of marketing professionals."
-    publishedDateTime: 2020-09-17T12:00:00Z
-    webUrl: "https://apnews.com/pr-newswire/ebb2f0d23cf7841660443da72221265e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Uv7yLphC7s+67STwtG861MB5lWz72WkYhqZRit9AX/mx9G7HmeBbG9jadx7EiUFGT4/zOy/UkUxP5achGjW613O73iPAhCA7LA5fpSuMEPiy45YP9jLZl3MrDfT16HW2rxzrmxPk+gIcpsPwW7f1GVHKPxHaxnfBbSmSsYPaNJ/KDr5CZ48gRbiKBljtOxE+V0EsWitM9CStBGuNqvNMcbg8N8QJWMw8cklDcwCjyTXW0Iw5SC+2+TII6h3qIJ01Kbq6bDIhPfxwl3zBrYvRgn6UU5eDj3AHjmrLUp8liitt/vFjNR01iDVu2eXTyDJjVfjFZT01KHK/GhR1nDera3KOxHk8/fyl+kyTBqGYbOE=;Ha3/kpBX3KIdh42168UgnA=="
 ---

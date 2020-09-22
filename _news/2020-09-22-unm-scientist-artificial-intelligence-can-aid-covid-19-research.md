@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-22T00:12:00Z
 originalUrl: "https://www.krqe.com/video/unm-scientist-artificial-intelligence-can-aid-covid-19-research/5871104/"
 webUrl: "https://www.krqe.com/video/unm-scientist-artificial-intelligence-can-aid-covid-19-research/5871104/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 secured: "Wil+wzrbKVFSd8i9+JdkwsbQYK+dEjiJMPjS0aApqyVYj4njSWjfSgrJVBHhfwaofVDiBkb59YWii8lJk0mq3KYE8gPFej1SmAWtd5XWJGmvouatDzFIGSM/2JJGBtIv+lKY6rBQXQaQcfIuJ7PCKWD71Ufa1JC8V3FnYeaytDAj+9qIDOw7uru0uNR3P2xXzDQ5Gdppu2nYzpOVnu5NdbgSbNB0WvMY02dn9JU18neHXhMMYy3hWIYlX7ZTFzfekH6D0MHH1g7Md4zHAj3PAwGkJiZSwmm96on+vIE0QkSCTP4d+zBffZsfx0KpH1w0if5UvCf2cXFAUME9blwq8CuagyZ7ZrR/viBoXvCpJNNmn8TPbEECODuhb7XCDt8+9cio93qGj8vFXesHheoOXkgJ28f9HL0qJZBSmC0i+5bvAdNMUjBk267N22QCSmnIu9+5yUNZi8nWq5MjzH2rxeGZfyvpq5NqgFHBbAFbKx8gzdQuT9o6IY3ZVGg+L6O/Hoja2Zz9rDUJCOgH+s7MBw==;hvCX/opIQUZg4hKAzq01Vw=="
 ---

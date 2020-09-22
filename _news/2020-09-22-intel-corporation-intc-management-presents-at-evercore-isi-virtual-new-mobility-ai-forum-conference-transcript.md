@@ -27,7 +27,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 3
+    quality: 5
 
 secured: "jjAdfNb2sCI9xzTAVzhdDtt3wMy+TtmbbXcafclTxugaUKheePGyT3MRykZ+Ha5VNfiz8Tj7Tj85mYr49SDF7pxuL9mm1t13f9piAGSYLdJkdLcVFd0OR3CgiZi1T7+M5tkgpEkw5TLZVohbQiAW7vgLijId4R8TSjf4DJgn5DyFQ6JLrYYwvxSqGRvPg5uic77SfKROhEi5dPMFVW2yX8yK7k0CuKwBO297kzQuwSqMCytYkt9gKzDwYq7qHjhDpjS/3kNeh9kCA4LRMCXVvik9hH2CUA4vKyCJT2pBTH5G7ZTWNCe+Gd/lbTt4/axBfSKmB9hu+MYz/ZUpZi4SIWH4+hQRovLhQx65A3v6LWU=;ZnuTA/sEtb4vLa8XLzuh0g=="
 ---

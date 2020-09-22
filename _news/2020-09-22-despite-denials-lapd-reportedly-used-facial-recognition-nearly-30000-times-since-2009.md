@@ -115,6 +115,17 @@ related:
         width: 583
         height: 300
         isCached: true
+  - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
+    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
+    publishedDateTime: 2020-09-22T02:21:00Z
+    webUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article245908335.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article245908335.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 36
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z

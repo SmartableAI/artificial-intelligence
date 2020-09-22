@@ -73,20 +73,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Bans on Facial Recognition Technology Spread Across U.S."
-    excerpt: "The decision earlier this month by the city of Portland, Or., to ban the use of biometric facial recognition by businesses and local police  is one of the strictest measures so far taken by U.S. jurisdictions to address spreading concerns about privacy."
-    publishedDateTime: 2020-09-17T11:32:00Z
-    webUrl: "https://thecrimereport.org/2020/09/17/bans-on-facial-recognition-technology-spread-across-u-s/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
-        isCached: true
   - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
     excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
     publishedDateTime: 2020-09-18T22:45:00Z

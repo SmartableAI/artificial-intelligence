@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T20:08:00Z
 originalUrl: "https://seekingalpha.com/article/4375553-nvidia-corporation-nvda-management-presents-evercore-isi-virtual-new-mobility-ai-forum"
 webUrl: "https://seekingalpha.com/article/4375553-nvidia-corporation-nvda-management-presents-evercore-isi-virtual-new-mobility-ai-forum"
 type: article
-quality: 3
-heat: 3
+quality: 5
+heat: 5
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 related:
   - title: "Intel Corporation (INTC) Management Presents at Evercore ISI Virtual New Mobility & AI Forum Conference (Transcript)"

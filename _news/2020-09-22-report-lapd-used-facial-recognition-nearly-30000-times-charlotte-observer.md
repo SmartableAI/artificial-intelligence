@@ -1,32 +1,42 @@
 ---
 category: news
-title: "LAPD used facial recognition software tied to wrongful arrests"
-excerpt: "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ..."
-publishedDateTime: 2020-09-21T22:36:00Z
-originalUrl: "https://mashable.com/article/lapd-facial-recognition-technology/"
-webUrl: "https://mashable.com/article/lapd-facial-recognition-technology/"
-ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
+title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
+excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
+publishedDateTime: 2020-09-22T02:21:00Z
+originalUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
+webUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
+ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article245908335.html"
+cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article245908335.html"
 type: article
-quality: 89
-heat: 179
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U="
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
+  - title: "LAPD used facial recognition software tied to wrongful arrests"
+    excerpt: "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ..."
+    publishedDateTime: 2020-09-21T22:36:00Z
+    webUrl: "https://mashable.com/article/lapd-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Detroit council expected to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
     publishedDateTime: 2020-09-21T20:58:00Z
@@ -115,17 +125,6 @@ related:
         width: 583
         height: 300
         isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
-    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
-    publishedDateTime: 2020-09-22T02:21:00Z
-    webUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article245908335.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article245908335.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 36
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z
@@ -150,6 +149,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "MOGxolw9fuf5B8ul8azSQ9jYUdZcY2EbNPhviUYXb2Lkg+aybyNJPJbwwrBzWLKMchRSn6zrRJmh2P87T/BNjKRasVH9g5T8asUpxOOlAOfMgjWnCRB2s8ebgqzkCkI7AebIs0XHEfWs50/2SqC4NktPxNZYCaCu9V9o74Y9yHm0ly0aQWGndWAwbGh8Q3BbNgpWZiMJtywfOUWTcrfhEpWJetR2xWSPWbs+FcY5jEPl3PO9gpPSzzTQjuqTMikemPvH/2fMIZzwT+PDoZJWFFUD9srwdxbh9Ij6/inffZJrHWka/MTeVDQdropG8N0dRNDnp2cTklUdnqW7fgOUPr15lFBf+red858ZDTh4ZD7yGJJ1tGNkyC/QmUdDkrO6GO+xceZfGzqI7u9WX+ryusErRO6/DY+c/H4j9rPLexGJ1IfhUvSjsvesIV5ayddWVf0ETAe58qGKN4V1I5ulrRAGsfNQRmGIiNVJZUUPR4AmJ+QQ+QG31kSFEyFjgtcXDuWvPJRPyEZB+wEj3D4QVg==;lGMmqB3JhDFCPR2bDr9LWQ=="
+secured: "qG7zs2/qyP3JZ7X3woCMGXizzZhsoGqdBAFK+/pqzIrjnVvYDiAM9TOUpQLc6CohBI9cxLw+GKUSCTkwjoXGXAleXYjpURBV5tBgM/AoKZeUS3zJMElFkH7i79zWO31HLYRA85fvruTuPHdur6ENRQ2gJ9ZqDStzNteCOF8Sdkxml6A/MPP/cDad6ZOGXwVmBSJHfFE/M0D1j1qByN/hNwzXRN2CYcyR526cBZ25ZUIZxBNWdJuQ9PrU7gQU7GNI3cbV8lhtcnuuHzDFt6j267cm83NfvMJiXydbq2JIh5nrbhA6lPD3zNcrHf2CAHP7rYOl+K3wiwLXZPy5uz5z5X9j1Tta+uxb6F7AsJuNMZE=;VMz0E4yudfO7XEp+uBX5Og=="
 ---
 
