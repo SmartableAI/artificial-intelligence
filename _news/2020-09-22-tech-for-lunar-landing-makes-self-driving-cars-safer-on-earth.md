@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
+    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
+    publishedDateTime: 2020-09-21T13:59:00Z
+    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
+    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 38
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
+        width: 5300
+        height: 3535
+        isCached: true
+  - title: "Self-driving cars are closer to becoming reality"
+    excerpt: "The technology to make it happen may already be in your car. “Instead of using rearview mirrors we’re using backup cameras, things like that,” said WalletHub"
+    publishedDateTime: 2020-09-18T01:37:00Z
+    webUrl: "https://keyt.com/news/national-world/2020/09/17/self-driving-cars-are-closer-to-becoming-reality/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 24
+    images:
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-us-world.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
     excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
     publishedDateTime: 2020-09-21T16:34:00Z

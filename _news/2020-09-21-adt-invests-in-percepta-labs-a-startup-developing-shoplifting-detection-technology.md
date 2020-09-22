@@ -28,9 +28,9 @@ related:
       domain: businessinsider.com
     quality: 47
   - title: "ADT Invests in Percepta Labs, “Ethical AI” Security Technology Startup"
-    excerpt: "ADT Commercial will work directly with Percepta to further test and develop the application of Percepta’s proprietary, socially responsible AI technology in commercial environments and ..."
-    publishedDateTime: 2020-09-21T22:23:00Z
-    webUrl: "https://omaha.com/business/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
+    excerpt: "and risk consulting services in the U.S., and through its investment will fund the commercialization and application of the startup’s cutting-edge AI technology to help detect and deter shoplifting."
+    publishedDateTime: 2020-09-21T21:49:00Z
+    webUrl: "https://omaha.com/business/consumer/adt-invests-in-percepta-labs-ethical-ai-security-technology-startup/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
     type: article
     provider:
       name: Omaha.com

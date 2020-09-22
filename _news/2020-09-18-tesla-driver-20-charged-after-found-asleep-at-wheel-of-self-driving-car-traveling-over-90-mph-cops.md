@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
 type: article
 quality: 74
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Tesla driver caught asleep behind wheel of self-driving car going 93mph"
-    excerpt: "Police - who spotted both front seats fully reclined - say the autopilot feature \"still comes with the responsibility of driving\"."
-    publishedDateTime: 2020-09-17T21:27:00Z
-    webUrl: "https://news.sky.com/story/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    ampWebUrl: "https://news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/09/1600x900/skynews-tesla-self-driving_5099820.jpg?20200917214103"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Tesla driver found napping behind wheel of self-driving car at 93mph"
     excerpt: "Police around the world have made a series of arrests of drivers who had been asleep at the wheel of Tesla cars"
@@ -244,20 +228,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
-    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
-    publishedDateTime: 2020-09-17T21:36:00Z
-    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 20
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
     excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"
     publishedDateTime: 2020-09-18T21:11:00Z

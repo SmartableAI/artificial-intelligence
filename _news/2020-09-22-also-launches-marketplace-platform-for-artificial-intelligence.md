@@ -1,18 +1,24 @@
 ---
 category: news
 title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
-publishedDateTime: 2020-09-22T07:20:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
-webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+publishedDateTime: 2020-09-22T08:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -32,7 +38,21 @@ related:
         width: 702
         height: 336
         isCached: true
+  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
+    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
+    publishedDateTime: 2020-09-22T14:00:00Z
+    webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "1BMTey5KMIx7ovPiKngOmcw3ekN8TOs1eXG1GswfBbZim9orLS+1eQ2QJyCgeAAYdoRoqhkD/WUkHopaV1f1wj8bPsojT9iMtSYiw3B4+3xkiVgPXGRVVTcVjF5zWS6nms6tNUTzLrWEFZQvKtPFpbtcX9CoIhTThaW4QDftaVJmEvhE6le7G2x1xzgueZVEwAvR3/A2CKdPRJ6p6sa44haYE4rFu1GF9y3IQ89YSvxv3j5hNsI89AsIy/UBMPZRvKvU6ERaL9RKjPvrDZph6ASKMiZ0F88VyJYfs9Wo4MADpa7c0Wa8USF+X1+wEKuW5eG/0gM7v1GLsVxAaJIbRqjIq/g5QXTYH2W0QFtYdi8=;/z1vJIpqV6ZqeIUq3awW7g=="
+secured: "teoXRfddVzVK/9fWhDn6nXk0ymD7n9iOuRW84li9L119d5qyYrPrbFP5ZwbaijVO1jquTvIuA8vrp8XyGbCXyWd5Sxo+UKxBU0JLMXDXCPlbDJWKBbT2IajJxr6wUnrSL3JNDHy4mcQx3zOw7ZjduTEVCoi2oKHiePPIl2/SSmYP0jPHTiq6kN0qnMfHt0x7bKTfaAFt+fxLnfg4evUVMGWu2gR0NyieJRm435H5ip8hTWty0OjMB8qTcleaqx/nuNjk4V6SwGmEaYlLlSooPwg0xT45vbPLkgjzCSdMR/ryaOGUG5NvT46Xl1a6Jr/kjgi5JYQCkW9Q6G1Rv64mraea7MZVvgJfQZaKDw5vv3Y=;/daLbjM1aIOGo4bMTKwN7g=="
 ---
 

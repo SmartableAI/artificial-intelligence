@@ -123,6 +123,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 33
+  - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
+    excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."
+    publishedDateTime: 2020-09-22T15:45:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21155232/lapd-has-used-facialrecognition-software-30k-times-in-last-decade-records-show"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 19
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/US_NEWS_CPT_CALIF_FACIALRECOGNITION_LA__1_.5f6a1b0278727.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 868
+        isCached: true
   - title: "Controversial facial-recognition software used 30,000 times by LAPD in last decade, records show"
     excerpt: "The LAPD has used facial-recognition software nearly 30,000 times since 2009, with officers running suspect images against a mugshot database."
     publishedDateTime: 2020-09-21T17:24:00Z
@@ -133,6 +147,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "D2BoJcl4WP1N8JwBz0ONS8aW2ViZez8QYVBBh6lDwtPZc34R3nYOygZT7JomxBJUwTa3Gmp28nxQcQra8QkHnkG/6MHyKtbgsHheYF8qh2fPg1uRkTm65tDaQfY4cwgudHC/KoHcZD44ShHRaYgR4vRG9wzgIMfwSnmiWEWtluYv6WZNQm2/AWX7mRHxklHookqMOAHkykYAFcLoFmENjvu3m/BjNQKMW4Y/riJdvPM2h6yBD5zwUMpaV0YaJ07rf7nj9t4pmftPca2dziCaTzXe3wdtJjeNo1tgk4WAVkNfc3Q/YmdpxILSKKrCJ4GDgk7/PLStRuKNrQzpdocJpT2aDPwikLYGkHdyB+BGPS8=;Mug0ZHvSRNJYz/Qyt+cJIg=="
+secured: "DdYBITcj3jD9i0k/6zPFtawpTnf7qEJq6nmwCp0GENRE6QIFZsAVv8HVI/HDqAqORo4AP2EERdvGGlrE9+qJN8H9rZXnHVrxskVrkhdEPiyCzPJY3mwQK81IquPZcRbCc60m0u3C1kJ3j/5m221wStMH/x6oevyy9P+l/cNJ+O5SYJAVEHTb2Q5HTVNIMLGYbcFqU9kKsPAURjprKgSeVTH9vo1Qy9KbT7rJdt8YZdOF8ym5b0GJ26vPh/3KcYjURNv4Iehapid49FVYROWoNDzWHeh/eq+CUNaJ0gyJ5nMhbXx50Oim5UtB1bmHro9kIS3+B46UyA7bC6qiuC5FQ4XEhsay1Wz9YXkrkY8t2luNTl1IrVf0ZQImU9CX4/GJpzLpOrBXpAoN2jsQS8uVyzjMmcBB7CQsR1YDEE6HlAWmOCiL5W38Cea+Km/roM1mWerqzQDkONYMHtbT7WH8wILDfyb0MnrTelKs4iWcoFFBwiI+DR/PzqnNHfA5x/2x/3ezEltR0fmKRvGDwXSonA==;22TSCNd0EHlEjmggnkiIPg=="
 ---
 

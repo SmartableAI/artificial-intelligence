@@ -1,10 +1,10 @@
 ---
 category: news
 title: "ADT Invests in Percepta Labs, “Ethical AI” Security Technology Startup"
-excerpt: "ADT Commercial will work directly with Percepta to further test and develop the application of Percepta’s proprietary, socially responsible AI technology in commercial environments and ..."
-publishedDateTime: 2020-09-21T22:23:00Z
-originalUrl: "https://omaha.com/business/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
-webUrl: "https://omaha.com/business/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
+excerpt: "and risk consulting services in the U.S., and through its investment will fund the commercialization and application of the startup’s cutting-edge AI technology to help detect and deter shoplifting."
+publishedDateTime: 2020-09-21T21:49:00Z
+originalUrl: "https://omaha.com/business/consumer/adt-invests-in-percepta-labs-ethical-ai-security-technology-startup/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
+webUrl: "https://omaha.com/business/consumer/adt-invests-in-percepta-labs-ethical-ai-security-technology-startup/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
 type: article
 quality: 37
 heat: -1
@@ -52,6 +52,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "DJFNv8GBzRZK+SDSC+tP27VjcHAUpgm20NHe/jNmxDvMddVBYKJv1Zxg7XCU//Orvh4socdgcLlOsr1A2lpu/sNE9pigggNWS1Ek7hKHVz9CHrJo0GDKNAPMEtepZ8JWGsPEX5FYixbF4B7JL+GyvV1XkYmmajBHTXFxXaLUbLkLwKbo6A5QNulAjcsVRKZuEISYu3f/YK+jtIUeqj9WKs4EwfZMsdoTqlZum3eKSfZl8Eu90g+XupGmDNYs1AasuaXCrx2NRj4CxOV+6wf8IihHIn9dOUiyvwB86K21LujIiEmBU0VfFmKy3fKye+vyZ3Xn1xhiCOnSLLrok9/mNrpmapKhYhahB9fh0E92lgg=;8u1Mx2SvAgkf4v6gsGDLuw=="
+secured: "KhZ11+05JDQlyzBTYQ7X7IboAcJa91xU2uR+fAMCgcx2TQo/Doi1UsRE2AH9vbA5WyGuT1ydEGY9Sb2CECTz725YUUTsSdUiH+mxTbvmKW2iukmyeJFukvG35ljBwOc4KJBXfyzaW+0XqvGIG8afQCmQqwB18UpbdPl3b4BDxVIbiEjjOz+w11QaA50vSADGatlsYSt0+mX4B2KrRBoSav6lQkOcn4wiD91Tx+FvZhUgJaefAixvicxlW9kFmhXZQ/3lkkfstkMbMx5vgEKdTZd0Zu7o2HY6rxlzBShXJ2wZshLruOurJoOzjlP8waguhzPbjonGrvyS/KxDZOZnv0/lyyF7mCSYNUylffEm6hU=;KOSzS4Xvr1WpKt2xO0ksFA=="
 ---
 

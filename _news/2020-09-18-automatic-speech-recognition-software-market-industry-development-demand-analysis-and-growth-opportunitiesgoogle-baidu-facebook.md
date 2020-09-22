@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Growth Opportunities, Demand Analysis and Industry Development|Intel, NVIDIA, IBM"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T22:27:00Z
-    webUrl: "https://www.eturbonews.com/584319/artificial-intelligence-in-aviation-market-growth-opportunities-demand-analysis-and-industry-developmentintel-nvidia-ibm/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 10
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
 
 secured: "cPy3/3ZX2atB8nZdAGZpl+TGWJYhLjNWbEr8WM9RR0vgT9YJ5erQXWdHZDW2xWgpTo5r7oNYD+W7U5g/x9BEVzo3Ls24f8bYWtcfkvgiVVVh2LzWNddYGaXSF0asR1U9qAO7KWAQMRBqHo6fJmsvD5XJUeqM/oAR+5H67ldPLnMwfiRsl8chQeGzkl0Y8MFJtCbp7XwZ28rf4sf6pKEbqwwNGd1VwQhd859pQ+i2i4CBiDvDWMMo1nvz3nG9dZr5v3UjQ9aeJ6O9S3pkCC0D2fl+QhaA7hlsSINk9NtHHvd5agta2ckZrmuBNVRgUGxhHAdXe4jDlByY2FrkJZac6yJJQC1qE3BeuJoXIIifwQPwwSD9bG5fo0PfBjD+AqKQ6TgABo/RoyV8xKMOZuXmc2+aOOOMPajCCPGtAiid6Hlmeal4hQmE8LFBSSUwbIJpACdpSs1vyp0igr6704aI+V+jXZBx2HaxrZRN/2+foMhCC/SWWM0RB6gHStMEq5Yga5eNHnWVtFQSyxptOp4NNK+3oRV7Qgollskpk3IICm8=;Ei2rGQHIR8dfAovdRQSupA=="
 ---

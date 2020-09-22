@@ -73,22 +73,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Tesla driver caught asleep behind wheel of self-driving car going 93mph"
-    excerpt: "Police - who spotted both front seats fully reclined - say the autopilot feature \"still comes with the responsibility of driving\"."
-    publishedDateTime: 2020-09-17T21:27:00Z
-    webUrl: "https://news.sky.com/story/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    ampWebUrl: "https://news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/tesla-driver-caught-asleep-behind-wheel-of-self-driving-car-going-93mph-12074589"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/09/1600x900/skynews-tesla-self-driving_5099820.jpg?20200917214103"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla driver found napping behind wheel of self-driving car at 93mph"
     excerpt: "Police around the world have made a series of arrests of drivers who had been asleep at the wheel of Tesla cars"
     publishedDateTime: 2020-09-18T09:37:00Z
@@ -254,20 +238,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Man charged after Canadian police find him asleep at wheel of self-driving car"
-    excerpt: "Police in Canada have charged a man with speeding and dangerous driving after he was found asleep at the wheel of his self-driving car as it travelled at 150km/h down a highway in the province of Alberta."
-    publishedDateTime: 2020-09-17T21:36:00Z
-    webUrl: "https://www.irishtimes.com/news/world/man-charged-after-canadian-police-find-him-asleep-at-wheel-of-self-driving-car-1.4357900"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 20
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4357899&origw=620"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "PoMH730BZaECnF4y2/9WF/UMUiC3CSL+onhPhoRLF95ODljA0AxXq/fDNvw+TqV7RlRuK2XMj81uZ91q/2jCT5OYAPbyH1SGIah5kr5QNMF712ejH9XZ/XdHHMMYygj20wJLZoDfMnr6L39DJxmfzspB1pRLyCD6EgfT6qWUIzVlEILhOBh3C5mXqbCoVOKvcLpyl3o3nukKwuJrZHuTID32vU4qNhT2SAgCGIc0g7lIQAYGtpZ/a7V2sCeR1Ta8Md3kOkfzEYHkR+uGyR75oRLWGMSCkUmHD/SApVMdK35KPCvP5Dmk9JamrgwU39DudsnnhKbebUMJiLOdMLDv0L2T6+ya8w/CGYo/ykc3kQ8=;2MhBbbW6pi7hCI56bK5B1g=="
 ---

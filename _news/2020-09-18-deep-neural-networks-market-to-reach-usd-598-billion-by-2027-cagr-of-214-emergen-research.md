@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-to-reach-usd-598-billion-by-2027-cagr-of-214-emergen-research-2020-09-17-111831649"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,33 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 | CAGR of 40.1%"
-    excerpt: "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor,"
-    publishedDateTime: 2020-09-17T21:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17"
+  - title: "Global Healthcare Service Robots Market to Reach $2.82 Billion by 2025, Reports BIS Research"
+    excerpt: "According to a new market intelligence report by BIS Research titled Global Healthcare Service Robots Market Analysis and Forecast 2020 2025 the global healthcare service robots market is anticipated to witness a significant CAGR of 26 4 in the forecast"
+    publishedDateTime: 2020-09-21T10:38:00Z
+    webUrl: "https://www.openpr.com/news/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Size Targets to Grow at a CAGR of 49.6% & to Hit $18.12 Billion by 2025"
-    excerpt: "Allied Analytics :Different interventions that range from identification of patients and maintenance of their records during clinical trials, to application in drug discovery and repurposing are gradually incorporating artificial intelligence,"
-    publishedDateTime: 2020-09-18T18:48:00Z
-    webUrl: "https://apnews.com/250be68137509c57dcc43d253aada0bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "gkl8jyCarbwwGT5sfTJOJy3d60Fo7RLcoT0wAKTGptoL7/Gq/SrIZmUrN95LR1xZFvbJhvMSuVY0CtGsRa60kz3tMzzojCE4WII1SAH1JYDHXfxtagppzmC89bKzfC3WNLlus4w77P6iWd8hHqDQfAxJV107NxFy6vNtySNw8Z6trO8fd/ikJktuVf8AX8la6LLsRF0PXhl0KPGczBcocs2SIqdGa32ASuGzSYhAOrt7dEGvTcxchnVhIsvm7eAUOPftu/GOjK/tzZVYJQqLn73kedKssal6xVX5wiFyRtJ4NZ2HdtE9iRK8qdoWwIKLGVCSW5LF+kMJR+9D+eY9189r0BOYmj5s3NcwDpMK8x8=;BYP27uzXI5s4kwHdHhLa2g=="
