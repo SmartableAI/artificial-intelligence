@@ -2,6 +2,99 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-08-27-professor-alena-buyx-on-the-embedded-ethics-approach-in-ai-development.md",
+      "title": "Professor Alena Buyx on the embedded ethics approach in AI development",
+      "excerpt": "The increasing use of AI (artificial intelligence) in the development of new medical technologies demands greater attention to ethical aspects. An interdisciplinary team at the Technical University of Munich (TUM) advocates the integration of ethics from the very beginning of the development process of new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.presseportal.de/en/pm/16314/4691000",
+      "originalUrl": "https://www.presseportal.de/en/pm/16314/4691000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.presseportal.de/some-default.jpg",
+          "width": 1135,
+          "height": 1135,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.presseportal.de/en/pm/amp/16314/4691000",
+      "cdnAmpWebUrl": "https://www-presseportal-de.cdn.ampproject.org/c/s/www.presseportal.de/en/pm/amp/16314/4691000",
+      "publishedDateTime": "2020-08-27T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Na Presseportal",
+        "domain": "presseportal.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
+      "title": "Kneron launches its new AI chip to challenge Google and others",
+      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
+      "publishedDateTime": "2020-08-27T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-moveai-enables-ai-motion-capture-without-the-hassle-for-video-game-production.md",
       "title": "Move.ai enables AI motion capture without the hassle for video game production",
       "excerpt": "Move.ai can use artificial intelligence to capture a 3D representation of an actor in a process known as markerless motion capture.",
@@ -1032,90 +1125,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
-      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
-      "publishedDateTime": "2020-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

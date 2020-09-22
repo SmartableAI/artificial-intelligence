@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-05-black-detroit-man-wrongfully-arrested-after-facial-recognition-search.md",
+      "title": "Black Detroit man wrongfully arrested after facial recognition search",
+      "excerpt": "A Black man from Detroit is suing the city after he was falsely arrested because of a facial recognition match, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
+      "originalUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/09/Detroit-Facial-Recognition-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/detroit-facial-recognition-wrongful-arrest/?amp",
+      "publishedDateTime": "2020-09-04T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-tsa-is-testing-facial-recognition-at-security-checkpoints.md",
       "title": "TSA is testing facial recognition at security checkpoints",
       "excerpt": "To increase security and promote social distancing, the TSA is testing touchless facial recognition technology to get you to your gate. “We want to do what we can to have fewer touchpoints for ...",
@@ -1270,57 +1312,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
-      "title": "PopID’s face-based payments pose privacy and security risks",
-      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
-      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
-      "publishedDateTime": "2020-08-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

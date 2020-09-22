@@ -2,6 +2,99 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
+      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
+      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "publishedDateTime": "2020-07-21T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-software-capabilities-for-self-driving-cars.md",
+      "title": "Software Capabilities for Self-Driving Cars",
+      "excerpt": "Self-driving (autonomous) cars have already hit the road. The software capability of these cars, especially those that regulate automated braking or lane departure warning systems, must continuously meet high quality. \"Autonomous vehicles would have to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+          "width": 1050,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
+      "publishedDateTime": "2020-07-21T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
       "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
       "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
@@ -1020,99 +1113,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-seeq-expands-support-for-microsoft-cloud-services.md",
-      "title": "Seeq Expands Support for Microsoft Cloud services",
-      "excerpt": "and Azure Notebooks for machine learning integration, in addition to on premise support for Windows Server, Active Directory, and SQL Server. Seeq is now adding connectivity to Azure Data Explorer, the latest release of Time Series Insights, and Power ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/46608-seeq-expands-support-for-microsoft-cloud-services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/b87fa579-6462-49de-9bc1-ddd365f6a7ee.jpg?crop=true&height=430&t=1596546244&width=640",
-          "width": 600,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-youcanbookme-optimizes-your-apps-thanks-to-amazon-codeguru.md",
-      "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
-      "excerpt": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg",
-          "width": 800,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T09:22:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

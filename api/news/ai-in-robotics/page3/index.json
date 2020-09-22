@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-02-xrobotics-is-keeping-the-dream-of-pizza-robots-alive.md",
-      "title": "XRobotics is keeping the dream of pizza robots alive",
-      "excerpt": "Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/xRobotics_1_4K.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/xrobotics-is-keeping-the-dream-of-pizza-robots-alive/amp/",
-      "publishedDateTime": "2020-09-02T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-02-elon-musk-unveils-updated-neuralink-brain-implant-design-and-surgical-robot.md",
       "title": "Elon Musk unveils updated Neuralink brain implant design and surgical robot",
       "excerpt": "Elon Musk's neuroscience startup Neuralink has revealed the \"dramatically simplified\" design for an implant that aims to create brain-to-machine interfaces, alongside the robot that will insert it and several pigs that have the device installed.",
@@ -1402,6 +1351,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-25-roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade.md",
+      "title": "Roombas robot vacuums getting artificial intelligence software upgrade",
+      "excerpt": "Robot announced the largest software upgrade for its robot vacuum cleaner, Roomba, in the company’s 30-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2020/08/roomba.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/roombas-robot-vacuums-getting-artificial-intelligence-software-upgrade/amp/",
+      "publishedDateTime": "2020-08-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN",
+        "domain": "wkbn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

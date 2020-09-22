@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-20-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "originalUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "publishedDateTime": "2020-09-19T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review.md",
+      "title": "Researchers say artificial intelligence and machine learning could enhance scientific peer review.",
+      "excerpt": "In some cases, poorly validated research has massively influenced public policy, as when a French team reported COVID patients were cured by a combination of",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/",
+      "originalUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infosurhoy.com/wp-content/uploads/2020/09/aimingforacc.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/researchers-say-artificial-intelligence-and-machine-learning-could-enhance-scientific-peer-review/amp/",
+      "publishedDateTime": "2020-09-19T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-tesla-reintroduces-enhanced-autopilot-offering-cheaper-alternative-to-full-self-driving.md",
       "title": "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’",
       "excerpt": "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times,",
@@ -1091,98 +1184,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-an-ai-for-an-ai-artificial-intelligence-wars-loom.md",
-      "title": "An AI for an AI: Artificial Intelligence wars loom",
-      "excerpt": "The technology is at risk of being appropriated by an oligarchy, which may not include just companies. Countries are in an arms race for AI supremacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
-      "originalUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.khaleejtimes.com/storyimage/KT/20200918/ARTICLE/200918891/AR/0/AR-200918891.jpg&NCS_modified=20200918084506&exif=.jpg",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/editorials-columns/an-ai-for-an-ai-artificial-intelligence-wars-loom",
-      "publishedDateTime": "2020-09-18T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-car-traveling-over-90-mph-cops.md",
-      "title": "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops",
-      "excerpt": "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
-      "originalUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp",
-      "publishedDateTime": "2020-09-17T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

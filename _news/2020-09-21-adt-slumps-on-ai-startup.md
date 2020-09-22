@@ -27,6 +27,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "ADT Invests in Percepta Labs, “Ethical AI” Security Technology Startup"
+    excerpt: "ADT Commercial will work directly with Percepta to further test and develop the application of Percepta’s proprietary, socially responsible AI technology in commercial environments and ..."
+    publishedDateTime: 2020-09-21T22:23:00Z
+    webUrl: "https://omaha.com/business/article_a4e5ab22-8c87-5000-ac94-be6d33a18989.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ADT invests in Percepta Labs, a startup developing shoplifting detection technology"
     excerpt: "The commercial arm of ADT has committed to investing over $1 million in Percepta Labs, a Philadelphia-based startup developing artificial intelligence technology to detect and deter shoplifting. ADT Commercial will work directly with Percepta founders Philippe Sawaya,"
     publishedDateTime: 2020-09-21T13:22:00Z

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
+      "title": "PopID’s face-based payments pose privacy and security risks",
+      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "publishedDateTime": "2020-08-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
       "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
       "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
@@ -1288,48 +1339,6 @@
       "provider": {
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd.md",
-      "title": "De Blasio calls for ‘clear standards’ for facial recognition tech for NYPD",
-      "excerpt": "Mayor Bill de Blasio called for “clear standards” for the NYPD when using facial recognition tech after officers were spotted using information from the department’s unit when",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/08/081120_Bill_de_Blasio_8A.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/17/de-blasio-calls-for-clear-standards-for-facial-recognition-tech-for-nypd/amp/",
-      "publishedDateTime": "2020-08-17T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

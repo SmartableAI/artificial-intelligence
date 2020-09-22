@@ -7,7 +7,7 @@ originalUrl: "https://www.postbulletin.com/newsmd/coronavirus/6666002-Mayo-launc
 webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6666002-Mayo-launches-nationwide-COVID-19-prediction-machine"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Stock Predictions: AI-Powered Predictive Algorithm Shows Precision Up To 100% Amid COVID-19"
+    excerpt: "The I Know First predictive AI algorithm has been able to forecast the movement of the Tesla stock with an accuracy of up to 100%, says the evaluation report issued by the Israel-based company on September 15,"
+    publishedDateTime: 2020-09-21T20:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tesla-stock-predictions-ai-powered-predictive-algorithm-shows-precision-up-to-100-amid-covid-19-2020-09-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mayo launches nationwide COVID-19 prediction machine"
     excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
     publishedDateTime: 2020-09-21T03:56:00Z

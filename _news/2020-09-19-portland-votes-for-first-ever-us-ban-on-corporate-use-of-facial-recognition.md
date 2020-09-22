@@ -35,22 +35,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Detroit council expected to vote on facial recognition software contract"
-    excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
-    publishedDateTime: 2020-09-21T20:58:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/09/21/detroit-council-vote-facial-recognition-software/5855946002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5855946002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5855946002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/15/PDTN/89d77051-63a2-4687-9bf3-6760a79d16b1-RealTime-Crime-Center-04.JPG?auto=webp&crop=4221,2374,x0,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Montreal should restrict police use of facial recognition technology: councillor"
     excerpt: "Montreal police said through a spokesperson they have no comment on the proposed motion but they follow all laws governing their operations and investigations."
     publishedDateTime: 2020-09-18T22:19:00Z
@@ -110,34 +94,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "Facial recognition tested by Brent Cross West station contractor"
-    excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
-    publishedDateTime: 2020-09-21T05:00:00Z
-    webUrl: "https://www.railwaygazette.com/uk/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
-    type: article
-    provider:
-      name: Railway Gazette International
-      domain: railwaygazette.com
-    quality: 39
-    images:
-      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/4/3/8/35438_inndex_106783_crop.jpg"
-        width: 2000
-        height: 1338
-        isCached: true
-  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
-    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
-    publishedDateTime: 2020-09-20T07:15:00Z
-    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
-    type: article
-    provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 21
-    images:
-      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "6tRkAri+E0Am/W06A7Ms3ZYX5Q2AGtx+zOUfLlINOECJNxYvz26f/oUly2A6jOzTsSj20YWNCqU10NZboaga5FLC7y8EhuSwLHpKGJDbUqf0Nf5cFPQpsdzx+tlUnEpxr7oZ9ntf7ikNtVSHcceSaXpmm44qiYDAZMf0+q1TQW5AmGS4IjzhmeUkJ2XIOBJbGz2m5c7/sOztbWRXAWWpZ9IwgLX3lWmfJUU1S0uQdnbZzXSRn1ZNLkAGcxYjqJT5dlE8Y35tkA/wdzyZntdRVVZQNYiTiSrQk3QTZTDeyoIIieL+y7sZxXW/7K8RhSna1yihnZJA+bvwsp8BtXgsNdVk16qfHvfLxsQ11RKAdvs=;LtHW+6/25ErMuW8hg1Sw4w=="

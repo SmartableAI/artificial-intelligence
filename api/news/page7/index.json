@@ -2,6 +2,98 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-15-save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach.md",
+      "title": "Save $125 on Tempo, an AI-powered home fitness weightlifting coach",
+      "excerpt": "Home fitness equipment has gone high-tech in a big way. Thanks companies like Peloton, it's no longer unusual to pay a subscription for live online classes, and Mirror has introduced us to enormous LCD screens that let you watch an instructor and keep tabs on your form while you exercise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "originalUrl": "https://www.cnet.com/health/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/vWxueN-zpzNrYgvXgg2A2hrdk1E=/1200x630/2020/02/25/681321ec-648e-4800-a8ba-39e42b4c5f38/tempo-9686.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/save-125-on-tempo-an-ai-powered-home-fitness-weightlifting-coach/",
+      "publishedDateTime": "2020-09-14T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
+      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/WR1PZL59B7EQJJXED9N1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-12060/",
+      "publishedDateTime": "2020-09-14T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks.md",
       "title": "Using the Amazon SageMaker Studio Image Build CLI to build container images from your Studio notebooks",
       "excerpt": "The new Amazon SageMaker Studio Image Build convenience package allows data scientists and developers to easily build custom container images from your Studio notebooks via a new CLI. The new CLI eliminates the need to manually set up and connect to Docker build environments for building container images",
@@ -235,6 +327,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
+      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
+      "originalUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.irishexaminer.com/world/arid-40048664.html?type=amp",
+      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp",
+      "publishedDateTime": "2020-09-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -616,48 +750,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1064,107 +1156,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
-      "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
-      "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/09/15/56f52380-f682-11ea-a41c-8cbd1416100a_image_hires_023122.jpg?itok=6WoDizn9&v=1600108292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "publishedDateTime": "2020-09-14T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-do-you-really-need-an-ai-powered-smart-range.md",
-      "title": "Do You Really Need an AI-Powered Smart Range?",
-      "excerpt": "As the pandemic has forced us to spend more time at home than we did previously, many of us have invested in making these spaces—which are now our offices, daycares, cafeterias, and entertainment hubs—a little more conducive to an always-home lifestyle.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "originalUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5qxsxiclz8wc7nzytru.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "publishedDateTime": "2020-09-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

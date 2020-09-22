@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu launches self-driving taxi service in Beijing"
-    excerpt: "Chinese internet search giant Baidu Inc launched Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing on Thursday, becoming the first"
-    publishedDateTime: 2020-09-17T05:40:00Z
-    webUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/"
-    ampWebUrl: "https://infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/baidu-launches-self-driving-taxi-service-in-beijing/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 39
   - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
     excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
     publishedDateTime: 2020-09-21T16:34:00Z

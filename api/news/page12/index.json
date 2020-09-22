@@ -2,6 +2,108 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-10-hkstps-technology-validation-platform-aims-to-build-trust-in-ai-and-robotics-business-solutions.md",
+      "title": "HKSTP’s Technology Validation Platform aims to build trust in AI and robotics business solutions",
+      "excerpt": "The new testing platform – first of its kind in Hong Kong – validates technology capabilities and will encourage greater use among providers and enterprises",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
+      "originalUrl": "https://www.scmp.com/presented/tech/innovation/topics/catalysing-innovation-technology/article/3100935/hkstps-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/10/8cb41152-f1b4-11ea-8f3b-07283e3f3bd8_image_hires_102614.jpg?itok=wWmjFBkm&v=1599704785",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-tempering-your-companys-expectations-for-ai.md",
+      "title": "Tempering Your Company's Expectations For AI",
+      "excerpt": "Most modern AI is glorified machine learning (ML) at best. Even the most advanced lacks any comprehension or understanding of what it is doing. You have a black box; you plug data into it, and you get out some (hopefully) correct results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4fbc1e75b23cf650c7429f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/10/tempering-your-companys-expectations-for-ai/amp/",
+      "publishedDateTime": "2020-09-10T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-homegrown-robotics-upstart-greyorange-scores-100mn-at-a-700mn-valuation.md",
       "title": "Homegrown robotics upstart GreyOrange scores $100Mn at a $700Mn valuation",
       "excerpt": "GreyOrange is one of those rare 'Born in India' firms who have made a significant mark in the robotics industry.",
@@ -1070,99 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
-      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
-      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "publishedDateTime": "2020-09-09T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
-      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
-      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "publishedDateTime": "2020-09-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

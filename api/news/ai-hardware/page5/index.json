@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
+      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
+      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
+          "width": 620,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "publishedDateTime": "2020-08-13T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-how-broadcom-may-have-helped-make-googles-latest-ai-chip.md",
       "title": "How Broadcom May Have Helped Make Google’s Latest AI Chip",
       "excerpt": "Broadcom’s application-specific integrated circuit business is currently generating $750 million in full-year revenue, up from $50 million in 2016, according to J.P. Morgan.",
@@ -1338,57 +1380,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
-      "title": "This AI will turn your ugly face into a cute cartoon",
-      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "publishedDateTime": "2020-07-28T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

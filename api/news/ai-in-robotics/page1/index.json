@@ -1050,48 +1050,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai.md",
-      "title": "NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI",
-      "excerpt": "Arm-powered AI supercomputer, training facilities for developers and a startup incubator, which will attract world-class research talent and create a platform for innovation and industry partnerships in fields such as healthcare, robotics and self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2",
-      "originalUrl": "https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-13-artificial-intelligence-and-the-future-of-food-industry.md",
       "title": "Artificial Intelligence and the future of food industry",
       "excerpt": "It uses Artificial Intelligence (AI) to help you with recipes that you can make with the ingredients you input. It’s an application that teamed with Bon Appetite, a recipe app, and can read up the chemical compositions of hundreds of ingredients and analyse 10,",
@@ -1360,6 +1318,48 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-new-wsu-smart-factory-to-have-artificial-intelligence-robotics-as-it-looks-to-future.md",
+      "title": "New WSU smart factory to have artificial intelligence, robotics as it looks to future",
+      "excerpt": "A new smart factory at Wichita State University will explore manufacturing possibilities through a partnership with Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "originalUrl": "https://www.kansas.com/news/business/article245609400.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998028001/dea73a44-1daa-42fa-a764-e842fd4a899c/e24cb380-15bf-4dad-998c-b4735c284642/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/news/business/article245609400.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article245609400.html",
+      "publishedDateTime": "2020-09-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

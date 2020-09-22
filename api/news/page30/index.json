@@ -2,6 +2,99 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-08-28-ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing.md",
+      "title": "IBM hopes to power US Open's digital experiences with Watson's natural language processing",
+      "excerpt": "The US Open can't have fans this year so IBM is hoping it can use AI to fuel debates, experiences and even the noise in the stadium.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/28/b59c73bd-e81b-4c3c-8115-c06cc32d2467/us-open-questions.png",
+          "width": 813,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-hopes-to-power-us-opens-digital-experiences-with-watsons-natural-language-processing/",
+      "publishedDateTime": "2020-08-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
+      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
+      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
+      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
+          "width": 678,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
+      "publishedDateTime": "2020-08-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-28-ai-jesus-will-help-you-embrace-the-apocalypse.md",
       "title": "AI Jesus will help you embrace the apocalypse",
       "excerpt": "The neural network spat out some baffling verses after studying the King James Bible In yet another sign that the end of the world is nigh, an AI Jesus has arisen with a new set of apocalyptic biblical verses.",
@@ -1079,99 +1172,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-professor-alena-buyx-on-the-embedded-ethics-approach-in-ai-development.md",
-      "title": "Professor Alena Buyx on the embedded ethics approach in AI development",
-      "excerpt": "The increasing use of AI (artificial intelligence) in the development of new medical technologies demands greater attention to ethical aspects. An interdisciplinary team at the Technical University of Munich (TUM) advocates the integration of ethics from the very beginning of the development process of new technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.presseportal.de/en/pm/16314/4691000",
-      "originalUrl": "https://www.presseportal.de/en/pm/16314/4691000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.presseportal.de/some-default.jpg",
-          "width": 1135,
-          "height": 1135,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.presseportal.de/en/pm/amp/16314/4691000",
-      "cdnAmpWebUrl": "https://www-presseportal-de.cdn.ampproject.org/c/s/www.presseportal.de/en/pm/amp/16314/4691000",
-      "publishedDateTime": "2020-08-27T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Na Presseportal",
-        "domain": "presseportal.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-kneron-launches-its-new-ai-chip-to-challenge-google-and-others.md",
-      "title": "Kneron launches its new AI chip to challenge Google and others",
-      "excerpt": "Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "originalUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/KL720-2.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/27/kneron-launches-its-new-ai-chip-to-challenge-google-and-others/amp/",
-      "publishedDateTime": "2020-08-27T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

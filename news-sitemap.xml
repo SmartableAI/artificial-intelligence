@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mashable.com/article/lapd-facial-recognition-technology/</loc>
+    <lastmod>2020-09-21T15:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/</loc>
     <lastmod>2020-09-21T14:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292</loc>
     <lastmod>2020-09-21T13:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/tesla-stock-predictions-ai-powered-predictive-algorithm-shows-precision-up-to-100-amid-covid-19-2020-09-19</loc>
+    <lastmod>2020-09-21T13:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -931,6 +943,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
+    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/</loc>
     <lastmod>2020-09-14T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -975,12 +993,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
-    <lastmod>2020-09-14T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1153,8 +1165,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globe-newswire/48a8abbcfe47cd8bd54e99bddf4532c2</loc>
-    <lastmod>2020-09-13T16:21:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137</loc>
+    <lastmod>2020-09-13T17:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

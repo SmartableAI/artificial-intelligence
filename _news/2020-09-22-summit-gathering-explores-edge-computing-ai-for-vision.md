@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T21:15:00Z
 originalUrl: "https://www.biometricupdate.com/202009/summit-gathering-explores-edge-computing-ai-for-vision"
 webUrl: "https://www.biometricupdate.com/202009/summit-gathering-explores-edge-computing-ai-for-vision"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "0KVorMuFko1WlFJLGP/d5fNc8UVY0tNtB49w1OoRWUYci4OxztFcbGCijFCUnhITpjX+IfALYInt/QhFmh2SQG0m38zGvBIBab9vhc7sRo63PC+1K53qqHHdk0DIkR9cv8ZSBpfNZi8DsA7kZciTSPmYpM6nA2ekImdNNzrppLGRuoQC0F3zp8eXYxiZJGP3caxqpiLyrbuU8iJIQBg4+KHo2HeTMplXLMCddkjTlDxNZ1OLbK4cTmTBgy4XhfwZhAUZn08HWP91M2rh11zcNYcWyLFI2GEq++/DDZrhCqye2L1vHDQaGAPrhewExS7zzcWqTL+UYN6sz0c/rJgc89rQ1NoMdvnRmPubuK3SHWg=;CylbnCGS1iNNHuMo3bGnLQ=="
+secured: "6DpPJv1GfXjbBRSGvJRhup8ynq3d7+L2Bxcywqqy01imf971Mq7eba+p5vSy/baenX63MfS3L2gfst48HgAf90/CL3NLmWc8LQlvM7vQVvftth0LzKbzmaoxdalchnEH1loOFsKeU+Q16O7pBH+Z55IQU4xhKgxzTsGl769RyVk4c1uoD3F7ZSAG5MQqHX3q93AawEJg5UTGIPLyrk+RUrtxTJB1H+/aL2KpOhb/4xnaEtcmzS8vOGYOvKl4ZAr0Ih2TxTTsLC0qYtlYCu8OPOl4wGPkH6z/Zm4kuCa0qj7uUUwSlnu4RDbALOPVaFzzm57uwWr1pSgQonCtND4gGdYfynNHr+cJp4iWQAJuxE6BEk2lTokWAqIza+TH4mLAMGEiKPLIgktNJn7xhVV1GcXPyK0dwO2o5iHZzD+lkB3/apxphy9THKJYjUrxA88DBTWu3Xxi4bysejmhkhTk6s61jtv9/3qGRwLcvueAXfsX9Prk3nAkVta4bIgE1OhyFhF9YdDF5I99YlaOoHaChg==;kwX/KutQ7Rz3Mybl/WtlAQ=="
 ---
 
