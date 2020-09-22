@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Early Detection of Osteoarthritis with Artificial Intelligence"
+    excerpt: "“In the future, coupling presymptomatic OA detection with emergent clinical therapies could modify the outcome of a disease that costs the United States healthcare system $16.5 billion annually. Furthermore, our technique is broadly applicable to earlier ..."
+    publishedDateTime: 2020-09-22T12:04:00Z
+    webUrl: "https://www.genengnews.com/news/early-detection-of-osteoarthritis-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/09/human-skeleton-163715_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial intelligence detects osteoarthritis years before it develops"
     excerpt: "Researchers have created a machine-learning algorithm that can pick up on subtle signs of osteoarthritis - too abstract to register in the eye of a trained radiologist - on an MRI scan taken years before symptom onset."
     publishedDateTime: 2020-09-21T19:08:00Z

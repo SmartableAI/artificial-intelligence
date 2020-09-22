@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Self-Driving Cars Still Cause Accidents"
-    excerpt: "The crash perplexed many experts who wondered how the advanced autopilot features of the self-driving car could ignore a large road hazard such as an overturned truck. While no one was injured as a result of the accident,"
-    publishedDateTime: 2020-09-17T20:12:00Z
-    webUrl: "https://spacecoastdaily.com/2020/09/self-driving-cars-still-cause-accidents/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 24
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/03/self-driving-car-600.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
 secured: "lWnWcMutVbzuDELKJVigGZg31XjM/LtUrlT3tdLImR7BN+y3T5zq5L8A7vbNm+gkk3VxswLLaHfzYHYfO/ilw5bA9/AKUUf6S27LpwbQINlgGh7rVvxH6lY4wGAxMMD3Yj8sFKqyUcrPGMDbqwDx+b7mylh8KitpZF1R0DR89jxw4PcrhPTbfwPLWRZ/loGJixL67jvlKizrd4+yfRajslxe2DkrVI3UzsPu+OKMQxkOpiXhpI5rOlc1Bdgo8YN2xmOhv3k9MLPxSK+TM96bqRzlNJbQC9aOmSeLkWAbT75ynpoj0oq7R4ax4TXbdn+sVPsL8R4PzqhDMNDUdCfuNvw1RJ1XyuiYcbNRjSzRxzG7qSbN3uUSePvX2qU8IbydNAGQY25w28Q3cNvPrypqXi/5KiOxd30oRr4WQyaqiOaG3c1DmyvidGRMd4M3cJp0fo7m61fhPIbur1UwFcu2UlexxvikmrCODGyb16ZSTEAZodOo51WFvUrWnoHzVoKyZrtDmFV0lxG09DaXMAYVyg==;gXDZVRwbDCrNlYNU41d9XA=="
 ---

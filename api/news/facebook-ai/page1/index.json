@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-to-make-fairer-ai-physicists-peer-inside-its-black-box.md",
+      "title": "To Make Fairer AI, Physicists Peer Inside Its Black Box",
+      "excerpt": "After repurposing facial recognition and deepfake tech to study galaxies and the Higgs boson, physicists think they can help shape the responsible use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
+      "originalUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f68ee3340c3a6fb18426ae0/master/pass/Science_CMS_D810_NEF_3483.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/amp",
+      "publishedDateTime": "2020-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-unm-scientist-artificial-intelligence-can-aid-covid-19-research.md",
       "title": "UNM scientist: Artificial intelligence can aid COVID-19 research",
       "excerpt": "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there’s a",
@@ -381,19 +432,19 @@
     {
       "path": "_news/2020-09-08-united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19.md",
       "title": "United Imaging Announces Research Collaboration with Massachusetts General Hospital Using Artificial Intelligence to Fight COVID-19",
-      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence (AI) teams in Boston and Shanghai",
+      "excerpt": "United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, announced today that its artificial intelligence",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -402,11 +453,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T09:12:00-07:00",
+      "publishedDateTime": "2020-09-08T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1371,57 +1422,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-facebook-releases-tools-to-help-ai-navigate-complex-environments.md",
-      "title": "Facebook releases tools to help AI navigate complex environments",
-      "excerpt": "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
-      "originalUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Title-Image-Updated-e1597900077579.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
-      "publishedDateTime": "2020-08-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

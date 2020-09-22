@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22</loc>
-    <lastmod>2020-09-22T02:18:00-07:00</lastmod>
+    <loc>https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor</loc>
+    <lastmod>2020-09-22T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534</loc>
-    <lastmod>2020-09-22T01:32:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/</loc>
+    <lastmod>2020-09-22T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
+    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
+    <lastmod>2020-09-22T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece</loc>
+    <lastmod>2020-09-22T04:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/</loc>
+    <lastmod>2020-09-22T04:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/greatspeculations/2020/09/22/machine-learning-answers-facebook-stock-is-down-20-in-a-month-what-are-the-chances-itll-rebound/</loc>
+    <lastmod>2020-09-22T04:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/</loc>
+    <lastmod>2020-09-22T03:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22</loc>
+    <lastmod>2020-09-22T02:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -69,6 +111,12 @@
   <url>
     <loc>https://www.slashgear.com/photoshop-sky-replacement-continues-adobes-ai-magic-rally-21638932/</loc>
     <lastmod>2020-09-21T10:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mobile.twitter.com/elonmusk/status/1307828265445400579?ref_src=twsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1307828265445400579%257Ctwgr%255Eshare_3&amp;ref_url=https%253A%252F%252Felectrek.co%252F2020%252F09%252F21%252Ftesla-offer-machine-learning-training-as-web-service-dojo-supercomputer%252F</loc>
+    <lastmod>2020-09-21T09:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -145,6 +193,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21</loc>
+    <lastmod>2020-09-21T01:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-09-20T23:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/</loc>
     <lastmod>2020-09-20T21:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,6 +261,12 @@
   <url>
     <loc>https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043</loc>
     <lastmod>2020-09-19T23:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750</loc>
+    <lastmod>2020-09-19T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -421,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/</loc>
-    <lastmod>2020-09-17T12:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/</loc>
     <lastmod>2020-09-17T12:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -475,7 +535,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf</loc>
+    <loc>https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf</loc>
     <lastmod>2020-09-17T05:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -793,7 +853,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/jpmorgan-blackrock-saphyre-idUSKBN26624L</loc>
+    <loc>https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L</loc>
     <lastmod>2020-09-15T11:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1003,8 +1063,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
-    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
+    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2239,14 +2299,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid/article_f8fed94e-e5fb-5735-81fa-160c1cebab36.html</loc>
-    <lastmod>2020-09-08T09:12:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
+    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/09/08/5-surprising-companies-that-have-ai-departments/</loc>
-    <lastmod>2020-09-08T09:09:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/united-imaging-announces-research-collaboration-with-massachusetts-general-hospital-using-artificial-intelligence-to-fight-covid-19-301125218.html</loc>
+    <lastmod>2020-09-08T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2283,6 +2343,12 @@
   <url>
     <loc>https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html</loc>
     <lastmod>2020-09-08T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2130269/healthcare-natural-language-processing-market-2020-to-2026</loc>
+    <lastmod>2020-09-08T06:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

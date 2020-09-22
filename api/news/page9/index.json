@@ -2,6 +2,460 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-14-three-reasons-ai-powered-platforms-fail.md",
+      "title": "Three Reasons AI-Powered Platforms Fail",
+      "excerpt": "If you’ve found yourself thinking, \"There's an AI-powered solution for everything these days,\" you’re not far off. Today, more than 37% of organizations have implemented artificial intelligence (AI) in some form,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be269a542d56dbef63e91%2F0x0.jpg",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
+      "publishedDateTime": "2020-09-14T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-tech-mega-deal-nvidia-will-buy-chip-designer-for-40-billion.md",
+      "title": "Tech mega-deal: Nvidia will buy chip designer for $40 billion",
+      "excerpt": "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549",
+          "width": 1024,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
+      "publishedDateTime": "2020-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
+      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
+      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
+      "publishedDateTime": "2020-09-14T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.md",
+      "title": "Chip maker Nvidia takes a $40B chance on Arm Holdings",
+      "excerpt": "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "publishedDateTime": "2020-09-14T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-amazon-google-and-microsoft-take-their-clouds-to-the-edge.md",
+      "title": "Amazon, Google, and Microsoft take their clouds to the edge",
+      "excerpt": "As enterprises ramp up edge computing deployments, the big three clouds are ponying up a surprising array of edge options for a broad range of needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
+      "originalUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/spot_edge_computing_3x2_2400x1600_06_ifw_a_multiple_cloud_instances_service_options_personal_clouds_by_gremlin_gettyimages-940308630-100857218-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575071/amazon-google-and-microsoft-take-their-clouds-to-the-edge.amp.html",
+      "publishedDateTime": "2020-09-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
+      "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
+      "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "originalUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg",
+          "width": 954,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T03:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
+      "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
+      "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "originalUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fnvidia-arm-limited-40-billion-usd-acquisition-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/9/nvidia-arm-limited-40-billion-usd-acquisition?amp=1",
+      "publishedDateTime": "2020-09-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ai-ethics-groups-are-repeating-one-of-societys-classic-mistakes.md",
+      "title": "AI ethics groups are repeating one of society’s classic mistakes",
+      "excerpt": "International organizations and corporations are racing to develop global guidelines for the ethical use of artificial intelligence. Declarations, manifestos, and recommendations are flooding the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "originalUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/09/GettyImages-1153022933_web.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/14/1008323/ai-ethics-representation-artificial-intelligence-opinion/amp/",
+      "publishedDateTime": "2020-09-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation.md",
+      "title": "Inside Gilead’s $21 billion purchase of Immunomedics: Lamb chops, steak, and a chance for transformation",
+      "excerpt": "Gilead saw a chance to get a foundational asset in solid tumor oncology, while Immunomedics saw a chance to cap off a dramatic turnaround.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.statnews.com/2020/09/14/inside-gileads-21-billion-purchase-of-immunomedics-lamb-chops-steak-and-a-chance-for-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-artificial-intelligence-in-drug-discovery-market-size-worth-35-billion-by-2027-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Drug Discovery Market Size Worth $3.5 Billion By 2027: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in drug discovery market size is expected to reach USD 3.5 billion by 2027, expanding at a CAGR of 28.8%, according to a new report by Grand View Research, Inc. The growing adoption of artificial intelligence (AI) platforms aimed at reducing the overall cost associated with drug discovery and to enhance results is expected to propel the demand for these platforms in the pharma market.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-drug-discovery-market-size-worth-3-5-billion-by-2027-grand-view-research-inc-1029584798",
+      "publishedDateTime": "2020-09-14T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-ai-eye-aws-nasdaqgs-amzn-and-nfl-debuting-six-new-insights-through-next-gen-stats-platform.md",
       "title": "AI Eye: AWS (NasdaqGS: $AMZN) And NFL Debuting Six New Insights Through Next Gen Stats Platform",
       "excerpt": "AIEye Episode 428: AWS (NasdaqGS: $AMZN) and #NFL Debuting Six New Insights Through Next Gen Stats Platform, Schlumberger (NYSE: $SLB) Collaborating with IBM (NYSE: $IBM) and Red Hat on Oil & Gas Digital Transformation AI in Cybersecurity Market to Reach $101.",
@@ -706,462 +1160,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-this-stanford-professor-says-ai-hiring-tools-are-flawedheres-how-to-get-a-fair-shake.md",
-      "title": "This Stanford Professor Says AI Hiring Tools Are Flawed—Here’s How To Get A Fair Shake",
-      "excerpt": "If you’re looking for a job, you may need to impress a bot before you even get the chance to wow a recruiter. Here’s how to put your most AI-friendly foot forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
-      "originalUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be5a932ae9d68f2ef8e58%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2020/09/13/this-stanford-professor-says-ai-hiring-tools-are-flawed-heres-how-to-get-a-fair-shake/amp/",
-      "publishedDateTime": "2020-09-13T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-machine-learning-market-analysis-size-share-growth-trends-and-forecast.md",
-      "title": "Machine learning Market Analysis, Size, Share, Growth, Trends, and Forecast",
-      "excerpt": "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-when-will-driverless-cars-be-a-part-of-our-everyday-lives.md",
-      "title": "When Will Driverless Cars Be A Part Of Our Everyday Lives?",
-      "excerpt": "Researcher Sebastian Thrun helped build Google's amazing driverless car ... His research focuses on robotics and artificial intelligence. He led the development of the robotic vehicle called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
-      "originalUrl": "https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2013/12/18/sebastianthrun_2011-stageshot_wide-8c42119c4dad6466d32339997083fcd4cf5fcb59.jpg?s=1400",
-          "width": 1394,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success.md",
-      "title": "How proquo ai Turns Marketing Art Into Science To Power Challenger Brands To Success",
-      "excerpt": "In a commoditised marketplace, it's your business's brand that will determine your success, believes proquo ai founder Nadim Sadek",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b950c00de1f2a3aef8e58%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D1372%26cropY2%3D3073",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2020/09/11/how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success/amp/",
-      "publishedDateTime": "2020-09-13T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-even-if-elon-musks-neuralink-brain-chip-never-gives-us-telepathy-it-could-do-wonders-for-animal-testing.md",
-      "title": "Even if Elon Musk's Neuralink brain chip never gives us telepathy, it could do wonders for animal testing",
-      "excerpt": "Elon Musk hosted a live demo from his company Neuralink showing a pig named Gertrude with a computer chip in her brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5b555b7ed0ee001e25eb96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
-      "publishedDateTime": "2020-09-13T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-virginia-graves-receives-recognition-for-decades-of-public-service.md",
-      "title": "Virginia Graves receives recognition for decades of public service",
-      "excerpt": "Even after working as a nurse in the Korean War and caring for patients in the W.G. Bill “Hefner” VA Medical Center for decades, Virginia Graves wasn’t done serving people. That’s why she was excited to join the Nursing Home Advisory Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "originalUrl": "https://www.salisburypost.com/2020/09/13/virginia-graves-receives-recognition-for-decades-of-public-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2020/09/0913-Graves1.jpg",
-          "width": 622,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salisbury Post",
-        "domain": "salisburypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling.md",
-      "title": "Switch 4K gaming could be added with new dock chip swap, AI upscaling",
-      "excerpt": "Nintendo reportedly tells developers to update their games to run at 4K, hinting the new Switch model revision will output 4K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/5/75046_5_new-switch-may-support-4k-output-for-uhdtvs-coming-early-2021.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
-      "publishedDateTime": "2020-09-12T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "originalUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-artificial-intelligence-and-the-future-of-food-industry.md",
-      "title": "Artificial Intelligence and the future of food industry",
-      "excerpt": "It uses Artificial Intelligence (AI) to help you with recipes that you can make with the ingredients you input. It’s an application that teamed with Bon Appetite, a recipe app, and can read up the chemical compositions of hundreds of ingredients and analyse 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/12/w600X390/Foodtech.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.amp",
-      "publishedDateTime": "2020-09-12T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-new-age-revolutionised-by-ai-5g-communication-robotics.md",
-      "title": "New age revolutionised by AI, 5G communication, robotics",
-      "excerpt": "The industry experts and researchers from around the world, who gave plenary talks and presented a glimpse of future technology in the post-Corona Virus era during HYDCON 2020 opined that the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/09/12/998150-robotics.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/new-age-revolutionised-by-ai-5g-communication-robotics-645250",
-      "publishedDateTime": "2020-09-12T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

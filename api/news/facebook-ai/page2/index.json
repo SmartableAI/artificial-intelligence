@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-21-facebook-releases-tools-to-help-ai-navigate-complex-environments.md",
+      "title": "Facebook releases tools to help AI navigate complex environments",
+      "excerpt": "Facebook detailed its work in embodied machine learning, including new open source data sets and modules to advance the field.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
+      "originalUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Title-Image-Updated-e1597900077579.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/21/facebook-releases-tools-to-help-ai-navigate-complex-environments/amp/",
+      "publishedDateTime": "2020-08-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-facebook-is-building-home-robots-to-help-you-find-your-ringing-phone.md",
       "title": "Facebook is building home robots to help you find your ringing phone",
       "excerpt": "Now, some new breakthroughs made by Facebook AI researchers suggest that home robots might be able to do the hard work for us, reacting to simple commands such as \"bring me my ringing phone.\" Virtual assistants as we know them are utterly incapable of identifying a specific sound,",
@@ -1405,58 +1456,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
-      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
-      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "publishedDateTime": "2020-07-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

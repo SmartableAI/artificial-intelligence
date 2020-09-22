@@ -38,20 +38,6 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 4
-  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T20:32:00Z
-    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 2
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence In Agriculture Market MAY SEE A BIG MOVE | John Deere, IBM, Agribotix, Microsoft, The Climate Corporation"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2020-09-18T10:02:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/carrefour-deploys-machi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/carrefour-deploys-machine-learning-software-in-belgium-9300750"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Global Deep Learning Software Market"
+    excerpt: "New York, United States - The Deep Learning Software Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation. The report titled ..."
+    publishedDateTime: 2020-09-22T12:41:00Z
+    webUrl: "https://www.openpr.com/news/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    ampWebUrl: "https://www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922635002_g.jpg"
+        width: 550
+        height: 308
+        isCached: true
 
 secured: "nMvVt31NlAeKM7PaCdJ7Lo77mm58NoeavUH8xzfT9XzC7fOzuh9H80XsC/y0tciHvKS8Ijm+z7wLzN7pLS7BMW/geOboiubtedZqyjSHbjnQ0O+GyIMLY1MJdy1dd2DEvpNMvPsoooZ8+As3HywqSOMz/DhsdXgyWiIRWiU7ME82Wifrh+tuOptFivuO0gPzgMQxmKGAtvAW++G5CAnAG8DSuJ3xvQVDtkcRcxr0UxjAbjYRFxSE0nTbx4gBlaku7OIf3fHb7/BevlwILpFoD8jICl4MmCD74yVBNqv114OqaFuX0Essi8c/DkOJ06EQaDJ+HrGsgS3GHrT0jnKhRBI9XLtFPaLjNxEJysSapS0=;lMsxU7gEqbAzWHoSRSeBmg=="
 ---

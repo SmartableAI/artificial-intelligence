@@ -8,6 +8,7 @@ webUrl: "https://www.autoevolution.com/news/nestron-cube-two-is-the-tiny-house-w
 type: article
 quality: 37
 heat: 37
+published: false
 
 provider:
   name: autoevolution.com

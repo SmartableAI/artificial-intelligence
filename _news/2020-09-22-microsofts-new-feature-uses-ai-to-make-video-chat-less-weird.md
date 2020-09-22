@@ -8,8 +8,9 @@ webUrl: "https://www.techrepublic.com/article/microsofts-new-feature-uses-ai-to-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/"
 type: article
-quality: 67
-heat: 67
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: TechRepublic
@@ -21,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
-secured: "U9dmCa+91CConiajP52CvqczI2szJDfwH4eR7BjnedBUbIBuy/T9/37NwSVB4ySr0GBkbhfwlDw2UrVqVcBuGDYbL0zQqxMw0pbbAVNEdssj3S4D9hdJjijpCrXypQqYihD6Bik1ehW/vz+s8YFnE2qQrPlveTftM5IF6RVBC48RvHRZOuOAnwF/mKlv2AN95LJYR29DHpdXf6cTph6vWwBns/GWOp7twZNjOwWO51jPlZsKlsErktyPXNKKrH3CInGcDpIWBzgH8agmlkK/QxDDhShNjUT0mcsTFscACYBU8//ffn007035wLQ79WMqjW53WYJVZjrjrYjztmpfjbBMyHMGNUfrQm9smQ9JeGrp53s3h8mgTQST9hBgWFvuKHfZQ65ExRIAgCMTo8u19MEJrqKo6TS/cCaY/hJPrYc1wYALBWdeYF/oQND4h4PGgXiLY0pE/EgcGjgxGFsUU34snvfUT5mSpvRTLDwN9V2wJxrzoy7lpVjoVu0QJv2LZzLsNKeW9p3J+xMfH3RpnA==;Zd3tiiq2pms0gnnbV38sng=="
+images:
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "joOgJNIy1JFy0UX9ZQugSr0g9e1pyGct0kACuigPS0LeYpuv4qu7N0LL7JIBfwjdmu6WrJHsM1+TrtkoeSm5NWJ/M6LwXSNhk00VSI6POB7s+YCkVig6fn+PQme0drmxEizimWKEmfL5NWfWz1TvMVLqnqaXfKEOvadQcRLkMq0Tt3hQXUFXCEhOlIGt7G/UiHSva1ZDb67dQoUbGTu7L/Duwevc7bkWIfuegd+saV1oCyT7H3oibncA+G0TVX+N971CeHfRY7doS/V3DaWeW4vlZX0Abzm431GvWXHQApNZbZAytH8+KABsWRkOHIPbeSirrOy8fKIIujWtipwg3ATWYSeSslA1ye2gjayqRsg=;Zu4lk4gVx5tGV8U7XCbWSw=="
 ---
 

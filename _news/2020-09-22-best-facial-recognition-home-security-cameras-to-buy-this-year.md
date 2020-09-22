@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "The race to build facial recognition tech for Africa is being led by this award-winning engineer"
-    excerpt: "Facial recognition technology is not widely employed in Africa, partly because the technology available up till now has not been adept at identifying and differentiating the faces of Black people."
-    publishedDateTime: 2020-09-17T19:38:00Z
-    webUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/"
-    ampWebUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 76
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/09/lOfIoxKg-e1600368338399.jpeg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 786
         isCached: true
   - title: "Fujitsu flags efforts to tackle facial recognition fraud"
     excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
@@ -120,6 +104,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PAxAXmciN14Eqp0A5qoZpYEHRqQ+MT6R62KmCQl99D1DAjv1YQYJWrSfMvR1pemd4ylAGDSi2SKiyYRP6xwvXNagqWKSgvs3Kk8UEkFQy01tgnCiB+O4T9FOlQTp+LDG8kTX3TLb384160hkBueBbz4boQkRdI0a4/X74H5BOUWkDqctJtX6QUDh7z1Fz3LRyOPZNkoOkmtLihQa71i7EPbR53vYGbeOdzigw9WxAkzhe9yzVfaYDZBLwbIeXFyj0dpJTJuCYGObTG0NTQslMSi2Xd8P8Rn/0KpHcJFwhBlTXJaXOJT75bg1kPha6OT6QizP152o0LTzqfEv44pJYpPFhzJkp85hhYsq81XaB2Y=;9o03HYE+322gBXRrwXLgkw=="
+secured: "M6x+T5fGJ/yBp9h53J9EDg2dcUNxuDvRL4pDAWlk4UNd6/VlME4somBWVRDikZ2sXxhuEtlt90bmBWwfLYyPTLsfPAHQYsGH5QtgtbQNrlGI+yCAusVIS3uPRofBliiLWEMYLTrxqWbT7SzQM6KtyI3FwhsVlPrOuG8++eZ+oqnaLRU8oA3awIArSCwGjZK15dnYZnjwvivdZwWw/6e7eprGNnZXyEDah2AI7KNUk+mBQx5iFHwRZ0VBORYQ3PydJNoos/nch/T/gbHCKrmJKSiVLllCmRvqKtKZmqZW9YZ2DGfNHaNGl39d3cXJbJ5UDkUOtni1naGrsJjrGNYcLmMrfkMYe9f/CIILadaEsPWwejpmgVbPSC24bgmu6v0zhynkMH1OqVr/9LF8JGP3r6NqFGDdmjVa+MBvgK3AmuAl0eGC/vidVE2rQSnHpEIp9JXZ3LKdt88w7Fiy5an2z46qvz/Iuy//3XA7aUbxob8BrWjOaPXqeEoiE2dNUgZbhvl7qFiJqWcB2Cou4b7WIA==;6XAIkIYlsmhGxropYjg3mA=="
 ---
 

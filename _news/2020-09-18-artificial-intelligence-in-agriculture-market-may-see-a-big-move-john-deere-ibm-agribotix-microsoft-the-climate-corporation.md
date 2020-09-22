@@ -45,20 +45,6 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 4
-  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
-    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
-    publishedDateTime: 2020-09-17T20:32:00Z
-    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 2
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
 
 secured: "2v2ZpUz53xpOi40rpTCf8yDVrYqx6x+ttROC/zb+HQd0M6RmhvV8kadpfbvlLYDLbhD4iFoKsYDiaR7QApw2ZQS+COZXVOHXARWS1qLkuycNIi7JgDx17sPsWO9gQrt9QLEnh6tyuGa66fM6VZoTrENsrZaQE+bKJ/773zDNdSXcV9l3W0w3rhXZ4ZtOcwmpy21l7ymS0BQn0JsLRnnUEP0pMasqL1ZZ+nhWzDqKm+BxXrjfzagNwZ1y9dWG7XAuTYlmmxkeBkaPnOmdfZnJ2IzTjBb5Z4Yhd71GzOZ5Ws1uvlczOHXJ3j/n6TL6koPIa9lkgaPwXONUqj6Xf29ThhxnQFJzm6WhSmJHTOsObwU=;G7FxI6OtZQu2omF4ubVNCA=="
 ---

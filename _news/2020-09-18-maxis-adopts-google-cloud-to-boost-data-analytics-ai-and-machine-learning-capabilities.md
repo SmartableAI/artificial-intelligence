@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/maxis-adopts-google-cloud-to-boo
 webUrl: "https://www.telecompaper.com/news/maxis-adopts-google-cloud-to-boost-data-analytics-ai-and-machine-learning-capabilities--1354417"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "A Strategic Playbook for Data, Analytics, and Machine Learning"
-    excerpt: "Harnessing the value of these massive data volumes requires a modern, cloud-based data infrastructure that unifies disparate information silos and leverages analytics and machine learning to promote critical business decision-making. Regardless of where ..."
-    publishedDateTime: 2020-09-17T19:40:00Z
-    webUrl: "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 69
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "d5vm2u7rmNMbLOFrAQVlR9nSeh6mMO/N+qScKoL4LuOhtCAJ5Ir3us+7sbllEYNNtowA3lhI4GtGbs5LegWyC9ymsQ+6TYJBWLTH2DVNJPG8qVnW06Y3ktNuadRQDixzW6PfDe5gCmMs8WQz5BqAetW6lSFQasz4Yd8roL4a7rQsgI2BTjfDRabu22Kr+ACtAIY1YX2e80RKxxHFVjrHDkt4Swe3vUwz/AkfojUfvOcTuQP10+FDUOMEeMOozCCs6dwdfphgJaECwcyDbaUbJuMBbgXaEEmESDO/qZgj76hANPi2pfCuAIFLRcrvzCstSy71YCFE5zDkw/lGljmQ+aWM3GJb1sGbFhipSep6Xrs=;4Sg8yVbKFtlqFWxcInT3iQ=="
 ---

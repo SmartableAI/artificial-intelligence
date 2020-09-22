@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-ar
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Baidu Unveils Upgraded Products Based on AI Technologies"
+    excerpt: "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space."
+    publishedDateTime: 2020-09-22T12:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "h58a7dmBAQd+5KmXYVEJa5ZkU2Eot7c1QQUSOLqYzS1/24y1TynE03yVE+5MOvCh5LAyW/1J1rwm07J2XuJlrOT/7FyCUvnFkU+EHRDZNSj5F/aqe/MPrb2tAfrB8tou02Ay2FfPjRCqKXo9ab7vOutLfWtUZ33g9w21zpO32YR0DiXzNkgQBovOOqItGUEpNPRZyTV1UXw978CoBUVoAGkts/j+20BV28gnhtQNjYXO8kxG4UZOf72tARkyHAanM2CxNbJHLzp/yE9DhsTpL0k+mVltbShD63lYZD6V69mx0oMQTh/Lb93U4dTdnSYbJERgsQADOtMu/FGETG4wuOlxDyKpwGAskEneM6xhZMclzjKDuH5YfiavWbTZ6hIOXhIKpWD3Oq5p7tji9vdp8k61+fEE2EMz7lDsFhr+X5TzO51Zy4b8Rql+Tca7dROQ7LeGam64RNqgw7wHVfKB7Y2d+5EhGYTgFIG2M1/3AmamnzV1noDtvzWgfB6nd2L4UtYj7pUsxMwUP7B3kxbBeA==;fgCGUwOE1BnjyxAltLhn6Q=="
 ---

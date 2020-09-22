@@ -40,6 +40,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Early Detection of Osteoarthritis with Artificial Intelligence"
+    excerpt: "“In the future, coupling presymptomatic OA detection with emergent clinical therapies could modify the outcome of a disease that costs the United States healthcare system $16.5 billion annually. Furthermore, our technique is broadly applicable to earlier ..."
+    publishedDateTime: 2020-09-22T12:04:00Z
+    webUrl: "https://www.genengnews.com/news/early-detection-of-osteoarthritis-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/09/human-skeleton-163715_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "q+bf6bdoVxLf5MhF4y6FgKoJ2l8bb8PLi/DzX8fEctU+kzLHq/K2nhSHkmzcJ/psns1nWwOaYjutVy34+0CkC3ocHJG0X9UShwPK+xy6q8dymZbVRyzxa0Gy9otu4w55FhTHGN+/6pgWI0ddntzfiaFTeLtZXiFQy0VYqQx8FtXIKoWT3W88o2F6wq8M9/SUYnKctjWb4t4exuedtykN/WuYCj7Tj+HgKuj0Yz6NSb2nFJ9FV3CapH9zTXRTngPoOT/1XVnMe2zLINtLu/x8DnzgGbn2N9bYzX2Xqz2XAj6r9oAWlQSs2VAYvtHbqmjNGyoVpBot3pnmwpZ2211GVUfklLDgBH7/Ze+8NoBrA1U=;fhwm64YLD9iubr/GJxIU7Q=="
 ---

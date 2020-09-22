@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-28-hillrom-inks-partnership-with-aiva-to-facilitate-voice-enabled-clinical-workflows.md",
+      "title": "Hillrom Inks Partnership With Aiva To Facilitate Voice-Enabled Clinical Workflows",
+      "excerpt": "PRNewswire/ -- Hillrom (NYSE: HRC) today announced a new commercial partnership with Aiva, enabling hands-free communication for both patients and staff utilizing an in-room voice assistant and Hillrom’s Voalte® Mobile solution.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/67996d718036762ebca7c59be0744f21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-ciox-health-acquires-biomedical-nlp-company-medal.md",
       "title": "Ciox Health Acquires Biomedical NLP Company Medal",
       "excerpt": "Ciox Health has acquired Medal, Inc., a biomedical Natural Language Processing (biomed-NLP) technology company. – The acquisition will lead Ciox to better and more quickly enable real-world data ...",
@@ -1376,58 +1418,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
-      "title": "Announcing the AI Innovation Awards winners at Transform 2020",
-      "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-15T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

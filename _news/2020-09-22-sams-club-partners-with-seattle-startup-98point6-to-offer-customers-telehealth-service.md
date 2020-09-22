@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/
 type: article
 quality: 64
 heat: 64
+published: false
 
 provider:
   name: GeekWire
@@ -28,6 +29,6 @@ images:
     height: 420
     isCached: true
 
-secured: "LsjnDezqivjZrAbm3jfhJRDY6F00Mf89XGRo8bYCmCSjgQZ/zSJ1CAq4WnfCJRPphfqDs5+t+MQKpxI2W2YNa3guwZTIDfcxNIH7POsVsv/ivYv1ddoGCfoBJqslkRmMTTP++QSdcazn4Q0lwffTOgOU3U7gv64i9QUewO91VaeMseWTtCV6WjYP2G5LVdkZjIMP4W1TTD0s65f2MeJB7dUAGhOlsqUr3eZUQE97ETjnrbBc3X1hRnfuW/w72oURlmad0tly+TjWHx1/iqQVPzoHsHiq98wT+RYjdhUrjLcGIi9DpHic/G7cH0Sh2tY27fgsY7M9LqtK8cBIIK9hldnxebMIBVmMeHgUFsj8qWk=;r9C+jBjYSphFQkg5W4obog=="
+secured: "AiHgZld6XUe1kREhcHMN1Nuz7URW+4RDngTVZtLyCuATq3IUcw5ZDr+JVR3wnNo192wu5YQi7bzTWsO2Rw6jEN0tMjyWnMOrcycDMWLt3Mil1ANnzqNlt9zpUMJoG9JhEZ5QJ2kW9KcvFeWEqmD0Bc5zgeEitUWDacAxwzP1dFwwY/Kvri7QgHdfindbncs7Au3H8qbCsQpqzwsvHVKNHU+sT6MYe9h4a+tQ5AbDERA36H8WNInE/1hyZscharZH+Yzd6+BEwNuKHaCSXBuUjqBTFy7w3qZ+qeYKCJGQUlv/0BwSWYMyhEWp0FFuRpfWRqaUvIogqM2GlmQ8Mcu4dI4416kp3AsFf0i3OfyqnVBuk7C/JZtppb7YvCzGPh5CUTqACRFOmVSa15QDvwahVC366GzRBdHHBP6qhfm3aska9xo7fJqI5o++a1lxrvFO6iPgkbSUH/zue4hVrHz5owInaaHoBUZCGrcIC0r3mOfBdg+LaLuxSE4MS51joC/lx5OP3oUYgWTjFCKI/swQBQ==;BXBXKto57HMMzLBihOA8qg=="
 ---
 

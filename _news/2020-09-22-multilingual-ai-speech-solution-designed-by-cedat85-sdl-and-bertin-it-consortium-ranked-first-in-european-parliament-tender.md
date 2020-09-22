@@ -1,22 +1,25 @@
 ---
 category: news
 title: "Multilingual AI Speech Solution Designed by Cedat85, SDL and Bertin IT Consortium Ranked First in European Parliament Tender"
-excerpt: "Cedat85 is the pioneer and market leader in Automatic Speech Recognition and Speech to text technology, operating since 1985, with hundreds of customers and more than 4 million hours of transcriptions of events, meetings, speeches, broadcasts, and ..."
-publishedDateTime: 2020-09-22T07:20:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200922005087/multilingual-ai-speech-solution-designed-by-cedat85-sdl-and-bertin-it-consortium-ranked-first-in-european-parliament-tender"
-webUrl: "https://www.morningstar.com/news/business-wire/20200922005087/multilingual-ai-speech-solution-designed-by-cedat85-sdl-and-bertin-it-consortium-ranked-first-in-european-parliament-tender"
+excerpt: "SDL (LSE: SDL), the intelligent language and content company, announces that a consortium, formed by Cedat85, SDL and Bertin IT, has been ranked first out of three finalists"
+publishedDateTime: 2020-09-22T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/b17596395/multilingual-ai-speech-solution-designed-by-cedat85-sdl-and-bertin-it-consortium-ranked-first-in-e"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/b17596395/multilingual-ai-speech-solution-designed-by-cedat85-sdl-and-bertin-it-consortium-ranked-first-in-e"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17596395"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17596395"
 type: article
-quality: 0
-heat: 0
+quality: 12
+heat: 12
+published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "0UZqqAgXMmAtPrw3JBZRFMSl6WeLwjdFiSyg60WE+kSZR3Pm79Sh+1XxhpU/GcQAnlNpMbxpowxORxnY0x9u4tbJ/qfWbIUGprNVbQn53OYtI8LS+jBOa3oJ6bj4dfd2PPSxMiYuDyJ1Oc2dFc7yhg9MLnjdtMKh35ZK+LFiEgApyiog6ezLmKwvJSQ+T8sy65t7r53Af/PA//QOEAq+NJv5dw1XdUHyDGcFEAFw90VelAwGxtLqtx6T7ggY+bnaC90liON870f5nXwO4ff01mVt4VtKaENocUN4TtDiFOpKz5s2uR9mnXUjniaYnFqHAV+1OvPfsA9WJqtWEfc/GZoi3YwLh2Zl/07VzwLgEAk=;WmDRtmhEHhNewHmaQ7kJPQ=="
+secured: "r3XYBAyQW8hpGkXrRGq3FMzqPS48AL1noaCPODco1BAUsBskwsPeyVd9iu6dTzIEoRhdQnyBdSK3BGIv2fcPE/nbXhr06F9AVytg1yyjHT0FOBf6O7fzjku72KDZmoctTrUHXdjzbJzP54qTWOoWEfQBOVxYvXRZ50Ebbpd9Vex1V9BrsG7cx1HUO2OXsHHP0B7bRppNKcT48qrjMO6QtCuvTkIM0BdUmdFBUtRUlK6D2Q1C6FqIJK6UxIKax3b7JUgEc9swDqCiAZv10vMH03uDvo8mftgj6gP1DEEQioOlkgAwvssFie8IEhWN1tldOllF9CdguowdVP6nFyp0fXTd8/iS4gF2E6ijoEfLAaI=;pHVIJl+1QZoXkucr35hPHg=="
 ---
 

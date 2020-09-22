@@ -57,6 +57,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Baidu Unveils Upgraded Products Based on AI Technologies"
+    excerpt: "BIDU recently unveiled new products and services based on artificial intelligence (AI) technologies at the annual Baidu World Conference in Beijing. In regard to this, the company revealed a few upgrades in the self-driving space."
+    publishedDateTime: 2020-09-22T12:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-unveils-upgraded-products-based-on-ai-technologies-2020-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "SN1AMLB84KcerkwHaUINpFivtsev7p1Kte6fznFjczYzoKZx/qD2ZZE1fei1qoevQOlEYQjU5p0knUCbxu5IuWrHs0izpsM+FeRJfsLXAjA0/eHrtYmvSTRtxtirmc0Aw0oIb/pXbcMyiMBG34JsQYXoNw6SuZBJqr1IyvSGaXMEoV/drU8Yv7VlCkr9k7+nft72TbYCIsqr8+yydoGLX67W6YJ0Gcgm9aGK5RZCyKRNd7MjNxDPcE48I3fjpmuOQGXlcC2ab4NUEVbTi/o5/FVYxKzDg7Zo83AlmTja1tsd1uG3GFFGeV401ankjlH0YcRMBDOKRZBT0K+L0H2nQUZVUtKiv2Ht07CLggWkDuQs4gTRkP7YOlnMj9kdWFagDnfPYuOM1lsd7785oKd0VnfrCeL78NNe00QgrQH5+IqYxz4crF5JNqQFWwpAvgEOqeT4cySnesAF/sPohboZR+QyRtiVwFkTqfMEh8IEIQJ0ZO1tIq+Jd6EZsm+uBbvKARi6NxsyHjp3CXKkT0q/Pw==;zvgBXRZYsLxvH8gQByRSig=="
 ---

@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Idiot Investors Plead For Uber To Re-Invest In Its Deadly Self-Driving Cars"
-    excerpt: "If you’ve followed the story of Uber over the past few years, you’d be entitled to wonder what kind of person invests in a company like that? New evidence suggests: a moron. All that and more in The Morning Shift for September 21,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195"
-    ampWebUrl: "https://jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195/amp"
+  - title: "Tesla's full self-driving option falls short of its claim, report says"
+    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ..."
+    publishedDateTime: 2020-09-22T11:54:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 42
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fi2eplzzizp39xfm3jrh.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Uber investors push for new self-driving strategy - Bloomberg"
-    excerpt: "Bloomberg sources say SoftBank (OTCPK:SFTBF,OTCPK:SFTBY) and Benchmark have advised Uber (NYSE:UBER) CEO Dara Khosrowshahi to find more investors for the company's self-driving unit and ..."
-    publishedDateTime: 2020-09-21T20:35:00Z
-    webUrl: "https://seekingalpha.com/news/3615934-uber-investors-push-for-new-self-driving-strategy-bloomberg"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "Q8ZmgjHTOu36pGjHbqqEwSYRdvVLmT9Q//vQ14BjLTzb0tfsVckbhIkWLT1ThpqoyJNExGF4jCMcWoDUtYdh43l+BEfGvIOiup4HtdK1+abC6pIgQPqg78cv+ZeenQKincOnIblEfZ7/rEcxb8Q/AllVPjORH8Gnf0imBliAkT6DZNaiC45W4ejEH04VGtQDkGIQwmF+JGndmOsSbabRW6veTvoq+oDiBQ6ASwne6PwHU1iY01xL0tQus8uYlawayO315F+g8hOPiJPIwNkkkyPo73fKDyAd2rRWErThTg3JVdLsl0K7EBr36pmj18gmED4bcUxuV66fyREcGo98+MbXqNUzr+sZ+wQ6Qe6BIIU9dcMXWuefbtsHhlcbwNeT6muz6egAa2Xj59I9iM7LUswK8JwJ9VvzU/4dUkGnbLXuObVvjovsacubgtOsjYcSpQvwye5wi3nyONIPGz7tjTLDWAFk4HLsIeqUE/qycBLEyBA/yy2z9+yymtuBQL0pRftCAWHnuSXRtFAMrkmlBg==;omSGu5EruP7C7G/8pwq4Yw=="
 ---

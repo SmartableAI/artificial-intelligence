@@ -2,6 +2,184 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-27-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
+      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
+      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc QCOM.O and Alibaba Group Holding Ltd BABA.N, on Thursday announced a new chip",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up-2020-08-27?amp",
+      "publishedDateTime": "2020-08-27T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring.md",
+      "title": "ProteanTecs raises $45 million to apply AI to chip design and performance monitoring",
+      "excerpt": "Startup ProteanTecs raised $45 million to further develop its AI chip design platform, bringing its total raised to nearly $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/proteantecs-raises-45-million-to-apply-ai-to-chip-design-and-performance-monitoring/amp/",
+      "publishedDateTime": "2020-08-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
+      "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
+      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
+      "publishedDateTime": "2020-08-26T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-baidu-is-searching-for-quantum-ai-advantage.md",
+      "title": "Baidu Is Searching For Quantum AI Advantage",
+      "excerpt": "Baidu, China’s leading search engine and AI powerhouse, recently announced Paddle Quantum, a quantum machine learning development toolkit. This was the latest in a series of steps Baidu has taken to marry quantum computing with AI since establishing its Institute for Quantum Computing in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f45584928538501651e180d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/08/26/baidu-is-searching-for-quantum-ai-advantage/amp/",
+      "publishedDateTime": "2020-08-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-china-still-buying-300-billion-of-chips-from-us-elsewhere.md",
       "title": "China Still Buying $300 Billion of Chips From U.S., Elsewhere",
       "excerpt": "China will import $300 billion of semiconductors for the third straight year, underscoring how the world’s No. 2 economy remains tied to America despite billions invested in local chip-making know-how.",
@@ -1196,201 +1374,6 @@
       "provider": {
         "name": "Electronic Engineering Journal",
         "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-analyst-watch-the-rise-of-ai-chips.md",
-      "title": "Analyst Watch: The rise of AI chips",
-      "excerpt": "In a recent study on AI chips for Kisaco Research, where we closely examined 16 chip providers, we also mapped the AI chip landscape and found 80 startups globally with over $10.5 billion of ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
-      "originalUrl": "https://sdtimes.com/ai/analyst-watch-the-rise-of-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/08/board-453758_640.jpg",
-          "width": 640,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
-      "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
-      "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xqtsXikRmR2P9p7hgseakY-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "publishedDateTime": "2020-08-13T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-blaize-ai-now-in-production-and-trials.md",
-      "title": "Blaize AI: Now In Production And Trials",
-      "excerpt": "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg",
-          "width": 1199,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "publishedDateTime": "2020-08-13T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
-      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
-      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
-          "width": 620,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
-      "publishedDateTime": "2020-08-13T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

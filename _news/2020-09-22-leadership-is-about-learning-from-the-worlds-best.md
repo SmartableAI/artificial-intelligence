@@ -8,6 +8,7 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2020/09/22/leadership-is-about
 type: article
 quality: 54
 heat: 54
+published: false
 
 provider:
   name: Forbes

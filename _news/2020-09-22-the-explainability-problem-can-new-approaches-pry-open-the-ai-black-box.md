@@ -8,8 +8,9 @@ webUrl: "https://diginomica.com/explainability-problem-can-new-approaches-pry-op
 ampWebUrl: "https://diginomica.com/explainability-problem-can-new-approaches-pry-open-ai-black-box?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/explainability-problem-can-new-approaches-pry-open-ai-black-box?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Diginomica
@@ -18,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2020-09/open-the-black-box.jpg"
@@ -25,6 +27,6 @@ images:
     height: 851
     isCached: true
 
-secured: "tRuxPPdmcKmCK9Do+DK7AijmHNhRmRatFvmLfUZ0/JPEhbnX4tANhiRmbWKTEDXB5jb96jGvF80xtRxs5yRAP/mWEiDIOlQBOpz38BhsiFxKIAlfQknC8EoqeQVwHJWl7tGx3/0bcLqsLDfsErlwZVfcCs38KD2OCAIShD71gmYgWafWSPJJz5BIvvOw/Ol8oZ8+0Hou0yDrg1iDtPx7iCMJ/Cm349FIwU0wpxnWc4Tbq3cENrhyzGgQysblgVPG1cW7k45gUgFIgzPh2KbdpFxB9OPd6/c9fhe0R1cr8UJUBlQYEV/yucMEhaU4jP7P4WiyWMq+iLg01BAz4FIzc6d7aQh98tJK0DcPtORQCwA=;Zdi1HS4unBDaTohluw9vTg=="
+secured: "m+MVMbSKfUh93rlcp1bbXMYd07dKeevVTymPVBMiN6xL8Ge2dH2NHULSPvcAH92wqQXUEJhxRK5f4XwJnKZ6H8BCjUJkC1dZuC2TX32tXp3j90PDlz7F+ikp/kC73GTHWk23Vnz5V2YsAvFDRnEbm0eni/OHz10Gv6iHAgKWnadzD/xJjDzcxkUyB1AmxyPnG+kXHYyyJ2vJtjMFnFUqkdveG1N914l4gtF91cmCf68NEC4ccRSHpAqL9GR9NBnkYn7xJc5EeBOJAemQaX+g6LaP0xrjqjdiuNXChmCF63mS40cntbkg7eaPGPRAs1UKorpWtxmqRcgvq02bJ5HWUgLTKix3qYrTkULQC1j0woXHHCi5Ree225IDYbly3nXOaTxUeNCHEao83DrmEj+W/q95IyoCk5Udcr6sUPaEjmxsPzi63ZenN9otg5ku/DcJpvo78VvEPbagJXL1kUk6h0hCkT9s03DVHVKv4f/fJel5Vi4urmEMkruAFbXm/s8RZrY79NxwXfIfor2g1KxU8A==;Igc8mWOaxoOvty2ZAEBfYw=="
 ---
 

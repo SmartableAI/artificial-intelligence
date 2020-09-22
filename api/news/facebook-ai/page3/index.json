@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
+      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
+      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
+      "publishedDateTime": "2020-07-28T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-facebook-builds-ai-tool-to-identify-harmful-behavior-of-people.md",
       "title": "Facebook Builds AI Tool To Identify Harmful Behavior of People",
       "excerpt": "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security",

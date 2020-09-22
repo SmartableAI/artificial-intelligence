@@ -57,22 +57,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "The race to build facial recognition tech for Africa is being led by this award-winning engineer"
-    excerpt: "Facial recognition technology is not widely employed in Africa, partly because the technology available up till now has not been adept at identifying and differentiating the faces of Black people."
-    publishedDateTime: 2020-09-17T19:38:00Z
-    webUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/"
-    ampWebUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 76
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/09/lOfIoxKg-e1600368338399.jpeg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 786
-        isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
     publishedDateTime: 2020-09-20T22:39:00Z

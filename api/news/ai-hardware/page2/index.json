@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai.md",
+      "title": "NVIDIA to Acquire Arm for $40 Billion, Creating World's Premier Computing Company for the Age of AI",
+      "excerpt": "Unites NVIDIA's leadership in artificial intelligence with Arm's vast computing ecosystem to drive innovation for all customers NVIDIA will expand Arm's",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai-2020-09-13-191842137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-even-if-elon-musks-neuralink-brain-chip-never-gives-us-telepathy-it-could-do-wonders-for-animal-testing.md",
+      "title": "Even if Elon Musk's Neuralink brain chip never gives us telepathy, it could do wonders for animal testing",
+      "excerpt": "Elon Musk hosted a live demo from his company Neuralink showing a pig named Gertrude with a computer chip in her brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
+      "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5b555b7ed0ee001e25eb96?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9?amp",
+      "publishedDateTime": "2020-09-13T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling.md",
+      "title": "Switch 4K gaming could be added with new dock chip swap, AI upscaling",
+      "excerpt": "Nintendo reportedly tells developers to update their games to run at 4K, hinting the new Switch model revision will output 4K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/5/75046_5_new-switch-may-support-4k-output-for-uhdtvs-coming-early-2021.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/75046/switch-4k-gaming-could-be-added-with-new-dock-chip-swap-ai-upscaling/amp.html",
+      "publishedDateTime": "2020-09-12T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit.md",
+      "title": "BrainChip Demonstrates Company’s Event-Based AI Neural Processor at Embedded Vision Summit",
+      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power high performance AI technology, today announced its participation at the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-demonstrates-companys-event-based-ai-neural-processor-at-embedded-vision-summit-2020-09-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed.md",
       "title": "Nvidia RTX 3090, 3080, 3070 GPU: Specs, Price, And Release Date Detailed",
       "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
@@ -1197,201 +1394,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.md",
-      "title": "Nvidia GeForce RTX 30-series GPUs: 5 things PC gamers need to know",
-      "excerpt": "Nvidia's next-gen GeForce RTX 30-series graphics cards are here, and they're bringing a lot more than just faster frame rates to the table. Here's what PC gamers need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "originalUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/gaming-geforce-rtx-30-100856319-large.jpg",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3573382/nvidia-geforce-rtx-30-series-gpus-5-things-pc-gamers-need-to-know.amp.html",
-      "publishedDateTime": "2020-09-02T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025.md",
-      "title": "Global Edge AI Chips Market 2020 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2025",
-      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Type and Application, Forecast to 2025 aims to deliver an expert and inside and out examination of the industry status and outlook of the market. The report mainly focuses on the accurate and primary analysis of business growth statistics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
-      "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
-      "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20200902PD206.html",
-      "originalUrl": "https://www.digitimes.com/news/a20200902PD206.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025.md",
-      "title": "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025",
-      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

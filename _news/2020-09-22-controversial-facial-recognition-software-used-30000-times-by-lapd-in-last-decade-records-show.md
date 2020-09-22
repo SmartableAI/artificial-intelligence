@@ -117,6 +117,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 33
+  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
+    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
+    publishedDateTime: 2020-09-22T12:09:00Z
+    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 21
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
+        width: 610
+        height: 409
+        isCached: true
 
 secured: "zYl4KQFHOb0/fXzxLvKVc8V+/koZntXZo5mveRkIByHWzdsQlxt56ayjNcnJPMtT9OWZbT3pWkvF7hCC3KGXD0dBEm5YE4rjv+i7zTDH+fbxynkWiJCh08B5g7BkI8HTP+NqqMvqVJd3hDAIk6a6f4b0WEXBqNhTHwQFX+arh/j2XQeH3zbq3dfvfZVhH37NoE8UzhnrJiJI2yYhs5/LG/D7mfTWME5Uu+gwMfwCekm3eNt0WHt6+9MJX9LVzHTd8PMjiC7R7N7SVDucZufGesfTpNGq7CPcTEPVWOHHFZTLyYUi7YAn2P4Dpe/02KOvnD/BBjViggcxQQE+Ne7yGpDsJdP1wKTc8ENQdVezrKbt3AI6SvHpdJbTJGCs70KvOa6ZMaG+ZIVtY1CuB2Ep/5uo7UZW7S9W4gH7V/gsWgOF6a+zfvmk89fPgw0t+tW8BPGzMplQ9yziZCMD97LC5xR6AZbggt2ZBLPZkb50rH7uH6WB7bg+qlhnFDxL23whakQzK7cJCmauGe5+jgzfhQ==;nxq0UaCB/8uT20UV2M1WIw=="
 ---

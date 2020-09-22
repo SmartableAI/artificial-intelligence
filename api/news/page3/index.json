@@ -2,6 +2,543 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-19-miso-robotics-how-ai-can-transform-an-industry.md",
+      "title": "Miso Robotics: How AI Can Transform An Industry",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
+      "publishedDateTime": "2020-09-18T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped.md",
+      "title": "People’s notions about AI are terrible, an MIT study asks whether they can be helped",
+      "excerpt": "Mistaken notions of AI agency could be helped by hands-on learning, argues MIT scholar Ziv Epstein.  One of the most striking PR moments of the AI age was the sale by Christie's auction house in October,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "originalUrl": "https://www.zdnet.com/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/09/18/546f7a0b-e18b-497b-a4eb-b54889807168/epstein-2020-two-versions-of-a-story.png",
+          "width": 1516,
+          "height": 1714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/peoples-notions-about-ai-are-terrible-an-mit-study-asks-whether-they-can-be-helped/",
+      "publishedDateTime": "2020-09-18T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-robot-stocking-shelves-in-japanese-convenience-store-lets-workers-maintain-social-distancing.md",
+      "title": "Robot stocking shelves in Japanese convenience store lets workers maintain social distancing",
+      "excerpt": "Convenience stores in Japan are employee seven-foot tall robots to stock shelves. Human workers control the technology using a virtual reality system to help maintain social distancing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8748519/Robot-stocking-shelves-Japanese-convenience-store-lets-workers-maintain-social-distancing.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8748519/Robot-stocking-shelves-Japanese-convenience-store-lets-workers-maintain-social-distancing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/09/18/20/33351290-0-image-a-33_1600459106089.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8748519/amp/Robot-stocking-shelves-Japanese-convenience-store-lets-workers-maintain-social-distancing.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8748519/amp/Robot-stocking-shelves-Japanese-convenience-store-lets-workers-maintain-social-distancing.html",
+      "publishedDateTime": "2020-09-18T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed.md",
+      "title": "How do we know AI is ready to be in the wild? Maybe a critic is needed",
+      "excerpt": "Can the paradigm of adversarial AI make algorithms safer to send out into the world? Mischief can happen when AI is let loose in the world, just like any technology. The examples of AI gone wrong are numerous,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "originalUrl": "https://www.zdnet.com/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/18/357e38bc-229d-41eb-b4dd-97f4f31e32f0/sergey-levine-headshot.jpg",
+          "width": 4324,
+          "height": 3684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-know-ai-is-ready-to-be-in-the-wild-maybe-a-critic-is-needed/",
+      "publishedDateTime": "2020-09-18T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-a-beginners-guide-to-the-ai-apocalypse-killer-robots.md",
+      "title": "A beginner’s guide to the AI apocalypse: Killer robots",
+      "excerpt": "Welcome to the fifth article in TNW’s guide to the AI apocalypse. In this series we examine some of the most popular doomsday scenarios prognosticated by modern AI experts. Previous articles in this series include: Misaligned Objectives,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robots_wall-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/a-beginners-guide-to-the-ai-apocalypse-killer-robots/amp/",
+      "publishedDateTime": "2020-09-18T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them.md",
+      "title": "AI Weekly: Cutting-edge language models can produce convincing misinformation if we don’t stop them",
+      "excerpt": "Cutting-edge language generation models like GPT-3 are capable of producing convincing falsehoods if not properly curtailed, a new study shows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
+      "originalUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/18/ai-weekly-cutting-edge-language-models-can-produce-convincing-misinformation-if-we-dont-stop-them/amp/",
+      "publishedDateTime": "2020-09-18T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-baidu-reveals-4-new-artificial-intelligence-technologies.md",
+      "title": "Baidu Reveals 4 New Artificial Intelligence Technologies",
+      "excerpt": "Baidu (NASDAQ:BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592025%2F1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/18/baidu-reveals-4-new-artificial-intelligence-techno/",
+      "publishedDateTime": "2020-09-18T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-this-300-ai-powered-toothbrush-left-me-with-that-post-dentist-just-got-robbed-kind-of-feeling.md",
+      "title": "This $300 AI-Powered Toothbrush Left Me With That Post-Dentist, Just-Got-Robbed Kind of Feeling",
+      "excerpt": "When I purchased my first electric toothbrush about a year and a half ago, a Quip, it felt like an outrageous indulgence. Fifty-five dollars seemed far too steep for something so silly, but I wanted to make a long-term investment in healthy teeth,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
+      "originalUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zo1zr178zh9y6rokclmx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-300-ai-powered-toothbrush-left-me-with-that-post-1845057139/amp",
+      "publishedDateTime": "2020-09-18T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters.md",
+      "title": "The AI landscape is shifting from ‘data’ to ‘knowledge.’ Here’s why that matters",
+      "excerpt": "The Artificial Intelligence (AI) revolution was ignited more than half a century ago. In the last decade, AI has grown from an academic scientific field to start being a practical part of our everyday lives.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/shutterstock_255260497-796x529.jpg",
+          "width": 796,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
+      "publishedDateTime": "2020-09-18T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-conversational-ai-startup-genietalk-bags-angel-investment-of-750k-at-10-mn-valuation.md",
+      "title": "Conversational AI Startup GenieTalk Bags Angel Investment of $750k At $10 Mn Valuation",
+      "excerpt": "The company will deploy the fresh funds for developing phase one of its SaaS-based platform that helps businesses build tailored and personalized AI-powered virtual assistants, referred to as chatbots",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356409",
+      "originalUrl": "https://www.entrepreneur.com/article/356409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600454548-Genieteamedit.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356409",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356409",
+      "publishedDateTime": "2020-09-18T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-marqvision-detects-counterfeit-products-with-deep-learning-and-ai.md",
+      "title": "MarqVision detects counterfeit products with deep learning and AI",
+      "excerpt": "MarqVision, the AI -based SaaS company founded by computer scientists and intellectual property (IP) law experts from Harvard University and MIT, recently launched its brand-protection platform to help brands combat counterfeit products online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1600443362/itpro/Marq_Vision_Inc_2.jpg",
+          "width": 1404,
+          "height": 920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
       "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
       "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
@@ -103,7 +640,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -432,7 +969,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -609,7 +1146,7 @@
       "originalUrl": "https://www.zdnet.com/video/engineering-students-to-design-the-perfect-self-driving-indy-race-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -649,555 +1186,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-detecting-and-redacting-pii-using-amazon-comprehend.md",
-      "title": "Detecting and redacting PII using Amazon Comprehend",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships like people, places, sentiments, and topics in unstructured text. You can now use Amazon Comprehend ML capabilities to detect and redact personally identifiable information",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-redacting-pii-using-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/1-Realtime-analysis-875x630.jpg",
-          "width": 875,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T14:46:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401.md",
-      "title": "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026 | CAGR of 40.1%",
-      "excerpt": "According to the latest market research report \"Artificial Intelligence (Chipsets) Market by Technology (Machine learning, Natural Language Processing, Context Aware Computing, Computer Vision), Hardware (Processor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-worth-578-billion-by-2026-cagr-of-401-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence.md",
-      "title": "Sumo Logic IPO Sees Strong Premium for Growth of Continuous Intelligence",
-      "excerpt": "Business intelligence was one of the key buzzwords in years past. With the explosive growth of the cloud, machine learning, automation and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry1-5gz.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sumo-logic-ipo-sees-strong-premium-for-growth-of-continuous-intelligence-1029600326",
-      "publishedDateTime": "2020-09-17T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026.md",
-      "title": "Retail Robotics Market Rising Globally at a CAGR of 31.89% with New Innovation, Technology Advancement, Trend and Research 2020 to 2026",
-      "excerpt": "The Global Retail Robotics Market Research Report Forecast 2020 - 2026 is a valuable source of insightful data",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/retail-robotics-market-rising-globally-at-a-cagr-of-3189-with-new-innovation-technology-advancement-trend-and-research-2020-to-2026-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-ibm-ai-and-the-battle-for-cybersecurity.md",
-      "title": "IBM, AI And The Battle For Cybersecurity",
-      "excerpt": "The future of cybersecurity will likely be AI versus AI. IBM Research is using its expertise to help build the tools to defend against attacks of all kinds and protect data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f62aef583206e4962dbb205%2F0x0.jpg",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/09/17/ibm-ai-and-the-battle-for-cybersecurity/amp/",
-      "publishedDateTime": "2020-09-17T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-a-strategic-playbook-for-data-analytics-and-machine-learning.md",
-      "title": "A Strategic Playbook for Data, Analytics, and Machine Learning",
-      "excerpt": "Harnessing the value of these massive data volumes requires a modern, cloud-based data infrastructure that unifies disparate information silos and leverages analytics and machine learning to promote critical business decision-making. Regardless of where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
-      "originalUrl": "https://www.infoworld.com/resources/208489/a-strategic-playbook-for-data-analytics-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-the-race-to-build-facial-recognition-tech-for-africa-is-being-led-by-this-award-winning-engineer.md",
-      "title": "The race to build facial recognition tech for Africa is being led by this award-winning engineer",
-      "excerpt": "Facial recognition technology is not widely employed in Africa, partly because the technology available up till now has not been adept at identifying and differentiating the faces of Black people.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
-      "originalUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/lOfIoxKg-e1600368338399.jpeg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/",
-      "publishedDateTime": "2020-09-17T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai.md",
-      "title": "Quantum and classical computers handle time differently. What does that mean for AI?",
-      "excerpt": "As humans, we take time for granted. We’re born into an innate understanding of the passage of events because it’s essential to our survival. But AI suffers from no such congenital condition. Robots do not understand the concept of time.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/06/quantum_vs-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/17/quantum-and-classical-computers-handle-time-differently-what-does-that-mean-for-ai/amp/",
-      "publishedDateTime": "2020-09-17T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-small-companies-face-up-to-big-financial-hurdles-in-the-covid-era.md",
-      "title": "Small companies face up to big financial hurdles in the COVID era",
-      "excerpt": "Two business operators in Northeast Ohio are part of this New York Times article about small companies — especially music clubs, gyms, restaurants, bars and others that were forced to close by the coronavirus pandemic — trying to figure out how to pay off debts they've accumulated during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
-      "originalUrl": "https://www.crainscleveland.com/scott-suttell-blog/small-companies-face-big-financial-hurdles-covid-era",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21286c81-0e49-4eae-9c0f-15cb2f524032.jpg?source=amp&fit=scale-down&width=2400",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/58eb7c26-2154-477f-af19-19157ae29261",
-      "publishedDateTime": "2020-09-17T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crain's Cleveland Business",
-        "domain": "crainscleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration.md",
-      "title": "Serving PyTorch models in production with the Amazon SageMaker native TorchServe integration",
-      "excerpt": "In April 2020, AWS and Facebook announced the launch of TorchServe to allow researches and machine learning (ML) developers from the PyTorch community to bring their models to production more quickly and without needing to write custom code. TorchServe is an open-source project that answers the industry",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/serving-pytorch-models-1.jpg",
-          "width": 1000,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T11:06:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-adaptive-computing-platforms-deliver-efficient-ai-acceleration.md",
-      "title": "Adaptive computing platforms deliver efficient AI acceleration",
-      "excerpt": "CPUs alone are not keeping up and some form of compute acceleration is needed to more efficiently process AI inference workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
-      "originalUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/amp/",
-      "publishedDateTime": "2020-09-17T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
