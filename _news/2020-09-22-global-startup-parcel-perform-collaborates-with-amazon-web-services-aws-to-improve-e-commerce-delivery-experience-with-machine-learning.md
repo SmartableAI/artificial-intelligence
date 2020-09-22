@@ -8,9 +8,9 @@ webUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-p
 ampWebUrl: "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 related:
   - title: "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
@@ -33,7 +34,7 @@ related:
     provider:
       name: Finanzen
       domain: finanzen.net
-    quality: 28
+    quality: 45
     images:
       - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
         width: 600

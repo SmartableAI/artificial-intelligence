@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide"
-excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide, prosecutors said on Tuesday."
-publishedDateTime: 2020-09-15T23:33:00Z
-originalUrl: "https://www.reuters.com/article/us-uber-selfdriving/safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUSKBN2663FU?il=0"
-webUrl: "https://www.reuters.com/article/us-uber-selfdriving/safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUSKBN2663FU?il=0"
+excerpt: "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,"
+publishedDateTime: 2020-09-15T22:00:00Z
+originalUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
+webUrl: "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2663FU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "Tva5D0kuB5yME+nLZeuKUV6FYswei4OkqHvmf7KddOhdthnL8PZ/jOHoRv93HCcqr1GJ62H5C0Fdw7POlNmEWhgUHWhNWCw7kHXq9TKQvhRNnzdbpwOaIk4xFliYkKBhBhR+vm0lZymcUWMYgjYgF43IPYDIw3/xxsFQBZETDbpqoyEDE28P+/+err9Z9AlWenPtJrBhNGBru3lvMSnc7gC0N5iDpmmAaiFGR3VvB3/ZNw75HJ61Yz4rq3QdvlZMjhO5SXi9g9FMUkJL99FYUfm4ZlHAI2FQmiXKPwVOk32dyOLHiuOQ/C6j17V85rTKoYilYDP5fLB8JI7pbI3hPmtnPKe1KJgW2T5qpbKId8E=;/tmrOvPvgG7ZIFhbwbDvOQ=="
+secured: "qAlcc03B50S7rPAK3bcrz0V6kiVys2i0OXz6rb0oaDSDz+OH3WTRKUsq2tDzESgg/4dVvshFIkg3wcq3S3vetjK5gjhH432CIP+YRaUy2uCdQpS0BHVLsCJY9RRXPbc8KMICbEblTVnGR4+4MP8Ux/fSAoLUKD68w11cPLXen+ukHv8X7V/yeq3id5b4ty0o8ZuYXcyr3Q3kRGqfOOHTHYLGGwRzXHitrWJOHrrDjJAwP9NRPOdutdt6uQ6vA7cKjZKlrEuogkT/vpYXP7Dke/olzN1ft+Lzrj2TDLjITjKo7bjF70RGqwpfRQIc38HP3cAsRGvUarqLV0MKhne/aiyKaTf1kTTatxoQf7eCKk8=;xhgz2i59uipVw/lT7Pswjw=="
 ---
 

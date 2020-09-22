@@ -2,35 +2,35 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-22-unm-scientist-artificial-intelligence-can-aid-covid-19-research.md",
-      "title": "UNM scientist: Artificial intelligence can aid COVID-19 research",
-      "excerpt": "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there’s a",
+      "path": "_news/2020-09-22-global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning.md",
+      "title": "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning",
+      "excerpt": "Providing the latest delivery date of online purchases is a crucial driver for online shoppers' satisfaction, but arrival date predictions by",
       "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
-      "originalUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 78,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/unm-AI-.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
-      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
-      "publishedDateTime": "2020-09-21T16:12:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848",
+      "publishedDateTime": "2020-09-21T17:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -39,8 +39,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Israeli Pain Monitoring Startup Medasense Raises $18M in Series C Round"
-excerpt: "Accelerating Commercialization of its Novel Pain Monitoring SolutionsRAMAT GAN, Israel, Sept. 22, 2020 /PRNewswire/ -- Medasense Biometrics Ltd.,"
-publishedDateTime: 2020-09-21T22:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-1029608801"
-webUrl: "https://markets.businessinsider.com/news/stocks/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-1029608801"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-1029608801"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-1029608801"
+excerpt: "Considering the complex nature of pain, Medasense technology uses a unique multi-parametric sensor platform and advanced AI algorithms to convert complicated ... \"Medasense is a model startup, having successfully introduced a disruptive medical device ..."
+publishedDateTime: 2020-09-22T02:34:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-801140344.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-801140344.html"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "Us2vaoDpM6jTQJHqFPXjeq82wdoJLC+vvBuo/W8fg3RtJUvamMZieIsFUB9/st/vxaVcnfFyZptfipPDqjGjoZwT0ikWqg1+zxS+eIP5sWi6wkHWH3d2MyEmjqGjVaTOtv4zjqNgbDaHfimwM4qeKY2IuH4mVUpB1DG0NsuY7jktVbSCqs9nYT82GDYDYS/kmctEZKJ8s14XFQ0itQPVPPPsQaX54gELHpiM77qdPT/xays4mecoJ/61iCQFRYSO6Xib0dVCfTHsZdQtntnfOc2ki4IBIYvkE2W47b8RY3fsT4SltzF5r8aYni0ehs8o5a4p+Y6v/5MpR5w/VAV0Vq1XTlwkYHIbh/tlhQKojsg=;F1I/vE0JKFOUSpbv24UY4A=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "8zmRCpDZxptIbYHwsnwLgQvygZ6bgvL3VrxrghfuonIAzOzK1RrUgKqZi18kl0cpKG8kkO4PXLmaNxJbdkUPp23YlxOv+a7UMedf+ggQSGcVcSR0mOX1YAQCOt0qz5Qi2/+t0FtnA8GShoLD5E80gleWqB7TETs9+a2nDrGWUSSJVDPHkpth1DMB4JmVfTMnAzdbiTGwOpWsQYZ5yy13OLRjowfcE7Gnac9YvC0WtFnXqApkWdoo8tv6jBWlitXRyFiy5UT5yetbTG4C9K2H3Q5ZehkLpxjwkUv1lVb4iT6+nEwV4eQ0eVER8iyS9gPpi2gTICFWgKxSWSdIL3tccxOlUxQRLs8aj28lenqzf10=;aVMSWdkXLwyO9l6jdvxWhQ=="
 ---
 

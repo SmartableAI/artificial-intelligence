@@ -1,42 +1,22 @@
 ---
 category: news
 title: "UNM scientist: Artificial intelligence can aid COVID-19 research"
-excerpt: "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there’s a"
-publishedDateTime: 2020-09-21T23:12:00Z
-originalUrl: "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/"
-webUrl: "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/"
-ampWebUrl: "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/"
+excerpt: "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there's a better way to sort through all of the data by using technology to do what humans can't do."
+publishedDateTime: 2020-09-22T00:12:00Z
+originalUrl: "https://www.krqe.com/video/unm-scientist-artificial-intelligence-can-aid-covid-19-research/5871104/"
+webUrl: "https://www.krqe.com/video/unm-scientist-artificial-intelligence-can-aid-covid-19-research/5871104/"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: KRQE
   domain: krqe.com
 
 topics:
-  - Facebook AI
   - AI
 
-images:
-  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/unm-AI-.jpg?w=1280"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Artificial intelligence and machine learning could enhance scientific peer review, researchers say"
-    excerpt: "Artificial intelligence and machine learning could enhance scientific peer review as scientists rush to publish COVID-related research, according to experts."
-    publishedDateTime: 2020-09-20T23:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200915105938.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 50
-
-secured: "9344Fdm1sERh+HCgP0svzjReC8F0zgD2iYlOZ1rAI3YFacP2+Ft9bxRoIJ5KHANmALT0okrxOdVx1f2U1YP1nsjn6VrBJ3y/atC/DVEAhcyB3tJDziBPBSrkos9AFDT7ndS7nOIMamIGYFKPkIeBEwCK5lMuBtBYMjpSIV1R0FvqjB+ODUuZJU0+eff3iTcrGSr4ayJWqHFfXpxiLowOa/PR3QsMUN45ueOdzmPtzTGS+OLtlt5FHKsB52H0DZ8b8bWLG8NXgPHLelVYenCUP9/S6b4+6u6HHOeCotTt12fUIR2v3bx8DuIJ4Z/mPZDODKgzGBJu5L4HPCF9KtrlYQ4tA8qKqzh4CKqVNw4+Fv0=;z67faQtxrpRUYxQVkSFQCQ=="
+secured: "Wil+wzrbKVFSd8i9+JdkwsbQYK+dEjiJMPjS0aApqyVYj4njSWjfSgrJVBHhfwaofVDiBkb59YWii8lJk0mq3KYE8gPFej1SmAWtd5XWJGmvouatDzFIGSM/2JJGBtIv+lKY6rBQXQaQcfIuJ7PCKWD71Ufa1JC8V3FnYeaytDAj+9qIDOw7uru0uNR3P2xXzDQ5Gdppu2nYzpOVnu5NdbgSbNB0WvMY02dn9JU18neHXhMMYy3hWIYlX7ZTFzfekH6D0MHH1g7Md4zHAj3PAwGkJiZSwmm96on+vIE0QkSCTP4d+zBffZsfx0KpH1w0if5UvCf2cXFAUME9blwq8CuagyZ7ZrR/viBoXvCpJNNmn8TPbEECODuhb7XCDt8+9cio93qGj8vFXesHheoOXkgJ28f9HL0qJZBSmC0i+5bvAdNMUjBk267N22QCSmnIu9+5yUNZi8nWq5MjzH2rxeGZfyvpq5NqgFHBbAFbKx8gzdQuT9o6IY3ZVGg+L6O/Hoja2Zz9rDUJCOgH+s7MBw==;hvCX/opIQUZg4hKAzq01Vw=="
 ---
 
