@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla driver, 20, charged after found asleep at wheel of self-driving car traveling over 90 mph: cops"
-    excerpt: "A Canadian man has been charged after he was found asleep at the wheel of a self-driving Tesla traveling over 93 mph down a highway in the province of Alberta, authorities said on Thursday."
-    publishedDateTime: 2020-09-18T04:06:00Z
-    webUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph"
-    ampWebUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/RCMP.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
     excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
     publishedDateTime: 2020-09-21T11:01:00Z
@@ -52,22 +36,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."
-    publishedDateTime: 2020-09-18T09:47:00Z
-    webUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487"
-    ampWebUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg"
-        width: 650
-        height: 400
         isCached: true
   - title: "Tesla driver found napping behind wheel of self-driving car at 93mph"
     excerpt: "Police around the world have made a series of arrests of drivers who had been asleep at the wheel of Tesla cars"
@@ -85,54 +53,6 @@ related:
         width: 766
         height: 479
         isCached: true
-  - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68 Canadian police say"
-    excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
-    publishedDateTime: 2020-09-19T13:26:00Z
-    webUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html"
-    ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7FZOGDNWNJEH3EH5LNRETMSCPE.jpg"
-        width: 5152
-        height: 3400
-        isCached: true
-  - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
-    excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
-    publishedDateTime: 2020-09-18T20:13:00Z
-    webUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/"
-    ampWebUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 46
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/09/manny-becerra-vDloaizQO6I-unsplash-1.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68mph zone, Canadian police say"
-    excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
-    publishedDateTime: 2020-09-21T09:29:00Z
-    webUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html"
-    ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 45
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7FZOGDNWNJEH3EH5LNRETMSCPE.jpg"
-        width: 5152
-        height: 3400
-        isCached: true
   - title: "Uber self-driving car operator charged in 2018 pedestrian death"
     excerpt: "(CNN) — The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
     publishedDateTime: 2020-09-18T15:18:00Z
@@ -149,51 +69,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Canadian man booked for falling 'asleep' as his self-driving car zoomed at 140kmph"
-    excerpt: "Police in Canada have charged a man for falling \"asleep\" while his self-driving car was travelling at a speed of 140 km/hr. The cop who charged him said he was \"speechless\" to seeing it."
-    publishedDateTime: 2020-09-18T11:14:00Z
-    webUrl: "https://www.indiatoday.in/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
-    ampWebUrl: "https://www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
+  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
+    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
+    publishedDateTime: 2020-09-21T14:21:00Z
+    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
+    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
+      name: Newsd
+      domain: newsd.in
+    quality: 44
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
+    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
+    publishedDateTime: 2020-09-21T13:59:00Z
+    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
+    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
     quality: 38
     images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/GettyImages-1217880607-647x363.jpeg?FSzeVbegnIS1n2uRLO.hvIEEqKulrw4f"
-        width: 647
-        height: 363
-        isCached: true
-  - title: "Uber’s “Safety Driver” During Deadly Self-Driving Car Crash Charged With Negligent Homicide"
-    excerpt: "On March 18, 2018 at around 10pm, one of Uber’s self-driving Volvo SUVs was involved in a deadly crash in Tempe, Arizona, killing 49-year-old Elaine Herzberg, who was walking her bicycle across the road."
-    publishedDateTime: 2020-09-18T14:22:00Z
-    webUrl: "https://futurism.com/uber-safety-driver-negligent-homicide"
-    ampWebUrl: "https://futurism.com/uber-safety-driver-negligent-homicide/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/uber-safety-driver-negligent-homicide/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 34
-    images:
-      - url: "https://wp-assets.futurism.com/2020/09/uber-safety-driver-negligent-homicide-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
-    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"
-    publishedDateTime: 2020-09-18T06:46:00Z
-    webUrl: "https://www.newsoneplace.com/30766411911/asleep-tesla-self-driving"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 30
-    images:
-      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-m-13_1600411152093.jpg&h=250"
-        width: 335
-        height: 250
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
+        width: 5300
+        height: 3535
         isCached: true
   - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
     excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
@@ -223,20 +129,24 @@ related:
         width: 1497
         height: 843
         isCached: true
-  - title: "Afternoon Briefs: Self-driving car crash leads to charge; ABA center will monitor trial of 'Hotel Rwanda' hero"
-    excerpt: "Backup driver for self-driving car is charged after crash death. A backup driver for an Uber self-driving test vehicle has been charged with negligent homicide for a March 2018 cr"
-    publishedDateTime: 2020-09-18T21:11:00Z
-    webUrl: "https://www.abajournal.com/news/article/afternoon-briefs-self-driving-car-crash-leads-to-charge-aba-center-to-monitor-trial-of-hotel-rwanda-hero"
+  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
+    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
+    publishedDateTime: 2020-09-21T16:34:00Z
+    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
     type: article
     provider:
-      name: ABA Journal
-      domain: abajournal.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 4
-    images:
-      - url: "https://www.abajournal.com/images/main_images/car_tires.jpg"
-        width: 500
-        height: 334
-        isCached: true
+  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
+    excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
+    publishedDateTime: 2020-09-21T20:27:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "I7XPXwsq2jTbJBMGniQu7Is2FC7uykRDOPI+caIIOdE0X7A3SDxdVpYCnskmD0t26pt7b8IpCPn2EXPrAvmssd10kjualjsD2puNLOskJqk/M/yzh2sd/kfgj9kp1a5cFKf3XyszwUNG/w6TLDyZwhXgY4jFEnDnqnArGKWrV5fp8uSyNgbo8tAeXQzBfmB0UKHpPpdEJHBGTWfwvR4Q0PKBNH2BPZ5rN3V3nx7yOwLswCTgh5oFDIBxJOLzKrKAxNHyOHf/qyTJTGqffsVsmzxH6JHhQurlshuggVtc5mcYVGdZMDzsw1jYWjI3MImm7SMZmsA46LR2oEKxlpXzYH4MbE/iqJjBEJLWMZFXSCY=;7jgSokpLuW9XqaNHwaxGEw=="
 ---

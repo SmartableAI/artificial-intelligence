@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/356406"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
+    excerpt: "With so many people working from home, the scourge of background noise during video calls and teleconferences is more fearsome than ever. And if you've ever been in a Zoom meeting or the like with someone else in a noisy room,"
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/This-AI-Powered-App-Lets-You-Say-Goodbye-to-15586729.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/21/70/19996207/21/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "6/TxBMaAD6WKpuM3MGltXtfCmwAnk74Em/tHUOOm83Fcg1xIaQn7Qp48/POZUO/ZIOL0PIcFgV6R7ajEF8flFl61KDpkZKxmnLXAFtS2xFh3tBOX8f/PEz6WJqpRqHV9sTRsQ8WwAR3TzHsj26WHgcw39rPOiK45Xby8U9vCCadGjAtrqR+mvPzy5vd4x8QMpLyBQ2sFVUQ8N81gp64dwPGWKkBYAuKnOegEgMZbM6UyP1X5YPEOugty7ftdGz0uhQ2Na+27KEcue6wVT+CuCU2HvDJrCiHitrnDUeasS7iZ26JbC60Ubqchrwzil6wRcJWhdzBxzCkEcyxIXNlCJdQ/3wS8IbVdA914DkdK2DQ=;3/3rQ1m7CrGeBqWZWwOnXg=="
 ---

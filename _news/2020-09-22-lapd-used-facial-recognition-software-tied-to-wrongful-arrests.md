@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/03/15/PDTN/89d77051-63a2-4687-9bf3-6760a79d16b1-RealTime-Crime-Center-04.JPG?auto=webp&crop=4221,2374,x0,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
+    excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
+    publishedDateTime: 2020-09-22T21:09:00Z
+    webUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/"
+    ampWebUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 54
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
+        width: 840
+        height: 560
         isCached: true
   - title: "Despite Denials, LAPD Reportedly Used Facial Recognition Nearly 30,000 Times Since 2009"
     excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday. The LAPD doesn't have its own face ..."

@@ -1,89 +1,28 @@
 ---
 category: news
 title: "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021"
-excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021."
-publishedDateTime: 2020-09-10T09:14:00Z
-originalUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-webUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-ampWebUrl: "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html"
+excerpt: "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence"
+publishedDateTime: 2020-09-10T09:53:00Z
+originalUrl: "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777"
+webUrl: "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777"
+ampWebUrl: "https://www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India"
-    excerpt: "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021."
-    publishedDateTime: 2020-09-10T11:24:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 72
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "NASSCOM FutureSkills and Microsoft to Offer Free Training in Artificial Intelligence for Undergraduate Students"
-    excerpt: "The Artificial Intelligence Classroom Series will deliver Microsoft’s AI, machine learning and data science expertise to undergraduate students at no cost"
-    publishedDateTime: 2020-09-10T10:44:00Z
-    webUrl: "https://www.dqindia.com/nasscom-futureskills-microsoft-offer-free-training-artificial-intelligence-undergraduate-students/"
-    ampWebUrl: "https://www.dqindia.com/nasscom-futureskills-microsoft-offer-free-training-artificial-intelligence-undergraduate-students/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nasscom-futureskills-microsoft-offer-free-training-artificial-intelligence-undergraduate-students/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 69
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "News: NASSCOM FutureSkills(R) & Microsoft collaborate to skill India’s future workforce with AI capabilities"
-    excerpt: "As part of its ongoing efforts to promote skilling as a national priority NASSCOM FutureSkills and Microsoft have joined hands to launch a nation-wide AI skilling initiative The initiative aims to ski"
-    publishedDateTime: 2020-09-11T07:53:00Z
-    webUrl: "https://www.peoplematters.in/news/skilling/nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
-    ampWebUrl: "https://www.peoplematters.in/amp-skilling-nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
-    cdnAmpWebUrl: "https://www-peoplematters-in.cdn.ampproject.org/c/s/www.peoplematters.in/amp-skilling-nasscom-futureskillsr-microsoft-collaborate-to-skill-indias-future-workforce-with-ai-capabilities-26956"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 55
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1599810638/1599810636.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NASSCOM, Microsoft to skill 10 lakh students with AI capabilities"
-    excerpt: "IT industry body NASSCOM FutureSkills and Microsoft have joined hands to launch a nationwide artificial intelligence AI skilling initiative to upgrade 10 lakh"
-    publishedDateTime: 2020-09-10T10:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/266355596/nasscom-microsoft-to-skill-10-lakh-students-with-ai-capabilities"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1599732320.jpg"
-        width: 630
-        height: 420
-        isCached: true
+images:
+  - url: "https://assets.thehansindia.com/h-upload/2020/09/10/997566-microsoft.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
-secured: "SCl9pFnmq/98uYSUifg9zcj4dh/N6tM8UhB3/3hUbsh6EXtu48xiDBIqwgt5Jf2BITb298vRDWxlkalE6BNA7JhPnS2WwUe582dp/TuGn4/eqLmXGMHsp71EGow+ssM6cvQdUniZqLvyRia4lEyvCmgR52KkNaTvBKEk9NNq2nVV4VrmmbtHBkHMYCHKmq53arjqj9Wer7nDXOZwrJR9k96gGypW+dQEzTSZ/fhK13+E7E3ygZ/4V4rMbxs8LE4UCuzl6tzBIj/rUaO1PcgKwRXqedkUyEOPaNdv/xtDAZnmJhmZ5npVffqTrlIA/3g8J/ARca4mCzDwE1ggLMNvBt5ACArKniNkx+gK8HxwGaQ=;1uuTOxcT7oe+4QomSuTgJQ=="
+secured: "1kbvoNQUG1DZIsT3y33S+ZOTXYEmseaZXNoC85AEYAkHnROj4L0oxtMu4yK8lJCH/ufgSD2E0nxqd0/vFHuDlK0y21Z2xIMOL7/ml7zP6t9JIoOl3tb3jRYMK0pyB21Dz5ucNdH3kv2EhqbRiJ59VlGeuFpmDGIwJ/zxruTto7SwALAq8MIgvMl7YiyzDZwApiEAhhMZK2g33w9SuF4cdgLNMUv7ZudLcGHyXnY05ERQP41qYuOz3zQU11iiixmhjBLtSsH+LqbOIyMr7ZVqHzDV0oTECqv/Tq6vD+vVu+uxbNJbcmb9ev4L7Yyd4ckVNbyHyxNjbyihMt5MWHRCvcxHFxgdS/hYprvsCMhlKrc=;vVLmexRbTYYTDlJuiQE1MQ=="
 ---
 

@@ -47,6 +47,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
     excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
     publishedDateTime: 2020-09-22T18:03:00Z

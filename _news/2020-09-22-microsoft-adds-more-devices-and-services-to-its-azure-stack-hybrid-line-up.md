@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+    publishedDateTime: 2020-09-22T20:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z
@@ -65,7 +79,16 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 34
+  - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
+    excerpt: "and Azure AI services. \"Whether you choose to use Microsoft' or partner ground stations, the digitized Radio Frequency (RF) signal from the antenna to the cloud can be transmitted using the VITA ..."
+    publishedDateTime: 2020-09-22T21:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200923/3630424.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
-secured: "XPoC9D4y+QR2b5C/9GMgCHtGm7enkx/xoVKwWmPqC+aUXCgf8Nz1ciCHUBxC/N6k2ms10D34hND5xA6OGQgFF62JkNOz9E2zh24f3a10E30gG9j/TuAaDUYiGCx6h5fQV+gJSey+GxGeqi6q7HwvRgtNtqF4AaqFxrniFLqIPanjdBy1/SORPRF7F/e5X9T4gWYJdip4cnfk99K9eW3RspOG0tcfe3U2HR0zYlMgSGmAJxFIjMkbJiP+s2ie3tEEEjgOJ1bLeiz+oc6m+ZCS8FlqD5unmHv0s96o3LyfteTAvvxccspyEpvlR59Xu8r6jGV/AmefCwZq0qGT2B/jYyr/jb26/3w2rhuefdZlRYo=;DGtoUeefjXb/9EXcURYeRg=="
+secured: "levNgi2PfpqNtsWnvMLrTqAL/EVYln7IrCIPurUau+R1T5bs+3/iAglNvip4/jS9cL/OvNQmWwBAFx5a+qzVBX8IidOeg8QO+rMOxbVst6XamALskzQhEFNPcRdR0peUeQbaWjlTPD25mKtY/amqqXFvn7O8HK3M/0jjcXcwkDJ25rzjHrcsGdk/nEkdNkdEJolC19I4Hw2+NUHer+iKXtgozluFp6TjQI7QgBsulm96LoHjO6KWBqzv7+zusfWXvPdKZrrB4J/UjXtpBwHHH1vCPAt1q3zos8YJS3ZrSITdFUXVotgIBAPqCsCWN/cRoHmqywD6KAbtkt2o74QR1Wy8tHPbLLXIvLWho+VODiRtoshuz7pV4/9dWs5ZWA/94wDAQkr0aQQiAFBH5d9B3pyxBmZnCIg8EuR8TaB7vC1palPgJbYcRIJtGbF3U9IGyz26X+lJYDksfYHHoBnzR4LpqXJ6J9BEnglNZCIKSaYVKwFb9qZKl7jZ/tdjIwi48UxGfs6zgbHF+J7n42JCYQ==;Kxk47liM3gXV6531uD5VPg=="
 ---
 

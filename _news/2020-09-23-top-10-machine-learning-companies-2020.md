@@ -8,8 +8,8 @@ webUrl: "https://www.datamation.com/artificial-intelligence/machine-learning-com
 ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/machine-learning-companies.html"
 cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/machine-learning-companies.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 secured: "YJReucutjClmH5Ufav2+4TigJjBWmjRkd5m/zqldTPSompmiznckM1lk+ZiNqKjU5LsDqK4mnyt1Vu7tJ5w3vpcqYL/P6tnXI420wd19P2lrsGm/lUmrAyHVrcq2l+e3B+bKNgGRFfRQ0669wjQ9BPObzRSrhekXFdt2KRkYQZzCelnqgzlOhA6QFd/fFa6qnMoE6iU1iXofaq5cpnSQG+UwuZACiyOYJNOPDTY7celPGrYvrqloV5a0oKzR9/icfj6c12tqkPEc1T9XY9whgk0LxMu6n/aNO4dDQMePu16gukhUiVePt2FUtaGbF2kM2JXv6zJr9VNK/OEN53Koe/Enyg5//yGghgV31jU4XuY=;Orr+Z7COP4LoNxN/bDKioQ=="
 ---

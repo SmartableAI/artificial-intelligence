@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "CsjX6WY7jldZipz/18AMPEIuNq6GfRsiWA7yNHQv/veyLiyfNTRG11GJR9IYatdNHUVGUg04YA6N40FRtBPLNV6DQBizNqeJP1Cu7QvWjjoIQ1mW2zPxZ6WP7qjsUb9+PEeWkYvFhTJNDTzKAbRbz6huZCPokBg6ZIOA1n8kNiVDBs/pWoubgUMWjnH4KLA3+k6c0Cn2ErokObqXC8PxSK9cJYAWsMl1b5dZ0gHrc6jBKbow9jDW6HRQGftszkxcfhXQj2nV/92No3IRXTX+QO/fvoeZBgDAyPRWsSemXT2/lWuC0gdGr01tIcjEx7c5n5CP1PNbsV0F3diSjP4QzhJkOCgxqX13ZQ8pewgC350=;gsFu0jALazqKFs1r95x66g=="
 ---

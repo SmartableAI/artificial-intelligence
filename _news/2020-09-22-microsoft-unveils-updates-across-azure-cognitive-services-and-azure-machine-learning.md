@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+    publishedDateTime: 2020-09-22T20:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z
@@ -65,6 +79,15 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
+    quality: 34
+  - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
+    excerpt: "and Azure AI services. \"Whether you choose to use Microsoft' or partner ground stations, the digitized Radio Frequency (RF) signal from the antenna to the cloud can be transmitted using the VITA ..."
+    publishedDateTime: 2020-09-22T21:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200923/3630424.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 34
 
 secured: "BRL+Oz60kzmEEXDmNo9Wk4XiKOyEd/fK1vEJ5LVEWWPtkowvWTVSM9Dw15HfMt5AhfYv58wprEECkwS2JNfzOtyvMIVq6RByjMz9cX8dkXwbexFcYcdqIQE6HfSIP41qawPl95T6XTBMtBsjBDMRjYjBElV6ki+3V8Igdj8/uRXfj3IH59WLIh3xyCXGGb6cGGwt7Pv2L71+s0bY6A2NUWh691ExmJr2alrytAi9YKJeHqqPecg9JW162BmfZZnhdzs9t9qGbgPra3+KQpw3tdTcbLdbfk6Uc2z9GMmvBiELeTJvzo4JGu2aDwoHzmE0QOBuCRGX9CkARhXEhtIGYC0sVcpkOvjz0+9y5f2T2RA8WxQVxPSRQ+LwBLr8sEXuUr97l0/wJiDzgRumQZ9FKIls7HWNNsGuFrCJjN9RwpGNjtunP5YKD/JQVdacUGcx1LKLEOxpU7RIqdwlYkMIPYVkYV2K8tc0ksgdQv/2jUmZOv+8VABx9qMA9pC4U+iPUCqwJX3QetR0CmQVeFttCg==;X/izy44DBx3iIWczpKwagg=="
