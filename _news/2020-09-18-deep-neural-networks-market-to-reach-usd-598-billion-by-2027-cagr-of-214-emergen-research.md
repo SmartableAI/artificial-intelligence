@@ -57,15 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
-    excerpt: "Growing demand for deep learning through neural networks is driving the demand for the market - Market Size - USD 1.26 Billion in 2019, Market Growth - CAGR of 21.4%, Market Trends -"
-    publishedDateTime: 2020-09-17T15:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50730998-deep-neural-networks-market-to-reach-usd-5-98-billion-by-2027-cagr-of-21-4-emergen-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "gkl8jyCarbwwGT5sfTJOJy3d60Fo7RLcoT0wAKTGptoL7/Gq/SrIZmUrN95LR1xZFvbJhvMSuVY0CtGsRa60kz3tMzzojCE4WII1SAH1JYDHXfxtagppzmC89bKzfC3WNLlus4w77P6iWd8hHqDQfAxJV107NxFy6vNtySNw8Z6trO8fd/ikJktuVf8AX8la6LLsRF0PXhl0KPGczBcocs2SIqdGa32ASuGzSYhAOrt7dEGvTcxchnVhIsvm7eAUOPftu/GOjK/tzZVYJQqLn73kedKssal6xVX5wiFyRtJ4NZ2HdtE9iRK8qdoWwIKLGVCSW5LF+kMJR+9D+eY9189r0BOYmj5s3NcwDpMK8x8=;BYP27uzXI5s4kwHdHhLa2g=="
 ---

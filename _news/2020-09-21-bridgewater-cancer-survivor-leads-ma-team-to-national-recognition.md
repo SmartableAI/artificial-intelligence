@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pakistan’a Dr Atta ur Rehman to be honoured by Yet another international recognition"
+    excerpt: "A major international journal “Molecules” published by a leading international publisher MDPI has decided to bring out a special issue to honor the"
+    publishedDateTime: 2020-09-22T09:22:00Z
+    webUrl: "https://timesofislamabad.com/22-Sep-2020/pakistan-a-dr-atta-ur-rehman-to-be-honoured-by-yet-another-international-recognition"
+    ampWebUrl: "https://timesofislamabad.com/22-Sep-2020/pakistan-a-dr-atta-ur-rehman-to-be-honoured-by-yet-another-international-recognition?version=amp"
+    cdnAmpWebUrl: "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/22-Sep-2020/pakistan-a-dr-atta-ur-rehman-to-be-honoured-by-yet-another-international-recognition?version=amp"
+    type: article
+    provider:
+      name: The Times of Islamabad
+      domain: timesofislamabad.com
+    quality: 37
+    images:
+      - url: "https://timesofislamabad.com/digital_images/large/2020-09-22/pakistan-a-dr-atta-ur-rehman-to-be-honoured-by-yet-another-international-recognition-1600765024-1801.jpg"
+        width: 800
+        height: 571
+        isCached: true
   - title: "Luna’s Director Achieves National Recognition"
     excerpt: "Luna Board member Mary Beth Vitale recognized for her leadership by the NACD as Most Influential Corporate Director and Governance Expert."
     publishedDateTime: 2020-09-19T16:58:00Z

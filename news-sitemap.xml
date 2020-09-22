@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22</loc>
+    <lastmod>2020-09-22T02:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534</loc>
+    <lastmod>2020-09-22T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/</loc>
     <lastmod>2020-09-22T00:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +21,12 @@
   <url>
     <loc>https://www.gizmodo.com.au/2020/09/can-robots-write-machine-learning-produces-dazzling-results-but-some-assembly-is-still-required/</loc>
     <lastmod>2020-09-21T22:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/</loc>
+    <lastmod>2020-09-21T20:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -319,12 +337,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/</loc>
-    <lastmod>2020-09-18T04:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/</loc>
     <lastmod>2020-09-18T02:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -427,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/</loc>
+    <lastmod>2020-09-17T11:06:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/17/adaptive-computing-platforms-deliver-efficient-ai-acceleration/</loc>
     <lastmod>2020-09-17T10:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -453,6 +471,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/17/ai-powered-weight-training-startup-tonal-raises-110-million-amid-home-workout-boom/</loc>
     <lastmod>2020-09-17T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf</loc>
+    <lastmod>2020-09-17T05:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -979,8 +1003,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
-    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
+    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2289,6 +2313,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/how-diffblue-uses-ai-to-automate-unit-testing-for-java-applications/</loc>
     <lastmod>2020-09-08T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.clickz.com/computer-vision-brings-shoppable-video-to-life/</loc>
+    <lastmod>2020-09-08T02:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

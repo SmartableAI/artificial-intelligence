@@ -3,12 +3,9 @@ category: news
 title: "Computer Vision Company Chooch AI Makes Breakthroughs in Edge AI in Speed, Accuracy and Scale"
 excerpt: "Chooch AI, a horizontal computer vision AI platform, today published the latest video presentation of an expert panel with Convergint Technologies and NVIDIA. Chooch AI is a member of the NVIDIA Inception program."
 publishedDateTime: 2020-09-17T12:50:00Z
-originalUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
-webUrl: "https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf"
+originalUrl: "https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf"
+webUrl: "https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: Associated Press
@@ -24,22 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Chooch AI speeds up AI vision for facial biometrics with Nvidia, edge processing"
-    excerpt: "Chooch AI, a provider of technology and services for visual AI, announced that it has achieved several breakthroughs in the use of real-time AI on video streams in partnership with chip firm"
-    publishedDateTime: 2020-09-17T18:11:00Z
-    webUrl: "https://www.biometricupdate.com/202009/chooch-ai-speeds-up-ai-vision-for-facial-biometrics-with-nvidia-edge-processing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-
-secured: "Yt1/de0mXwLLqLA0ixrmMr0LJpIhJTYAq2QqcSjT2kjQzfDaRj9xaMb7lvx40wmVIPpE0ga2XIVa9DVdiqm8pnh5hxm/wxtjrWmm3C8vXiQMNbTcO/n5vewKHBarPPsyuQqE5V1gb++JhI97iRmjEOjVccq7tGOrFQ8FouaO2P5kTZ9QmQ/F4GgbQ64WBqP9YG7Z81CkuA6Td4NgCfU8vejF4+ol5ibecNteXP9tTSJoUza6OPdTfMoqyyXdhJtBn02MgoecglnMzUwLjQJYiVKUNBow8/sAlxq1n2a2irEM/zEGnFAmzRY0W8M59SMqqDN/0SOiV1T7kLgwFHxR35q7wi/L65ss6zWRWmt0X4U=;xmlVc0NIMpGm0XndJmcDjA=="
+secured: "PeM5/lviPXiMhceVVj/kTCpcd+VMjGhIygawXBw91s1WGqK1etcm1yeZfibxdxaSQ9VRXTChxNVTALJ3j69Bj5Ffh+Cq745jb8WyzmA3ehmCXgPNxXzVT++gv+TpFuqFB+vifv6a9U/0yYpp9W5GTU0iTzP/Amw0bIpy7Tliv3QGZfTXfO7+wkAf3U2AWJpdutorFXygJikbMAaCWu9EM/byWuTkyv0//F+gsSmvqPmZ9dlpqAQgMVirF0wPl79wM09dC68egHtbT2mXNi/qfK6GMtfHotSRhdbR6jndYT4dTGYFfGdpDYKbe29bW2ViNdc0GexAGnDALka3WsR3mILvMx/KiswoLrR2iPrr5Ko=;vpbSVKSr+ga3k9xRhMWSow=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Biometrics Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (CDN Newswire via Comtex) -- The report titled Global Voice Recognition Biometrics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 ..."
-    publishedDateTime: 2020-09-21T21:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-biometrics-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

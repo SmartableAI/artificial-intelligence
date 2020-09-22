@@ -37,15 +37,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 14
-  - title: "Artificial Intelligence In Agriculture Market MAY SEE A BIG MOVE | John Deere, IBM, Agribotix, Microsoft, The Climate Corporation"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2020-09-18T10:02:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-in-agriculture-market-may-see-a-big-move-john-deere-ibm-agribotix-microsoft-the-climate-corporation/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "1aV15gOaq/UQoGB5UX4lihRC2vxU5K7TTn9GKc2B5cIUUbSpkBGd2JnN5ahxBbWgSHRhKSLLKCs9CzBq2dHB6SXa9VZB6zjbP0Wp+K/WAXNih6F6DerdzUmCf20ySUvXA1kumiqSPlJE9FY+jn3lHhwW+hWXfqiV0Fwq6xIIndDyxN4frZu1JNwYkriu4brNMbI0ypRU2PBSGD7Ma56+A6SNk8NCF90QXibddP+vHdurz1hOumW7q2vCXECO3e3n1OP2rL7eBuCcRSMkvAQ7H3j/7U0iK6DQrdWuc/vDx8qjEmvg+qJK+ozuKYZV0zVDgcH1U2/GY2/MoeZ9wKXgddxxXvvqj0bEW6/4nd6var4=;oX2zV+NcpxAo69eoCiq4oA=="
 ---

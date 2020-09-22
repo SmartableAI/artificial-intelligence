@@ -2,26 +2,29 @@
 category: news
 title: "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference"
 excerpt: "GOWIN Semiconductor Corp., the world’s fastest-growing programmable logic company, releases the latest version of their GoAI machine learning platform, providing an SDK and accelerator to perform machine learning for edge inference using convolutional neural networks on GOWIN FPGAs."
-publishedDateTime: 2020-09-21T07:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673"
-webUrl: "https://markets.businessinsider.com/news/stocks/gowin-semiconductor-launches-goai-2-0-for-embedded-machine-learning-inference-1029605673"
+publishedDateTime: 2020-09-21T07:00:00Z
+originalUrl: "https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5"
+webUrl: "https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5"
 type: article
-quality: 61
-heat: 61
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - Google AI
   - AI
+  - Machine Learning
 
-secured: "bkFTmTdK9w0gDgtqxWSuglxcskS/e/U5g9A72JBkxxfzf79yqtNyLMLHfXEh69l8/4JgorMgm10S1LU15Z1ezJms0q0QmQtrFrR+6U+6S8WJBQQltDilp8/qS9CwpBE2TgoIPWKLcWVEPbRDSH2mFcsTTcuSrea12BDoR5l2DQ4nw3FFL7GJizU4vpJTkYWC3pmPHB77RFKRojB67U80b8/qfLE0CD8NZv52O1fFqk1kv4iHOhNEwCbo7drvhdrvRu6lZLJXYQ6xyiFDyIcok2R1lkbPGN/fj+n5cBYZiXa11R8v9jICzYdah3pE8YACLf5Xo8BEPyNkjcoQ1BcBACzMbpYM5tY5x7qzMZy78vY=;9pMMW8+xuvBU+b3hERBeqQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "XFFjdvrdZ1ZBj+UQeqmY5NW1q/lD2YTQ+NAQJjsikz5gEf4JA/Xq8zQK2OQ4rH4FBfNmLs2OF4/mDxdU8A0HGXVQlZ1VnS7rTlK7Gq5OjdRk+RqUwrEEXLAFRxpN+3Gg3RHLmCLgX3a1UczSWO3OboXRKQh5BZKyxMDOmuBgAeW+yzTNMtvd6dxtmw94lao0NOhgpvK+AlCc+AbonejJdOf6h1g/uaMOptGndYR3d3OwfLBH29vKYtVuY/Jt9iMq1oxuwcZtDYHUumncTA62YC0ETyzn40/TxDnBahSuJP2O/RhIF5/TX8LdEqSEzCnsiLuk59fxIi618CotBuFCu0q2jhhA23ZueSHLLe1fmzE=;rfIBoMZgVf9fxZy3PkCaMg=="
 ---
 

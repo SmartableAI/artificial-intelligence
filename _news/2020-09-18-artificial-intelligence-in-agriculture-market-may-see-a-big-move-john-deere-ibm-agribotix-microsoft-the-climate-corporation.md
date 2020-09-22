@@ -18,33 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Law Market MAY SEE A BIG MOVE | AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google"
-    excerpt: "We are the best market research reports provider in the industry. Report Ocean believe in providing the quality reports to clients to meet the top line and bottom line goals which will boost your market share in today’s competitive environment."
-    publishedDateTime: 2020-09-18T10:03:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-in-law-market-may-see-a-big-move-aibrain-amazon-anki-cloudminds-deepmind-google/"
+  - title: "AI in Fintech Market Drives Future Change | IBM Corporation, Intel Corporation, IPsoft Inc., Microsoft Corporation"
+    excerpt: "The AI in Fintech market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players The research"
+    publishedDateTime: 2020-09-22T08:08:00Z
+    webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 29
-  - title: "Ai In Supply Chain & Logistics Market MAY SEE A BIG MOVE | IBM, BonVision Technology, Intel, SAP, General Electric, Amazon Web Services (AWS)"
-    excerpt: "The major restraint for the market is the limited number of the artificial intelligence technology experts. But the limited number of artificial intelligence technology experts is expected to ..."
-    publishedDateTime: 2020-09-21T16:38:00Z
-    webUrl: "https://menafn.com/1100832307/Ai-In-Supply-Chain-Logistics-Market-MAY-SEE-A-BIG-MOVE-IBM-BonVision-Technology-Intel-SAP-General-Electric-Amazon-Web-Services-AWS"
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Ai Governance Market Is Thriving With Rising Latest Trends By 2026 Ibm Corporation, Google, Microsoft, Facebook, Sap Se, Salesforce.Com, Inc"
+    excerpt: "DBMR has added a new report titled Global Ai Governance Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis."
+    publishedDateTime: 2020-09-19T12:37:00Z
+    webUrl: "https://galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/"
+    ampWebUrl: "https://galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/09/976865/ai-governance-market-is-thriving-with-rising-latest-trends-by-2026-ibm-corporation-google-microsoft-facebook-sap-se-salesforce-com-inc/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-  - title: "Artificial Intelligence (Ai) Market MAY SEE A BIG MOVE | Atomwise, Inc., Lifegraph, NVIDIA CORPORATION, IBM Corporation"
-    excerpt: "Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025. Artificial intelligence helps the businesses to use resources effectively and efficiently and in turn,"
-    publishedDateTime: 2020-09-18T10:07:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-ai-market-may-see-a-big-move-atomwise-inc-lifegraph-nvidia-corporation-ibm-corporation/"
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 4
+  - title: "Artificial Intelligence in Oil & Gas Market Demand Analysis, Growth Opportunities and Industry Development|IBM Corporation, Intel, Microsoft"
+    excerpt: "MarketResearch.Biz –:An extensive and elaborate primary research on Global Artificial | eTurboNews | Trends | Travel News |"
+    publishedDateTime: 2020-09-17T20:32:00Z
+    webUrl: "https://www.eturbonews.com/584281/artificial-intelligence-in-oil-gas-market-demand-analysis-growth-opportunities-and-industry-developmentibm-corporation-intel-microsoft/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 10
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 2
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
+        isCached: true
 
 secured: "2v2ZpUz53xpOi40rpTCf8yDVrYqx6x+ttROC/zb+HQd0M6RmhvV8kadpfbvlLYDLbhD4iFoKsYDiaR7QApw2ZQS+COZXVOHXARWS1qLkuycNIi7JgDx17sPsWO9gQrt9QLEnh6tyuGa66fM6VZoTrENsrZaQE+bKJ/773zDNdSXcV9l3W0w3rhXZ4ZtOcwmpy21l7ymS0BQn0JsLRnnUEP0pMasqL1ZZ+nhWzDqKm+BxXrjfzagNwZ1y9dWG7XAuTYlmmxkeBkaPnOmdfZnJ2IzTjBb5Z4Yhd71GzOZ5Ws1uvlczOHXJ3j/n6TL6koPIa9lkgaPwXONUqj6Xf29ThhxnQFJzm6WhSmJHTOsObwU=;G7FxI6OtZQu2omF4ubVNCA=="
 ---

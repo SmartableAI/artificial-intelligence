@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-driver-20-charged-after-found-asl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-driver-20-charged-after-found-asleep-at-wheel-of-self-driving-vehicle-going-over-90-mph.amp"
 type: article
 quality: 74
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Uber Safety Driver Charged In First Death Caused By 'Self-Driving' Vehicle"
-    excerpt: "Last Tuesday, a woman was charged with negligent homicide after one of Uber's self-driving vehicles killed a pedestrian in Tempe, Arizona. For years, Uber and other companies in the self-driving vehicle industry have relied on \"safety drivers\"—people who sit in the driver's seat ready to intervene—to make up for the technology’s significant limitations."
-    publishedDateTime: 2020-09-17T16:15:00Z
-    webUrl: "https://www.vice.com/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    ampWebUrl: "https://www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/qj4qbw/uber-safety-driver-charged-in-first-death-caused-by-self-driving-vehicle"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 72
-    images:
-      - url: "https://video-images.vice.com//articles/5f636781e2069b0095ed22d7/lede/1600350374335-gettyimages-609845734.jpeg?crop=1xw:0.8588xh;0xw,0.1412xh"
-        width: 4200
-        height: 2359
         isCached: true
   - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
     excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."

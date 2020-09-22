@@ -3,8 +3,8 @@ category: news
 title: "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
 excerpt: "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis."
 publishedDateTime: 2020-09-20T18:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20"
-webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20"
+originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20?mod=mw_quote_news"
 type: article
 quality: 30
 heat: -1
@@ -43,7 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market Study COVID-19 Impact Analysis, Growth Factors, Outlook Till 2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-09-22T08:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "FQg9hVxz2ZcamDNZZoZqNWpD2vbZnJqSA6NbTHXeyOMNvE4K2GFj/huST9OF+5DuVo2H+2UDhq0Q7zd7TN9mafposo92N0JjknMqs34JUJ67Xci8e+eyn3krkT9mdM42L6z3rCx9lTeYZ/ReotX76ehKNurFpBLIanT3LGahqyWWWiPxOmu7RvUdtvwQ2DzlOzdY26C2F5CnUZayBA3QA8VMzTaOV+T1jEIw4gc9J2iH6YSQX3+LK864RafMpGxAaoN5viWSH6e6YVAcD14vGTzWLu532QF71j4OzVDpYI7xyMn2ndwM9YOj6BjNurrCMHKIMp0dntUR4rPqTGZipCjVkaTd9y5fGBGliq1gygY=;sZ9m0gKO8T1Zfg85dRM/AQ=="
+secured: "t26prgbg6p0scMyCv9ysd2Kg5aUeah+GkyRAabtgZngH5EpVzNiadfSCNanbWoAXaBTAiHLRj2J0FYCLqZph1BhN+kgFF2qc4YE6jFV9DOgsdRCPm+dSsZTLtxFaTfI7maD91/YZtaIOv5eF7S/96gDJKhaZAdQbBgfYC+5abaTNCXtgrOZFANLqBUL1Gh2herjj84tQgjBXLARjyC3bHCWlAuJQLAXfC29IsZeS3i/DdPqsMFgkE1+KveN9n/emBUZL7fSjDIxokU0VPZPc+7zB2ivmktE0fdT9cZp+UyMJv19gUM1282oaUWeBN++pCgexisI3dpm9074ejkL0MnIvdcKz0wpEztP0kvhOGyg=;7vuuonsmni2j1u5zmqoUCQ=="
 ---
 

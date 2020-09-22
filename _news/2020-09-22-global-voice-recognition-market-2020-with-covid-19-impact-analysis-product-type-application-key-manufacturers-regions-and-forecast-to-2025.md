@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition Biometrics Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (CDN Newswire via Comtex) -- The report titled Global Voice Recognition Biometrics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 ..."
-    publishedDateTime: 2020-09-21T21:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-biometrics-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PZIi4PY4KzgyMOR8RMunvPFEZbJ+LpBFIXvEEI2Sa92QDlvBR68KCJ2nTA/XCC/fHJ0wZ5Dq5yGXSLf6Ve3KJgROKMnzXmuujkPhBy+0B9ndJqHNrPs3TWqHcYwyrPrwrB8hxzMF1IacNTu1ac1nhbdGBAXnYHRH5Bs13Ey5BZsb0vOdHgcF/HvjmnrkGlxQAGorLHZZbayFBWSYOhjldGUlmCFR7dSigtCf4gFGU2B0cyhG7D5Je7FE16rARBC+A2jqlvSuq9cmLV3mTU0O8n0rSrZuwnoC1Fx8pKfPOEhCC0AXQC+Q6Pbs6fEJdQHJ67/kr3nTYloe0pS9XTchHgUl77JsB2tiag1P0HKMAuc=;3hg5FfJNIREF0nLlAoAAmQ=="
 ---

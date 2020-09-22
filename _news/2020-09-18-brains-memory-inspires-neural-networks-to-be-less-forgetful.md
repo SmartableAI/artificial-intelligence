@@ -7,8 +7,8 @@ originalUrl: "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-i
 webUrl: "https://eandt.theiet.org/content/articles/2020/09/brain-s-memory-inspires-neural-networks-to-be-less-forgetful/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: IET
@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 54
-  - title: "The brain's memory abilities inspire AI experts in making neural networks less 'forgetful'"
-    excerpt: "Artificial intelligence (AI) experts at the University of Massachusetts Amherst and the Baylor College of Medicine report that they have successfully addressed what they call a ''major, long-standing obstacle to increasing AI capabilities'' by drawing inspiration from a human brain memory mechanism known as ''replay."
-    publishedDateTime: 2020-09-17T16:54:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoma-tbm091720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 44
-    images:
-      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-        width: 585
-        height: 363
-        isCached: true
 
 secured: "CCvlVzYJLumOPC1lFwYcbnX1rH5Tq4ZCAyuiZQ6M+fhxqT8GTTr+x4UjxnM8b5cQgYuxxp6Aph3/q48Is36d3sCQCAK6MVh3SMwRjo2SNci89BSjDFjTd4vOGEzCwURGF+AaghBlF0FsYFqEzHBnseOzpUSp/tWwEtCXDAKA4SRvUOvaU8JwrfZ+x6HBG4koOsNYQH5hvxlIk7pKbIiWOs2HnLiJm1Bmm7l60RCdeVcN5FdYStHg2C0G8omGN/X56/p6OdLkDJBghfh1FEKOlfsSFpz7U7W32WOdCTHi9ePzfg4VYYGq82JybIDKGmnuRMAsMo6d3S5z0wd21x2UxbZ4iVn7GvY2AZWZOo6dK5hyGufHqtKrZbjBoDyrtW1X63gtMekkKzDEKQhl/fEi5qJ6+Xy5jHOKDPtWelhD+Y2IhBiq4r+JbJMNdwWS3T2VRDizRqAqkBWaYXdNlvNmQqkzFgizvKsKcpQcI1CieWeG75TAWNFtjsYwPv4dPmHHDysGYhao6A09gfweeBb5R2VBkz2IKp9PUw9sTxhUBY0=;YWiuOiOop3GxhNS/wYyAxg=="
 ---

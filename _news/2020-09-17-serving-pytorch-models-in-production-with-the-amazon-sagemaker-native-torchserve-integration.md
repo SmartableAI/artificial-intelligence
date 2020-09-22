@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/serving-pytorch-models-in-production-with-the-amazon-sagemaker-native-torchserve-integration/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 1000
     height: 448
     isCached: true
-
-related:
-  - title: "Activity detection on a live video stream with Amazon SageMaker"
-    excerpt: "Live video streams are continuously generated across industries including media and entertainment, retail, and many more. Live events like sports, music, news, and other special events are broadcast for viewers on TV and other online streaming platforms. AWS customers increasingly rely on machine learning"
-    publishedDateTime: 2020-09-17T15:59:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/activity-detection-on-a-live-video-stream-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/1-Flow.jpg"
-        width: 900
-        height: 396
-        isCached: true
 
 secured: "d1RJGgAOidh2oXXBIcs67dfV1Vp78JMyy8FXlpZODoF9G3MxTlRHQEatRjZ5Xcmgj6QDL3C7JGKWP0MZxL90dYdpXnrtMgBKVYEEnUItjl8SOZ34XXAOAgsEhFI/TRL72LWsgPtnzsDU793/4MIa1bNy7nWl6issKSncvO7UgZ3qs7frpSMU5oHsx6aJvrKqkQ/cjip5dCachkWxV1vAeH8PufC8mZP4lIKFNg0orxNc2DnexLxjduY2SBxSwbq22pDT8TIUf1mvMSCNGeAYPK73/xoVJw83DuY2hfDf+fV5SEjTunUhHJK6oDq5qVBTKYckbLzsKYicpLjKgFstKCDIn3WYuW+Ggw2LgwkfuEg=;prii7DG8yZzM56RSeUS24g=="
 ---

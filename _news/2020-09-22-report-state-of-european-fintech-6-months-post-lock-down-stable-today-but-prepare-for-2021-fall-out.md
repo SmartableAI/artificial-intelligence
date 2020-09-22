@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Finch Capital’s Report: State of European FinTech 6 Months Post Lock Down: Stable Today but Prepare for 2021 Fall Out"
+    excerpt: "Finch Capital issued its annual State of European FinTech report for 2020. The report covers a range of topics impacting the FinTech industry: where we are today; the impact of CV-19; the M&A conundrum;"
+    publishedDateTime: 2020-09-21T23:01:00Z
+    webUrl: "https://apnews.com/business-wire/9ae227b066be4e009286c8687c6b8684"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Today Finch Capital: Finch Capital's Report: State of European FinTech 6 Months Post Lock Down: Stable Today but Prepare for 2021 Fall Out"
     excerpt: "New research points to a resilient European Tech growth engine, however limited exit options beyond IPO for European Unicorns Today Finch Capital issued its annual State of European FinTech report"
     publishedDateTime: 2020-09-21T23:08:00Z

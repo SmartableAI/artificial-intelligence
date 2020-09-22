@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "The brain's memory abilities inspire AI experts in making neural networks less 'forgetful'"
-    excerpt: "Artificial intelligence (AI) experts at the University of Massachusetts Amherst and the Baylor College of Medicine report that they have successfully addressed what they call a ''major, long-standing obstacle to increasing AI capabilities'' by drawing inspiration from a human brain memory mechanism known as ''replay."
-    publishedDateTime: 2020-09-17T16:54:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoma-tbm091720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 44
-    images:
-      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-        width: 585
-        height: 363
-        isCached: true
 
 secured: "wzGCjazNj48iMG65RB4fWCQmshAg5+mAi8m2+BB12Bx7D7j8tMGkB7SL6fpVh0/uashiCvIQT6eegpSwFydaa6wtfY9OHoFNIVwo0DBbqi1gUGZBei7UNBCuLq8IbJj1fT8IrcHVRLWgUX2TMj3dA96/zfR5Fy2bVKhLMJ1w/+r9kNxOzju8Ec7bou4u1CachZ7b0PKzmUanwF9szNUdsUS/H+OnKRq3xb8WvZSL7Jsir35ltFMig3skiKMFPQV47Mt0OpK3VbVdwaQ9w+6xmnDDTvIOIBrrBhR7z2cOf928cqT+vbMkrdUNwL0BBSSMqwlMmMNIagnoeyig2SuFkA5ciVakbhUJJ6nFiDv1gD0=;ZgrbDZR/OXxrttlgl1t25A=="
 ---
