@@ -7,7 +7,7 @@ originalUrl: "https://www.looptt.com/content/microsoft-dispels-myths-about-digit
 webUrl: "https://www.looptt.com/content/microsoft-dispels-myths-about-digital-transformation-smes"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

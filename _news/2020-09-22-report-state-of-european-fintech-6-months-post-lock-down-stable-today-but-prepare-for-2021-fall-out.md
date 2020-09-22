@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finyear.com/Report-State-of-European-FinTech-6-months-po
 cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Report-State-of-European-FinTech-6-months-post-lock-down-stable-today-but-prepare-for-2021-fall-out_a42880.amp.html"
 type: article
 quality: 9
-heat: 9
+heat: 29
 published: false
 
 provider:

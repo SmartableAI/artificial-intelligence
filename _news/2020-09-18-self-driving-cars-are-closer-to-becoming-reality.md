@@ -39,20 +39,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "We Will Not Be Seeing Self Driving Cars on the Road, as Expected"
-    excerpt: "With the impact of the coronavirus pandemic, companies that produce self-driving cars are coming into even more of a predicament: in order to test these cars on the roads, the cars need two or more people in them for safety reasons."
-    publishedDateTime: 2020-09-17T18:56:00Z
-    webUrl: "https://spacecoastdaily.com/2020/09/we-will-not-be-seeing-self-driving-cars-on-the-road-as-expected/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 39
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2020/09/CAR-FEATURES.jpg"
-        width: 600
-        height: 331
-        isCached: true
   - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
     excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
     publishedDateTime: 2020-09-21T13:59:00Z

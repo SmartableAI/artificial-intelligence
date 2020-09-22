@@ -294,6 +294,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
+    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
+    publishedDateTime: 2020-09-22T11:53:00Z
+    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
 
 secured: "u54fmI14Fz6ZJSUBKgMs/8UUdt0O/k59AC4uj9y5WIsi1/YcVleUE8VbqYMh81kr2HnCvWnhcSl2cXeP5tnDgbmBP3wHvAh+75um3BMFVcC+cybzCDEXID+aHtZUqpsp/jCDP2U8sI1YZ4CJrz3Rf5exeAhloPRtNCK3zc2T4j5Mv3v9H3yanXrnXn3/vBtbThzA2tHVN43efglA+uvgahS/KBbLUjcghDFDVOSjMzetBltZqxWc2NL8T5MKO+ymA0VH/Yu7KRl4TcsiWnmY+hUV+FYzI92FIYLh82V0UfTeNyKqS8zKtaAjDKlNSqS5p88SxswYS4OosWeoeJ/ptJaE8oYbH6tccewl75qxngc=;ch2Ik4IjOS2YHKySyj61/g=="
 ---

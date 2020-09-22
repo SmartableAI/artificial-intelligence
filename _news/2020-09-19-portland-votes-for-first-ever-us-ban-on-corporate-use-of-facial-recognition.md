@@ -67,20 +67,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
-    excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
-    publishedDateTime: 2020-09-20T22:39:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2020/chinese-consumers-slow-adopt-facial-recognition-payments/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
 
 secured: "6tRkAri+E0Am/W06A7Ms3ZYX5Q2AGtx+zOUfLlINOECJNxYvz26f/oUly2A6jOzTsSj20YWNCqU10NZboaga5FLC7y8EhuSwLHpKGJDbUqf0Nf5cFPQpsdzx+tlUnEpxr7oZ9ntf7ikNtVSHcceSaXpmm44qiYDAZMf0+q1TQW5AmGS4IjzhmeUkJ2XIOBJbGz2m5c7/sOztbWRXAWWpZ9IwgLX3lWmfJUU1S0uQdnbZzXSRn1ZNLkAGcxYjqJT5dlE8Y35tkA/wdzyZntdRVVZQNYiTiSrQk3QTZTDeyoIIieL+y7sZxXW/7K8RhSna1yihnZJA+bvwsp8BtXgsNdVk16qfHvfLxsQ11RKAdvs=;LtHW+6/25ErMuW8hg1Sw4w=="
 ---

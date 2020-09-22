@@ -67,34 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fujitsu flags efforts to tackle facial recognition fraud"
-    excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
-    publishedDateTime: 2020-09-18T13:12:00Z
-    webUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tackle-facial-recognition-fraud/d/d-id/764030"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2020/09/764030/2115.jpg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Facial recognition tested by Brent Cross West station contractor"
-    excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
-    publishedDateTime: 2020-09-21T05:00:00Z
-    webUrl: "https://www.railwaygazette.com/uk/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
-    type: article
-    provider:
-      name: Railway Gazette International
-      domain: railwaygazette.com
-    quality: 39
-    images:
-      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/4/3/8/35438_inndex_106783_crop.jpg"
-        width: 2000
-        height: 1338
-        isCached: true
   - title: "Bill introduced in Council to ban facial recognition technology"
     excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
     publishedDateTime: 2020-09-22T01:27:00Z
@@ -134,20 +106,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 36
-  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
-    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
-    publishedDateTime: 2020-09-20T07:15:00Z
-    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times | Raleigh News & Observer"
+    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
+    publishedDateTime: 2020-09-21T22:56:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article245908335.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article245908335.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article245908335.html"
     type: article
     provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 21
-    images:
-      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 33
 
 secured: "zYl4KQFHOb0/fXzxLvKVc8V+/koZntXZo5mveRkIByHWzdsQlxt56ayjNcnJPMtT9OWZbT3pWkvF7hCC3KGXD0dBEm5YE4rjv+i7zTDH+fbxynkWiJCh08B5g7BkI8HTP+NqqMvqVJd3hDAIk6a6f4b0WEXBqNhTHwQFX+arh/j2XQeH3zbq3dfvfZVhH37NoE8UzhnrJiJI2yYhs5/LG/D7mfTWME5Uu+gwMfwCekm3eNt0WHt6+9MJX9LVzHTd8PMjiC7R7N7SVDucZufGesfTpNGq7CPcTEPVWOHHFZTLyYUi7YAn2P4Dpe/02KOvnD/BBjViggcxQQE+Ne7yGpDsJdP1wKTc8ENQdVezrKbt3AI6SvHpdJbTJGCs70KvOa6ZMaG+ZIVtY1CuB2Ep/5uo7UZW7S9W4gH7V/gsWgOF6a+zfvmk89fPgw0t+tW8BPGzMplQ9yziZCMD97LC5xR6AZbggt2ZBLPZkb50rH7uH6WB7bg+qlhnFDxL23whakQzK7cJCmauGe5+jgzfhQ==;nxq0UaCB/8uT20UV2M1WIw=="
 ---

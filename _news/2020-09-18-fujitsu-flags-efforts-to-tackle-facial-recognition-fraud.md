@@ -25,53 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "LAPD used facial recognition software tied to wrongful arrests"
-    excerpt: "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ..."
-    publishedDateTime: 2020-09-21T22:36:00Z
-    webUrl: "https://mashable.com/article/lapd-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
+  - title: "Best facial recognition home security cameras to buy this year"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces."
+    publishedDateTime: 2020-09-22T11:46:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
+      name: CNET
+      domain: cnet.com
     quality: 89
     images:
-      - url: "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U="
+      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Detroit council expected to vote on facial recognition software contract"
-    excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
-    publishedDateTime: 2020-09-21T20:58:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/09/21/detroit-council-vote-facial-recognition-software/5855946002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5855946002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5855946002"
+  - title: "How to Thwart Facial Recognition and Other Surveillance"
+    excerpt: "And the lenses are opaque to infrared sensors, so—bonus!—they also block facial-recognition systems that use 3D imaging, like the iPhone's Face ID. A handful of US cities have banned government use of facial recognition technology due to concerns over ..."
+    publishedDateTime: 2020-09-22T10:00:00Z
+    webUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/"
+    ampWebUrl: "https://www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-thwart-facial-recognition-other-surveillance/amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/15/PDTN/89d77051-63a2-4687-9bf3-6760a79d16b1-RealTime-Crime-Center-04.JPG?auto=webp&crop=4221,2374,x0,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Despite Denials, LAPD Reportedly Used Facial Recognition Nearly 30,000 Times Since 2009"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday. The LAPD doesn't have its own face ..."
-    publishedDateTime: 2020-09-22T01:18:00Z
-    webUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
+  - title: "The race to build facial recognition tech for Africa is being led by this award-winning engineer"
+    excerpt: "Facial recognition technology is not widely employed in Africa, partly because the technology available up till now has not been adept at identifying and differentiating the faces of Black people."
+    publishedDateTime: 2020-09-17T19:38:00Z
+    webUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/"
+    ampWebUrl: "https://qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1905079/facial-recognition-tech-in-africa-boosted-by-ghana-ai-startup/amp/"
     type: article
     provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 51
+      name: Quartz
+      domain: qz.com
+    quality: 76
     images:
-      - url: "https://media.nbclosangeles.com/2020/09/GettyImages-174932708.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://cms.qz.com/wp-content/uploads/2020/09/lOfIoxKg-e1600368338399.jpeg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 786
+        isCached: true
+  - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
+    excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
+    publishedDateTime: 2020-09-20T22:39:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2020/chinese-consumers-slow-adopt-facial-recognition-payments/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "Facial recognition tested by Brent Cross West station contractor"
     excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
@@ -87,45 +101,6 @@ related:
         width: 2000
         height: 1338
         isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LAPD Relies on Facial Recognition Software in 30,000 Cases, Despite Denials"
-    excerpt: "Los Angeles police officers have run facial recognition software nearly 30,000 times in the last 11 years to help track down suspects, despite concerns about its reliability, especially when identifying people of color,"
-    publishedDateTime: 2020-09-21T20:42:00Z
-    webUrl: "https://mynewsla.com/crime/2020/09/21/lapd-relies-on-facial-recognition-software-in-30000-cases-despite-denials/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 37
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
-        isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
-    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
-    publishedDateTime: 2020-09-22T02:21:00Z
-    webUrl: "https://www.charlotteobserver.com/news/science-technology/article245908335.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/science-technology/article245908335.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/science-technology/article245908335.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 36
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z
@@ -140,15 +115,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Controversial facial-recognition software used 30,000 times by LAPD in last decade, records show"
-    excerpt: "The LAPD has used facial-recognition software nearly 30,000 times since 2009, with officers running suspect images against a mugshot database."
-    publishedDateTime: 2020-09-21T17:24:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-09-21/lapd-controversial-facial-recognition-software"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
 
 secured: "V4cEaBA3OiJPjATQbC+bLbg/ShDnzAc2TzvNEpe5plMSyXxr9/xhBOUdTlKfq2Lizfra4lBHbL/XfPGEYi391F8FiB/FBxPcEG0g4hbbPVGdTZXT73S20fcdif173vqle0EMBZh6PFRzHpzH7Svmp80iILkk5HX/I8FoCC+vyJwRy+GtQLfqfaRkD9Su8Z7dIxOkQFtdxZHnmFvyhN2fZN7mtNLvrPKmuoqSeU25zD9lUnMi4deGnhLM2BGFH3MvR7+Ix8MUSkm2MWSjSGn6yuurAKU/Zocph7CgcEP1EdLXmuPWgTFbKPsWo0ON09VLqW/xFhmnVLT0Ec8xgOwuwO0Oew14lo9QUdR+hHN91Yg=;eRsJax7LXEwI+OFttoBqag=="
 ---

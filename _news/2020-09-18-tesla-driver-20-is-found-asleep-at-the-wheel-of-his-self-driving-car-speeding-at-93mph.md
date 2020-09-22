@@ -41,22 +41,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Why Wasn't Uber Charged in a Fatal Self-Driving Car Crash?"
-    excerpt: "Authorities charged the vehicle's \"safety driver\" with criminal negligence, but not the company that developed the technology."
-    publishedDateTime: 2020-09-17T18:55:00Z
-    webUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/"
-    ampWebUrl: "https://www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-not-uber-charged-fatal-self-driving-car-crash/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5f6285468595a16063bbc4b7/master/pass/business_uber_RTX3MUMK.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
     excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
     publishedDateTime: 2020-09-21T11:01:00Z
@@ -230,20 +214,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/police-tape-secures-a-crime-scene-outside-a.jpg"
         width: 1024
         height: 672
-        isCached: true
-  - title: "Self-driving cars closer to becoming reality"
-    excerpt: "NASHVILLE, TN (WSMV) - Self-driving cars, a dream for years, are getting closer to becoming reality. The technology to make it happen may already be in your car. \"Instead of using rearview mirrors we're using backup cameras,"
-    publishedDateTime: 2020-09-17T18:01:00Z
-    webUrl: "https://www.wsmv.com/news/self-driving-cars-closer-to-becoming-reality/article_4a6f21d2-f8c7-11ea-bb7d-9f9480fc6316.html"
-    type: article
-    provider:
-      name: WSMV
-      domain: wsmv.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/3/5c/35c5a9dd-de98-5152-8251-55026f8dbccc/5f63a11f94340.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
     excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."

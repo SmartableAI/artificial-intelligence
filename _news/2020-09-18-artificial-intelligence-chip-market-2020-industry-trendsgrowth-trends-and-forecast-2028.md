@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -295,6 +295,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
+    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
+    publishedDateTime: 2020-09-22T11:53:00Z
+    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
 
 secured: "Buk1s9hG/DEAl5ZGjiJKto1lnYROjzyGDhEPF9hUEgHs+kWPKXhpv0e0LJ6QF8NrqcWGx+FzrUI5bRHIox7+5HfBQNAoDlH85UP/3NElLpxUJFTj92IPE8n+qj4LgpHGi6imXHbKsCaKcrhd6g2aMztcbNGGTtiaDjr+p5pd/MqBxi2Bw1TMiuBz7bBUzRj7nU38xLNrJl8Iq4IeIl2Z1jftkonjdyExU9yUAAO6ZzHg8Ex9bq2TgOV+IB9QMZoO9o7Hoa4er3yN5xp9qDU/iHLYr2f/LcAgWN+MzvjQ8zw+W9pJqDVd6nadeqSE+NFptkbkcNBoBUToSdht5je9FhTbzLTFMLBWvDiiNGxN8lI=;V1VuPsb6PCgvqsYIlOmX8Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4375553-nvidia-corporation-nvda-m
 webUrl: "https://seekingalpha.com/article/4375553-nvidia-corporation-nvda-management-presents-evercore-isi-virtual-new-mobility-ai-forum"
 type: article
 quality: 5
-heat: 5
+heat: 15
 published: false
 
 provider:

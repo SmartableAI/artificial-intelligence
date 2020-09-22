@@ -7,7 +7,7 @@ originalUrl: "https://www.finanzen.net/nachricht/aktien/parcel-perform-collabora
 webUrl: "https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528"
 type: article
 quality: 45
-heat: 45
+heat: 55
 published: false
 
 provider:
