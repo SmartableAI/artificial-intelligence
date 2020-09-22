@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "RiskIdent"
   url: "https://twitter.com/RiskIdent"
-  followers: 379
+  followers: 380
 
 locations:
   - Hamburg, Germany
