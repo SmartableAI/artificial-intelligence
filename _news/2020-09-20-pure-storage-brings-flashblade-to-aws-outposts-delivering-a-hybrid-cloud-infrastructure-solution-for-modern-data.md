@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
-    publishedDateTime: 2020-09-19T03:09:00Z
-    webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Learning in the Cloud: Canada’s First University to Move Operations into One Secure Cloud Infrastructure Sets the Stage for the Future of Learning"
     excerpt: "“Bringing all our data together in our own cloud environment will make artificial intelligence (AI) and machine learning at scale possible. It also makes IT systems’ downtime a ..."
     publishedDateTime: 2020-09-23T13:15:00Z

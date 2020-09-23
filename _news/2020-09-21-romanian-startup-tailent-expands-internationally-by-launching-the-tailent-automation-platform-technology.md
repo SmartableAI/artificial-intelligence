@@ -24,6 +24,22 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "InsurTech Startup CogniSure Launches AI Platform for Commercial Loss Run Automation With 9 Pilot Customers"
+    excerpt: "The insurance industry spends a significant amount of manual effort, time and money analyzing PDF and Excel loss runs that are in nonstandard, carrier-specific, unstructured document formats. The CogniSure patent pending algorithms extract data with high accuracy levels and normalize to a common loss run format."
+    publishedDateTime: 2020-09-23T20:00:00Z
+    webUrl: "https://apnews.com/newswire/9f0b60394b5e6cbe755f8714603178a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "eD0hT0N+Eq+SQO4EwpPb8Jx6WDS8Ty5xIdTDWjjYNyad61lNpfBXdyv4gSHIQZt9mJ/YrEDpCGMna+ff+59Ga1sb0hfgOTzLPq4/r4/k1DHG8TX/tdBu2CotwnvHq8hqUcJcq3gftB2O84P/vRSEloej57vdcZJBi2Uy7u/Vc0RPZWUBT0BMBIBkBjqmPjUYiBrWjt/mEabF1UWkXfOf1snFHR5G3nJDnbPak14yM/f/WOx5H7wlFzp/tgrFth/1DsUpUQvSnsPGq2aEQUYSch+imHBVyIYERoFnenVGZ9iB7JofH1Rj0/K+KMmBtnENK5TlrOmQ/45xb+dx9ZEi1sSJwbDZFYz3kA4fsQmwvoA=;QxKe7KZzdCz4UTaS46f8WA=="
 ---
 

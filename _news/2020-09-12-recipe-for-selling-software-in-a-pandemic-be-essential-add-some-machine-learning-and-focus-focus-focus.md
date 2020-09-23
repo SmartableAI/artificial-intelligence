@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
-excerpt: "Instead of trading spreadsheets around, and manually annotating them, the company's Virtual Financial Analyst uses tools from Amazon's SageMaker environment to automatically reveal the anomalies ..."
-publishedDateTime: 2020-09-12T00:57:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
+publishedDateTime: 2020-09-11T21:07:00Z
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "iQNcFoAYNzhFss0RYJpVbGlxKuPvH9bJwA3qWhr8NfAERi/psn8f0zyBRbPvLoFC89fLoa27x8b4nVT2EE5Y/OG4IUYsakmg7c+rIfd5W+pESBXwNYVM68CmHRi8WTdYYCKllrzHLKnOfMKdOnPvNiRO8Q14jUwg+jPdZZG3lsUReRIBf0QdLHG49KpLcx/DXSjIwgkxhS9KL1o/KRftFujdcOOoniAsBViTM9KJIT3Syy3R8VBOzcAV+WY2ponWJTN3g3M/lnEZNdaZA8qtxmlX5nbRLXwV4f19s2fh/UVUYDEjCXO4gAJwBnXJNH17d1vdB5hztd4sgjb16xxZ32K/vEW4WUDmyTmOmXHAnss=;M5gMRyvSCCebkDZCqcPDmA=="
+secured: "jczNNXlx5uN6mTMijDO5rmrSawUwXQ8gO6UTFvntUroJXJxPPFoZr+/VraaXEEg1noFlbn4h2rMMDWPb0DYOcYF3UgJl3RwoVGWNKtbh2IGwKBIn9YYH3OqCWL6I0DLjEgKIuFtw+5HD5fDQN/mDnnuFXYVA3DsF+UH2396cfeQxw3DNEUkkvnavpBJnudL8E6/tqptzOdZa3uFFY1V850eyuPVjIO88bkURGqQNeJJryPK5TApovRnUnXxMlQPEGuLrAgHM5BcXQJ/F86UiHKR7FFke4UAM/niLt98JnS27My3kWKn/ngtvBlC5JHy0XaR9hsy4SWJ/rvRlD3Ik7iXarT0O7xQdvsTKtn+7QMo=;UUK4izoR8Fm6QcVX6mpBYw=="
 ---
 

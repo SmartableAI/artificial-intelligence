@@ -271,12 +271,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
     <lastmod>2020-09-22T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -835,7 +829,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf</loc>
+    <loc>https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf</loc>
     <lastmod>2020-09-17T05:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1801,12 +1795,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
-    <lastmod>2020-09-11T17:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/how-kabbage-improved-the-ppp-lending-experience-with-amazon-textract/</loc>
     <lastmod>2020-09-11T17:28:09-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1821,6 +1809,12 @@
   <url>
     <loc>https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation</loc>
     <lastmod>2020-09-11T15:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/</loc>
+    <lastmod>2020-09-11T14:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2271,6 +2265,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/smart-office-market-technological-innovation-by-leading-key-players-2022-2020-09-10</loc>
     <lastmod>2020-09-09T22:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.medindia.net/health-press-release/germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center-486444-1.htm</loc>
+    <lastmod>2020-09-09T22:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

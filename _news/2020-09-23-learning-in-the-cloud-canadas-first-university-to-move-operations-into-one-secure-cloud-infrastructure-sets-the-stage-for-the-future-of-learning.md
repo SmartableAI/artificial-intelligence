@@ -32,20 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "With the validated integration of FlashBlade with AWS Outposts, AWS customers can now leverage a low-latency, high-performance unified fast file and object platform with native Am"
-    publishedDateTime: 2020-09-19T03:09:00Z
-    webUrl: "https://apnews.com/pr-newswire/4516944a2c313a8ca327df87729a456c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "EIDfuCGOBP000B8RACR7woTwDxnzdTrd5knyxF33OuH7HYUw+Q0P9TZcregyxVxq5FTIO1elaQkaYWqf+ZA+WH1sTxJgc5p2mlZq/i5hTvpuQO6Rhd2PBgMfTuzBwksNLybOaGJFtm5YDAKJc8ezPv/F3OnqcOOYKBIr4JDTdEy/SMo+7L+6kpxWRXUs7ubhIRzy5e3rsH76YxUVwFp/VrDxgJrqGmkGNq3Qd4iWgVZikpVqiiax3LvaKFF5YWda4cvPmtAwlSG9gCsio0pRj/qBkTBcvInxjDX1YplR9P6w78IqPjzjMsV1oPu2toLvK6d3mjLKyCA+jRIawm0oj+rEC54tns1xkqAKOMO52Qg=;Fm+NfevrT0u/yLtiQFB45w=="
 ---

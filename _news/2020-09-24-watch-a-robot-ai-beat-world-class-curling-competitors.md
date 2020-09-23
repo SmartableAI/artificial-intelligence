@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-23T18:43:00Z
 originalUrl: "https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/"
 webUrl: "https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/75B3AB8D-795B-4D3E-85F133FAC69C6C5F.jpg"
@@ -23,6 +24,6 @@ images:
     height: 497
     isCached: true
 
-secured: "tCZiTGAuZQdh/7GpmgqvSe4aQoeM79FIYcKHbNQswsoHS7Iy+a2VX6jh/CA6zT5mmfK29drNvXg716B8aIAnufaKU6dmLNH9Bd/iY4rMdTaEx4xAgiJOfxQcIoIWHQ03b33GoxSO+TmKrcXd39Dt5RzkW1eZDKkbT65k+YJ9q1dmK8buBEs5z4CGm+8pHfa8xWpb5Q561B5XIGPlp9phsJZPs0a/wMAEtPA9X1Q4spDp5cPKHEDUSBJ892RIUwUv3ks61eW4KouYLaYsiyWvooGHecPrHrxBJxlFqLA3/BZW6LKeefDbbwYQ5Flc5SH/9F2xCHX2WHb+X2HS+fc+TuIf6C+fzTFZob6it7sgZTY=;9I+sT8fFJP3/Gcd57dYl4w=="
+secured: "ATqMFy0+vUUVjosn/ZJOEdRF1OyCwCn8FuD/MYYvVT3EGmBZbeWO/EVDjDAi54ZkFpVfKUjWpMSmPhAvRCyiASMecESZ1ezg1R3xKPyyY/v8/+LlK80VPfYp5jbosV3yWDsNTGpc6WCqB7eTr6WalDwKqcvGqUrKy8p0mcJg+b+GKbaYIc/8wZEzYhyEfutZIU8new92RwqB2hxxKa2ofm4COb3oebl2LvsZRD0hKlj+o90gAgIC+6j13MrLiee/YdmklM8eQ1E7zT1Vz3VH0F0X7E7J8HZMK5v+l9Z5Rdz9uChTs10OKG4a7il83dKfUEQLSr12qXbodpb9Swzn2/PaT7M+oIJaX8NJkq3y9q/Q12vkKlM2zOWQQhl4y+8PwRTfspoaRRxtQyo8vaBRhbgOfx5vUPU/uWUpovQJJLMxCGda9i3aRVVFWVoxXqEtmMupUtb+Dq8/TmyaTJldwLwD2Z6nW7BCZujZRprDue3VWa8HjzkvOHcSS1UGTC+YIsaWmaHhUM9rP5zVGkkyzQ==;MJNGHa9asgJWcMOIk4t/QA=="
 ---
 

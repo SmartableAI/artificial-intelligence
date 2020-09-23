@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars"
+    excerpt: "Mobileye Chief Executive Amnon Shashua and Al Habtoor Group Chairman Khalaf Ahmed Al Habtoor shake hands after signing a partnership agreement in Dubai, United Arab Emirates September 23, 2020. REUTER"
+    publishedDateTime: 2020-09-23T18:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/israels-mobileye-dubais-habtoor-partner-idUSKCN26E207"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEG8M19L"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Mobileye, Dubai's Habtoor partner on self-driving taxis"
     excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving taxis that could take to the streets of Dubai by the end of 2022. The deal is the latest collaboration to emerge after last week's historic accord between Israel and the UAE to normalize relations,"
     publishedDateTime: 2020-09-23T12:46:00Z

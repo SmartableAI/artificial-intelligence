@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://miro.medium.com/max/1200/1*LUQ8pP17eTdtp0xAe68sZw.jpeg"
         width: 1200
         height: 722
+        isCached: true
+  - title: "Congress will try again in 2021 on self-driving car reform"
+    excerpt: "A self driving Volvo vehicle, purchased by Uber, moves through an intersection in Scottsdale, Arizona, U.S., December 1, 2017. Photo taken on December 1, 2017. REUTERS/Natalie Behring"
+    publishedDateTime: 2020-09-23T20:58:00Z
+    webUrl: "https://www.reuters.com/news/picture/congress-will-try-again-in-2021-on-self-idUSKCN26E2RA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
+        width: 810
+        height: 517
         isCached: true
   - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
     excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."

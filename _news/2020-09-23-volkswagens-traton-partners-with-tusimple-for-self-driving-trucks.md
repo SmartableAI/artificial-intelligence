@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
-    excerpt: "Volkswagen (OTC:VLKA.Y) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
-    publishedDateTime: 2020-09-23T16:20:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592672%2Fself-drivingtruck.jpg&w=1200&op=resize"
-        width: 1200
-        height: 690
-        isCached: true
   - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
     excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
     publishedDateTime: 2020-09-23T07:14:00Z
@@ -79,6 +63,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
+    excerpt: "Volkswagen (OTC: VWAGY) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
+    publishedDateTime: 2020-09-23T16:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?time=1600878241"
+    ampWebUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Volkswagen unit takes stake in self-driving truck start-up TuSimple"
     excerpt: "TuSimple has signed a deal to jointly develop self-driving trucks with Volkswagen’s Traton division, solidifying the San Diego start-up’s status as market leader in one of the fastest-advancing areas of autonomous vehicle technology. Traton is also ..."
     publishedDateTime: 2020-09-23T07:14:00Z

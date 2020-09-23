@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
-excerpt: "Volkswagen (OTC:VLKA.Y) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
-publishedDateTime: 2020-09-23T16:20:00Z
-originalUrl: "https://www.fool.com/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-webUrl: "https://www.fool.com/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
+excerpt: "Volkswagen (OTC: VWAGY) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
+publishedDateTime: 2020-09-23T16:38:00Z
+originalUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?time=1600878241"
+webUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?time=1600878241"
+ampWebUrl: "https://www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/volkswagen-unit-forms-partnership-for-self-driving-trucks-2020-09-23?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592672%2Fself-drivingtruck.jpg&w=1200&op=resize"
-    width: 1200
-    height: 690
-    isCached: true
 
 related:
   - title: "Volkswagen’s Truck Unit Ties Up With TuSimple On Robot Big Rigs"
@@ -96,6 +86,6 @@ related:
         height: 281
         isCached: true
 
-secured: "jBFN5boeHDJGde7BIjLaV1yS3/LVvN3kOmxX+8+a1stIvLDnX/GlhIZS1Z9CgjtV1Ble23JaLZKI4ZS9ZkWnAW8V0+IlpqGU6rAKfn/2b2gwgeircz5TJxC/YQnjeqdSEtYV9e4Q+lzFt+GcUbg9smUVJvuzpMnwDBOYsQuWk/tDY9zhWeUTFuyhp/FZe4WvM5IzFqdOUwe7tEalFeNBUpZ1oQnHbOnsN14OBGplyjbbvXRWh81t94Wy0aU0VDk5oxKtU3ucwBpJaRiyw2d+XQ9nowJ/tvwiZc1Y+VJAMECx2HqOCIozcWANkMaK+wHaVBmEHkQbTGwMGwnjfvaMijZrSi51mCXwlnmISoR9OrKHivPOimegYLN+hs6sbh3XtV4FNRfJg3u5HBn7hirobr3jhnTe9IeObaPMDOO5WuR1YZvOHn3qEanlGQd2aTMdF5+041fQONtv/eXUiEOacf5ysRZcO8a/x2EzQwX3CSK0QDS82yuMjhAFCS/X3zEeehrKC34C/Pz00xRn4QZ4Eg==;89oLsv99EZnb5eVZxcbKFw=="
+secured: "TLlK7TBW78swB013Hd+lS4K4iBo5jt0tXMFbfW5qerIadFyljQ8AMGxlkleND1M7yY3TX+qucYMoGRTXYFqDJW6EBR9AEPsef7W3+RHWrwNCDbaaCmiQlm8TJR5VEL8PFi1LcCN5hTkbb8D+aoN7e8KTGUsYzFWa/etuoW1Bdqv6J8tW390pXQ3ahKb1wNGCocm8Pp15swDLALsqEyoomvK4raAiu+TSZfs1hrvXbf1X9430icnOABhZfXtZtvmv97vZQWQYL/mLGmqLz57U4McgFFvlaQahTXRGr0DGOMW7hGdc494mYSgK8hXrALvjhGEG0t+YaqNGAHPd4MzO0jqtoHBn9rBDL+o6iZucZwQ=;7dXHIRmyms/hBMwdjIQZzg=="
 ---
 

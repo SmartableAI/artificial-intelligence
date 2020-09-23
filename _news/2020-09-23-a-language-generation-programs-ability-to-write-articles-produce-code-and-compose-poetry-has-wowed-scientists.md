@@ -26,6 +26,22 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
+    excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
+    publishedDateTime: 2020-09-23T20:58:00Z
+    webUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 4
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
+        width: 760
+        height: 368
+        isCached: true
+
 secured: "+q7ksbI79b5zP02Fb+l+7Whw78Q7vIpkaICS6xyxJP+VpSOc745VeU/6SOo6Gc+Ydd3mKJL2/6Skg8UdpJNItgIEfSjAts9TO21g2G0OJB0Ub2aRi/hZ09/eOe2FvHicAUNY6aPuzM1ZyXxGnaTLjHWsEmHDEK2jAlISIwEO2ZXQf78LgXFySsunuXxD6fsnE/EgzXYWAInXIwwQRBr68Jdehm572IV7P8WFUjriCnYuY9UxbRzYmXu9LYGn/3nG/bzOP0DIn9F0s+A+WZGMGeh/EkTcZuN8I/y/MBgrYx3mdbtJT7k23iSHMHy+Xv83sATEnt01VJosEV4kbgFCmxtYOLnGtgMRSYd7LG3r9nNsdnxWmK1qYxpRAFTBoJe8Z7kP1KWTruEL8NppCzgvjWtdtb3EYLq/+Qd3d8E6GsSDLxhuRYKAkiI7SyQQ0qBiFZCF8di2cHpO/ourjXfvttyvWbHXGSn7BxdIXU3RvoWGk3Q0nJIG3z+EmTBPhDSS6RtbnMPlsJIggynxKJLaqQ==;UeNHW4YhfF3pldEY2VvMow=="
 ---
 
