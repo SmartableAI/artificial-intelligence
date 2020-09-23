@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Uber self-driving car operator charged in 2018 pedestrian death"
-    excerpt: "(CNN) — The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
-    publishedDateTime: 2020-09-18T15:18:00Z
-    webUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/"
-    ampWebUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 44
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2020/09/Volvo.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
     publishedDateTime: 2020-09-21T14:21:00Z
@@ -79,6 +63,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
+    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
+    publishedDateTime: 2020-09-23T09:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
     excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
     publishedDateTime: 2020-09-21T13:59:00Z
@@ -94,20 +94,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
         width: 5300
         height: 3535
-        isCached: true
-  - title: "Uber self-driving car operator charged in pedestrian death"
-    excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
-    publishedDateTime: 2020-09-18T15:25:00Z
-    webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
-        width: 1497
-        height: 843
         isCached: true
   - title: "Anhui opens 5G-covered road for testing self-driving cars"
     excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
@@ -139,6 +125,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "5SEe918XLj/oK9e0OTvpvP53IifHYi4IH31ZYJ1Ni2XyroHjX8ZtsdSejD9pa1Yi7SJ1ePCu8VgnVCQSjma+ecPmMzvBZ+ZJYnCkgSflhBqv7HqoGVbOON+7vb95hZyCOCrlyGzNkxJqFs7uYkXG+Za/CkNUOaEg59d4jjGSKOeQky8X6BJ/R2c4qtMbBLb1g7Ds6jhzeMWhGHun4HY0N4BOJUvUCF3GvXTedO9PSNeRUltG+/xJyMzrKu3Em0esuu+u8Xxb64voz35DunqYswPrTZ4jLP+ySwyK+UENFhvgwD1QDrQsrLzaPmeJY3a0zo8/SIW8rHQlD+vH1lDjHLfiG2UZ3rSwwEnWUsWWZxE=;ajFZO2aqr/ReQcN2crYufA=="
+secured: "PtzvAaRopM8Iqe7oBDxkSgkWsUuEyKE1KAfcEWDbsH3+XsmhCu2GPTOFk+IXvlCEGtJRH9/lWU1o7fmxqTZnVmq9CvLIRyY+k9RKMXCIiehWUYxyfIgQ9Ts5l6gsq5/u7H1MpFSqqfW/7A5GUi+MgEyyPGgCrVmnLOxgI3z0TrOes0faxklihJlxsuujdDxRM+44X2nq8meyJynjZjfQjraEqi3CaUhs7wy1N9RTfHmYIDcrVK7P6iRUA7iMtNGITWTDtupNwldzQzVpsQLZvmdHfANOxzGi2zSScCQ5Fu12NtbM6Y85vX7oi8mfsJJW6yFqaVob3S+8cNR9/krXghD875JNQlb2sykfTWCzv6923GefNFRGi5wp1AGn7uPZXFKBOrlRd5ZJMmEEvE+SB0WpZ5fNZeyndKDNe8upd1VM3WiXUHiU0taZSAQYRiRyYwz961n08CiGqse1HNT/1IXIUgvRtQlbTYk0/zyP3KnrF6/3zvyF0maLfFWiglSNeUDVODPX6t0jXNcbHtI11g==;uy4jcrrk/BGg7SkcW5RY+w=="
 ---
 

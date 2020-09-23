@@ -85,6 +85,17 @@ related:
         width: 2000
         height: 1338
         isCached: true
+  - title: "City Restricts Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council voted on Tuesday to restrict police usage of facial recognition technology. Pittsburgh Botanic Garden Targeted By HackersHackers breached the security of a company Pittsburgh Botanic Garden uses for financial management."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "Mayor Peduto to sign legislation restricting facial recognition in Pittsburgh"
     excerpt: "Pittsburgh Mayor Bill Peduto plans to sign legislation passed Tuesday by city council that restrict use of facial recognition software and predictive policing technology by police, a mayoral ..."
     publishedDateTime: 2020-09-22T16:55:00Z

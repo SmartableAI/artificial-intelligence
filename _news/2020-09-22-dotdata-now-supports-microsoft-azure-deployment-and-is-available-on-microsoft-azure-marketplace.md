@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
-publishedDateTime: 2020-09-22T12:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
+publishedDateTime: 2020-09-22T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
@@ -36,7 +36,21 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 69
+  - title: "Joget DX Low-Code Application Platform Available on Red Hat Marketplace"
+    excerpt: "CNW/ -- Joget Inc, the open source no-code/low-code application platform company for faster and simpler digital transformation, is pleased to announce"
+    publishedDateTime: 2020-09-19T18:42:00Z
+    webUrl: "https://www.newswire.ca/news-releases/joget-dx-low-code-application-platform-available-on-red-hat-marketplace-848497616.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1078276/Joget_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
 
-secured: "HEZfo1YRvSdOamU3kpUyWcWA9Wfa3k0ScSp/yxXeL6V1VuqGgZclkmXMPJXlAnjkA0hf/5qZ59p4WzEG6/do5yMbw1bYgroslQaaLoLOoceIreFymGgqSwUBVhEWc/pqCs2MzGMljZS/ZpDfz9lI7gGOv6soOdcBcARduSqCm0GLLlcsn1nFBZUCoA3V3Mui3WVYi4y6uX2lQMOC5kbHSszgtwOi25NHHSGatEHPPhvW8uT0AvcyYY1KENrVSD6FaTdtdjBdIc6JkrhuH8qcihkAb/DLnsLOjnsTFCrPdwyS5nmk4zTL2xptDeebHnctOjZBxgXIxHpoc4HPKEkdQJEEbzJkwqlNlW683C60YwI=;emY/VAiTAWU4fmMMTCLCZQ=="
+secured: "GSk+ltoi6CP5zDQbo48O/JZ6zeSc2BBryiK69UT8QcsnEZuBS6GvzHOeMYzjQLhjmevfxTplqKSZaXifZi9X3F+Wn/xRmC9H1ZUCf1M5rPV54tDgzkQwjfXwZvDUNlFxYXGRtmDZT3BLgE0C4hmCgDdfhExnLBXr470zN2AdDczWzrfT2KuTzfgGv5IkAS4iaat4Go/5eDgN0tkK++w0km7vI8dyyC8+q4Gbi1UkNNOWPIZkgIhH/L4SacDBxC4qjXoeYFBDvnz+RuCuQpgh/AsN4I4VMh2xAmBHYToC3vttQx3tWtWUltzkOh6CpyxRUggr8EWolI3WsE8YVeji3elPBkqApiQ9mY1h3uthn2c=;Vc1pRVWkRa+sWIaqv+dpoA=="
 ---
 

@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this unique ..."
-publishedDateTime: 2020-09-22T04:26:00Z
-originalUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
-webUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce"
-ampWebUrl: "https://www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/global-startup-parcel-perform-collaborates-amazon-web-services-aws-improve-e-commerce?amp"
+excerpt: "Providing the latest delivery date of online purchases is a crucial driver for online shoppers' satisfaction, but arrival date predictions by"
+publishedDateTime: 2020-09-22T00:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
 type: article
-quality: 41
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_1272.jpg?itok=_nKPo1GS"
-    width: 763
-    height: 509
-    isCached: true
 
 related:
   - title: "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
@@ -39,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 75
 
-secured: "PPPx+QAKTvRQ7RIQO5gLEpRMYoYZlKbX/526PQRTz1AM41TKJzIfsxV4nC+hKN0V5F49WdvfqnlePH3CFhs87WzmhfFLK5AU/kRkVjf/Q2Cr56xgz115dSn2LyFigguMkZ00/7RZalaN/yjFKIlFGFp4/2aSmfmtPOuEC0JiwkdprhfXlCFEWrEUJl6nleR+mkRfu7iJeiBMM3mS5ePgCiG6OwAsEeaCyeOFVkT6GpMmcLiVo/3Xm/ws1yUbphBNGozpwUsd93N0tByPFDhdbjPNRvQ/Irmrwc23Wjoqfi/uF54vFD/iD+YmKtklWhwttzrpcRmwLRGiRGDzHbf2KDCZ7SjyiO46rLrlFeDi6582U2WNo1Xf/5jFdXF/em6dP5RjRLJ4QH8ndDlOPFHUPQv2Z6Wpqxlu+GSBNz9GnPZq+QhMFHLqEMZaslMWVjfHGs/QTl7BE4tSsA/FJGB5N36cTFwy8QMILL6RmCpraaGCJbk/pfgV2GqaEXVJtIaW7P9PFhA8AB6Fzcka5OzOnA==;82TM2Ffpbo6Sm5b9x5jAnw=="
+secured: "wncKU8XBnpfe7OnrvVAiV1QV67g0Xv9ywsz7cRqxDCtbjUEeAYEVIbqQNz2SccCAyt4oUYtIrBpVnDPjow1FGpFHECHXauQITHHYGwUTzGczxJ1a/H58GElT9ziGTscnBqtJMKPsVWyOlQDyQoveHn8NGHKHsij7E32c/dahP2yWW3UbgQRi3l0lwOZ8yxcmPNOAga6bd00PO6E4yyTcTXdRwfFjjZJeYCT2eKAwzbTJAssPQWTBECp6nYGQIQSpQh09xnerkJStbFYBZIde3YOlLuai+bjY19vIMm7UTHk9mdSVTYr/NIbF20FogSOQ8GHzMmlQn3LfNzJwgOrWJsKqnSKW3F26fllyl8KxPwQ=;5qlOukr+ogqI8cKXVDR1Kw=="
 ---
 

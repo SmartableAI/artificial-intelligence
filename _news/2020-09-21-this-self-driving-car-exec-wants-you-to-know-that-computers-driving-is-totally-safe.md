@@ -59,22 +59,6 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "Uber self-driving car operator charged in 2018 pedestrian death"
-    excerpt: "(CNN) — The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
-    publishedDateTime: 2020-09-18T15:18:00Z
-    webUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/"
-    ampWebUrl: "https://nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2020/09/18/uber-self-driving-car-operator-charged-in-2018-death/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 44
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2020/09/Volvo.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
     publishedDateTime: 2020-09-21T14:21:00Z
@@ -91,19 +75,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Uber self-driving car operator charged in pedestrian death"
-    excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
-    publishedDateTime: 2020-09-18T15:25:00Z
-    webUrl: "https://www.channel3000.com/uber-self-driving-car-operator-charged-in-pedestrian-death/"
+  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
+    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
+    publishedDateTime: 2020-09-23T09:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
     type: article
     provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 24
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
     images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/09/ubercar.jpg"
-        width: 1497
-        height: 843
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Anhui opens 5G-covered road for testing self-driving cars"
     excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"

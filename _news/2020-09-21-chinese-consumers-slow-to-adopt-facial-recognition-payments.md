@@ -71,6 +71,17 @@ related:
         width: 2000
         height: 1338
         isCached: true
+  - title: "City Restricts Facial Recognition Technology"
+    excerpt: "Pittsburgh City Council voted on Tuesday to restrict police usage of facial recognition technology. Pittsburgh Botanic Garden Targeted By HackersHackers breached the security of a company Pittsburgh Botanic Garden uses for financial management."
+    publishedDateTime: 2020-09-23T08:15:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z

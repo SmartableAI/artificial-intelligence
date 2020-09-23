@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Machine learning and detection of osteoarthritis"
+    excerpt: "In a study of 86 people with no discernible symptoms of osteoarthritis, retrospective analysis of cartilage texture maps by a machine learning classifier found that the classifier detected the beginning stages of osteoarthritis progression with 78% ..."
+    publishedDateTime: 2020-09-21T21:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/potn-mla091620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence detects osteoarthritis years before it develops"
     excerpt: "Researchers have created a machine-learning algorithm that can pick up on subtle signs of osteoarthritis - too abstract to register in the eye of a trained radiologist - on an MRI scan taken years before symptom onset."
     publishedDateTime: 2020-09-21T19:08:00Z
