@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital
 webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
+    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
+    publishedDateTime: 2020-09-22T18:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+    publishedDateTime: 2020-09-23T05:04:00Z
+    webUrl: "https://www.businesswireindia.com/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69631.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 54
+    images:
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
+        isCached: true
+  - title: "Azure Orbital Will Connect Microsoft’s Cloud Data Centers to Space Satellites"
+    excerpt: "Microsoft announced plans for an Azure Orbital satellite ground station service and a colocation agreement with satellite broadband provider SES. “We are extending Azure from under the sea to outer space,"
+    publishedDateTime: 2020-09-23T02:51:00Z
+    webUrl: "https://datacenterfrontier.com/azure-orbital-will-connect-microsofts-data-centers-to-space/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 51
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2020/09/Satya-Nadella-Ignite-2020.jpg"
+        width: 740
+        height: 467
+        isCached: true
 
 secured: "EgGFYnf9CcL6I+MlTOUSQOCimXKTTJyWTyCQk90g1QfOt0Zp2ATLsMHhdW2U+PmlYjCTAEEkul9gDLNDndiNtZz9S9jqoBZ1fzbReXWDeLkMi1sqUVgp4YnRE6scEBrvLhPVWbQ2nZQoNK/9sfPk+IJlB8aMsDvH+6TVzHpWEnjIc5Nl6Ih68QZdmwyPJtJV4ooNYqNwKLNTUatrArwKQXN2RobS2dmxJdpst+SoxFG/3OptwC72epvpiO85hNv3jjF7qXsKmT/LhmfTW8xVHmlC+sICq7I2Iefv1gTsNJqtvc0GFPuJKx27bn3em/p+H1VJle1do/aPIDvjyhKgVTzM+WZEJO/yObKxJt+w3IOVOGhvV9ElsrXJvQ5CR2VhthDgFNXHEL8YtX78CNK3aDLUMaP2y9zflSaIL1XZtxeOUDf2E6QTBSFkLtLJUkRbvPpzYhPLfa3eKIaDiPGtFfcGShe8KJXkuhaH5LUk2a6zSwFFLJlO0XNFr4CJkrhVOyVDVKKHFSSPWTXlXU53/w==;544cQxKqIL3FX1FhawtXoQ=="
 ---

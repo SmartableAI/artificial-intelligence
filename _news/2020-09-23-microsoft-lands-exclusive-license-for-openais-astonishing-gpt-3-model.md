@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-as
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ni1Mz8B9Jaj7Knw_mBf8gkHOjus=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67451151/acastro_180226_0001.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Microsoft acquires exclusive license for Elon Musk’s largest GPT-3 AI language model"
+    excerpt: "Microsoft is expanding its partnership with billionaire Elon Musk’s OpenAI as it acquires an exclusive license for GPT-3. GPT-3 is the largest and most sophisticated AI language"
+    publishedDateTime: 2020-09-23T05:36:00Z
+    webUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/articleshow/78269391.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 67
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-78269425,height-275,width-412,imgsize-101751/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/vs-3.jpg"
+        width: 412
+        height: 275
         isCached: true
   - title: "Microsoft Lands Exclusive Licence for OpenAI’s Astonishing GPT-3 Model"
     excerpt: "Microsoft is having a hell of a week. On Monday, the company announced a $US7.5 ($10) billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter."

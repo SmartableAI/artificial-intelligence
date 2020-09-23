@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving taxi concept wins Ford award for new designers"
-    excerpt: "A Staffordshire University student has won a design award from Ford for their self-driving taxi concept. Marius Lochner won the New Norm Mobility Award, which challenged design gr"
-    publishedDateTime: 2020-09-18T12:45:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2020/09/18/self-driving-taxi-concept-wins-ford-award-for-new-designers/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 24
-    images:
-      - url: "https://www.shropshirestar.com/resizer/9TLT9ihJlL3K3zGgA3EVSAJJcB4=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/7T7A3YKR7ZDZ7AJNEQOYOSAUEE.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Muvone Self-Driving Taxi Concept Offers A Solution For Social Distancing And Transportation In A COVID-19 World"
     excerpt: "The COVID-19 crisis has impacted the lives of billions of people in fundamental ways and will continue to do so for months, if not years, to come. Transportation is no exception, with people growing more wary of using public transport for fear of catching the virus."
     publishedDateTime: 2020-09-18T21:31:00Z
@@ -60,6 +46,15 @@ related:
       name: Al Bawaba News
       domain: albawaba.com
     quality: 24
+  - title: "RRD Study Shows the Impact of COVID-19 on Marketer Perceptions of Artificial Intelligence/Machine Learning, Shifting Investment Priorities and Effectively Connecting with Consumers"
+    excerpt: "R.R. Donnelley & Sons Company (RRD) (NYSE: RRD), a leading global provider of marketing and business communications, today released The Pivot Repo"
+    publishedDateTime: 2020-09-20T06:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005612/en/RRD-Study-Shows-the-Impact-of-COVID-19-on-Marketer-Perceptions-of-Artificial-IntelligenceMachine-Learning-Shifting-Investment-Priorities-and-Effectively-Connecting-with-Consumers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "IgZVcGvQRh4tFAbCWE3f9r06WNMc3kJt7Vn7GvG2puqvFOFbJSkdTLsAyoV+KN57C9CDcGH4p3KhOTCUWXKwjXbMrYDikDeX7Udp+Esa9Ueu6OeqwesySO02xbf8d4clUV2029ihPW+WosztBWIQS5jeaRgWgYDHjI/MKf1Brwxv0zVm7b2Z2XLwNuVZ02LhqJ4DvngF7wwjJ23GzCYOi6zM1SUOhclxvlPJ1XyzOpWHnsAIvd8fiqNcEZdYpqwM+t8s+360b3etFugX9Vi9jRetQex08reJHTPtfdgDHAOaKcvglEDzW6azg6YqVb7Jo7WIiFvnWOiYTzS4yey/gLs++z3Hf/fvdH3grHL8sCk=;Uj8eflqChLJAPo0XJmZ/3w=="
 ---

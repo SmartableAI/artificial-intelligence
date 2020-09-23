@@ -19,20 +19,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/</loc>
+    <lastmod>2020-09-22T15:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/seattle-startup-resonance-ai-raises-2-2m-analyze-dialogue-mood-music-video-content/</loc>
     <lastmod>2020-09-22T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/</loc>
-    <lastmod>2020-09-22T13:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner</loc>
-    <lastmod>2020-09-22T12:00:00-07:00</lastmod>
+    <loc>https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/</loc>
+    <lastmod>2020-09-22T11:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -49,20 +49,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22</loc>
-    <lastmod>2020-09-22T09:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.entrepreneur.com/article/356406</loc>
     <lastmod>2020-09-22T08:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/</loc>
-    <lastmod>2020-09-22T08:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -279,12 +267,6 @@
   <url>
     <loc>https://www.forbes.com/sites/junwu1/2020/09/21/ais-helping-students-improve-their-scores-in-less-than-24-hours/</loc>
     <lastmod>2020-09-21T04:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/pra-health-prah-enters-into-strategic-deal-with-deep-lens-2020-09-21</loc>
-    <lastmod>2020-09-21T04:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1177,6 +1159,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615</loc>
+    <lastmod>2020-09-14T16:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/</loc>
     <lastmod>2020-09-14T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1579,7 +1567,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13</loc>
     <lastmod>2020-09-12T22:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2083,14 +2071,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777</loc>
-    <lastmod>2020-09-10T02:53:00-07:00</lastmod>
+    <loc>https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/</loc>
+    <lastmod>2020-09-10T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/</loc>
-    <lastmod>2020-09-10T02:25:00-07:00</lastmod>
+    <loc>https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html</loc>
+    <lastmod>2020-09-10T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2323,12 +2311,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09</loc>
-    <lastmod>2020-09-09T06:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627</loc>
     <lastmod>2020-09-09T06:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2337,6 +2319,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09</loc>
     <lastmod>2020-09-09T06:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html</loc>
+    <lastmod>2020-09-09T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2437,14 +2425,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news</loc>
-    <lastmod>2020-09-08T21:14:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/</loc>
+    <lastmod>2020-09-08T21:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/</loc>
-    <lastmod>2020-09-08T21:07:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08</loc>
+    <lastmod>2020-09-08T20:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2487,6 +2475,12 @@
   <url>
     <loc>https://www.geekwire.com/2020/sea-tac-airport-rolls-self-driving-floor-cleaners-restroom-stall-lights-pandemic-safety-tech/</loc>
     <lastmod>2020-09-08T11:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@tjajal/redefining-intelligence-in-the-age-of-ai-c21a8aec41a2</loc>
+    <lastmod>2020-09-08T11:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2823,6 +2817,12 @@
   <url>
     <loc>https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947</loc>
     <lastmod>2020-09-06T22:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@MaxEd_Blog/transcoder-to-translate-programming-languages-facebook-ai-63e7cc4246cc</loc>
+    <lastmod>2020-09-06T21:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3577,12 +3577,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic</loc>
-    <lastmod>2020-09-02T12:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/</loc>
     <lastmod>2020-09-02T12:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3591,6 +3585,12 @@
   <url>
     <loc>https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/</loc>
     <lastmod>2020-09-02T12:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated</loc>
+    <lastmod>2020-09-02T12:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

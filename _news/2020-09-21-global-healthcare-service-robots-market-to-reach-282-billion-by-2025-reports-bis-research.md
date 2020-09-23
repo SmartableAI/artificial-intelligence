@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Neural Networks Market to Reach USD 5.98 Billion By 2027 | CAGR of 21.4%: Emergen Research"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to expansion in the big data analytics, emergence of deep learning through neural networks and cognitive analytical procedures in various verticals including IT & telecommunication,"
-    publishedDateTime: 2020-09-18T12:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-to-reach-usd-598-billion-by-2027-cagr-of-214-emergen-research-2020-09-17-111831649"
+  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
+    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-09-21T08:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 52
 
 secured: "rfYg4Dc6y3Q+BrMG2zsl1nWUMwBCcwTCMUYYjkKbzl9Z6ddbr2whMeOaTtqwg4c5yFAh/7TKLTQfo6CiNDZhJLjnLRcCuXFhsMjOO7lZI2gt8ajg8HBLvT5qQcQaACEQb+nvIjEQ/iSElywWZLyOUqvlnwQ3uB+PtnjryvE0d2taAWucROBPrqAymyCsPv72LaSeBW/Z/HCTVIV7SrVCqhRvie+1lfGdg4jaaUy8X9BOymrUmpFyEwUD7cLmZXYuzC4iZXw7QP4iJ33p5toyrr4cyQA2QpmaudsuyzDP+vKaxfoXZGOTBP0W92GimL277NuXhlP04STuu2yRavQJG36Xpetd2HO5xei5CnIoEhI=;eIHx/aOieEZlAlnF/aN1Pw=="
 ---

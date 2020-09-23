@@ -1,20 +1,18 @@
 ---
 category: news
 title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-excerpt: "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud"
-publishedDateTime: 2020-09-22T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17611271"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271"
+excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+publishedDateTime: 2020-09-23T05:04:00Z
+originalUrl: "https://www.businesswireindia.com/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69631.html"
+webUrl: "https://www.businesswireindia.com/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69631.html"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Microsoft AI
@@ -57,7 +55,21 @@ related:
         width: 740
         height: 467
         isCached: true
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "“Once data is delivered to the end point in customers’ virtual network, customers can then use other Azure services like AI or ML, or even Azure Cognitive Services for that matter, to ..."
+    publishedDateTime: 2020-09-22T19:04:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "BLFCjjDkkjZcGLLoUtCtii0uJcVfTr6mV49ikxMq3pOzySsxWKBnEm7t7Tt8/x0DBpHaVa2/exdOyU60qbAuekCkVPyvxvhFo5qnKFlBGPONAjzjJVoQDXHKf6KzDMfCIO1uVy6MtXlHjk1+C/ukPMBJsBEQn+JxbbYHDgmlEv3JzLW75+9+gFaWFkJpNVtmvJ3OgsFYSIUUbeHiWW7aZ9amqfYNRzPc9SCRCJUH2Lz+I2rrnw3ZsUztu+1Z6ILSRncjU+j/VjLb3Q7Cr+IX/auj2zu7v7FcNd9Z5zuMkEq3Lj80QfF/+sb2DOI8SrF0WNAOgCzQCTtd4UGK/5C7yWSYo2u3T2M5+rgsiAbQjf9MfiWSNEOisrg6N65dsGUB2qzEvMWpuzr84OojjH7kLpusoiCMgfnmAw4/aEon8N54FBQ4ryhRRGKh4I65UM01oc4FwxXPgrUguEQRqD1+wlR/0MuZQYeWJin8bm64NO/4Inz4IadalTHJ8j2i7VvprRlnyR3tftrUtA+S9GZvSw==;vpyCuiDagvmNowVi/UeMEQ=="
+secured: "nFsxX0zA8YquLn89hgb939GjGS66GdT6HJNUq26PqhnGzn81WztdknBzPx9B5ItzRGK88RQFDOVcAXptNbh7iNYwVRcJx16IcmiIKiN4GXa3Dutm3emNNCMgpARnkuJK79NvvSklRYW57bT++P589Dp+qxHkrhxDpBBqpC5PVoyspgRF0hglWmh51iRy477qgjvQPVZxt0WUq5mf9V//45HMc66Ehoz/jINs2WAMEIUWwCFJO9qm21mF9RQIzKxLcQMjya/iNvEJ7IYl7PwrQ8hYgHW5GJAaNCl161M3AjjbLhnjoYYjX32Uk+x/pCicKmFWwQrMqTrgyR3LbToVtTc6X3xgHqfPInxoLbj2xCE=;qORFBmBWMO4LnfAorNRYKw=="
 ---
 

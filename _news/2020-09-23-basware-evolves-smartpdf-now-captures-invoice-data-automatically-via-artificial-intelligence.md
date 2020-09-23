@@ -3,8 +3,8 @@ category: news
 title: "Basware Evolves SmartPDF, Now Captures Invoice Data Automatically via Artificial Intelligence"
 excerpt: "It is designed to ask as few questions as possible and once answered, the artificial intelligence (AI) learns immediately, never asking the same question again. Plus, the AI takes into consideration not just the text, but also features, such as fonts ..."
 publishedDateTime: 2020-09-22T20:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200922005192/en/"
-webUrl: "https://www.businesswire.com/news/home/20200922005192/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200922005192/en/Basware-Evolves-SmartPDF-Now-Captures-Invoice-Data-Automatically-via-Artificial-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20200922005192/en/Basware-Evolves-SmartPDF-Now-Captures-Invoice-Data-Automatically-via-Artificial-Intelligence"
 type: article
 quality: 26
 heat: 26
@@ -23,6 +23,6 @@ images:
     height: 627
     isCached: true
 
-secured: "DswI1aXNsBerjGGlUqqwOTrdvePKJobTxWQtMAV7H1gL3RO9XjONiRBDpvE5dwGCvN4OoaWf1arC0QVfbiI6Iab4VwmoDzqlTGhsGlVCpp4cNlkMwUfGLs/E5rqTLx2vGx2pm5wq+l48veR4m/uKDku0pODnJVvtxVQbLIFFD8tMgE5z83/UQ0f1vJJfzTMdLQ3anaNfdMee3WHecCgLyrOE4+U7zu5dyMBuzfomdswldTTlscJ4fT/TDbSAZXz9QNTRRXXADY1heytqcNbpu4eaGVQDfPc23M/zvfocrw9w9kZqDY199HLEXmL7NGInrAX3K5/2OP/NgLqruow1kJqjqNn8B2VxQE3g9INmzIk=;sTj82HMrTLCBqOdK1sZBdA=="
+secured: "CYEchuRzQKBnWg/0Be5RSUQxDsu/H0nlILKe9CRTQm2a1Hd8qxQUdeilItgrtM1hsy71g4VnIW1Pakd2G0/pDVOS/jZMXFCJZLCEe9GvF4MKaY9AltM4fl8uUHkKpuZdvpxWUcn+OkAn1L2j7VJTXrtFQD1mx7c/Nra9WYdqW/K2pGbcKlOuM7Ax4WpnbaOgWF+c339LP6SZu8hX927rybK6bIItlRWkfle7mWyrsnHMdGxct9XsuIyJUOeXz7JRuh7ILymo80QdK4bBayrX9uEDIrS5IFou8lNp7pixA6bhyd9fD6ftu61JYjdiphmHWKpQcxJhZ7/L1OJAL1ANo+oISpFpvTZwWZJe4VSceiM=;H3oELxHm2IFF3EjhSZlVVQ=="
 ---
 

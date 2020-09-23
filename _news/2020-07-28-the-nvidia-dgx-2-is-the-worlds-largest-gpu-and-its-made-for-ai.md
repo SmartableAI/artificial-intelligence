@@ -3,6 +3,7 @@ category: news
 title: "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI"
 excerpt: "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ..."
 publishedDateTime: 2020-07-28T00:00:00Z
+originalUrl: "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai"
 webUrl: "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai"
 type: article
 
@@ -13,6 +14,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg"

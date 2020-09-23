@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine"
-    excerpt: "Whereas, the market growth would be further supported by various market trends like three dimensional bioprinting , artificial intelligence ... by Products (Cell Therapy, Tissue Engineering ..."
-    publishedDateTime: 2020-09-22T15:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19-artificial-intelligence-to-advance-regenerative-medicine-1029612109"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
     excerpt: "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis."
     publishedDateTime: 2020-09-20T18:59:00Z
@@ -80,6 +69,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine"
+    excerpt: "Size & Forecast with Impact Analysis of COVID-19 (2020-2024)\" report has been added to ResearchAndMarkets.com's offering. Global Regenerative Medicine Market: Size & Forecast with Impact Analysis of COVID-19 (2020-2024),"
+    publishedDateTime: 2020-09-22T15:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19---artificial-intelligence-to-advance-regenerative-medicine-301135576.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "1Y9GHyDXYayOqbbWGVX5IaYN4zYYx64fM+HwfUe8OxmtJIQvQ2GQruwmg7rfrin/rUhJKELSuHzpq0cQRLmhmwOsgt0rLfS0iElTgkHmiDDDF7p/co/b8yLuPyt7hsbh9Bez9mygug+toG+ky4UCwOUn0GmhYgnawDIVacRUQdd4ljh5vo3X5a0/0ZSCp8lUM9QaOe20LyTgzfRQCoXFir0HzZQhM156aR3YhQ9rb7cXyHYvhl3gKklB0Lb9mngxrmnPZkajDBK4shgg6UrsZlB8TSIC9twdThBvjeMuWaXBL1M2YjkjHvRckrXu3j8Q1f8Q9FJWOoPddPr8KIBTqpVuIHL10VFrlvTi1ZXt+wM=;WndkG3Ho8g911RqtOuONiA=="

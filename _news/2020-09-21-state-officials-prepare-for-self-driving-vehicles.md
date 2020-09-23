@@ -7,7 +7,7 @@ originalUrl: "https://urbanmilwaukee.com/2020/09/21/state-officials-prepare-for-
 webUrl: "https://urbanmilwaukee.com/2020/09/21/state-officials-prepare-for-self-driving-vehicles/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "PennDOT is in the forefront of self-driving cars becoming a reality, official says"
+    excerpt: "While there is no set timetable yet for driverless cars to hit the roads, Pennsylvania is in the forefront of developing the technology for it to happen. “This was once just a dream of science fiction writers,"
+    publishedDateTime: 2020-09-21T21:15:00Z
+    webUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.html"
+    ampWebUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 38
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/a/73/a73fadca-03e9-59de-b83f-7dff957b1c02/5f6a273bb1d6c.image.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "79b/nq7U1EWSpJDQBN3TiAxVN7FbvxwglihpiIwjgfpTVaqIBXDgVnJAkh152npYswOrctIdXPq7awA004YbWRQ2r2tOKd4ZFWTViW23Ik9LMAe/neX1srGLRVv/50JsyqJJ+znhEqESaRG060ZhbWhyb9Mo4VdEWYr7nKapONSjHI5sJD6WNy+imo5AfjTFbN+oxXU9UThPSX7MV84zK2dgTeufwudHTZ2QzHUJ/oyq66/TbN6+PeP09T+V6SDGk7sBkaEsO48GfH1+CrbQaFae4KuHhn8cwvVYNz9LoQ5LQlXCcGrJC+bAyXKBMQfWZR6PHurcJIAdojg3f4jfcAB+H4ug1t+/PLpTMPAHb+Aj6YYM4eFfyRIdSlkQLpst3ykmFl1bL3j3Hq2gusKAIg/6PZFlvhKfDMrvZZsATuPJS3nk3wZoem1dbOF0D4nsuNYKhmO/tYTd+fZJz4KksQlfCYSLA6Tr7z+Rn9JDqLpgwKaMgq3thEEQxUyAR5yo/9zYvWUM8grRQ++n9FSvdA==;8cw/RG7yhQp9xlj3+smrPA=="
 ---

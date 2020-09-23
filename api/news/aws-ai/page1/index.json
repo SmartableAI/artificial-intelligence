@@ -1020,19 +1020,19 @@
     {
       "path": "_news/2020-09-09-aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season.md",
       "title": "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and the National Football League (NFL) announced they will debut six",
+      "excerpt": "The NFL has used AWS compute technology for its Next Gen Stats platform since 2015, and began using AWS machine learning services to enhance Next Gen Stats in 2017. These stats help teams, players, broadcasters,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09",
+      "webUrl": "https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html",
+      "originalUrl": "https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1041,21 +1041,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T06:38:00-07:00",
+      "publishedDateTime": "2020-09-09T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1073,8 +1064,8 @@
       "title": "AI Image Recognition Market Global Outlook 2020-2025: Google, IBM, Intel, Samsung, Microsoft, Amazon Web Services, Qualcomm",
       "excerpt": "March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1092,7 +1083,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T21:14:00-07:00",
+      "publishedDateTime": "2020-09-08T20:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

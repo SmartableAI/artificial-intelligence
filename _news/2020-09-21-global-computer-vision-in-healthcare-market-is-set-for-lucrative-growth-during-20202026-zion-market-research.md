@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market To Amass Optimum Revenue Over 2020-2026 - Syndicate Market Research"
-    excerpt: "Sep 17, 2020<p>The report covers forecast and analysis for the artificial intelligence in retail market on a global and regional level. The study provides historic data from 2016 to 2019 along with a forecast from 2020 to 2026 based on revenue (USD Million)."
-    publishedDateTime: 2020-09-18T11:18:00Z
-    webUrl: "https://menafn.com/1100817110/Artificial-Intelligence-in-Retail-Market-To-Amass-Optimum-Revenue-Over-2020-2026-Syndicate-Market-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "lYQ3qulYWv2hGZD+2Y2P5+VNZi6qBtOrDrOlYyqQWhVsg7gxoP9+N/nGbymM2zzUyKlaBcMlJ6gYzlzPi8OPSXLHKWjdu44gV+a3RgwgNrKfbJ8JIsrhi+kqL1JbXVpieprOLMpClV4oemD59IKy06fi/8iLbRxzfaDDTowlw07SXyxZtySKnzZqmsmXsJs7cXVxxRtOayCNN3fSFrBrgyaVakYMD3Dge6xFw6IbttM+3fhIyO+htTVuS3tTwwp99lZGQ5vBA3EMn7pPQGIH+4NH8NJo2hSAXkgCAbXT1Ld5OnMvC1ZO3hqGzWTWar3dsPaDVjvJ+t0tGs4tK0fD5BPu+LN7AT6+tAwxzvm2+u8=;w22fJBKPEFlb40zPBQQlDg=="
 ---

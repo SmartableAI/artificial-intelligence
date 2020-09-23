@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-mi
 ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
-quality: 89
-heat: 99
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
 related:
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
@@ -38,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 69
 
-secured: "IoZ/1hf17EWtWo8zPVuOHwOct5Dblaj8J/eG55xvDcxaIhFY1apNY9oi0R4flr7c1xuqIEScWegFAtzNvtQyPCTi/6vY0+dFK2Eunvnya8dvIdhLbWvBTGmAwQIOIdP2vhBpxrLhFXqAWSFjr/4PD0Y6OnfaHWc2Zmj+6Mfr3KPTWCij5J+bLmSepjmi6IJKIGBTyO4ccjE89M4vp11vlTcCQPJQs51rFnAPdgaQJ2bmJT7SPEc8BxptKdS/B6AJk/Lzt+7phsDTAsucN0KbrbQDn7GYeUuGWIadMAYIbR44Abi6UaxwlclYuLwVPmjdu7rGN23ac5J6q4ki1cnqWuahJDtP5LNrtBgn3kZwB5c=;lUPOaGMfgxWg+AqjmMjDYA=="
+secured: "Gi05qGCvbzdiekW9ffIKlb//B0dTOBG9Wnfb6wSt+xERscu99O0DkGWP3sd+wn/0tQZCt76c+h2HPiLWvK2AizMI5sBFQAkO6dnB+rrUNxYqNd7GBc4hem81VOuMmhJq7ELzXn6iPV/mn2bL1q5HcH+BNQcS7iB+YLgHUrVVkiaWyE9jUkGc80cwzv+t1rB1tusuxS+EZAnns/KabjRB05wo6UzLspLQBGpl2ocOgeYR9371khWsILDzZPD8RvY0ov7Wjzg8xJuHKrQ3v5GiDbRjidd8yLKOyP5VevUDwjkL/XSgK4i2RxmvFimeMem02mJl8n7Eo8pzid1Qmjuzfka7RdttFzHJeb2MrCtro4E=;xlbfnsbILl8BbjiwKYl55Q=="
 ---
 

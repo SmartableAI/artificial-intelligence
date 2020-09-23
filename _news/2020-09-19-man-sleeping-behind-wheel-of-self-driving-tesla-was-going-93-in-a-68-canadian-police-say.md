@@ -59,22 +59,6 @@ related:
         width: 5152
         height: 3400
         isCached: true
-  - title: "Canadian man booked for falling 'asleep' as his self-driving car zoomed at 140kmph"
-    excerpt: "Police in Canada have charged a man for falling \"asleep\" while his self-driving car was travelling at a speed of 140 km/hr. The cop who charged him said he was \"speechless\" to seeing it."
-    publishedDateTime: 2020-09-18T11:14:00Z
-    webUrl: "https://www.indiatoday.in/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
-    ampWebUrl: "https://www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/world/story/canadian-man-booked-for-falling-asleep-as-his-self-driving-car-zoomed-at-140kmph-1723121-2020-09-18"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 38
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/GettyImages-1217880607-647x363.jpeg?FSzeVbegnIS1n2uRLO.hvIEEqKulrw4f"
-        width: 647
-        height: 363
-        isCached: true
 
 secured: "1LS/q/SmIRs0K1bW2tMKrVMlm3cScbZWukb2sDBbu0cp5z1juv2wdAxnvJcJMe1Uq1MM1hAqGtItUrk6Pczl9TOZ/yZaRImj5SBZftXwnFrxmwJ6k5w1G+IpPx0uS6IohOCnMRc0uCoqzqBON4W370R+KjXgPcjCd6Tek3tR3zXEeIHgryMnNHXnm3PDDUXrsck/gVDfVTpoyLGy9sxc0T3kBaV99CB1kSeko5x3kPH3pwIuuTdLTQdUQZPtSZvN65miH9L5sBSTvczi5emMD5SpVQOkJgp5jIpETwlj48Kbr2ZQjW0xVnrpBiNRM+W3IgV9rmCU1+nwBTa6jg4eTbgOzONkqTrLJjeHrQi81NnpSOkXtJl5xFmGn+5eKMUvGS1XyTanUKUqRstJl3QmkuhzosmwXAllZgivmNDWsjuHJgUgjtb2eY7iwtiR22lQUawxsHEEMSlVyOa7TK02eSmMEVMCnSuzqUJr+Ty333URlCA1/18XyxPgsQYrf7OFe45ud8WdCzVSqBMvMFMElA==;CTz9w9VVU16jS/lCg4qZGA=="
 ---
