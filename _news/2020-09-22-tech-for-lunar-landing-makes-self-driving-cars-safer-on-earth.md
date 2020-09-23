@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Uber investors are pressuring CEO to revamp the self-driving division"
     excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
     publishedDateTime: 2020-09-23T09:33:00Z
@@ -137,15 +121,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
 
 secured: "Lqn+EAjRNDIfgBswpL/YMB+fo99NK5C36S2WnNMSzSi8f0u9FbT5Ao7skyxZqqpRFyiOqKVrpbqz1+LEZJDjxJ/BBZ8F0hkIzYDipBrbNyK3BW9snY+BA1bYc4YGutV82AMrsIIkcnpaTXpmM4XPLmsqKlEPrGdYTAKDlp64v/lGhNWh//rkT6yEynAipHZSGwWcEe2Z6yAqSVpRIUjNlxfZnMxQGaDZDKN33FP/FntAQ63E/sIYUQpOZ254zmy2oRPJ6/fNb3UcR2pI3kk9NMKGNhL2SKTw6p3NE8SJn56dpzzsP+vfZsVUul52k+6ZT4hq+1InfCKa2c5qGpqZUB4rWKBi7unw4RtqsdIXaUA=;Yi4yYojf0PBuNY0P8uwRhw=="
 ---

@@ -65,17 +65,17 @@ related:
         isCached: true
   - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
     excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
-    publishedDateTime: 2020-09-23T07:27:00Z
-    webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUSKCN26E102"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E102"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E102"
+    publishedDateTime: 2020-09-23T15:37:00Z
+    webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUKKCN26E102"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26E102"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E102"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534558296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534583646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
         width: 860
         height: 545
         isCached: true

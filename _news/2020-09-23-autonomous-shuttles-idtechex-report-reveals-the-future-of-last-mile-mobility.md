@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Autonomous Shuttles: IDTechEx Report Reveals the Future of Last-mile Mobility"
-excerpt: "23, 2020 /PRNewswire/ -- The autonomous mobility industry is tackling part of the last-mile problem that many commuters encounter when using public transportation by replacing large, diesel buses with a fleet of electric, self-driving shuttle buses that ..."
-publishedDateTime: 2020-09-23T16:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-819532388.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-819532388.html"
+excerpt: "The autonomous mobility industry is tackling part of the last-mile problem that many commuters encounter when using public transportation"
+publishedDateTime: 2020-09-23T15:43:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-301136834.html"
+webUrl: "https://www.prnewswire.com/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-301136834.html"
 type: article
 quality: 21
 heat: 21
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
@@ -24,6 +24,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "kNlO4OwXrtWunZNthGdovghYCEyP+Ix5sElOwMGHfH+tO6np89+yBR3WR2Vw5MC9OT6/EsuwSMuhn43Idm7d0VyXhANY/B3VNDgPkg8CImpEBDECT8JYaKmG6B1YrM6TTzpOJoKNJltEPqCysRrHbZV4L9Yy5RTPwxU7kGgM1ggM+vY7DYgyF94s4pYcG7RW6+g3Rbj4lxDpxAUuQIzZHNLKtqBszR/1++X7BOceYwOfb2NzZEle2iQFrjypvZWqyrdkqVELxkJ+t2KsB15f8EL//b/Gtn7xW3Sw4wYLYLTlbIM9U+eTz4n+pCQV+phO1BLyyHoFZfnTOQd7TQZrWREmSI+6jRQg4VVSc2zQF7M=;oF8Y2RaMpmgJcu4rf71lZA=="
+secured: "vbLBH3WIdWJlRd7tW06rZ9hXMmJ8zyoVWjcD8v880g71LImJlQzaJolJk6kgS/mh8xv0SGLpvTwEanBWkcYGMO1Nzw3xRafc/Jt7oc2TRUPfh6k//K+iX4E9TkQ7l3+UZvp/zCzJVFqfyICcBg4SHSYiMULETRkiuq7RUf7gZAcnwWuZXHb2v6YIslxXlmMAQ20NLMF84UltUPUOVPHPAPnR1NWw5UvFN6IsYaOR/XFkZ1w7k11QtGMeECIPvmNuW2fLWvS2igqiXBH2iMAQFBfiCHsxCoT++RkycNfNLsLHyHoNhAik5SmscLP0n6j0RuYokt3FY/NJmcUBaz63kQ+TB6a6l/CNHgfXDINE664=;CVyGtxmpH7uZ38Dk/SpRsg=="
 ---
 

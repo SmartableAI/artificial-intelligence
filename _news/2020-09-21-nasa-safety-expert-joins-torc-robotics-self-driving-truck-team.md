@@ -53,6 +53,20 @@ related:
         width: 2126
         height: 1537
         isCached: true
+  - title: "VW's Traton takes stake in U.S. self-driving startup"
+    excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
+    publishedDateTime: 2020-09-23T18:52:00Z
+    webUrl: "https://europe.autonews.com/automakers/vws-traton-takes-stake-us-self-driving-startup"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Traton_TuSimple.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "swmawzrXc1k4cJ6Q7q3/Vx74cNajudYsNopgxq19hrzl8qt6mWtLon2xo3UOYRDA4GirDA07tb2gsaekL1o6HPdl9U9PpIDZBaintaHnK5NF/DU+Y19R00NGE+ITqs3kYelRo+xa2ZFcgZGEPlgDP4402iL5RmeB0mABRwkoehw29J6ZT/I7fw8fhkkmf0GvEYl4BYWpV8AmdI3W+CPSEcBYicAnfRZttmDK+VLTAwp/03+sX0Lfi9Fkuh5pQc2WCle1+9dqs3N6/T04PQkbDshPHReZgjuusSzzsXEYVGyTiTuwjuGbouQWj9cAJcHXEVPDHb2zRjGtAr6KEGXYIXe+GJcnxmiR4GXhLSSCeMQ=;N/spXB05Erlh2l602w9slg=="
 ---

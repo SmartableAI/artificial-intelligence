@@ -70,22 +70,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Uber investors are pressuring CEO to revamp the self-driving division"
     excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
     publishedDateTime: 2020-09-23T09:33:00Z
@@ -129,15 +113,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
     publishedDateTime: 2020-09-21T20:27:00Z

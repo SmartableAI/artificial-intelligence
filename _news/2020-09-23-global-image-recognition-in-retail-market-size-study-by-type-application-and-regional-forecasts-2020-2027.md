@@ -27,74 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
-    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
-    publishedDateTime: 2020-09-21T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
+  - title: "As Per Study, Voice and Speech Recognition Market Size Poised to Surpass USD 31.49 billion by 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2020-09-23T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Potential Growth, Share and Demand-Analysis of Key Players- Research Forecasts to 2025"
-    excerpt: "The GlobalArtificial Intelligence Chipsets Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and company's financial data such as annual revenue, research and development expenses,"
-    publishedDateTime: 2020-09-22T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-potential-growth-share-and-demand-analysis-of-key-players--research-forecasts-to-2025-2020-09-22?tesla=y"
+  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
-    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
-    publishedDateTime: 2020-09-21T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21?mod=mw_quote_news"
+  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
+    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
+    publishedDateTime: 2020-09-23T13:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
-    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
-    publishedDateTime: 2020-09-22T11:53:00Z
-    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 8
-  - title: "Dialysis Catheters Market Size, Growth, Demand and SWOT Analysis 2027 - Lead by Medtronic, AngioDynamics, Amecath, NIPRO, Cook and Teleflex Medical"
-    excerpt: "A new research report titled Dialysis Catheters Market has been added to the vast repository The Insight Partners The intelligence report provides an in depth analysis of the global market on the basis of the different types of products technologies"
-    publishedDateTime: 2020-09-21T11:39:00Z
-    webUrl: "https://www.openpr.com/news/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
-    images:
-      - url: "https://cdn.openpr.com/T/9/T921694676_g.jpg"
-        width: 700
-        height: 491
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "xS7GTqzZfnQdvXjj8ohVnfCH4W/jSqokLfJT+FKcc7wATzYAZ1fFYJ/vobFfGWAVLgGWwNqCwp59LXPFcqrQk7iTAdMjysGLEoKaiz8E1iO8WkYDx4aHpT2axmviuB/4YSlM6vbwrq8C18nYJ2E6symhEQW6grSeKqOVo0q61776LAxBuTjik38pwGAx64G17CA+q6F6nOJfMZ+EkSyRmsyPslEcc7ZnbzWL2vh4W+3VnK4sspFQ5td6InI577IneIBio5XEux+Onh4vZ8eHtKUPauFVfFC69du79eYEFJMOM9CS3mL69Cozo9/+fX1jcFcEPamrtZx4BEmTnP3SW626Uldz8nhlpTScidAeEA+vTzrGhLZX2dpl6OxdHC4/xbIsDS4MooHzNmRWJHf+cFspgRoOand256Xk57W8UfYO9OeCYfBs/6WNG2yhm5JoWjr8iFZn78Qmx3Uc51ShdaCLGL3JzSawKUYDt2zbYTYPRj84rRsVdJ+gu6XUDd7Ik4mrauQyaeTWl5cyvQRdkQ==;r5TaROsg2d9BzvMZSQnmQw=="

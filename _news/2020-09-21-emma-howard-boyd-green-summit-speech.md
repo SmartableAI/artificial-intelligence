@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Emma Howard Boyd, Green Summit speech"
-excerpt: "I always enjoy the Green Summit. But, not because I get to tell you all about what my Environment Agency colleagues are doing here in Greater Manchester… although that IS a privilege. I love it because I get to travel to Manchester,"
-publishedDateTime: 2020-09-21T13:02:00Z
-originalUrl: "https://www.gov.uk/government/speeches/emma-howard-boyd-green-summit-speech"
-webUrl: "https://www.gov.uk/government/speeches/emma-howard-boyd-green-summit-speech"
+excerpt: "Projects like IGNITION, which aims to attract investment for green and blue spaces; should inspire private sector take-up of similar schemes all over the world. You have just heard from the Youth Combined Authority about the importance of green space."
+publishedDateTime: 2020-09-21T13:23:00Z
+originalUrl: "https://www.politicmag.net/politics-news/emma-howard-boyd-green-summit-speech-11675-2020/"
+webUrl: "https://www.politicmag.net/politics-news/emma-howard-boyd-green-summit-speech-11675-2020/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: gov.uk
-  domain: www.gov.uk
+  name: politicmag.net
+  domain: politicmag.net
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/2589/EmmaHowardBoyd_GOV.UK.jpg"
+  - url: "https://www.politicmag.net/wp-content/uploads/2020/09/1600694405_Emma-Howard-Boyd-Green-Summit-speech.jpg"
     width: 960
     height: 640
     isCached: true
 
-secured: "J3D3xEPaXkdd/gIKaf+nzFLEyrQPi8IpmUb2xn5JsfEoKgAqWbKpqz0PNMh+pW4PrdSjKlzwz9f7VN8JOgNmrW1OUOlSeqrZgFf6kp5YoGbsZmA7RsxRXEz7sNI6K4wlYDIaWQ2a6eS6VqC7laKy1I3wmMEjTLuv4so5YZcdEZNBMqteLxoaCFoH9rgaXhmBSiiB2dvCNmRy49Sji79MmYvp7dfvWqqigCRNxFEwKDmiZKY2LzxWNE+Z7kEHpKz28qPMhsLv4VDTnDnU/cZjGTNTSyp5T1ofB36T+6R3OlOniZYe+UGvJIhPOVZP8daV/vA5V+ej7TKZ/j5kSKAGFzGtPbsfH5a6OEfXkE/4TYM=;7uPnMiuDvFrdx6DgSNo7VA=="
+secured: "CFa3CuCVRQUUnO1GW4l9wUCFUfMgnYSKGu3qcjNeqeAbk5/pkOCbSSgl4s7cIE7Xc5eMcwj+5tw39BLOCe5242lZdLZAFA1X/T8BsdbFW4L06oTgiT2YNnDimHs7Gf9645FjMZOxCbcyCgqE7sEapKBErt9vJOmGdvyAB7w0iGjlwuqXDNAAfLxyKzMYaCaH8BeCotUc97pMDxFFaCoHItx1af5XJPhOGfJyEZHPxcOivpUSDA/3WkFgteCKiU6UVG3yEwBaLAhDhfLevV4jM5Qk0o0LQjYicOiW7pTKLoI4XspqUeHvjWhrfcXdAXQkYBk+6JHCIOnHKPsEshYn4ObToUyAMK4RUCo9p/oyLxM=;YQcIcyX1EuaRKE84CGpA1Q=="
 ---
 

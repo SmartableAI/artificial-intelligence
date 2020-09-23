@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-tru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "VW's Traton takes stake in U.S. self-driving startup"
+    excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
+    publishedDateTime: 2020-09-23T18:52:00Z
+    webUrl: "https://europe.autonews.com/automakers/vws-traton-takes-stake-us-self-driving-startup"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Traton_TuSimple.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "4DaMRizScDjAcnwq7BI3Eu3u+J7H7Eu13wyCSXs24NCMCkad/lThkEdhO4TnJTN743Z0xhZWAe2M+wNIpOgTuuT/ag6ZAYqdmrQtKT3TcmBR6V/VKV0hXLu8eFHHxNsrsjvuUEnXDk4J3xc0gzNAWGpL/Iju9s7CJjYasMWWmkM1X9lg2INHVxGmPiy4b8TZQRa/WZWtHr+tyoaAgvKdOU+RrmWhGjq2GBvHKEXHgcwKoiKp1wBm5DVSz8ov+ZpxvA4AUJUsM8E4lUIwUQ+HHswjCIhbMdyaz3j13SVIec183if8rpTKWgJbfaUAyAy24FtlvUbGJwk8DlrTHZ71vRrnw+K8htxlyv0txvOg1o3UdRk0iiwggcyrQ717hqSG0PcFMxHXSjeqbVYxSg34kWVNlUEnd23GL8n+Vb9OYPPbAh2R1F+wkysFQIFm0BYC1tnMT5hP8tx9wRfHdkTi61FUp+1fwuI4HeRmIxQwjcdV8S62rW43VT0G5HTuXXlEH2iTHnijsC/JUeH+IuCn3g==;46sUHEsNL/q+SR3jjkX8NQ=="
 ---

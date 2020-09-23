@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.bodyandsoul.com.au/health/womens-health/is-artificial-in
 cdnAmpWebUrl: "https://amp-bodyandsoul-com-au.cdn.ampproject.org/c/s/amp.bodyandsoul.com.au/health/womens-health/is-artificial-intelligence-the-future-of-ivf/news-story/c3fe4852197793682e4bd9af45f95f7c"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: iaea.org
       domain: iaea.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.iaea.org/sites/default/files/ai-230920-1140x640.png"
         width: 1140

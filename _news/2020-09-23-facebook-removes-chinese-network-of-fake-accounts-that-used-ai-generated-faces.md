@@ -8,7 +8,7 @@ webUrl: "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-netwo
 ampWebUrl: "https://thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/23/facebook-removes-chinese-network-of-fake-accounts-that-used-ai-generated-faces/amp/"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-92-796x417.png"
@@ -48,6 +49,6 @@ related:
         height: 380
         isCached: true
 
-secured: "oxUriKyAtFa0JG4zfdSLXh9XakvpoCJxHhh+t79ZJQ1TeyYfTxq1qxBPvT42sd50MuDq0JrPMbNh7tQpX3eVmXKnjG67uSY45Em/LMBP+ZLUWYPBWZJtD1uJkW6JW01tNvDO5q5vlxaLDmQy4wed05pQ8+cQpwhUd1z8RYNSKBg27fOpv6tjV0ju2TxaYCF8ntXRgh2wn14aQgGgCd3vIR9zktP6MhWMacOQMG9IxOnJLE10lFxVfNlGlFKArSe6jLjRpj6zvxV2a4JnRV2WjCh16rLDQ+xruS3XGYx05yjeG0Ki0KLof1OdlwVwahsmGguHSSIWwzkis6fQe6SWU/TznQeA9nCQrmzzYZ5ZkbU=;jKCiDrm8XmvHfggJgJi7xw=="
+secured: "+5Vd0+veANDIR+9KGup1Ni7uSe7ZOmUUaPu714GsWl/mP8/aNrGyU7PvxkwlNmpNdSq5gqs75PK7ilMXGs14hJkXl1UMqWWjknISWhtJkF2JUVM0no+WWssnDMBtbZ8ZHrGnRr9IoKhVgQqfGorQf8JItdkDM5yKqEi3I4tPkbUfhJTnfaoQ9R+RGfcxr4cCbWA2wx45tir3wXL5yrjEbiFA/1vAFhF0IgqcGBIwtoneq10z+7xF4IPUinw6DG+1MFopWMTT2vf7EXNAoNFUG4VHqUBFR8Oj4/hSBBqnbzivGFE/FJcogADCPlimztbFoZwiymaU2cqVwQfU4EoDGxOttbWWclPDf4R0nj58bPl7gGc4bZPlMeNFrs/jHwmZSPV6ov1Bokbz35gVIPe8Z/w5ko9l/QOGujFbCn0V4mDNjNbA+yD4rMAKFZm1ADTVLmF0epZ4Ymm9YBfyKRgbjLrA+W/xsgHFEKeSxNmrrAqdU4EOA7oNS693pvN5eNZ4QdIyfLlHFPHRrLxufnkwpQ==;tOi3j35l9coV0rDyJGrLzQ=="
 ---
 

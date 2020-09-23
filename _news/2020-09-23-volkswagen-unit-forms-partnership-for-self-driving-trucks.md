@@ -49,17 +49,17 @@ related:
         isCached: true
   - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
     excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
-    publishedDateTime: 2020-09-23T07:27:00Z
-    webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUSKCN26E102"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E102"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E102"
+    publishedDateTime: 2020-09-23T15:37:00Z
+    webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUKKCN26E102"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26E102"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E102"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534558296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534583646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
         width: 860
         height: 545
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 281
         isCached: true
 
-secured: "NKXo+k3kc/3VIRhAIOTqT5ybCiSBilPkaTiQ3hcyHB0UuuXC0bAgcrhcX+a8EjPu1lsp2bjzU+Ccp2bv/0Y1qX6x+AO3fJF52XrSPLFB6QBrqu73L2jV0S4SsiX80Yme2C+HjJJ1+NXNxB3yp/NIAJM6J2R/dv2UFWhLuvgQoWycMcPVRl2W6Rmb7QnDbe6KnB39YcV4goqMDej9v+zxfec3H5ZKBgtHa0hVgMFs3QiA1SC9WDtn0AvJWWiX6OdkWVNX2J4FLf0ov2HUmuqZutred0+eifeF43inRYorPaa4QQlBVnCBBG5H/UjZq7Id6c8t5oPwKUA8zj6NacnW71dba/eh+N/W6tcXrx8sbgE=;SDBy5cJccyzW8EONiPBpQw=="
+secured: "jBFN5boeHDJGde7BIjLaV1yS3/LVvN3kOmxX+8+a1stIvLDnX/GlhIZS1Z9CgjtV1Ble23JaLZKI4ZS9ZkWnAW8V0+IlpqGU6rAKfn/2b2gwgeircz5TJxC/YQnjeqdSEtYV9e4Q+lzFt+GcUbg9smUVJvuzpMnwDBOYsQuWk/tDY9zhWeUTFuyhp/FZe4WvM5IzFqdOUwe7tEalFeNBUpZ1oQnHbOnsN14OBGplyjbbvXRWh81t94Wy0aU0VDk5oxKtU3ucwBpJaRiyw2d+XQ9nowJ/tvwiZc1Y+VJAMECx2HqOCIozcWANkMaK+wHaVBmEHkQbTGwMGwnjfvaMijZrSi51mCXwlnmISoR9OrKHivPOimegYLN+hs6sbh3XtV4FNRfJg3u5HBn7hirobr3jhnTe9IeObaPMDOO5WuR1YZvOHn3qEanlGQd2aTMdF5+041fQONtv/eXUiEOacf5ysRZcO8a/x2EzQwX3CSK0QDS82yuMjhAFCS/X3zEeehrKC34C/Pz00xRn4QZ4Eg==;89oLsv99EZnb5eVZxcbKFw=="
 ---
 

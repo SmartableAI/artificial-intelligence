@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-23T17:27:00Z
 originalUrl: "https://www.iaea.org/newscenter/news/the-future-of-atoms-artificial-intelligence-for-nuclear-applications"
 webUrl: "https://www.iaea.org/newscenter/news/the-future-of-atoms-artificial-intelligence-for-nuclear-applications"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.iaea.org/sites/default/files/ai-230920-1140x640.png"
@@ -37,6 +38,6 @@ related:
       domain: bodyandsoul.com.au
     quality: 39
 
-secured: "vHRddMfY+Jr76+0b1iSG16een5YYQJY22dYGc+ZXX7SEmUkkI7z/JByHxsnZM7pXm7n/iAzcHnjr7QApB3W6I2fxhcuVxr6/V76UghPLq8pxOoB4Op+O3QfPTSjO21jqk31DiQw32kIsPwsw0Ju9GwkYaUPHNa6/0O/aCn5zi0K25fY+Mrw7V9Nb522oSjjh9ZQTSzsD6aCe2Fm5ynPcpQ4zI0cX42XgvBQUzZ4LKACuwudnwFajA0tvtVZDX9u0Hx906xWBKRH8FHO9IDh7SXzDi0WjD9eEfJ4SRMxiVWqpZe0tXyqnl/AWOOs7XawXMiFFR/wiDQfNtMgkRzJeR7GRI1rst05jFwpy2hFMt0E=;CfNW/z+8bxs+5AprPQMUKQ=="
+secured: "0EmAgAXb4LtPl12659sRv8TCISQXAXHFztCHNXjsvTZFaVTfQFuYNylaVXoTWj3l9MmJL76OENdFMxHkElr77P/gESUnTyiLbKtSlkRTuL+Mun8d+QyXsUpVgr5lq956H/qo5uxZSkEhMeKQrSZzQ3wVXxJX2+FMAanrUdAVzyLLkNqw/GkmcRkigcmCjonMSD5K86WBUCy23rwN2YcrmOWn5q4qx5RPlK6dyoef+RlDj1vyIBpFtMRJvHzrDgZUl4X//QJWcb3HQQTCz5KKfLOhxfq74RkduKPUuoLUo6TaWciZ08ZMS1l4OGvXqDlYw+OJTdfFmpkScDrFjVfl0JWC3BZ+e434NGLECvNCmLNkCLp7h7VGF0Ix4FdAO/jhRbjiA69K85Kpo3LjxHkSgRbkx+qcsf3qGQbJgvbhSuHiw+kK2Q1sSfMqta9w+2bYAobDNjS30cHMshT9skSMgDTCVWpakTrB4XiiDB/RAlupvZSLhw0xyslefDgDBepEPYYB3TAOpTndPXbtRNAfCw==;QFBlRQ2ozLBOkMlUf+AmZQ=="
 ---
 

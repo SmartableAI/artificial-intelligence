@@ -29,30 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-21T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
+  - title: "As Per Study, Voice and Speech Recognition Market Size Poised to Surpass USD 31.49 billion by 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2020-09-23T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-  - title: "Global Healthcare Service Robots Market to Reach $2.82 Billion by 2025, Reports BIS Research"
-    excerpt: "According to a new market intelligence report by BIS Research titled Global Healthcare Service Robots Market Analysis and Forecast 2020 2025 the global healthcare service robots market is anticipated to witness a significant CAGR of 26 4 in the forecast"
-    publishedDateTime: 2020-09-21T10:38:00Z
-    webUrl: "https://www.openpr.com/news/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
+        isCached: true
+  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
+    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
+    publishedDateTime: 2020-09-23T13:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "kv8t4zkLPwzudc83VtWXGJrTkOVXF/s6eU2uOKcXe25L7o2GU8Cem5OAfDW3El9nPObFwUjWTkV3uyBrx1V/v61tYW6tEirxODtNjiPm3P92TrQE690boXOvx88rBgXuAJlp34vdNh9AWvuE95yF6GyWpJiUcDKRK7xfLr/gE2mHUHTtLN7quQmWzWaIaiVHkvhTuM5XRL8KRuWV98NEBvJSP4rZLvTX9T+9UvrEBOrFiEtJwy8zvyaLUd7OC4XR38sjtPbgpUwfOfahytHUGSUJ5aZCl07UQX+2jQVmVaUdsKhjtDakJ+wHB27JCIDxYMinzX23Y6W8vqE93QEEzeUJuoJn0Is/4bxa8RUpR6I=;oN7mhY61L3Ex7uTLtiXpfA=="
