@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-self-driving-car-bill-reintroduced-in-house-minus-biggest-backer.md",
+      "title": "Self-Driving Car Bill Reintroduced in House Minus Biggest Backer",
+      "excerpt": "Legislation that would allow carmakers to sell as many as 100,000 self-driving vehicles per year in the U.S. is being reintroduced in the U.S. House of Representatives, but one of its biggest cheerleaders is staying on the sidelines until next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-09-23/self-driving-car-bill-reintroduced-in-house-minus-biggest-backer",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-09-23/self-driving-car-bill-reintroduced-in-house-minus-biggest-backer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icqIX0ViDLpM/v0/360x-1.jpg",
+          "width": 360,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-09-23/self-driving-car-bill-reintroduced-in-house-minus-biggest-backer",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-23/self-driving-car-bill-reintroduced-in-house-minus-biggest-backer",
+      "publishedDateTime": "2020-09-23T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official.md",
+      "title": "Skyworth Q71 series 8K TV with MediaTek S900 chip, pop-up AI camera official",
+      "excerpt": "In terms of hardware, Skyworth Q71 TV is powered by MediaTek’s flagship 8K chip MediaTek S900 ... At the smart level, Q71 TV not only supports AI voice operation but also is equipped with a pop-up AI camera that supports 6-channel video calls and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
+      "originalUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/09/Skyworth-Q71-series-TV.png",
+          "width": 600,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet.md",
       "title": "How AI Could Feed The World’s Hungry While Sustaining The Planet",
       "excerpt": "Technological advancements tend to outpace cultural shifts. It has taken the shock of a global pandemic to accelerate the uptake of many technologies that have been around for at least a decade.",
@@ -111,7 +213,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -364,7 +466,7 @@
       "originalUrl": "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -456,7 +558,7 @@
       "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -810,7 +912,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -962,7 +1064,7 @@
       "originalUrl": "https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1143,110 +1245,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care.md",
-      "title": "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care",
-      "excerpt": "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
-      "originalUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
-      "publishedDateTime": "2020-09-22T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications.md",
-      "title": "BrainFrame: Smart Vision AI Developers Kit Is Accelerating Computer Vision Applications",
-      "excerpt": "Imagine being able to embark on a real-time computer vision project in a few hours, with no code to build a traffic control system, a warehouse monitoring system, or an in-store point of sale optimization system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a29457ce62549d45493de%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
-      "publishedDateTime": "2020-09-22T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
+        isCached: true
   - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
     excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
     publishedDateTime: 2020-09-21T10:31:00Z

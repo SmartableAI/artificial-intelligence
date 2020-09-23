@@ -88,6 +88,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 85
+  - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
+    excerpt: "Microsoft MSFT announced major developments to its Teams ... It can also leverage other features of the platform including Azure Cognitive Services. The communication service is encrypted and adheres to HIPAA (Health Insurance Portability and ..."
+    publishedDateTime: 2020-09-23T16:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
     excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
     publishedDateTime: 2020-09-22T00:00:00Z

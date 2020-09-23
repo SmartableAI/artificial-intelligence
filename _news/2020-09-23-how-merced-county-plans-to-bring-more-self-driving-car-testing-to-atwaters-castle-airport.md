@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Hawaii gives self-driving car testing the green light"
+    excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
+    publishedDateTime: 2020-09-23T16:26:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
     publishedDateTime: 2020-09-21T14:21:00Z
@@ -137,6 +148,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "inrkahV5xcH+tSF8XhmaI5dPgIHzz1LLPBZ3+BLQr5Gw9o7Txqruy4V3lZZogKAj0Alxr54GSHoZpSjNCTRBKfbS5Ky7b+6HbSKjF4IJdjsAswm0NO+WaE05uqiqFfjdPH38jw/wCaLabg6cKi9WKyoTZEyGxyPfhw41vbJ7Bi+LS16By5UUpj0ehX4tZRHly1n5X45/alY5XdxfUyRN2up/dSk0vYO9X/40c+g82FVc9grKewQeU4NSCQeqvoPaittCx4wLdKRVPNP69PSfS9PHLzqnY0vhCsQ/aGhpK3SEbXscshcM8kL9cUEUHiMe6D4K6Rl/wwSSntsm5RfGwCRhYOxoFhuRIemifcPLoio=;lgnAEaL8LM7YDMvZ3hQ+dA=="
+secured: "LdLl9RQgwuh645Jg2mF6MjKi6zBp8ocn3zAZjeGCbNTiDyUSCs0XIijr7g6QY1SRLeO4pMm8LXkik5mEQ7S4wWYW9c6XRvdHFtVI4ZN4i9isW9mnuuQSlQol8rAtHfU8LumLe7wrtG9nNIejypu3k8nFcp3YMeOiT0icsXDesE+Ntj8v+XCfsfMO9ajei/9ndJ9K2lL+Nqe73rxwhHNPICA/Y7yjfWaiOCC1Ka3/KbmChcOi9SiJUPKJMwE2WThf/5B0OgXi9dsNlpOZMLke34kHcv5WplwegKrsCMncIPAPHKZdCQthHokPFK4AKf8J7wkzMd1QnTuY8F2mjdw0G4/wH9cGXKuCQHGZXpN2zS6OBUu5I6OWqjnph/pSXrcW9QOWQg9oaraDjQgc2wEhn3lhKvZWOJ/wGGUiG7L8U/c81JJ0TygM9GoLrL87vjlc4HMGCfUa73ICgGDdESqFW2eyoy/8gGpOsjHOkr15oVtFybmMsh2WJncnJfaFdO23LU42togqHoVpxofrUglrEg==;TVBMavdvn1mlQ6+QU6M0iw=="
 ---
 

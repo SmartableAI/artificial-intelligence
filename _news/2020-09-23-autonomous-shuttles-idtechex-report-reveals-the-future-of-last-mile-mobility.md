@@ -2,22 +2,28 @@
 category: news
 title: "Autonomous Shuttles: IDTechEx Report Reveals the Future of Last-mile Mobility"
 excerpt: "23, 2020 /PRNewswire/ -- The autonomous mobility industry is tackling part of the last-mile problem that many commuters encounter when using public transportation by replacing large, diesel buses with a fleet of electric, self-driving shuttle buses that ..."
-publishedDateTime: 2020-09-23T15:51:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50779615-autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-008.htm"
+publishedDateTime: 2020-09-23T16:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-819532388.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/autonomous-shuttles-idtechex-report-reveals-the-future-of-last-mile-mobility-819532388.html"
 type: article
-quality: 1
-heat: 1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ebY632VRK8FyAEEfo7MFtNFPAvqTU1ICuFpXIF3JZG5avWxw5UCQInTsKEbP4Ew8lfgLHeJzN1yNcAE9TlzwyiMzlB7EMcpXqzbkxj+I/66aVP5O2vCqtY28aCXw9Co1rLIw3kxTyW/XfAP2HDwfkPTKoWQ6WDbCfxHKV1p5uEuthtrYbRabPUANxfdqMvk8wVZFOvFWUhuvEKOof4Puyq8MisuK53yIo0w6anVjFFfbdMPgVO4KssY+x/YAMId55TN+6B2HPeI6rDti5BbtCnNnEKpfe7R337weJIk5UAtLNUEtKqhAIH2a4p8QwlJKbb7IhRSRv8vjNq2hj80ee+LXezAuZTKWnjXIqzekhivTQwRzUuLXg7e+iownSWxaQyKJjSQfv1qsJP0JB7NHK0b1xcoqh0tPgK+AKWdC6qixtXVcZ86Jj0Rl6SZPy0yL6/WUDzUkRa65zPe04SzV8PgEq2n2g2vuqHijL3Ppa3JfglnCbT/zOccJ1SGn9e960yivT7hJ7656n1YBfBOtrw==;N0A2X0+5C4c+rg/xzl+M9g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1280132/IDTechEx_Autonomous_Shuttles.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "kNlO4OwXrtWunZNthGdovghYCEyP+Ix5sElOwMGHfH+tO6np89+yBR3WR2Vw5MC9OT6/EsuwSMuhn43Idm7d0VyXhANY/B3VNDgPkg8CImpEBDECT8JYaKmG6B1YrM6TTzpOJoKNJltEPqCysRrHbZV4L9Yy5RTPwxU7kGgM1ggM+vY7DYgyF94s4pYcG7RW6+g3Rbj4lxDpxAUuQIzZHNLKtqBszR/1++X7BOceYwOfb2NzZEle2iQFrjypvZWqyrdkqVELxkJ+t2KsB15f8EL//b/Gtn7xW3Sw4wYLYLTlbIM9U+eTz4n+pCQV+phO1BLyyHoFZfnTOQd7TQZrWREmSI+6jRQg4VVSc2zQF7M=;oF8Y2RaMpmgJcu4rf71lZA=="
 ---
 

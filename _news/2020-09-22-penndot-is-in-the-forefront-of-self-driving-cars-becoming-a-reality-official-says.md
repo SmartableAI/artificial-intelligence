@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
+    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
+    publishedDateTime: 2020-09-23T16:40:00Z
+    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Beijing to build pilot zone for self-driving vehicles"
     excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
     publishedDateTime: 2020-09-23T11:44:00Z

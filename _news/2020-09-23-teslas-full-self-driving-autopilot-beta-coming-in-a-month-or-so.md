@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopil
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
+    excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
+    publishedDateTime: 2020-09-23T16:40:00Z
+    webUrl: "https://knowtechie.com/tesla-says-it-will-have-a-full-self-driving-autopilot-beta-very-soon/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "PennDOT is in the forefront of self-driving cars becoming a reality, official says"
     excerpt: "While there is no set timetable yet for driverless cars to hit the roads, Pennsylvania is in the forefront of developing the technology for it to happen. “This was once just a dream of science fiction writers,"

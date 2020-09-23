@@ -107,6 +107,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "The Detail: How are the police using facial recognition technology?"
+    excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
+    publishedDateTime: 2020-09-23T17:10:00Z
+    webUrl: "https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 54
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Bill introduced in Council to ban facial recognition technology"
     excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
     publishedDateTime: 2020-09-22T01:27:00Z

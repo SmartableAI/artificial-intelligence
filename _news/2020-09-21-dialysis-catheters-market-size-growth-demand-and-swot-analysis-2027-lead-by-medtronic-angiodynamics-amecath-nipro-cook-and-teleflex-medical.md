@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Potential Growth, Share and Demand-Analysis of Key Players- Research Forecasts to 2025"
     excerpt: "The GlobalArtificial Intelligence Chipsets Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and company's financial data such as annual revenue, research and development expenses,"
     publishedDateTime: 2020-09-22T09:41:00Z

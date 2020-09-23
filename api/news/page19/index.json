@@ -2,6 +2,110 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-08-transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai.md",
+      "title": "Transforming Accounting With Artificial Intelligence: An Interview With Eli Fathi, CEO Mindbridge.ai",
+      "excerpt": "This blog discusses why the accounting profession is undergoing major changes as a result of AI technologies. An example of a World Economic Forum Winner in the Top 100 2020, Mindbridge.ai is profiled due to their leadership in enabling auditors to to improve forensic accounting practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/09/08/transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/09/08/transforming-accounting-with-artificial-intelligence-an-interview-with-eli-fathi-ceo-mindbridgeai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5798eff6b166bed4d10081%2F0x0.jpg",
+          "width": 1200,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.md",
+      "title": "Tech startup uses machine learning to help workers learn new skills",
+      "excerpt": "The coronavirus crisis has accelerated the need for workers to reskill. EmPath is a skills intelligence startup that uses artificial intelligence to offer companies insights into their workforce to ease upskilling and redeployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
+      "originalUrl": "https://www.cnbc.com/video/2020/09/08/tech-startup-uses-machine-learning-to-help-workers-learn-new-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106693674-image--46--png?v=1599568096",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-09-08-healthcare-natural-language-processing-market.md",
       "title": "Healthcare Natural Language Processing Market",
       "excerpt": "Healthcare Natural Language Processing Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. It offers an overview of the market ...",
@@ -1030,100 +1134,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-use-artificial-intelligence-machine-learning-for-efficient-relief-management.md",
-      "title": "Use artificial intelligence, machine learning for efficient relief management",
-      "excerpt": "Bangladesh located to the north-east of South Asia is one of the disaster-prone areas of the region as well the world due to its geographical characteristics, complex topographical features, excessive and mighty river system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "originalUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/natural-disasters.jpg?itok=avHIeykZ",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/use-artificial-intelligence-machine-learning-efficient-relief-management-1957645?amp",
-      "publishedDateTime": "2020-09-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025.md",
-      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2020 Research Analysis on Competitive landscape and Key Vendors, Forecast by 2025",
-      "excerpt": "MarketsandResearch.biz has published a new report titled, Global Edge Artificial Intelligence (AI) Chip Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2020-research-analysis-on-competitive-landscape-and-key-vendors-forecast-by-2025-2020-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-07T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

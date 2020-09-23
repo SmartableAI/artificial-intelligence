@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/whats-new-chinese-robotics-industry
 webUrl: "https://www.linkedin.com/pulse/whats-new-chinese-robotics-industry-georg-stieler/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1447
     height: 600
     isCached: true
-
-related:
-  - title: "Miso Robotics: How AI Can Transform An Industry"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as"
-    publishedDateTime: 2020-09-19T00:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
 
 secured: "i/tI91OWyfo/OLebgSul8d+XaeosmzZdHaVRVhWcU7I4ghmd+6VsmyNOsUrAEf1J4B6h9kC4GqTdssi2tZk93UqF7M2ZoqpR62mvlqS27xvqIDMXaKPbl1mm2jKqAaxqYnGsRbSLQ+jt6MiPE7khyaCvfN2c/Vxq8s+4rn4YPBv2d0IyfchkcPTQv/qQnQH/5XYMbQnStiuCyqFfNejvUxI8ITRgSd//nSd9jH57byBOCGDP95LrmhuvuAmVgIhU34mORQjyjWF7eCHdwMdsahesLfjnNj/WLoJVbuf5zZ8dnKtG4nXP5cp/jc/kMNvMwM4aR+uUJ5EnE9D6GpGulnO4AgQ9P9IFMdz5NJ+Xr3WBTS5QiEFhNnIguDeYx7cU4ZP+FLw0kcsV5yhk6HTQJOaWd+lz47BbnA06qeL1x8KMlaPjddyfe6LSm/FaGYMofbDHEmnj3P9mWBbVEoXRo86kHLmExls6HFv4pR59CxLnVoogDGh9raWgjBevzvLiRqDSa7YysiozmLrXK7K+Ww==;vCB3g3LHyi8HX9Vst2Aihg=="
 ---

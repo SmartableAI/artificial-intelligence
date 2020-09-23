@@ -2,6 +2,108 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-03-ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic.md",
+      "title": "AI In Computer Vision Market: Dynamics, Segments, Size, and Demand Analysis during 2021-2024 | Impact of COVID-19 Pandemic",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-dynamics-segments-size-and-demand-analysis-during-2021-2024-impact-of-covid-19-pandemic-2020-09-03?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-storelift-launches-autonomous-convenience-stores-using-ai-and-computer-vision.md",
+      "title": "Storelift launches autonomous convenience stores using AI and computer vision",
+      "excerpt": "But a French startup called Storelift believes it can create a new convenience store concept that leans on many of the same AI and computer vision tools used in Amazon Go stores to reinvent the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/exterior-e1599074003834.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/storelift-launches-autonomous-convenience-stores-using-ai-computer-vision/amp/",
+      "publishedDateTime": "2020-09-02T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-biofourmis-raises-100-million-for-ai-remote-medical-tools.md",
       "title": "Biofourmis raises $100 million for AI remote medical tools",
       "excerpt": "Biofourmis, a company developing platforms for AI remote patient monitoring and triage, has raised $100 million in venture capital.",
@@ -715,6 +817,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-03-anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated.md",
+      "title": "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated",
+      "excerpt": "AnyVision is the world’s leading developer of face, body and object recognition platforms. Our solutions are built to function on any sensor, with any resolution and are proven to operate in real-time and real-world scenarios. We bring together the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic",
+      "originalUrl": "https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200902005892/en/818051/23/Cameras+PR3x.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-nfl-reveals-new-expected-rush-yards-stat-with-help-from-amazon-web-services.md",
       "title": "NFL reveals new ‘Expected Rush Yards’ stat, with help from Amazon Web Services",
       "excerpt": "Football fans wondering whether the next handoff to a running back could be another Beast Quake have another stat to track thanks to Next Gen Stats, the platform powered by Amazon Web Services.",
@@ -815,48 +959,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated.md",
-      "title": "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated",
-      "excerpt": "AnyVision is the world's leading developer of face, body and object recognition platforms. Our solutions are built to function on any sensor, with any resolution and are proven to operate in real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200902005892/en/818051/4/Cameras+PR3x.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17357774",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17357774",
-      "publishedDateTime": "2020-09-02T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1052,108 +1154,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters.md",
-      "title": "Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters",
-      "excerpt": "Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "originalUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/dogpose.jpg?w=1024",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/deep-science-dog-detectors-mars-mappers-and-ai-scrambling-sweaters/amp/",
-      "publishedDateTime": "2020-09-02T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants.md",
-      "title": "Trump plans to collect DNA, eye scans, and voice prints from immigrants",
-      "excerpt": "The Trump administration's plans to expand the collection of biometric data from immigrants would let the government \"surveil and target our communities.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/30020836983_181ebce05e_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/02/trump-plans-to-collect-dna-eye-scans-and-voice-prints-from-immigrants/amp/",
-      "publishedDateTime": "2020-09-02T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

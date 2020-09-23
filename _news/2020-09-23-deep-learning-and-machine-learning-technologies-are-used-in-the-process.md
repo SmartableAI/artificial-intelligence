@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/visa-kicks-off-ai-feature-approve
 webUrl: "https://www.analyticsinsight.net/visa-kicks-off-ai-feature-approves-declines-card-transactions/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "AI and Machine Learning Technologies Are On the Rise Globally, with Governments Launching Initiatives to Support Adoption: Report"
-    excerpt: "AI and machine learning technologies are on the rise globally, with governments launching initiatives to support adoption: report."
-    publishedDateTime: 2020-09-19T00:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166928-ai-and-machine-learning-technologies-are-on-the-rise-globally-with-governments-launching-initiatives-to-support-adoption-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "sbqqgw9yJb6WYOdbT6zy/Cez1jVCDyuueEeRYeCNhSXtsf13M2ykWck+snZR1ep/tSAJePbkQx6XsOK+2aqkrbW//Q2hjnB4+wQmZqGj9njxIjPjNPcCv+CIsTCBaBf4NdXJI+Ou2fn/9tnAMzV3rrO+EQJLPmhX1KmJMAwMbRHC4gwEP3hQyd+f+rDf7Fl+2FXOgt/rPk2hO4eMhWKHWhF8gtulul8tAeQgWGPhs3iqj+5rcFKHXA7Sry9yJdnjjcgIZGVZeocB4GFF22ZvtdBfJMugiFymttYbSchZrQZRzNoNBEXJUMBamtlZDfa7uCgscpxh8ppGRM5H9EUyxa77sV1/4fUMPfsrc2j1IJdeuulWW3EDQmXyLm4lSrNL+vk/Nw87+8om0YDf1SAFz22ivP8EXGrFeNDz+OhnDCvd1tMv8IbOLabuYjJ5PlCENRRRUcvRdcpszipE9qshAAazGwIBzBjNkLzFren+fqy3K92p5bvZOzDXUoFr4WDuao8L4WYKrifbimmwdgX8Gw==;dGY3cipg8VfSg6VY5TGlOw=="
 ---

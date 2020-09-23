@@ -2,6 +2,107 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-08-17-ibm-unveils-its-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing.md",
+      "title": "IBM unveils its first seven-nanometre chip for next-generation hybrid cloud computing",
+      "excerpt": "IBM has announced the tenth generation of its flagship Power processors, a smaller, faster, more energy-efficient seven-nanometre chip that businesses can expect to deploy inside their data centres in the second half of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/b91425a7-67c3-4dd8-b476-c8d464ac9dfd/power-10-08-wafer.jpg",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/",
+      "publishedDateTime": "2020-08-17T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-how-to-legally-fight-covid-19-with-ai.md",
+      "title": "How to legally fight COVID-19 with AI",
+      "excerpt": "Tonya Hall sits down with Hon. Katherine B. Forrest (Fmr.), partner at Cravath, Swaine & Moore, to learn more about how individuals can protect their 1st, 4th, and 5th Amendment rights while combating COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-to-legally-fight-covid-19-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/17/d0bd4851-0a17-4f91-8a0b-3d47eb3fce52/thumbnail/770x578/24f0a812be4fd3816e11968da6bffa3d/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-colgates-latest-ai-powered-smart-toothbrush-starts-at-50.md",
       "title": "Colgate's latest AI-powered smart toothbrush starts at $50",
       "excerpt": "Smart toothbrushes have been around for a few years now, but they haven’t quite caught on. Colgate, however, has come up with a potential alternative. The rechargeable model is $69.99, while the one with replaceable batteries is only $49.",
@@ -989,98 +1090,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid.md",
-      "title": "Jemena unlocks smart meter data to support Victorian customers during COVID",
-      "excerpt": "Leading energy company, Jemena, has collaborated with professional services firm, Deloitte, to build a new cloud-based application on Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
-      "originalUrl": "https://www.miragenews.com/jemena-unlocks-smart-meter-data-to-support-victorian-customers-during-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
-          "width": 1416,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-16T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-16-white-house-budget-proposal-would-hike-ai-and-quantum-funding-by-30-percent.md",
-      "title": "White House budget proposal would hike AI and quantum funding by 30 percent",
-      "excerpt": "If the US is going to build a quantum internet and otherwise claim technical supremacy, it’s going to need appropriate funding — and that might be forthcoming. As the Wall Street Journal reports, The White House has proposed a 2021 non-defense budget that includes a roughly 30 percent increase in spending on AI and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fe1e27aa0-dfcc-11ea-b796-3e1a415df965&client=amp-blogside-v2&signature=039e59703be159e8e2b5a026aef822c741e6d456",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/white-house-2021-budget-ai-quantum-funding-164719748.html",
-      "publishedDateTime": "2020-08-16T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

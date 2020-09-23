@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
+    excerpt: "Volkswagen (OTC:VLKA.Y) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
+    publishedDateTime: 2020-09-23T16:20:00Z
+    webUrl: "https://www.fool.com/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/23/volkswagen-unit-forms-partnership-for-self-driving/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592672%2Fself-drivingtruck.jpg&w=1200&op=resize"
+        width: 1200
+        height: 690
+        isCached: true
   - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
     excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
     publishedDateTime: 2020-09-23T07:27:00Z

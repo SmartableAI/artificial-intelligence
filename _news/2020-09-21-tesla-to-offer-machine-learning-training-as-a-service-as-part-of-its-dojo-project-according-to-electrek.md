@@ -43,7 +43,7 @@ related:
     provider:
       name: Information Age
       domain: information-age.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg"
         width: 1012

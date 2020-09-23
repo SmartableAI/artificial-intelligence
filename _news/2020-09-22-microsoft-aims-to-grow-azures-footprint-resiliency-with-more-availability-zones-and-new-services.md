@@ -73,6 +73,17 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
+    excerpt: "Microsoft MSFT announced major developments to its Teams ... It can also leverage other features of the platform including Azure Cognitive Services. The communication service is encrypted and adheres to HIPAA (Health Insurance Portability and ..."
+    publishedDateTime: 2020-09-23T16:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Deploying support chatbot using azure microservices architecture"
     excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
     publishedDateTime: 2020-09-22T01:03:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-23T15:39:00Z
 originalUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
 webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg"
@@ -51,6 +52,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "/96yqHn/BMscCcFf7y6Ea2/zGW/ILKs/Kvy8IsHvKd9ZaoVNS5j1iwCi8m7G7CVwRck0N1LOMgsO7n8kkG5kU1zPgIRFx6s2got1f7/QWJ4Rp5HwXKYRl/kds9TDHkqAjbR4dq5UbskxSXFqQMRpn++V5ZijncCIZqzQEzHqvH04Hpu66PsUnbz0QjPr3IabNZ56wqR8ZiCLOgLCFvCjpuFRWm2oxMldn65FrfgGiMdc/8QDYIb4TQaF4HgD6RCg/2f3Fx2oCU0Kr3Dk1l75pICFmOvy1nESXVBLhDKRkzPmsh9eFBE6lYNFhtXEnKwh1Mkvs8UZgFRM8csli2BXd8gYAeyrxgzVWvcdb8GJCig=;6daKjcftpGGL2+tgzWSQ5w=="
+secured: "vP0uFpl6Lb2utmW87R8Rf/JPsTz2Ykf4ueCRRkgrF9K2MvsX026igewFA4s3WGV6/v1EvdDZ5AQ7cnZsNB2dAorqjX6fQVyMFQLxzYkhYxGYNjx2ekdJHXRDXxjljcArKLeKbB0ZigkEJnoRBQpzVdYEK0+vL3or4v84Cr505XfzaKjdAqxbIuDyYdkfTCqL3xLM1mJb6AABXlioYxRyg7d6dby15xxts93jcbUFDAyrVxZ5LPjedNhJFZNvqrmZFol9TDG0OR9VR4h5ev9RhAi7Cr5lsUWK8XlDrnkqOzHr+1JXpDFh8kLZAMSEQFyrm+34k4sIPivhfT85QV8YbeGCXgNmyjUD6qn93GolJKac+dhhcJc3JtKAtWNty+KHJTgzpwiiTDi/IUWBPNDz7ld2V22OpbuF4avW6ViSs7QzZkoPov928Np/MLyEI9r2i9AA0eNsbsHXjSOt7u6X29uJsfvduKOWGn1AB5tY3HOOrbB2s0ZFX4SGlyBBwIzgwUsb7Kqk0GNnzZ9fryhraA==;aRSCNhUX281c5A2TpoAK5A=="
 ---
 

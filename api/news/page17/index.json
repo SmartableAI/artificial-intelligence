@@ -2,6 +2,107 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-09-facial-recognition-tech-designed-to-identify-african-faces-wins-engineering-award.md",
+      "title": "Facial recognition tech designed to identify African faces wins engineering award",
+      "excerpt": "Racial bias is a well-documented problem in facial recognition technology. But as Charlette N'Guessan shows, it doesn't have to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/WxKBvT_4_qpHIQ5vo0oh6izJhgQ=/1200x630/2020/09/09/152d4276-ed4f-403a-be66-aae1df569c9e/ap2019-charlette-jo-13a.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/",
+      "publishedDateTime": "2020-09-09T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though.md",
+      "title": "This AI crunched the numbers to make the perfect TikTok song — but is it though??",
+      "excerpt": "Musiio, a startup that uses AI to scan, tag, and categorize music, has deployed its tools to craft the perfect TikTok hit.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Screenshot-2020-09-09-at-12.13.58.png",
+          "width": 1398,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/amp/",
+      "publishedDateTime": "2020-09-09T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-jon-devries-named-qlarity-imaging-chief-executive-officer.md",
       "title": "Jon DeVries Named Qlarity Imaging Chief Executive Officer",
       "excerpt": "Life science innovator Paragon Biosciences announced the appointment of Jon T. DeVries as the new chief executive officer of its",
@@ -1044,89 +1145,6 @@
         "name": "The Independent",
         "domain": "independent.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-self-driving-buses-being-tested-across-japan-let-you-pay-with-your-face.md",
-      "title": "Self-driving buses being tested across Japan let you pay with your face",
-      "excerpt": "Being cautious is certainly wise, but we really seem to be dragging our collective heels when it comes to self-driving vehicles. Considering in Japan reports of cars barreling straight into storefronts seem to happen frequently, it’s hard to imagine ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
-      "originalUrl": "https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work.md",
-      "title": "3 Ways AI Will Continue To Accelerate The Transition To Remote Work",
-      "excerpt": "In response to the Covid-19 pandemic, businesses of all shapes and sizes have had to quickly adapt to remote work. Many experts predict that this year’s rapid transition to remote work constitutes a point of no return.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
-      "originalUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47310d25c1f0feb8c084b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/amp/",
-      "publishedDateTime": "2020-09-08T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

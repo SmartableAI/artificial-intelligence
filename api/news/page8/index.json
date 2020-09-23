@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-16-best-facial-recognition-home-security-cameras-of-2020.md",
+      "title": "Best facial recognition home security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-of-2020/",
+      "publishedDateTime": "2020-09-15T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores.md",
+      "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores",
+      "excerpt": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in danger.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/gtsai-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/amp/",
+      "publishedDateTime": "2020-09-15T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
       "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
       "excerpt": "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,",
@@ -1075,99 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-observeai-raises-54-million-in-series-b-funding-round-to-expand-contact-center-ai-solution.md",
-      "title": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution",
-      "excerpt": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/Observe.AI raises-%2454-million-in-series-B-funding-round-to-expand-contact-center-AI-solution-142844.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles.md",
-      "title": "Seegrid closes a $52 million round for self-driving industrial vehicles",
-      "excerpt": "Seegrid, a company that builds self-driving vehicles to carry materials in industrial environments, has raised a further $27 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/tow-tractor-on-black-bg_223e80ec.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/seegrid-closes-a-52-million-round-for-self-driving-industrial-vehicles/amp/",
-      "publishedDateTime": "2020-09-15T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

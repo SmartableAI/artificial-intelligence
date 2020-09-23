@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Hawaii gives self-driving car testing the green light"
+    excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
+    publishedDateTime: 2020-09-23T16:26:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "How Merced County plans to bring more self-driving car testing to Atwater’s Castle Airport"
     excerpt: "Maturing plans for self-driving vehicle testing at the former Castle Air Force Base in Atwater are putting Merced County on a global map for a niche — but lucrative — market, county officials say. Last week,"
     publishedDateTime: 2020-09-23T14:00:00Z
