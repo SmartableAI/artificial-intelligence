@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
+    excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
+    publishedDateTime: 2020-09-23T13:57:00Z
+    webUrl: "https://www.pr.com/press-release/817958"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "j6qITydqBkLx5fs31fFmIwpeSdlgP4rM/BaRUFFx2KuhqAP8mQABKaxU+XdYecswOgsHCUVilKOCNRq8VsGBxsPjTAEpiba8cMLQ9dGGSspPzDgAfwsuVHTjyeAbbgn3E96+Dk0fiEISPDiRFZjXJKFD7dum7Q9kdskOpRXmBPMceAemTdevNY77i2GQMydaeeO7lN5tGvh8Tpt2fvkiVf1KCiztkltZ9G4TF/OdxXF8a/Y6/ol6R9YQTV/JwuZShNMW1glxCoI2VbhNb+qKrdmnG4KL3TWQi1Ukp3jEMAw8f/rD7Y14EP8+PB/X+kGbR34b5dvhjlbqxwcvilEfBZO07lOeACnRXfHuZvJAp+e1HzMVTCMf07UFLhJKbzkOE/ZKhZ1xOvq6jSxF9BjrKKN94lgER7rBVQZSdYO/ZeGhEfxSBOcN5fYAtdy3XKsDhQAEVJp7drWkNBgfdrn+a7nsuCQHerZOCtN5gsosJ++39i4XHznQ3sLCitqG57RUQLhXhxkB8/QBXh3gWbBfBg==;0F29vFhbBjB3ZzmKFvmDsA=="
 ---

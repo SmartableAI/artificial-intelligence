@@ -43,22 +43,6 @@ related:
         width: 5152
         height: 3400
         isCached: true
-  - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
-    excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
-    publishedDateTime: 2020-09-18T20:13:00Z
-    webUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/"
-    ampWebUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 46
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/09/manny-becerra-vDloaizQO6I-unsplash-1.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "hoZLCKYuONa4FKmMqJFHrNiUFJkoU9uoPEO3qJdQ4ARMr19jpRIEHxoROVnl6pRRCJgjcDurg0iXJsVSw9bB6sLczdGxhAarDnyo23az+HsFnZjcz1fIUby4oslSAT5J2aMv7AG4LaOlbMMlrNMXMdEE0yxkRxmILpm0e7QgLvQbuTk3shgYikwk70KT+/JnvAcB4691ICtO7H7+AiH3c2dmMZ9yuFtmIbIqZNCvXEMvbycU84OnoPwj9You+sCB9Xa5JjNDl3JSVjS23jSeQe6OrjmfORFZkm/V4uaN006g4vSnaOtMd1oOoPhX5QhdZy9Ulq4qlKTZu2phqDREKDgCjbIPfVD2w02fy+ClO5RCEJkPgOtmS35VTPi+ixFaQKXs9lmHkyPeR0rFnzO3PHELRgp2idZsm88pLGC9xCnaiRlymfPME3Q/cjrSWEXtektyqOkcpvVhnsDN4klEsCur0f2UNmGueUThFPle+bBb/+2UmxUQ/t2LVqZxZ0Dmku79mC0APjs9K3WI7CqcLA==;aYn+waNjaRlJmywwN2Xm3Q=="
 ---

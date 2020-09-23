@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Summit gathering explores edge computing, AI for vision"
-    excerpt: "The field of computer vision has been changing at a rapid pace in 2020. It has been accelerated by both numerous advances in chip technology and a pressing market need for health and safety"
-    publishedDateTime: 2020-09-21T21:15:00Z
-    webUrl: "https://www.biometricupdate.com/202009/summit-gathering-explores-edge-computing-ai-for-vision"
+  - title: "Boost Your Animation To 60 FPS Using AI"
+    excerpt: "The uses of artificial intelligence and machine learning continue to expand, with one of the more recent implementations being video processing. A new method can “fill in” frames to"
+    publishedDateTime: 2020-09-20T20:16:00Z
+    webUrl: "https://hackaday.com/2020/09/20/boost-your-animation-to-60-fps-using-ai/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://hackaday.com/wp-content/uploads/2020/09/ai-animation-main.png"
+        width: 1422
+        height: 612
         isCached: true
 
 secured: "FGou9NGQWpG1DOCsHXbuBfmHR+m+wnjFWsubwY7mRlLYOxAnBGjGJ15fIK7z34/AaNWs91o56fE56KUUSEgCr0a+5GF66lnsC2a4XAE07oxnTJz1FYW5F0R6/VWCKYHs0QSc18zDos6VunX8OskSMdZ28036FKmaFcdC1UgCsTaWdHXf7mTpfjZZFVZYfrT+D74MsHfG1iiwco7j4DAiAtmHcGCnltYzKNt8dxwaZaKG/u56sJYvMVw7ct0SRgSX+Xog913KEpEgdN33PkyIq0R+0jyg0KZ/tEF5YJtahGYye/eUe6tVytn7DV+tbX0BTGcLVs+Eb89vC/MV4CpPVbekFJQNkg7tVv+GUwT9TyE=;QrFCd+I3woVsZ2xmuG9VxQ=="

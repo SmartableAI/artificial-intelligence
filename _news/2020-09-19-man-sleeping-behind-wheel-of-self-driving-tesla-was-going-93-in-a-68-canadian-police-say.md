@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
-    excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
-    publishedDateTime: 2020-09-18T20:13:00Z
-    webUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/"
-    ampWebUrl: "https://robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/canadian-police-arrest-sleeping-driver-tesla-autopilot-1234570071/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 46
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/09/manny-becerra-vDloaizQO6I-unsplash-1.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Man sleeping behind wheel of ‘self-driving’ Tesla was going 93 in a 68mph zone, Canadian police say"
     excerpt: "Police in Alberta stopped a 20-year-old man for sleeping behind the wheel of his Tesla while it was on autopilot and he was cruising along at 93 miles per hour."
     publishedDateTime: 2020-09-21T09:29:00Z

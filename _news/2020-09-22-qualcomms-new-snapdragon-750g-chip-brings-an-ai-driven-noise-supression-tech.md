@@ -52,14 +52,19 @@ related:
         height: 393
         isCached: true
   - title: "Qualcomm announces Snapdragon 750G chip with 5G connectivity"
-    excerpt: "New Delhi, Sep 23 (IANS) Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth ..."
-    publishedDateTime: 2020-09-23T07:33:00Z
-    webUrl: "https://www.sify.com/news/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-news-education-ujxglBgbjdage.html"
+    excerpt: "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth,"
+    publishedDateTime: 2020-09-23T13:50:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-2020-09-23.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "nLQ1gXtJ0CORBlLNQo2lmHqYgCSiraakNGM8B6RqlOr+4U8ipVh/pVAzjP71TD+xRmLgmXuZGw8HRwBKAAthDqUQjVe8dK2x/m2xgvRA7TCkSmP5M4SuFijUEUc6BO+VuZKGhU81ThfLmXoLMULoxd9bKl1sgvH6XJVZgZ+mUNJcuSlgdJJpgbHmzTWyg4sLRYe+IZlzKnbDThWU5TxxUDH2WW+SMzD2UC5Nvn5uVivaSJF/pnfxXPu2Ec2YLwxHAOIL/9VfJBzs8dPrb8W69qwRTR+/QJsx8EnBMTRNfHFid0ohMUuvsNCV94zMyNR7HdbM1oTUOox8aafoPpT6VHVwKOAcMy9qPzXdH2ID8toExJATS6uJ9cDYV5mBFZBPpZir8/r+d0ZX6O4IXuz+M0JVpN1LfY7mA0nQUAFyBh9L4rqWHOcNBQ+beu+9o2C5FHDxf/9rAtJym7joX+yK4jGAxXZK4VaUqn/FR4e/5QO2j00boZvR7xlmziRAcqdpKHXi4W4BrF0ECOXJt61vzg==;sDn9wlA95SPWJM4YqpMuDg=="
 ---

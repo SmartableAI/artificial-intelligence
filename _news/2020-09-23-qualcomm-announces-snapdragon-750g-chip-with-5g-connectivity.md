@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Qualcomm announces Snapdragon 750G chip with 5G connectivity"
-excerpt: "New Delhi, Sep 23 (IANS) Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth ..."
-publishedDateTime: 2020-09-23T07:33:00Z
-originalUrl: "https://www.sify.com/news/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-news-education-ujxglBgbjdage.html"
-webUrl: "https://www.sify.com/news/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-news-education-ujxglBgbjdage.html"
+excerpt: "Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth,"
+publishedDateTime: 2020-09-23T13:50:00Z
+originalUrl: "https://www.dailypioneer.com/2020/technology/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.html"
+webUrl: "https://www.dailypioneer.com/2020/technology/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-2020-09-23.jpg"
+    width: 1000
+    height: 800
+    isCached: true
 
 related:
   - title: "Qualcomm’s new Snapdragon 750G has 5G, faster speeds, and improved AI performance"
@@ -61,6 +67,6 @@ related:
       domain: pocketnow.com
     quality: 31
 
-secured: "Io0YrYdSz3Df5Jn/6mN/+AuU7OHNFhhybKVW2awWRYvngRQK6EB018lSWV5udo9PTb1fMeH4qY5wgaHOpJHSAh3TZOE69Hqm7kWJUHwZ6mB37SC/Nlfy3m+TqJWTPGdZs7bAD30vrDcx5JQAQC7CrBhnpplmm9NMQ+NXRqiyUUbxDkgp1OOvNIsHpl+97dxxEFJZinmcVUJUjAvjdkC/Obx6T1egy9eKAG3T5k5K67tfDlODZ6Fc87LDqNNi+rr+QOd9bfDULUANfsinxIXl5kumaAeo9zqc+juxD2gSzp8Jtrqosgada/6OGAFt0B87/b96uhcdsRUqaOECAE5YPV913XOM0UYqHjU7HYNbr2o=;984drG9751bZWj4V6rgg7A=="
+secured: "J5ZF6TpPs1CWQB0pc8SLKaHy4DsTXfV2Wz7/Vxeq2Vvg39ANLN3yoQexDML4u7gukJEv/q1ixAUVN2P8eyfjQt0vmFt+c707gSTXty7Dg8L+8Necf/N4pI2mJIsxfE2rO9EyWMlqSJjC8VcMh3A11x2u1UybZKpR5SpBdXRBcD/aj9Ix+VPSZ+P5x3e3AGJY8O9cCNYFF9QILYS1ba9NBVcG65TwvcvajZxhoh+QkQFocpCd5znvydI4UUT7o3tKO09p4fKp77RFib3yZW7cFfrTVPOmQs4pd8qLw33OaYJrP6PAUd+m7HBQnJOHqErSd+xBB/mXMwsm2/DmXYw3Ewdeoh9JDUfraqbkYV1Ut3k=;nfbpFFLmSwIrm0MboUV18g=="
 ---
 

@@ -51,6 +51,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
+    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
+    publishedDateTime: 2020-09-23T12:26:00Z
+    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
+    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 76
+    images:
+      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
+        width: 2500
+        height: 1627
+        isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
     publishedDateTime: 2020-09-20T22:39:00Z

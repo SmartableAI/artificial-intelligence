@@ -43,22 +43,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Facebook Faces New Lawsuit Over Alleged Covert Collection Of Facial Recognition Data"
-    excerpt: "For the third month in a row, Facebook faces a lawsuit over the collection of biometric data. Facebook blames the latest intrusion on a camera bug that has been fixed."
-    publishedDateTime: 2020-09-18T20:11:00Z
-    webUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246"
-    ampWebUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/01/01/smartphone-camera.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
     excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
     publishedDateTime: 2020-09-18T22:45:00Z

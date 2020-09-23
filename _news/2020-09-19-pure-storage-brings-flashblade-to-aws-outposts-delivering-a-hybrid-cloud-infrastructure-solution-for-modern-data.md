@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
+  - title: "Learning in the Cloud: Canada’s First University to Move Operations into One Secure Cloud Infrastructure Sets the Stage for the Future of Learning"
+    excerpt: "“Bringing all our data together in our own cloud environment will make artificial intelligence (AI) and machine learning at scale possible. It also makes IT systems’ downtime a ..."
+    publishedDateTime: 2020-09-23T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/learning-in-the-cloud-canada-s-first-university-to-move-operations-into-one-secure-cloud-infrastructure-sets-the-stage-for-the-future-of-learning-1029615400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 0
 
 secured: "QvOgRM/MK61QNuC0wUca5rnV3xZxSezx6+PxGJfKDFvM/P6Uxkboc9L15Xo7utFmlAQYpLmo8V4cIFNmdGBh50q3oH9KQuGmVbXoZt5+ANY9hNi5UNMTksaQpT7t8dbRYaifekkaSrla9juPUKej2QfMVkcpcGUIsWPypSKwyesvu9g/HMXSl2L+gGBU6WPODqojwmfoEdRP3yA5NzTlAEHUAQbCk+NOECgxtPAMQn+wR83Wb/OXUhjRzbm1baRH2Fd35b4DpuvnqeMM7NZl8axdRMA4OWSASb4z1s76ZtjHG0qcs+GwbAHkropsJv839d42rcKc2hU5Ctqk5q6t0+idekTCQdSH3e/GlwYPyb4=;Hwah5kE8DK1SML6vbMigYg=="
 ---

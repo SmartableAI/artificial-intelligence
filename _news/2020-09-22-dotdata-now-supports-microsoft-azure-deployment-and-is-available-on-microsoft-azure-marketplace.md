@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
-publishedDateTime: 2020-09-22T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
+publishedDateTime: 2020-09-22T12:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
@@ -51,6 +51,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "8eO/2WmJIBmxIGimVqsToIN4eEzpeE2+YlWeRG35Zfma7ehjzHZnqiifychBwy7qTJvyk9vth9TM7i49NoPyYctFdgTETC2kG6bO6tLK2t/NcaIdLiapshwi2n8zpegHp8flYv3nFSqvKuVUwL/aylBWoK8GU1I0vPZhhGE8z/2lK4bflFtYFKpVq86nidzFsfnabacR/4WzEMPnWcLxVUyq3KZD1FUxoCKo3SA0Ofm010zqOYna87vSBdLudNsoyHI1mALR1UJlc85ykqHKS768QD2pjWCUYu3SBafjFP6le5KF6CEFZQfLAPGyUNsKgRHgisOCsVUaL3hyIH/HYQXt+sHGRzXNQjgwfb9oZQk=;WOb8Hj6+Be35ePeAcF/qRQ=="
+secured: "Rkl+jePikBgt9TDyxkbHDVlhZxDv6VUQnExXKjW5UcfH5pYrd4ZUgROK4wZI/KslXvahR8JWWQzYeukROkVFnV/s5/BrOaeVYJX46KOmzWvby6aUvKs31qHWNDofvjGBs8J5l/DvMv6CWrK8LhYKSvN9H6oK1+umW3sCizyc1k6b2PcoYPcN/8+TNW+E+ityqxw7cOsI0FVb8xNm9fIl4X1m8k9S+sX9ubqtdtwcA9kuGxu3hzFw9dXDHhugqmBFM53oJ3PXvspCT5NoL+Q8e2Gjqrh94xpwSsSofkz2u6XCqx8PJDhsRzJGFlqBpN6mYPbhIYq2HcVbvm41GroRKz90z7iPmJxzTCYk5xHzLMI=;m7MjIRpN3a9C0NK0ZZDatQ=="
 ---
 

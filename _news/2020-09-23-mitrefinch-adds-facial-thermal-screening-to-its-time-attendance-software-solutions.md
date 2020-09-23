@@ -1,0 +1,55 @@
+---
+category: news
+title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
+excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
+publishedDateTime: 2020-09-23T13:57:00Z
+originalUrl: "https://www.pr.com/press-release/817958"
+webUrl: "https://www.pr.com/press-release/817958"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: PR
+  domain: pr.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions"
+    excerpt: "FaceStation 2 is the latest biometric clocking-in user interface to be incorporated into Bodet’s innovative Time and Attendance Systems. Working in conjunction with Bodet’s Kelio Visio X7 interactive clocking terminal,"
+    publishedDateTime: 2020-09-21T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
+    ampWebUrl: "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/9/T921401134_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "PagerDuty’s New Digital Ops Platform Release Delivers Advanced Machine Learning and Automation Capabilities to Facilitate Digital Acceleration for the World's Most Recognized ..."
+    excerpt: "The new release applies machine learning and automation to break down the complexity of managing digital operations by reducing interruptions and minimizing the time to resolve issues. PagerDuty’s latest platform release empowers teams in both large ..."
+    publishedDateTime: 2020-09-21T15:08:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200921005253/en/PagerDuty’s-New-Digital-Ops-Platform-Release-Delivers-Advanced-Machine-Learning-and-Automation-Capabilities-to-Facilitate-Digital-Acceleration-for-the-Worlds-Most-Recognized-Brands"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200921005253/en/774630/23/PagerDuty_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "jntQIvesEHEd5F9cYP63rUe8uvg+spn4njEKg6o8v5V+9PrqSm3pC1F2KlPq7zJSD1mqAhML7QQwZwTyAaPDaBXcJwH/JyXRCnowpeKXeEODzBf2nsmqGxiaNqyNRGjj294cQDfbgqb5KJw+N//y/oc8S9fmgyPIP0wSGD0wOYgFa2yi8a5Td9M8ZGorjCtK4u4kdOGJmqiHAa/afkpgORkPhXA96xbjq19Sx37HHZy6lL8O2fSHNsXaziSupGA/6RMatwnMuxPfpMKPfpVsHAFUC+YSMlZcKAKI9A4CGfpkFQU+iuL/c8Mn7gk9Nytgu+SjeiVIJljAt+W7ol3MtTaegTWALdt5B2580UtcZvA=;fE0zok81ogYTcPyt+b4uAA=="
+---
+

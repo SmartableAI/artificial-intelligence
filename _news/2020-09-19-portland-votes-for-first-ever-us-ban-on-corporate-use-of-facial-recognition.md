@@ -51,22 +51,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Facebook Faces New Lawsuit Over Alleged Covert Collection Of Facial Recognition Data"
-    excerpt: "For the third month in a row, Facebook faces a lawsuit over the collection of biometric data. Facebook blames the latest intrusion on a camera bug that has been fixed."
-    publishedDateTime: 2020-09-18T20:11:00Z
-    webUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246"
-    ampWebUrl: "https://www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-faces-new-lawsuit-over-alleged-covert-collection-facial-recognition-data-3048246?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/01/01/smartphone-camera.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "6tRkAri+E0Am/W06A7Ms3ZYX5Q2AGtx+zOUfLlINOECJNxYvz26f/oUly2A6jOzTsSj20YWNCqU10NZboaga5FLC7y8EhuSwLHpKGJDbUqf0Nf5cFPQpsdzx+tlUnEpxr7oZ9ntf7ikNtVSHcceSaXpmm44qiYDAZMf0+q1TQW5AmGS4IjzhmeUkJ2XIOBJbGz2m5c7/sOztbWRXAWWpZ9IwgLX3lWmfJUU1S0uQdnbZzXSRn1ZNLkAGcxYjqJT5dlE8Y35tkA/wdzyZntdRVVZQNYiTiSrQk3QTZTDeyoIIieL+y7sZxXW/7K8RhSna1yihnZJA+bvwsp8BtXgsNdVk16qfHvfLxsQ11RKAdvs=;LtHW+6/25ErMuW8hg1Sw4w=="
 ---

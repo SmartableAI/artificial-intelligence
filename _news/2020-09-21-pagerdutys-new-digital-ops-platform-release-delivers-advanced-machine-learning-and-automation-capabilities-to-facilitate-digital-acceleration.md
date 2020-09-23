@@ -41,6 +41,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
+    excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
+    publishedDateTime: 2020-09-23T13:57:00Z
+    webUrl: "https://www.pr.com/press-release/817958"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "hgYNRSN4jTt1qFt9haQlCzZAIYVws/rXI9mIb5ittwomymNvMg9R1GMfZKzMs0sZgjQoIXt0ceZNKWfFgY9FREHCe2IWTgraCQScHWuGSD4sjSk3N5MtgH0uk8x5OlWvx0LgaaXgyS4LYrRQyGMGLc7sjMEOamBrF7FXn4bA/tmLBTRoIJgxGR1NZf+1dE3s4MPQLtgOMCUfc8/qqBv6T6+CbAyW4MVklXFnmtFVyT88zreUeRUQaC8UDKOeP2DD8qOvDHVNCXlnU2N4PKB/rFsEowh8YqvRCy/+2z92Gx7wD4m/3erbspKrat1H5/VgsSvdi0OIPnRY2b6p7DuA7aUq1wvhNqc2mfKEenBz2UoxuYVNcB7BDDOqtViD4nLAqe87s0ILzJ17MpjyEGtrxTw26UG5ZSrxCeKqs67xMSg/S+iTRhH5LDSBuy0VOrmt2HIhqzUelKeEfeG/xmkhNTNzOukaQNAsLKvDlMuVsPD3+t2RoDFKnZ8eVbhGTBGMuUh84OzSvU86h+tl2MSG6Q==;k6m+LX76roUt/wA3kpvoWw=="
 ---
