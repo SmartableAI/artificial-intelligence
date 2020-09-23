@@ -25,8 +25,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/</loc>
-    <lastmod>2020-09-22T11:08:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner</loc>
+    <lastmod>2020-09-22T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -99,6 +99,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/</loc>
     <lastmod>2020-09-22T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/</loc>
+    <lastmod>2020-09-22T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1279,7 +1285,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
+    <loc>https://www.cmo.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/</loc>
     <lastmod>2020-09-14T07:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1483,7 +1489,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13</loc>
     <lastmod>2020-09-13T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2343,6 +2349,12 @@
   <url>
     <loc>https://www.forbes.com/sites/falonfatemi/2020/09/09/3-ways-ai-will-continue-to-accelerate-the-transition-to-remote-work/</loc>
     <lastmod>2020-09-08T21:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.datamation.com/artificial-intelligence/artificial-intelligence-perception-vs.-reality.html</loc>
+    <lastmod>2020-09-08T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

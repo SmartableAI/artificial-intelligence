@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Office Market Future Growth And Forecast From 2020-2022"
-    excerpt: "This technology is still in its infancy. Yet to be truly established, this technology as of now is more spoken of in"
-    publishedDateTime: 2020-09-18T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-future-growth-and-forecast-from-2020-2022-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
     excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
     publishedDateTime: 2020-09-22T18:42:00Z

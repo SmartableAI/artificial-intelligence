@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-09-22T08:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Basware Debuts AI Tool For Accounts Payable Automation"
     excerpt: "To automate the transformation of machine-readable PDFs to digital invoices, Basware has rolled out SmartPDF AI in the newest expansion of its SmartPDF offering. The tool uses information taken from past invoices through a cutting-edge machine learning (ML ..."
     publishedDateTime: 2020-09-22T21:31:00Z
@@ -60,16 +71,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-    excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
-    publishedDateTime: 2020-09-22T07:20:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
 
-secured: "vAPyRH1AkAuilEGPbPQy2D4FC0zEXTfTcz2lIcGtXD9XwSA/B/qj5a0w5CMfETSZLcgvPKgRpgHng+bJLy1QBdG2g1MkbfRNSIPMLz8TsI/YEvoWNBJ6+qe/1+6dsx0WX26PYQQrT9z32MA8LiHwNFP/XEnsZ4IvZPyXDoQBDJ9/qfmHXmgw/OLsaoiAN+UhEsLHIvQGGn+rmMgS71CqSIyqoEI+iXHqRCBZE853RSlvbeUjRbMKh80ps+sv/PQ8awJGRBIoGqhbjaMVdPprzoMew2U6ajqckGyc/88xKYKmeCnO08nxNC5ETKMQiU+z0sBbCLtvXvHAqWW40De0nGhbNDlJqdxHpM4XGLNIqY0=;R5XF81QkPtDasmzQg7ya/A=="
+secured: "c5FNINAftESP0xkWBngBW8ea8VQZ50Yqy2Zqin6W5/O4vFha7IpLCe7N7IRI4Yu94eOI2Cth/+xNnVweyQOL+v+h5bOgDvvs6/7wUI+0SpiuxYuLK0QQ6qQzZaY+gvG21X4JV8jorO//4kWlpGNH/NRnhb4Z49dCQnnu8xG2UYNjf6A2qvjbxN1Tz6H/jnAHTefbySN8IqrEFEVOtPhGUxKnxise4vnavG8Zgd/LwKaw8zD5ud4QfSz8OknS1FXo4WvsrVmegdyKrZUpV6WZXMr2rwLMVz8WdGK2KsBDXaSZUIozakOZpd3EcYlxKbPKQcGZ6j0/WFQXC9TYQywsCbV7TwhtPs3s4Sms55YqGqZuabCpM0D+0E1+3/VR1onmUnF6z1YaymCkhslmmGsuaFnD75vmtRdMNhkTTGMNge0/ft+adLuar4wCizYgnBCfLEO9BrAcL7tXKgil+g4V+mLdCuQpIrMmYRUfcNhyAsj9McQfzkPYwGBeB4Lf39qD5ShHxKzwTas0Uaf1qoxxTQ==;+wNlqB1l5SOtHnKQTuQZug=="
 ---
 

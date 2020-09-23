@@ -42,6 +42,17 @@ related:
         width: 300
         height: 222
         isCached: true
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-09-22T08:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
     excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
     publishedDateTime: 2020-09-22T14:00:00Z
@@ -56,15 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-    excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
-    publishedDateTime: 2020-09-22T07:20:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "1xtdrkmhEOuCoTP9Bqzktz3lJwZJjAJQDRisywVXaWu05LgGPoXcS3oOKza1pK8580eV9fB3Oz7sdFEdNVijaM9an87oF5LXeqQP7KFk4sfkTNv/G8I50oGuzjQObjExs0ZIznR7OLqwN0kCvbIZs1sW81g3BVbeJcwqMhb1ryLvF/azUNAH/nQRn1Q7OS1dJKWW8Knmw3iCzIbt3wK+yYWhxe3cOr3tC116o/qGh/qJu932+0/Wce9GabB55V6oJtIKqA9eNDWTVvbhsH/6C9RkCUt52wAptyI1U4jkYfY5OE38mqOVac48WvVqKfAz0O9qBvBhtjBeAQVm6PpBs/fNlUn/PJwLE6oeSfPKTsY=;mgK8/fZYrcu6lNd8gYl7oQ=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
+    excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
+    publishedDateTime: 2020-09-22T00:00:00Z
+    webUrl: "https://www.datanami.com/2020/09/22/microsoft-launches-spatial-analytics-other-ai-services-at-ignite/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MS-Spatial.png"
+        width: 650
+        height: 378
+        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z

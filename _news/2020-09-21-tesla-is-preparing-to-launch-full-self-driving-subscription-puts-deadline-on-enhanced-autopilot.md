@@ -47,6 +47,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
+    excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
+    publishedDateTime: 2020-09-23T01:44:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498264001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498264001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "BRIcjn+1Vdf37rT+uYGETBBM9tW05OvSI95fmrs76SxPV+PrXfNhN29aSn43R59A6pMEU87KYmW/iVYfBKA6tXeMf3dqEvxLUIvWHQwhvm85kUyicMtEjzaO2/8ugbYHLK4nozw8NPYb+3BmOhjQmalhQvsEPJRUEO56Mc+feNpMFJVXjF/NGDj9Z7hOv/64SidglFDCriN8PYIE1/xWF4QalhD/xttH+dQ0xxXr/koQ2UyxETXScuyMjHDnZoRkP6g4DSa6iT3mF+ujM8DPN2Kj0Xdv7oD5EJriU2oEAVokZHoS0W0DHorCsDeVCOIaEHgJOyuf8UXSW1BVNh/shWDbKa2CxGeWU/wmAR1EjEOSO6AQxypICIGaf8kJQep2C4DLHX9vQllJ8CSYMXCzaonMnrde9pPbGBaujJwPuIlyYalWwDsm7hS/TvY05RPwUwdvYAd8wZCLxyFnn9BQpyynxtwOUhkKnimSp2nw0+s7C7ahZWxfvY6x7eLOTR6uaAHS/WSJAZ77ytOsWlEHgQ==;udRqsQUDesHAZr10BlT7iw=="
 ---

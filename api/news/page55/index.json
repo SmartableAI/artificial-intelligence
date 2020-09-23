@@ -2,6 +2,108 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-08-11-hyundai-aptiv-name-self-driving-joint-venture-motional.md",
+      "title": "Hyundai, Aptiv name self-driving joint venture Motional",
+      "excerpt": "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ",
+          "width": 849,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2571O6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6",
+      "publishedDateTime": "2020-08-11T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-natural-language-processing-the-future-of-the-enterprise.md",
+      "title": "Natural Language Processing: the future of the enterprise",
+      "excerpt": "At the heart of many of these applications? Natural Language Processing (NLP). Here we introduce NLP, some of its most popular applications today and how it can play a transformational role in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356671/natural-language-processing-the-future-of-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1596638046/natural_language_processing_shutterstock_merit_sponsored.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-hacksterio-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker.md",
       "title": "Hackster.io, Smart Parks, and Key Industry Partners to Build World’s Most Advanced Elephant Tracker",
       "excerpt": "In response to a growing crisis facing Africa’s diminishing elephant population, two technology leaders are coming together with leading technology and",
@@ -1095,99 +1197,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
-      "title": "Facial recognition use by South Wales Police 'unlawful'",
-      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
-      "publishedDateTime": "2020-08-11T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-why-covid-19-will-boost-the-use-of-robotics-in-the-wild.md",
-      "title": "Why Covid-19 will boost the use of robotics in the wild",
-      "excerpt": "What must businesses consider before deploying robotics to ensure the technology is used responsibly and the challenges they’ll need to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Que362nGceZon38bd28Ad6-1200-80.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "publishedDateTime": "2020-08-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
 type: article
 quality: 65
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Manufacturing Market 2020 Scope, Market Classification, Research Objectives Forecasts 2024"
-    excerpt: "The report outlines the competitive framework of the “Machine Learning in Manufacturing Market” industry describing"
-    publishedDateTime: 2020-09-18T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2020-scope-market-classification-research-objectives-forecasts-2024-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
     excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
     publishedDateTime: 2020-09-21T05:57:00Z
@@ -54,20 +40,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
-  - title: "Machine Learning in Communication Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
-    excerpt: "The “Machine Learning in Communication Market” report entitled “Global Machine Learning in Communication Market"
-    publishedDateTime: 2020-09-18T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
     excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
     publishedDateTime: 2020-09-22T06:55:00Z

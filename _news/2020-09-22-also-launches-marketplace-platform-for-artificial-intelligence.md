@@ -1,18 +1,24 @@
 ---
 category: news
 title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
-publishedDateTime: 2020-09-22T07:20:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
-webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+publishedDateTime: 2020-09-22T08:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -65,6 +71,6 @@ related:
         height: 450
         isCached: true
 
-secured: "cXHqO6DXuWs1OXuIFkelggyABr93brkID63G8qlN98ld3oTVn+/r807I8pF/KPHB6lBxggEHgfA2w8SqJ1Ncv3jfUbDHb9BHiAbipVuS7eOKEjVLwl7e8Q6+ydBG8r4SUld8ceS8Kwm2yECr2jmQiZ9hQH7gERyTs5AHxHklBEQmX9dxOYcONdXl+GyLb/cUG99ytWKCiV1N8Up49rqAJz43jS/4oAmvjU9Z/60oK6wZHh/KSdpZAGh61KpgdWXytW8BQmaw04YNMSa09hM3WgOHVvMJldZPBJpsK5KJY8XBjKFZEtnm8q119JorYOXicpqsBEZRF1HiTDonsANfnsnhU6D+JnwUlI5bkGxkZa0=;1H3RINvW5Ps0QvzEmCQdsg=="
+secured: "bVTwmOzGcjVt5p0ub8VztmO6gknDuPHy2oTRFEYDERXnpYoHlofAOa6NbRivFxqS/jPmekrS50VVqkxksq/eL2kcpSm57NASUWUh/1sYvis23HHUQvp8EsFsfbKAHdQkdoYvx4VXuBGUDQi/t5g+W+WVHFEkvLLvOWwIWw7ezUuWJGGnqFBuFh9CPkMPo5M+7sGTwYjkCVSoOrGzgtQnhzdTFjXuj/Vym7AD09NncDE051ywI7doyygPhJyclaY+4AaUK/bGg5SiOIiypwlfKckb5PsxJh3KGpFjugnGiYL5j33dhewJ8o36KK9/kkmCNq6MZo/512PNHhpneMYcVFaLteJi28nVqkTD7n0HRNE=;xDtAZdk/4Twhqs19GP6Brg=="
 ---
 

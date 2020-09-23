@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-sa
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
-    excerpt: "“Once data is delivered to the end point in customers’ virtual network, customers can then use other Azure services like AI or ML, or even Azure Cognitive Services for that matter, to ..."
-    publishedDateTime: 2020-09-22T19:04:00Z
-    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+  - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud"
+    publishedDateTime: 2020-09-22T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17611271"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
-        width: 750
-        height: 500
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
         isCached: true
 
 secured: "icq4UpyZ/q15BxeY1lFx0rbrflWlNMTdIt6JST4UeluXpG6tmAcI/U/QdiaC2vV3FEtj8V+frHqf2UeIcSvx2z8iFFBvY0xagejoSj3SHoCLaUvRl5XBviT/cBVLvGyKHANtE3CghPWyKuMijgcWg6MzWupjeRjE35ryt4Xd4nmv3OHm74bgG8PYwoUapFMd1fT09VSx5F0QLz0DBQ7dcf6ATfftUeh/0wUDD+xzqyDsKBgqK+2y9IEU+1knKGr3wrn5qaIytgJfZMehuYefEoiYvHdIGHBRnYzvIO56kXuU871HeOwUQ3p6XnoMtvJDq/JBMoQeocSVDog65Yu2P5I9ShKcA+6oKM1fzokUENQxLYzUrCpP0qrR9+HPGwiMczwaUmyZTJty0TwgnH+wk9O04RvkrJ/3La8sjK48yTWhOEnbftjbDsaZ4lwxSAYr/9g9QZ8teJrwwFb2/oIRa5Kj61vBoTICZrXbHWcr10rkA3z4damf0q1A66IisNElhmkcBMrRRUKHxbbMMUjjag==;wD/xITftfXyFaY1rSJB1yg=="

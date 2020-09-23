@@ -2,6 +2,39 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidia-arm-deal-revs-up-chip-industry-4-stocks-in-focus.md",
+      "title": "NVIDIA-Arm Deal Revs Up Chip Industry: 4 Stocks in Focus",
+      "excerpt": "NVIDIA is now well poised to upscale its inference technology, robust drivers, and accelerators by utilizing Arm’s robust architecture and chip designs. Arm acquisition is expected to aid NVIDIA in offering end-to-end ecosystem of technology across the data center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-arm-deal-revs-up-chip-industry%3A-4-stocks-in-focus-2020-09-15?amp",
+      "publishedDateTime": "2020-09-15T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-observeai-raises-54-million-in-series-b-funding-round-to-expand-contact-center-ai-solution.md",
       "title": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution",
       "excerpt": "Observe.AI raises $54 million in series B funding round to expand contact center AI solution. Observe.AI, a provider of contact center AI, has announced a $54 million series B fin",
@@ -1110,48 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-zenrobotics-helps-to-start-automated-mrf-in-finland.md",
-      "title": "ZenRobotics helps to start automated MRF in Finland",
-      "excerpt": "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
-      "originalUrl": "https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.cdrecycler.com/fileuploads/image/2020/09/14/Remeo-Oy-tulevaisuuden-kierrtyslaitos-havainnekuva-123.gif?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&D Recycling",
-        "domain": "cdrecycler.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

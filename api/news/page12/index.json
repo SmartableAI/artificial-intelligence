@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-11-why-is-baidu-investing-in-an-ai-powered-biotech-start-up.md",
+      "title": "Why Is Baidu Investing in an AI-Powered Biotech Start-Up?",
+      "excerpt": "Chinese tech giant Baidu (NASDAQ:BIDU) is in talks with interested parties to invest up to $2 billion in a biotech start-up over the next three years, according to Reuters. The company has been incubating the idea over the past six months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591230%2Fgettyimages-1185375168.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/why-baidu-investing-ai-powered-biotech-startup/",
+      "publishedDateTime": "2020-09-11T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-coronavirus-led-to-worlds-first-infodemic-but-ai-could-be-answer.md",
       "title": "Coronavirus led to world's first 'infodemic,' but AI could be answer",
       "excerpt": "Two American AI experts have blamed the coronavirus pandemic for an intense flurry of published results of scientific studies.",
@@ -1097,48 +1147,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-artificial-intelligence-ai-in-fintech-market.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market",
-      "excerpt": "A new business intelligence report released by HTF MI with title COVID 19 Outbreak Global Artificial Intelligence AI in Fintech Industry Market Report Development Trends Threats Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
-      "originalUrl": "https://www.openpr.com/news/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T910255581_g.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2132119/artificial-intelligence-ai-in-fintech-market-may-set-new",
-      "publishedDateTime": "2020-09-10T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

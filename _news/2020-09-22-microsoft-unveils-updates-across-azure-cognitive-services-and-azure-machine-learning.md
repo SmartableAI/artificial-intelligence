@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
         width: 980
         height: 597
+        isCached: true
+  - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
+    excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
+    publishedDateTime: 2020-09-22T00:00:00Z
+    webUrl: "https://www.datanami.com/2020/09/22/microsoft-launches-spatial-analytics-other-ai-services-at-ignite/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MS-Spatial.png"
+        width: 650
+        height: 378
         isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."

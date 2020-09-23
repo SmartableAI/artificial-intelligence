@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The LAPD has used facial recognition software 30,000 times since 2009"
+    excerpt: "The acknowledgement comes after years of contradictory answers on the matter. For years, the Los Angeles Police Department (LAPD) hasn't given a clear answer on whether it uses facial recognition in its policing work. That changed this week. On Monday, the ..."
+    publishedDateTime: 2020-09-21T20:31:00Z
+    webUrl: "https://www.engadget.com/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    ampWebUrl: "https://www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2322dd70-fc42-11ea-a05e-4ab6d4811cc6&client=amp-blogside-v2&signature=08e70ef526aeaaf20bcfd30e58d253d5b05dc2f5"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Detroit council expected to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
     publishedDateTime: 2020-09-21T20:58:00Z
@@ -179,6 +195,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "XzY1VMt+ziiQmE8nZCjNg2vCXNjh3svMevjmdWgFq8TsKZWvBEX9Fh68MB0s5gBLQCGwFmmTUHqryosVSqapSqKmUcANSCU5KQRXmPAzOmJHiEKl64eOkp8EoAdYYtXDMjSfvb7P20QcUyDGniFsgfkd745X/ADtrBGOIlZVoiXFCfhSARrB5DESAlrT7a2iTs50uR3fsEkIBWGvY0NlCw8VuddvqEQAiTyFbp7sugM8GEtTB50hL/w9zo4NJCL9m9mL6ITekPeNWew7pFT1y6XUCEz95FuWJz97ljb+BJbnnOOy6nTt9c+AhJ26I/TAMVHcGuii0VLSNeYG8sR7HQjYXKbpJzhDLBK9Qic1Br4=;dhWuOR/31NGrQZE/HIgQgA=="
+secured: "8JAKVNqcOT3aK4I27wXGcBq/FJ6iEOJtfzXaJPx3iC+FYAD4xn6QVIsxwPMw3Bja7WdkjfaCEyy+5zh/yeTqAK2+9ZQOa3BPPLGLHtHzDyGwQZZovx0xuPIwV14thnHfbzdilh25KB9dTQtZ3EQ5mmWT2Ozhx34d5//vz0nparg3RSpZhrQD56Vd8f+M0nl3sOqOX2wdtgeFPz5mRQoqGsBGJkY8oZGCsU5HeZPBcCAzAjWLzLp3CJUXsZGKKsa4swK+V7nJglFiFy59jGLs2TSNY3ChWSocnSi+YFvtWHzPaVst0haJDcFX0/vHmkSEooDx7Oed6RXbrPUs3wUL6Y/DAt65iF2vY7gHabfn5Njx9bZEFmI/iiFqHiFXZH/uQNv2E8HlfixrIURXq3SUfxwNOetH6FzehYZvhsns8g5acw1aetlIKsYIab2Konk5yeBVYQwVF5RgxG1hUN7pzLEEJ7owbK6TvF+1UyKBiZglXENEcfutb8rHCExVmoCGVQyoKk66bPfTh4c240rtdw==;3lcN/uWhjnkuUpjf8QH76A=="
 ---
 

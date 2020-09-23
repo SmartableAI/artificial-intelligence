@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The LAPD has used facial recognition software 30,000 times since 2009"
+    excerpt: "The acknowledgement comes after years of contradictory answers on the matter. For years, the Los Angeles Police Department (LAPD) hasn't given a clear answer on whether it uses facial recognition in its policing work. That changed this week. On Monday, the ..."
+    publishedDateTime: 2020-09-21T20:31:00Z
+    webUrl: "https://www.engadget.com/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    ampWebUrl: "https://www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2322dd70-fc42-11ea-a05e-4ab6d4811cc6&client=amp-blogside-v2&signature=08e70ef526aeaaf20bcfd30e58d253d5b05dc2f5"
+        width: 600
+        height: 350
+        isCached: true
   - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
     excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
     publishedDateTime: 2020-09-22T22:36:00Z

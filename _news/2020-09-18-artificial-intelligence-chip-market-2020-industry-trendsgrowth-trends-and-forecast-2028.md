@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17"
 type: article
 quality: 74
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Office Market Future Growth And Forecast From 2020-2022"
-    excerpt: "This technology is still in its infancy. Yet to be truly established, this technology as of now is more spoken of in"
-    publishedDateTime: 2020-09-18T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-future-growth-and-forecast-from-2020-2022-2020-09-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
