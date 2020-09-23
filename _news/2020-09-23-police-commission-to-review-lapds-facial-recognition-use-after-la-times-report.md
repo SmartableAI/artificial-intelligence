@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
+    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
+    publishedDateTime: 2020-09-22T22:36:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Detroit council expected to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
     publishedDateTime: 2020-09-21T20:58:00Z
@@ -163,6 +179,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "PTmfRbkp/CibavIwt9Ihe9gLE7qAApr9E2+OxzOe3uTX0FE7mVgk5KiqSwofmoI/9Vp83OXgjbi+7O+IX3IStTOeh9VpVDSViC1RDuMaIV4N2u++FICZLBulrDQcOwfJMAhOH23LmUbNJPZ4UxSEzh9BssTSwa21edxDfSdqLkX4dgpERuF8YsAMdRAlO/D48Y1apuTRbHYcnerDteqwwIz2JZ+SLp0TGXORVp3c/ZV68niCGQrxRorzdhriHZW+me93UqCMiOKFH6aEtjlhN2s/L3KzRzXOcmfRYb2dIA/1QANAr9qA5Q2XwekV0H9gGv9Zpo0rTLn7sdz5lXGQ0PSvv+8Rufe12kiMUSsB6CE=;srhfE6ItuRPrab7WoZ1rgQ=="
+secured: "iCj+fR3K2UuANl8bcxJT1RtkOxx2xmVjuvwVYiXbcqIWCpusTWOdbZmKUB/SAnA/egqqaXixHaG8PfZFHYwLyOxXGtkVxAD2Qq62SnJBf2vAfqEO7kdQRhg2A6P0Zmgk8d6PoJpFz9D5oAvlzedggiA2ipiRQvDT6Rd9ka9Z/dyLb6uUhrGzRJ6mf6SKABDbldeMnQRCoaV9OON4ApP0B7Odq8NgNqpRhko7DOicdoZsq+eLRLVP4I/4pVXTH6iHpCxwENJ/c+lpIRCPgoNlYyy0/FEzu6wd9m6yAWC18gOgHSv7GXleqBOT7MXWnGmO0vpl2nxUpnsDvbUqluSeePXEi8a3ZAS7Xi5uZPaUOw2XXlEq73j6oQvZWgjGvmCqLCmmQDDHoTqgYcXWH6XfxvayB81/1AQRnnZwfcHZhcn+LhQbwtssjN8B3MbJY4rZNBeTS6WkuqvTkoMfS9IlZFOIJFQ+qzoE96LdNG47hfjWngBjI4QPwVRa1hxgaqkVO4k1A692uY8RrBAIU6oCRQ==;dIi64stLKQiLG5Rs3j6tlw=="
 ---
 

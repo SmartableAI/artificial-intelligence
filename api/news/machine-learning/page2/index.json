@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
+      "title": "Physicist: The Entire Universe Might Be a Neural Network",
+      "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/physicist-entire-universe-neural-network/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp",
+      "publishedDateTime": "2020-09-09T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-quizlet-is-betting-ai-machine-learning-can-tutor-students-close-homework-gap.md",
       "title": "Quizlet is betting AI, machine learning can tutor students, close homework gap",
       "excerpt": "Quizlet is launching Quizlet Learning Assistant, a set of new product features that will combine machine learning and learning science to better tutor students. Learning Assistant",
@@ -1333,57 +1375,6 @@
         "name": "journaldunet.com",
         "domain": "journaldunet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live.md",
-      "title": "How Kabbage processed $7 billion in Paycheck Protection Program loans with machine learning (VB Live)",
-      "excerpt": "Using ML, Kabbage processed almost 300,000 PPP loans by the time the program ended, making it the second largest issuer of PPP loans in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1258025082.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/28/how-kabbage-processed-7-billion-in-paycheck-protection-program-loans-with-machine-learning-vb-live/amp/",
-      "publishedDateTime": "2020-08-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

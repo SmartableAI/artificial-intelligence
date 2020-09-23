@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
+      "title": "DeepRacer Women’s League to help women develop machine learning skills",
+      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
+          "width": 475,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
+      "publishedDateTime": "2020-08-20T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-chatbots-are-machine-learning-their-way-to-human-language.md",
       "title": "Chatbots Are Machine Learning Their Way To Human Language",
       "excerpt": "Computers are good at long division, but really bad at knowing whether humans are referring to football divisions, parliamentary division lobbies or long division for mathematics. This is because mathematics is formulaic,",
@@ -1341,49 +1384,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
-      "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
-      "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/drones.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20591.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html",
-      "publishedDateTime": "2020-08-12T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
+    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
+    publishedDateTime: 2020-09-22T22:36:00Z
+    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
     excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
     publishedDateTime: 2020-09-22T21:09:00Z

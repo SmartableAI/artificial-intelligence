@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-12-caltech-engineers-use-machine-learning-to-help-robots-get-along.md",
+      "title": "Caltech Engineers Use Machine Learning to Help Robots Get Along",
+      "excerpt": "When several robots in motion inhabit the same space, more challenges arise. Multi-robot scenarios are becoming more common with the advancement of autonomous vehicles (AVs) and use of drones for various applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/drones.png",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20591.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html",
+      "publishedDateTime": "2020-08-12T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning.md",
       "title": "AI startup steps in to unlock the puzzle of infertility with machine learning",
       "excerpt": "Computer vision technology helps physicians identify the most viable embyos for implantation, reducing the time to pregnancy for patients on average by 15%.",
@@ -1334,48 +1377,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deep-learning-tech-firm-syntiant-raises-35m-in-series-c.md",
-      "title": "Deep Learning Tech Firm Syntiant Raises $35M In Series C",
-      "excerpt": "Syntiant CEO Kurt Busch said in the announcement, “It is a tremendous honor to know that some of the world’s leading tech investors are supporting our growth stage, as we deliver our deep learning voice solution to customers across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pymnts.com/wp-content/uploads/2020/08/deep-learning-funding-tech-innovation-457x305.jpg",
-          "width": 457,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/amp/",
-      "publishedDateTime": "2020-08-04T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

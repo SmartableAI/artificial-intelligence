@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/GettyImages-1217880607-647x363.jpeg?FSzeVbegnIS1n2uRLO.hvIEEqKulrw4f"
         width: 647
         height: 363
-        isCached: true
-  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
-    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"
-    publishedDateTime: 2020-09-18T06:46:00Z
-    webUrl: "https://www.newsoneplace.com/30766411911/asleep-tesla-self-driving"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 30
-    images:
-      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-m-13_1600411152093.jpg&h=250"
-        width: 335
-        height: 250
         isCached: true
 
 secured: "UMXCfvfv07hxc9EU+wuD8JHHIzF6V3SF9SBvJDf6ddAe5L9/99+fZrme1Am2Be2yeGgtrArXxKNmY/Z/HmsW+QBCHalETIe3IUF6EBG5KSvip+QNKhfeafbDe+E1a0g13maCX0obQZk1C+sGTZcjbjzs5gZgGFH/bml8PMIFtulQru0S/1VVVNzv/QN4kqYko+eYt+UjK5tV/GaLPDqR6BS+A3kk6+yiUWY47BwU5Z27dx9B6TsZgxsS65rB2Zv4+lubWGTZwN8Cs0DVQc5aTqAd+P7ujJrXAIrW790M/F3WDiCf4L9yuP799DUlJuFE0VfaLjlqQ4l1vxcbWWSdcuAueDFsLUG5sJyFF/HXQc0=;JdpRITDFPe57MJnrkiPqAA=="

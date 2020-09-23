@@ -2,6 +2,225 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
+      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
+      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
+      "publishedDateTime": "2020-09-09T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations.md",
+      "title": "Iron Ox raises $20 million to grow robotic greenhouse operations",
+      "excerpt": "Iron Ox plans to expand its robotic growing solution to greenhouses in California and other parts of the U.S. after a $20 million series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/unnamed-2-e1599787426725.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
+      "publishedDateTime": "2020-09-09T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-the-8-best-ai-stocks-on-the-market-today.md",
+      "title": "The 8 Best AI Stocks on the Market Today",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is one of the hottest and most controversial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
+      "publishedDateTime": "2020-09-09T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
+      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
+      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
+      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
+      "publishedDateTime": "2020-09-09T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-captive-audience-how-well-be-the-ones-who-pay-for-autonomous-mobility.md",
+      "title": "Captive Audience: How We’ll Be the Ones Who Pay for Autonomous Mobility",
+      "excerpt": "Those rewards will come in part from licensing the software that powers self-driving cars, both to owners and to corporate customers. But an even larger, longer-tailed source of revenue in self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
+      "originalUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automobile",
+        "domain": "automobilemag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-ey-is-transforming-the-transaction-diligence-process-with-watson.md",
       "title": "EY is transforming the transaction diligence process with Watson",
       "excerpt": "At EY, our teams look to help clients solve their toughest issues. In a fast-changing and data-driven world, we give them the support they need to reimagine their ecosystems, reshape their portfolios and reinvent themselves for a better future. When considering a transaction, clients are typically evaluating",
@@ -858,17 +1077,17 @@
       "title": "AWS and the National Football League Announce New Next Gen Stats Powered by AWS for the 2020 Season",
       "excerpt": "The NFL has used AWS compute technology for its Next Gen Stats platform since 2015, and began using AWS machine learning services to enhance Next Gen Stats in 2017. These stats help teams, players, broadcasters,",
       "sourceUrl": null,
-      "webUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
-      "originalUrl": "https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html",
+      "webUrl": "https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html",
+      "originalUrl": "https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/americanpress.com/content/tncms/custom/image/69cd1fbe-135c-11e8-9a25-570f3458ec8f.jpg",
-          "width": 600,
-          "height": 600,
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -880,8 +1099,8 @@
       "publishedDateTime": "2020-09-09T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "American Press",
-        "domain": "americanpress.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -944,245 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-five-machine-learning-algorithms-entrepreneurs-should-understand.md",
-      "title": "Five Machine Learning Algorithms Entrepreneurs Should Understand",
-      "excerpt": "Entrepreneurs and investors should take note of how artificial intelligence (AI) is disrupting business in every vertical. As an entrepreneur myself, and the founder of an AI news website, I've had a front-row seat to the disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57dbf2993d5f6c61d10081%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
-      "publishedDateTime": "2020-09-09T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
-      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
-      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
-      "publishedDateTime": "2020-09-09T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-artificial-intelligence-in-pr-is-it-science-fiction.md",
-      "title": "Artificial Intelligence In PR: Is It Science Fiction?",
-      "excerpt": "Artificial intelligence (AI) is everywhere, so you knew it was only a matter of time before a PR agency tried to package it for public relations. But can AI help get stories in the news or is it just a new agency spin to stand out from the crowd?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f03670c093af40007be6125%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
-      "publishedDateTime": "2020-09-09T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
-      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
-      "excerpt": "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
-      "publishedDateTime": "2020-09-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
-      "title": "How AI is impacting customer experience in fintech (VB Live)",
-      "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/how-ai-is-impacting-customer-experience-in-fintech-vb-live/amp/",
-      "publishedDateTime": "2020-09-09T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

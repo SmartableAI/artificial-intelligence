@@ -2,6 +2,243 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-10-andurils-new-drone-offers-to-inject-more-ai-into-warfare.md",
+      "title": "Anduril’s New Drone Offers to Inject More AI Into Warfare",
+      "excerpt": "A swarm of Ghost 4s, controlled by a single person on the ground, can perform reconnaissance missions like searching for enemy weapons or soldiers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f59679f7d996391a1b72bde/master/pass/business_ghost4_studio_01.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
+      "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
+      "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "publishedDateTime": "2020-09-10T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india.md",
+      "title": "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India",
+      "excerpt": "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
+      "publishedDateTime": "2020-09-10T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report.md",
+      "title": "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-ai-robot-develops-the-perfect-tiktok-song-and-its-very-unusual.md",
+      "title": "AI robot develops the 'perfect TikTok song' - and it's very unusual",
+      "excerpt": "Researchers from AI startup Musiio have used artificial intelligence to develop what they claim is the ‘perfect TikTok song’",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
+      "originalUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article19122987.ece/ALTERNATES/s615/0_Tik-Tok-media-App-Illustration.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
+      "publishedDateTime": "2020-09-10T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc.md",
       "title": "Digital Twin Market Revenue to Hit USD 35 Bn by 2026: Global Market Insights, Inc.",
       "excerpt": "Global Market Insights, Inc. has recently added a new report on the digital twin market which estimates the market valuation for digital",
@@ -30,48 +267,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021.md",
-      "title": "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021",
-      "excerpt": "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "originalUrl": "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/09/10/997566-microsoft.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "publishedDateTime": "2020-09-10T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -133,6 +328,39 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021.md",
+      "title": "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021",
+      "excerpt": "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "originalUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "publishedDateTime": "2020-09-10T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -919,225 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
-      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
-      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "publishedDateTime": "2020-09-09T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations.md",
-      "title": "Iron Ox raises $20 million to grow robotic greenhouse operations",
-      "excerpt": "Iron Ox plans to expand its robotic growing solution to greenhouses in California and other parts of the U.S. after a $20 million series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/unnamed-2-e1599787426725.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "publishedDateTime": "2020-09-09T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-the-8-best-ai-stocks-on-the-market-today.md",
-      "title": "The 8 Best AI Stocks on the Market Today",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is one of the hottest and most controversial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "publishedDateTime": "2020-09-09T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
-      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
-      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "publishedDateTime": "2020-09-09T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-captive-audience-how-well-be-the-ones-who-pay-for-autonomous-mobility.md",
-      "title": "Captive Audience: How We’ll Be the Ones Who Pay for Autonomous Mobility",
-      "excerpt": "Those rewards will come in part from licensing the software that powers self-driving cars, both to owners and to corporate customers. But an even larger, longer-tailed source of revenue in self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
-      "originalUrl": "https://www.automobilemag.com/news/self-driving-cars-captive-audience-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automobile",
-        "domain": "automobilemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

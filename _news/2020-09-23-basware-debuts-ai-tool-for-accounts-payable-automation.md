@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artific
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,47 @@ images:
     width: 457
     height: 305
     isCached: true
+
+related:
+  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
+    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
+    publishedDateTime: 2020-09-22T23:41:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
+        width: 300
+        height: 222
+        isCached: true
+  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
+    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
+    publishedDateTime: 2020-09-22T14:00:00Z
+    webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI) Marketplace Platform as the latest component of its ecosystem. It will bring together technologies, products and services from leading AI ..."
+    publishedDateTime: 2020-09-22T07:20:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/607207msn/also-launches-marketplace-platform-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "1xtdrkmhEOuCoTP9Bqzktz3lJwZJjAJQDRisywVXaWu05LgGPoXcS3oOKza1pK8580eV9fB3Oz7sdFEdNVijaM9an87oF5LXeqQP7KFk4sfkTNv/G8I50oGuzjQObjExs0ZIznR7OLqwN0kCvbIZs1sW81g3BVbeJcwqMhb1ryLvF/azUNAH/nQRn1Q7OS1dJKWW8Knmw3iCzIbt3wK+yYWhxe3cOr3tC116o/qGh/qJu932+0/Wce9GabB55V6oJtIKqA9eNDWTVvbhsH/6C9RkCUt52wAptyI1U4jkYfY5OE38mqOVac48WvVqKfAz0O9qBvBhtjBeAQVm6PpBs/fNlUn/PJwLE6oeSfPKTsY=;mgK8/fZYrcu6lNd8gYl7oQ=="
 ---

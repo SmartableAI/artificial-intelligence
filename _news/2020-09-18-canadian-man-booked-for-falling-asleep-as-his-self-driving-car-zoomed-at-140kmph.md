@@ -91,20 +91,6 @@ related:
         width: 5152
         height: 3400
         isCached: true
-  - title: "Tesla driver, 20, is found ASLEEP at the wheel of his self-driving car speeding at 93mph"
-    excerpt: "The driver's Model S Tesla was pictured with its seats fully reclined while roaring along near the town of Ponoka, about 60 miles south of Edmonton in"
-    publishedDateTime: 2020-09-18T06:46:00Z
-    webUrl: "https://www.newsoneplace.com/30766411911/asleep-tesla-self-driving"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 30
-    images:
-      - url: "https://images.weserv.nl/?url=https://i.dailymail.co.uk/1s/2020/09/18/07/33330194-0-image-m-13_1600411152093.jpg&h=250"
-        width: 335
-        height: 250
-        isCached: true
 
 secured: "PhDoXYrbqFPqH8/5mQCqNBqYQW2oduDkWL0Ypyv1VqoRQ/SO4L3yhRtODr+NSBtuBNIALOUs0JEAgfu2U0kDnCZZPI5IwxV4AxzWVERiERIRY+s2FGvrsZ882J2XXOgIT9tbtlzfU63Id8nUSBHW1Sy+rxLwO4r9TSpE9X73lRvy67tIdDnzGhE8/Sb0vSsR0GFtjVdtBOuvcxdbh0MtNAX8YTqlRZql3iTj6z2vKSZit5EZNMaF6/R9ejvVnO3jSZ5IFZvLBpQweyju75PecNxlmJP9vDyji2yNRheANKZDbBTHpaWp4ry7Rnrl+m+P+vuxk3tOzscILe5OL7VGWG9+GQQ3TNwG8zZwuyZwk3Q=;k3o1uIjvo0I+fp0EFhw9LA=="
 ---

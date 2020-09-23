@@ -2,6 +2,98 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-21-inside-politics-government-threatens-lockdown-if-rules-arent-followed.md",
+      "title": "Inside Politics: Government threatens lockdown if rules aren’t followed",
+      "excerpt": "As Boris Johnson considers national coronavirus restrictions, Matt Hancock has made it clear the public will be to blame for any second lockdown, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-new-coronavirus-rules-fine-hancock-national-lockdown-threat-b511237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-20T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-the-4-top-artificial-intelligence-trends-for-2021.md",
+      "title": "The 4 Top Artificial Intelligence Trends For 2021",
+      "excerpt": "Artificial Intelligence (AI) has been a mega-trend in 2020. The current pandemic has only accelerated the relevance and adoption of AI and machine learning. Here we look at some of the top AI trends for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f67d6b8af733458404e97bf%2F0x0.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/",
+      "publishedDateTime": "2020-09-20T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-danforth-center-to-play-role-in-new-20m-federal-artificial-intelligence-institute.md",
       "title": "Danforth Center to play role in new $20M federal artificial intelligence institute",
       "excerpt": "The Danforth Center’s Todd Mockler will co-lead a team of researchers involved in a new artificial intelligence research institute",
@@ -522,6 +614,39 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17431514",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514",
+      "publishedDateTime": "2020-09-18T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1050,157 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters.md",
-      "title": "The AI landscape is shifting from ‘data’ to ‘knowledge.’ Here’s why that matters",
-      "excerpt": "The Artificial Intelligence (AI) revolution was ignited more than half a century ago. In the last decade, AI has grown from an academic scientific field to start being a practical part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/shutterstock_255260497-796x529.jpg",
-          "width": 796,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/amp/",
-      "publishedDateTime": "2020-09-18T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-startup-genietalk-bags-angel-investment-of-750k-at-10-mn-valuation.md",
-      "title": "Conversational AI Startup GenieTalk Bags Angel Investment of $750k At $10 Mn Valuation",
-      "excerpt": "The company will deploy the fresh funds for developing phase one of its SaaS-based platform that helps businesses build tailored and personalized AI-powered virtual assistants, referred to as chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356409",
-      "originalUrl": "https://www.entrepreneur.com/article/356409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600454548-Genieteamedit.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356409",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356409",
-      "publishedDateTime": "2020-09-18T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-marqvision-detects-counterfeit-products-with-deep-learning-and-ai.md",
-      "title": "MarqVision detects counterfeit products with deep learning and AI",
-      "excerpt": "MarqVision, the AI -based SaaS company founded by computer scientists and intellectual property (IP) law experts from Harvard University and MIT, recently launched its brand-protection platform to help brands combat counterfeit products online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1600443362/itpro/Marq_Vision_Inc_2.jpg",
-          "width": 1404,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

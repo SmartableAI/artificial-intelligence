@@ -385,48 +385,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
-      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
-      "excerpt": "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
-      "publishedDateTime": "2020-09-22T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-build-powerful-and-responsible-ai-solutions-with-azure.md",
       "title": "Build powerful and responsible AI solutions with Azure",
       "excerpt": "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital.",
@@ -594,6 +552,39 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-tamr-data-mastering-platform-now-available-on-microsoft-azure.md",
+      "title": "Tamr Data Mastering Platform Now Available on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17431514",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514",
+      "publishedDateTime": "2020-09-18T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1209,32 +1200,23 @@
     {
       "path": "_news/2020-09-10-microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021.md",
       "title": "Microsoft joins Nasscom to skill 10 lakh students in AI by 2021",
-      "excerpt": "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence",
+      "excerpt": "Microsoft on Thursday joined hands with industry-driven learning ecosystem Nasscom FutureSkills to launch a nation-wide initiative that aims to skill 10 lakh students in Artificial Intelligence (AI) by 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "originalUrl": "https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
+      "webUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "originalUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/09/10/997566-microsoft.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777",
-      "publishedDateTime": "2020-09-10T02:53:00-07:00",
+      "ampWebUrl": "https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html",
+      "publishedDateTime": "2020-09-10T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
+        "name": "Sify.com",
+        "domain": "sify.com",
         "images": null,
         "publishers": null,
         "authors": null
