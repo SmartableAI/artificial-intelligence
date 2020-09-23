@@ -4,54 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_companies/embodied.me.md",
-      "title": "Embodied",
-      "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/embodied.me/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/embodied.me/",
-      "type": "profile",
-      "name": "Embodied",
-      "otherNames": [
-        "Embodied, Inc."
-      ],
-      "overview": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "website": "http://www.embodied.me/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/embodied-inc./",
-        "followers": 2827
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/embodied-inc"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=TOj9VNZqki8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ]
-    },
-    {
       "path": "_companies/eyediagnosis.net.md",
       "title": "IDx",
       "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
@@ -1067,7 +1019,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5378
+        "followers": 5379
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1121,7 +1073,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 170
+        "followers": 169
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -1460,6 +1412,56 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ]
+    },
+    {
+      "path": "_companies/movidius.md",
+      "title": "Movidius",
+      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/movidius/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/movidius/",
+      "type": "profile",
+      "name": "Movidius",
+      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "website": "http://www.movidius.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/movidius",
+        "followers": 20091
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/movidius"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2005,
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, California"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Movidius",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
           "width": 400,
           "height": 400,
           "title": "logo",
