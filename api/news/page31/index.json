@@ -2,6 +2,98 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-08-31-qualcomm-snapdragon-732g-with-improved-cpu-gpu-and-ai-performance-announced.md",
+      "title": "Qualcomm Snapdragon 732G with improved CPU, GPU, and AI performance announced",
+      "excerpt": "When compared to the 730G, the 732G promises to offer better AI and gaming performance, with upgraded CPU and GPU. To give you a quick rundown, the Snapdragon 732G offers the Kryo 470 prime cores ...",
+      "sourceUrl": null,
+      "webUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
+      "originalUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techpp.com/wp-content/uploads/2020/08/Qualcomm-Snapdragon-732G.jpg",
+          "width": 700,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
+      "cdnAmpWebUrl": "https://techpp-com.cdn.ampproject.org/c/s/techpp.com/2020/08/31/qualcomm-snapdragon-732g-specs-features/amp/",
+      "publishedDateTime": "2020-08-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techno-Science.net",
+        "domain": "techpp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-adoption-of-technologies-like-ai-ml-by-the-insurance-sector.md",
+      "title": "Adoption Of Technologies Like AI, ML By the Insurance Sector",
+      "excerpt": "While businesses across sectors are embracing technology-enabled solutions, technological innovation continues to outpace technological adoption",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/355541",
+      "originalUrl": "https://www.entrepreneur.com/article/355541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1598881319-artificial-intelligence-3382507-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355541",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355541",
+      "publishedDateTime": "2020-08-31T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-get-smart-ai-and-the-energy-sector-revolution.md",
       "title": "Get Smart: AI And The Energy Sector Revolution",
       "excerpt": "Artificial intelligence is about to trigger explosive changes in our lives, work, and leisure -- this is especially true in the data-driven energy sector.",
@@ -1057,98 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig.md",
-      "title": "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig",
-      "excerpt": "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety.",
-      "sourceUrl": null,
-      "webUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "originalUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg",
-          "width": 716,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "publishedDateTime": "2020-08-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem.md",
-      "title": "This AI Expert From Senegal Is Helping Showcase Africans In STEM",
-      "excerpt": "Not only has Adji Bousso Dieng, an AI researcher from Senegal, contributed to the field of generative modeling and about to become one of the first black female faculty in Computer Science in the Ivy League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f40029c9ef0598860b150c8%2F0x0.jpg%3FcropX1%3D187%26cropX2%3D1021%26cropY1%3D60%26cropY2%3D529",
-          "width": 834,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "publishedDateTime": "2020-08-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

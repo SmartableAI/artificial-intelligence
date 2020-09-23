@@ -43,21 +43,37 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
-    excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
-    publishedDateTime: 2020-09-22T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
+  - title: "How Merced County plans to bring more self-driving car testing to Atwater’s Castle Airport"
+    excerpt: "Maturing plans for self-driving vehicle testing at the former Castle Air Force Base in Atwater are putting Merced County on a global map for a niche — but lucrative — market, county officials say. Last week,"
+    publishedDateTime: 2020-09-23T14:00:00Z
+    webUrl: "https://www.mercedsunstar.com/news/local/article245894580.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/local/article245894580.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/local/article245894580.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
+    quality: 49
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f692b8b1cc60d7a2b67c0ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5295%26cropY1%3D857%26cropY2%3D3339"
-        width: 1199
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404783001/5286396c-ceb8-43ad-b52f-cb02957d415d/47c11371-d76a-48cc-a642-b7e9b73402eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
+    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
+    publishedDateTime: 2020-09-23T15:39:00Z
+    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
+    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
+    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "Uber investors are pressuring CEO to revamp the self-driving division"
     excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"

@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/</loc>
+    <lastmod>2020-09-23T08:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/</loc>
+    <lastmod>2020-09-23T08:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/</loc>
+    <lastmod>2020-09-23T07:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/</loc>
+    <lastmod>2020-09-23T07:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/</loc>
+    <lastmod>2020-09-23T07:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/23/adobes-liquid-mode-leverages-ai-to-reformat-pdfs-for-mobile-devices/</loc>
     <lastmod>2020-09-23T06:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +51,12 @@
   <url>
     <loc>https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars</loc>
     <lastmod>2020-09-23T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923</loc>
+    <lastmod>2020-09-23T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -87,12 +123,6 @@
   <url>
     <loc>https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/</loc>
     <lastmod>2020-09-22T15:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/</loc>
-    <lastmod>2020-09-22T15:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,20 +217,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
-    <lastmod>2020-09-22T05:28:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
     <lastmod>2020-09-22T05:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece</loc>
-    <lastmod>2020-09-22T04:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -487,18 +511,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/</loc>
-    <lastmod>2020-09-19T09:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure</loc>
-    <lastmod>2020-09-18T20:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/michellegreenwald/2020/09/17/how-artificial-intelligence-is-helping-companies-identify--nail-new-product-opportunities/</loc>
     <lastmod>2020-09-18T20:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,7 +787,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globenewswire-mobile/47b59cde3e91723c62f05905b28641bf</loc>
+    <loc>https://apnews.com/globe-newswire/47b59cde3e91723c62f05905b28641bf</loc>
     <lastmod>2020-09-17T05:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

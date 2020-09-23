@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-teslas-full-self-driving-autopilot-beta-coming-in-a-month-or-so.md",
+      "title": "Tesla's full self-driving Autopilot beta coming in 'a month or so'",
+      "excerpt": "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "publishedDateTime": "2020-09-23T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
       "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
       "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
@@ -95,90 +146,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-teslas-elon-musk-promises-full-self-driving-autopilot-beta-in-a-month-or-so.md",
-      "title": "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'",
-      "excerpt": "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "publishedDateTime": "2020-09-22T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-teslas-full-self-driving-option-falls-short-of-its-claim-report-says.md",
-      "title": "Tesla's full self-driving option falls short of its claim, report says",
-      "excerpt": "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/",
-      "publishedDateTime": "2020-09-22T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-what-happens-to-car-insurance-rates-after-self-driving-cars.md",
       "title": "What Happens To Car Insurance Rates After Self-Driving Cars?",
       "excerpt": "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”",
@@ -187,7 +154,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -210,57 +177,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-tesla-reintroduces-enhanced-autopilot-offering-cheaper-alternative-to-full-self-driving.md",
-      "title": "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’",
-      "excerpt": "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
-      "originalUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/",
-      "publishedDateTime": "2020-09-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1402,6 +1318,99 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-ai-will-change-the-way-events-are-planned-and-executed.md",
+      "title": "“AI will change the way events are planned and executed”",
+      "excerpt": "From driverless cars to virtual doctors, artificial intelligence (AI) is transforming the way we live, work, travel, and do business in the 21st century. PwC estimates that AI could add as much as ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
+      "originalUrl": "https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*uR1V46w9647-E0aqntD3ZA.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-an-example-of-how-attractive-germany-is-for-artificial-intelligence-companies.md",
+      "title": "An example of how attractive Germany is for artificial intelligence companies",
+      "excerpt": "Tübingen area is home to Europe's largest AI research consortium. Chancellor Angela Merkel paid a virtual visit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704",
+      "originalUrl": "https://www.bundesregierung.de/breg-en/news/merkel-visits-cyber-valley-1783704",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bundesregierung.de/resource/image/1785940/16x9/500/281/71f489c12cc7832d1e82d01ff0cc0cfe/CI/2020-09-09-cyber-valley-startbild.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Die Bundesregierung",
+        "domain": "bundesregierung.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },

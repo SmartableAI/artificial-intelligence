@@ -102,6 +102,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial Recognition Tech That Works With Masks"
+    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
+    publishedDateTime: 2020-09-23T15:34:00Z
+    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
+    type: article
+    provider:
+      name: APEX
+      domain: apex.aero
+    quality: 39
+    images:
+      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z
@@ -126,6 +140,6 @@ related:
       domain: triblive.com
     quality: 16
 
-secured: "NasMhJVJIw5QOePCd0tJt0WwJrJSfPBhq1uyg6815EHnlQmou220VCGoM/ZvJ60HTuhXWF6tOLutRKsORWxmH3JfTq31FJJHKMUWKY6t7akBhmnCt1VAlA0UCYb+YYw2OUW9BlvqM6NNdPw6VMgnxrd+C928GlUd/NZYiJ/m66yI4HpcrsMMMX9KAs8izkwqsVt8UD13hXTZ7Jl/cGfrSuVz4RN3cRB3N432eQDo9h2lv9Qv2rskpITpeijRmkjqdOtd8Uh+ASTOjPaZx2H0izFSuCYxacmyyY3H/0AlnfOGAF7eXlBwsfgxlL3DnIwV+5THwCGvotjU6cD9Xcyrqi/QX641WKmbSTXwAvP9G20=;rTUz7adY2OZ5YoDZGlO7Dw=="
+secured: "l5d8G8U/JakIbc3oXHEYCcbDQBLhl3uSqFaEPZbpBrcdkcL6X6BhBgKSuIlmnoC576uwBgRiqgM3OMJvxq4lhqHHMiRnM/eNnRLHoi+i/BcBU6VsGqcwb8jjd2kX7kZmPSRe3vTmSbkpGfkin/wvWnXpsMRgKZGWRzxQacIaYZeWBs7piLWpUsaGQB8Tu+A+cK4G8jCYMHvtDW+Oyl5L7jlBCW/UVSeX22JXZqCuzXr2OoiCJL05lSbNBfyTRm/qHCopI7sZ0Q/VIAQKQnJ+jG3//6bt48XEQ+cz5YpReO8EJH2QDKs+10hQzxGiChNsicUGTHVvIBuc5rNcttE3wQ02VSvTp/FgTXim9wn/saKrloE2e3qLPFG/YB/1w14W8T4Pg0jFylZ1YlXr61ZrTV2qahA1cjlJN+xlZ31jO/Ceu0Py8u0XzmNCrFAnL7rA7ygMRabdG3hsLKAdROPmyiOcJRMRKIgcfvbhtSJbY8kl+i6YDf8ytspFDdl1l44iVYYT3/ZkmcrK9W+nGixH9w==;Z3BPbqi6R179BG5RHCR3ag=="
 ---
 

@@ -31,99 +31,138 @@ images:
     isCached: true
 
 related:
-  - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
-    excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
-    publishedDateTime: 2020-09-21T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
+  - title: "Tesla's full self-driving Autopilot beta coming in 'a month or so'"
+    excerpt: "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade."
+    publishedDateTime: 2020-09-23T14:56:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’"
+    excerpt: "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times,"
+    publishedDateTime: 2020-09-19T16:10:00Z
+    webUrl: "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot"
+    excerpt: "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package."
+    publishedDateTime: 2020-09-20T17:58:00Z
+    webUrl: "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/"
+    ampWebUrl: "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 76
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all"
+        width: 1820
+        height: 834
+        isCached: true
+  - title: "Tesla's full self-driving option falls short of its claim, report says"
+    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ..."
+    publishedDateTime: 2020-09-22T11:54:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
-        width: 1200
-        height: 700
+      - url: "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
-    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+  - title: "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'"
+    excerpt: "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade."
+    publishedDateTime: 2020-09-22T22:14:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 65
+  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
+    excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
+    publishedDateTime: 2020-09-23T01:44:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498264001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498264001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 900
+        height: 674
         isCached: true
-  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
-    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
-    publishedDateTime: 2020-09-23T09:33:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
+  - title: "PennDOT is in the forefront of self-driving cars becoming a reality, official says"
+    excerpt: "While there is no set timetable yet for driverless cars to hit the roads, Pennsylvania is in the forefront of developing the technology for it to happen. “This was once just a dream of science fiction writers,"
+    publishedDateTime: 2020-09-21T21:15:00Z
+    webUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.html"
+    ampWebUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
-    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
-    publishedDateTime: 2020-09-21T13:59:00Z
-    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
-    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
+      name: The Mercury
+      domain: pottsmerc.com
     quality: 38
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
-        width: 5300
-        height: 3535
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/a/73/a73fadca-03e9-59de-b83f-7dff957b1c02/5f6a273bb1d6c.image.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Anhui opens 5G-covered road for testing self-driving cars"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
-    publishedDateTime: 2020-09-19T20:33:00Z
-    webUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/"
-    ampWebUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
+  - title: "Beijing to build pilot zone for self-driving vehicles"
+    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
+    publishedDateTime: 2020-09-23T11:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
     type: article
     provider:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
+  - title: "Coming soon, a self-driving Tesla! Elon Musk touts new version of Autopilot software, cuts battery costs"
+    excerpt: "Tesla Inc CEO Elon Musk promised a new version of the company's Autopilot system at the company's \"Battery Day\" on Tuesday, even as he tempered expectations that Tesla's electric"
+    publishedDateTime: 2020-09-23T11:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/coming-soon-a-self-driving-tesla-elon-musk-touts-new-version-of-autopilot-software-cuts-battery-costs/articleshow/78273090.cms"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
-    publishedDateTime: 2020-09-21T20:27:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      name: India Times
+      domain: indiatimes.com
+    quality: 22
+    images:
+      - url: "https://img.etimg.com/thumb/msid-78273143,width-1070,height-580,imgsize-820186,overlay-etpanache/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "PtzvAaRopM8Iqe7oBDxkSgkWsUuEyKE1KAfcEWDbsH3+XsmhCu2GPTOFk+IXvlCEGtJRH9/lWU1o7fmxqTZnVmq9CvLIRyY+k9RKMXCIiehWUYxyfIgQ9Ts5l6gsq5/u7H1MpFSqqfW/7A5GUi+MgEyyPGgCrVmnLOxgI3z0TrOes0faxklihJlxsuujdDxRM+44X2nq8meyJynjZjfQjraEqi3CaUhs7wy1N9RTfHmYIDcrVK7P6iRUA7iMtNGITWTDtupNwldzQzVpsQLZvmdHfANOxzGi2zSScCQ5Fu12NtbM6Y85vX7oi8mfsJJW6yFqaVob3S+8cNR9/krXghD875JNQlb2sykfTWCzv6923GefNFRGi5wp1AGn7uPZXFKBOrlRd5ZJMmEEvE+SB0WpZ5fNZeyndKDNe8upd1VM3WiXUHiU0taZSAQYRiRyYwz961n08CiGqse1HNT/1IXIUgvRtQlbTYk0/zyP3KnrF6/3zvyF0maLfFWiglSNeUDVODPX6t0jXNcbHtI11g==;uy4jcrrk/BGg7SkcW5RY+w=="
 ---

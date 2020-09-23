@@ -2,6 +2,259 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet.md",
+      "title": "How AI Could Feed The World’s Hungry While Sustaining The Planet",
+      "excerpt": "Technological advancements tend to outpace cultural shifts. It has taken the shock of a global pandemic to accelerate the uptake of many technologies that have been around for at least a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b5b85cc29f979e9a599fa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/09/23/how-ai-could-feed-the-worlds-hungry-while-sustaining-the-planet/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live.md",
+      "title": "Mastercard’s VP of AI talks bots, NLP, and why fintechs need AI for customer service (VB Live)",
+      "excerpt": "Join this VB Live event for insights on why AI is essential for fintech companies, plus how to implement it, how to make it perfom, and more. Register here for free. AI has been around for a long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/mastercard-in-control-mineraltree.jpg?w=1200&#038;strip=all",
+          "width": 993,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/mastercards-vp-of-ai-talks-bots-nlp-and-why-fintechs-need-ai-for-customer-service-vb-live/amp/",
+      "publishedDateTime": "2020-09-23T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-teslas-full-self-driving-autopilot-beta-coming-in-a-month-or-so.md",
+      "title": "Tesla's full self-driving Autopilot beta coming in 'a month or so'",
+      "excerpt": "Tesla's CEO shared that its engineers have fully overhauled the Autopilot software stack and are almost ready to share a dramatic upgrade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/-NA7wJ9AEujzfzMLTzIUGTJDz3E=/2018/06/11/5aae38ba-915f-4b34-ba36-58cf2671f07c/tesla-hw2-autopilot-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/",
+      "publishedDateTime": "2020-09-23T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform.md",
+      "title": "WhyLabs raises $4 million to grow AI and data monitoring platform",
+      "excerpt": "Based in Seattle, WhyLabs uses an open source library to tracks AI models and datasets and notify data scientists if problems arise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "originalUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/WhyLabs-Zoom-Team-e1600868899982.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/",
+      "publishedDateTime": "2020-09-23T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery.md",
+      "title": "This Startup Has Raised Nearly $100 Million To Make Good On The Promise Of AI For Drug Discovery",
+      "excerpt": "Flagship Pioneering’s David Berry founded Valo Health 18 months ago with an eye to making an AI platform to develop drugs more quickly and efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a65baf6e34f6e4c4ea8ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D99%26cropY2%3D436",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
+      "publishedDateTime": "2020-09-23T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-adobes-liquid-mode-leverages-ai-to-reformat-pdfs-for-mobile-devices.md",
       "title": "Adobe’s Liquid Mode leverages AI to reformat PDFs for mobile devices",
       "excerpt": "Adobe's Liquid Mode in Acrobat Reader automatically reformats PDFs for mobile devices using AI and machine learning algorithms.",
@@ -161,7 +414,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
@@ -192,6 +445,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
+      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
+      "excerpt": "As these disciplines undoubtedly continue to impact society, newer fields like artificial intelligence (AI) and robotics have also begun to profoundly reshape the world. In recognition of this, the world’s largest AI society — the Association for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
+      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202009/mit-prof-regina-barzilay.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -749,48 +1054,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-teslas-elon-musk-promises-full-self-driving-autopilot-beta-in-a-month-or-so.md",
-      "title": "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'",
-      "excerpt": "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/",
-      "publishedDateTime": "2020-09-22T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-seattle-startup-resonance-ai-raises-22m-to-analyze-dialogue-mood-music-in-video-content.md",
       "title": "Seattle startup Resonance AI raises $2.2M to analyze dialogue, mood, music in video content",
       "excerpt": "TV news broadcasters, productions studios, and others are using technology from a Seattle startup to analyze their video content and make changes based on audience reception.",
@@ -984,251 +1247,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026",
-      "excerpt": "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-this-ai-powered-app-lets-you-say-goodbye-to-background-noise-during-video-calls-once-and-for-all.md",
-      "title": "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All",
-      "excerpt": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/356406",
-      "originalUrl": "https://www.entrepreneur.com/article/356406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356406",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406",
-      "publishedDateTime": "2020-09-22T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning.md",
-      "title": "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning",
-      "excerpt": "During its Ignite 2020 conference, which kicked off virtually this morning, Microsoft announced updates to Azure Cognitive Services and Azure Machine Learning aimed at streamlining business ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
-      "publishedDateTime": "2020-09-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-microsoft-ignite-revamped-teams-and-azure-options-in-offing-to-ease-enterprises-through-covid-19.md",
-      "title": "Microsoft Ignite: Revamped Teams and Azure options in offing to ease enterprises through Covid-19",
-      "excerpt": "On top of this, Azure Stack Hub – which is intended for use within edge computing environments – will now come equipped with support for graphics processing units (GPUs), Microsoft also announced, so users can run compute-intensive machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19",
-      "originalUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/cloud-backup-network-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1",
-      "publishedDateTime": "2020-09-22T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-microsoft-debuts-new-search-features-and-sharepoint-syntex.md",
-      "title": "Microsoft debuts new Search features and SharePoint Syntex",
-      "excerpt": "Microsoft today introduced new features for Microsoft Search, alongside a new product -- SharePoint Syntex -- and Power Automate Desktop.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
-      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
-      "publishedDateTime": "2020-09-22T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

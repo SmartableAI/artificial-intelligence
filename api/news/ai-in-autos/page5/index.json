@@ -2,90 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-08-12-automated-transport-could-propel-development-forward-say-world-bank-analysts.md",
-      "title": "Automated transport ‘could propel development forward’, say World Bank analysts",
-      "excerpt": "Automated transportation and mobility systems – such as autonomous cars, driverless trains, elevators, escalators and moving walkways – “could propel development forward” for the global economy,",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/",
-      "originalUrl": "https://roboticsandautomationnews.com/2020/08/12/automated-transport-could-propel-development-forward-say-world-bank-experts/35032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-hyundai-aptiv-name-self-driving-joint-venture-motional.md",
-      "title": "Hyundai, Aptiv name self-driving joint venture Motional",
-      "excerpt": "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ",
-          "width": 849,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "publishedDateTime": "2020-08-11T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries.md",
       "title": "Artificial Intelligence in China 2020: In-Depth Case Studies of Applied AI Across 8 Industries",
       "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
@@ -1351,6 +1267,82 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-designcon-2019-announces-keynote-speakers-from-uber-university-of-texas-and-uc-berkeley.md",
+      "title": "DesignCon 2019 Announces Keynote Speakers from Uber, University of Texas, and UC Berkeley",
+      "excerpt": "To give DesignCon attendees insight into some of the most cutting-edge technologies, the event will feature keynotes on quantum computing, AI and driverless cars ... datacenters that power the artificial intelligence (AI) to enable Uber’s futuristic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/designcon-2019-announces-keynote-speakers-uber-university-texas-and-uc-berkeley",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
+      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
+      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
+          "width": 555,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyShow.com",
+        "domain": "moneyshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

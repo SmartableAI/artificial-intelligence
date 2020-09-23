@@ -2,6 +2,251 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026",
+      "excerpt": "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-this-ai-powered-app-lets-you-say-goodbye-to-background-noise-during-video-calls-once-and-for-all.md",
+      "title": "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All",
+      "excerpt": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356406",
+      "originalUrl": "https://www.entrepreneur.com/article/356406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356406",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406",
+      "publishedDateTime": "2020-09-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning.md",
+      "title": "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning",
+      "excerpt": "During its Ignite 2020 conference, which kicked off virtually this morning, Microsoft announced updates to Azure Cognitive Services and Azure Machine Learning aimed at streamlining business ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/",
+      "publishedDateTime": "2020-09-22T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-microsoft-ignite-revamped-teams-and-azure-options-in-offing-to-ease-enterprises-through-covid-19.md",
+      "title": "Microsoft Ignite: Revamped Teams and Azure options in offing to ease enterprises through Covid-19",
+      "excerpt": "On top of this, Azure Stack Hub – which is intended for use within edge computing environments – will now come equipped with support for graphics processing units (GPUs), Microsoft also announced, so users can run compute-intensive machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19",
+      "originalUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/cloud-backup-network-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1",
+      "publishedDateTime": "2020-09-22T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-microsoft-debuts-new-search-features-and-sharepoint-syntex.md",
+      "title": "Microsoft debuts new Search features and SharePoint Syntex",
+      "excerpt": "Microsoft today introduced new features for Microsoft Search, alongside a new product -- SharePoint Syntex -- and Power Automate Desktop.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
+      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
+      "publishedDateTime": "2020-09-22T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-microsoft-search-to-get-a-boost-through-ai-and-external-search-indexing.md",
       "title": "Microsoft Search to get a boost through AI and external search indexing",
       "excerpt": "Microsoft Graph connectors will enable Microsoft Search to search through external services such as Adobe ... will also gain new options for admins to receive feedback. Azure Cognitive Search will also integrate with Microsoft Search, allowing people ...",
@@ -299,35 +544,35 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-ai-medicine-software-market.md",
-      "title": "AI Medicine Software Market",
-      "excerpt": "Get a Sample Copy @ https://bit.ly/3kFgrzC The major players covered in AI Medicine Software for Covid-19 Market: Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ...",
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "originalUrl": "https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 97,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T922220379_g.jpg",
-          "width": 577,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook",
-      "publishedDateTime": "2020-09-22T05:28:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "publishedDateTime": "2020-09-22T05:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -336,7 +581,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -393,48 +638,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-teslas-full-self-driving-option-falls-short-of-its-claim-report-says.md",
-      "title": "Tesla's full self-driving option falls short of its claim, report says",
-      "excerpt": "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/",
-      "publishedDateTime": "2020-09-22T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-best-facial-recognition-home-security-cameras-to-buy-this-year.md",
       "title": "Best facial recognition home security cameras to buy this year",
       "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces.",
@@ -443,7 +646,7 @@
       "originalUrl": "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -998,191 +1201,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-lapd-used-facial-recognition-software-tied-to-wrongful-arrests.md",
-      "title": "LAPD used facial recognition software tied to wrongful arrests",
-      "excerpt": "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
-      "originalUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/lapd-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-09-21T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
-      "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
-      "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6918d1895310be38ba6df5%2F0x0.jpg",
-          "width": 1200,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
-      "publishedDateTime": "2020-09-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
-      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
-      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "publishedDateTime": "2020-09-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
-      "title": "Long Island artificial intelligence startup can write your emails",
-      "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.49402301.1600711691!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "publishedDateTime": "2020-09-21T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

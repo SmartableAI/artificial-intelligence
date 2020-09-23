@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2G8043"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043"
 type: article
 quality: 86
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -29,33 +29,6 @@ images:
     width: 818
     height: 545
     isCached: true
-
-related:
-  - title: "Montreal should restrict police use of facial recognition technology: councillor"
-    excerpt: "Montreal police said through a spokesperson they have no comment on the proposed motion but they follow all laws governing their operations and investigations."
-    publishedDateTime: 2020-09-18T22:19:00Z
-    webUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/"
-    ampWebUrl: "https://globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7345106/montreal-police-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 54
-    images:
-      - url: "https://globalnews.ca/wp-content/uploads/2018/07/facial-recogition.jpg?quality=85&#038;strip=all"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Portland votes for first-ever U.S. ban on corporate use of facial recognition"
-    excerpt: "Portland on Wednesday voted in favor of the first-ever ban in the United States on private entities, such as restaurants and retail stores, from using facial recognition technology in public places in the city."
-    publishedDateTime: 2020-09-18T22:45:00Z
-    webUrl: "https://www.thetelegram.com/business/reuters/portland-votes-for-first-ever-us-ban-on-corporate-use-of-facial-recognition-495091/"
-    type: article
-    provider:
-      name: The Telegram
-      domain: thetelegram.com
-    quality: 16
 
 secured: "tYXK3UMsKCTPA1Cahz0BGrN6BHAKPEKTtRX3nCdIAXB4GMuPlL/5retKxSxssRn42PKAuW4v8iv1Ljyy0aNa33RtkiIRD2oCzlcqGvQkMHxPgH8EXCMoAdYZpYlvT5vWeCaOsQGCgsV5pAwiFVf5eM3nNYdpKhX8I8LKue+W0er65ToUwTQnd+lLLS785qmUmwpFmVOWJyNf2ErEoTAy19ttVVrcONZ5LPwioFDGwO+vqixgDu56Djn9i7F4H+H3Gvm9gGaKvKAmdLaWhL9ZQcEd/BvmERGl645RdTgtyipgbwvI15afnvvjUB+dk1SRd7K6eof/MxgUaxUzz6gCfN0UfFxT6kA0L9nLYfplkDs=;m4rrAij9CZjmklfqZ4ygPA=="
 ---

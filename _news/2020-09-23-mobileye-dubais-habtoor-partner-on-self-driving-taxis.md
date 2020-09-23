@@ -36,7 +36,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Mobileye teams with Al Habtoor on UAE autonomous cars"
+    excerpt: "Israeli autonomous car developer Mobileye and Dubai-based Al Habtoor Group (AHG) today signed a memorandum of understanding (MoU) for strategic cooperation to bring mapping technologies for Advanced Driver Assistance Systems (ADAS),"
+    publishedDateTime: 2020-09-23T14:52:00Z
+    webUrl: "https://en.globes.co.il/en/article-mobileye-teams-with-al-habtoor-on-uae-autonomous-cars-1001343639"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/c26_01800.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
-secured: "u1b9kFcl828KcwwIfm2gvhlcrEx2+nCBbEmF0lyzeOyUF0x9AqAyWI2sPZ4HxfxLv13sUPj+/Xd1TOUiw7b0VOi6xnDugE85zm1H3uD6nFMGpVrm3ARMOAAtlhaNsitEAR2JMSDCDQthHb88/grvk/0et5sbFJgWs4owTw2iW6G5TtKdQ+1bSbicZfVKguPNdxcEdk41JOvlRKEuHR4hik+W3TYKH1jdmGSJBJ6XImGq+qwZlA02LooQwBCpELvyUIZAxrUAP0z8A771nDo0injBAQIuKflZtEmbxgQmHLJHOIf9F4pH6owAazk/Vbm2xxMcHy7pILQTSCIFap1ZAZ6DrkHvNgxW3Y99BIeGim4=;ek10Yr0ME4H6cXP62OZlfA=="
+secured: "HQNDn1hxQ8eZZzbzbVXCCdTZsIW/xbrU4ijuW+8Duh5JWw2fiU3z4LvYqdpRMQ++VNiOikl+Um60GcN9j7OK5VMEC8OcydbWZzmf4UldwFLuyddOcoylfRDTe96tV2KCwbbHa2XFXxZCV6sMK401SOeUm5M2RP674kGr+/NgR0YCgXAG7GFVpixla+WsxetZx18nuFvBvmF/jHn8sUUxr9WvUPJSnoUbCSi4lEdMMtKAsIIYNHlBqGJnJN9nIbsRt7VBV3FJ8HMBeitYOxrMessnAwAaOqzDJ7Q5trRcLdyD4yXE+3U+h4JA/Y3z+050G/OHo96lGy68duKWU+UecsvWYQkRWpASqEI8RjrtxfP8ubqrNQcgqk7+zvZSNdwIIFgiZBr/BIJ2DLbqD85lYhs5ZYH5O5AyzC4xx3Op5/AHmtaOBQ169B7SRzp1c2c9xtXTVLhZzpKLycb22l1Zb1j0p03vxgIL4QAVdr9XGOyil/SDqCXvNQ2vEKOjFwQ1XlynVfeMixMV7vHejKQRgQ==;xPBZckbulriGn9ksLgM6jQ=="
 ---
 

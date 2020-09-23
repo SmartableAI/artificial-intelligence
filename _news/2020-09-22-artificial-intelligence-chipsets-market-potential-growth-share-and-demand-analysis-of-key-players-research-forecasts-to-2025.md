@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"AI in Computer Vision Market Research Report by Component, by Vertical - Global Forecast to 2025 - Cumulative Impact of COVID-19\" -  The Global AI in Computer Vision Market is expected to grow from USD 3,"
-    publishedDateTime: 2020-09-18T22:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-in-computer-vision-market-research-report-by-component-by-vertical-global-forecast-to-2025-cumulative-impact-of-covid-19-1029603995"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
     excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
     publishedDateTime: 2020-09-21T10:31:00Z

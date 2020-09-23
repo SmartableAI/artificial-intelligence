@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
+    excerpt: "Azure Networking, writes in today’s blog post. “With our intelligent cloud and edge strategy currently extending over sixty announced cloud regions, advanced analytics, and AI capabilities ..."
+    publishedDateTime: 2020-09-22T16:11:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
     publishedDateTime: 2020-09-22T15:00:00Z

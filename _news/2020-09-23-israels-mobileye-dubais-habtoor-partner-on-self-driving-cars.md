@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-m
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zzzzzzzzzzmobileye.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Mobileye teams with Al Habtoor on UAE autonomous cars"
+    excerpt: "Israeli autonomous car developer Mobileye and Dubai-based Al Habtoor Group (AHG) today signed a memorandum of understanding (MoU) for strategic cooperation to bring mapping technologies for Advanced Driver Assistance Systems (ADAS),"
+    publishedDateTime: 2020-09-23T14:52:00Z
+    webUrl: "https://en.globes.co.il/en/article-mobileye-teams-with-al-habtoor-on-uae-autonomous-cars-1001343639"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/c26_01800.jpg"
+        width: 800
+        height: 392
         isCached: true
 
 secured: "ngnVhStcNKd2yXoMkKWIF0AUk+IeEN51XFftaI3GM7HgB7JfjoBB58fQGv0qnIVvP5AmRDphX4HjNFgBPKBYXlrnhMIKNjuAY8Eh31irup3KzfhlIWPj5LwKhqHeaI8mWMJLY9n8PY69+BAg73GuEC/uL/UyqLtGuOIt3Z9lMqpEwTwcqe1BCOcBf7FFZ22aHLMYQBxpjD4uxp9HNYLshD4ImtmoXfPNhQzrVvMVwdzD9mjau64Nb75wvz09msB/gmOCctYECtQgFMO+mn633Hd+uvnsksjyGpJfMH/wQGnDoHijBl2dRs1FdSTLTwq2ObUkblurOgRKqgJJPvLVvpQpUphsn/mTzrAcy/8bbA72JrVeo6U5DD3Zel2bRtnu0nQATXSGJ7isMjsNSRdL31RmKSv5QCW0hvgA8BHY2bJ9ie/+d311d42JGSL9Ev7y1GuDHdNkb3x/D9EndAiA9G5woHIOCs7QIYyDUOIwVkl7tP1MpKWASigT1jlJeIirrd3GEXNd97ICz++CT2Onig==;gkeig5PFu7om6i6BbTI5dg=="

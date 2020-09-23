@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-23T12:03:00Z
 originalUrl: "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923"
 webUrl: "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: news
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202009/mit-prof-regina-barzilay.jpg"
@@ -28,6 +29,6 @@ images:
     height: 2000
     isCached: true
 
-secured: "ozy4L58zNJZnYTIEtbQ9bJfTPt/kYJcRiExZ2DtflU1d7lQnU2ZSmn5nwAZf3GOiopygAd+PFArxE22yRA7CbBC4o5/doUlTWomCwjt+78b8y85qUZIpOWQvpAY0PKO/g6PMapqTV+mEjHW0Z2rSfrfBmT7wps9Lh1+PEM0F39gWirKTSKli8A4YawMK72u9eh2YvR94Nl1A2dmXJkCrLK7bAJFAE/piY4wm3lRUYA79fOJVy0cFmBPMk5pLsATyNYgoXXOW90qeTsd5TW/8ZG5AFrivEECrNlhPltTF0A/1pVKHmHNAF9UiI1y/OfAwLNasa0L8jzMOkR/7b7CRFzsSUUKDX99iLR0afoB/h4E=;wTnu5BCnN1VkYpNosWRvLg=="
+secured: "013w3fSVLSVP4gNJDgpUIaiFDoFsKlVvQknWoz/2Iuvrxhct7hkqzRMYnZfU7+1+RyJODcnsbDayPK9XmV+2CmfVTdodNbhstuPK0gpYt4oBP8ByZjNoYp1zxoVZLGj6+7VTXI+4vnMAka/tKjoBdQbMDhPWQAQYTEi/anJIdi9V0rzkpGQ3mdKD5g6/d2juVijVcUcyVaxxGzBnY23SsXbUdrmM3XS3laCkHr2iaEBc72QhVVIhr2zrTy+BgdBAAHb56bMk4sQvmjb7/myV0yZAJ2M2kDo45TTC8DO3LV1/mgV2nRoj7MAS1jJq//+b3aIs0S9MgXUqDe1tmwC0ZvJ2d5SOBAnirQqC2ufThhXz4EK8cYu7IaTMpgUTSz0Wt/G/3KdOfadtVhzOr0D3gn30QHXwv68OHNnM+nrMDlhGzlKKkbrvANssQQVXJLJSv8dNY+rtq2qbnhE4V6UymtbGQ6Dr6GAJBU5+SzjRntlVNOdE9/FiYRzCcpNm0KuERVYmoWx+VA0OLTnx41nusQ==;Dt9N1KqVIDJxJ4/NjeDKdg=="
 ---
 

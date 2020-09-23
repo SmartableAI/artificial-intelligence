@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
+    excerpt: "Azure Networking, writes in today’s blog post. “With our intelligent cloud and edge strategy currently extending over sixty announced cloud regions, advanced analytics, and AI capabilities ..."
+    publishedDateTime: 2020-09-22T16:11:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
     publishedDateTime: 2020-09-22T15:00:00Z

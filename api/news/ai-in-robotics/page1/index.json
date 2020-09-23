@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
+      "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
+      "excerpt": "As these disciplines undoubtedly continue to impact society, newer fields like artificial intelligence (AI) and robotics have also begun to profoundly reshape the world. In recognition of this, the world’s largest AI society — the Association for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
+      "originalUrl": "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202009/mit-prof-regina-barzilay.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs.md",
       "title": "Volkswagen’s Truck Unit Ties Up With TuSimple On Robot Big Rigs",
       "excerpt": "TuSimple, a startup that’s developing self-driving technology for heavy ... (TuSimple is also a standout member of Forbes’ 2020 AI 50 list of companies to watch.)",
@@ -1328,48 +1380,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
-      "title": "Voltas to invest in smart products led by AI, robotics",
-      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
-      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
-      "publishedDateTime": "2020-09-11T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

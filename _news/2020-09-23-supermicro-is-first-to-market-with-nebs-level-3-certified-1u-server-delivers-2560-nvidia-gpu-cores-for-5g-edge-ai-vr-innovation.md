@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Supermicro is First-to-Market with NEBS Level 3 Certified 1U Server -- Delivers 2,560 NVIDIA GPU Cores for 5G Edge AI & VR Innovation"
-excerpt: "\"Supermicro is first-to-market with a 1U NEBS Level 3 V100 GPU accelerated server, a key enabler for the transition to 5G, with industry adoption of the most advanced applications and workloads found in AI/AR, and IoT,\" said Charles Liang, president ..."
-publishedDateTime: 2020-09-23T13:26:00Z
-originalUrl: "https://www.marketwatch.com/press-release/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server----delivers-2560-nvidia-gpu-cores-for-5g-edge-ai-vr-innovation-2020-09-23"
-webUrl: "https://www.marketwatch.com/press-release/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server----delivers-2560-nvidia-gpu-cores-for-5g-edge-ai-vr-innovation-2020-09-23"
+excerpt: "PRNewswire/ -- Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions and green"
+publishedDateTime: 2020-09-23T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server----delivers-2-560-nvidia-gpu-cores-for-5g-edge-ai--vr-innovation-301136316.html"
+webUrl: "https://www.prnewswire.com/news-releases/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server----delivers-2-560-nvidia-gpu-cores-for-5g-edge-ai--vr-innovation-301136316.html"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1279730/Supermicro_Network_Equipment_Building_System.jpg?p=facebook"
+    width: 1430
+    height: 749
     isCached: true
 
-secured: "WkXQD2ww52g/G3cd3uK4VhVtvH5AxTZe3ZzAkagq8td+bly8eGrgQ2YxVX/xwIzIEJNm2QarX18wNk4EAGJgA/8PQXFmDV+Oqw+Dk1v63ZVM3cNVKTnn+TmOwVW0EeadjzAR4qn84Th14GA+4WyN0fS36VSLhqZNwUV/AThF+USIOX0Nt8+hyWrhWIr5m+OnRwlS4XzpsM2Hh2THl5uqFrhSRscLQlijLLTCsX25Kb9Y0Cfb2WHgurmwR1fx8qX28oJzgeMHlIq95AtcbNsNRL3RJ4IEauI2tFhId0woWKYDb2DugPoKYUoTXFydfmlKRhs0lS0paBNsqLj5zKefoBKW4973u5nrBQ5sFl9QnyE=;DICX1igubeQxAKqpzhujlA=="
+secured: "ETXF8C9CKJQ75ka/9gRX/VtTH0VUiLBOxtpb0txMN9eDy/KJLoj0aCpnzXp/wJ0vmITnyp1QZ8RayxkiX9/IajBLkcso+u5FY3cC9BpGAu7qjCToKTncZ2dP8fpEG3pfqrov3N/F38Jr3FzNZjnHZkvvWRptDmuW8tAPimpjRraLWDYGVtt7M/gBsE90v8pS/EbNvhBdbUKX3AJCVkeH1LMeW6kl9Ko0AWBilfeoFWh2z/LBpVJ22piCeKrNrqd8QmjD0e1CYxdWjjirJYzZ9jTQMXWuQ9TCHM7mVwx+8ZnD+0niwW+KhA4vYqAtAsFKKeA82ajD6b+X/k+MkGuMc4ItgiUZdv6A/L0l5zj+EMk=;AJXBG8shLSkmsrStZgzksg=="
 ---
 

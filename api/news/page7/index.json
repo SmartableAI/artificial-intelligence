@@ -2,6 +2,107 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-16-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Spin the Model Challenge",
+      "excerpt": "AWS is excited to announce the winner of the second AWS DeepComposer Chartbusters challenge, Lena Taupier. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched the Chartbusters challenge, a global competition where developers use AWS DeepComposer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/15/1-Lena-880x630.jpg",
+          "width": 880,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T09:13:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions.md",
+      "title": "AI-powered ship sets sail for sea trials and environmental research missions",
+      "excerpt": "The Mayflower Autonomous Ship today set sail from Plymouth on the southern coast of England, 400 years since its namesake left the same port to take the Pilgrims to Massachusetts,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-16T154312.212-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/16/ai-powered-ship-sets-sail-for-sea-trials-and-environmental-research-missions/amp/",
+      "publishedDateTime": "2020-09-16T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-elon-musk-says-self-driving-electric-cars-in-tunnels-under-cities-will-feel-like-warp-drive.md",
       "title": "Elon Musk Says Self-Driving Electric Cars in Tunnels Under Cities Will 'Feel Like Warp Drive'",
       "excerpt": "The Tesla and SpaceX boss announced on Twitter this week that The Boring Company's first operational tunnel in Las Vegas is \"almost done.\"",
@@ -1105,107 +1206,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
-      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
-      "excerpt": "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
-      "originalUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2663FU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU",
-      "publishedDateTime": "2020-09-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully.md",
-      "title": "In 2020, Warsaw’s startup ecosystem is ‘a place to observe carefully’",
-      "excerpt": "If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1154020009.jpg?w=1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/amp/",
-      "publishedDateTime": "2020-09-15T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

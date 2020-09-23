@@ -2,6 +2,98 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-08-26-ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute.md",
+      "title": "UT gets $20M to focus on AI technology and lead research institute",
+      "excerpt": "The University of Texas at Austin will become a research hub for the next generation of machine learning and artificial intelligence technology, after it",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
+      "originalUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200826&Category=BUSINESS&ArtNo=200829244&Ref=AR",
+          "width": 1627,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
+      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200826/ut-gets-20m-to-focus-on-ai-technology-and-lead-research-institute?template=ampart",
+      "publishedDateTime": "2020-08-26T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-26-samsungs-new-washing-machine-will-use-ai-to-take-the-guesswork-out-of-laundry.md",
+      "title": "Samsung's new washing machine will use AI to take the guesswork out of laundry",
+      "excerpt": "Samsung's latest washing machine aims to take the confusion out of doing your laundry. According to the company, its WW9800T washer relies on artificial intelligence to automatically choose the correct cycle settings for the task at hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "originalUrl": "https://www.cnet.com/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/7Epr8r5PH0YkPfFfQlQ9-wXve9I=/756x567/2020/08/26/a791c44c-7b8d-4d26-880e-1d86b29019f1/04-ww9800t-upcycling-kv-h.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-washer-will-use-ai-to-take-the-guesswork-out-of-laundry/",
+      "publishedDateTime": "2020-08-26T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-new-neural-network-differentiates-middle-and-late-stone-age-toolkits.md",
       "title": "New neural network differentiates Middle and Late Stone Age toolkits",
       "excerpt": "The change from Middle Stone Age (MSA) to Later Stone Age (LSA) marks a major cultural change amongst our hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward.",
@@ -1054,98 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-coronation-see-the-haunting-trailer-for-ai-weiweis-movie-about-chinas-lockdown.md",
-      "title": "Coronation: See the haunting trailer for Ai Weiwei's movie about China's lockdown",
-      "excerpt": "The Chinese artist and activist directed and produced the documentary from Europe, with ordinary citizens in Wuhan providing footage. It's streaming now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
-      "originalUrl": "https://www.cnet.com/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/ZyRvm2NT1PzwvmdSZk-5wqIGIFI=/2020/08/25/ea810922-d2b4-41ef-b070-ff16382e4bd5/disinfect.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/coronation-see-the-haunting-trailer-for-ai-weiwei-movie-about-wuhan-lockdown/",
-      "publishedDateTime": "2020-08-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-astute-recognized-for-innovative-use-of-ai-in-2020-artificial-intelligence-breakthrough-awards.md",
-      "title": "Astute Recognized for Innovative Use of AI in 2020 Artificial Intelligence Breakthrough Awards",
-      "excerpt": "Astute, Inc., a leader in customer engagement technology, today announced that it has been selected as the winner of the \"Best Transactional Bot Solution\" award in the 2020 AI Breakthrough Awards program conducted by AI Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19394436.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19394436.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

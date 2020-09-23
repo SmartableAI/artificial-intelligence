@@ -2,6 +2,91 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
+      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
+      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
+          "width": 555,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyShow.com",
+        "domain": "moneyshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-new-machine-learning-features-data-integrations-and-upgraded-classification-engines-available-in-grooper-version-29.md",
+      "title": "New Machine Learning Features, Data Integrations, and Upgraded Classification Engines Available in Grooper Version 2.9",
+      "excerpt": "The platform combines patented and sophisticated image processing, capture technology, machine learning ... first solutions in healthcare, financial services, oil and gas, education, and government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-machine-learning-features-data-integrations-and-upgraded-classification-engines-available-in-grooper-version-2-9--301100876.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-map-out-financial-crime-with-machine-learning.md",
       "title": "Map Out Financial Crime with Machine Learning",
       "excerpt": "Discover a smarter risk based approach to fighting financial crime, powered by analytics from Oracle. Learn more.",
@@ -1020,99 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine.md",
-      "title": "MIT develops machine learning model to quicken release of COVID-19 vaccine",
-      "excerpt": "OptiVax tests potential vaccines for efficacy and population coverage, then designs vaccines for testing, all with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/02/2fe5b8ac-05e6-4864-af5e-53a826a43cbb/resize/1200x/61d45b868cfcaadf844b70cdcce59491/shutterstock-1703465413.jpg",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "publishedDateTime": "2020-07-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
-      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
-      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
-          "width": 800,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "publishedDateTime": "2020-07-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

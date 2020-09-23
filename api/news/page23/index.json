@@ -2,6 +2,108 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-04-how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time.md",
+      "title": "How Google Maps uses DeepMind’s AI tools to predict your arrival time",
+      "excerpt": "But, as the search giant explains in a blog post today, its features have got more accurate thanks to machine learning tools from DeepMind, the London-based AI lab owned by Google’s parent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
+      "originalUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zheTUrBWYKlWrP_H7ECvdNWdJOM=/0x266:3704x2205/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21849025/1211180776.jpg.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/2020/9/3/21419632/how-google-maps-predicts-traffic-eta-ai-machine-learning-deepmind",
+      "publishedDateTime": "2020-09-03T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations.md",
+      "title": "Google Maps and DeepMind enhance AI capabilities to improve route calculations",
+      "excerpt": "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "originalUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg",
+          "width": 1055,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
+      "publishedDateTime": "2020-09-03T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy.md",
       "title": "Nvidia’s New 30-Series GPUs a Possible Headache for the Competition; Analyst Says ‘Buy’",
       "excerpt": "Nvidia’s launched its new PC gaming GeForce graphics processing units, the 2 nd gen GeForce RTX 30 Series – the 3090, 3080 and 3070 GPUs— all based on the compan",
@@ -1052,99 +1154,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap.md",
-      "title": "OpenAI reveals the pricing plans for its API — and it ain’t cheap",
-      "excerpt": "The company says developers can apply it “to any language task — semantic search, summarization, sentiment analysis, content generation, translation, and more — with only a few examples or ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "originalUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Untitled-design-2020-09-03T133902.980-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/03/openai-reveals-the-pricing-plans-for-its-api-and-it-aint-cheap/amp/",
-      "publishedDateTime": "2020-09-03T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy.md",
-      "title": "Apple may add infrared thermal imaging to the iPhone to help AR accuracy",
-      "excerpt": "Future iPhones could use thermal or infrared imaging to supplement regular vision cameras, making it easier to use Apple AR in dark or busy environments.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
-      "originalUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/37477-70376-000-lead-Apple-AR-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/09/03/apple-may-add-infrared-thermal-imaging-to-the-iphone-to-help-ar-accuracy/amp/",
-      "publishedDateTime": "2020-09-03T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

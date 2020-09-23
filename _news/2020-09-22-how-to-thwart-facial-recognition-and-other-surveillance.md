@@ -102,6 +102,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial Recognition Tech That Works With Masks"
+    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
+    publishedDateTime: 2020-09-23T15:34:00Z
+    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
+    type: article
+    provider:
+      name: APEX
+      domain: apex.aero
+    quality: 39
+    images:
+      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
     excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
     publishedDateTime: 2020-09-20T07:15:00Z
