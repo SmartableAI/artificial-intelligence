@@ -54,6 +54,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PZIi4PY4KzgyMOR8RMunvPFEZbJ+LpBFIXvEEI2Sa92QDlvBR68KCJ2nTA/XCC/fHJ0wZ5Dq5yGXSLf6Ve3KJgROKMnzXmuujkPhBy+0B9ndJqHNrPs3TWqHcYwyrPrwrB8hxzMF1IacNTu1ac1nhbdGBAXnYHRH5Bs13Ey5BZsb0vOdHgcF/HvjmnrkGlxQAGorLHZZbayFBWSYOhjldGUlmCFR7dSigtCf4gFGU2B0cyhG7D5Je7FE16rARBC+A2jqlvSuq9cmLV3mTU0O8n0rSrZuwnoC1Fx8pKfPOEhCC0AXQC+Q6Pbs6fEJdQHJ67/kr3nTYloe0pS9XTchHgUl77JsB2tiag1P0HKMAuc=;3hg5FfJNIREF0nLlAoAAmQ=="
 ---

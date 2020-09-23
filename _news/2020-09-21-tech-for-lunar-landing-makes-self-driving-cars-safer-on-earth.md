@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Tesla driver found napping behind wheel of self-driving car at 93mph"
-    excerpt: "Police around the world have made a series of arrests of drivers who had been asleep at the wheel of Tesla cars"
-    publishedDateTime: 2020-09-18T09:37:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/09/18/tesla-driver-found-napping-behind-wheel-self-driving-car-93mph/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/09/18/tesla_mr_image_trans_NvBQzQNjv4Bqql6ZVqw2K9kLBBgaKs87NIpcJcYmaR3n9ZH-3CaApuA.jpg"
-        width: 766
-        height: 479
-        isCached: true
   - title: "Uber self-driving car operator charged in 2018 pedestrian death"
     excerpt: "(CNN) — The Uber test driver who was responsible for monitoring one of the company’s self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."
     publishedDateTime: 2020-09-18T15:18:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
         width: 5300
         height: 3535
-        isCached: true
-  - title: "Man 'Asleep' In Speeding Self-driving Car Charged In Canada"
-    excerpt: "\"The car appeared to be self-driving, travelling over 140 km/h with both front seats completely reclined & occupants appeared to be asleep,\" it said. According to Canadian public broadcaster CBC, the car was an electric Tesla model set to autopilot and the man charged was 20 years old."
-    publishedDateTime: 2020-09-18T10:15:00Z
-    webUrl: "https://www.ibtimes.com/man-asleep-speeding-self-driving-car-charged-canada-3047980"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/police-tape-secures-a-crime-scene-outside-a.jpg"
-        width: 1024
-        height: 672
         isCached: true
   - title: "Uber self-driving car operator charged in pedestrian death"
     excerpt: "The Uber test driver who was responsible for monitoring one of the company's self-driving cars that hit and killed a pedestrian in 2018 was charged with negligent homicide this week."

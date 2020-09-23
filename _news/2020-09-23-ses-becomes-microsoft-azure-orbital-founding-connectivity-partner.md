@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17611271"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 620
         height: 414
         isCached: true
+  - title: "Azure Orbital Will Connect Microsoft’s Cloud Data Centers to Space Satellites"
+    excerpt: "Microsoft announced plans for an Azure Orbital satellite ground station service and a colocation agreement with satellite broadband provider SES. “We are extending Azure from under the sea to outer space,"
+    publishedDateTime: 2020-09-23T02:51:00Z
+    webUrl: "https://datacenterfrontier.com/azure-orbital-will-connect-microsofts-data-centers-to-space/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 51
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2020/09/Satya-Nadella-Ignite-2020.jpg"
+        width: 740
+        height: 467
+        isCached: true
 
-secured: "DkCeMQVTIx7UvPvTzk7USwjfZvSdJqLlQoth09eF53vmUf1qaJ+G3WEFl+XAxBfhLVEHAYMbF0TZHbH0bqu7j76CGO+r2gzB4y2W4qHwHvyUxhNfo4c+YPAg0QbHyOx0BdRFdV8pC1a2alCNaVSRkq+4nTx9wFFFmQHNB6JTrembJUH+HkXq1eFnuIdNB2mJf1/Vw7V7N1YgOhQdN615vFxhlQRDewhyHlSBt+zjSyNzwbEBcY1RlugVvLAuYb8p3r4eF2p30HPza7y9aDPvYe5RDdeA8fSjUy92CKb3ua1/yvMu2PSysvVhaAShHAKCOtqKh6gbRFvMSdWoZ7I23q/vrlyc9eH+xPv+5HFQPoY=;xt3j7CQTZzRbJi1HtcjCug=="
+secured: "BLFCjjDkkjZcGLLoUtCtii0uJcVfTr6mV49ikxMq3pOzySsxWKBnEm7t7Tt8/x0DBpHaVa2/exdOyU60qbAuekCkVPyvxvhFo5qnKFlBGPONAjzjJVoQDXHKf6KzDMfCIO1uVy6MtXlHjk1+C/ukPMBJsBEQn+JxbbYHDgmlEv3JzLW75+9+gFaWFkJpNVtmvJ3OgsFYSIUUbeHiWW7aZ9amqfYNRzPc9SCRCJUH2Lz+I2rrnw3ZsUztu+1Z6ILSRncjU+j/VjLb3Q7Cr+IX/auj2zu7v7FcNd9Z5zuMkEq3Lj80QfF/+sb2DOI8SrF0WNAOgCzQCTtd4UGK/5C7yWSYo2u3T2M5+rgsiAbQjf9MfiWSNEOisrg6N65dsGUB2qzEvMWpuzr84OojjH7kLpusoiCMgfnmAw4/aEon8N54FBQ4ryhRRGKh4I65UM01oc4FwxXPgrUguEQRqD1+wlR/0MuZQYeWJin8bm64NO/4Inz4IadalTHJ8j2i7VvprRlnyR3tftrUtA+S9GZvSw==;vpyCuiDagvmNowVi/UeMEQ=="
 ---
 

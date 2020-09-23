@@ -57,6 +57,20 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Deploying support chatbot using azure microservices architecture"
+    excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
+    publishedDateTime: 2020-09-22T01:03:00Z
+    webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
+        width: 784
+        height: 329
+        isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
     publishedDateTime: 2020-09-22T20:51:00Z
@@ -99,6 +113,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "YgQovjxBkSawEdLtryCC4m7M5MNaXm2XGzb6BFfnmIzZ1kPv2ZYKRfOk3Q1NqlW/mgB3YxyV4WuPQ/Hmm/796yeNxlq9jbe1Jioch9Hzth71tWnbv41aUNt/0L7GvvieZdohx1l9G3i4oeQq42eABRO4dwPbGqnxATt5jSOy7ytsKKjpdRgB2x2ffi0YcnYJ1cUH/nXdfHYBuMamBhMpKV+qMFElr77d38w7UtzT9zYd+qnOq8UtIDFPwIi+xHUTd7VYLhfAVYg1OFy7lQ3Fq9P05y4mak+Dg+79WBktltaLYk5GVl4zkaAEqAxaHMNk5PXfj6D9KaaMzoJK94mzx3oVDobJ2X+oXxRQwko2lfQ=;QQhG+Fjc8hIYp2LdSu3Zhw=="
+secured: "q8op70bRqUMBFGCo5jjRWU7lYYMjECMWYwq/4ZTlDRA4Qlb+IBGXkLzFKwBKQUpf3rTz+rDADT6Sh5MhRPmjUipTHzylOzwUF3yxx7UNd/rYEWu9FOjmdNFORKYEg4yFOWSOw93LU1IyhmJmj2nsIgFbazMZbJOO3PRfvWsJ0wZFAHohtcvDkc7MEvy3Upi+ljhEqZfGf0FnWFWYUe00cHO7bJwM+iDOCk0X99KDAgrur2z8Y7oXQ5GlyyMN/hYouHv4w776UW80b+HNykQNC7qYz2V+eAD1AFQb7hIN45eSX648suNL+tmpTw/9mf1o7GenCqPyKIDBrIaKoK5KW/wpBpjXrOHDPMKuyXNgAHElIulm3QM1R1/TohH2Z6Z3+vD4ZjjZh0608EJCxamPlTlHNtq30At9H5azuUqA1h8IBSOIWHGjs2EB0COdE2t4pUVCII3w8PtFd1lK4XTY7V7tho94KPAPEbmfK17Gs0UldgLf4DhYdOljlWAkBX1s+XkNwxoY+0RovZhy7PVOiQ==;M1dX/gXNReEpj81BlE+77Q=="
 ---
 

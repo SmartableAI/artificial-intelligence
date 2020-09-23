@@ -2,13 +2,10 @@
 category: news
 title: "AI Image Recognition Market Global Outlook 2020-2025: Google, IBM, Intel, Samsung, Microsoft, Amazon Web Services, Qualcomm"
 excerpt: "March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ..."
-publishedDateTime: 2020-09-09T03:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08"
-webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08"
+publishedDateTime: 2020-09-09T04:14:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news"
 type: article
-quality: 58
-heat: 58
-published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ydp4ky145JPP426qpfwazKT4rLscCOZOU8WAsEjJYn684x58paXu4kQg2SobazZN+Q7fVmpxDwRIlSEXTLiIfSnwx6bMwfiUJEg8GJf7FGrud3TLd7gno2AsXNBJ3IjSlZgPNqm3ozhGl6nc8ewP66WHv0THvVm6r1yr7iYDbCbRJ/QIOPuGzkZoAIJuzqWAHmFhfhs8sUQNoNJ0N5MCLsSjb9tUQGExv/4LHz5ME95QspuJtJfERpfjRnOWg207aioyLmkuUT+Y5nYLuU2+09ZzBcOXQ9HobQPU8ehNNQTEsfIhujhcqDFDK3x2hbPYRAaiq61oNVlpCwQUTDi/LbbB/ZQt/YBMeQuGzPzpEsk=;vT71uuBXxDwU11348LYuww=="
+secured: "q96idS92Gw0xblELhdvAvGc/yBoGF2mt4Q7xH3W/4yCEvhwQhdNrw/IdgFRhNBDHyFoH4lOf5dgHpIcumHUs/1MXaDZC4t/y7Q3wGlLImWGb/K8l0F+ZzkXrqkxV4iR2Av9f8ArJzGe2FwLZ/YXQH3AlChU68K4iZmvwz1hspStOMuRrM5lnmIYJ27GdChh95rQIg6d3cuoOcvhONLLnayjytphOl7HXzeWiZQe2UA5QauNCIbEP7sQWepoauy825It9Fg/NuTP5ik27Uv11EcbOr19slgSYSQIp0HPmRmHbDTj27r7FSjvGcZ9PfzKRdGdkW8r29pBKyi8damUzIaZliR8nN8Hx91hEsOXfpEw=;Lt4xcYw1tgU4qtWUyEHfnw=="
 ---
 

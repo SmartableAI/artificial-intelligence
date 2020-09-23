@@ -37,15 +37,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence In Agriculture Market MAY SEE A BIG MOVE | John Deere, IBM, Agribotix, Microsoft, The Climate Corporation"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2020-09-18T10:02:00Z
-    webUrl: "https://ipsnews.net/business/2020/09/18/artificial-intelligence-in-agriculture-market-may-see-a-big-move-john-deere-ibm-agribotix-microsoft-the-climate-corporation/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "aRz1Af3jxY/8wtGfpLCn8YZ8klv0W1chSmLJJ/ldoAVL3/mBwTTxxQ8zdhlbI8PJVMEB8cIzt+lZ7tjEKOtCPQuRGRTPLKAi6H4hpt9mu7saTHf6a8IV1CGdFR5/0Wa9vMRVkgftvxZham+7t0S3Jig/gfpAJFJ8+n9lE/2gCmLYuGJRf93vViPBAZzwfy9TKcS6P0qE+FvxZ0wHmqcajUa5xBIKi1DgCFwINGSMXZxEKE7oGU0DpoLZUbCyjzn9pGwGm94WH8Aut9UMX7rIjqMGt+huEYOJay6Pjume+SsyoCCgpkp/eHPP+9pk8RCiIhlpRwBnQOqx7v+zi1PAZn7QM0YpAW8yKWAuuBMzcDoOs99fK2ciUhnnD4uBd73ieVmo/gvZYNCCDNr0nLZa9C+4dA0nwNWMMbLdfsaT5ydDTRBoqhEuUXFmC8nChjiHRzc3nbOEwFA5rlansnTlyinh2zhjATWKhwpvBh+UMDU9eMSUVDZAbkySkJ+AxtIdnyyBMLig0GmoSE7txRUKeQ==;vQxPSyn/mxGipSm8OgljFQ=="
 ---

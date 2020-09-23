@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568</loc>
+    <lastmod>2020-09-22T20:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/</loc>
     <lastmod>2020-09-22T16:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -67,6 +73,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19</loc>
+    <lastmod>2020-09-22T08:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/</loc>
     <lastmod>2020-09-22T08:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -109,6 +121,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -145,6 +163,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.zdnet.com/article/this-is-an-ai-whats-your-emergency/</loc>
+    <lastmod>2020-09-22T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/microsofts-new-feature-uses-ai-to-make-video-chat-less-weird/</loc>
     <lastmod>2020-09-22T03:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -165,6 +189,12 @@
   <url>
     <loc>https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/</loc>
     <lastmod>2020-09-22T00:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7</loc>
+    <lastmod>2020-09-21T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,6 +313,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21</loc>
+    <lastmod>2020-09-21T03:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html</loc>
     <lastmod>2020-09-21T03:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -381,12 +417,6 @@
   <url>
     <loc>https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/</loc>
     <lastmod>2020-09-19T09:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure</loc>
-    <lastmod>2020-09-18T20:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -531,6 +561,12 @@
   <url>
     <loc>https://qz.com/1905159/microsoft-is-shaping-facial-recognition-bills-across-the-us/</loc>
     <lastmod>2020-09-18T02:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.bitcoin.com/gpu-manufacturer-nvidia-buys-chip-maker-arm-for-40-billion/</loc>
+    <lastmod>2020-09-18T01:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -765,6 +801,12 @@
   <url>
     <loc>https://www.forbes.com/sites/charlestowersclark/2020/09/16/do-algorithms-dreams-of-electric-speech-what-virtual-philip-k-dick-can-teach-us-about-ai/</loc>
     <lastmod>2020-09-16T11:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@mpchannels/machine-learning-based-object-recognition-system-as-a-blind-aid-7214f668f4b2</loc>
+    <lastmod>2020-09-16T10:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1489,14 +1531,32 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13</loc>
+    <loc>https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news</loc>
     <lastmod>2020-09-13T04:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/analytics-vidhya/custom-object-detection-tflite-model-for-android-using-tensorflow-3d76e31afbc4</loc>
+    <lastmod>2020-09-13T03:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.npr.org/2013/09/13/215843842/when-will-driveless-cars-be-a-part-of-our-everyday-lives</loc>
     <lastmod>2020-09-13T02:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@pranavi_vashishtha/how-i-see-deepmind-as-a-promising-future-for-machine-intelligence-28770c17f07f</loc>
+    <lastmod>2020-09-13T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562</loc>
+    <lastmod>2020-09-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1509,6 +1569,18 @@
   <url>
     <loc>https://www.businessinsider.com/elon-musk-neuralink-animal-testing-benefits-2020-9</loc>
     <lastmod>2020-09-13T02:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@notyourtypicalSTEMasian/my-exploration-with-and-exploitation-of-aws-deepracer-3646ae152e8f</loc>
+    <lastmod>2020-09-13T01:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/north-america-self-driving-car-market---global-industry-analysis-size-share-growth-trends-and-forecast-2020-09-13?mod=mw_quote_news</loc>
+    <lastmod>2020-09-12T22:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1533,6 +1605,12 @@
   <url>
     <loc>https://www.newindianexpress.com/lifestyle/food/2020/sep/13/artificial-intelligence-and-the-future-of-food-industry-2195156.html</loc>
     <lastmod>2020-09-12T16:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@a.jeremymah/behind-the-eyeballs-of-ai-how-neural-networks-work-207c31e0b1ff</loc>
+    <lastmod>2020-09-12T15:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1627,6 +1705,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://medium.com/cracking-the-data-science-interview/datacast-episode-42-privacy-preserving-natural-language-processing-with-patricia-thaine-e16a3a37c3a4</loc>
+    <lastmod>2020-09-11T11:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html</loc>
     <lastmod>2020-09-11T10:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1683,6 +1767,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3101168/baidu-opens-its-robotaxis-public-beijing-making-it-third-city-china</loc>
     <lastmod>2020-09-11T07:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/@naveengupta_88223/ai-will-change-the-way-events-are-planned-and-executed-db404bfb3308</loc>
+    <lastmod>2020-09-11T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1993,14 +2083,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/</loc>
-    <lastmod>2020-09-10T02:25:00-07:00</lastmod>
+    <loc>https://www.thehansindia.com/tech/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-644777</loc>
+    <lastmod>2020-09-10T02:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/microsoft-joins-nasscom-to-skill-10-lakh-students-in-ai-by-2021-news-topnews-ujkjkCfjeifad.html</loc>
-    <lastmod>2020-09-10T02:14:00-07:00</lastmod>
+    <loc>https://thenextweb.com/shift/2020/09/10/germany-wants-permit-driverless-self-driving-cars-2022/</loc>
+    <lastmod>2020-09-10T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2197,6 +2287,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html</loc>
+    <lastmod>2020-09-09T07:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/facial-recognition-tech-designed-to-id-african-faces-wins-engineering-award/</loc>
     <lastmod>2020-09-09T07:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2205,12 +2301,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/09/09/this-ai-crunched-the-numbers-to-make-the-perfect-tiktok-song-but-is-it-though/</loc>
     <lastmod>2020-09-09T07:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html</loc>
-    <lastmod>2020-09-09T07:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2233,6 +2323,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for-the-2020-season-2020-09-09</loc>
+    <lastmod>2020-09-09T06:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/conduent-teams-up-with-buoy-health-and-ibm-watson-health-to-help-its-clients-manage-covid-19-related-workplace-challenges-2020-09-09-81974627</loc>
     <lastmod>2020-09-09T06:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2241,12 +2337,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-2023size-share-top-companies-emerging-global-trends-development-future-growth-revenue-demand-forecast-2020-09-09</loc>
     <lastmod>2020-09-09T06:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.oaoa.com/news/business/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9b7cadd8-26db-58a5-b47d-0c0750c4bb3a.html</loc>
-    <lastmod>2020-09-09T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2299,7 +2389,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides?partner=feedburner</loc>
+    <loc>https://www.fastcompany.com/90546991/how-the-trevor-project-is-using-ai-to-prevent-lgbtq-suicides</loc>
     <lastmod>2020-09-09T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2343,6 +2433,12 @@
   <url>
     <loc>https://japantoday.com/category/tech/Self-driving-buses-being-tested-across-Japan-let-you-pay-with-your-face?comment-order=oldest</loc>
     <lastmod>2020-09-08T23:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08?mod=mw_quote_news</loc>
+    <lastmod>2020-09-08T21:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2805,6 +2901,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-to-be-worth-us-dollor-185-bn-by-2027-2020-09-01</loc>
     <lastmod>2020-09-06T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e</loc>
+    <lastmod>2020-09-06T04:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3475,6 +3577,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200902005892/en/AnyVisions-Fair-Face-Recognition-Challenge-Shows-Ethnic</loc>
+    <lastmod>2020-09-02T12:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/nfl-reveals-new-expected-rush-yards-stat-help-amazon-web-services/</loc>
     <lastmod>2020-09-02T12:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3483,12 +3591,6 @@
   <url>
     <loc>https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/</loc>
     <lastmod>2020-09-02T12:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated</loc>
-    <lastmod>2020-09-02T12:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3715,8 +3817,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/unsupervised-learning-an-overview-on-emerging-machine-learning-artificial-intelligence-approaches-1029555167</loc>
-    <lastmod>2020-09-02T02:20:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/09/g17345739/unsupervised-learning-an-overview-on-emerging-machine-learningartificial-intelligence-approaches</loc>
+    <lastmod>2020-09-02T02:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3765,6 +3867,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2025-2020-09-01</loc>
     <lastmod>2020-09-01T22:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medium.com/deep-learning-digest/facebook-ai-research-found-intersections-in-popular-qa-datasets-49d38514adb3</loc>
+    <lastmod>2020-09-01T21:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

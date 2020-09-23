@@ -36,16 +36,14 @@ related:
       domain: consumeraffairs.com
     quality: 37
   - title: "Kroger teams with artificial intelligence company Everseen to improve self-checkout"
-    excerpt: "Kroger began using Everseen in March. Its technology aims to reduce errors in the checkout process, particularly with self-checkout. Its goal is to make it easier and more efficie"
-    publishedDateTime: 2020-09-22T18:50:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
-    ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.amp.html"
+    excerpt: "Kroger Co. has formed a partnership with an artificial intelligence company in an effort to make the self-checkout process smoother. Downtown Cincinnati-based Kroger (NYSE: KR), the nation’s largest operator of traditional supermarkets, is teaming with ..."
+    publishedDateTime: 2020-09-23T02:55:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 31
+    quality: 11
 
 secured: "Yyd0WNRiqdQo0+msMaKN570eBF81E98LLafoQvlnkw2aJ1EUbFxH79w/k98Deh3wuDBn5M5U+ZQEUPK7cIbboomonVoOst9Px+I60ZKxFkPI/QKN4pUKGBX07HThuBnPEoxJccIbEPtuKiPbEO2L5/iCBg404pONdX9GG5YscTYp02NkK4LeXwiiMaB2IwOg/RScMyAYeChsuIeUDhfB/Zv3x7VIlnEfuiexsYNF8+IxivcyHoOUhZWpcfscAxPDGsiuKiYMmTS4CVerTYW1b8P7MvvbLPRUJQjxhdi5c9vhZuDnzixelHYbfnWnVCxp5yTbrYLxUvyxwlulUjrRtC8rSdfXKkbcJoP+rsWPykSgUlzfGaSBfwODBqc4EkOiRGQfPz6ucHXnR68YU8FyOOzCQlZSsj3cpe93j07rmk2+hoc0JaYiyG2KTzOC+dmMAeAmSH02U0+pWlfe+kyRaksfRyHHJr6ACWnZ62Pi3RH/H8B8aWSuf9F82y9kDaxeQFw7Mj3kYUpU2wZMQhdL7A==;kOWlFWlQhBVpORPhIWxPCw=="
 ---

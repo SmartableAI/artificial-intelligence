@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/explainability-problem-can-new-approaches-pry-op
 ampWebUrl: "https://diginomica.com/explainability-problem-can-new-approaches-pry-open-ai-black-box?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/explainability-problem-can-new-approaches-pry-open-ai-black-box?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2020-09/open-the-black-box.jpg"

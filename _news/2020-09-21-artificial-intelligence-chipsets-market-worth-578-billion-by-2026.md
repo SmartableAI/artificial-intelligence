@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
     excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
     publishedDateTime: 2020-09-22T06:55:00Z

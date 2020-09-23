@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/sports/2020/09/man-sleeping-behind-wheel-of-self-driving-tesla-was-going-93-in-a-68-canadian-police-say.html?outputType=amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said."
-    publishedDateTime: 2020-09-18T09:47:00Z
-    webUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487"
-    ampWebUrl: "https://www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/teslas-self-driving-car-breaks-speed-limit-after-driver-falls-asleep-in-canada-police-2297487?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2020-09/sbsv48b8_canada-tesla_625x300_18_September_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Canadian Police Arrested a Man for Sleeping While His ‘Self-Driving’ Tesla Sped Down the Highway"
     excerpt: "Alberta police have formally charged a 20-year-old man who was caught asleep behind the wheel of his Tesla while the electric vehicle was speeding on autopilot. Authorities were alerted to the scene on the afternoon of July 9th by a caller who noted that both of the front seats were fully reclined with no visible operator."
     publishedDateTime: 2020-09-18T20:13:00Z

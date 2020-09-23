@@ -3,8 +3,8 @@ category: news
 title: "Canada Artificial Intelligence Market Insights, Current And Future Market Trends & Forecast Till 2027"
 excerpt: "The market report offers a comprehensive business study that analyses innovative ways for business growth and describes necessary factors such as leading players, market revenue, and growth rate. This report also focusses on market volume and value at a country level."
 publishedDateTime: 2020-09-13T11:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13"
-webUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13"
+originalUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/canada-artificial-intelligence-market-insights-current-and-future-market-trends-forecast-till-2027-2020-09-13?mod=mw_quote_news"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Oc6uX6CfrKZfaiO3qRPPONfZHt5PBsqyt8RwHVDwrLEHwB2A9g1GSR2tRDoqAs6U7msBXY5QL5ItwEFiC+22zs+WMvS/fuO3HktatLNv+fu5urbLbZA9Qo8moh2MTbqbERA2bljkrBfilbmR3sR7ZagBNah9RI3LjBxA7jrS/VStkSIfCdWWaZBKMkz5K0MJ3si2cWVkSqSkjSIpHQYvty26N51dyEBoGAbBteutWu2B44AZ46afpNJKGDWnPTWL1n3Z0yUGgd459dHvMuhwvlmbFSENSihbZrtXIkYtLEPtk7WLLZZX0MRdpH1PGnB0IfNVQoq6XSLTWSNW6qIbIZ9X8DY3KU/K4wRsm0RNy58=;W3++UWccJKSCSIjOY1ixPg=="
+secured: "cZU9yHWXeDsD5FDOsxFlMo11iskj1aOwjXTNT8GtrqLY3lk2DIr0D2ppUuTiZPz0WUlsQBn2XB8UhLU2/8igkDkUUrymV2vxoZ8CbhSauuuMf8Noimze6jxCNKxuFzJO8kRL5QCcNqA76aM8JCbvTgiyx6Wm+ZVVhrGWed15q4IzDrcQFybabe2Lq+4RO3xZC6xEllN1WsKUUU2LhLIYJNM/teiAq0NDN6xQgeQx4eTcDxClkNPgz+37YkgzZaLaOgQIVYnY+suksLXNe/HFruPpcMOrcXNcC7L8gW0vH5J//73YYqCzQSNwq0YLzE5aYfsUxx6h629/dFW8vAewVlYIFztM/JRXblqVkwD2XFo=;fQLc4ltTJ4Z1KIt2GKl6mw=="
 ---
 

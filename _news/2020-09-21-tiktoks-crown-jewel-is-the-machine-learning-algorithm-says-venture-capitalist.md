@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-21T11:48:00Z
 originalUrl: "https://www.cnbc.com/video/2020/09/21/tiktoks-crown-jewel-is-the-machine-learning-algorithm-says-vc.html"
 webUrl: "https://www.cnbc.com/video/2020/09/21/tiktoks-crown-jewel-is-the-machine-learning-algorithm-says-vc.html"
 type: article
-quality: 50
-heat: 50
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106710287-16006828432ED4-SBEU-092120-EdithYeung.jpg?v=1600682842"

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users
 ampWebUrl: "https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5f655cfeaf1c7b1f76a6a8b4/master/pass/toxic-comments.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "5wwmiI2EggWsjsxAR92h/HI2/+0M5x5jv5OQvnQrzv1Xm3stBBmAtfHiAepauebBneM3BsdxOVMD3+m6+MRGYkRGOz5+nstarjeuhfMhNLtllGRyT5NpWcoD6tvu+4dD1h5/7oTG/Uoz5dCXDcIqGZCLNivo42Egc2fTj8M74TFk+U05wbF3yZMm7JjPCmUWx2sm/JpxuKSKV3Z0nmtGO3eCjffUGft0esPFZGNjfgBEPe4RCU6/EBPtG0x6uIdr1k6DW5bXgMoI+sDH7xCQWqp8naoQ5cPSVNEAS5A8PoTuhLdzbbnFXT0vmY0tTvoOWUpxQIhJ0lY3f+oFCvaxCwV4scNgBBzyDNkBBQ5OEMU=;Fwcs7IZ3VYLIjiNhc3K9aA=="
+secured: "hV8VSFCKrouIFfgCih57axglfmfQNiVBIeHynroSquKNJ7nEW/PxwZv8x6sGcF7ks/o5FKMobORgoioPeWikYnNNSaHkvpWSBhFTaNGRIJMngWXcv5ovXFigY4Eq1+u0P1WAypAhJjgRKIxGBxeTab8Lg9saFwQ3cvqGYBZXrqfcSGGtgQMalf3fSDFhZ/kS+bDUjlfHDVSFyMgh5iPpQV0O9fJjYtxit4+U/1Xw9VVUg4ENG3H2V69Q/FuHUviw1TwcJgLK7oYFXgJck8li6gUg3Ff7gvrLI1wEawOy0BnBslOZhc5tw3ucj86GwD+cpTsi6UGE+RGEaSszrhrVpwwVy1Cp6WxfaGC4MkMqKCUD9eql/DMgERA0wIIO4Bh/lrbqMVEe+lMVJ6/iGhkf5xwrJ/dFDzS5bJYAL5Rs10GDMy0sXctplTJcEYfXIulr6+9sptW97XvYXcqcOcyTdMxTMlIeLP5+sTD75omHScCFgvwffr0+jxfs79h8OnBZBslL4j+cr6ZWzZ6g4s4NCw==;Lwy/gkPBO5Doqh2sUjNa5Q=="
 ---
 

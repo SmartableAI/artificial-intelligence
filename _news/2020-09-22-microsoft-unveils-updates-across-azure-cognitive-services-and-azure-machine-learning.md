@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
         width: 980
         height: 597
+        isCached: true
+  - title: "Deploying support chatbot using azure microservices architecture"
+    excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
+    publishedDateTime: 2020-09-22T01:03:00Z
+    webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
+        width: 784
+        height: 329
         isCached: true
   - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
     excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
