@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
+    publishedDateTime: 2020-09-23T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence (AI) in Drug Discovery Market : Industry Analysis and Opportunity Assessment 2021-2030 | Impact of COVID-19 Pandemic"
     excerpt: "Europe artificial intelligence (AI) in drug discovery market reached $108.6 million in 2019 and will grow by 28.7%"
     publishedDateTime: 2020-09-23T09:12:00Z

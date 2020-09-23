@@ -2,6 +2,199 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-16-ottonomy-io-and-snapdeal-conduct-last-mile-deliveries-using-autonomous-robotic-vehicles.md",
+      "title": "Ottonomy IO and Snapdeal conduct last-mile deliveries using autonomous robotic vehicles",
+      "excerpt": "Developed by Ottonomy IO for last-mile and local shipments, the delivery robots can run along sidewalks and local streets autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "originalUrl": "https://www.indiatoday.in/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/Snapdeal_Ottonomy_1-647x363.jpeg?N8ZyGJDkFdGpML9aacdA3tvg1tTyQHvK",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/ottonomy-io-and-snapdeal-test-last-mile-deliveries-using-robots-1722177-2020-09-15",
+      "publishedDateTime": "2020-09-15T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-latent-ai-makes-edge-ai-workloads-more-efficient.md",
+      "title": "Latent AI makes edge AI workloads more efficient",
+      "excerpt": "Latent AI, a startup that was spun out of SRI International, makes it easier to run AI workloads at the edge by dynamically managing workloads as necessary. Using its proprietary compression and compilation process,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
+      "originalUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/latent-ai-makes-edge-ai-workloads-more-efficient/amp/",
+      "publishedDateTime": "2020-09-15T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
+      "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
+      "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
+      "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-15-at-1.54.30-PM-2.png?w=680",
+          "width": 680,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
+      "publishedDateTime": "2020-09-15T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
+      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
+      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L",
+      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-15T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions.md",
       "title": "Instagram Makes IGTV More Accessible With Automatic, AI-Driven Captions",
       "excerpt": "Instagram on Tuesday rolled out a new feature to IGTV: automatic video captions. The captions are powered by artificial intelligence and localized in 16 languages.",
@@ -974,183 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
-      "title": "What are deepfakes? AI that deceives",
-      "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
-      "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
-      "publishedDateTime": "2020-09-15T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders.md",
-      "title": "Dystech using artificial intelligence to help speed screening for learning disorders",
-      "excerpt": "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
-      "originalUrl": "https://www.zdnet.com/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2014/04/24/51566025-9abe-4021-bf5c-7a32ef9c9320/reading-a-book-speed-read-flickr.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders/",
-      "publishedDateTime": "2020-09-15T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-how-artificial-intelligence-and-machine-learning-will-make-isr-faster.md",
-      "title": "How Artificial Intelligence And Machine Learning Will Make ISR Faster",
-      "excerpt": "Raytheon Intelligence and Space is integrating artificial intelligence and machine learning across ISR capabilities to help warfighters make decisions faster with reduced workload. (Raytheon Technologies photo illustration created by Grant Parsley) If a swarm of heavily armed fast boats barreled full speed at an aircraft carrier,",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
-      "originalUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/09/20RIS031_RTX_DecisionSuperiorityCampaign_SponsoredContent_640x500.jpg",
-          "width": 640,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/how-artificial-intelligence-and-machine-learning-will-make-isr-faster/amp/",
-      "publishedDateTime": "2020-09-14T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
-      "title": "Amazon under fire for new facial recognition tool",
-      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
-      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

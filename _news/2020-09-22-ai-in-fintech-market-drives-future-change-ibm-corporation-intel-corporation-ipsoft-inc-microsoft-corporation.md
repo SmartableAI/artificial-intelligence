@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
+    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
+    publishedDateTime: 2020-09-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
+    images:
+      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
+        width: 800
+        height: 312
+        isCached: true
   - title: "Ai Governance Market Is Thriving With Rising Latest Trends By 2026 Ibm Corporation, Google, Microsoft, Facebook, Sap Se, Salesforce.Com, Inc"
     excerpt: "DBMR has added a new report titled Global Ai Governance Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis."
     publishedDateTime: 2020-09-19T12:37:00Z

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-05-pentagon-reaffirms-award-of-jedi-cloud-to-microsoft.md",
+      "title": "Pentagon reaffirms award of JEDI cloud to Microsoft",
+      "excerpt": "The reaffirmation of the Joint Enterprise Defense Infrastructure cloud contract to Microsoft comes after the DoD asked a federal judge in March for several months to reconsider a specific data storage evaluation of its award to the tech giant after Amazon Web Services alleged the department made six technical evaluation errors during the source-selection process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
+      "originalUrl": "https://www.c4isrnet.com/newsletters/daily-news-roundup/2020/09/04/pentagon-reaffirms-award-of-jedi-cloud-to-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.armytimes.com/resizer/HyLP9wcax_xFq5CjDNkqq361irI=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/3C3TZKWYQBDOBBQL537ZWIEBRU.net635951117343721156",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-04T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-amazon-polly-ntts-voices-now-available-in-singapore-tokyo-frankfurt-and-london-regions.md",
       "title": "Amazon Polly NTTS voices now available in Singapore, Tokyo, Frankfurt, and London Regions",
       "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in Asia Pacific (Singapore), Asian Pacific (Tokyo), EU (Frankfurt), and EU (London) Regions. You can now synthesize",
@@ -1334,48 +1376,6 @@
       "provider": {
         "name": "India Infoline",
         "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program.md",
-      "title": "HGS DIGITAL Joins AWS Contact Center Intelligence Solutions Partner Program",
-      "excerpt": "services such as Amazon SageMaker, Amazon Comprehend, Amazon Transcribe, and Amazon Lex, to gain greater efficiencies and deliver increasingly tailored customer experiences. With 61 delivery ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hgs-digital-joins-aws-contact-center-intelligence-solutions-partner-program/article_10eb404c-d0a4-5495-8ee2-2a647b273f7a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

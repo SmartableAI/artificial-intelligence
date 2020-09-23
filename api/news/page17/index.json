@@ -2,6 +2,193 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-09-five-machine-learning-algorithms-entrepreneurs-should-understand.md",
+      "title": "Five Machine Learning Algorithms Entrepreneurs Should Understand",
+      "excerpt": "Entrepreneurs and investors should take note of how artificial intelligence (AI) is disrupting business in every vertical. As an entrepreneur myself, and the founder of an AI news website, I've had a front-row seat to the disruption,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57dbf2993d5f6c61d10081%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/amp/",
+      "publishedDateTime": "2020-09-09T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo.md",
+      "title": "Get Your Hands Dirty: The Many Benefits Of Learning To Code As A CEO",
+      "excerpt": "This is all open source, so it's freely available. I taught myself using a variety of books and online resources as well as the ML packages SciKit Learn, TensorFlow (an open-source library originally developed by Google) and Keras (a more abstracted deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f578a304f5e311ae14b571d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/09/get-your-hands-dirty-the-many-benefits-of-learning-to-code-as-a-ceo/amp/",
+      "publishedDateTime": "2020-09-09T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-artificial-intelligence-in-pr-is-it-science-fiction.md",
+      "title": "Artificial Intelligence In PR: Is It Science Fiction?",
+      "excerpt": "Artificial intelligence (AI) is everywhere, so you knew it was only a matter of time before a PR agency tried to package it for public relations. But can AI help get stories in the news or is it just a new agency spin to stand out from the crowd?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f03670c093af40007be6125%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/artificial-intelligence-in-pr-is-it-science-fiction/amp/",
+      "publishedDateTime": "2020-09-09T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-is-ambarella-an-underappreciated-artificial-intelligence-chip-stock.md",
+      "title": "Is Ambarella an Underappreciated Artificial Intelligence Chip Stock?",
+      "excerpt": "Ambarella (NASDAQ: AMBA), which produces image processing SoCs (system on chips) and computer vision chips, isn't usually mentioned in conversations about artificial intelligence (AI) chips, which often revolve around bigger chipmakers like NVIDIA (NASDAQ: NVDA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
+      "originalUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-ambarella-an-underappreciated-artificial-intelligence-chip-stock-2020-09-09?amp",
+      "publishedDateTime": "2020-09-09T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-how-ai-is-impacting-customer-experience-in-fintech-vb-live.md",
       "title": "How AI is impacting customer experience in fintech (VB Live)",
       "excerpt": "Learn how companies like MasterCard are implementing AI and NLP strategies that transform how fintech customer experience is done.",
@@ -83,6 +270,39 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-docebo-to-power-aws-training-and-certification-offerings.md",
+      "title": "Docebo to Power AWS Training and Certification Offerings",
+      "excerpt": "TORONTO — Docebo Inc. (TSX:DCBO) (“Docebo” or the “Company”), a leading artificial intelligence (AI)-powered learning platform, today announced that Amazon Web Services (AWS) will use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theobserver.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
+      "originalUrl": "https://www.theobserver.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.theobserver.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
+      "cdnAmpWebUrl": "https://www-theobserver-ca.cdn.ampproject.org/c/s/www.theobserver.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f/amp",
+      "publishedDateTime": "2020-09-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sarnia Observer",
+        "domain": "theobserver.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -897,242 +1117,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-redefining-intelligence-in-the-age-of-ai.md",
-      "title": "Redefining Intelligence In The Age Of AI",
-      "excerpt": "In today’s age, it is no longer enough that only software programmers and IT specialists understand emerging technologies such as Artificial Intelligence ... like gene therapy, genetic ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@tjajal/redefining-intelligence-in-the-age-of-ai-c21a8aec41a2",
-      "originalUrl": "https://medium.com/@tjajal/redefining-intelligence-in-the-age-of-ai-c21a8aec41a2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*2hDZkP8iqYApD49f.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-meet-the-ai-entrepreneur-preparing-underserved-students-for-the-future-of-work.md",
-      "title": "Meet The AI Entrepreneur Preparing Underserved Students For The Future Of Work",
-      "excerpt": "Artificial intelligence is dramatically changing how we live and work. Ora D. Tanner is designing a tech-enabled AI curriculum for underserved high schoolers to help them succeed in our increasingly automated future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/imageserve/5f57ce749a8421d22ed10081/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2020/09/08/this-entrepreneur-is-preparing-underserved-students-for-the-future-of-work/amp/",
-      "publishedDateTime": "2020-09-08T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao.md",
-      "title": "CBP doesn’t consistently notify air travelers about facial recognition tech use, privacy: GAO",
-      "excerpt": "Customs and Border Protection (CBP) is not consistently notifying travelers about its use of facial recognition technology or privacy options in US airports, according to the Government Accountability Office (GAO).",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
-      "originalUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2020/09/cbp.jpg",
-          "width": 640,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/cbp-doesnt-consistently-notify-air-travelers-about-facial-recognition-tech-use-privacy-gao/amp/",
-      "publishedDateTime": "2020-09-08T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-crowdstrike-expands-support-for-aws-workloads-and-container-deployments.md",
-      "title": "CrowdStrike Expands Support for AWS Workloads and Container Deployments",
-      "excerpt": "CrowdStrike Inc. (Nasdaq: CRWD), a leader in cloud-delivered endpoint protection, today announced the expansion of support for Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience.md",
-      "title": "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience",
-      "excerpt": "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
-      "originalUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html",
-      "publishedDateTime": "2020-09-08T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

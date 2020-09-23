@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-sa
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://datacenterfrontier.com/wp-content/uploads/2020/09/Satya-Nadella-Ignite-2020.jpg"
         width: 740
         height: 467
+        isCached: true
+  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
+    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
+    publishedDateTime: 2020-09-23T10:01:00Z
+    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 51
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
+        width: 272
+        height: 270
         isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "“Once data is delivered to the end point in customers’ virtual network, customers can then use other Azure services like AI or ML, or even Azure Cognitive Services for that matter, to ..."

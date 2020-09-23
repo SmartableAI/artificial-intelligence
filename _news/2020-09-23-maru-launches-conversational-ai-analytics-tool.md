@@ -22,7 +22,7 @@ related:
   - title: "Maru Group launches AI feedback research tool"
     excerpt: "Market research and customer insights company Maru Group has added an artificial intelligence-based feedback tool to its Maru/Hub insights platform."
     publishedDateTime: 2020-09-23T08:34:00Z
-    webUrl: "https://www.research-live.com/article/news/maru-group-launches-ai-feedback-research-tool/id/5074362"
+    webUrl: "https://www.research-live.com/article/news/maru_group_launches_ai_feedback_research_tool/id/5074362"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
     type: article

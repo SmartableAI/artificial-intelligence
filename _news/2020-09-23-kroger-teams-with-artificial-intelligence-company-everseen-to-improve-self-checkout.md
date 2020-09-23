@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Kroger teams with artificial intelligence company Everseen to improve self-checkout"
-excerpt: "Kroger Co. has formed a partnership with an artificial intelligence company in an effort to make the self-checkout process smoother. Downtown Cincinnati-based Kroger (NYSE: KR), the nation’s largest operator of traditional supermarkets, is teaming with ..."
-publishedDateTime: 2020-09-23T02:55:00Z
-originalUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
-webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
+excerpt: "Kroger began using Everseen in March. Its technology aims to reduce errors in the checkout process, particularly with self-checkout. Its goal is to make it easier and more efficie"
+publishedDateTime: 2020-09-22T19:47:00Z
+originalUrl: "https://www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
+webUrl: "https://www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.html"
+ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/09/22/kroger-teams-with-artificial-intelligence-company.amp.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
@@ -44,6 +46,6 @@ related:
       domain: consumeraffairs.com
     quality: 37
 
-secured: "RfPp+zWgp//Xr+9X+rm97HPzhWa0Nc5Ee4n77iFTMv/ohdhKnY0EAOwavTxBvHPueW/ECchMcLXNniLoYkupHq/fU/7tk80e4rAYsCzCvMRdYTKmIrsR7D3PuH42nD1rzPGMqELkag2gHBuSnOE3cVoyorSFTjXAvliXc5N+PVu3ke3QYX+miNfElDbeX33gwKCDNr587Lo1T/l1HPAAL8mdhzuUbTly9x856mB0hKqVWjS01SHZRTKtmbudf62veEfhe0WU+mNQE/niW2BKZNguZKDwBBlBuHLqjP67a5KTtHlAiBwKdsA/tHqIAn8A3UA58ENuMDeSR/XOOge9j/CJVMiNhgCu6/8eleucEZWrN0f4Mu1OdMzKa6uQg7wwtL+3u+nlWBg/9bdLpuahmQeuWkFyTSbm7bqoGE92gqqro0NJzq5ql/9nfQq4StmCCR8B1v49GH5C3oPgfpwvsxZFPBWTc6qfthdb05SaWABxJzAfKp0+mCKP5YNvgI9NFusJ2Yb7DSgaBvkDiTC0xQ==;CxZcvrPcDmThJOO5VynzqQ=="
+secured: "xdRaPxa1rDhGSlTFc22IybP5phfnLVZYmBXtb1qlFzWTysKQbxq1KQzDYJ2AkoU5ldW4r4LWjM1n03BEgHZKdn8FXzkH7VyXhdTde4GePjKtfXDoMTZrOTQj36gmPxgmdaCQI04sndysQuJrGexCtTWgv48AcYGF7HORpClqn9M+2qgDu230t8V8GytLRw2OJKyOWk8lUlBuplIXTWoOQMB/MCjrXoG3rVTIVmgEni6YVPZc5O5YQciQSO4qWmoVkY4dbJjxMTi2+/cQLA4eGEZt9YX4xEf4bbD/rJMJNh5U0k8lRfe+P1faDiQusLNeVjg5+xwDQrctGKqror63We2jtQTvNOyjsUIDbZdGtEWthVgeYFjRuZFZZ/3W1PdT9JtY4C/pK2T6T4sQu8P+4nmYSFzQoSql7GL6MYdI6S6iwd0ktneTdR6a/+B+VEeOa8+RmYoZAMI432IGAhVZhMcg321Bv2qq14zfI5Q14kFWMSgIdVJ+676WkkmKyHWGZ/M/1uhx8tT9r7TQjg50Ww==;8nMG08j6umFxQvMYz/05ZA=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 740
         height: 467
         isCached: true
+  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
+    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
+    publishedDateTime: 2020-09-23T10:01:00Z
+    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 51
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "EgGFYnf9CcL6I+MlTOUSQOCimXKTTJyWTyCQk90g1QfOt0Zp2ATLsMHhdW2U+PmlYjCTAEEkul9gDLNDndiNtZz9S9jqoBZ1fzbReXWDeLkMi1sqUVgp4YnRE6scEBrvLhPVWbQ2nZQoNK/9sfPk+IJlB8aMsDvH+6TVzHpWEnjIc5Nl6Ih68QZdmwyPJtJV4ooNYqNwKLNTUatrArwKQXN2RobS2dmxJdpst+SoxFG/3OptwC72epvpiO85hNv3jjF7qXsKmT/LhmfTW8xVHmlC+sICq7I2Iefv1gTsNJqtvc0GFPuJKx27bn3em/p+H1VJle1do/aPIDvjyhKgVTzM+WZEJO/yObKxJt+w3IOVOGhvV9ElsrXJvQ5CR2VhthDgFNXHEL8YtX78CNK3aDLUMaP2y9zflSaIL1XZtxeOUDf2E6QTBSFkLtLJUkRbvPpzYhPLfa3eKIaDiPGtFfcGShe8KJXkuhaH5LUk2a6zSwFFLJlO0XNFr4CJkrhVOyVDVKKHFSSPWTXlXU53/w==;544cQxKqIL3FX1FhawtXoQ=="
 ---

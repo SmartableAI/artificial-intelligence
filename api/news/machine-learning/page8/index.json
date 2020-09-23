@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
+      "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
+      "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "publishedDateTime": "2020-07-19T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
       "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
       "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
@@ -1386,59 +1438,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
-      "title": "The path to real-world artificial intelligence",
-      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "publishedDateTime": "2020-07-10T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

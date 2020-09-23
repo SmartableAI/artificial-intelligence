@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Diagnostics Market Growth, Trends and Year to Year Projections 2020 to 2027"
-    excerpt: "The global Artificial Intelligence In Diagnostics Market was valued at USD 295.3 million in 2019 and predicted"
-    publishedDateTime: 2020-09-18T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-growth-trends-and-year-to-year-projections-2020-to-2027-2020-09-18"
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -28,43 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Growth Prospects, Key Vendors, Future Scenario Forecast to 2026"
-    excerpt: "Market Study Report, LLC's latest research report on 'Artificial Intelligence Market' delivers a comprehensive"
-    publishedDateTime: 2020-09-18T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-prospects-key-vendors-future-scenario-forecast-to-2026-2020-09-18"
+  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
+    publishedDateTime: 2020-09-21T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
-    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
-    publishedDateTime: 2020-09-21T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Potential Growth, Share and Demand-Analysis of Key Players- Research Forecasts to 2025"
-    excerpt: "The GlobalArtificial Intelligence Chipsets Market will be analyzed on the basis of key market vendors, their product benchmarking, SWOT analysis, and company's financial data such as annual revenue, research and development expenses,"
-    publishedDateTime: 2020-09-22T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-potential-growth-share-and-demand-analysis-of-key-players--research-forecasts-to-2025-2020-09-22?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

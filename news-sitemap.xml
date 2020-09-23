@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/09/23/how-artificial-intelligence-can-enable-ethically-driven-investments/</loc>
+    <lastmod>2020-09-23T04:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.html</loc>
+    <lastmod>2020-09-23T03:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401</loc>
     <lastmod>2020-09-23T02:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -51,6 +63,12 @@
   <url>
     <loc>https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/</loc>
     <lastmod>2020-09-22T15:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/</loc>
+    <lastmod>2020-09-22T15:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -429,6 +447,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/carrefour-deploys-machine-learning-software-in-belgium-9300750</loc>
     <lastmod>2020-09-19T10:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/priyashukla/2020/09/19/this-new-ai-technology-could-prevent-ships-from-colliding-with-whales/</loc>
+    <lastmod>2020-09-19T09:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2409,6 +2433,12 @@
   <url>
     <loc>https://www.benzinga.com/pressreleases/20/09/g17426218/global-deep-learning-market-trends-forecast-and-competitive-analysis-2013-2018-2019-2024</loc>
     <lastmod>2020-09-09T04:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theobserver.ca/pmn/press-releases-pmn/business-wire-news-releases-pmn/docebo-to-power-aws-training-and-certification-offerings/wcm/f66198b0-0f80-460e-bbfd-e7f1ec32275f</loc>
+    <lastmod>2020-09-09T04:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

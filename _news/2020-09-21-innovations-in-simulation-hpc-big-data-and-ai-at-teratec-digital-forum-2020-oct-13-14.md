@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Romanian startup Tailent expands internationally by launching the Tailent Automation Platform technology"
-    excerpt: "Just a few months after their first investment round from Neogen Capital, the Romanian startup Tailent starts its international expansion by making"
-    publishedDateTime: 2020-09-21T10:29:00Z
-    webUrl: "https://business-review.eu/tech/romanian-startup-tailent-expands-internationally-by-launching-the-tailent-automation-platform-technology-213352"
+  - title: "Automatic database creation for materials discovery: Innovation from frustration"
+    excerpt: "The paper, says Cole, is a description of how to build a database using natural language processing (NLP) and high-performance computing, much of the latter performed at the Argonne Leadership ..."
+    publishedDateTime: 2020-09-23T11:49:00Z
+    webUrl: "https://phys.org/news/2020-09-automatic-database-creation-materials-discovery.html"
+    ampWebUrl: "https://phys.org/news/2020-09-automatic-database-creation-materials-discovery.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-automatic-database-creation-materials-discovery.amp"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 22
+      name: Phys.org
+      domain: phys.org
+    quality: 39
     images:
-      - url: "https://business-review.eu/wp-content/uploads/2020/09/Tailent-_-Cristian-Oftez-stanga-si-Mario-Popescu-dreapta.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/automaticdat.jpg"
         width: 1600
-        height: 1200
+        height: 900
         isCached: true
 
 secured: "3D0tsf1pRyktp1hPCgjgQs37pJYtVZeQwRFZa53rfXxPmiiJa0p0PnH5B8rWxLdXAKQtQg1lDGhRTmg4gDZOftmIERLY7qlRLfagYC8KBW4aMblF3tK3/LC9baCs4GqpeXxgEI+QcMcqcrvq9+VZlMqGpA721qonUI7CdNntH8MYqhQ9rAkxX5Vh0yR+emwrBBrGj15i/xPoNb9QbuwsRc4pJAxB33eXGHf/34XXjdcKvMgxqgQb8avQM0hh+Ase3Bub+WttViARVNWAWBFlh06bR5vrUqwFU35nqs6+rYqDadlLzucFDh5mRbAase2AYwwXXfsqMjXWPcM4GCxa+yDHU1EBifeTjGQuWO7IWYk=;+g3qLt3frx/kTsrYbTIJnQ=="
