@@ -35,6 +35,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
+    publishedDateTime: 2020-09-22T18:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
+    excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
+    publishedDateTime: 2020-09-21T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
 
 secured: "lYQ3qulYWv2hGZD+2Y2P5+VNZi6qBtOrDrOlYyqQWhVsg7gxoP9+N/nGbymM2zzUyKlaBcMlJ6gYzlzPi8OPSXLHKWjdu44gV+a3RgwgNrKfbJ8JIsrhi+kqL1JbXVpieprOLMpClV4oemD59IKy06fi/8iLbRxzfaDDTowlw07SXyxZtySKnzZqmsmXsJs7cXVxxRtOayCNN3fSFrBrgyaVakYMD3Dge6xFw6IbttM+3fhIyO+htTVuS3tTwwp99lZGQ5vBA3EMn7pPQGIH+4NH8NJo2hSAXkgCAbXT1Ld5OnMvC1ZO3hqGzWTWar3dsPaDVjvJ+t0tGs4tK0fD5BPu+LN7AT6+tAwxzvm2+u8=;w22fJBKPEFlb40zPBQQlDg=="
 ---

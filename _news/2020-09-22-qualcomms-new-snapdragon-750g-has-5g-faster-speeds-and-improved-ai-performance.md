@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-sn
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: pocketnow.com
       domain: pocketnow.com
     quality: 31
+  - title: "Qualcomm announces Snapdragon 750G chip with 5G connectivity"
+    excerpt: "New Delhi, Sep 23 (IANS) Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth ..."
+    publishedDateTime: 2020-09-23T07:33:00Z
+    webUrl: "https://www.sify.com/news/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-news-education-ujxglBgbjdage.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "/fUFFic1SCy08ClVGsDGtrdnkCLCG/mkmrwWqDGkzvCN2g0BjFYVwFy9gDpewhQ6uTOExXfY9BE525hUoTgzREkoIZSPr12/SaKLfxIYP/LT0IYMQ4Kj/1Bcq9+//0TulE4e0GZar52K6gEChTqf4npkgd/UvHmsEisTqXXPDY97+F3IWiiJG3rDDyh2rM/4Qyq1scg+jcp61m5b6L24bRdLSaO84dFh+JTOIgm4/ISb9J94EyMb3In+Npx1MKPmmkGllq+yQDSXdUqXVg0sW7d1fLmkOUvglMbxaD9G0BcA85acipbTsK0Z9JJ8RS6VfqtPHuu6KKl8RNtVT40gcOcFybTyFZ1YsmRCosnGytSBfkPQOPLULUP6ZdS+KUhTGtee+nSRJY/9QXmVIyJkXvBdb6gK+4EtS6nkm7kc3XaVlOhONp8kfcAfRz2YsPECXoQc+6+hUton4eO7KT4esXGg7HksxzSk0k1oU6IDebhB1aXV9ikufFFQnmyO49ceN5WrvYfPAoqng3mrdw7krA==;VEL3z9mLYQzNtxrTQP/2mQ=="
 ---

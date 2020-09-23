@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Fujitsu flags efforts to tackle facial recognition fraud"
-    excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
-    publishedDateTime: 2020-09-18T13:12:00Z
-    webUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tackle-facial-recognition-fraud/d/d-id/764030"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2020/09/764030/2115.jpg"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."

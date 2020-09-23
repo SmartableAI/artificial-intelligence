@@ -52,6 +52,15 @@ related:
       name: pocketnow.com
       domain: pocketnow.com
     quality: 31
+  - title: "Qualcomm announces Snapdragon 750G chip with 5G connectivity"
+    excerpt: "New Delhi, Sep 23 (IANS) Global chipmaker Qualcomm has announced Snapdragon 750G 5G Mobile Platform that enables global 5G connectivity with HDR gaming and on-device AI. Snapdragon 750G offers select Qualcomm Elite Gaming features to allow for smooth ..."
+    publishedDateTime: 2020-09-23T07:33:00Z
+    webUrl: "https://www.sify.com/news/qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-news-education-ujxglBgbjdage.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "VC1J0A7p6W/O0gFqfu6l5GUhUk2i+YbgdpKVZThxPYRXliEYRBTZRHR+4B/QgKug+x0tqeFJhLtoeGWxLXUZ1ftbvNuDtu9yF7ml2NM41QA0RbXihovolw0bjZIVRS8Q6eLKBHNB+cbuO9nmY36F+Vr0Q8MlTEtA8dNBinI+6HDh5oiiJ236MalaBywt+8ltu1/rVJYak+/9PdkIP58QCIOaPqfN1GqU4qCCefOZEp0Tl1mfffAURImMrzx2EL/D5L7R/PsjipRjhUUhbk9VzXYACoADI1ooz9M6CYXRC23uZwi/RDLPTTSofrzbv7Vswz9RXeITVHJzk4+/mjBP1VydzCNYlcQtLpWHQkrA9w6sRhROOMWbjm+Z0YWNm9qLFhbdgcj3lFgR29sITXzWT278ktCYTBFpUPvee6BBBLctmI5jGDeeS8iavYLqYGt15JNFS1l9sWYaDO8d2IA5xJmaoZkwuHr1CxX+qxzbX1kYkDfq6fu7/6a2kqQQCXam8omIWwWq8dCc9C1Yy3Cluw==;9nkPkM47Wzu2oPUPVOY2YQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -29,20 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
-    publishedDateTime: 2020-09-21T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-09-21?mod=mw_quote_news"
+  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
+    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
+    publishedDateTime: 2020-09-22T11:53:00Z
+    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
 
 secured: "y42zDHJXO+L81aqFNW7r8M71KHJbAZYilxpSuwS9Ua2LmM5FeaOVIixf+6F5yFtigUCuhI79bWrAEH4rttwE8KXFQk0/AhCF30G7wK7PsZI5ygInRh6TKu/uiBanXEwq6fMaSCDQhPUboLD0uSgbTYv2vvja/JKD3JQb9Bd4oYySpS2N+pBGO6JvGX18c5yhvKQHg8vdYRDX0mowaHWWSgqjBOO8kdPrx3XKbPcqtzXEpLvEXgKXfe2MMbK1g7SM3x42cPM5YfpfUtd2MK0rgaTqF5tvV4NtMHEVw7j5bfZ6twNuFtSRZdSGvF9cKWu6SUJVYGTKCM8Vb49p+i0vrALvoskVLMsnd/jW6aQRohg=;CB8K9kY7/fkek38THbpZzg=="
 ---

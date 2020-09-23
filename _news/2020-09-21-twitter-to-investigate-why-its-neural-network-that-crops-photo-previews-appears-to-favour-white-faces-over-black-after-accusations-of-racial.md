@@ -36,6 +36,22 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 119
+  - title: "Twitter’s AI Revealed to Have Racial Bias After a Viral Photo Experiment"
+    excerpt: "On Saturday, a user tested out racial discrimination existing in Twitter’s AI photo tools using two strips of photos. Twitter crops pictures attached to a tweet, only showing the entire picture after a user clicks on it,"
+    publishedDateTime: 2020-09-23T02:52:00Z
+    webUrl: "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    ampWebUrl: "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 86
+    images:
+      - url: "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh"
+        width: 3506
+        height: 1970
+        isCached: true
 
 secured: "zReWyb99D9bocBAEbhp6xqDIB9UES7v1PexwcBDA2tspZvKBnVFHBKBT+fBGwO+rb1knR4yIuBSc6FtJ/8qPE4kqEh/VdwPkzdeKToFrXemQfof524TojjBvXJgigQDVrwZXHBaOaqHvcsIB0yQf3GL5yVe7tVvjkhHRwlyZKgABrq4q3yia/hBZeYG+5BZ6BkVkbtTmjDJMi+R51vDZ1EqzIQtq756H6YxjNI5gQnzCM11OoHC9AaO0JAGHcxecnmTGo5MHJhP0Y3cEydHH40zV7NbGibgasE0zGYQK3Af0nnRVcOOXJxcWxn3fnQuQ9O4ICqT+WrPDAZiG6Oc8YSfdF4xRwL/KV9rMvc9ODQE=;uCZp6eiCBtR+K18svJjQRQ=="
 ---

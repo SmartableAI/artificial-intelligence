@@ -27,60 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market by Production, Share, Size, Import, Export and Consumption Forecast and Top Manufacturers by 2026"
-    excerpt: "Global “Artificial intelligence (AI) Chips Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial intelligence (AI) Chips Market report also explores future trends for supply,"
-    publishedDateTime: 2020-09-18T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18"
+  - title: "This Russian Facial Recognition Startup Plans To Take Its ‘Aggression Detection’ Tech Global With $15 Million Backing From Sovereign Wealth Funds"
+    excerpt: "Russian and Middle Eastern sovereign wealth funds are banking on the FindFace creator to take facial and emotion recognition to the masses."
+    publishedDateTime: 2020-09-22T10:19:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/09/22/this-russian-facial-recognition-startup-plans-to-take-its-aggression-detection-tech-global-with-15-million-backing-from-sovereign-wealth-funds/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/09/22/this-russian-facial-recognition-startup-plans-to-take-its-aggression-detection-tech-global-with-15-million-backing-from-sovereign-wealth-funds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/09/22/this-russian-facial-recognition-startup-plans-to-take-its-aggression-detection-tech-global-with-15-million-backing-from-sovereign-wealth-funds/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69cdc15c099dfd1bc0ec0a%2F0x0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
-    excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
-    publishedDateTime: 2020-09-21T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
-    publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
-    publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 800
         isCached: true
 
-secured: "4EyL5dYkOCbLXOhRZLLrDLTcfllrHYW6DMThxvGHyTuwDbFAiAHjBSU+cuat3AEpBZxF++mvxPslEoQUykajoYNhdx0eNVmmvKeqq+ncBnxLPgVU4KL/KTX0AnlA6XtML6Aq2h75ch3gh4uBS7KMVJCAYwwcVzLGdKSYTDdV1ofOyna0VA2KAanJjoYb09ZPCul85/lThhddd1E0/LqtqbFg++QadhJj9WS4zFaKUdYJFDRVI/wSLJZ6ORNmWSd4+lVgaIWZCIcgB3eA8gDXE/nHzQ/svSEZr/VzeV05KXTiuOpjsIQ48rj+quO1SbLa3alQJae7agjlpMvHfw7UO5EoqfgcgiEarWmwBplxZrU=;AJdGQEg3v9+ldsgd+qiJ7Q=="
+secured: "xS7GTqzZfnQdvXjj8ohVnfCH4W/jSqokLfJT+FKcc7wATzYAZ1fFYJ/vobFfGWAVLgGWwNqCwp59LXPFcqrQk7iTAdMjysGLEoKaiz8E1iO8WkYDx4aHpT2axmviuB/4YSlM6vbwrq8C18nYJ2E6symhEQW6grSeKqOVo0q61776LAxBuTjik38pwGAx64G17CA+q6F6nOJfMZ+EkSyRmsyPslEcc7ZnbzWL2vh4W+3VnK4sspFQ5td6InI577IneIBio5XEux+Onh4vZ8eHtKUPauFVfFC69du79eYEFJMOM9CS3mL69Cozo9/+fX1jcFcEPamrtZx4BEmTnP3SW626Uldz8nhlpTScidAeEA+vTzrGhLZX2dpl6OxdHC4/xbIsDS4MooHzNmRWJHf+cFspgRoOand256Xk57W8UfYO9OeCYfBs/6WNG2yhm5JoWjr8iFZn78Qmx3Uc51ShdaCLGL3JzSawKUYDt2zbYTYPRj84rRsVdJ+gu6XUDd7Ik4mrauQyaeTWl5cyvQRdkQ==;r5TaROsg2d9BzvMZSQnmQw=="
 ---
 

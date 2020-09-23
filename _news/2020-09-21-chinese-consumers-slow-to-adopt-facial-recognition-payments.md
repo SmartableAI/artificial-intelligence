@@ -57,20 +57,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Fujitsu flags efforts to tackle facial recognition fraud"
-    excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
-    publishedDateTime: 2020-09-18T13:12:00Z
-    webUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tackle-facial-recognition-fraud/d/d-id/764030"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2020/09/764030/2115.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Facial recognition tested by Brent Cross West station contractor"
     excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
     publishedDateTime: 2020-09-21T05:00:00Z

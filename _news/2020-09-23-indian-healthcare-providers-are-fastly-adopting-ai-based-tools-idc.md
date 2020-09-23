@@ -29,7 +29,7 @@ related:
     provider:
       name: CXO Today
       domain: cxotoday.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/ai-post-covid-19_hospital.jpg"
         width: 600

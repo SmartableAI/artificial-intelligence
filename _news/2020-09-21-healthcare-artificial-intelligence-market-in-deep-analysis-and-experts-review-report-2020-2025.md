@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "g+KiiKtwxkpPwcCypSEmQVydtcjAo43ooaviI1nRCiF8Mc3yebb9s8ar+Y5qHpgRedkqtdC50wr6xsK8b4fJHrmTO7OwbsPa+RLmi3qUl0FIpxdPwca1J95exBE8nobY6rdtiBu4d/1EebvHhA1rf90Dtpejgo25tcxLxUdeg0RIAGKiAs8vvVjUq+F0/tvHlXPUpSdt7bYZ4dvTdgiEtm+MCO2GsYsKtAvx5Y+KqEtORmbubdEYTFWD4vRm4l8WuvKTHGA+OAV8l4PpcqA3Gk/nrjRQ1hPqkzb/94WdgszUVJVOODPn9bzr4o6M/Ci0RU2WamZ3jDFFEpzSxrMh7zKVntZGUSvhMkWOX05noqg=;DvotAcGt0ZG8kSnwiX5YHw=="

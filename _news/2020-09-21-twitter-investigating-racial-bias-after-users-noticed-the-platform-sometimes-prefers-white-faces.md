@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2020/09/21/twitter-investigating-after-users-
 webUrl: "https://mobile.twitter.com/elonmusk/status/1307828265445400579?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1307828265445400579|twgr^share_3&ref_url=https%3A%2F%2Felectrek.co%2F2020%2F09%2F21%2Ftesla-offer-machine-learning-training-as-web-service-dojo-supercomputer%2F"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Twitter’s AI Revealed to Have Racial Bias After a Viral Photo Experiment"
+    excerpt: "On Saturday, a user tested out racial discrimination existing in Twitter’s AI photo tools using two strips of photos. Twitter crops pictures attached to a tweet, only showing the entire picture after a user clicks on it,"
+    publishedDateTime: 2020-09-23T02:52:00Z
+    webUrl: "https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    ampWebUrl: "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 86
+    images:
+      - url: "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh"
+        width: 3506
+        height: 1970
+        isCached: true
   - title: "Twitter to investigate why its neural network that crops photo previews appears to favour white faces over black after accusations of racial bias"
     excerpt: "Tests of the algorithm on the social media site over the weekend led to several examples of a preference for white faces from the automated system."
     publishedDateTime: 2020-09-21T09:17:00Z

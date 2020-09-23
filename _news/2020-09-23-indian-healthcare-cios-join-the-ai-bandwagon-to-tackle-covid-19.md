@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-23T05:55:00Z
 originalUrl: "https://www.cxotoday.com/news-analysis/indian-healthcare-cios-join-the-ai-bandwagon-to-tackle-covid-19/"
 webUrl: "https://www.cxotoday.com/news-analysis/indian-healthcare-cios-join-the-ai-bandwagon-to-tackle-covid-19/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/ai-post-covid-19_hospital.jpg"
@@ -46,6 +47,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "4ApYTDyriAWxcAZZNkddhjbEIgHBHs/jf0lT6hll4r++yH3cx/R/RmzVdGCxAnbgLZ2G0ItWk6/86fufIUoBblLdWArjaRpFzKMAeIqfv+mf/Y6vEnpDJSIaabWWXR1m121b1AZ9TPMNCIdTFXdyRwOxt2etLVwXNfEHn92rD2oEPDsssgqJp8ZzipJAxIPjOoRK+ce6sOzQJ9Z/W1daXa8jhvmWvsOe2iBcDb/BcLQTUslbQmoNbFqxK5+z86LmIg52lHBK/zWNlAKMxhkI++hB77fGgCPGhMGa0KHxYwxJA6P0cYILPuI6yMYLEOLHzGwIbwLNsWKntKVBdSRaaOE+8IPHu/dSa6lKQ+I3uqo=;0ClH/fP0DrzO5twa/Zn78g=="
+secured: "8TdIKHojZRV3sbY0MM31FKNxK8vVn8G5bSE6e9fJF12U7rWWvgvHOE89LUGB6c/mCC4AlPjGY20TpoBZaXvYREVZI4hWNgRBeJGHw11CZB4ZvK+pE2IOXz7/jh3vbikOlbcJrWg/De6VUmc0e2eVHafkBeG3bygvdbrTsaVV5iSA0wVv46Pa69ICj2Y0vLTTz2lO85ec8FLRKzcyR+O2hpt3uGB8QjJsyvwSmYefHjjFMn6oG2gd951glk/2vXtV9QmXqUSoyTfLjW/0kDJ9uZt3ydcfXapvAp8X9r26Tj73H0rLMn5ZOi56OoMbyaFTwtNBbf0D6rA+C+Wr6+tJ58ICNnYRdRim/OXHbfwasCZzqh6WsP7I+W5nuoVNr+Ju3n2TA+7u7h02TiKuyE8Sl9REGcL47INJMP9EKkPFqOKKTPN8UVQqlsCyxAkGfFKOVlPMsnAF87dNUgRU7P93Dc25eliX3U49zVbXhHbSqUqDCEgiJqww2NFV0swSi32KdWiHNA/N0RAqDEGxh/ZRbA==;2ysUTVSiXQQh9QRJvwH7lQ=="
 ---
 

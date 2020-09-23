@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fujitsu flags efforts to tackle facial recognition fraud"
-    excerpt: "Japan-based technology firm aims to improve trust in facial recognition software by making it easier to block fraud."
-    publishedDateTime: 2020-09-18T13:12:00Z
-    webUrl: "https://www.lightreading.com/security/fujitsu-flags-efforts-to-tackle-facial-recognition-fraud/d/d-id/764030"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2020/09/764030/2115.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
     publishedDateTime: 2020-09-20T22:39:00Z

@@ -53,17 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Baidu Reveals 4 New Artificial Intelligence Technologies"
-    excerpt: "Baidu (NASDAQ: BIDU) recently hosted its annual Baidu World Conference in Beijing to showcase its latest technologies. The theme of this year's conference was the \"Intelligence of Everything,\" with a heavy emphasis on artificial intelligence (AI) technologies in cars,"
-    publishedDateTime: 2020-09-18T14:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-reveals-4-new-artificial-intelligence-technologies-2020-09-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
 
 secured: "XgRC0xcNd7FhWra628FZ2r9lInADw30vuTha607bqJV9o2WLePobYBojO5XDjh+f/BY2jcGz6IXS5f95ur6jvCSvzdjd+4LqCYpKh9V2l7jn9k8NxkdCLjqANNmW+v6A2LFSINubFABfvWVsOZEbjnFh4kxVbfclnIslruTv/CYaOrMCrK4PW1+blJEcL9r/MbBJco3Gwl1hPiQ8Y3iYLvL0T6dh76cwmSVm2mM2cl7EkACuvt2ste/Jp2dKX60yLXIpK9v2OhfRl2KHi01P+dbJr037AGQ8VezzASw/WaVPjiHkKyD5uRUz6qWiDK6wsiyeaUkQmUOGKiecKdq52WQX1xC6pD021DPT3Kid+hg=;KQ0Qrqmycuux7ZmZtUxZFA=="
 ---
