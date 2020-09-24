@@ -51,22 +51,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
-    images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
-        isCached: true
   - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
     excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
     publishedDateTime: 2020-09-20T22:39:00Z
@@ -106,34 +90,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
-    type: article
-    provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
-    images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
-        isCached: true
-  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
-    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
-    publishedDateTime: 2020-09-20T07:15:00Z
-    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
-    type: article
-    provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 21
-    images:
-      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3F05PRMDauY4lGx3WYh9Feu7K+OES/d8NhJIyfNXW+1GXWZeVM27WmS2zYgKB++5v27Cd1jNJIpG7FKpRc6Nd3BLMYL1dAfWzSYxEv7tRNpkuG6QZ58Md5ysr1+R8uemxalazcxNWq3/YiHU5drHgN6gQak7dlX2fqn73tsps63InKIQjJkoNZEssFzGnvj1o0ZopTVNDWfUsvFkb49C5AJKKgYa0KG3X2xi38EXN6k3BszXYkgaawOJd8jdWgRECjpzrAplvvrsEsAWHm7M157gNxVvGXVnoe1xxqY9vY4N3SJbC69hqUchpw8sqzLWlaKaY1t72p/EXDod7qgdmAFKvKr5DOBOKVPUGrXaDEaQ26E42EH3H8dLx1BwWA58OmNj4LzLDofSlBS+lBjdocZ3c5xHpect8yZzwskEPYT0SNpIKVdigWYTIvnRQhHdcQvTlSHdnsurCWtGmAVXJ7/3lYZuRw50uK+0baPBDHo6z2c9UayHFicyMSwN8HdUCEev/9TumXlCIZyAsGAOHg==;Y1lWRShqbs1QN4L3pU766Q=="
 ---

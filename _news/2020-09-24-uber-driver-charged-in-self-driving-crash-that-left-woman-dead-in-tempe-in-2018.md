@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-publishedDateTime: 2020-09-23T23:45:00Z
-originalUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-webUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-ampWebUrl: "https://www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+excerpt: "TEMPE, Ariz. — An Uber driver has been indicted for negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. According to the Maricopa County Attorney's Office, a grand jury indicted Rafael (aka Rafaela) Vasquez, 46 ..."
+publishedDateTime: 2020-09-24T01:03:00Z
+originalUrl: "https://www.wfaa.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+webUrl: "https://www.wfaa.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.kvue.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+  - url: "https://media.wfaa.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
 
-secured: "SnT3cnKTVnZR+pJ+PVbIRdwrwyW4F+eKlzkiii9uuETY/Roq9oJht7apwzy/V/TODYtKKCK3jQND3NA41ikCesKhxptDiy+6m+KdX6E8UvvzHrSyjl6B5mbwLYbgbzNLi9LZRFSgIr9djSHtJue7aTaHtqL6Jp/Ghatgi+oSOFXDoo+u4WRL0l/NpI0/Q9+B/UcJqVMp5K75oMWJl4MhCj4vz4Sx18yupKHW3xNYP5RNrxDbOdAVvo3qxU0hbM0czx9mwRyTwLEAKDpCZw/8snVCShY4ReUBBo+yt46ZejfdtspZCSQamqfMa3hRPTh6Rh3tEafvtNtaFvckOtkuX9aV4p4HTA6INuRjgV1hE+R6V9/0YcUaNP8hE4KBUYKTL2edNq/6ZJz/AsodW9V4DKbBKUPYaKbIqXgDIJm32IwW+wnIKGajdbVgPHe25Ao/2rS2IqBmN0gvlctgAl0I5s5zltnefhoV30Oi1CetT8c7Je1x39ehrPPsebXtquEazitBVujbwYAQzyFx33/RhA==;F2w+WWB5RktcUd/XizZ5dw=="
+secured: "FLOmT2BC94U7TfL9nHXQQvUPmSgaXTJIPPKD0RZl0OxN5zCJxdL07GfFQPHWpA5KGqNDDcPKPbfD4LZjYT++W7pJwrDHe9urKkGeWMLbo7/Lz6BGqCwcDQFQeFQNIMdvXqWkjT3XLDZOaertG52T/YBz31pUZz7r9C7lI1VdnlFzKR79XpQRX1+7Bdk2Xn0Fw7VRUV/GNBuL9p5K3pUWiZDhAWV1/Miw9hSVOceW83v9/L11huHXWBlmNuAQinYTCg++aKgiDvh2DWrX2RWUeD9mHgU97fJkaqrfoySgby84wOlIXzPgZAsuHkrZtOONeuHyDZqvnc7dsWAqfit4bCLgU9i6m23C/roApCuiYpQ=;8eKOUi+ATG+ZxEbYqIQodg=="
 ---
 

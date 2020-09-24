@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-21T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
 
 secured: "CF+O+FnxQmTKoE8Q1NTfFCjL2DQ5BfDFrJug87stGRk6tTv90Bn2n+k5+QeUHdZTMJOPjjttV5Mq43Nbk2Y/ywi920PedIrgNdhfG4x6FsWUoYv4JmDT1TemQ6H4wBXoD+dt2pc36njw1UwGW6tWCBA+IBQThYR84NVUDS3rtNYzOs6COfylzvrggFZMPO65smmgZNgcgaOdGwOe5mc6CDMyCBJmfARab9VSUDiRiuGkxJUNIjghOr/iTHLkt/JvaLHCk7kb8oA2xQSljJp4yKJG5J9s8W6txGbgOqJWrJMTJlRIbekz9MKkrnMGz4EVzGWWGLLNfnxBVxBYoH9vA/KjEMo2QY6NEKdFXVXzLmKmKKmr55yZqyw42j80SjGzJDuE4wvTxkqhtRMUTFpNJPj2hPz0QPEuzKk/C3DlL88dC0osh4NVucNYvrCXRrYO/Mffq2ezHgYojsHPtcUJIpYEta5EuJIVpeRU5C/l9/SO7EI+JmzGw4C4ByiN7ONSHqcvH9qSVglzX4bT/SVfxw==;Rad7j7OAGdokJIlKjcQHvQ=="
 ---

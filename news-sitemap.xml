@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/</loc>
+    <lastmod>2020-09-24T06:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/paultassi/2020/09/24/fortnite-challenge-how-to-make-a-stark-robot-dance/</loc>
+    <lastmod>2020-09-24T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/24/is-your-business-ready-to-implement-ai/</loc>
+    <lastmod>2020-09-24T05:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://newatlas.com/photography/alice-camera-photogram/</loc>
+    <lastmod>2020-09-24T05:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/</loc>
+    <lastmod>2020-09-24T05:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/</loc>
     <lastmod>2020-09-24T04:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.beyond.ai/</loc>
+    <lastmod>2020-09-24T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -75,12 +111,6 @@
   <url>
     <loc>https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/</loc>
     <lastmod>2020-09-23T11:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23</loc>
-    <lastmod>2020-09-23T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -163,7 +193,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923</loc>
+    <loc>https://www.aaai.org/Awards/squirrel-ai-award-call.php</loc>
     <lastmod>2020-09-23T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -231,6 +261,12 @@
   <url>
     <loc>https://techcrunch.com/2020/09/22/facebook-gans-takes-down-networks-of-fake-accounts-originating-in-china-and-the-philippines/</loc>
     <lastmod>2020-09-22T16:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html</loc>
+    <lastmod>2020-09-22T15:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -379,6 +415,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21</loc>
+    <lastmod>2020-09-22T01:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/</loc>
     <lastmod>2020-09-22T01:00:25-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -399,6 +441,12 @@
   <url>
     <loc>https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/</loc>
     <lastmod>2020-09-21T20:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e</loc>
+    <lastmod>2020-09-21T16:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2175,6 +2223,12 @@
   <url>
     <loc>https://www.digitaltrends.com/cars/waymo-self-driving-car-structured-testing-continues-during-pandemic/</loc>
     <lastmod>2020-09-10T07:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-announces-goshen-center-for-cancer-care-treats-first-patient-with-ethos-therapy-expanding-access/article_41599b40-1f5d-52e8-a86a-38166829a717.html</loc>
+    <lastmod>2020-09-10T07:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

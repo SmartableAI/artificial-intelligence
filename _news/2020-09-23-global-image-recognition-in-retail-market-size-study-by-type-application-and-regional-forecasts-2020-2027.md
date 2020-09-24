@@ -27,15 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "As Per Study, Voice and Speech Recognition Market Size Poised to Surpass USD 31.49 billion by 2026"
-    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-    publishedDateTime: 2020-09-23T17:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23"
+  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
+    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-09-21T08:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
+    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Solutions Market Regional Analysis, Growth Drivers and Competitive Vendors | Apple Inc, Alphabet, IBM"
+    excerpt: "Segmentation by Industry Vertical:, Media & Advertising, BFSI, IT & Telecom, Retail, Healthcare, Automotive & Transportation Download Now And Browse Complete Information On The COVID 19 Impact Analysis On Artificial Intelligence Solutions Market ..."
+    publishedDateTime: 2020-09-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-regional-analysis-growth-drivers-and-competitive-vendors-apple-inc-alphabet-ibm-2020-09-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
+    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
+    publishedDateTime: 2020-09-21T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

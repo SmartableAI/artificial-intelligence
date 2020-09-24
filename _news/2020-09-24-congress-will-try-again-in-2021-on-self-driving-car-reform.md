@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Congress will try again in 2021 on self-driving car reform"
-excerpt: "A self driving Volvo vehicle, purchased by Uber, moves through an intersection in Scottsdale, Arizona, U.S., December 1, 2017. Photo taken on December 1, 2017. REUTERS/Natalie Behring"
+excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday."
 publishedDateTime: 2020-09-23T20:58:00Z
-originalUrl: "https://www.reuters.com/news/picture/congress-will-try-again-in-2021-on-self-idUSKCN26E2RA"
-webUrl: "https://www.reuters.com/news/picture/congress-will-try-again-in-2021-on-self-idUSKCN26E2RA"
+originalUrl: "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L"
+webUrl: "https://www.reuters.com/article/autos-self-driving-congress/congress-will-try-again-in-2021-on-self-driving-car-reform-idUSL2N2GK18L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-    width: 810
-    height: 517
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
+    width: 852
+    height: 545
     isCached: true
 
 related:
@@ -99,6 +101,6 @@ related:
       domain: pymnts.com
     quality: 4
 
-secured: "YUINBcyOYXoW8ZjKKgV7kaPxfEwWyT3xvgv3JEX30bfFxVN2pIZr5W+iMR760nfdjxJLYLhzPh2m42qs46PoIBV7Pj4GwBwZsdUQmf9vT+FK6OnK4kdlPNqUaoUelgaffMHAv8NuP3L4pK2MioS+W6eH/bM+aETmdHetpnFI7fRaashRu2ym+Y0n9nUJhpJ5DDr8N9Z5mTXSitIygBBFa7SDQvQGM9wkBZymrvQ4XY3XcDonS0sqWJsJCu8OEa9mgNY6Bf750EkVVXTlka7TK+Ad3/jUt1lcrChrQjDaESupGhcHB8AC9U34qEwj1i+wxdsLvzQ+RYXA3xAD+1ZtWZg0tzseFqaqvJGvhtnLTUE=;QFaXWc9rNFdxZtBs8HWCiw=="
+secured: "EL9PJ3vwTDlmXxpjhLu79dGVrvysc25EANsr4Ldi+M8pD0tYgt5YK3OioYMujf6Me2AvLxC898awuNZSDvjD/8WTk+EtQCkiMN0u0+u/ejmtL1i0oDQF3hnBCplEAQ6UhZVGnMwnSqNvyvE2c6G5kz37M1wzUKpFjsCiVJBCGtwh7ELjf7oDZv9FwY9INPlsUHQGkqp8j6mGP15KsToZ9sHYf3c/vIjw0kB11kN9xNzx2mi+QdQqCCAJNA6YrlnO6iYx+MEW/8ZFUd9URZId70KQYWS74zsG6YH5cL6o5XOc2sDJY7PnfKyYPPgBi9OfGZIx+FjrvvtPczeKfM9uVnUXmGBEEsU/zGAgJdN3ZRQ=;oGFGFuzG+iOwUQmgMei7Ag=="
 ---
 

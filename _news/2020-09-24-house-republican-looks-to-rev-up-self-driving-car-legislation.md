@@ -100,17 +100,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anhui opens 5G-covered road for testing self-driving cars"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
-    publishedDateTime: 2020-09-19T20:33:00Z
-    webUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/"
-    ampWebUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
     publishedDateTime: 2020-09-21T20:27:00Z
@@ -121,6 +110,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "l9qKwsaBsFEX3NxT6zQ5I4zlD5kGpHR99d1apDNjG/y4EgIRuVmOe6/m4Clou83jtQhjGDnlF6i5Z5G8Lk5DBdDCbbkpjQyWnEtiiz2XI1O6mN+YaMxnnPFu976sQSohub/kQGwepYIlM0rwgy497qkHIRXCX3d2nvp5N4dwSCWQ8bW4A3huAUYwioqtBRNOEmMvCqnu32b4tAiLxMkFY/OrpR0OPI211zXguAhUdbjM6qpheSth4O87CuZQnCjirqhkSh5y5tjOxlIBxuS6ksroTkrHbgE6LKIFVZijCbo4t1O0U4DwoeHYfGrDXuiN1ZNEdQu9hXkwpkG+v+1aVe22C+bJVeHcvnMo6qugD60=;OQwfT+nruhZUvH+DVNCQyQ=="
+secured: "c2qpLQ+HoTsq/XthGVduYFKkJ2fg/T0a/DGGf5hNYPMH3nGilppid/wXxtW8Q0iGjfuwo0oOXK6CfYpmfC2zATa1q+7l1yc9i0LVVj6lm7TqjhupTeR994wi9qvaaWR1xdfPcwlKDI0aaOIiwtEoOWpPLEZQChpoxMbP3v/MkH+utnjSkBNUz3a3nwS+ZbYASp8a2ERE1LnWhyDOF4py2zwEyJejh/PudYqS4VXHc51Cnd+dRIwmf61el4gUAuVsoNSz/X6Z4kw0+dVfPSY88Dk3ESjpjDqzRXDIm6aR3XAGooYF6+P+/CFLVee+etZrJHKYFXgNvgGFO/OfkpZPDfrAH/poaj8nDQxRCt2YYJmzJpNXhyAQ/jsQ/cUgaVXmYfkS1t23ocLYqLFo8UuvkXYs0T9/kYSPxezAJ0GotXjY8eREKb1g6Zl0xH7mJ4sYPWNS/lcKbvMlQRHu+EA/NbRvZJsKz0Cot6utzoZquX7G13qFrXXnZgc6aKuHZ8L2n9s0mqqlcGBWTGwcUf9zkA==;4QRe41F+vUiSmZF25dpQ4A=="
 ---
 

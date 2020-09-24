@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextua
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/"
 type: article
-quality: 95
-heat: 95
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "+C26zgNs4/h6YmKZOMh2wt8rJ+8EkXd4jyX8ok7gUliyp8nu6lWAW6HchRy62pA7iXCpyMFS0KuoQ7wGTDWJQSIB3tlq6hnM7L9KK6qZgMu/UIR6vFaGcNnPGytrTns2i5nhaO7m3OZfAp7jbk88fvcITz/h7JT94JUPx04CgEkGzWBk04Z4KUdfrYcV24Mr3Qxl861niYxxer2JmQr3TJBcWFGtlz/BhfPMkMaYbrZUfsmqVFZRmyO/+wkfpU4yhSTe2tajzmeSfF/QQnRzGiHIp/HowkR0jQ/edfruc6L1d97OPCnRX7RsSlTmtG+fOKpo0afQPx7kX+KNTKh/glDpUDAjBMeyzGKPLQfVhKg=;1fwryfFMnVmNs3qFfyQPCQ=="
+secured: "uhzKfJ5H+gl+tAEXeJCygOivNR/3qXr3rHC6EWMIFOuZr4cVvOrCZvs1DoKmY7fb+cVAhE0bl8ewGrtb/lBvAVxScPPFm1Lg6KXeigviRFzaXxOcHUFDhdcjYVJ/O43t5++NsOa3gt8O1VIWsLfqFeY6BD7h7FRvngtFzASsYt8aCDRQL/1Tb/LidR0/cCms/mcYs78PYOGgwHhPVoPTFcoPUBXcYDM2ygUS7EKKMf7PcWVEmt+gcDIJxJZncM4V/eGcz6E/TgJ9pO7QFD1VuBCvhxOfuuZHwrKKgLn002JehrKCpojI6OnJ1VUda0dU2EmHW8B4KJzltyIikoH3IHKPzTzmh51KEeB6jKAB2kqix0y3kypx7Lsj04673ISmZvM/8KsHqKTnGfnalPj4e0HC+yKOBLBIf9m/Duv7DuX5AwiGJsYs7CXAvbGGPE7ghsn+PoqnbfwpJFpJ8XWSNZk30I5iwLXjxV5CY86RTWRMuz9LfyHmZiVi8VMCQTRLczvzMtifSd9P/fz/lQNVOA==;B0F7tMIIAtU1MWZoRXd7jw=="
 ---
 

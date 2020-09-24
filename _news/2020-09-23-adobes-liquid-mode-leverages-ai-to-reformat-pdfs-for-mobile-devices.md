@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/adobes-liquid-mode-leverages-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/adobes-liquid-mode-leverages-ai-to-reformat-pdfs-for-mobile-devices/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/liquid-mode.jpg?w=680"
         width: 680
         height: 352
+        isCached: true
+  - title: "Adobe's Liquid Mode uses machine learning to make PDFs more readable on mobile devices"
+    excerpt: "Adobe today announced an update for Acrobat Reader that's supposed to solve the perennial problem of PDFs in a mobile-first world -- the poor reading experience"
+    publishedDateTime: 2020-09-24T12:07:00Z
+    webUrl: "https://www.techspot.com/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86859-adobe-liquid-mode-uses-machine-learning-make-pdfs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-23-image-26.jpg"
+        width: 2000
+        height: 876
         isCached: true
 
 secured: "nFp36/5k8q4bDcJBm/wR+4lLdOnIXD/5dL1qGzf28FMZWrfRYDjhaceTdy2amka4Tt5AlRe9/bpn+qKMXjz2sPQXnBVlN0UuMR+wh4NrOm8xV6T1dMpB9pwX2A3XxXqsFJkKlK8i8VwLjIN1eo3xS+qv/H5nomy+QgbQCIcfSyERkcl0q1a9uScj4eyig6VXL7z5OSJD4J7yhpzY6IUedXxIOr560d9P5L7tVTVHsFEyLm7SmZ6fqLg5U8rk/vAvBlXjitcQxZtN7V1q7NXs82LON85UDcx4W+C6FaXKWxzb6QwW3zJnHZEAMWprywlWI1amIDrWqi1zGwuc/bk6OGMD6bjswpSVGaSalkWDKyRrQMWQpjxphPrE9nd47QQyK0OY7CnyrrZbjgKb4aX9XWhsdcCcLA5xYrZLp54QAkgROfCkXR3IZtbpE6TWm5Wu+HKt5bpH0kYFstR7Ll1w5rwGQLXJgx9/FSCoaqfaed4P4ECpKEO1U3K3Oxlz5iu+9HsHlIxctb99+gKdctJ54A==;Pep8o8qHQtFLgL5vfP22fQ=="

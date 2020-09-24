@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "In the world of financial technology, AI poses questions, heightens efficiency, and encourages ingenuity"
-    excerpt: "Processes that weren’t gaining interest or moved slowly are now popular and expedited as a result. Sana Khan, Analytics & AI Solutions Lead for Azure Data & AI at Microsoft, explained that, in past months, the use cases for AI that already existed within ..."
-    publishedDateTime: 2020-09-23T17:35:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/in-the-world-of-financial-technology-ai-poses-questions-heightens-efficiency-and-encourages-ingenuity/"
+  - title: "AI recycling technology uses Raspberry Pi and robots"
+    excerpt: "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling"
+    publishedDateTime: 2020-09-24T12:09:00Z
+    webUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/"
+    ampWebUrl: "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
+    cdnAmpWebUrl: "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: Hydrogen Fuel News
+      domain: hydrogenfuelnews.com
+    quality: 74
     images:
-      - url: "https://assets.bbhub.io/professional/sites/10/357184552.jpg"
-        width: 800
-        height: 533
+      - url: "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg"
+        width: 873
+        height: 539
         isCached: true
 
 secured: "Cagesg5CnV/IWv3vwq/VZZ2WMBmZ09JvQ0NOmf+T3E6057ZP5+C/A9e5WxO2DXf9ExAVroI9vs/T2HsCTuEGSQZPHURR7IJhYEnHDGrR9NNnGYhrBoiiDXqX2JQweuX2mpmlUeuJkaoFd1r7m+OPcSABaAkOTtaqO2pqzQqwLWe1HXrIwsJcL5c8oIChnRgg8A7F7Teldf6w7A4nm3qdEue6j47QQRefc7IAyomgMZFXiuON2XkxU3REWdVD2JJV4p5Av1dGIaSZFZe6w1Nd6RVVOgf6IhUwILvXJiBOBBBEXyIQRp+i/9p2DaQL4HZJR+MunuHpA6MjwZnsCNM0os4kcLLmKvJWPFWmHrWk8+Y=;Oy9AwLNhp/odQ6R00JUCsQ=="

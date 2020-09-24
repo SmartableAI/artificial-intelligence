@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2322dd70-fc42-11ea-a05e-4ab6d4811cc6&client=amp-blogside-v2&signature=08e70ef526aeaaf20bcfd30e58d253d5b05dc2f5"
         width: 600
         height: 350
-        isCached: true
-  - title: "LAPD Used Facial Recognition Tech Frequently, Records Show"
-    excerpt: "(TNS) — The Los Angeles Police Department has used facial recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots taken ..."
-    publishedDateTime: 2020-09-22T22:36:00Z
-    webUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Used-Facial-Recognition-Tech-Frequently-Records-Show.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
-        width: 1119
-        height: 630
         isCached: true
   - title: "Detroit council expected to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."

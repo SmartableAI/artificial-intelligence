@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Study COVID-19 Impact Analysis, Growth Factors, Outlook Till 2028"
-    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
-    publishedDateTime: 2020-09-22T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-22T08:55:00Z
@@ -71,52 +43,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
-    publishedDateTime: 2020-09-23T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
+  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
+    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
+    publishedDateTime: 2020-09-21T08:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Artificial Intelligence (AI) in Drug Discovery Market : Industry Analysis and Opportunity Assessment 2021-2030 | Impact of COVID-19 Pandemic"
-    excerpt: "Europe artificial intelligence (AI) in drug discovery market reached $108.6 million in 2019 and will grow by 28.7%"
-    publishedDateTime: 2020-09-23T09:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-drug-discovery-market-industry-analysis-and-opportunity-assessment-2021-2030-impact-of-covid-19-pandemic-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
-    publishedDateTime: 2020-09-22T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
+  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
+    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
     type: article
     provider:
       name: MarketWatch
@@ -127,38 +66,40 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
-    publishedDateTime: 2020-09-21T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-09-21?mod=mw_quote_news"
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
+        isCached: true
+  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
+    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
+    publishedDateTime: 2020-09-21T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-19T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2020-worldwide-opportunities-driving-forces-covid-19-impact-analysis-future-potential-2028-2020-09-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Market 2020 with (COVID-19) Impact Analysis, Product Type, Application, Key Manufacturers, Regions and Forecast to 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The research report titled Global Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 covers industry segment by applications, by type, regional outlook, market demand ..."
+  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
     publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-with-covid-19-impact-analysis-product-type-application-key-manufacturers-regions-and-forecast-to-2025-2020-09-21"
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
@@ -169,19 +110,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Regenerative Medicine Market Report 2020-2024 with Impact Analysis of COVID-19 - Artificial Intelligence to Advance Regenerative Medicine"
-    excerpt: "Size & Forecast with Impact Analysis of COVID-19 (2020-2024)\" report has been added to ResearchAndMarkets.com's offering. Global Regenerative Medicine Market: Size & Forecast with Impact Analysis of COVID-19 (2020-2024),"
-    publishedDateTime: 2020-09-22T15:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-regenerative-medicine-market-report-2020-2024-with-impact-analysis-of-covid-19---artificial-intelligence-to-advance-regenerative-medicine-301135576.html"
+  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
+    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
+    publishedDateTime: 2020-09-23T13:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 2
+    quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "76kZwH+xFh/CFqaUZzhS+/MF7X+24H/sTbnp6iEZd43eHqYfiQdg97Z6iX+9UfNrFQt/XAYkhoeqVTbUM6/GWxdpy+DZnJLsXSXbruq8xL2uECAZYnujjUkkaXdEQTkd9lyHlbwz/cNAK1SagkEkt8/hte+lfa0cJ19HP3YDUMAkA+d2pCBHHoRKzwKAaXBdXCUjPJwg9PuKpvvm1Ftuu2sjelReh98/9GrY+Ejoksz5EYMm3mNEqElUWEKlKFNJjqoj/tV1mdn67U1i50Wr7MvlHxMHu0uWiZGP3yYJNrO4JRFINXHA1+NtptOFTC8qYANmIZYWk7RRJJlZaUWtKa0Sy/zn6d9UDCn7Dx33QG0=;1zj6ZtTsvcvE+rbuDEzarA=="

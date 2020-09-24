@@ -86,17 +86,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anhui opens 5G-covered road for testing self-driving cars"
-    excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
-    publishedDateTime: 2020-09-19T20:33:00Z
-    webUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/"
-    ampWebUrl: "https://infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/anhui-opens-5g-covered-road-for-testing-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
   - title: "House Republican looks to rev up self-driving car legislation"
     excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
     publishedDateTime: 2020-09-24T11:00:00Z

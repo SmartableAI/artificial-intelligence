@@ -7,7 +7,7 @@ originalUrl: "https://socaltech.com/beyond_limits_takes__33m_for_ai_efforts/s-00
 webUrl: "https://socaltech.com/beyond_limits_takes__33m_for_ai_efforts/s-0080378.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,52 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Beyond Limits Raises $133M in Series C Funding"
+    excerpt: "Beyond Limits, a Los Angeles, CA-based industrial and enterprise-grade AI technology company built for the most demanding sectors, including energy, utilities and healthcare, raised a $113m Series C f"
+    publishedDateTime: 2020-09-22T22:47:00Z
+    webUrl: "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 137
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/09/beyond.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Hybrid AI through data, space, time, and industrial applications: Beyond Limits scores $113M Series C to scale up"
+    excerpt: "Abdallat went on to add that today we already have a collection of independent AI system that are experts in their own field, and increasingly outperform humans: \"As you start connecting them together, you have a network of intelligence society ..."
+    publishedDateTime: 2020-09-22T11:18:00Z
+    webUrl: "https://www.zdnet.com/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-ai-through-data-space-time-and-industrial-applications-beyond-limits-scores-113m-series-c-to-scale-up/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/22/7c255cb1-23de-4d9d-b3fb-158143cf2d40/aj-abdallat-headshot.jpg"
+        width: 1200
+        height: 807
+        isCached: true
+  - title: "Israeli Pain Monitoring Startup Medasense Raises $18M in Series C Round"
+    excerpt: "Considering 3the complex nature of pain, Medasense technology uses a unique multi-parametric sensor platform and advanced AI algorithms to convert complicated ... \"Medasense is a model startup, having successfully introduced a disruptive medical device ..."
+    publishedDateTime: 2020-09-22T12:37:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-301135201.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1278423/Medasense_NOL_Monitoring_Surgical_Settings.jpg?p=facebook"
+        width: 1593
+        height: 834
+        isCached: true
 
 secured: "3wZgYcBFJ6vZDBlJ7E7ydaaGN7AirK99TpbO5NZyzHz+vlnCOKu5lxmuvWeTzPQjcfQ94oYwiFG5YuzwgfKQNknTO9JsiRnBCVCGbmnDJckS7yewjwVHw9G7vPgXS4gF8P58Vd4paKn0hSRRJ1FAlam5y6iQ1CM3/UIHWAfWfIWESjmalX1TTNubb9+VIrGevqaSrEgwcv0/qO/iUg3jlnJIhfBWYWqIOw+aMuuBjfsBhpETmfd/8aXrEg7DqEjOr1k3PUdnFz7RXTWPGlaX7Cg+uCFpIvr5zDnqKCCJtffoQ2M4nZJAH4YAVrAbp0aHKsWSrwJMddJPwKaEqg2wlWLvajQpo8O494SNnnT4iKg=;PSbVgUQazKBri8GyUyKU3w=="
 ---

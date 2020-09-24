@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award"
-    excerpt: "As these disciplines undoubtedly continue to impact society, newer fields like artificial intelligence (AI) and robotics have also begun to profoundly reshape the world. In recognition of this, the world’s largest AI society — the Association for the ..."
+    excerpt: "... the Association for the Advancement of Artificial Intelligence (AAAI) — announced today the winner of their new Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, a $1 million award given to honor individuals whose work in ..."
     publishedDateTime: 2020-09-23T12:03:00Z
-    webUrl: "https://news.mit.edu/2020/regina-barzilay-wins-aaai-squirrel-ai-award-artificial-intelligence-0923"
+    webUrl: "https://www.aaai.org/Awards/squirrel-ai-award-call.php"
     type: article
     provider:
       name: news
       domain: mit.edu
-    quality: 71
+    quality: 167
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202009/mit-prof-regina-barzilay.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg"
+        width: 1300
+        height: 650
         isCached: true
 
 secured: "KsGSa2hdq8wIAQ2N/iyuXEGVNF7RkD0HnFyRymCAMGwBDCV7mvmX1EeZZScBYXxcBk618mBYA4umPU1IRCLD7x81JjuHgYlD9pRlp8G6e9gkYJq5Zw/VJbDCIVpRb92OI7PCl1TNyfSh2YOMyRZKLJLTveLCESXxKdQlm0HSgxCNTAHr+r9peZbUyCdvw1/GgAGtuiX1hgNhyBLr0RFzGHdFRx42ELFcaHjVRyB60l1MI1I2FCJcY0CbLhmiEXw1ylceRLDu64YLvgLMJMN+IfM4hGx0Mpxse6DKLBT+QSBo/Bml6i7T8Z1mT0DfRSDgpsm60VsZxaA2gkn9XFNOKcyziHHKql4FtxwHjueG7JtiQdyqxo357kkBurLNnHYgpVBYciKhE/+l04LZmpc0lJxdZZYmW+Omi91fMPlT+4xzA1qFwrYjY1T5yw5ZlOT+Uxa38gfEWRKuvftEswlO1AAzw4WkyK1Bqp6knvGjKnWvXlyiqFKxdm2202xRW+Zf9t9W6F7szhCymmpxQ2oQZg==;9eHZSwU1NWBoowqYGrOWXw=="
