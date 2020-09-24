@@ -19,89 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday."
-    publishedDateTime: 2020-09-23T16:00:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-self-driving-congress-idUSKCN26E2RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
+  - title: "Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global"
+    excerpt: "Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provide her with the still remarkable option to get up and go"
+    publishedDateTime: 2020-09-24T10:25:00Z
+    webUrl: "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/"
+    ampWebUrl: "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-        width: 852
-        height: 545
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Waymo-image-.png?w=1024"
+        width: 1024
+        height: 637
         isCached: true
-  - title: "Self-driving Cars Will Fail Unless We Redesign Our Cities"
-    excerpt: "It’s been nearly a decade since the launch of Google’s Waymo and Tesla’s autopilot ... developers have recognized the limits of artificial intelligence, especially when it comes to ..."
-    publishedDateTime: 2020-09-21T07:08:00Z
-    webUrl: "https://medium.com/swlh/self-driving-cars-need-human-intervention-c9c324443bd4"
+  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
+    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
+    publishedDateTime: 2020-09-21T13:59:00Z
+    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
+    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Observer
+      domain: observer.com
+    quality: 38
     images:
-      - url: "https://miro.medium.com/max/1200/1*LUQ8pP17eTdtp0xAe68sZw.jpeg"
-        width: 1200
-        height: 722
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
+        width: 5300
+        height: 3535
         isCached: true
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "A self driving Volvo vehicle, purchased by Uber, moves through an intersection in Scottsdale, Arizona, U.S., December 1, 2017. Photo taken on December 1, 2017. REUTERS/Natalie Behring"
-    publishedDateTime: 2020-09-23T20:58:00Z
-    webUrl: "https://www.reuters.com/news/picture/congress-will-try-again-in-2021-on-self-idUSKCN26E2RA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-        width: 810
-        height: 517
-        isCached: true
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
-    publishedDateTime: 2020-09-24T05:13:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
-        width: 900
-        height: 581
-        isCached: true
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
 
 secured: "IFAjRJNGHS9PmG2ydz/P+E4T94XlUV89jJTVg8FQxuIkLnYsGyQeglY0f9ls/p8Uxq9a8sc/Cw2KZGKrtzBb0MyfejiA6f0wSYN4KE+laa9QahXYLoUP0M+5Y7Sx/c8cQmgyiYLsQig5pLwgNugpiNcMxC/WVZ9ASXYV7og04GKUXLLevi0ERc/QoYfJ9Bf1kCn5VyWD9ZLijbJsHNTP78HILghfxfXRn23Wga53C1iWhUM7BcSm2LYn9xUWRp+eKDPhN/IVRBk+zlF2IQ3u/8mN88fjfWp8xll8RiZrqfmGfLXLBEsVRNbFHpAhz+L8RLsl3dccS7mAdxkCIOm5uI2J+tTvmfqXMUaO2buikz67lkDlk0/z7jhT49m9kNSF+9CjqX65PiHdBI8BDatyhGYggovxC7tV8jmoBGgv2v0cpLdkJg6eWdMzmW7M6n2D41ZR9dxL50zcdMNyVsYY9IWWlFJhf4C3U2nZO4uXQ2LPt+0kGEZGO/4OYVjZtv/NuD625vwPwwcg4cwa3d16Pw==;7/iMoMAFUQ5aHN1erDRtGg=="
 ---

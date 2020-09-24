@@ -111,6 +111,22 @@ related:
         width: 784
         height: 329
         isCached: true
+  - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
+    excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
+    publishedDateTime: 2020-09-24T11:11:00Z
+    webUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 57
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Microsofts-Azure-Communication-Services-handles-enterprise-video-voice-and-text.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
     excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
     publishedDateTime: 2020-09-22T00:00:00Z
@@ -195,6 +211,6 @@ related:
         height: 432
         isCached: true
 
-secured: "ehO/qnSa9RrNIhdpuvgot8P2R9hVcZKIodGuKVzRlLigtLMHZCcCqQ86YBUNQZ/LBFvWDzpgHMaW0SL8H1/TIZKuOuXEaK1kcuRgp5+UcEVrbADiPV8IQjaQlO4zOzBqz2ZucHghc3LX4qxZOneX9ZirC6FFUGcM+r9V0rCfNp9cbD12QxuuQGimhj/MFnM4oO+R5KDtaGl3afcx5/IiaJqwyJLxsZ2EEHXA0OySeu1fa2ojziqf6k8lbGqLpwfVywgfXvjCI+1Pyp9nrvc4B2xLayRxF0YAc2Uim2Gg6w8Nth40lYzPd9aDa5gVB5n2lSIkcg9iSwSpXMbaNTvcIZIaLqgGuclu/oId1aIcsbw=;V8+2/X7ZupREuO65Nx+jlw=="
+secured: "I52ctnpNPPOERTy5jIwlUUOjrAt2757CrHtfNdbTy99A4Z0mZ+1OeJeKBN6jf8os+Dry/cC5xbY8RPU68EMVUOCHGxPujIkXhH6unXH+HvElR2djbHaiZMxu0NmcozF6sTOb0oqt/fsp1Hec3+5KWynR0t5VkfhHj9WJ2QWWvfp/RDD0qqF1MkFm8rtY5CahG3LCqCROMjCZxaJ/h9QeKf8I9z7JSAaejTltuefg6HskVDREY6GP8R/B/uqBGYf0rypu9PvmHv4CM6sTPeYIVWHiEXtDxo2gj//3TRZdeieyIwaJ94Ho7oIJQzUhmkI9lBn7Rg4SNcxYJWboyPeNL7Q35EEIwbg9lTC5NbJRznDMWu3JbwzcU9MnV8vl9t5+mm7Afeh/of6j8LET6b+NlXi0D5a0J7OGZzu8CwOAhGnDoqKnGn85W92MrMQ3qshsnyZRE89kpMibGWgSjEelGVvrJdI7rHoCdFET10Kt34ANGTj6bnQ3/PksaqM66FKGwqDMRLvsdpTaveYtkPuXfA==;lZDxMJrIBMApufrSv9BGvw=="
 ---
 

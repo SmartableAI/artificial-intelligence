@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 4
-  - title: "When Will the Self-Driving Wallet Arrive?"
-    excerpt: "A self-driving wallet is just that - an online service you would use to receive money and buy stuff. But also, it would send your taxes to the IRS and invest a part of your cash as you wish automatically."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.finextra.com/blogposting/19349/when-will-the-self-driving-wallet-arrive"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
     quality: 4
 
 secured: "DYtiBu9MSanHOqahLNzLJvJ7IVO196UwzLnifqvmcM3/7QoGF+BElfbNvDm4+O1V1/QuL/0trpajNg9z2BtrBgV9++hTCR2/T5GvyXHpF5aG1RHYnyd7VIiiwOz6j/8eJ2Z27dep6z6IZdN2ePx5AfadxKVBYWpTV/zSoCe9U/VylE45113W07RvabdLVcbNPNvaCXeUX3ZskF8gFPXxAwHOZgzYUT4N2N1/8H6bky2lKg7eS4HSrwHkPJO0tgV6aSPGSsy5tUG04Fvca6W7ca7e1tYQnnXedVIEoHniHRWgNb5/7wuRAmtqmFgCGndlcJOgVySzMj/uZCIUGMc8DQHNJG2rgtvSS9FvwTso+jA=;SM8cyRCM8oel1IHmbQOfHA=="

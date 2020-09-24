@@ -2,6 +2,48 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-07-16-white-castle-is-testing-a-burger-grilling-robot-named-flippy.md",
+      "title": "White Castle is testing a burger-grilling robot named Flippy",
+      "excerpt": "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
+      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
+      "publishedDateTime": "2020-07-16T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSMV",
+        "domain": "wsmv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
       "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
       "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
@@ -1058,56 +1100,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
-      "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
-      "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f035fb72618b902835797c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "publishedDateTime": "2020-07-15T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

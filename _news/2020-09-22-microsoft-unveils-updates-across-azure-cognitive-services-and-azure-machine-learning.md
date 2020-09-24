@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -115,6 +115,22 @@ related:
       - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
         width: 784
         height: 329
+        isCached: true
+  - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
+    excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
+    publishedDateTime: 2020-09-24T11:11:00Z
+    webUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 57
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Microsofts-Azure-Communication-Services-handles-enterprise-video-voice-and-text.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
     excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."

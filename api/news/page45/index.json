@@ -2,6 +2,48 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-08-20-cara-unik-aws-pacu-kesetaraaan-dalam-teknologi.md",
+      "title": "Cara Unik AWS Pacu Kesetaraaan dalam Teknologi",
+      "excerpt": "AWS DeepRacer Women’s League merupakan bagian dari hacktaton AWS yang bertajuk Build On, ASEAN 2020. Melalui AWS Build On, ASEAN 2020, AWS memberikan tantangan kepada mahasiswa politeknik, universitas, dan sekolah vokasional untuk menyelesaikan beragam ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jawapos.com/oto-dan-tekno/teknologi/20/08/2020/cara-unik-aws-pacu-kesetaraaan-dalam-teknologi/2/",
+      "originalUrl": "https://www.jawapos.com/oto-dan-tekno/teknologi/20/08/2020/cara-unik-aws-pacu-kesetaraaan-dalam-teknologi/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-asset.jawapos.com/wp-content/uploads/2020/08/vincent-race-640x379.jpg",
+          "width": 640,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JawaPos",
+        "domain": "jawapos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-ai-as-being-truthful-or-a-liar-including-while-at-the-wheel-of-self-driving-cars.md",
       "title": "AI As Being Truthful Or A Liar, Including While At The Wheel Of Self-Driving Cars",
       "excerpt": "AI as teller of truth or potential untruths. getty. Will AI lie to you? Sure, why not. Most people assume that AI is dispassionate, unbiased, objective rather than subjective, and",
@@ -1164,49 +1206,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-deepracer-womens-league-to-help-women-develop-machine-learning-skills.md",
-      "title": "DeepRacer Women’s League to help women develop machine learning skills",
-      "excerpt": "The Amazon Web Services DeepRacer Women’s League in Southeast Asia aims to give more women the opportunity to develop or fine-tune their machine learning skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "originalUrl": "https://www.thejakartapost.com/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/profile/picture/235/235.png",
-          "width": 475,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/20/deepracer-womens-league-to-help-women-develop-machine-learning-skills.html",
-      "publishedDateTime": "2020-08-20T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

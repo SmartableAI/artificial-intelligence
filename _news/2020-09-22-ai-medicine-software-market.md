@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-so
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139411/covid-19-impact-on-ai-medicine-software-market-outlook"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Deep Learning Software Market"
+    excerpt: "New York, United States - The Deep Learning Software Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation. The report titled ..."
+    publishedDateTime: 2020-09-22T12:41:00Z
+    webUrl: "https://www.openpr.com/news/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    ampWebUrl: "https://www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/9/T922635002_g.jpg"
+        width: 550
+        height: 308
+        isCached: true
   - title: "Global Artificial Intelligence Software System Market"
     excerpt: "New York, United States - The Artificial Intelligence Software System Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation."
     publishedDateTime: 2020-09-22T12:38:00Z

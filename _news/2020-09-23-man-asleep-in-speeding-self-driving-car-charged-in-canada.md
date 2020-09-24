@@ -94,15 +94,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 4
-  - title: "When Will the Self-Driving Wallet Arrive?"
-    excerpt: "A self-driving wallet is just that - an online service you would use to receive money and buy stuff. But also, it would send your taxes to the IRS and invest a part of your cash as you wish automatically."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.finextra.com/blogposting/19349/when-will-the-self-driving-wallet-arrive"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "ksYkj6EAAALvg96GMgz3IYw21gTZoARRG4UdVbvCIohRZkQ3u+ZZYjqbCBRNHb/BIMx426jSBXKtWCqvvwIwnHD891RTPVsFNpNG9VW8zSSWut1hPnSrQCUpxP80nl8jnYr1dsH5cEfdycpFa1qYCheYYtFrOC90eZznSzuQrk58SmBaRQId6mglGXRrhO2k8cMhKkR8eZHZQm8y8I1fT+mMdSVJvGbw4DFO3tu9zD2oCF2xsPTe0Gvspa3tJ4drPvv/V/8TiqxhmW9VUOJ0w9dwSU4/F7vWFaKpo3Sv4TtScGTkYaWzTL/dP/G63aoh33APcHdSPUW2atcr2/kPmOLZXWwUSej88pn9jPCbbi8=;GY7nQuVJ6hlJcY/KbWuIaQ=="
 ---

@@ -94,22 +94,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
-    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
-    publishedDateTime: 2020-09-21T13:59:00Z
-    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
-    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 38
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
-        width: 5300
-        height: 3535
-        isCached: true
   - title: "Anhui opens 5G-covered road for testing self-driving cars"
     excerpt: "A 5G-covered road for testing self-driving cars was formally opened in Baohe District of Hefei City, east China's Anhui Province Thursday, welcoming the first"
     publishedDateTime: 2020-09-19T20:33:00Z
@@ -121,6 +105,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "House Republican looks to rev up self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-09-24T11:00:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/09/24/stories/1063714539"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/09/image_asset_94369.jpg?1600945803"
+        width: 618
+        height: 318
+        isCached: true
 
 secured: "Lqn+EAjRNDIfgBswpL/YMB+fo99NK5C36S2WnNMSzSi8f0u9FbT5Ao7skyxZqqpRFyiOqKVrpbqz1+LEZJDjxJ/BBZ8F0hkIzYDipBrbNyK3BW9snY+BA1bYc4YGutV82AMrsIIkcnpaTXpmM4XPLmsqKlEPrGdYTAKDlp64v/lGhNWh//rkT6yEynAipHZSGwWcEe2Z6yAqSVpRIUjNlxfZnMxQGaDZDKN33FP/FntAQ63E/sIYUQpOZ254zmy2oRPJ6/fNb3UcR2pI3kk9NMKGNhL2SKTw6p3NE8SJn56dpzzsP+vfZsVUul52k+6ZT4hq+1InfCKa2c5qGpqZUB4rWKBi7unw4RtqsdIXaUA=;Yi4yYojf0PBuNY0P8uwRhw=="
 ---

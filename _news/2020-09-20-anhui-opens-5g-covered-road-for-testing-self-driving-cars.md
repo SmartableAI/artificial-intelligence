@@ -96,21 +96,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
-    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
-    publishedDateTime: 2020-09-21T13:59:00Z
-    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
-    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
+  - title: "House Republican looks to rev up self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-09-24T11:00:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/09/24/stories/1063714539"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 38
+      name: E&E
+      domain: eenews.net
+    quality: 24
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
-        width: 5300
-        height: 3535
+      - url: "https://www.eenews.net/image_assets/2020/09/image_asset_94369.jpg?1600945803"
+        width: 618
+        height: 318
         isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."

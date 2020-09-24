@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting.md",
+      "title": "Adobe peps up PDF on smartphones with AI-powered Liquid reformatting",
+      "excerpt": "Adobe's PDF technology can't match quantum computing's revolutionary potential. But a lot more of the digital world revolves around the lowly Portable Document Format than the newfangled machines, which is why you should take note that Adobe is modernizing it for the smartphone era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "originalUrl": "https://www.cnet.com/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/fl4kI_M8yk3VNsMy0z483SO4Cpc=/1200x630/2020/09/22/f046faf0-1ac9-49df-b71c-e9be4b8c6f43/adobe-pdf-logo-icon.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adobe-peps-up-pdf-on-smartphones-with-ai-powered-liquid-reformatting/",
+      "publishedDateTime": "2020-09-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
+      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
+      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
+      "publishedDateTime": "2020-09-23T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-regina-barzilay-wins-1m-association-for-the-advancement-of-artificial-intelligence-squirrel-ai-award.md",
       "title": "Regina Barzilay wins $1M Association for the Advancement of Artificial Intelligence Squirrel AI award",
       "excerpt": "As these disciplines undoubtedly continue to impact society, newer fields like artificial intelligence (AI) and robotics have also begun to profoundly reshape the world. In recognition of this, the world’s largest AI society — the Association for the ...",
@@ -962,7 +1054,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1128,108 +1220,6 @@
         "name": "Windows Central",
         "domain": "windowscentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview.md",
-      "title": "Low-code updates in Power Platform for GitHub and Azure are now in preview",
-      "excerpt": "In September last year, the tech giant revealed how the Power Platform was benefiting from Azure AI services. In July, meanwhile, the Power BI Snowflake connector introduced a capability to enable single sign-on (SSO) based on Azure Active Directory (AAD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "originalUrl": "https://www.neowin.net/news/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600610864_powerplatform-ignite2020_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview/",
-      "publishedDateTime": "2020-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-azure-communications-services-is-microsofts-new-managed-communication-platform.md",
-      "title": "Azure Communications Services is Microsoft's new managed communication platform",
-      "excerpt": "... Services uses the same secure platform that powers Microsoft Teams and is built natively on top of Azure. Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment analysis, and more. Also, all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform",
-      "originalUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/",
-      "publishedDateTime": "2020-09-22T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

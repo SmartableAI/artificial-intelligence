@@ -2,6 +2,39 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-11-how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time.md",
+      "title": "How Google Maps uses DeepMind’s AI tools to predict your arrival time",
+      "excerpt": "Google Maps is one of the company’s most widely-used products, and its ability to predict upcoming traffic jams makes it indispensable for many drivers. Each",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/",
+      "originalUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/how-google-maps-uses-deepminds-ai-tools-to-predict-your-arrival-time/amp/",
+      "publishedDateTime": "2020-09-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-11-new-machine-learning-assisted-method-rapidly-classifies-quantum-sources.md",
       "title": "New machine learning-assisted method rapidly classifies quantum sources",
       "excerpt": "Purdue University engineers created a new machine learning-assisted method that could make quantum photonic circuit development more efficient by rapidly preselecting these solid-state quantum emitters.",
@@ -1125,58 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
-      "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
-      "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
-      "publishedDateTime": "2020-09-10T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
