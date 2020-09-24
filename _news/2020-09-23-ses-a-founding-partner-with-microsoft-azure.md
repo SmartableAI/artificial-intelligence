@@ -47,6 +47,20 @@ related:
         width: 975
         height: 630
         isCached: true
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+    publishedDateTime: 2020-09-24T04:35:00Z
+    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
+        isCached: true
 
 secured: "wmyp6XGSqZKMR0bk8ly/XPZEU35PDZq0DZwxhln2w6CmIoII7FDm6cymTOHDfcF1Rl9HOth3i7krVe6Szet8g8l3gRGLcDylBHEXhSyzVQOSWAbv608A061XQQorq2AS6x2I8uJhqK6svx+fIAAquyLwD66u80Wuh2wCbF+cGVmsNF1TOoX2I/YeitDJEbllqM07qsEZRBF+GLbWE4RA8uRFX18FzW7uLqXWTEYGkvqVE2N2BvyKJSoGT1RFl1sRtVD6+2A9eVlfEH0L/JA0WCeCJvBh5arWjkxWjj5dcujnGazNRrbJoMwbZiVRdxDzsg1HRSU6LKwDslZ22+73Z8Jj0hfaxSa4bI1SSz5irzk=;4cLOZUfdQnjj2Dki8Ez1sA=="
 ---

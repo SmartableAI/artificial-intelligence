@@ -39,6 +39,20 @@ related:
         width: 304
         height: 405
         isCached: true
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+    publishedDateTime: 2020-09-24T04:35:00Z
+    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
+        isCached: true
   - title: "SES a “founding partner” with Microsoft Azure"
     excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"
     publishedDateTime: 2020-09-23T10:31:00Z

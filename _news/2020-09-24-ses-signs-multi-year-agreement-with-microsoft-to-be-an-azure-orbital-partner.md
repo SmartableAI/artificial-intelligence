@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
 webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/fb/1fb9030e-273f-58c2-9811-53fe40ee5814/5f6b51f2be146.image.jpg?resize=975%2C630"
         width: 975
         height: 630
+        isCached: true
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
+    publishedDateTime: 2020-09-24T04:35:00Z
+    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
+        width: 480
+        height: 310
         isCached: true
   - title: "SES a “founding partner” with Microsoft Azure"
     excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"

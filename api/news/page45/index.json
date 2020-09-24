@@ -2,47 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2020-08-20-allen-institute-for-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai.md",
-      "title": "Allen Institute for Artificial Intelligence’s new fund makes first investment, backing Panda AI",
-      "excerpt": "Panda AI announced an investment from the new fund out of Seattle’s Allen Institute for Artificial Intelligence (AI2). GeekWire first reported about the stealthy Seattle startup back in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/allen-institute-artificial-intelligences-new-fund-makes-first-investment-backing-panda-ai/amp/",
-      "publishedDateTime": "2020-08-20T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-20-ifarm-raises-4-million-to-automate-urban-farming-with-ai-and-drones.md",
       "title": "iFarm Raises $4 million to automate urban farming with AI and drones",
       "excerpt": "Farm has raised $4 million to expand its automated system that uses AI and drones to help farmers grow fruits and vegetables in enclosed spaces.",
@@ -1216,6 +1175,57 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-20-xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car.md",
+      "title": "Xilinx’s programmable AI chip powers safety sensors in Subaru car",
+      "excerpt": "Xilinx said that its programmable AI chip has been used in the EyeSight safety system in the new Subaru Levorg vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/",
+      "originalUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/xilinx-subaru-automoative-pr-mediakit-1120x560-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
+      "publishedDateTime": "2020-08-19T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

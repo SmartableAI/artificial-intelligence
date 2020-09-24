@@ -1,0 +1,44 @@
+---
+category: news
+title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
+excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
+publishedDateTime: 2020-09-23T13:30:00Z
+originalUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
+webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "P360 Announces AI-powered Sales Enablement Platform BirdzAI"
+    excerpt: "The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable ... BirdzAI is built on Microsoft Azure and is compatible with existing commercial infrastructure ..."
+    publishedDateTime: 2020-09-22T21:36:00Z
+    webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2020/09/P360_BirdzAI.jpg"
+        width: 1059
+        height: 458
+        isCached: true
+
+secured: "0uuMham8AvK3SlfeKdl+LX9uKZF+fZiNlI40Vw8Ej2XLX9L3XA0hFxdw3Sq8XJQvR7hFMmvKrqz3keXCUQtF/e7KoawJFDXiTci63DqVQNLeKm/CenlwyESc7kL6L0dmNJJZbtgdE6hNKmfyCwZkSJahQZ8kp0JAoea+trrSJ6C0CHDgggOMACMVwMypyZSbaAkrXN5z95nviiBiUasu/E81gH3aY4TIjBlvZUDqVudAzEuWa7svtEpRHfoI9F/whTwwa9eF/FriNy6JTVDUQ3FXoyLDaBYoM0QNMvTz0JR16CQaEfkpYgwjcKbUjiXHM3H48XQmPrl+9aooTb782bHgBfTC8j6HwkQP4CbBXzs=;XSwZs2loGBQlFMCY3X827Q=="
+---
+

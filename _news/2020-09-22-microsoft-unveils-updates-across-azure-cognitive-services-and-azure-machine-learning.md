@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
         width: 1665
         height: 1158
+        isCached: true
+  - title: "Microsoft announces Azure Communication Services"
+    excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
+    publishedDateTime: 2020-09-24T04:55:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
+        width: 950
+        height: 633
         isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."

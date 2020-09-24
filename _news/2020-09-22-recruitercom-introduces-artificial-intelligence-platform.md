@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3616082-recruiter-com-introduces-art
 webUrl: "https://seekingalpha.com/news/3616082-recruiter-com-introduces-artificial-intelligence-platform"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Recruiter.com Announces New Artificial Intelligence Platform"
+    excerpt: "HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (OTCQB: RCRT) (\"Recruiter.com\"), a leading online hiring platform, announced the launch of its artificial intelligence (\"AI\") powered candidate sourcing technology. Recruiter.com's ..."
+    publishedDateTime: 2020-09-22T13:40:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/22/recruiter-com-announces-new-artificial-intelligence-platform"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "/rHZs5EGvpSvpBJzEmP5eHKlmr2+PMrCB3Fqof6sPdxKN30DZjIv72Oob9KXdn8iy6j/X9v3vNdnFs0EMKAAXjIA9pMM/nlzw5C8TAv9uot8LAxhBLV14riFeggh2zjYrBH8EeiAbIFxj/UPlJHIyKJb4h6QPT9wYloqEJfDXR7aCbGEOmtOm9wIssJxTW4Jd9SYCofOxnnO21rEh6qBJoZfpZ2AW/F4EpSBquOqAkuWjShwy/Af4XpC0v9xh294X4499fw8QWTF/IozpQ6nvKP6iDeW3bDBE9+WX0t6XXF1WUje+OZ1C9ICnbKqatd8jNpEqUeT/3BWwCIbMa2CarkFSZwyP/lYaCDdfxQnuwk=;bMzp2/MzqH7H5qs6vVjwQQ=="
 ---

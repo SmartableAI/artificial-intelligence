@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
         width: 620
         height: 349
+        isCached: true
+  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
+    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
+    publishedDateTime: 2020-09-24T05:13:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
+        width: 900
+        height: 581
         isCached: true
   - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
     excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."

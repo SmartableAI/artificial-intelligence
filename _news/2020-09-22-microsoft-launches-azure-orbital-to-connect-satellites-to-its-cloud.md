@@ -127,6 +127,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Microsoft announces Azure Communication Services"
+    excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
+    publishedDateTime: 2020-09-24T04:55:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
+        width: 950
+        height: 633
+        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z
@@ -169,6 +183,6 @@ related:
         height: 432
         isCached: true
 
-secured: "N21LI4926HsEspiPvexsEtnEsdJPCW6tOmbGj+7qZDFGE3XnxJRJaEs/c8LEYN1m3Gk4k03EpVEs2BdRvNL6vHaEMpd4lv8T4l+x7Si0HGnhB3vku0+vKHeQN1hngjy0Wwy4ueO8u9cRdgVv5WCAgEJrVWriaEpAkhM9X4RFZm1Tx72D9rqEcELWkQ7bkDNn67f7g29dO24AYvh5WbGhLNiYJYZlaJDfk8U8iOvW6vr/UFV06EFsuTnvSDd3WpzttNDeNZjltR1Hr4rdurP+Gt9aMu85hkuPOiGkBZqJNx/cdFFRe2DT3DtPtwpsv+O9LnJX0MIMBt1e8ib99WSReel9cxOR/XKWfoFueVHvEqk=;Xg9VurhLii7HPShrms76VQ=="
+secured: "XacQMIhvwhLvw9wjfWsZoUE7J8x7Vz3uQ7YLwgXs7O7ZsCfF0pS4CV8R6m4FWlDWBh2HEts6H3UaekxJPl5sjR0lVN8lZKPQKMlGxyomCL+MzjR35QR/6A3xc441nMnp/tz6dzS0oC4mKwDDc7fXPoj0QR2DUp1ntCE3iR3xCyt7LtYfGyjiSjZ5Iyf5ZZoupHnqkgl06lJz5jg4Apw/zwFRtEdCqcANbGiycHd1EeX0vk8JEs0vHBbnSE3aN0NSDidFqKgV6oP+xXq90os27M9uMFntAlFTEUZHRNpCYsZYJ2vBS9DwIWvy0UnLq6OrxOajWmMfgOVFzuGL9rJ955O0jtqA+I9n8k0+vtsGUw/JwHnOzfJbJGOD1yfX4Styx5KANMWdgf4RcjwFCclC20AabzbSJxbzXPSSdqZe95Y8wO5kh639dLj5Y6Sy9NEoHPYPlIkikDOrqaeOeVL9aYwVQTrONWvednt+kBvw9j1/FlWhqkXPc6cOvct+MgLe3dAjriBqZ82bHQOHSOIGKQ==;4GFKHA927u68PaCiZbDslw=="
 ---
 

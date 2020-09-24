@@ -79,6 +79,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Congress Parks Self-Driving Car Regulation Until 2021"
+    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said"
+    publishedDateTime: 2020-09-24T05:13:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/09/24/583893.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2017/01/Self-Driving-car-on-road.jpg"
+        width: 900
+        height: 581
+        isCached: true
   - title: "When Will the Self-Driving Wallet Arrive?"
     excerpt: "A self-driving wallet is just that - an online service you would use to receive money and buy stuff. But also, it would send your taxes to the IRS and invest a part of your cash as you wish automatically."
     publishedDateTime: 2020-09-23T23:40:00Z

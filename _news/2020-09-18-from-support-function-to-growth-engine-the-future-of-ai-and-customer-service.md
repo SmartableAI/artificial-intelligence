@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/117939139_m.png?w=3000"

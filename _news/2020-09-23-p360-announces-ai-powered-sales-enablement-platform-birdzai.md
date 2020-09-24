@@ -7,7 +7,7 @@ originalUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artifi
 webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Recruiter.com Announces New Artificial Intelligence Platform"
-    excerpt: "HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (OTCQB: RCRT) (\"Recruiter.com\"), a leading online hiring platform, announced the launch of its artificial intelligence (\"AI\") powered candidate sourcing technology. Recruiter.com's ..."
-    publishedDateTime: 2020-09-22T13:40:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/22/recruiter-com-announces-new-artificial-intelligence-platform"
+  - title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
+    excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
+    publishedDateTime: 2020-09-23T13:30:00Z
+    webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CQcztyXA0hyyf0BgWy8mibnPPyRQcaeAzN5Dj3Nm8iasEI4VnKJX+I7PAHP5PxATFCBVunuVrs+dgshgplqCT65nnM6/76zWAGjIQ6ARvskRxQeHl+VtnWobgC8YWWV/GVzEb+AXDlukpxSzcgjbu4fCNTMl5uBGXL92jzlhXHGviMWOjP7wC5Lcllf40hq8cyWpNcr6stClCB7+eG3JuxEy9Fysa5O3OdbmEz6BMa8XSg3iAD9//3Td6yhVIvIeMLirg1aG4pBso8npfJrdXbTyF2DbAiwRs2yhjuj86Kso/Lv8j7136WUfJVfydYgOrr49k09CWG6lsg+uN9/CqJr43o1Onal8cN0kN23+sM8=;U3CrXAOwS02WGHXV4gJ/0g=="
 ---
