@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anduriltech"
   url: "https://twitter.com/anduriltech"
-  followers: 5493
+  followers: 5497
 
 size: 51-200 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tnRNFlReJry2Ka5wj3k8bIy4QrK1N5GB1qC5KxKe/a0WlZ2C2K5NvmC12h2bzs/H5QtIEKk7Bvvrlj1J8ZBOONv2pLCPdNcLr2XmCyfTQkwanq33v56tvBOw+/3mg7nliPjWIjuxuwEYuH5nv0JAG1RHUZxnKQ64rHP6ZMNIAfAa5U1Rw9aAaILmC34x4PPzPnJXqNJHkVCY0J2W3ewMwprkfMtjTJZDRHEHqx2tpg/Ad+3516EV47sqg2g7LGaYebfzW7cnhWG2vBY9MmCbWiCloSDpCgW30O5GJiZvCN5ga31Zt56w1s9FnwaYuz/mFbGDSYFEEYSZTXjlNTeuQgYPkw0GRIZskIvnK1Iq1d7g6RUnczhueEG4uKveCxbsQ6fR5xnuTmLzLH/CHjjHn3zGCHGBxIBd7BxWy/Y5N+g=;pX8IEZRs7u4KlkFjBM2eQg=="
+secured: "wIYnKxdpClMChzgZGJ2zNHoY0+oNBQmSokiNAvxW7q4f/XZ8XCYxNvi/pAyRi/nFogvDlOUlG7Ys7OScMRlmWzwEIoMfcsaW9SbOK2qlWhbJ0I5Sadpu6eJFhMbZnN79KTLdalfcZ0t9mXTw3y1coChq5KIEjm9+aDRNjR917c9o1TcxzXk9s7JRYXnHJdDFkUxhtOosV6zW0u1nz8MH65/52LQSttlDcNPM5r7g/XG+HjMWFbZsdq6osoi6/fd0w35Z5yQiH57K+6zZnGU/VKCFaZiK8wIcsm1K650hWbyFLITFAJFOeLwD0sYXQc464Qlwa+Kp308qCeuSY1O1TzVW2tdJ+53Re2tDO+35x21oE5yrryPj1Iqz2tVv192LGyQZ9545wtukMzMG9B5YNGd+WRs8Z9xqR1/fh+YtUaM=;32SpdZyUGBvl1SoHlNTOYA=="
 ---
 

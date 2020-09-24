@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "armorblox"
   url: "https://twitter.com/armorblox"
-  followers: 266
+  followers: 267
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "2FjA8hRJwFd/6bIpx8nurYhuIy9mzQAlZAtC8C1DTsnlbZh1XwH6bvm6D+LQbprqTr9blAV3d73+CMZG/KawHHTfj8+qNS+w+yP2mErRDG45XxUSKiwtawcjNqflbticJlbH+b1U4ov6vM64jctFK+qfSaNjd5cqeS/W2FdPi10rxCRsiGF71ZHld5hWCdbrYVUMeMaq7IbRxlUe18qGXh9CG9EnlrrhCDthw6Lj97/6ac+eTiI6l5NFTdgH2hxNnP6J/xBk9b7XJ8O6XjRQZznRwYjdpWq1h7tZjLtVHbMHnd9lVJXg28+R7MRXtviPJvoCZghMrHT/Ylt9KrbkXxINBfoz/PHFVwm2dGaIrTVMiSAv1TfQ2OxhvFGsvzKjM6CyxTk7kRb8G+qvcMH2rA==;Mi84ZpCkuRvydJexh6W3DQ=="
+secured: "O+LZk5ngCaeTwjkacLsphscgqR/RFJbCO7JpG/YSIax/i6VxmQBl04trNDEp+3kw8FkhFR2IDif/w8HeRYGN30xG2mMj+24BFMDFVuwJinPtCeOpuXSHfIWfEloVEGEDiBbIqrVpSvRl50hmOZOM+HEGdGNQZrCRZuAkXHP6BseOz0oesci7B1EJMifNGe+4GF5DXvwSLD5GAz/moX+HfDPwAwmAOhW29Jcy3Uu5RZMoZ5wC6qLMCeI7QX/bTPIrATLOA/8LZMJki1ptsTCSS4++R00rKFhoOzWfdozVhIiPPaifTvrE4xgNOJcqqRFlUVfpXNPTKomVlw8FmYnixalGu6iXRmU1fRUh5H5DuWocw1SIH5/p8Y0NGt86Mmk+taN9mFG99iYaOqp5ivWC2g==;NEtx/3DJ2E3RB4jc+P9kFA=="
 ---
 

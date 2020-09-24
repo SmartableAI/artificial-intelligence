@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluecanoelearn"
   url: "https://twitter.com/bluecanoelearn"
-  followers: 154
+  followers: 155
 
 size: 2-10 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=xGsl-hTLi_g"
 
-secured: "Tc4+BtSClSuRXYFmtawJGUs5PjEr00+ucN0T7M75MKu7IQugVoyt3GHVOKFUhCr9W2QLjYyCh1QZt73EWwHCw6xjNTF7Cy1iRXa3I5POmmB9FdpBexMrle3fn9P5puW+jke/4S60OfJSwcl32vd6oLr9a50XLHZEYNR4bk5xnWNuM7LiM0cVjglQXXBMgE/lAl583L2e1hh647uJQFePKUzmOOeReWTvYcFDoCl3btNqPZ4wB4ruG0Lu8CXs9LXYfzf27aztlqjEGGmMycGYC/raNXyZMa1iLrEPJRXGXZtFREYJxcfQKOLuV6FdVwakAXQoSFTf3spbGLH6+zRG6mLWuKIjSQlL7hSF5Xn/J81gpEn/CfhnPj1mln0/zQ6IV20JXV1H7Px6CJkrVTaA8w==;mFNJgQCMAaiHPbDVmPqwUg=="
+secured: "4jhLGOXPpOAG9p+/V7Wn/W5c6SADsO2fqcwwEFHRxfKOOMuO2gn+DkM7/2RlIhPzeKZWbXaOAW7yYXK7af2w+mds1W5I+Nful7WHB2zClDxHmF3RrkQsWhFLh/f9zq6IJB3sPnnx603pWMqbFLLQfWFsRJ52NRqVz2HTeFBrDaVJsQhpOn1yRa08kcbQrJ7cdn2DB3qC2dRpeHf3G9eLaVuh2fUF4/8EOMJQPIdv0VNPK7MXdS2UWlnt4WH1f7OhcCzOvqO9DU/L6HBWYoFF0Ia561o15PvbeNV0q7VE9l/2islPGotrwxIgtU+wWC/2LfYl+DaK0vdblBa/pQvQL+HkVL8OOR1yZjIEP3v0c5V+hV91i0HL/6gtYFOhzBbFK5pWv9lk+phkdwehOipldQ==;x14/t0h3s690w+9XeNEyzg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Clarify Health Solutions"
 overview: "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world."
 type: "profile"
-heat: 65
+heat: 31
 
 website: https://www.clarifyhealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifyhealth"
   url: "https://twitter.com/clarifyhealth"
-  followers: 446
+  followers: 445
 
 size: 51-200 employees
 yearFounded: 2015
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j4LXE1HWZBk"
 
-secured: "sIG7VJMBV3j/nmVdeirLgUS2Mkxo6cBrF7SWzRvZEWzB8OxbEULnyYtsTdrH43JbQxs2g9Bhf4PP6T4Hs7z1ZLI0SivUTFdaYW9f6bJMYOBCRXuB3MPWTYl/35/T08GnFWzyEj8c6EOl4g3saH62HdgC0Ujy4zTGHe4Kz5PG2nTmfBKwPr8yh02M/vl6cF4w7MMl4xkHHpV2vU0QDWuyXH87YKWl+g3PqtkJrRrbWFwnzrIEQxQt3C8WJUr+n6M47gc65X92IaOrUK66QkF7+aDOgachiPIGKoTDTLTxSZEQxHY7ezRn8ksr6OgMJcOziIPcS1Lxhm6vV2FUBMLCWvo/QPOulfChF6Fep7HJJZAX1pg1EnvmwjCTgzAGFb4sDC7e+qGvufz0C5gwrTS7Wg==;/OuFxFKu2UwfLHiSJ80Tng=="
+secured: "S3hAQutu1nc0j/QJn0qwXc5tj6874ziLMMs3CyXeOuJH8Q+lufCmMWS6gdHBv6ff5iho7DpiS5BN42h+hmPYHDSGOEMDk1G3iaoJqKR978nci6QZbJxsYze+eIqMBtk7vCBon2eA7UIeYl0kc7BMUYHi2AusFVnhSQd1atT5rc1eMMFiOOXRT7Wsti54OmaMnQdJeg9XDpQhaiGbRgw4NwCR99rF3IMtVUpD5UY7dfsGIkQxlp/BAIrPEDI1YLH/zYc7qa6qZjxMLSQ5PdI054JmiHhfp/jTixe9TE1BtSS2MVk5Ja1y7cuj0NJUTeB1QfKLbWkJJDzhyFnIAJAPwqwXbE36W1O7xrh9NJJdbjfydN/77j5t6G0fz7hEekdj/71ofDTM3TtKFOHVZPR0ww==;jZNLRf39lhTRS7l/OJhF2Q=="
 ---
 

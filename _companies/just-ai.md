@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "JustAIglobal"
   url: "https://twitter.com/JustAIglobal"
-  followers: 501
+  followers: 503
 
 size: 51-200 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=u9qpsrqV5wo"
 
-secured: "mcWEQ61hNefAdGiuJY1OCNq5RDntKxAfxH7PKO2WXQEPgJviVIHzRsN95pFuKcpgq3mGVoNJJ5YFuhhEcjY8gK8vX87Cs5h8CcIcrwTGJBaMDNOQI+Nu8CQ6O8/xWf+SAfi/zzEe3B2zBG+0QvvzEyKDXeM8SaiI8OXv/ZHIsixQOGuLRIeHCGSO90U2+DXg8vAY3JRiWsm4Au5Ugy9ecjup/ksgqDLscA2kyBD+cx7xnMnRL0rIsN13ZUGM/pD0LxAmJJvC9lPHIsz1ZQcEf/DjszDFmnsPZKuHS1MIaoBFs47W/YJkoBEj0AfcwvtHxHkIS7ai+qJHeW1k9ShFkvEYf6yRNhy+IsvHhhgwBXy71RBkrIU9UePbdPBnzZeH1CuKlSIuqyGPsf7ohNoEYA==;ImlrVPejZwcwbmQPxp38dQ=="
+secured: "HkNaA7VmZFIzdF88szWzOR3tqVcEdI4rC7aSZo5at4BOfJMoMNHnYONQXHENXCKtHReG2PQLmdYIF/2PqFRj+noFULJ8eq3ar5M9HeYCbduqWgslHSkfGkKnNeiCJMjn4U+b4D4n9t7KwZ9NB/5UqfwB9P6uN+1kfNAZfG9sM7mrnJU4xTjWZeQ3JgqE0YSWeYpyK9wXzbO3uj9bCB1HBpVTh6U6Hv/tzEBLa2BPZ1ypIGPMzgGpnnM32hfm6XJ+g9JvxRLPpgazdwG4UfV6PsJMF1suMapmn2+WjwkciBf7qfIcgSY44u1FSjI9dnpFd/3m/QfTcPqjUIsQHD78t91uIPmEH0Ov0XxYcXhLNor9MZPAkUmVGLs+ge8b5dqZwzUrCTAQKWzmxn6BPFmNpg==;NHqizOFe3yiLmXSb8e2fQA=="
 ---
 

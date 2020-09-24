@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 31
+heat: 58
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1361
+  followers: 1362
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "F68+Z4fB/EffyDFE/fMh6dbf2sLo/3YR0jGNcRqItv7ZO31klA0OBX376xVdOfFEWvwsUyYl9Gjs6oyX3T/xmFUw6t2uROlANiiUWL6sLclhwLn2eQjemZKknRf8iZ5GaZaMKe0hycqzCanvxYD1STAYait7Qdv9WRXsx1VCMJCsWAmRJZh+MPZD/psVNCyUadhuJEdBonVsryifRVwhRWoi8EkuL4SQg7NWOwDTY/wV9arIoV2JO5zcNq0PjQmkScYrjj/AwMnq9FSaKwxcbpRnVm/On+OkxWp7tDZMc8cISBOUK/RwczoRqvy3/jLtJw4RRUiOXNY6CDZBCCFEQGgKQsTfc8TKl1kdajNJEgm18FzBh+yNiq9OIp3zFyup++fzTBz6jfTWKa1hfKLtHEfJ8ZOhsiJB4Tj5LPV/CWM=;hHZ81r/1GbTR9OFv+DsydA=="
+secured: "NiKCUeP3bQWXZ/OsJOTpG2mDtEHMCeRcal5mzO0YF2+8OeYnioCVV1RWpSgt69b/oy6Q5njvGG75U6Z4yk51/+K6hQT5wHQMUT9esJrKl65hGB8RQw5KEg0B4ER5IWsvT3K5d/cEbCmpK8tlA7NDhL7GX98B/hlqAGYiuxoRWLecbNjRkxjpZNlkkxeTXw1FnVQ5NfKypS/O2FzFE7ENp0IiL+im0gmi16VS7xSHvpqzOhoKjDXZu279zenJ5/ubfxZ1TN2gMYTiLIiB7tSNqs2fketH/HO+/TeXstHImz/NI0K5jIJi6zPM+6843+WM8bJbss4ZUqOni7jjKbqejn8AEkcuY+RiJCCg48lfFt7Vzb8vQc32IRJDBOQ1bXCdYiF9l3Ll2Lfmxg82YLQiSOHS9xogug1H4VaKOSeR74Q=;KKjCnLaTy/54SWjmCfpzew=="
 ---
 
