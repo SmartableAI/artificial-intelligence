@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla reintroduces ‘Enhanced Autopilot’ – offering cheaper alternative to ‘Full Self-Driving’"
-    excerpt: "Tesla has reintroduced the ‘Enhanced Autopilot’ option – offering a cheaper alternative to the ‘Full Self-Driving’ package for existing owners. Over the last few years, Tesla has changed its Autopilot options and pricing so many times,"
-    publishedDateTime: 2020-09-19T16:10:00Z
-    webUrl: "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/19/tesla-reintroduce-enhanced-autopilot-alternative-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
     excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
     publishedDateTime: 2020-09-22T15:43:00Z

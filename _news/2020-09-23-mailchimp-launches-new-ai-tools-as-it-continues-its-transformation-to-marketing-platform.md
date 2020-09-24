@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
+    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
+    publishedDateTime: 2020-09-24T09:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maru-group-launches-conversational-ai-feedback-tool-on-proprietary-insights-platform-maru-hub-1029611526"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
     excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
     publishedDateTime: 2020-09-22T14:00:00Z

@@ -55,6 +55,15 @@ related:
     quality: 67
   - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
     excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
+    publishedDateTime: 2020-09-24T09:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maru-group-launches-conversational-ai-feedback-tool-on-proprietary-insights-platform-maru-hub-1029611526"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
+    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
     publishedDateTime: 2020-09-22T14:00:00Z
     webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
     type: article

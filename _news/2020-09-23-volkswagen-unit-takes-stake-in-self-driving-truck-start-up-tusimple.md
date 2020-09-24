@@ -62,7 +62,7 @@ related:
   - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
     excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
     publishedDateTime: 2020-09-23T07:14:00Z
-    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13"
     ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
     type: article

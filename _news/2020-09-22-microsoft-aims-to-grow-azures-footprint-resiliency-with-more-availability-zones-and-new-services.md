@@ -73,6 +73,22 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft introduces Azure Communication Services: Know details"
+    excerpt: "Azure Communication Services makes it easy to add voice and video calling, chat, and SMS text message capabilities to mobile apps, desktop applications, and websites with just a few lines of code."
+    publishedDateTime: 2020-09-24T08:18:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 89
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1599791199.jpg"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
     excerpt: "Microsoft MSFT announced major developments to its Teams ... It can also leverage other features of the platform including Azure Cognitive Services. The communication service is encrypted and adheres to HIPAA (Health Insurance Portability and ..."
     publishedDateTime: 2020-09-23T16:23:00Z

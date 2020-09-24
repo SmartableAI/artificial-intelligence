@@ -88,6 +88,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
+    excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
+    publishedDateTime: 2020-09-24T09:51:00Z
+    webUrl: "https://adtmag.com/articles/2020/09/24/azure-communication-services.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 25
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsCloudBlueSkyBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "ahLpvx6Wry7rwOIPWHHcRX8v8+4ysueoNgUHo1Lw1Wbbdvr13oN3eIwR5hFEK+Wx+HikhHhM1sSYvLmTS+TCgsaAaCdmgWubh0faoHkegphkFfagmZwGe+G4rCBU6mmdlEjEhfUsFdYi8BABQBe9I5hsYQhJHKR2SZy4rFdoDP4/QA0ErRBuYgnKsYOubfJC0ltOsVmesm8tMPCTONxSbnufMaNBbWs+sBfKFE2DCOJ0osoakFqLAlGT0RRnCF1Vev3SN0etFwAGVn6o93M3jFEaNK3YWpeLmdqr1FQFzhcRcTIyxgG74Qp4lh0kdRj4PVNT4lTsw7ATbaUJuLcT1U9HKNoOd6VYR22cFMwxQ6XYMmTIQvQrWCF2avW+VQRAUqLpkN/wDaSmebPZ+4e1ifoIu+BP9UN5eyfpy6Fx/WKNiPhddNDzuCnaIN+bWAf//0icSUUJMzK3nl6N5JBj4Cj8g2bKBDFY0IJGmWzhwkCghp0g1HeY/oUiB7VVWtDv+SCNfF9bKcdJd+KJMHgzWw==;dLZ8HB0ihuWYbc3BT/XsSw=="
 ---

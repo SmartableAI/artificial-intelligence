@@ -45,6 +45,15 @@ related:
         width: 900
         height: 537
         isCached: true
+  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
+    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
+    publishedDateTime: 2020-09-24T08:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
   - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
     excerpt: "Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, has announced its strategic partnership with US-based Upswot, a fintech startup, that provides"
     publishedDateTime: 2020-09-23T11:40:00Z

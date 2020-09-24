@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/</loc>
+    <lastmod>2020-09-24T02:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/</loc>
+    <lastmod>2020-09-24T01:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
+    <lastmod>2020-09-24T01:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/</loc>
     <lastmod>2020-09-23T20:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1411,12 +1429,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
-    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/</loc>
     <lastmod>2020-09-14T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1461,6 +1473,12 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
+    <lastmod>2020-09-14T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -50,6 +50,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Li Auto picks Nvidia over Mobileye for newest self-driving cars"
+    excerpt: "Li Auto will be the first automaker to use Nvidia’s newest processor to facilitate highly autonomous driving functions for its EVs."
+    publishedDateTime: 2020-09-24T07:59:00Z
+    webUrl: "https://technode.com/2020/09/24/li-auto-picks-nvidia-over-mobileye-for-newest-self-driving-cars/"
+    ampWebUrl: "https://technode.com/2020/09/24/li-auto-picks-nvidia-over-mobileye-for-newest-self-driving-cars/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/09/24/li-auto-picks-nvidia-over-mobileye-for-newest-self-driving-cars/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/Li-Auto02.jpg?fit=1920%2C1080&ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Mobileye, Dubai's Habtoor partner on self-driving taxis"
     excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving taxis that could take to the streets of Dubai by the end of 2022. The deal is the latest collaboration to emerge after last week's historic accord between Israel and the UAE to normalize relations,"
     publishedDateTime: 2020-09-23T12:46:00Z

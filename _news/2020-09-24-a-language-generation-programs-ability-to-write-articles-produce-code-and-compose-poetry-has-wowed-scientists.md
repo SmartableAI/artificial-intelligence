@@ -2,24 +2,24 @@
 category: news
 title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
 excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
-publishedDateTime: 2020-09-24T07:39:00Z
-originalUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/23/GPT-3-natural-language-generation.aspx"
-webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/23/GPT-3-natural-language-generation.aspx"
+publishedDateTime: 2020-09-23T20:58:00Z
+originalUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
+webUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Washington Technology
-  domain: washingtontechnology.com
+  name: GCN
+  domain: gcn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://washingtontechnology.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
     width: 760
     height: 368
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 213
         isCached: true
 
-secured: "swuCAT0BShltgZMhs7Ia4vLmGr4jRoc7A16+Qoa5YAm5Wk1UV+7Agp6McN2ytaXMwz54shT/m8pv7n0/oJs2fzYk5sShHpcE7EYCMe1aQK1+PkxyEw1EaVM/OGCYdV9pObOPSWUjz7ivjZyKJxdI1RrYKyJomvQ6uoBhCG1zZOvwBVEhE5A+y8bLGeLqa3f+wAJYqBu4TcDDKkol5W4VTHsJ4BAqIy5zA8UnwnWAncSgJd8TGDYKEjGgJQ7PdKcbdy+0gfi7xgs7pN8tcx8V+0wdXdPg80K6nPqEFV74BgiuxH0Ax61KOmpbMpubvGL9gCpN9heC9wtEUy6hqOU88OfIU0chjJo+l0/3drYt+6g=;7E2bZpdq13QoDMCFhiadlQ=="
+secured: "dUOgju8jdJRML+PkGccdYnClzsOCuFEfz8BGZvHz5S32wOrmPOiaAaPqiRDIZ8Uu0l1Maw/9dzg90coi1Jz2JOusYtH77rpTayMALKFXvOK5ct/Qczkp4DwngO8z6EccBjv35TMKCvtDNzK7y8HS9O/MNQVlP1OUJl9WGt8q8Tgb0VE0I/JoPKONVf7fTnOnvaOpxDEcT3gUncShw5SZUMWyXksMHJzKhh0ZQsJMyg70XFgufkeh7esQW27zUM0xnMHwjGP/Hz/2gHSxOaloO3Fsnm/KhaulOhjO79pCDgdX9Qv1Ib4zBY+Dx6nMNqHh2na8g76vUZrM/prjCcVAdkVMAB01To+TkkUcsqJ2EwU=;kjqVY9oE+B3eamhjVKEK7A=="
 ---
 

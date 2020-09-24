@@ -2,6 +2,158 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-16-nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system.md",
+      "title": "Nasdaq makes push into anti-money laundering tech with new AI-based system",
+      "excerpt": "Exchange group Nasdaq said on Wednesday that it is launching AI technology to help retail and commercial banks automate anti-money laundering (AML)investigations, as it expands into the financial crime software market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
+      "originalUrl": "https://www.reuters.com/article/nasdaq-technology/nasdaq-makes-push-into-anti-money-laundering-tech-with-new-ai-based-system-idUSL1N2GC0A5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533675176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F138",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2671UE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2671UE",
+      "publishedDateTime": "2020-09-16T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-this-entrepreneur-uses-predictive-analysis-and-machine-learning-to-achieve-efficiency.md",
+      "title": "This Entrepreneur Uses Predictive Analysis and Machine Learning to Achieve Efficiency",
+      "excerpt": "Julian Jewel Jeyaraj created AI-driven technology JJAIBOT, an artificial intelligence bot, is capable of detecting human emotions such as anger, happiness and joy, and here is what start-ups can learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/356254",
+      "originalUrl": "https://www.entrepreneur.com/article/356254",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1600251356-JJAIBOT.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/356254",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356254",
+      "publishedDateTime": "2020-09-16T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools.md",
+      "title": "Over 1,000 parents sign open letter protesting facial recognition in schools",
+      "excerpt": "More than 1,000 parents from all 50 U.S. states signed an open letter advocating for a ban on facial recognition in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "originalUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/16/over-1000-parents-sign-open-letter-protesting-facial-recognition-in-schools/amp/",
+      "publishedDateTime": "2020-09-16T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
       "title": "Life academy promotes ethical ways AI can with help food security",
       "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
@@ -1028,157 +1180,6 @@
       "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
       "publishedDateTime": "2020-09-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts.md",
-      "title": "JPMorgan and BlackRock tap AI startup to automate opening custody accounts",
-      "excerpt": "JPMorgan Chase & Co and BlackRock Inc have teamed up with artificial intelligence (AI) technology startup Saphyre to automate the opening of custody accounts, the companies said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L",
-      "originalUrl": "https://www.reuters.com/article/jpmorgan-blackrock-saphyre/jpmorgan-and-blackrock-tap-ai-startup-to-automate-opening-custody-accounts-idUSKBN26624L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions.md",
-      "title": "Instagram Makes IGTV More Accessible With Automatic, AI-Driven Captions",
-      "excerpt": "Instagram on Tuesday rolled out a new feature to IGTV: automatic video captions. The captions are powered by artificial intelligence and localized in 16 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/09/15/instagram-makes-igtv-more-accessible-with-automatic-ai-driven-captions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f60ee45512f01dcd9537442%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-google-launches-new-ai-powered-meeting-room-hardware.md",
-      "title": "Google launches new AI-powered meeting room hardware",
-      "excerpt": "Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to using Google’s own Coral M.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Google_Series-One_Medium-Room-Kit-1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/google-launches-new-ai-powered-meeting-room-hardware/amp/",
-      "publishedDateTime": "2020-09-15T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

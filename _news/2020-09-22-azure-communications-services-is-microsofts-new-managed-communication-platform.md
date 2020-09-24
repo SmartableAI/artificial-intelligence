@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
+    excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
+    publishedDateTime: 2020-09-24T09:51:00Z
+    webUrl: "https://adtmag.com/articles/2020/09/24/azure-communication-services.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 25
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsCloudBlueSkyBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
 secured: "avk5cWaTQtcdQGXRaOFD/bqt6mRjA4BxeMZK4OG0a7MbbTBdUw6o2ikdWRgYca6pOsdP1+eOurtC5hGGgyhWgtV6rOBCQSd5N5gEzgXcuNb3Wjy8rw7oJkUwuoNPJU4s2V4ahP34j+UKsaZTIigI3/9Qx5zOR1FWsNIl5xwC8UIjk2KssAjpufzVVblGSqoQEfDiDe7OdD5cxucflIEensFXjgiMuVZaWapNTtv+r3v8Zg4KixbPkQpVM5sXNY0XLzk/IM4LKHXLesQGflLXnBHoBd+exclallS87aUTTVY7lgxk7KsuznPxNqt8ZbeoMKzJqsJZL3X9ciegGvttHAZ37tJ1AMW53wf3LjrAGX+Ve6wUsyPeKLTQR61Wm+42GZnI42SdzPrXC9VrS4WZKrKoZv0Z0ZYCokc5rVtJjVKEiomV42c3rkzA45ERHsZvEmcR2HZE+URoOajjUoo5OxhPERqa5MWP7WrJA5LzNdzkr6ypiMnPp+fashIhz/6U71lyzIIZVetXc3Tf45ZaRw==;L9l6f0r5zdxwKfCB+zMavw=="
 ---

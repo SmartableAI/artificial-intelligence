@@ -26,21 +26,14 @@ images:
 
 related:
   - title: "ADERA and BreadTalk Group to Establish Technology JV to Develop Innovative Fintech and Digital Solutions for SMEs"
-    excerpt: "ADERA AI Pte. Ltd. (ADERA), an innovative technology services group headquartered in Singapore with a track record of more than 35 years, and BreadTalk Group Pte Ltd (BreadTalk Group), an"
+    excerpt: "ADERA AI Pte. Ltd., an innovative technology services group headquartered in Singapore with a track record of more than 35 years, and BreadTalk Group Pte Ltd, an award-winning F&B Group with more than 1,"
     publishedDateTime: 2020-09-23T10:00:00Z
-    webUrl: "https://www.asiaone.com/business/adera-and-breadtalk-group-establish-technology-jv-develop-innovative-fintech-and-digital"
-    ampWebUrl: "https://www.asiaone.com/business/adera-and-breadtalk-group-establish-technology-jv-develop-innovative-fintech-and-digital?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adera-and-breadtalk-group-establish-technology-jv-develop-innovative-fintech-and-digital?amp"
+    webUrl: "https://www.nasdaq.com/press-release/adera-and-breadtalk-group-to-establish-technology-jv-to-develop-innovative-fintech"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 23
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/asiaone_default_1200x630.jpg?itok=rU082f22"
-        width: 763
-        height: 509
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 13
 
 secured: "DdShubt//49WqIM6lkbfAs8rvMoA+xnYDKv1s8sxla3tNKiPRcrppaAdwDvm0uJ7HhFhtOf6mENqe8mG38cQTQSHocRyOFpmCxY3MitH1/Vd6OzRXOyvAU2IxXYf/us3M0tlJ+dOprHR1HC5a9kFTEGRLaKpG56ISQzWHL1fHLOE229rDJXycKvxoRLEPi2cheEyZP+nje1egXUSnvZVwoDo8sXlCdMKVuTzWowhJooK1FEUQkvyI3ICXCSJy00t3pPwdaiCJ0fCn0L+m8hUBN5d3YmbNbuQshnaJaFJCzAsM27GNKSQ0aAavPWHtxd7eCXip0Xw7/dak8hfNW3MiwemZNAa4XNuJXLlv5+ZtMc=;y6nyuca8GyqXTCHmM+HmyA=="
 ---

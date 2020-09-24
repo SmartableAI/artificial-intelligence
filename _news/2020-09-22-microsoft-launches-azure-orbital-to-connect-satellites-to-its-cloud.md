@@ -63,6 +63,22 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Microsoft introduces Azure Communication Services: Know details"
+    excerpt: "Azure Communication Services makes it easy to add voice and video calling, chat, and SMS text message capabilities to mobile apps, desktop applications, and websites with just a few lines of code."
+    publishedDateTime: 2020-09-24T08:18:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 89
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1599791199.jpg"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
     excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
     publishedDateTime: 2020-09-22T15:00:00Z

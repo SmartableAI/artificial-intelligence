@@ -49,6 +49,15 @@ related:
         width: 2754
         height: 1318
         isCached: true
+  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
+    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
+    publishedDateTime: 2020-09-24T08:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "HaOgCb8nE9H9V/WyFGkXKab3IkpVPNYhZ0oufoP/m3SIKBRjtP7hM5QBZLc3nn7i5Xfok3EODLeYP1SwhbtB3eei6fwvPU3R52l48pTpF7lDLiQ9RHRXr2sKley9bERvH5wEYB2dKI26Ymx5oiqznAmyYoVMjH1W0i0qNjaE38HG1Z20psv8fJLbb0cwxkT9yymvrrPaMYdQ+S8D4+RG3hwW/YqI1aAzYQAQt8ivQWEdjLIVAZPuDhZV1bWf+nNfXR0GYiHdyOlmS86PzKPTHNnamtPrzo8m25MLEoypxfrnqMzRrAUlSYcMfOJsdF5fMSb8y6nE/qMsyTdqYm6p2GhBxLeuPvqM3z2qJov3G7s=;fcESv6K4gQXTI23xtQqVMQ=="
 ---

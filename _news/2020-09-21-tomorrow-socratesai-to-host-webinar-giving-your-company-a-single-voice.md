@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tomorrow-socrates-
 webUrl: "https://markets.businessinsider.com/news/stocks/tomorrow-socrates-ai-to-host-webinar-giving-your-company-a-single-voice-1029606265"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\""
+    excerpt: "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience."
+    publishedDateTime: 2020-09-24T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qxCbbnr/vel84fDPYs4GYTJh7V8htVhNf/7FOF7ilIF1Llxh10Thxj92OqvbUWZk4ehB2FOx6i2A1P9IFXV4+taYFAi/Se+om2XIyb4oHWCxzr7FqfzU5FvluauvZeGBFwHlyrsH5KsnYjU94/W5dYmW+gdUW0W1Qie2dEf7lmrivCoFXdX+aj21OmTFb6Q/kkjxLfELHfuEPKtgwpHC0CXiDUNrli0uMAphIHXbsxln4GLO/jJc2qpdwKX/zgm5nC4IystVvJOhQ3QwtvYVrF6OSlQPDK2R+HHw9sI07EV2YUFzf8h3Zg/ggucnrznYqzG2iJ0b4OSC5IbgvVaxeHrP1GPnzi7iWrPcaxcpUdk=;MZFrfs3vYGyG1GYx/y9Ykw=="
 ---

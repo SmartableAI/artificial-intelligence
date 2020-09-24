@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
 excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
 publishedDateTime: 2020-09-23T07:14:00Z
-originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
-webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13"
+webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos13"
 ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 type: article
@@ -102,6 +102,6 @@ related:
         height: 281
         isCached: true
 
-secured: "yOps/Nsm5BSAgmzQJgCFRdfHrq6u7E0dS3bQzBOIGuPzbU2tZ/sE72t2+gJFMtIhpcQFUldTo5yj9uk+sysCDS4rVpI7Yd8cNGNZt+wQi0fAwnlDmE/mVlX4oawON32ZlmLOFNmAl6H7j8VOwQlFa06Tgu/OIcZUTOLeX/qMcVv8PzZxe6JvIhkZAuwlynk4xJQ0oDq8+ryHOekf+bbEWdTI3suyRM3BFWcX2+hCuGs9WkAMfk5wNJp2mtLFLAW0woMUuK4hsWAp9gtgU5hq+whintvuQlOyMCdDCV8NVTSH/FG0hdtclXRyFqOeSnQWOBNHK2Jvw1k/adE/ZdgkpV6qi1xEEPYSKxw8p1JmUVrcoZS/vS5CZ9Z8Uel1kpNJcQedvIkf22fSjlgxl/PffxCECFAedFDM+gojYE+DUjRDZk+Bkh6Mo6xYMZqL5f5d6ipniSC0bhWkgtY9HBH+LUr9dt13LjuW4yiuV8cJ9qgQTnmnTGixBAhGANVZ8R+2zSuCMJtbHiVXbxaPPvelPA==;+XA+4C9QDili4kUHJ6GoZA=="
+secured: "im8KjiLTzXZS9PssV+WZxbc9DynbZ8Re16PRR71NgvidqEVdPhj++/LVjufyq1L+QiIFyczl2w1Wop/nMX9XX2BMtvfdIhOMwe6Jo2e9hAE8vMfhtlvDgZX/nXnJvAzXqdKjxJEhoZuA752uWamXIT0nMcfaXbC8cCKsohCIy7cZGaCP+0sm3kHEIisA5jFH6/DJQdMsvMUCDOSOPs9mus0WuzcHsoWVo3I5cHpE92Lx24AcP6gB8CHHcyKv8SMScoTKoVd7H1Chs1CGKuIFYL53c5HJEXFv/IcBn86oML/sT0o3FV07IPjTKnekyjBd4BMvPAnkwUDl5n2vW1eDmP3tt0CNfbfcaD1TA0baclw=;xJurwZQ6TD72snmYVacaqg=="
 ---
 

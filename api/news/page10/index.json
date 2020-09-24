@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-15-amazon-under-fire-for-new-facial-recognition-tool.md",
+      "title": "Amazon under fire for new facial recognition tool",
+      "excerpt": "Amazon Rekognition is a facial recognition tool that the company says can scan people in real time. Privacy advocates say the tech giant's newest offering goes too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "originalUrl": "https://www.aol.com/video/partner/nbc/518886504/5b05ad3b7985d825d454ed47/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-browser-based-models-with-tensorflowjs.md",
+      "title": "Browser-based Models with TensorFlow.js",
+      "excerpt": "The first thing you’ll need to do is add a script tag below the head and above the body of your HTML file to load the TensorFlow.js file. Below is the code to do that. Also, dotraining() should ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
+      "originalUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*npKSvz2aHjl3mzVT3bGN-A.png",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai.md",
+      "title": "How McAfee Researchers Successfully Bypassed Facial Recognition Verification Technology with AI",
+      "excerpt": "Facial recognition has become a common technology. It can be found in action every day, as millions of people unlock their personal devices with just a glance and social networks identify users in photos before they are tagged. But the many uses of facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/",
+      "originalUrl": "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-480x384.jpg",
+          "width": 480,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Homeland Security Today",
+        "domain": "hstoday.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
       "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
       "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
@@ -457,48 +583,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
-      "originalUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp",
-      "publishedDateTime": "2020-09-14T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-zenrobotics-helps-to-start-automated-mrf-in-finland.md",
       "title": "ZenRobotics helps to start automated MRF in Finland",
       "excerpt": "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
@@ -880,6 +964,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
+      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
+      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express & Star",
+        "domain": "expressandstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system.md",
       "title": "Nvidia researchers detail AI-powered clinical speech transcription system",
       "excerpt": "In a new paper, Nvidia researchers describe a system that automatically transcribes speech from clinical patients and maps it to a medical ontology.",
@@ -1019,124 +1145,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-rise-of-the-robots-the-nasdaq-cta-artificial-intelligence-robotics-index.md",
-      "title": "Rise of the Robots: The Nasdaq CTA Artificial Intelligence & Robotics Index",
-      "excerpt": "Mark Marex, CFA, discusses the Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) and its performance: The Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) is a modified equal-weight index created by Nasdaq in partnership with CTA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
-      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
-      "publishedDateTime": "2020-09-14T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
-      "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
-      "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all",
-          "width": 323,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "publishedDateTime": "2020-09-14T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ai-chip-market-outlook-to-2030-emerging-trends-and-will-generate-new-growth-opportunities-status.md",
-      "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
-      "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

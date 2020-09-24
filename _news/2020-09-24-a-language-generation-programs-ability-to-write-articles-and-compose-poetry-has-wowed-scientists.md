@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
     excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
-    publishedDateTime: 2020-09-24T07:39:00Z
-    webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/23/GPT-3-natural-language-generation.aspx"
+    publishedDateTime: 2020-09-23T20:58:00Z
+    webUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
     type: article
     provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
+      name: GCN
+      domain: gcn.com
     quality: 4
     images:
-      - url: "https://washingtontechnology.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
         width: 760
         height: 368
         isCached: true
