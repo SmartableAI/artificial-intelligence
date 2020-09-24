@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/</loc>
+    <lastmod>2020-09-24T10:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device</loc>
+    <lastmod>2020-09-24T10:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english/</loc>
+    <lastmod>2020-09-24T10:11:11-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/24/facebooks-dynabench-aims-to-make-ai-models-more-robust-through-distributed-human-workers/</loc>
+    <lastmod>2020-09-24T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24</loc>
+    <lastmod>2020-09-24T09:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/</loc>
+    <lastmod>2020-09-24T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/</loc>
     <lastmod>2020-09-24T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -133,8 +169,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-09-23/self-driving-car-bill-reintroduced-in-house-minus-biggest-backer</loc>
-    <lastmod>2020-09-23T10:42:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23</loc>
+    <lastmod>2020-09-23T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -385,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2139411/covid-19-impact-on-ai-medicine-software-market-outlook</loc>
     <lastmod>2020-09-22T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -393,6 +435,12 @@
   <url>
     <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
     <lastmod>2020-09-22T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-enormous-growth-worldwide-along-with-future-outlook-2020-2026-2020-09-22?tesla=y</loc>
+    <lastmod>2020-09-22T04:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -433,8 +481,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21</loc>
-    <lastmod>2020-09-22T01:55:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21</loc>
+    <lastmod>2020-09-22T01:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -591,12 +639,6 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/</loc>
     <lastmod>2020-09-20T21:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20</loc>
-    <lastmod>2020-09-20T16:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -36,45 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
-    publishedDateTime: 2020-09-22T18:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
+  - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
+    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."
+    publishedDateTime: 2020-09-22T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2020-to-2025-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
-    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
-    publishedDateTime: 2020-09-23T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
-    excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
-    publishedDateTime: 2020-09-21T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    ampWebUrl: "https://www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "jxOFvL9fU5hv0YSS1ZQ7Bf2+7LQSDNngTTpedNI7OlZFVBhw/Qz+O9dVpiI9G23Rgjtkw+E01smlDRyzorHJ7sqSPVyswACGBjk5XpKjM9g+JYD53XbfwnwPWteMQCGcrHLByQy62SFd/80DqGXCncs5Po1PQeCE5JYu7vPYPslT4PeQUMWz2fPyDiD21jRwZPWPbmfbWkIs6dtWhfZX0u967sZ36djOVj1w6T7Ni2dsLMe8vFeQcqt52KhdnLwhAUcdVDJ5UFp0I8wWVlPK8AkVt0XY2Pda2oExslhNPuB2S2mpNcUfMbfCpl2vwahkhcY91vSNrg3iL0FoG1+PQEyQSqfxa3CibmwbnRGTLG0=;YS9gni9IdyQaQAKGCdFWPA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-futur
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
-    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
-    publishedDateTime: 2020-09-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+  - title: "Artificial Intelligence in Fintech Market Enormous Growth Worldwide Along With Future Outlook 2020-2026"
+    excerpt: "The Global Report on Artificial Intelligence in Fintech Market Size, Status, Growth and Forecast 2020-2026. The Artificial Intelligence in Fintech Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Fintech Market\"."
+    publishedDateTime: 2020-09-22T11:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-enormous-growth-worldwide-along-with-future-outlook-2020-2026-2020-09-22?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Infrastructure Market 2020 Is Booming Worldwide | Top Key Players : Xilinx, CiscoNutanix, Habana Labs, Oracle"
+    excerpt: "Global AI Infrastructure Market Insights Forecast to 2026 The AI Infrastructure Market report helps identify the biggest opportunities in the AI Infrastructure industry space and offers accurate latent demand forecasting that empowers quantitative decision making among AI Infrastructure market players"
+    publishedDateTime: 2020-09-24T13:24:00Z
+    webUrl: "https://www.openpr.com/news/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
+    ampWebUrl: "https://www.openpr.com/amp/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2141772/ai-infrastructure-market-2020-is-booming-worldwide-top-key"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 8
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
-        width: 800
-        height: 312
-        isCached: true
+    quality: 18
 
 secured: "mFPaIWaGlSJ/ObE42m/1AJoUM3QKgQ2MXhqyvXQwTNeikupbF8RSgTgvIjS+oNUEAp0/FLxO3sM4X3XBBNTMEjQlxpwNzXPfGYsHvg/i9KrxZAEGybhrCuLJ/5NPG6AfIfOZxBtXDarPr4Dcrfsb4AeLCkIDPi2d4RKV6VOMKVxv9cGfBytCel8yhxGXogL/gsCe5IZMwqdnfu/LAs+bjY8Tze8f1tuXwoSAIB+gFGwLQ8ugeDNsKOuSZWl0LK/hsr6ciR9DIix8S6M/jcMArgXalnB7oygsHVjfbVwvX6pMW+bg2t3kUo+AuMXYMJkAM2dqYJkVGF4exmphs6SXh7Ts69iwfXBX1PM3lb2h/5vRshO1SOhdSsTuuzgmvXOTn3w5TbhrxSzBl3A3Y3jL6miUiSN0EkHa1LsaQ4qALQxQtl+VCTvcUtJiewK/hH/NsbCI4jOZpXwmiJw00XoS7LwZRwAb2NiIsSGk6gWPZAucuktqXiK0dI2kHzrqhJHyDxk9kB5jyTI791KvoqRUbQ==;k6VMeOiRZMpGCtjioF9B2A=="
 ---

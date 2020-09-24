@@ -28,38 +28,113 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Outlook and Global Insights 2020 to 2026"
+    excerpt: "Market Insights Reports published a report on the Global Computer Vision in Artificial Intelligence (AI) Market analysis and forecast 2020-2026 delivering key insights and providing a competitive advantage to clients through a comprehensive report."
+    publishedDateTime: 2020-09-24T16:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 87
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market In-deep Analysis And Experts Review Report 2020-2025"
-    excerpt: "The report titled \"Healthcare Artificial Intelligence Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-09-21T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-21"
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Business Outlook with COVID-19 Scenario to 2025"
+    excerpt: "MarketsandResearch.biz, a prominent market research firm in its own industry, has published a study titled Global Artificial Intelligence (AI) in Agriculture Market 2020 by Company, Regions, Type and Application,"
+    publishedDateTime: 2020-09-20T23:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
+    publishedDateTime: 2020-09-22T18:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-  - title: "Artificial Intelligence Solutions Market Regional Analysis, Growth Drivers and Competitive Vendors | Apple Inc, Alphabet, IBM"
-    excerpt: "Segmentation by Industry Vertical:, Media & Advertising, BFSI, IT & Telecom, Retail, Healthcare, Automotive & Transportation Download Now And Browse Complete Information On The COVID 19 Impact Analysis On Artificial Intelligence Solutions Market ..."
-    publishedDateTime: 2020-09-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-regional-analysis-growth-drivers-and-competitive-vendors-apple-inc-alphabet-ibm-2020-09-24"
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Edge AI Software Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
+    excerpt: "The contemporary development prediction report titled Global Edge AI Software Market 2020 by Company, Regions,"
+    publishedDateTime: 2020-09-20T20:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-software-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
+    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
+    publishedDateTime: 2020-09-23T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
+    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Market 2020"
+    publishedDateTime: 2020-09-20T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2020-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
+    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
+    publishedDateTime: 2020-09-22T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
+    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
+    publishedDateTime: 2020-09-23T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -81,47 +156,57 @@ related:
         width: 278
         height: 333
         isCached: true
-  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
-    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
-    publishedDateTime: 2020-09-21T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21?mod=mw_quote_news"
+  - title: "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
+    excerpt: "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis."
+    publishedDateTime: 2020-09-20T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition for Smartphones Market 2020 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- The recently released report titled Global Voice Recognition for Smartphones Market 2020 by Company, Regions, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications ..."
-    publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2020-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2025-2020-09-21"
+  - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
+    excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
+    publishedDateTime: 2020-09-21T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
+    ampWebUrl: "https://www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
-    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
-    publishedDateTime: 2020-09-23T13:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
+    excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
+    publishedDateTime: 2020-09-22T11:53:00Z
+    webUrl: "https://www.openpr.com/news/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    ampWebUrl: "https://www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139345/natural-language-processing-nlp-in-life-sciences-services"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
+  - title: "Business Intelligence And Analytics Market 2020 Global Insights and Technology Advancement –IBM Corporation, Microsoft Corporation, SAP SE"
+    excerpt: "The market can be segmented on the basis of type into spatial and location analytics, advanced and predictive analytics, cognitive/AI (Artificial Intelligence), content analytics and end-user query and reporting analytics. On the basis of services ..."
+    publishedDateTime: 2020-09-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2140458/business-intelligence-and-analytics-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140458/business-intelligence-and-analytics-market-2020-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
+      - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
+        width: 800
+        height: 312
         isCached: true
 
 secured: "h049RhWIbrx/X0UH015j7UdLfZo/7QYL11DJAYSdxQ/IlC0GGxu4jIkyF1NTtwz/RcLm8jP5I3cew3eAevoTdTGog3lY+Lc2koP1N8D1KUlvuMtGIVeoDXLm/eoSITS7vHpswPEUpzgd5C9mcgp4p0K+SF2UuLMR6JdTpMDNmUs9F9WQOr0i0d3iFqmSIXlwpBLIVV5S3gLyh+6mlGX4Rv11kuACGlhcI75z0Ur0hhteP/5ctkcQ1qt5YcTVXeK9TrqOTIqn7G32rCKQOdiMkiyzQzs8zUVMSdUuT2m5Ls7UXSuUVxye5xkNXA7bbmy5F021UdFYaDZrMeRasehkkqSWCa/Wrx/E3ofuL+DTFc0=;4iSRmTIiyAexxhaI1zq9dQ=="

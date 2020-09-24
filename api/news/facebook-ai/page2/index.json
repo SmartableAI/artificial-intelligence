@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-24-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
+      "title": "Facebook Wants To Help Build AI That Can Remember Everything For You",
+      "excerpt": "Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives.",
+      "sourceUrl": null,
+      "webUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "originalUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/08/23/facebook-aritificial-intelligence-research-remember-everything/amp/",
+      "publishedDateTime": "2020-08-23T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Boston / WBZ",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
       "title": "Facebook wants to help build AI that can remember everything for you",
       "excerpt": "(CNN)— On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ...",
@@ -1422,39 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
-      "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
-      "excerpt": "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "cdnAmpWebUrl": "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "publishedDateTime": "2020-07-29T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poker Sites",
-        "domain": "cardschat.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

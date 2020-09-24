@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
+    excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
+    publishedDateTime: 2020-09-21T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-analysis-trends-and-growth-opportunities-2021-2026-delphi-bosch-denso-and-continental-ag-marketbiz-2020-09-21?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dialysis Catheters Market Size, Growth, Demand and SWOT Analysis 2027 - Lead by Medtronic, AngioDynamics, Amecath, NIPRO, Cook and Teleflex Medical"
     excerpt: "A new research report titled Dialysis Catheters Market has been added to the vast repository The Insight Partners The intelligence report provides an in depth analysis of the global market on the basis of the different types of products technologies"
     publishedDateTime: 2020-09-21T11:39:00Z

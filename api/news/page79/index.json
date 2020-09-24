@@ -2,6 +2,336 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-07-26-police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.md",
+      "title": "Police look to AI, robots to make Dubai the world's safest big city",
+      "excerpt": "Dubai Police adopted the AI Ethics framework established and developed by the Smart Dubai initiative. The framework is one of the first in the world to address human concerns about AI and automation; it includes four principles --ethics, security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/al-razzooqi-100852747-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "publishedDateTime": "2020-07-25T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020.md",
+      "title": "Audi working with NVIDIA to create self-driving AI cars by 2020",
+      "excerpt": "Audi will have self-driving artificially intelligent cars powered ... world thanks to mapping tie ups with TomTom and HERE plus Baidu in China and ZenRin in Japan. • All the latest from CES ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoexpress.co.uk/car-news/ces-2017/98188/audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.autoexpress.co.uk/image/private/s--FadMvx4i--/v1562243870/autoexpress/2017/01/100872_4-audiq7.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AutoExpress",
+        "domain": "autoexpress.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech.md",
+      "title": "Sinclair Broadcasting Defends Giving ‘Plandemic’ Conspiracy Air Time: ‘We’re A Supporter Of Free Speech’",
+      "excerpt": "We’re a supporter of free speech and a marketplace of ideas and viewpoints, even if incredibly controversial,” the company said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1c5d98caaaf1038b76cca4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D218%26cropY2%3D2468",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
+      "publishedDateTime": "2020-07-25T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-artificial-intelligence-reduces-the-user-experience-and-thats-a-good-thing.md",
+      "title": "Artificial intelligence reduces the user experience, and that's a good thing",
+      "excerpt": "When it comes to designing user experiences with our systems, the less, the better. We're overwhelmed, to put it mildly, with demands and stimuli. There are millions of apps, applications and websites begging for our attention,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-drives-new-user-experiences/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "publishedDateTime": "2020-07-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution.md",
+      "title": "AI in Fintech Market Competitive Analysis, Market Entry Strategy, Pricing Trends, Sustainability Trends, Innovation And Technology Evolution",
+      "excerpt": "Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" It has been accepted as true that the finest market research report is the one which is pertinent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-25T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
+      "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
+      "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
+      "publishedDateTime": "2020-07-25T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-uae-china-to-collaborate-on-fintech-ai-as-part-of-chinas-belt-and-road-initiative.md",
+      "title": "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative",
+      "excerpt": "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/02/11/e79c4b09-e7dc-4d68-8c39-7489ad4704ae/e79c4b09-e7dc-4d68-8c39-7489ad4704ae_16x9_600x338.jpg?width=466",
+          "width": 466,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative",
+      "publishedDateTime": "2020-07-25T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-chemists-just-worked-out-how-to-recycle-some-of-our-toughest-single-use-plastics.md",
       "title": "Chemists Just Worked Out How to Recycle Some of Our Toughest Single-Use Plastics",
       "excerpt": "That could change with the help of new research into the chemical bonds ... of thermoset with this basic architecture,\" says chemist Jeremiah Johnson, from the Massachusetts Institute of ...",
@@ -827,323 +1157,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-rbc-powers-up-its-ai-with-new-partnerships.md",
-      "title": "RBC powers up its AI with new partnerships",
-      "excerpt": "Plus, through the use of a GPU, Borealis AI has created trade execution algorithms used by RBC’s Capital Markets division. Said Agrafioti: “AI has the potential to model complex market decisions and increase accuracy in trade execution while adapting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentexecutive.com/news/industry-news/rbc-powers-up-its-ai-with-new-partnerships/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2018/01/AI_word_cloud.jpeg",
-          "width": 804,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investment Executive",
-        "domain": "investmentexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-startup-founders-at-new-5g-open-innovation-lab-explain-how-theyve-adjusted-to-the-covid-19-crisis.md",
-      "title": "Startup founders at new 5G Open Innovation Lab explain how they’ve adjusted to the COVID-19 crisis",
-      "excerpt": "Evolute has Infrastructure AI, which allows us to seamlessly understand and transform ... How has your business been affected by COVID-19 and how are you adapting? As a stealth mode startup, we anticipated that our customer base could dissipate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-21-at-3.37.35-PM-297x300.png",
-          "width": 297,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
-      "publishedDateTime": "2020-07-24T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.md",
-      "title": "COVID -19: Aerokeys to launch more intelligence, profiling human robotics",
-      "excerpt": "Aerokeys Nigeria Limited, one of the world’s leading aviation company has revealed plans to launch the use of robots in the nation’s fight against COVID-19, aimed at reducing direct",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dailytrust.com.ng/wp-content/uploads/2020/06/COVID-19-testing.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "cdnAmpWebUrl": "https://www-dailytrust-com-ng.cdn.ampproject.org/c/s/www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "publishedDateTime": "2020-07-24T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Trust",
-        "domain": "dailytrust.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast.md",
-      "title": "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast",
-      "excerpt": "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-artificial-intelligence-ai-in-construction-market.md",
-      "title": "Artificial Intelligence (AI) in Construction Market",
-      "excerpt": "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T724430476_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "publishedDateTime": "2020-07-24T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-a-journey-to-emotional-and-artificial-intelligence.md",
-      "title": "A Journey To Emotional (and Artificial) Intelligence",
-      "excerpt": "For Rana el Kaliouby, building her company and writing her book have been major steps on the journey to overcome self-doubt, reconcile cultures, and decode herself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1a024690b254e22055790c%2F0x0.jpg",
-          "width": 1200,
-          "height": 973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

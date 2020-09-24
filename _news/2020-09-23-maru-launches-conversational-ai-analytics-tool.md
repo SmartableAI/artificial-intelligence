@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Maru Group launches AI feedback research tool"
-    excerpt: "Market research and customer insights company Maru Group has added an artificial intelligence-based feedback tool to its Maru/Hub insights platform."
-    publishedDateTime: 2020-09-23T08:34:00Z
-    webUrl: "https://www.research-live.com/article/news/maru_group_launches_ai_feedback_research_tool/id/5074362"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5074362&name=maru-group-launches-ai-feedback-research-tool"
+  - title: "Alexa gets smarter, more conversational with teachable AI"
+    excerpt: "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday."
+    publishedDateTime: 2020-09-24T17:52:00Z
+    webUrl: "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AIjVF/TxeCvszSIFPmScqxriqI4KYm15qD42Pb9DiAKrFTQUAJ6CxC6h6gAKecNbuEsVhPXxpQOp98YhXrdY+QU//CygDJ+tnYq6BxSy408dlyLc+LPdjQxu0o2WTkvKWZObVw9BouIB11rQeyZ+ATtf4TWxryz2r6CL8SYF4uvWXIgaXNn+0p/9/AtcVxJTpXaWtkTG6rHwY971Jm6/8skfOTUCSMf4QDuooisUmRsXjY1Xjd2Ss65Vslni74gtzTQn7oBmYgec8G1sDbX8swypxgkE+/BIzP5JxUGzAZEQAV5SWO6iiAxfL9JCnYBHEvCIi5SQbXtMy4Vokly3L19yRHGlch0J7vpXbMWr7rk=;nKln8JVdVbn0nmjFVm0tjw=="

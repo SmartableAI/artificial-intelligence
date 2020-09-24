@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Business Outlook with COVID-19 Scenario to 2025"
-    excerpt: "MarketsandResearch.biz, a prominent market research firm in its own industry, has published a study titled Global Artificial Intelligence (AI) in Agriculture Market 2020 by Company, Regions, Type and Application,"
-    publishedDateTime: 2020-09-20T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Study COVID-19 Impact Analysis, Growth Factors, Outlook Till 2028"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
     publishedDateTime: 2020-09-22T08:54:00Z
@@ -57,80 +43,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Dynamics and Competitive Scenario through 2030 | Impact of COVID-19 Pandemic"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 23, 2020 (AmericaNewsHour) -- Global artificial intelligence (AI) in drug discovery market will reach $2.57 billion by 2026, growing by 30.3% annually over 2020-2026 ..."
-    publishedDateTime: 2020-09-23T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-dynamics-and-competitive-scenario-through-2030-impact-of-covid-19-pandemic-2020-09-23"
+  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-09-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market Enormous Growth Worldwide Along With Future Outlook 2020-2026"
-    excerpt: "The Global Report on Artificial Intelligence in Fintech Market Size, Status, Growth and Forecast 2020-2026. The Artificial Intelligence in Fintech Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Fintech Market\"."
-    publishedDateTime: 2020-09-22T11:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-enormous-growth-worldwide-along-with-future-outlook-2020-2026-2020-09-22?tesla=y"
+  - title: "Europe Artificial Intelligence (AI) in Drug Discovery Market : Industry Analysis and Opportunity Assessment 2021-2030 | Impact of COVID-19 Pandemic"
+    excerpt: "Europe artificial intelligence (AI) in drug discovery market reached $108.6 million in 2019 and will grow by 28.7%"
+    publishedDateTime: 2020-09-23T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-drug-discovery-market-industry-analysis-and-opportunity-assessment-2021-2030-impact-of-covid-19-pandemic-2020-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Software Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
-    excerpt: "The contemporary development prediction report titled Global Edge AI Software Market 2020 by Company, Regions,"
-    publishedDateTime: 2020-09-20T20:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-software-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently released report titled Global Artificial Intelligence (AI) in BFSI Market 2020 by Company, Type and Application, Forecast to 2025 mainly elaborates on market definitions, classifications,"
-    publishedDateTime: 2020-09-23T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market 2020 to 2025 - Top Manufacturers, Business Strategy and Forecast Report"
-    excerpt: "MarketsandResearch.biz has documented a market research study titled Global Artificial Intelligence Market 2020"
-    publishedDateTime: 2020-09-20T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-to-2025---top-manufacturers-business-strategy-and-forecast-report-2020-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "Sep 22, 2020 (CDN Newswire via Comtex) -- The research report by MarketandResearch.biz, titled Global Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 draws research, analysis, and estimations by applying reliable knowledge ..."
-    publishedDateTime: 2020-09-22T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-09-22"
+  - title: "Artificial Intelligence Solutions Market Regional Analysis, Growth Drivers and Competitive Vendors | Apple Inc, Alphabet, IBM"
+    excerpt: "Segmentation by Industry Vertical:, Media & Advertising, BFSI, IT & Telecom, Retail, Healthcare, Automotive & Transportation Download Now And Browse Complete Information On The COVID 19 Impact Analysis On Artificial Intelligence Solutions Market ..."
+    publishedDateTime: 2020-09-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-regional-analysis-growth-drivers-and-competitive-vendors-apple-inc-alphabet-ibm-2020-09-24"
     type: article
     provider:
       name: MarketWatch
@@ -141,29 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
-    excerpt: "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis."
-    publishedDateTime: 2020-09-20T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20"
+  - title: "Natural Language Processing (NLP) Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
+    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
+    publishedDateTime: 2020-09-21T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-09-21?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
-    excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."
-    publishedDateTime: 2020-09-22T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2020-to-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -183,6 +113,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "RRD Study Shows the Impact of COVID-19 on Marketer Perceptions of Artificial Intelligence/Machine Learning, Shifting Investment Priorities and Effectively Connecting with Consumers"
+    excerpt: "R.R. Donnelley & Sons Company (RRD) (NYSE: RRD), a leading global provider of marketing and business communications, today released The Pivot Repo"
+    publishedDateTime: 2020-09-20T06:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200910005612/en/RRD-Study-Shows-the-Impact-of-COVID-19-on-Marketer-Perceptions-of-Artificial-IntelligenceMachine-Learning-Shifting-Investment-Priorities-and-Effectively-Connecting-with-Consumers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "PZIi4PY4KzgyMOR8RMunvPFEZbJ+LpBFIXvEEI2Sa92QDlvBR68KCJ2nTA/XCC/fHJ0wZ5Dq5yGXSLf6Ve3KJgROKMnzXmuujkPhBy+0B9ndJqHNrPs3TWqHcYwyrPrwrB8hxzMF1IacNTu1ac1nhbdGBAXnYHRH5Bs13Ey5BZsb0vOdHgcF/HvjmnrkGlxQAGorLHZZbayFBWSYOhjldGUlmCFR7dSigtCf4gFGU2B0cyhG7D5Je7FE16rARBC+A2jqlvSuq9cmLV3mTU0O8n0rSrZuwnoC1Fx8pKfPOEhCC0AXQC+Q6Pbs6fEJdQHJ67/kr3nTYloe0pS9XTchHgUl77JsB2tiag1P0HKMAuc=;3hg5FfJNIREF0nLlAoAAmQ=="
 ---

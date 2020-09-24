@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3575420/14-open-source-tools-to-ma
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3575420/14-open-source-tools-to-make-the-most-of-machine-learning.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Making the most of artificial intelligence"
-    excerpt: "All over the world today, businesses and brands are employing automation to make their operations more efficient and effective while reducing redundancy as much as possible. While this might bring"
-    publishedDateTime: 2020-09-19T23:09:00Z
-    webUrl: "https://punchng.com/making-the-most-of-artificial-intelligence/"
-    ampWebUrl: "https://punchng.com/making-the-most-of-artificial-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/making-the-most-of-artificial-intelligence/?amp=1"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
 
 secured: "BV0cqt58GQBFVzTnU2O5GxMd0LRSOO9j6qLo4FLc1NGrJ//qj4n7bEJ/mFLnRZOf6eyFlaUgT7q2BVXasTZZq7N2iVa2yHsq3iAfuNgZhGKb2+oW+wJDzn3yo2xnXdKz0ag8SU9KdCoLV1CRI093X5vFGgIp3aOE8RKUlr8EEN2wfoTtZH6rv+Z2xpCp+tZiyE6a84yAwmyChleQVC2o38skAKPebP1eo5ScAcS+0OAm24jQAjI7xbxTve18rK+QSc1rGwyp3Ifh4fxdN5HtbLTfb6SRhJdeaqXrmGf2nioHdVx4f5SezaZZo728lI/5BR1v4HC0o2M9fcojcTl8Jq/Pvd7P09yfELqXIjptytQ=;XyFHygRWYUh6gv8sE29nIQ=="
 ---

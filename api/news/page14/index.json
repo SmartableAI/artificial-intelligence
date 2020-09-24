@@ -2,6 +2,344 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-12-bahrain-says-its-time-to-embrace-israel-the-gulf-hears-a-saudi-voice.md",
+      "title": "Bahrain Says It’s Time to Embrace Israel. The Gulf Hears a Saudi Voice.",
+      "excerpt": "Bahrain’s closeness to Saudi rulers makes it unthinkable the change in diplomatic ties happened without approval. But Saudi Arabia itself may not be in a rush to normalize relations with Israel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/world/11bahrain-saudi/11bahrain-saudi-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/11/world/middleeast/bahrain-israel-saudi-arabia.amp.html",
+      "publishedDateTime": "2020-09-11T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation-platform-ibm-nyse-ibm-announces-ai-powered-trade.md",
+      "title": "AI Eye: Accenture (NYSE: $ACN) Introduces New Generation Of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces AI-Powered Trade Assistant For ESPN Fantasy ...",
+      "excerpt": "Introduces New Generation of myWizard Intelligent Automation Platform, IBM (NYSE: $IBM) Announces #AI-Powered Trade Assistant for #ESPN #FantasyFootball App Mobile AI Market to Reach $12.4 Billion by 2027 Point Roberts WA,",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5496226-ai-eye-accenture-nyse-acn-introduces-new-generation-of-mywizard-intelligent-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static3.seekingalpha.com/uploads/2020/9/11/776842-1599845765345105.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus.md",
+      "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
+      "excerpt": "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/11/468e1475-208d-47af-ae4f-f3c8078adf9c/prophix-virtual-financial-analyst-screen-shot.png",
+          "width": 2614,
+          "height": 1379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "publishedDateTime": "2020-09-11T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-ai-weekly-what-ml-practitioners-are-doing-about-climate-change.md",
+      "title": "AI Weekly: What ML practitioners are doing about climate change",
+      "excerpt": "Projects are underway to use AI to address climate change and its impact from groups like Climate Change AI and Climate Trace.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1271593615.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/ai-weekly-what-ml-practitioners-are-doing-about-climate-change/amp/",
+      "publishedDateTime": "2020-09-11T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-ibm-lobbies-us-for-export-controls-on-facial-recognition.md",
+      "title": "IBM Lobbies U.S. for Export Controls on Facial Recognition",
+      "excerpt": "International Business Machines said in a statement Friday that the U.S. government should consider curbing exports of facial recognition systems, singling out \"the type of facial",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/",
+      "originalUrl": "https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F591411%2Fa-facial-recognition-system-being-used-to-identify-people-in-a-crowd.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/",
+      "publishedDateTime": "2020-09-11T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-gary-marcus-covid-19-should-be-a-wake-up-call-for-ai.md",
+      "title": "Gary Marcus: COVID-19 should be a wake-up call for AI",
+      "excerpt": "COVID-19 may be a \"wake-up call\" for the environment and global equality, but Gary Marcus thinks it should serve as a wake-up call for AI too.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "originalUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Gary-Marcus.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/11/gary-marcus-covid-19-should-be-a-wake-up-call-for-ai/amp/",
+      "publishedDateTime": "2020-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-12-voltas-to-invest-in-smart-products-led-by-ai-robotics.md",
+      "title": "Voltas to invest in smart products led by AI, robotics",
+      "excerpt": "From smart products and smart factories to devising digitally-enabled preventive maintenance mechanisms, Tata Group's consumer durable arm Voltas has embarked upon an aggressive digital strategy. Voltas MD and CEO Pradeep Bakshi says that the company's upcoming launches would include a number of artificial intelligence-enabled products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/voltas-to-invest-in-smart-products-led-by-ai-robotics/story/415834.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/voltas_505_110920102338.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/voltas-to-invest-in-smart-products-led-by-ai-robotics/1/415834.html",
+      "publishedDateTime": "2020-09-11T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-12-datacast-episode-42-privacy-preserving-natural-language-processing-with-patricia-thaine.md",
       "title": "Datacast Episode 42: Privacy-Preserving Natural Language Processing with Patricia Thaine",
       "excerpt": "During the initial interview with a professor who later became my advisor, he talked about the different projects that I could be involved with, including lost language decipherment and the analysis of ancient languages.",
@@ -843,327 +1181,6 @@
         "AI Ethics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-ai-regulators-can-learn-a-lesson-from-the-1967-outer-space-treaty.md",
-      "title": "AI regulators can learn a lesson from the 1967 Outer Space Treaty",
-      "excerpt": "Global leaders should take a lesson from the 1967 Outer Space Treaty, which regulated another emerging tech at a time of geopolitical turmoil.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/",
-      "originalUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/415666-e1599769938576.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1901942/how-to-regulate-ai-according-to-the-1967-outer-space-treaty/amp/",
-      "publishedDateTime": "2020-09-11T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-baidu-rolls-out-self-driving-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out self-driving taxi service in Beijing",
-      "excerpt": "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg",
-          "width": 513,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-delivering-ai-to-warfighters-is-strategic-imperative.md",
-      "title": "Delivering AI to Warfighters Is Strategic Imperative",
-      "excerpt": "Delivering AI to Warfighters Is Strategic Imperative. The Defense Department is in an important transformational pe",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
-      "originalUrl": "https://www.globalsecurity.org/military/library/news/2020/09/mil-200910-dodnews03.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobalSecurity.org",
-        "domain": "globalsecurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-congress-probes-how-ai-will-impact-us-economic-recovery.md",
-      "title": "Congress probes how AI will impact U.S. economic recovery",
-      "excerpt": "Congress heard testimony today about how the U.S. government should fund and regulate tech like AI that can eliminate jobs in the midst of a recession.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/10/congress-probes-how-ai-will-impact-u-s-economic-recovery/",
-      "originalUrl": "https://venturebeat.com/2020/09/10/congress-probes-how-ai-will-impact-u-s-economic-recovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/10/congress-probes-how-ai-will-impact-u-s-economic-recovery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/congress-probes-how-ai-will-impact-u-s-economic-recovery/amp/",
-      "publishedDateTime": "2020-09-10T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog.md",
-      "title": "Pardon the Intrusion #26: Facial recognition? That’s a no from me, dog",
-      "excerpt": "Portland, Oregon has become the first US city to ban the use of facial recognition tech by both public and private businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/",
-      "originalUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/09/ptl-newsletter-hed-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/newsletter/2020/09/11/pardon-the-intrusion-26-facial-recognition-thats-a-no-from-me-dog/amp/",
-      "publishedDateTime": "2020-09-10T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-validation-of-ai-tools-for-cancer-immunotherapy-may-be-a-step-closer.md",
-      "title": "Validation of AI tools for cancer immunotherapy may be a step closer",
-      "excerpt": "For Artificial Intelligence (AI) tools being developed at Case Western Reserve University to have impact in the fight against cancer, they're going to have to be validated in rigorous human clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200910/Validation-of-AI-tools-for-cancer-immunotherapy-may-be-a-step-closer.aspx",
-      "publishedDateTime": "2020-09-10T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027.md",
-      "title": "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2020-2027",
-      "excerpt": "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2020-2027-2020-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
