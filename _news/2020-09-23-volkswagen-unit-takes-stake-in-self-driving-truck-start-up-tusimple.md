@@ -86,6 +86,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since (Reuters) - Volkswagen's Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the ..."
+    publishedDateTime: 2020-09-23T23:40:00Z
+    webUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "raSDpOu560E1pB9GiXn5ER6AVnUA7q1f8fMe6C9uf/Yh29v7eWi8fksDiZBHtTmvhL0jKNZDrDq3i1Sl0QbeiXpOSsYa2uZlS/NwC32wSIRHsC45a5F9zgu+FFp9eXPssOB7HrDo49865tG1VswTvPL+ZeCgVJj8wimKIVfWi2htyIuEovk2fHIZr6fGXzL1dYtOBSBiVDHYcZC3Jvso8DptWCmPwYCzBCuXzZlb/Km96yi6Nw9/0jHYoyquNHMGQtHRXBhbfX6lZzsToLy7/HgE4tlzwuwj7kR6qr02T3MQ8Ot7B6uG7htkLzJ6NZKrK9FdNXrmcmONRZzgMf2oIsuk870MzpXz98VnUfGudlI=;hs7KWq9Htbe3qgQU+rpw0g=="
 ---

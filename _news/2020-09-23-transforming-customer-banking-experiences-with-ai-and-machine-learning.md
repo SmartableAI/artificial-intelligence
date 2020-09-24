@@ -7,8 +7,8 @@ originalUrl: "https://www.information-age.com/transforming-customer-banking-expe
 webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Information Age
@@ -26,31 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla plans to offer machine-learning training as web service with its new ‘Dojo’ supercomputer"
-    excerpt: "Tesla plans to offer machine-learning training as a web service with its new ‘Dojo’ supercomputer, according to new comments from CEO Elon Musk. Project ‘Dojo’ was first announced by Musk at Tesla’s Autonomy Day last year: “We do have a major program at Tesla which we don’t have enough time to talk about today called “Dojo”."
-    publishedDateTime: 2020-09-21T10:17:00Z
-    webUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/"
-    ampWebUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
+  - title: "Kmart Australia uses AI and AR to bring KBot shopping experience in-home"
+    excerpt: "The AR technology has been developed by Valis, while the AI platform is powered by the Oracle Digital Assistant platform."
+    publishedDateTime: 2020-09-22T04:25:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+  - title: "AI gives IT an edge in improving customer experience"
+    excerpt: "From healthcare to retail, artificial intelligence is rising to the challenge. With AI, enterprises from an array of industries are improving customer experience by accelerating how tasks are handled, gaining more insights about customer behavior and ..."
+    publishedDateTime: 2020-09-22T10:02:00Z
+    webUrl: "https://www.cio.com/article/3575516/ai-gives-it-an-edge-in-improving-customer-experience.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all"
-        width: 2754
-        height: 1318
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Tesla to Offer Machine Learning Training As-a-Service as Part of its Dojo Project, According to Electrek"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2020-09-21T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/09/17579825/tesla-to-offer-machine-learning-training-as-a-service-as-part-of-its-dojo-project-according-to-elect"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "vP0uFpl6Lb2utmW87R8Rf/JPsTz2Ykf4ueCRRkgrF9K2MvsX026igewFA4s3WGV6/v1EvdDZ5AQ7cnZsNB2dAorqjX6fQVyMFQLxzYkhYxGYNjx2ekdJHXRDXxjljcArKLeKbB0ZigkEJnoRBQpzVdYEK0+vL3or4v84Cr505XfzaKjdAqxbIuDyYdkfTCqL3xLM1mJb6AABXlioYxRyg7d6dby15xxts93jcbUFDAyrVxZ5LPjedNhJFZNvqrmZFol9TDG0OR9VR4h5ev9RhAi7Cr5lsUWK8XlDrnkqOzHr+1JXpDFh8kLZAMSEQFyrm+34k4sIPivhfT85QV8YbeGCXgNmyjUD6qn93GolJKac+dhhcJc3JtKAtWNty+KHJTgzpwiiTDi/IUWBPNDz7ld2V22OpbuF4avW6ViSs7QzZkoPov928Np/MLyEI9r2i9AA0eNsbsHXjSOt7u6X29uJsfvduKOWGn1AB5tY3HOOrbB2s0ZFX4SGlyBBwIzgwUsb7Kqk0GNnzZ9fryhraA==;aRSCNhUX281c5A2TpoAK5A=="
 ---

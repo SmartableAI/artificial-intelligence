@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/correcting-and-replacing-ses-be
 webUrl: "https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+    publishedDateTime: 2020-09-23T23:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 51
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "SES a “founding partner” with Microsoft Azure"
     excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"
     publishedDateTime: 2020-09-23T10:31:00Z
@@ -34,15 +48,6 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 34
-  - title: "Managing the books and boosting productivity"
-    excerpt: "Knowing which accounting category a transaction should be assigned to is a common painpoint for customers. The company uses Amazon SageMaker, a fully managed machine-learning service that provides every developer and data scientist with the ability to ..."
-    publishedDateTime: 2020-09-23T01:34:00Z
-    webUrl: "https://www.raconteur.net/sponsored/managing-the-books-and-boosting-productivity"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 4
 
 secured: "OEVvibm1k3LUWepPtBZ+Z9KXxbepgc6CVpn1F6xY1aRwNZ+XuRwB7mvcKAKVeAynPzQSXrtqOW+0sAlw86RIUwDZGoN0Qe+FPEBg6cWXBCbOhN2ulCxidtx4E5f0aNRI6OP8i3qKwKpNlIJNz8ojG2LXQOQ/fZ42cKWH7ghw554yOctF5j6ViuzSUTsBND4MVmYqYoLf+ALo0YUqpCqk2CCTFmWD5nrp8pqALzWYQTyyN4Rz4SJSzTNjh1ktQM5Nb9xQh1labpwkINa9B3CmLjnTb0zDtmdCntMNbh6KQeK3bA969SrasOmmKQxW/67Sl0P1YOPSuKdHL2dBswH7G8X+eivUE/vRa8omRSrHuAIztcDlDErMb+iWP4SrIgZgoxW359D1C+HUp43P8lMgLf2tGWhLAqaIFNJ3uSATipxW1KgemWF2fT7bjFKrIATBnK6vWOsUKmVj8QwuMd5/zHcSm9+BMWBKclMRvS2sDZmg4DRJmCuhmcKm34W9kjv+pT7sMuqNym3rsANos1fXsg==;wccVsOdj+01Il9MeL/oWJw=="
 ---

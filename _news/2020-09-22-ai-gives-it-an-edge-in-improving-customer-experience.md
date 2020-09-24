@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3575516/ai-gives-it-an-edge-in-improvi
 webUrl: "https://www.cio.com/article/3575516/ai-gives-it-an-edge-in-improving-customer-experience.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Transforming customer banking experiences with AI and machine learning"
+    excerpt: "Mark Crichton, senior director at OneSpan, discusses how to transform customer banking experiences using AI and machine learning"
+    publishedDateTime: 2020-09-23T15:39:00Z
+    webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 71
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/transforming-customer-banking-experiences-with-ai-ml.jpeg"
+        width: 1012
+        height: 675
+        isCached: true
+  - title: "Kmart Australia uses AI and AR to bring KBot shopping experience in-home"
+    excerpt: "The AR technology has been developed by Valis, while the AI platform is powered by the Oracle Digital Assistant platform."
+    publishedDateTime: 2020-09-22T04:25:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
 
 secured: "Wd8hk72x5OX2aA/E6YsIq4jvLpMkNdIlTizlmXBjHe/Z9ARwY2sul1HLw+8b/t6grkXiFN3KLH7BDaGrmWBdneBLipToHZvJLUx3gyBTXeCvW9pDKGsJy79EkQE4C8S1/TVonxteIMuSNNYGryKdBKvRmZ1aQQYNGsNxZ2CUZWeT5x7FiTHa4e+7D2I60M+UPB7vQa2vPc2ot/mLt9QR6blkwmQBx2/8fd4GZrM1i0GhJgjQ9Tl2984IraEKLwnjqBe0dPoObHyz+T2LEC33/OGOWMtuuoex5EDvijLN8zKBDXrFRa1ofL+e9xlMG6lDYamTAk2Ng/6hm+9LZKPBC8oyocu1b9h7xdFke/uvK0c=;4RZtpCFnNfRbAnMsbQpYHQ=="
 ---

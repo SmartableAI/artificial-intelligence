@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/09/23/volkswagens-truck-unit-ties-up-with-tusimple-on-robot-big-rigs/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -73,6 +73,17 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
+    quality: 54
+  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since (Reuters) - Volkswagen's Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the ..."
+    publishedDateTime: 2020-09-23T23:40:00Z
+    webUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/volkswagens-traton-partners-with-tusimple-for-self-driving-trucks-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
   - title: "Volkswagen unit takes stake in self-driving truck start-up TuSimple"
     excerpt: "TuSimple has signed a deal to jointly develop self-driving trucks with Volkswagen’s Traton division, solidifying the San Diego start-up’s status as market leader in one of the fastest-advancing areas of autonomous vehicle technology. Traton is also ..."

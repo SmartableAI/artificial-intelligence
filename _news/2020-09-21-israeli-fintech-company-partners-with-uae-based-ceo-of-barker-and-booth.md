@@ -59,15 +59,6 @@ related:
         width: 600
         height: 519
         isCached: true
-  - title: "Mphasis partners with fintech platform Upswot to offer marketing insights though alternative data for business banking"
-    excerpt: "Mphasis, an Information Technology (IT) solutions provider specializing in cloud and cognitive services, has announced its strategic partnership with US-based Upswot, a fintech startup, that provides"
-    publishedDateTime: 2020-09-23T11:40:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=274344"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 0
 
 secured: "65lWIZO0wUKl7uNI5g1Qz2Zd+yVLg8EIjMwSQ7hfrXUREYSkoL/DG+ZT0bCWAo/lb69rDynWK0nlgBtdDt+u3QqPpcrdEAjuVlfYZoVzbWV1AseDhnZQZDlfqXeCA7ABgl0OneLi6RcYP5xLXTvxbgxwU1ENAxmF/NZexIEtWq2oX2uR9i+h2+ozrCxA2jc1/WJ3J2Oz02K0KMAXFQF48zoRXmU7WijnvMHYAEiV42ODfy1K7M5MWGUcvpp5xzIpqSDaY/CWnlUbt4Q2+aKx4vJnUwrZBoJ4eYsdlYhFMl1ikkmBaVGPoFg/qh7ILRhMhoqH4lHhzFDnfNO/LQveDPGikkPJV6g0SluGcAbqbPyvu82nSbwdODzk5P9RfAnLVxDxSFEFtqo2dMohSCEFRkJcjqz3DJhVGDAv914UWiqbvr+/2Bbi1ieWw47drJiueWxQz6eajUDuYZgviRQuzPd0iCgrvO1zI6r0PH9O5XUA+KihjcHoL5kF6G8DZ8ua7CydkmhG4buOXGf6LvBHVw==;reDuRFWjg0K10w80tSmCiA=="
 ---

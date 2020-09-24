@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+    publishedDateTime: 2020-09-23T23:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 51
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
     publishedDateTime: 2020-09-23T15:00:00Z
@@ -33,15 +47,6 @@ related:
         width: 975
         height: 630
         isCached: true
-  - title: "Managing the books and boosting productivity"
-    excerpt: "Knowing which accounting category a transaction should be assigned to is a common painpoint for customers. The company uses Amazon SageMaker, a fully managed machine-learning service that provides every developer and data scientist with the ability to ..."
-    publishedDateTime: 2020-09-23T01:34:00Z
-    webUrl: "https://www.raconteur.net/sponsored/managing-the-books-and-boosting-productivity"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 4
 
 secured: "wmyp6XGSqZKMR0bk8ly/XPZEU35PDZq0DZwxhln2w6CmIoII7FDm6cymTOHDfcF1Rl9HOth3i7krVe6Szet8g8l3gRGLcDylBHEXhSyzVQOSWAbv608A061XQQorq2AS6x2I8uJhqK6svx+fIAAquyLwD66u80Wuh2wCbF+cGVmsNF1TOoX2I/YeitDJEbllqM07qsEZRBF+GLbWE4RA8uRFX18FzW7uLqXWTEYGkvqVE2N2BvyKJSoGT1RFl1sRtVD6+2A9eVlfEH0L/JA0WCeCJvBh5arWjkxWjj5dcujnGazNRrbJoMwbZiVRdxDzsg1HRSU6LKwDslZ22+73Z8Jj0hfaxSa4bI1SSz5irzk=;4cLOZUfdQnjj2Dki8Ez1sA=="
 ---
