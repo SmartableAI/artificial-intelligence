@@ -55,6 +55,6 @@ related:
       domain: equitybulls.com
     quality: 0
 
-secured: "XUgljHuSQo9dpc+E+2FO7S5bi+eJ0BxCxI50on2Set5YxUt7HRH4cR7eWbiljnbK4dZ4X3YoTnxrHKujwVSxtU26nLCGVwaxAo5nuJmgmOdzQ7WIRjnXwIfuGwR7zyG9o8oi8NSzHwhMgXfBFenIesNzNysnOSlhKPk+Pd/lRnondotvib/wPYwsDG5ePyiuoc1D2cYKlYB/XQxjxL1HBvWlskglnfMb4eipcBzrRpnyrbK+NGvFaghy73yoW29ih7WDRiX4TjDykqxCLK4B0i/3NtAC2Y8dnyc7pJvY02M0ZVMofK7EbEULkbgxrWVe7+JoQcdh6M0OzXdXDUMy7cfd/BaV3uCsAr6ShrA4kmI=;DLq+bHEZoAJuOGUFyyD9cA=="
+secured: "qhb2fzcOBRQZJTAXIcSyy4lR9PC2FcoVxArPxeDSdD1ZKcXO9Q/JZk46/sluJtC05x+rRy4lFAGvlMdE1TTOwvMhF2HSBRr2v31UoohhHxuGSwuQWkCDG3CxkntNnEWNoC7EP7H+4HNOC4a/iE/WnBain8L+Usj4nQnd+M27or7V9Dd/xFL67LSBeo79GtpDdV0/fOeEi2Bc7G83tg6lNJlYgtO7vIi9odZGYahhBW0ToMzMZ+pvwfjS9rtYf7DTspnuWwaPlz5syAqyoe8JhENa/UfM4j2q4ktGXIUZHeZnKksuZpQ+PJz8cOjHULiRGqx5wq+SPCpUANVpAOYcMSyUnvDz07cnoeQtBzsH6pU=;jA+iPG5pjldZI+TN4UAcEw=="
 ---
 
