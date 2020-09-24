@@ -149,6 +149,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 34
+  - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
+    excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
+    publishedDateTime: 2020-09-23T20:25:00Z
+    webUrl: "https://news.microsoft.com/en-hk/2020/09/23/microsoft-ignite-2020-empowering-businesses-to-build-resilience-for-today-and-whats-ahead/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/427/2020/09/Satya-Nadella-1000x563-1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "3gNkNwLhQ9nFMGtiHb8zzLBD5wrKL66o3l8Wv2IV6Lua5/MeKl5h/E63XkuovOrzbdtFxHdijoP+/e2F9khavkMj/hvXwi5FQ+ImpN1BcW+g4AyH+kIoDTIpXGXoq8RePsdppcCV3jTorqaQB6T7udimyZxAoDqJM2583p2tYQKU34NNZFNbyH5P7WOCJMneeMty8xLDKXmAK5KbijTwRlni99EIsuRQCCrSNMnXnovKG3ayXFFgACCp32DNn3gB8ho1vEEi9esbl//N/tzITRTjw9FW5eq99I/4R7IanzrZllP8yQFkqv+f3cReI+1l98nHseMi5B8Lv3SXEHr/ob5O2T2BTVRPhaYHlfwPC/k=;UwaHBnaFC5wLMuOQuhDm4A=="
 ---

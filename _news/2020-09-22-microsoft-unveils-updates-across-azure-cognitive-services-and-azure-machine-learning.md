@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
+    excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
+    publishedDateTime: 2020-09-23T20:25:00Z
+    webUrl: "https://news.microsoft.com/en-hk/2020/09/23/microsoft-ignite-2020-empowering-businesses-to-build-resilience-for-today-and-whats-ahead/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/427/2020/09/Satya-Nadella-1000x563-1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "BRL+Oz60kzmEEXDmNo9Wk4XiKOyEd/fK1vEJ5LVEWWPtkowvWTVSM9Dw15HfMt5AhfYv58wprEECkwS2JNfzOtyvMIVq6RByjMz9cX8dkXwbexFcYcdqIQE6HfSIP41qawPl95T6XTBMtBsjBDMRjYjBElV6ki+3V8Igdj8/uRXfj3IH59WLIh3xyCXGGb6cGGwt7Pv2L71+s0bY6A2NUWh691ExmJr2alrytAi9YKJeHqqPecg9JW162BmfZZnhdzs9t9qGbgPra3+KQpw3tdTcbLdbfk6Uc2z9GMmvBiELeTJvzo4JGu2aDwoHzmE0QOBuCRGX9CkARhXEhtIGYC0sVcpkOvjz0+9y5f2T2RA8WxQVxPSRQ+LwBLr8sEXuUr97l0/wJiDzgRumQZ9FKIls7HWNNsGuFrCJjN9RwpGNjtunP5YKD/JQVdacUGcx1LKLEOxpU7RIqdwlYkMIPYVkYV2K8tc0ksgdQv/2jUmZOv+8VABx9qMA9pC4U+iPUCqwJX3QetR0CmQVeFttCg==;X/izy44DBx3iIWczpKwagg=="
 ---

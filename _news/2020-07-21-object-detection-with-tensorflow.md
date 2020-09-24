@@ -3,6 +3,7 @@ category: news
 title: "Object Detection, With TensorFlow"
 excerpt: "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose."
 publishedDateTime: 2020-07-21T00:00:00Z
+originalUrl: "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/"
 webUrl: "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/"
 type: article
 

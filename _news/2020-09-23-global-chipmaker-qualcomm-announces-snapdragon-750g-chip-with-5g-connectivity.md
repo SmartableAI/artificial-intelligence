@@ -9,7 +9,7 @@ ampWebUrl: "https://english.madhyamam.com/amp/technology/global-chipmaker-qualco
 cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1798
     height: 1080
     isCached: true
+
+related:
+  - title: "Qualcomm Unveils Snapdragom 750G 5G Mobile Platform with HDR Gaming and On-device AI"
+    excerpt: "Qualcomm Technologies on Tuesday announced a new 5G mobile platform in the 7-series, the Qualcomm Snapdragon 750G 5G Mobile Platform"
+    publishedDateTime: 2020-09-24T01:31:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18075-qualcomm-adds-new-5g-mobile-platform-to-snapdragon-7-series"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/ff1fd2afd5ad40e61d1f97f900b92c7e.jpg?t=20200924_012159"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "0aFo9Nq0Xp5t58jMO2T5zSPQkJK36pbrFaIRfquy5mRhcQ5FZ9KTmZETVPPHIsBbzTprS20LGw3o3BCSf3LXoAxsmdGITUPBE44gw7W4iuvIg/BjWHQQUW5JPNbyqnQQUDWJKWLzNELbIi9DkzGafCT2hlqH1FrZR1WzN8SxDFgslqGtz+OrekRZvwmBOJxJRAGNY1vYgh6CVlG3sVi0Eoa4vN8lPlRnALTe3yRdYAK9yvKzk90X1Tn+DpPf5wC+FrD/XLp1Rw0ciNK5vREEZeuaiWTw79Qvo2rT3POn365ulxl+HW2eanwdS4b0Tr7fVP5bzErJqRO6H4wQGJxRhxmSAZ2UWMP1fqxJ4IcE6KA=;9dXTdIcFocqNtEV43ed86w=="
 ---

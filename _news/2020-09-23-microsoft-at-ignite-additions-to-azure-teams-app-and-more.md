@@ -149,6 +149,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
+    excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
+    publishedDateTime: 2020-09-23T20:25:00Z
+    webUrl: "https://news.microsoft.com/en-hk/2020/09/23/microsoft-ignite-2020-empowering-businesses-to-build-resilience-for-today-and-whats-ahead/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/427/2020/09/Satya-Nadella-1000x563-1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "EK7WoqCSg7GcHnLrGD0B4zRJwd/bL9sCCueRt8K0boGTpDVsu2TmYJRCJH/WtljsNESGtYmwfvME415xnpJhoOHBOE5qcJ7wMuI1FksaJotHq2vUYF1QddI/CZXxZCe5/eNjR3Zfjdg4yf4VxOimlP3iF7Rm1LJwtUc6YpIuJG1CZ379qixTuu4MiC62yluJF46mrEPzKH2hKNaG/y8sL5PAE0JhFjHxeo9twA3U/9RexfXaefPeMZAEtsKjWGBXrHzMa9YBWDN7ZavyuHOibHC+UJlVhe9KtWRZ4+79gYSdgGpT9RGFTmDebQOvy0mmy2KaAYa4F5+HeZve2njR3czd0ROT7zc+9Yv0fyvfL4k=;pvpHfX1H2MIynB2h+DUzjg=="
 ---

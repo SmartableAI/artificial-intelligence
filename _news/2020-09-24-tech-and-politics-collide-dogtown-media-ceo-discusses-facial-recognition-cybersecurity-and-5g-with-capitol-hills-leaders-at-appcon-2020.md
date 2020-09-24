@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tech and Politics Collide: Dogtown Media CEO Discusses Facial Recognition, Cybersecurity, and 5G With Capitol Hill's Leaders at AppCon 2020"
-excerpt: "Topics to be discussed include 5G access, antitrust regulations, facial recognition, telehealth, and more. Dogtown Media CEO Marc Fischer will be attending as a representative of California's 33rd Congressional District. How will emerging technologies such ..."
-publishedDateTime: 2020-09-23T17:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/p17626836/tech-and-politics-collide-dogtown-media-ceo-discusses-facial-recognition-cybersecurity-and-5g-with"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/p17626836/tech-and-politics-collide-dogtown-media-ceo-discusses-facial-recognition-cybersecurity-and-5g-with"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17626836"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17626836"
+excerpt: "How will emerging technologies such as 5G, facial recognition, and telehealth impact the future of the United States? The"
+publishedDateTime: 2020-09-23T17:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17626789/tech-and-politics-collide-dogtown-media-ceo-discusses-facial-recognition-cybersecurity-and-5g-with"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/n17626789/tech-and-politics-collide-dogtown-media-ceo-discusses-facial-recognition-cybersecurity-and-5g-with"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17626789"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17626789"
 type: article
 quality: 5
 heat: 5
@@ -20,6 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "piBaysqGSFcyxfjkhQh9L5SBBOXxHCFGXn4XMugClmfyQ076GgYqbcJ6f0EzNNdnFWn/OSawqnI2trlars/lDi3B1Z8O68vvEN266QTvapj1Ir9Kr1v2wj+4tZEswkvie8cJDcsmlhc1cAwIr+vnYdiJJiGWvKr1hPPKfi4Jeb5gsGBPqDhy3PbwtiE2I865fAmPdyQRf8A0vFwuEOoyN4IKcZTvt38afgBpeZrLqQy7EHpAJHkJtYOj1c4pcMuLB7LVp3OutBWcwA43g6Xe4sVSFeiv1H6pOM/z+m9nkGFpHh9oB2t6/JqNRqD8ac8YATm9avFTkaR74rHOS+vRjKsyxE2/DnoedC8M27MYn0A=;vOEncC+QcphfvnO4YPw3wQ=="
+secured: "UBDf1qwiU7dTO16b3ftWY14oSwkFmD+WGBiX/9QJb6vJjTZ0pgwL75swux7r6SGvPQuIdrXqZQhnnHLp0qpeh5BBiMCfgwLgqNlyDVZS2U+Xy4yAJl2GoXG0X89yjWjHw2oHGaMs/2kAu70oOqhK92gL3vT/HSwP4nAEoq0vNEw83nB/fj+1gzNMLk1U7kKGzmon68Ftyq3lQGPfF4yIyjENnJcTNS+Y3jQT255rhfXyJEuuSg+7EyD4uy6gXVLASyS2ODzPaR6Gx8dP2w2AZO9qoK8KvcRkdMCy3T1ifFHlUbxPdfpCAPnLgN/C/TWUBFEASj0hNDfgP+9vBY3SmTbdoxhiUh5TS6p8H1okVZw=;BRQIx0AmB1Poe18Khzakpg=="
 ---
 
