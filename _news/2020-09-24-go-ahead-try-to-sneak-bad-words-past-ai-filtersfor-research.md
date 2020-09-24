@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/"
 ampWebUrl: "https://www.wired.com/story/try-sneak-bad-words-ai-filters-research/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/try-sneak-bad-words-ai-filters-research/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5f6bae090621ecd5cce97179/master/pass/business_ai_1151768629.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "cODGSwrD+QP77KPG0GnKCSADiUCuMvM+UCRUAPOxi+K3/hJfcmahDYNtGP0N8dAiCuTlS5AVzHC14m3iTTpYCmfp4N0dGs/rrf/77qQtrsARzieV8Y2+Rp32TIcqX/aL+N68oTbbyBRO2CQNKzE8qd/DJ1wGMEqRCJtTZsT6/uZewXbup0RRSG8thBtBjuiPs+G0ZSaDAb5ZCyUsERh1zHt/AJLHiW/MPIF++4268/jjpQp8rI5MuYHes1MLnGDP0UZpS4HIVJ1IkC6tzVgrAB/TrUtczCbiY29X79EizFId4FbqkKCOue51QtdTBB+H5xwl6zwW+MRucmZnrvZ6B+n+/mFfMFh4lr006EQP92k=;H/KFsbKrOZwGoWeHHqhRDg=="
+secured: "5jtxGoNr0t66SzYIAw9V7VpJTK4W/EZQrlpP1bdX6gqdDV5FeIdpP8ctQyp6xMs40J2g6XmiXzKs7h3N9rmnLZUe7vhWOZcuStvkh+mjJ80tJDWN+cmcqCo/VLlJGuO5kkgqi0zd5+B+LJGFs7rRTYROOp6ih1AkLS4/GNi0sWwL9k0D0HFeCOL4c5pcTKbW/rnw0goIZhcG0qD7znBPrL9PiWQcYYQVdds4LYZpSEKw1yRKFFz2WDkn6YaLpi231C0my99QJIUtdMy48WPN42k7QWWsc1aIX661jZqiArVYD/n/lS9wReWKoTusy3NQ01sCYSqtj55BZ5PEhSbAuWbgjOf/amBiAzoIUpU9JEOEHf6hpPfyhZKps+P4BY2fxFW+qgKKlZ4rEv9ZgaJcqJTQiWZ+NJlDyK8sK+EBbAe9dWmeD1aBY6Y6h0eMn0Q8mhcxs5rVaKJ6mKE0ee5A7oOpQha8bGrwUeltKKimjGO/EkMAeDJ25eOA/xHcaUho2mso+2o1px+vQi+AJcY9gQ==;FBGwdtocVmEDiMTzX7ZV5g=="
 ---
 

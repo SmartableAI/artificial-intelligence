@@ -23,28 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Pure Storage Brings FlashBlade to AWS Outposts, Delivering a Hybrid Cloud Infrastructure Solution for Modern Data"
-    excerpt: "Pure Storage, the IT pioneer that delivers storage as-a-service in a hybrid world and an Advanced Technology Partner in the Amazon Web Services Partner Network, today announced that FlashBlade ® has achieved the AWS Outposts Ready designation,"
-    publishedDateTime: 2020-09-20T02:21:00Z
-    webUrl: "https://www.nasdaq.com/press-release/pure-storage-brings-flashblade-to-aws-outposts-delivering-a-hybrid-cloud"
+  - title: "Pulumi Is Industry’s First Multi-Cloud, Multi-Language Infrastructure as Code Platform with 100% Azure Support"
+    excerpt: "Modern Cloud Engineering pioneer Pulumi today announced the release of a Pulumi-native provider for Microsoft Azure that provides 100% coverage of Azure Resource Manager (ARM), the deployment and management service for Azure that enables users to create,"
+    publishedDateTime: 2020-09-21T21:53:00Z
+    webUrl: "https://apnews.com/business-wire/50acdf191e734312882d49409129e82f"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
-  - title: "Faktion and Iguazio Bring Data Science to Production for European Smart Mobility Customers on Azure Cloud"
-    excerpt: "Iguazio, the data science platform built for production and real-time machine learning applications, today announced a strategic partnership with Fakt"
-    publishedDateTime: 2020-09-21T08:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200921005040/en/Faktion-and-Iguazio-Bring-Data-Science-to-Production-for-European-Smart-Mobility-Customers-on-Azure-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://mms.businesswire.com/media/20200921005040/en/822796/23/logo+social.jpg"
-        width: 1200
-        height: 627
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "EIDfuCGOBP000B8RACR7woTwDxnzdTrd5knyxF33OuH7HYUw+Q0P9TZcregyxVxq5FTIO1elaQkaYWqf+ZA+WH1sTxJgc5p2mlZq/i5hTvpuQO6Rhd2PBgMfTuzBwksNLybOaGJFtm5YDAKJc8ezPv/F3OnqcOOYKBIr4JDTdEy/SMo+7L+6kpxWRXUs7ubhIRzy5e3rsH76YxUVwFp/VrDxgJrqGmkGNq3Qd4iWgVZikpVqiiax3LvaKFF5YWda4cvPmtAwlSG9gCsio0pRj/qBkTBcvInxjDX1YplR9P6w78IqPjzjMsV1oPu2toLvK6d3mjLKyCA+jRIawm0oj+rEC54tns1xkqAKOMO52Qg=;Fm+NfevrT0u/yLtiQFB45w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/24/facebooks-dynabench-aims-to-make-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/facebooks-dynabench-aims-to-make-ai-models-more-robust-through-distributed-human-workers/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 600
     isCached: true
 
-secured: "7IQBDfFGBDwXziWsnFlSDpFZFBkw8Gn/pY+0b5hgYO3eeBA88zkhYf08i4NEFhgvfwYcjzY1dJyM6vnszanAUF3XLA+LAnWVim0SAw7eqyxzUOqFkGL54JSl8Mv2pMlOCGWT79g3Zxn/2oKEreu5tLRJpM+GXrKqbnllojYfyYI1uGOE1jXXD9+c6VfZdQ/6wFoKG9lAO5u3Qiulwyzv4Kz0mlSEmOoRW7jDFI+gxjH0vEcpXct0hd09E/AFLr2WUmr9MqM2nFQQ4BYtO+1XCGMu4gkI4gjmo7tIXDY3iK8gEGN/vYDnSMY4XGtBZHrTmdKw8bfMDzWMm4Y7T7WBto1zmBV79rl9Ney4bSScZtg=;iPfrVDCIUeJVNUGj3EQ7nQ=="
+related:
+  - title: "Facebook’s Dynabench tool fools neural networks to advance AI research"
+    excerpt: "The goal is to create a “virtuous cycle of progress in AI research.” as Facebook’s Kiela and Williams put it. Having a more reliable tool for assessing model accuracy could benefit not only ..."
+    publishedDateTime: 2020-09-24T19:03:00Z
+    webUrl: "https://siliconangle.com/2020/09/24/facebooks-dynabench-tool-fools-neural-networks-advance-ai-research/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/facebook-2.png"
+        width: 718
+        height: 400
+        isCached: true
+
+secured: "HOTolk2FmB9L7llANma8H7XQnGQEpvJukDM02IxTX3a6Yfmodh1rkS98Ebhbc/FzX5U+XuwaBTiLBsZcuJAGB8/hW/fIzITEyRFjharo/Ps+qNgEjv0oSFqTFLW8HR3WJ66KNd9xxTm48rRkLjrHABDqCSE6iYPTfT4cF9VLQ37fprkUbMn7P9N+y8hAS0fimfShW4CfXD2cEFwdN/cy2tYRxcP2gzYen77XbNbfu+FzAOMlPNubcAaVDpFfJHHZ5kLVsVnaC84xDXd4KLlJx68oaLsAMxTZjmxhQ6LARSkuxOXduaz/aK+8bZz1xfQKE8tioaZ7Z18FTVHo5qVeU7HcoRtc7zEIH+/9ZoRyKel+h5qFdBA5awmdm59V39nSTaeysnG//N0AXpV47fiSHAgk6l2xVCDwX1UfVSZi/6i9vOb/x4WlmY+bsMe9xUNbEtj1fQFg2Izso7vE/vpk3ZUUZ3zLX1pJxaWiCbP87JOzbnCK2x2qgPOdLCo2grx0EEDDP+4uorcuVOgA2oS2sg==;ca8JwP7vG30YT/WkMsbECw=="
 ---
 
