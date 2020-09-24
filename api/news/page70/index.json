@@ -2,6 +2,48 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
       "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
       "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
@@ -1087,48 +1129,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-autonomous-cars-five-reasons-they-still-arent-on-our-roads.md",
-      "title": "Autonomous cars: five reasons they still aren’t on our roads",
-      "excerpt": "Read more: Are self-driving cars safe? Expert on how we will drive in the future There are indeed still fundamental challenges to the safe introduction of fully autonomous cars, and we have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/350425/original/file-20200730-17-tofe77.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
-      "publishedDateTime": "2020-07-30T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

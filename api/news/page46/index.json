@@ -2,6 +2,57 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-20-xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car.md",
+      "title": "Xilinx’s programmable AI chip powers safety sensors in Subaru car",
+      "excerpt": "Xilinx said that its programmable AI chip has been used in the EyeSight safety system in the new Subaru Levorg vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/",
+      "originalUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/xilinx-subaru-automoative-pr-mediakit-1120x560-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/",
+      "publishedDateTime": "2020-08-19T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-08-20-facebook-ai-produces-accurate-mri-images-4-times-faster-than-current-tech.md",
       "title": "Facebook AI produces accurate MRI images 4 times faster than current tech",
       "excerpt": "A newly published study has validated the efficacy of a novel AI algorithm designed to deliver accurate MRI results from four times less data than usually necessary. This impressive innovation promises to dramatically speed up MRI scans without needing to upgrade pre-existing imaging hardware.",
@@ -1141,48 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-improves-azure-outage-reporting-with-aiops-in-service-health.md",
-      "title": "Microsoft Improves Azure Outage Reporting with AIOps in Service Health",
-      "excerpt": "Microsoft says it wants to communicate Azure outages better, and is pointing users towards Service Health, which includes AIOps reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
-      "originalUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2018/12/Azure-Availability-Zone-Microsoft.jpg",
-          "width": 1540,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/08/19/microsoft-improves-azure-outage-reporting-with-aiops-in-service-health-xcxwbn/?amp",
-      "publishedDateTime": "2020-08-19T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

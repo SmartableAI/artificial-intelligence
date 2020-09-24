@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-15-nvidias-arm-deal-would-make-it-the-center-of-the-chip-world.md",
+      "title": "Nvidia's Arm Deal Would Make It the Center of the Chip World",
+      "excerpt": "Combining the two chipmakers would unite leaders in two big tech trends—artificial intelligence and mobile computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "originalUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f5fc3481bae274a0ebce9dd/master/pass/business_nvidia_1177538064.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nvidias-arm-deal-make-center-chip-world/amp",
+      "publishedDateTime": "2020-09-14T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-get-started-in-artificial-intelligence-with-this-online-course-deal.md",
       "title": "Get started in artificial intelligence with this online course deal",
       "excerpt": "Artificial intelligence is a hot topic with projects using it to analyze data, to detect social bots and malware, or even to write news articles.",
@@ -406,6 +457,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
+      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
+      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
+      "originalUrl": "https://www.irishexaminer.com/world/arid-40048664.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.irishexaminer.com/world/arid-40048664.html?type=amp",
+      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp",
+      "publishedDateTime": "2020-09-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-zenrobotics-helps-to-start-automated-mrf-in-finland.md",
       "title": "ZenRobotics helps to start automated MRF in Finland",
       "excerpt": "ZenRobotics, Helsinki, has announced that it has partnered with Remeo, a Finnish environmental management firm, to construct an advanced and fully automated material recovery facility (MRF) in Vantaa,",
@@ -787,48 +880,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system.md",
       "title": "Nvidia researchers detail AI-powered clinical speech transcription system",
       "excerpt": "In a new paper, Nvidia researchers describe a system that automatically transcribes speech from clinical patients and maps it to a medical ontology.",
@@ -1086,48 +1137,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers.md",
-      "title": "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers",
-      "excerpt": "The Weather Targeting data tool is part of a suite of AI-driven targeting solutions. Most recently, IBM Watson Advertising used the technology to assist with the COVID-19 pandemic by enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers-301130149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

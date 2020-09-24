@@ -301,6 +301,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/</loc>
     <lastmod>2020-09-22T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1405,6 +1411,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
+    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/</loc>
     <lastmod>2020-09-14T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1449,12 +1461,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
-    <lastmod>2020-09-14T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Aunoa starts deploying its Conversational Artificial Intelligence messaging chatbots in America"
-excerpt: "Spanish company Aunoa will start deploying its Conversational Artificial Intelligence chatbots in the United States and L"
-publishedDateTime: 2020-09-24T05:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-1029613144"
-webUrl: "https://markets.businessinsider.com/news/stocks/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-1029613144"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-1029613144"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-1029613144"
+excerpt: "MIAMI and VALENCIA, Spain, Sept. 22, 2020 /PRNewswire via COMTEX/ -- MIAMI and VALENCIA, Spain, Sept. 22, 2020 /PRNewswire/ -- Spanish"
+publishedDateTime: 2020-09-23T17:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/aunoa-starts-deploying-its-conversational-artificial-intelligence-messaging-chatbots-in-america-2020-09-22"
 type: article
 quality: 55
 heat: 65
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Conversational AI startup GenieTalk pulls in angel funding"
@@ -39,6 +43,6 @@ related:
         height: 506
         isCached: true
 
-secured: "iA9ZjeFDKRkWiXmRPoGp1A9CXd57Tkr+6szbJOQ7QLbPOiN7wfoiFQWDgP3S5y89mzsEYhgN9y97/JL/SrvDE3gS9BYtNae48pAHM7gvuIEakX3NHGrCbKmGwIcK+saEQShR9epd9uTlZg9Txlvj4u6mQMPdmYN3fK3WabP3Zk++XeY6s+khmABiDF3n/xhrIBa33YL2CytlZ5rDEchNvSrlTZMGIHgqxvCShyv/TFA25nErHH7bwTU6RoAo+4arEnHhKDY3cr1udeev96kdvl/PHK/4Q3O+i8Xyrx1h5lC9oqr/RU1VYfT5h47Uavx6G6WUa9YA6A9sSsNlzI9BrXALkvcLf+SlAH/R6QiUMxY=;P0bTwtU6KWWQxJS3fNmRBg=="
+secured: "qZ5nXAMr1MX+SyqpC99o5J/LWd95FU3/Q55OWokQdr+PCLb0z4s/L8FD617wC9g26pL10/TrtjTjcN7bkmmJv6pO0/6fPViXqb1qCXLgh8cML5FC/oDYwKNPMTd483GAF1/dWA1/+WosENwTR+OIacZSM9SDCzoB9vS4pz9L5L3hbm3dMrIiHvztZhWJ54sw3ZNiqKErZ/K3gMhT4FyNuyo4tde1g0Kv9R+wG7D4pFpycQCjcw4hQqSVF/DyiRFfnK/dGwZhfs4jTinUKhCuDSRn7VJdyejZj4Vv3QEepQGOZbiwRSSSm9yuE59x6Mv1D8mmYcW25+aFnERVaQtg3zfDJ/VucOYdyGc9NdI+b98=;j/rukE20tvlrmYZIkxRwig=="
 ---
 

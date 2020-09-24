@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-21-leveraging-artificial-intelligence-ai-to-scale-ai-transformations.md",
+      "title": "Leveraging Artificial Intelligence (AI) To Scale AI Transformations",
+      "excerpt": "According to a recent McKinsey survey, just under a third of organizations use artificial intelligence for multiple business functions. Scaling AI transformations appears to be the most important challenge in this arena,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/21/leveraging-artificial-intelligence-ai-to-scale-ai-transformations/amp/",
+      "publishedDateTime": "2020-09-21T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-what-happens-to-car-insurance-rates-after-self-driving-cars.md",
       "title": "What Happens To Car Insurance Rates After Self-Driving Cars?",
       "excerpt": "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”",
@@ -864,7 +915,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-09-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1137,48 +1188,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-miso-robotics-how-ai-can-transform-an-industry.md",
-      "title": "Miso Robotics: How AI Can Transform An Industry",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Over the past decade, the advances in robotics have been breathtaking, as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-how-ai-can-transform-an-industry-1029604082",
-      "publishedDateTime": "2020-09-18T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

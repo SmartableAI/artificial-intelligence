@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft unveils communication platform to help users connect better with businesses"
+    excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
+    publishedDateTime: 2020-09-24T07:05:00Z
+    webUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803"
+    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 52
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Microsoft_1200-min.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
     excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."

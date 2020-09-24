@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-08-21-heres-the-smallest-aiml-supercomputer-ever.md",
+      "title": "Here's the smallest AI/ML supercomputer ever",
+      "excerpt": "The vector processor, with advanced pipelining, is a technology that proved itself long ago,” wrote Robbert Emery, who is responsible for commercializing NEC Corporation’s advanced technologies in HPC and AI/ML platform solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/heres-the-smallest-aiml-supercomputer-ever",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q8a4w5iETy5tBB4KkqL5EU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/heres-the-smallest-aiml-supercomputer-ever",
+      "publishedDateTime": "2020-08-21T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-22-mum-told-me-to-give-back-to-the-community-the-young-australian-creating-robots-for-good.md",
       "title": "'Mum told me to give back to the community': the young Australian creating robots for good",
       "excerpt": "Cheng co-developed an object recognition app, Aipoly Vision, that relays detailed information via text or voice about whatever the phone is pointed at – from the colour of a shirt (it can ...",
@@ -1152,57 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-can-fight-this-one.md",
-      "title": "AI may not predict the next pandemic, but big data and machine learning can fight this one",
-      "excerpt": "Tech leaders increase project development and implementation (TechRepublic Premium) Admittedly, August is not as bad as March for Spain, but it's still not a situation many foresaw. Arenas' predictions were based on mathematical modeling and underline the important role technology can play in the timing of decisions about the virus and understanding its spread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/20/a9b425f0-51b4-478a-b77a-3b4d399855d9/observatoryaipandemica.jpg",
-          "width": 3424,
-          "height": 2568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-may-not-predict-the-next-pandemic-but-big-data-and-machine-learning-are-key-to-fighting-this-one/",
-      "publishedDateTime": "2020-08-21T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

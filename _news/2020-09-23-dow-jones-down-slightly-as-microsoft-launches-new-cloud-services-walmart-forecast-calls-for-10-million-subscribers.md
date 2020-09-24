@@ -67,6 +67,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft unveils communication platform to help users connect better with businesses"
+    excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
+    publishedDateTime: 2020-09-24T07:05:00Z
+    webUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803"
+    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 52
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Microsoft_1200-min.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CsjX6WY7jldZipz/18AMPEIuNq6GfRsiWA7yNHQv/veyLiyfNTRG11GJR9IYatdNHUVGUg04YA6N40FRtBPLNV6DQBizNqeJP1Cu7QvWjjoIQ1mW2zPxZ6WP7qjsUb9+PEeWkYvFhTJNDTzKAbRbz6huZCPokBg6ZIOA1n8kNiVDBs/pWoubgUMWjnH4KLA3+k6c0Cn2ErokObqXC8PxSK9cJYAWsMl1b5dZ0gHrc6jBKbow9jDW6HRQGftszkxcfhXQj2nV/92No3IRXTX+QO/fvoeZBgDAyPRWsSemXT2/lWuC0gdGr01tIcjEx7c5n5CP1PNbsV0F3diSjP4QzhJkOCgxqX13ZQ8pewgC350=;gsFu0jALazqKFs1r95x66g=="
 ---

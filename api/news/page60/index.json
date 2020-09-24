@@ -2,6 +2,48 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-08-09-china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.md",
+      "title": "China begins testing robotaxis for hire amid race against US tech dominance",
+      "excerpt": "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200809162842.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html",
+      "publishedDateTime": "2020-08-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-webinar-invite-how-virtual-reality-is-reimagining-healthcare.md",
       "title": "Webinar Invite: How Virtual Reality Is Reimagining Healthcare",
       "excerpt": "presents for the healthcare industry. (Register to be a part of the session by clicking here!) As the Chief Technology Officer at FundamentalVR, Vicky Smalley has extensive experience working with artificial intelligence (AI) and has a passion for big data ...",
@@ -1122,57 +1164,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-driverless-cars-gain-speed-despite-global-slowdown.md",
-      "title": "Driverless Cars Gain Speed, Despite Global Slowdown",
-      "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2d8f331d23de6d2c78380f%2F0x0.jpg",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/amp/",
-      "publishedDateTime": "2020-08-07T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

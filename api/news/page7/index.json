@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-17-nvidia-to-buy-uks-arm-sparking-fears-of-chip-dominance.md",
+      "title": "Nvidia to buy UK's Arm, sparking fears of chip dominance",
+      "excerpt": "U.S. graphics chip maker Nvidia said it plans to buy U.K.-based Arm Holdings in a deal worth up to $40 billion, in a move that would create",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html",
+      "originalUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/07/c07adda9-c5d0-5548-9bb9-a6861a672a92/5f5f660ac4bf5.image.jpg?resize=1024%2C707",
+          "width": 1024,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html",
+      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/nvidia-to-buy-uk-chip-giant-arm-holdings-for-40-billion/article_7d842cea-1a1b-5498-a235-0467119f1092.amp.html",
+      "publishedDateTime": "2020-09-16T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-ibm-nielsen-partner-on-ai-weather-based-ad-service.md",
       "title": "IBM, Nielsen Partner on AI Weather-Based Ad Service",
       "excerpt": "The service uses machine-learning models to find correlations between weather and sales data across the U.S., and then recommends actions for marketers.",
@@ -1173,48 +1215,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
-      "title": "Life academy promotes ethical ways AI can with help food security",
-      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
-      "sourceUrl": null,
-      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
-      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
-          "width": 1280,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
-      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
-      "publishedDateTime": "2020-09-16T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crux",
-        "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

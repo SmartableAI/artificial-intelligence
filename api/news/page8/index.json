@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
+      "title": "Life academy promotes ethical ways AI can with help food security",
+      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
+          "width": 1280,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "publishedDateTime": "2020-09-16T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-uber-backup-driver-charged-in-fatal-2018-self-driving-car-crash.md",
       "title": "Uber backup driver charged in fatal 2018 self-driving car crash",
       "excerpt": "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,",
@@ -1161,56 +1203,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean.md",
-      "title": "Here’s how Watson Assistant and Soul Machines are helping the UN keep the oceans clean",
-      "excerpt": "The face mask you’re wearing or the plastic bottle you’re drinking from can easily find its way into the world’s oceans—through improper disposal, or through flaws in the waste management chain like improperly managed landfill sites—and join the 5 trillion pieces of detritus clogging our oceans. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/heres-how-watson-assistant-and-soul-machines-are-helping-the-un-keep-the-oceans-clean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/2020_09_14_Watson_Assistant_Blog_Leadspace_V1-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T09:05:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

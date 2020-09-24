@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Solutions Market Regional Analysis, Growth Drivers and Competitive Vendors | Apple Inc, Alphabet, IBM"
+    excerpt: "Segmentation by Industry Vertical:, Media & Advertising, BFSI, IT & Telecom, Retail, Healthcare, Automotive & Transportation Download Now And Browse Complete Information On The COVID 19 Impact Analysis On Artificial Intelligence Solutions Market ..."
+    publishedDateTime: 2020-09-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-regional-analysis-growth-drivers-and-competitive-vendors-apple-inc-alphabet-ibm-2020-09-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market 2020 Worldwide Opportunities, Driving Forces, COVID-19 Impact Analysis, Future Potential 2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-09-19T20:59:00Z

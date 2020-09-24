@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-09-01-ai-enhanced-displays-are-coming-to-more-affordable-smartphones.md",
+      "title": "AI-enhanced displays are coming to more affordable smartphones",
+      "excerpt": "Pixelworks' i6 display processor boasts AI scene detection to enhance picture quality for more affordable phones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
+      "originalUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/OnePlus-8-screen-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/pixelworks-i6-display-processor-1151116/amp/",
+      "publishedDateTime": "2020-09-01T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-google-debuts-custom-voices-in-contact-center-ai-and-model-management-tools.md",
       "title": "Google debuts custom voices in Contact Center AI and model management tools",
       "excerpt": "AI is opening up a new world of possibilities in areas like customer experience, user engagement, and access to content,” Google head of conversational AI Antony Passemard wrote in a blog post. “In Cloud AI,",
@@ -1081,57 +1132,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-31T13:01:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-getting-started-with-the-amazon-kendra-sharepoint-online-connector.md",
-      "title": "Getting started with the Amazon Kendra SharePoint Online connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use enterprise search service powered by machine learning (ML). To get started with Amazon Kendra, we offer data source connectors to get your documents easily ingested and indexed. This post describes how to use Amazon Kendra’s SharePoint Online connector.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-sharepoint-online-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/27/4-Select-connector-type.jpg",
-          "width": 900,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T12:14:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

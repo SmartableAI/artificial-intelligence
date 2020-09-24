@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/a-language-generation-programs-abili
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-language-generation-programs-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists-145591"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
-    excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
-    publishedDateTime: 2020-09-23T20:58:00Z
-    webUrl: "https://gcn.com/articles/2020/09/23/gpt-3-natural-language-generation.aspx"
+  - title: "A Language Generation Program’s Ability to Write Articles and Compose Poetry Has Wowed Scientists"
+    excerpt: "Seven years ago, my student and I at Penn State built a bot to write a Wikipedia article on Bengali Nobel laureate Rabindranath Tagore’s play “Chitra.” First it culled information about “Chitra” from the internet."
+    publishedDateTime: 2020-09-24T01:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/a-language-generation-programs-ability-to-write-articles-and-compose-poetry-has-wowed-scientists/amp/"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 31
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/09/01/irobot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A language generation program’s ability to write articles, produce code and compose poetry has wowed scientists"
+    excerpt: "GPT-3 is far and away the most “knowledgeable” natural language generation program to date, and it has a range of potential uses in professions ranging from teaching to journalism to customer service."
+    publishedDateTime: 2020-09-24T07:39:00Z
+    webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/09/23/GPT-3-natural-language-generation.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
     quality: 4
     images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
+      - url: "https://washingtontechnology.com/-/media/GIG/EDIT_SHARED/AI_Automation/robot_spells_AI.jpg"
         width: 760
         height: 368
         isCached: true

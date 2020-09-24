@@ -160,6 +160,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 36
+  - title: "Global Facial Recognition Market To Amass Huge Proceeds During Estimated Timeline"
+    excerpt: "The “Global Facial Recognition Market To Amass Huge Proceeds During Estimated Timeline” A fundamental outline of the Facial Recognition niche is presented by the Facial Recognition report that entails definitions, classifications, applications together ..."
+    publishedDateTime: 2020-09-24T06:18:00Z
+    webUrl: "https://www.openpr.com/news/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
+    ampWebUrl: "https://www.openpr.com/amp/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Report: LAPD used facial recognition nearly 30,000 times | Raleigh News & Observer"
     excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
     publishedDateTime: 2020-09-21T22:56:00Z
