@@ -2,6 +2,57 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-07-29-researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch.md",
+      "title": "Researchers use neuromorphic chips and electronic ‘skin’ to give robots a sense of touch",
+      "excerpt": "Scientists from the University of Singapore have combined neuromorphic chips and electronic 'skin' to give robots a sense of touch.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T160841.851-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
+      "publishedDateTime": "2020-07-29T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated.md",
       "title": "AI POWERED ROBOTS WILL REPLACE HUMANS ON THE SHOPFLOOR IF NOT INTEGRATED",
       "excerpt": "Automation will enhance and complement human activity, resulting in safer and less repetitive roles for workers • 60% of manufacturers that have introduced AI are using it to support their workforce •",
@@ -1117,47 +1168,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-ai-chatbot-apps-how-are-the-two-transforming-the-mobile-technology.md",
-      "title": "AI & Chatbot Apps: How Are the Two Transforming The Mobile Technology?",
-      "excerpt": "From small enterprises to some of the giants in the market today, AI and chatbots are being integrated on a large scale and these enhancements are making lives easier in many ways. Speaking of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/c85c2f4073de11ea851b2f4e75c7f473/inner1-1595914509259.png?fm=png&auto=format",
-          "width": 700,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
-      "publishedDateTime": "2020-07-28T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

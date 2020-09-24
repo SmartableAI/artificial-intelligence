@@ -1,12 +1,12 @@
 ---
 category: news
 title: "A Microsoft-powered instant two-way translator"
-excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
-publishedDateTime: 2020-09-24T11:01:00Z
-originalUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
+publishedDateTime: 2020-09-24T11:00:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "s7vRO1EvVmHvFFejWDsajgLlI5KF7zFjxEctJLmSwg2W8tHugDe76F9M5o8x7ejsfr82q9i/Bzf9nCqdGhHdSoTYU2fpCUIQ51rNcPoHsjuLjDErbswiLMMhHukWaKt7w+U3AR2URqobRCFN+jfXldglvX2FWogZNZzuJWKGV5bS61mphkEn+Q0tOTACyZejld3INpd1EzkzmGYgDXYfN8cLrbhLEwwoEakST0C/FOJLWx4j5aX+3v9f+/p8nRG8pB7o1UF7jzTrpYwlhFy16wO08WEQ3Qo6WGMYQrCv3JgOj8Gm7Rdvb5DMgAsBQ/ayQ2caFjWigsskMFrlmvvRHOud21kyc9/YlugWINmP2J2oiwVGxZXpjfgMTCaKItIzVz2vGgvG5ILS79Cp4ouTQlgNytaP5V3Wkkx1AT/zfcKW8rPc9/ZBlF7l+6rmotav9GND+9kGgbGZBqy35wjuVbBMAxZr+Pj1gU6HAPaqWgEz3BqzVTdgfJnhXhhnCP548o84tfx2KZceWwVrfILgYQ==;b9kP6WNsj8b4ji3KAnLuOg=="
+secured: "7/21QHliFdKa4I41ybcmb2u55sx6afQJN4eKJW1kwwKCpxMtdDIl54Mh9G9Tw+P2/upi7bD6suwP9we32FudQOVhrmmpb4huHhhgfM7+zjj3OnrY3PWYVuawWkMxrGNJ8OOMh5XyWggYVqpJOlctM2iLOoUSjyowVfWinIRQKZ+AFB0vnBYC0Y+4G9ONliv7aMuRHyHuvTEaJxvHnlFtegIWVpwtxvgipLPlfdBr2oXKROJzfe5edKhLmgE4Iq4aorq+9U5jLcESee5wBlXrriCcjQ8uuJ80nc9b781XO6PoDWtSLulw1GH5mH6KeuHG8WEJAtSpp7toO3crfONqbcuEj80DUitpXX+jgljnwTwjTJmgcH40pjPiop0ckT1aQQ7gulrKPV6nQEgq8DonM+cZsDTGqrxSW2GO8OKH9vPpDE/vh8xBTpvOMg5BtBMXo4oAeibJvD5snszCTyOPbV46sZXhNd83dC6/uO3dR75qZKFaM8rBf+jw08TCjmH3o5lx0J34rxZpw+rrU9Z2GQ==;gm+tGUcqv3WDb+eZR/CP8g=="
 ---
 

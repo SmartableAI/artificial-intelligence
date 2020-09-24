@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Faktion and Iguazio Bring Data Science to Production for European Smart Mobility Customers on Azure Cloud"
+    excerpt: "Iguazio, the data science platform built for production and real-time machine learning applications, today announced a strategic partnership with Fakt"
+    publishedDateTime: 2020-09-21T08:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200921005040/en/Faktion-and-Iguazio-Bring-Data-Science-to-Production-for-European-Smart-Mobility-Customers-on-Azure-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
+    images:
+      - url: "https://mms.businesswire.com/media/20200921005040/en/822796/23/logo+social.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Learning in the Cloud: Canada’s First University to Move Operations into One Secure Cloud Infrastructure Sets the Stage for the Future of Learning"
     excerpt: "“Bringing all our data together in our own cloud environment will make artificial intelligence (AI) and machine learning at scale possible. It also makes IT systems’ downtime a ..."
     publishedDateTime: 2020-09-23T13:15:00Z

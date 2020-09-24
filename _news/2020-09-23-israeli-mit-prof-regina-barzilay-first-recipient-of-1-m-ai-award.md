@@ -35,7 +35,7 @@ related:
     provider:
       name: news
       domain: mit.edu
-    quality: 167
+    quality: 171
     images:
       - url: "https://www.aaai.org/Awards/AAAI-Squirrel-AI-Award-for-Artificial-Intelligence-for-the-Benefit-of-Humanity.jpg"
         width: 1300

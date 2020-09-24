@@ -62,7 +62,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1413,34 +1413,25 @@
       ]
     },
     {
-      "path": "_news/2020-09-10-qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0.md",
-      "title": "Qeexo AutoML Enables Machine Learning on Arm Cortex-M0 and Cortex-M0+",
-      "excerpt": "Qeexo, developer of an automated machine learning (ML) platform that accelerates the deployment of tinyML at the edge, announced that its Qeexo AutoML platform now supports machine learning on Arm Cortex-M0 and Cortex-M0+ processors. According to the ...",
+      "path": "_news/2020-09-10-cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and-machine-learning-evaluation.md",
+      "title": "Cloudera Recognized as A Leader By Independent Research Firm in Notebook-Based Predictive Analytics And Machine Learning Evaluation",
+      "excerpt": "Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Machine Learning has been named a Leader by Forrester Research",
       "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
-      "originalUrl": "https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and/article_4846dd95-1afe-50e9-9058-37fc127461e0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloudera-recognized-as-a-leader-by-independent-research-firm-in-notebook-based-predictive-analytics-and/article_4846dd95-1afe-50e9-9058-37fc127461e0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f5a527004ed8-Screen%2BShot%2B2020-09-10%2Bat%2B9.20.55%2BAM.png&size=1&version=1600878601&sig=531884c33b6f027a7a9e632ba3ce2832&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T08:50:00-07:00",
+      "publishedDateTime": "2020-09-10T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

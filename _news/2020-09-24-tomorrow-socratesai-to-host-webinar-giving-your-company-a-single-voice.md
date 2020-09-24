@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-h
 webUrl: "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How close is AI to decoding our emotions?"
+    excerpt: "Researchers have spent years trying to crack the mystery of how we express our feelings. Pioneers in the field of emotion detection will tell you the problem is far from solved. But that hasn’t stopped a growing number of companies from claiming their algorithms have cracked the puzzle."
+    publishedDateTime: 2020-09-24T15:20:00Z
+    webUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/"
+    ampWebUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Topper-6.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tomorrow: Socrates.ai to Host Webinar “Giving Your Company a Single Voice”"
     excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub WHAT: Will present the informative webinar, “Giving Your Company a Single Voice.” WHEN: Tuesday, September 22, 2020 at 1:00 p.m."
     publishedDateTime: 2020-09-21T11:16:00Z

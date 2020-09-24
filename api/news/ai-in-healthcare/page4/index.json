@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-commentary-optimizing-a-truck-fleet-using-artificial-intelligence.md",
+      "title": "Commentary: Optimizing a truck fleet using artificial intelligence",
+      "excerpt": "Driving a truck is a transfer of knowledge and skills by humans (at least now). High-dimensional problems are problems for which the relevant data on which decisions must be made has hundreds, possibly thousands of attributes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_072720_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp",
+      "publishedDateTime": "2020-07-28T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
       "title": "How India can become a powerhouse in Artificial Intelligence",
       "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",

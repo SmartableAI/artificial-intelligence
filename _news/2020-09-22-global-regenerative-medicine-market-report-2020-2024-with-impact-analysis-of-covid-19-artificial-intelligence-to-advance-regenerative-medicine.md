@@ -140,7 +140,7 @@ related:
   - title: "Global Natural Language Processing (NLP) Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
     excerpt: "We, MarketsandResearch.biz have introduced a new research study titled Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 which contains a comprehensive database on future market estimation based on historical data analysis."
     publishedDateTime: 2020-09-20T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20"
     type: article
     provider:
       name: MarketWatch

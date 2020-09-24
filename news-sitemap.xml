@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/</loc>
+    <lastmod>2020-09-24T08:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes</loc>
+    <lastmod>2020-09-24T08:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/</loc>
+    <lastmod>2020-09-24T07:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/</loc>
     <lastmod>2020-09-24T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -529,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/</loc>
-    <lastmod>2020-09-21T04:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/adt-slumps-on-ai-startup-2020-09-21</loc>
     <lastmod>2020-09-21T03:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -579,12 +591,6 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/</loc>
     <lastmod>2020-09-20T21:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wfmynews2.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0</loc>
-    <lastmod>2020-09-20T17:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2203,12 +2209,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
-    <lastmod>2020-09-10T08:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail</loc>
     <lastmod>2020-09-10T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2408,6 +2408,12 @@
   </url>
   <url>
     <loc>https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx</loc>
+    <lastmod>2020-09-09T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
     <lastmod>2020-09-09T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

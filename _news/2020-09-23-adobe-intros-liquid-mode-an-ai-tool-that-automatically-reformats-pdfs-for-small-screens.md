@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Adobe's Liquid Mode uses AI to make PDFs easier to read on phones"
+    excerpt: "The new mode uses Sensei, Adobe’s AI tool, to automatically reformat text, images and tables for mobile devices."
+    publishedDateTime: 2020-09-24T15:40:00Z
+    webUrl: "https://www.engadget.com/adobe-liquid-mode-130012210.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fddd5f7d0-fd80-11ea-b1f5-651ca90fba55&client=amp-blogside-v2&signature=98c07f7998a907a6c07f51d5aad253202e5994d0"
+        width: 1015
+        height: 630
+        isCached: true
 
 secured: "nJV2gNbJgmkM5mvV5VMspQYKtPJGyJettqNKCnGBRoWeZLb9uf6YfMnaUdWR/u0pSRRKZQBmaFuxK3lMInYoO0x8/4ZMMZA0s24ONofe6Dnyday1ZY8Qf5sDEPL/U5hYJY+/UgjAar7gEGfCM2Rd670G3GR6W78Ln+izCzkrMffdmxi+sTkwuzXfoEmSV2HMaZ7idAVehY25ACLNBhTi8zOWxbtFbGvnlrzpzBYDMZ1sYDcNNt3UkVmpHf3M6is09wudKR3z5v1oerC9JAjj7FmfbGoYZ/mceQAN5tADHePcbbQkTZY/1un0UEHM5+na7vzimb58rU+Ei4gF3oNogbEjCBsWBSsubthgrf9B474PnPamwb6XSDVH1Sg3ocg0cScGQ5CVrEOQ/fGOS+KHG89lZH8LQNBBGtTT7GK7f2h2yelC1JLiwGap9CWCpKN/nGMEXL1SgnJtVhCwH7cxRulcWYDqkg/ERSZK4XlsLDVPQSb3hUapJavzZaqx/v1uUSye/RDhiE64BY1+eBypoA==;CH+EWxT4rs8pXqNzG0YxFQ=="
 ---

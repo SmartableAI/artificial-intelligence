@@ -2,6 +2,57 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-08-26-clearview-ai-ceo-says-over-2400-police-agencies-are-using-its-facial-recognition-software.md",
+      "title": "Clearview AI CEO says ‘over 2,400 police agencies’ are using its facial recognition software",
+      "excerpt": "More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://hoantonthat.com/",
+      "originalUrl": "https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hoantonthat.com/assets/images/card.jpg?v13505373516951",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-why-board-directors-and-ceos-need-to-mitigate-ai-bias-risk.md",
       "title": "Why Board Directors And CEOs Need To Mitigate AI Bias Risk",
       "excerpt": "This blog discusses the acceleration of data bias in AI models, introduces five types of AI bias, and identifies key governance questions for board directors and CEO’s to ask their organizations in order to mitigate data bias risks.",
@@ -1104,57 +1155,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsoft-word-for-the-web-now-lets-office-365-users-record-and-upload-audio-for-transcription.md",
-      "title": "Microsoft Word for the web now lets Office 365 users record and upload audio for transcription",
-      "excerpt": "If your job requires extensive work with documents or routinely organizing meeting notes, transcribing can be an invaluable tool to save time or catch that important detail that inadvertently got overlooked the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "originalUrl": "https://www.techspot.com/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-26-image.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86514-microsoft-word-web-now-office-365-users-record.html",
-      "publishedDateTime": "2020-08-26T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

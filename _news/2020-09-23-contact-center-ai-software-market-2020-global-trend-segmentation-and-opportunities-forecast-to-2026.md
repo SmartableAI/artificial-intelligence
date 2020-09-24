@@ -53,6 +53,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
+    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
+    publishedDateTime: 2020-09-23T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
     publishedDateTime: 2020-09-21T10:45:00Z

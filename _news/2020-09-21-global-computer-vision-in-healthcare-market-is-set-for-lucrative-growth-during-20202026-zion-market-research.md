@@ -60,6 +60,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 41
+  - title: "Far-Field Speech And Voice Recognition Market Evolving Technology and Growth Outlook 2020 to 2026"
+    excerpt: "Sep 23, 2020 (Market Insight Reports) -- The Far-Field Speech And Voice Recognition Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry ..."
+    publishedDateTime: 2020-09-23T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-evolving-technology-and-growth-outlook-2020-to-2026-2020-09-23?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lYQ3qulYWv2hGZD+2Y2P5+VNZi6qBtOrDrOlYyqQWhVsg7gxoP9+N/nGbymM2zzUyKlaBcMlJ6gYzlzPi8OPSXLHKWjdu44gV+a3RgwgNrKfbJ8JIsrhi+kqL1JbXVpieprOLMpClV4oemD59IKy06fi/8iLbRxzfaDDTowlw07SXyxZtySKnzZqmsmXsJs7cXVxxRtOayCNN3fSFrBrgyaVakYMD3Dge6xFw6IbttM+3fhIyO+htTVuS3tTwwp99lZGQ5vBA3EMn7pPQGIH+4NH8NJo2hSAXkgCAbXT1Ld5OnMvC1ZO3hqGzWTWar3dsPaDVjvJ+t0tGs4tK0fD5BPu+LN7AT6+tAwxzvm2+u8=;w22fJBKPEFlb40zPBQQlDg=="
 ---

@@ -98,6 +98,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "AI and its Applications in the Education Sector"
+    excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
+    publishedDateTime: 2020-09-24T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-and-its-applications-in-the-education-sector-nid-6504.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/jq72j450.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "cSASkCg0BBweHpy5nJxVLGkeXXezM8xcN4w3PhCasu/7DI0CimJLD2JYfT5zI3kcvGxxRj9x7+W5NielvM4a5/HOIQ6uwA6F3rTBjWYNvFkg/rH3sdCBU1/rTGpGc3QGeQVhsjVnPtVMnJpSh64jCOo/Ka62aO/3hr1KEIHPHbHO2oeInS55ZadBN1snM8WcorfBFyJuFtqfq2ZYBAOZNcQojIIxMNNuTdtx6u4cOXomLtV7oh0Zgq0jfGNryQmZerreOkpQOGBS1A0IhHcNAoierN7Qxl1E7vXQOcPxSaDA18EZm8oHur/tzYsDNsMegyRJaeCyEOPIQgaVub22OgKDWr+FjaqaH5MPOBI+k/ZJufxtFVkAMcJibcJvsl1FbjpxMNeyYQ4fmOIOxuCasfFu+KP1wbJYp8YWVGT53Anf7fxNnYV5z5ERJiX3pto5nH1BcyoT+nwtkUgyZ+Z51j2gCiAsEc8nODMznVvyJLGiwZhUM798QWsCFwya5ZbdWqnQyFDR+M/goSQ86//Qpg==;efClzSkJbtPMs/54ngRsWQ=="
 ---

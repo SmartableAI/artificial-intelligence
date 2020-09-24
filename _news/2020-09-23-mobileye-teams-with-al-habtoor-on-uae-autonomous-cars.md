@@ -50,6 +50,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
+    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
+    publishedDateTime: 2020-09-21T14:21:00Z
+    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
+    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 44
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Li Auto picks Nvidia over Mobileye for newest self-driving cars"
     excerpt: "Li Auto will be the first automaker to use Nvidia’s newest processor to facilitate highly autonomous driving functions for its EVs."
     publishedDateTime: 2020-09-24T07:59:00Z
@@ -80,6 +96,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
+    excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
+    publishedDateTime: 2020-09-21T20:27:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "ZXySU0ZeQtgU1oD1bG0m2xCQU/d5CO5PkKavQXScVAcgquVhwWaVQJvjLoQFDF1BK8liVixLRJHZFo6HIB/T5DwS8VtPA0BFcqtomBguFELq2DRQEfDytbD/IWjZQV1ruFaf78+ZRfKmpPsLXL+LdnX4nO4JFnlxWueIewCuuiDUMEGtyy/nlBdqav7LR9c4u0FM5nxEREZWxQU77i+HBhz6qJ5NQjbD8VOxGxlQa4nZCgHnvAXjriqil4Dr+jAJarm3sQzn//e2evHSGUr32Kreh/783migrbiTYXsp8W6B+oPtVCArcUeRb7kkgAwyXk84IStn09485zwDnjuz/NEDgtO4ujlHKZrWfqdaQe2VNm+ToQdaLpvqyXCiYucPJKuQrcRtXsSsLah/p9t+2Ju5aslOtGoduYSgT8ch2oF2aVr8mwzw116FaoNAj2m4RMi3XJSQDgDqGUKMCh2H5JdivMXwkPfKsribGM2KD3tic2giCQTatoyrvySF1aJdIso8MgE1KWjDhkF6xrf8tw==;1XR0qHZTP6wGIMx2TDv9Rg=="
 ---

@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Say Aloha To Self-Driving Cars As Hawaii Approves Roadway Testing, Though Paradise Not Assured"
+    excerpt: "Hawaii welcomes self-driving cars. getty. Do you dream of taking a vacation to Hawaii? If so, you can now bolster those dreamy images in your head by including a new showcase that"
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bd44965613fc31dd4ee1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D256%26cropY2%3D2820"
+        width: 1199
+        height: 562
+        isCached: true
   - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
     excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
     publishedDateTime: 2020-09-21T11:01:00Z
@@ -41,77 +57,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "How Merced County plans to bring more self-driving car testing to Atwater’s Castle Airport"
-    excerpt: "Maturing plans for self-driving vehicle testing at the former Castle Air Force Base in Atwater are putting Merced County on a global map for a niche — but lucrative — market, county officials say. Last week,"
-    publishedDateTime: 2020-09-23T14:00:00Z
-    webUrl: "https://www.mercedsunstar.com/news/local/article245894580.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/local/article245894580.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/local/article245894580.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 49
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404783001/5286396c-ceb8-43ad-b52f-cb02957d415d/47c11371-d76a-48cc-a642-b7e9b73402eb/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
-    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 44
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Uber investors are pressuring CEO to revamp the self-driving division"
-    excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
-    publishedDateTime: 2020-09-23T09:33:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/09/21/uber-investors-pressuring-ceo-revamp-self-driving-division/5857206002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5857206002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5857206002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/PDTN/41d1c803-2318-4f70-937e-43dc6a07e98d-Uber.jpg?auto=webp&crop=901,507,x20,y212&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "House Republican looks to rev up self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-09-24T11:00:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/09/24/stories/1063714539"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/09/image_asset_94369.jpg?1600945803"
-        width: 618
-        height: 318
-        isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
-    publishedDateTime: 2020-09-21T20:27:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "uWy7hVLqBl5MD2PzD+VNzMykjfD9ZBywlmPMOwxzDrQY9YUWcIloj3432lmKvpKwmFffLzEmKg+1ABwxQNk4rEm43pqggcZ4km7pERslnQXBQxqXvpo3Mi9xeOAubfs3hk2wNpnA/9g6v2kpHlFtGs7z2X43tbZx7ZGI36l9N8P3ON+0d6I8UVgz/oSIA/ph/p2SbN52raeQUnGw+gu5P9un5HGUliqccZRvUk5IqcEFcq/k5LoZST7tc9KthJf5CMV2CcQRI3YpZDilvCz4B0priSio8QyHilyFVGF4l0Dgm78P3ss2ifELyEE6SEXsd7Hide5UCqCWxgbXHmW1tmmJbu/FBxaDj/rg53pmmK0uFriY5qtlk3JjVzohvfUmKm1SLYIkT6NDQkrtBcXUffcLSAHeTtWhL1a4lrPnC5VtFY1wMrD4yUipEJRP2jhgteQsZnQ9JjRINKn2lkgIqu+d67/qHUGgos1qiG8s1sT6c1vjKr7sXvrg2zQocMA/C2lfBlmKU+WC9TLyMbFAyw==;RUUdWXHrSnmLfb1pzdD7Fg=="
 ---

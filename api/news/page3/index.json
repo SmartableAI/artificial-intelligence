@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-23-microsoft-connects-satellites-to-its-cloud-in-new-service-azure-orbital.md",
+      "title": "Microsoft connects satellites to its cloud in new service, Azure Orbital",
+      "excerpt": "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg",
+          "width": 620,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/",
+      "publishedDateTime": "2020-09-22T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care.md",
+      "title": "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care",
+      "excerpt": "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
+      "originalUrl": "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/",
+      "publishedDateTime": "2020-09-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications.md",
+      "title": "BrainFrame: Smart Vision AI Developers Kit Is Accelerating Computer Vision Applications",
+      "excerpt": "Imagine being able to embark on a real-time computer vision project in a few hours, with no code to build a traffic control system, a warehouse monitoring system, or an in-store point of sale optimization system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a29457ce62549d45493de%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/09/22/brainframe-smart-vision-ai-developers-kit-is-accelerating-computer-vision-applications/amp/",
+      "publishedDateTime": "2020-09-22T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026.md",
       "title": "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026",
       "excerpt": "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ...",
@@ -10,7 +156,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -348,7 +494,7 @@
       "originalUrl": "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1072,142 +1218,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-differentiable-argmax-for-tensorflow.md",
-      "title": "Differentiable Argmax for Tensorflow",
-      "excerpt": "I like to tinker with experimental neural network architectures. During an attempt at (somewhat) interpretable machine learning I needed an argmax function. As you probably know, functions must ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
-      "originalUrl": "https://medium.com/@szabogergo2020/differentiable-argmax-for-tensorflow-2da6ca5d8ae7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*3CpqZjkPCs5NaJFYBUVWhA.jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-fincen-files-show-banks-use-of-ai-and-machine-learning-effective-in-kycaml.md",
-      "title": "FinCEN Files Show Banks’ Use Of AI And Machine Learning Effective In KYC/AML",
-      "excerpt": "Documents submitted to FinCEN show that several of the largest global banks moved money on behalf of those involved in criminal financial activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2019/05/FinCEN-guidance-virtual-currencies-cryptocurrency-457x319.jpg",
-          "width": 457,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/fincen-files-banks-battle-kyc-aml/amp/",
-      "publishedDateTime": "2020-09-21T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-fast-food-restaurant-manager-sent-to-prison-for-stealing-30000-from-company.md",
-      "title": "Fast-food restaurant manager sent to prison for stealing $30,000 from company",
-      "excerpt": "Robert Giardina stole $30,075 from the owner of three fast-food restaurants that he managed, according to the U.S. Attorney's Office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
-      "originalUrl": "https://omaha.com/news/local/crime-and-courts/fast-food-restaurant-manager-sent-to-prison-for-stealing-30-000-from-company/article_5ade38e7-7035-52f0-8678-04d567101b22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1941b469-3443-402c-b48d-d6c5b91a055e.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e",
-      "publishedDateTime": "2020-09-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

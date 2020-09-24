@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/news/local/business-journal/da
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: WFMY News2
@@ -40,22 +40,6 @@ related:
     quality: 53
     images:
       - url: "https://media.11alive.com/assets/KSDK/images/e2a0510b-f6e3-41e6-85cb-149cd541767f/e2a0510b-f6e3-41e6-85cb-149cd541767f_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Danforth Center to play role in new $20M federal artificial intelligence institute"
-    excerpt: "The Danforth Center’s Todd Mockler will co-lead a team of researchers involved in a new artificial intelligence research institute"
-    publishedDateTime: 2020-09-19T21:38:00Z
-    webUrl: "https://www.13wmaz.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0"
-    ampWebUrl: "https://www.13wmaz.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0"
-    cdnAmpWebUrl: "https://www-13wmaz-com.cdn.ampproject.org/c/s/www.13wmaz.com/amp/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0"
-    type: article
-    provider:
-      name: WMAZ
-      domain: 13wmaz.com
-    quality: 51
-    images:
-      - url: "https://media.13wmaz.com/assets/KSDK/images/e2a0510b-f6e3-41e6-85cb-149cd541767f/e2a0510b-f6e3-41e6-85cb-149cd541767f_750x422.jpg"
         width: 750
         height: 422
         isCached: true

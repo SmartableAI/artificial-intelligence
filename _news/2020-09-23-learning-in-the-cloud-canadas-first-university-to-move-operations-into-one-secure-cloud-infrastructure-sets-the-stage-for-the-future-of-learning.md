@@ -32,6 +32,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
+  - title: "Faktion and Iguazio Bring Data Science to Production for European Smart Mobility Customers on Azure Cloud"
+    excerpt: "Iguazio, the data science platform built for production and real-time machine learning applications, today announced a strategic partnership with Fakt"
+    publishedDateTime: 2020-09-21T08:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200921005040/en/Faktion-and-Iguazio-Bring-Data-Science-to-Production-for-European-Smart-Mobility-Customers-on-Azure-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
+    images:
+      - url: "https://mms.businesswire.com/media/20200921005040/en/822796/23/logo+social.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "EIDfuCGOBP000B8RACR7woTwDxnzdTrd5knyxF33OuH7HYUw+Q0P9TZcregyxVxq5FTIO1elaQkaYWqf+ZA+WH1sTxJgc5p2mlZq/i5hTvpuQO6Rhd2PBgMfTuzBwksNLybOaGJFtm5YDAKJc8ezPv/F3OnqcOOYKBIr4JDTdEy/SMo+7L+6kpxWRXUs7ubhIRzy5e3rsH76YxUVwFp/VrDxgJrqGmkGNq3Qd4iWgVZikpVqiiax3LvaKFF5YWda4cvPmtAwlSG9gCsio0pRj/qBkTBcvInxjDX1YplR9P6w78IqPjzjMsV1oPu2toLvK6d3mjLKyCA+jRIawm0oj+rEC54tns1xkqAKOMO52Qg=;Fm+NfevrT0u/yLtiQFB45w=="
 ---

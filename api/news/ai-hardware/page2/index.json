@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.md",
+      "title": "Chip maker Nvidia takes a $40B chance on Arm Holdings",
+      "excerpt": "Nvidia's deal to buy Arm would launch the processor maker as a world-class power with reach into servers and cell phones - if regulators allow it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "originalUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/gamble_chance_risk_chips_thinkstock_490734911-100749268-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574972/chip-maker-nvidia-takes-a-40b-chance-on-arm-holdings.amp.html",
+      "publishedDateTime": "2020-09-14T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-nvidia-acquires-chip-design-giant-arm-limited-in-40-billion-usd-deal.md",
       "title": "NVIDIA Acquires Chip Design Giant Arm Limited in $40 Billion USD Deal",
       "excerpt": "Shortly unveiling its highly-anticipated “Ampere” RTX 3000 series of graphics cards just earlier this month, NVIDIA has now announced that it intends to acquire chip design firm Arm Limited ...",
@@ -1359,49 +1401,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off.md",
-      "title": "Space is the place for Irish AI chip as PhiSat-1 satellite blasts off",
-      "excerpt": "The PhiSat-1 is the first European satellite carrying out an experiment to demonstrate how onboard deep learning technology can speed up the rate at which observation data is proessed and transmitted back to Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "originalUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4345721&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/innovation/space-is-the-place-for-irish-ai-chip-as-phisat-1-satellite-blasts-off-1.4345722",
-      "publishedDateTime": "2020-09-03T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

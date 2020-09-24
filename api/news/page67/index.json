@@ -2,6 +2,48 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-08-04-soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in.md",
+      "title": "Soon, your brain will be connected to a computer. Can we stop hackers breaking in?",
+      "excerpt": "As the development of brain-computer interface technology speeds up, are security and privacy getting left behind?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/soon-your-brain-will-be-connected-to-a-computer-can-we-stop-hackers-breaking-in/",
+      "publishedDateTime": "2020-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom.md",
       "title": "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com",
       "excerpt": "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33.",
@@ -1074,56 +1116,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-this-startup-aims-to-make-ecommerce-accessible-for-everyone.md",
-      "title": "This Startup Aims To Make Ecommerce Accessible For Everyone",
-      "excerpt": "A new wave of web accessibility solutions like accessiBe are transforming the challenging yet much needed process of making websites accessible to people with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f27b409f1c64c94573c63b1%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
-      "publishedDateTime": "2020-08-03T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

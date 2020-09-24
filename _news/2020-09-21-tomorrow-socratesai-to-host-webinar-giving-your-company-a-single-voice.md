@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How close is AI to decoding our emotions?"
+    excerpt: "Researchers have spent years trying to crack the mystery of how we express our feelings. Pioneers in the field of emotion detection will tell you the problem is far from solved. But that hasn’t stopped a growing number of companies from claiming their algorithms have cracked the puzzle."
+    publishedDateTime: 2020-09-24T15:20:00Z
+    webUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/"
+    ampWebUrl: "https://www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/09/24/1008876/how-close-is-ai-to-decoding-our-emotions/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/09/Topper-6.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qxCbbnr/vel84fDPYs4GYTJh7V8htVhNf/7FOF7ilIF1Llxh10Thxj92OqvbUWZk4ehB2FOx6i2A1P9IFXV4+taYFAi/Se+om2XIyb4oHWCxzr7FqfzU5FvluauvZeGBFwHlyrsH5KsnYjU94/W5dYmW+gdUW0W1Qie2dEf7lmrivCoFXdX+aj21OmTFb6Q/kkjxLfELHfuEPKtgwpHC0CXiDUNrli0uMAphIHXbsxln4GLO/jJc2qpdwKX/zgm5nC4IystVvJOhQ3QwtvYVrF6OSlQPDK2R+HHw9sI07EV2YUFzf8h3Zg/ggucnrznYqzG2iJ0b4OSC5IbgvVaxeHrP1GPnzi7iWrPcaxcpUdk=;MZFrfs3vYGyG1GYx/y9Ykw=="
 ---

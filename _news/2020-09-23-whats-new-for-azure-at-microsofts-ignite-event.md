@@ -84,6 +84,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "AI and its Applications in the Education Sector"
+    excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
+    publishedDateTime: 2020-09-24T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-and-its-applications-in-the-education-sector-nid-6504.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/jq72j450.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "\"Dev-friendly\" APIs and SDKs in New Azure Service Simplify Building Rich Communication Experiences"
     excerpt: "Microsoft this week unveiled the public preview of Azure Communication Services, a new platform for developers who want a simple and well-supported way to build new communications solutions or integrate them into existing applications."
     publishedDateTime: 2020-09-24T09:51:00Z

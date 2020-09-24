@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
+      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
+      "excerpt": "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
+      "originalUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2663FU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU",
+      "publishedDateTime": "2020-09-15T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully.md",
       "title": "In 2020, Warsaw’s startup ecosystem is ‘a place to observe carefully’",
       "excerpt": "If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list.",
@@ -1117,56 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-varada-raises-12-million-to-automate-data-lake-management-with-ai.md",
-      "title": "Varada raises $12 million to automate data lake management with AI",
-      "excerpt": "Varada, a startup developing AI solutions to common data lake problems, has raised $12 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/9045fe37-33ef-49c7-bba4-d0bd0bbd0c75-e1599606112753.png?w=1200&#038;strip=all",
-          "width": 1180,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/15/varada-raises-12-million-to-automate-data-lake-management-with-ai/amp/",
-      "publishedDateTime": "2020-09-15T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
