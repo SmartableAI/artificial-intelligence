@@ -2,6 +2,343 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-10-palmer-luckeys-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system.md",
+      "title": "Palmer Luckey's Ghost 4 military drones can swarm into an AI surveillance system",
+      "excerpt": "Palmer Luckey rose to tech fame for inventing the Oculus Rift, a virtual reality headset that helped rekindle interest in the technology. Now he's got a high-tech product to show off: the. Built by Anduril Industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "originalUrl": "https://www.cnet.com/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/EAPkxcwgsXC9qCvQP8TyNiDX73I=/2020/09/10/791c1d31-19e3-4d6e-85c9-2cb44879111a/anduril-ghost-4-drone-over-water.jpg",
+          "width": 2087,
+          "height": 1179,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/palmer-luckey-ghost-4-military-drones-can-swarm-into-an-ai-surveillance-system/",
+      "publishedDateTime": "2020-09-10T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-ai-and-automation-vs-the-covid-19-pandemic-trading-liberty-for-safety.md",
+      "title": "AI and automation vs. the COVID-19 pandemic: Trading liberty for safety",
+      "excerpt": "Reports on the use of AI to respond to COVID-19 may have been greatly exaggerated. But does the rush to pandemic-fighting solutions like thermal scanners, face recognition and immunity passports signal the normalization of surveillance technologies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2016/03/30/24d87bb9-0993-4b2c-85ff-8ed815d4347e/hybrid-cloud-scales.jpg",
+          "width": 770,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-automation-vs-the-covid-19-pandemic-trading-safety-for-liberty/",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-andurils-new-drone-offers-to-inject-more-ai-into-warfare.md",
+      "title": "Anduril’s New Drone Offers to Inject More AI Into Warfare",
+      "excerpt": "A swarm of Ghost 4s, controlled by a single person on the ground, can perform reconnaissance missions like searching for enemy weapons or soldiers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "originalUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f59679f7d996391a1b72bde/master/pass/business_ghost4_studio_01.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anduril-new-drone-inject-ai-warfare/amp",
+      "publishedDateTime": "2020-09-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes.md",
+      "title": "Orchard raises $69 million to develop machine learning for buying and selling homes",
+      "excerpt": "Orchard raised $69 million to continue the development of its machine learning technology that aims to make buying a home less complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "originalUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/orchard_social-e1599736489458.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/10/orchard-raises-69-million-to-develop-machine-learning-for-buying-and-selling-homes/amp/",
+      "publishedDateTime": "2020-09-10T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india.md",
+      "title": "Microsoft, Nasscom’s FutureSkills to launch AI-skilling initiative in India",
+      "excerpt": "Microsoft in collaboration with Nasscom’s FutureSkills will launch a nation-wide initiative in India to skill students in Artificial Intelligence. The initiative aims to skill 1 million students by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/uofolo/article32569375.ece/ALTERNATES/LANDSCAPE_615/BL11AISKILL",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-nasscoms-futureskills-to-launch-ai-skilling-initiative-in-india/article32569376.ece/amp/",
+      "publishedDateTime": "2020-09-10T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report.md",
+      "title": "Artificial Intelligence (AI) Market Size, Growth, Trends and Global Segments Analysis Report",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-growth-trends-and-global-segments-analysis-report-2020-09-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-ai-robot-develops-the-perfect-tiktok-song-and-its-very-unusual.md",
+      "title": "AI robot develops the 'perfect TikTok song' - and it's very unusual",
+      "excerpt": "Researchers from AI startup Musiio have used artificial intelligence to develop what they claim is the ‘perfect TikTok song’",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
+      "originalUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article19122987.ece/ALTERNATES/s615/0_Tik-Tok-media-App-Illustration.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tech/ai-robot-develops-perfect-tiktok-22659361.amp",
+      "publishedDateTime": "2020-09-10T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-10-digital-twin-market-revenue-to-hit-usd-35-bn-by-2026-global-market-insights-inc.md",
       "title": "Digital Twin Market Revenue to Hit USD 35 Bn by 2026: Global Market Insights, Inc.",
       "excerpt": "Global Market Insights, Inc. has recently added a new report on the digital twin market which estimates the market valuation for digital",
@@ -609,6 +946,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-10-qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0.md",
+      "title": "Qeexo AutoML Enables Machine Learning on Arm Cortex-M0 and Cortex-M0+",
+      "excerpt": "Qeexo, developer of an automated machine learning (ML) platform that accelerates the deployment of tinyML at the edge, announced that its Qeexo AutoML platform now supports machine learning on Arm Cortex-M0 and Cortex-M0+ processors. According to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
+      "originalUrl": "https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f5a4c0467b71-Signal-Aggregation-De-Aggregation.png&size=1&version=1599753396&sig=99620e1b49adcd790d4c03c2f3c1dbd3&default=hubs%2Ftilebg-blogs.jpg",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-09-visualizing-tensorflow-training-jobs-with-tensorboard.md",
       "title": "Visualizing TensorFlow training jobs with TensorBoard",
       "excerpt": "TensorBoard is an open-source toolkit for TensorFlow users that allows you to visualize a wide range of useful information about your model, from model graphs; to loss, accuracy, or custom metrics; to embedding projections, images, and histograms of weights and biases. This post demonstrates how to use",
@@ -748,378 +1127,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-norfolk-va-pd-used-facial-recognition-not-even-officials-knew.md",
-      "title": "Norfolk, Va., PD Used Facial Recognition, Not Even Officials Knew",
-      "excerpt": "The Clearview AI application was piloted by police in the city, but most city leaders and the public had no idea it was being used. The technology has raised concerns among civil rights and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Norfolk-Va-PD-Used-Facial-Recognition-Not-Even-Officials-Knew.html?AMP",
-      "publishedDateTime": "2020-09-09T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-xanadu-brings-photonic-quantum-computing-to-the-cloud.md",
-      "title": "Xanadu Brings Photonic Quantum Computing To The Cloud",
-      "excerpt": "Goodson dives deeper as Xanadu announced on September 2nd that it would offer cloud access to its gate-based photonic quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5943894acc64f5fe4887d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/09/xanadu-brings-photonic-quantum-computing-to-the-cloud/amp/",
-      "publishedDateTime": "2020-09-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-physicist-the-entire-universe-might-be-a-neural-network.md",
-      "title": "Physicist: The Entire Universe Might Be a Neural Network",
-      "excerpt": "But in a provocative preprint uploaded to arXiv this summer, a physics professor at the University of Minnesota Duluth named Vitaly Vanchurin attempts to reframe reality in a particularly eye-opening way — suggesting that we’re living inside a massive neural network that governs everything around us.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/physicist-entire-universe-neural-network",
-      "originalUrl": "https://futurism.com/physicist-entire-universe-neural-network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/09/Physicist-Believes-Universe-Neural-Network-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/physicist-entire-universe-neural-network/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/physicist-entire-universe-neural-network/amp",
-      "publishedDateTime": "2020-09-09T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-i-have-no-desire-to-wipe-out-humans-robot-writes-in-ominous-op-ed.md",
-      "title": "‘I have no desire to wipe out humans,’ robot writes in ominous op-ed",
-      "excerpt": "OpenAI’s powerful new language generator, saying exactly what a robot intending to destroy humans might say. In an op-ed for The Guardian — yes, robots write op-eds now — GPT-3 was told to write an essay convincing readers that the machines come in peace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "originalUrl": "https://www.marketwatch.com/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925?siteid=bigcharts&dist=bigcharts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-230139/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/i-have-no-desire-to-wipe-out-humans-robot-writes-in-an-ominous-op-ed-11599675925",
-      "publishedDateTime": "2020-09-09T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-artificial-intelligence-aids-ucsd-gene-activation-discovery.md",
-      "title": "Artificial Intelligence Aids UCSD Gene Activation Discovery",
-      "excerpt": "With the help of artificial intelligence, the UCSD researchers say they have identified a DNA activation code that's used at least as frequently as the TATA box in humans. The discovery, which they named the downstream core promoter region — or DPR — opens up possibilities for another major portion of our genes.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "originalUrl": "https://patch.com/california/san-diego/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/22880694/20200909/021941/styles/patch_image/public/lab-testing-shutterstock-203211934___09141226582.jpg?width=984",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28951858/artificial-intelligence-aids-ucsd-gene-activation-discovery",
-      "publishedDateTime": "2020-09-09T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations.md",
-      "title": "Iron Ox raises $20 million to grow robotic greenhouse operations",
-      "excerpt": "Iron Ox plans to expand its robotic growing solution to greenhouses in California and other parts of the U.S. after a $20 million series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/unnamed-2-e1599787426725.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/iron-ox-raises-20-million-to-grow-robotic-greenhouse-operations/amp/",
-      "publishedDateTime": "2020-09-09T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-the-8-best-ai-stocks-on-the-market-today.md",
-      "title": "The 8 Best AI Stocks on the Market Today",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is one of the hottest and most controversial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-on-the-market-today-1029575327",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/best-ai-stocks-on-the-market-today-1029575327",
-      "publishedDateTime": "2020-09-09T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning.md",
-      "title": "Researchers find cutting-edge language models fall short in basic reasoning",
-      "excerpt": "A new paper finds that even cutting-edge language models like OpenAI's GPT-3 perform poorly when it comes to commonsense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "originalUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/09/researchers-find-cutting-edge-language-models-fall-short-in-basic-reasoning/amp/",
-      "publishedDateTime": "2020-09-09T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-convers
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
+    excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
+    publishedDateTime: 2020-09-24T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/09/24/bc532dc1-2796-40d7-8236-733cc0766223/amzn-az1-neural-edge.png"
+        width: 827
+        height: 497
+        isCached: true
   - title: "Maru Launches Conversational AI Analytics Tool"
     excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
     publishedDateTime: 2020-09-23T00:42:00Z

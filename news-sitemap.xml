@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/</loc>
+    <lastmod>2020-09-24T14:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/</loc>
+    <lastmod>2020-09-24T14:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/</loc>
+    <lastmod>2020-09-24T14:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/press-releases/2020-09-22/recruiter-com-announces-new-artificial-intelligence-platform</loc>
+    <lastmod>2020-09-24T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/</loc>
+    <lastmod>2020-09-24T13:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/</loc>
+    <lastmod>2020-09-24T13:21:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/</loc>
+    <lastmod>2020-09-24T13:02:24-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/</loc>
     <lastmod>2020-09-24T12:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +63,6 @@
   <url>
     <loc>https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device</loc>
     <lastmod>2020-09-24T10:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco</loc>
-    <lastmod>2020-09-24T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -123,6 +159,12 @@
   <url>
     <loc>https://www.beyond.ai/</loc>
     <lastmod>2020-09-24T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
+    <lastmod>2020-09-24T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -447,6 +489,12 @@
   <url>
     <loc>https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/</loc>
     <lastmod>2020-09-22T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2275,12 +2323,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
-    <lastmod>2020-09-10T08:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.electronicdesign.com/technologies/embedded-revolution/article/21141254/startup-raises-45-million-to-predict-faults-in-chips-before-they-fail</loc>
     <lastmod>2020-09-10T08:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2480,6 +2522,12 @@
   </url>
   <url>
     <loc>https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx</loc>
+    <lastmod>2020-09-09T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0</loc>
     <lastmod>2020-09-09T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

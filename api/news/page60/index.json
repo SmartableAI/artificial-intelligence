@@ -2,6 +2,377 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-08-10-achieve-machine-learning-goals-faster.md",
+      "title": "Achieve machine learning goals faster",
+      "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
+      "originalUrl": "https://www.infoworld.com/resources/206844/achieve-machine-learning-goals-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-go-long-with-machine-learning.md",
+      "title": "Go long with machine learning",
+      "excerpt": "Discover how the NFL & AWS are using machine learning and artificial intelligence to transform how football is analyzed, played, coached, and experienced. NFL Next Gen Stats, powered by AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
+      "originalUrl": "https://www.computerworld.com/resources/206843/go-long-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19.md",
+      "title": "Researchers use AI to determine which face masks work best for COVID-19",
+      "excerpt": "A technique developed at Duke University measures which face masks best protect against COVID-19 by counting the droplets they emit during speech.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-10T180435.460-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "publishedDateTime": "2020-08-10T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater.md",
+      "title": "Solving common challenges in sentiment analysis with help from Project Debater",
+      "excerpt": "\nToday, we are going to talk about a feature that isn’t always talked a lot in the AI space: sentiment analysis. What is sentiment analysis? Sentiment analysis is a subset of natural language processing (NLP) capabilities that provides high level filters for users when exploring and evaluating data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1124_Sentiment_Analysis_Blog_Chart_Final-1.jpg",
+          "width": 1280,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T10:28:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-sift-healthcare-raises-28-million.md",
+      "title": "Sift Healthcare raises $2.8 million",
+      "excerpt": "Milwaukee-based Sift Healthcare raised $2.8 million in a funding round that included investments from two Badger Fund of Funds, the company recently announced.",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/uploads/2019/05/Medical-Research-shutterstock_348289340-e1460130849457.jpg",
+          "width": 770,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/sift-healthcare-raises-2-8-million/?amp",
+      "publishedDateTime": "2020-08-10T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-machine-learning-best-practices-in-financial-services.md",
+      "title": "Machine learning best practices in financial services",
+      "excerpt": "We recently published a new whitepaper, Machine Learning Best Practices in Financial Services, that outlines security and model governance considerations for financial institutions building machine learning (ML) workflows. The whitepaper discusses common security and compliance considerations and aims",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-best-practices-in-financial-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/06/financial-services-best-practices-1.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T09:58:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers.md",
+      "title": "Researchers find ‘inconsistent’ benchmarking across 3,867 AI research papers",
+      "excerpt": "A survey of over 3,000 machine learning and AI research papers found little in the way of consistency with respect to benchmark metrics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/amp/",
+      "publishedDateTime": "2020-08-10T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-payments.md",
+      "title": "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments",
+      "excerpt": "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014425",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425",
+      "publishedDateTime": "2020-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis.md",
       "title": "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis",
       "excerpt": "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,",
@@ -803,350 +1174,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-the-costs-and-benefits-of-artificial-intelligence.md",
-      "title": "The costs and benefits of artificial intelligence",
-      "excerpt": "The COVID-19 pandemic is hastening the spread of artificial intelligence, but few have fully considered the short- and long-run consequences. In thinking about AI, it is natural to start from the perspective of welfare economics — productivity and distribution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/08/np_file_29359-870x580.jpeg",
-          "width": 870,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-governance-market-seeking-excellent-growth-ibm-google-facebook.md",
-      "title": "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook",
-      "excerpt": "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-09T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
-      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
-      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
-      "publishedDateTime": "2020-08-09T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
-      "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
-      "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
-      "originalUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/nextstemP-1596869064769.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
-      "publishedDateTime": "2020-08-09T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-qualcomms-latest-chip-wants-to-be-the-most-powerful-for-cloud-based-ai.md",
-      "title": "Qualcomm's Latest Chip Wants to be the Most Powerful for Cloud-Based AI",
-      "excerpt": "According to Qualcomm, the Cloud AI 100 chip can deliver 10 times the performance per watt over current GPU, CPU, and FPGA solutions for cloud-based AI. (Image source: Qualcomm) Qualcomm is applying its chip-making expertise to artificial intelligence in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cloud_AI_100_Render_678x452.jpg",
-          "width": 678,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-09-jason-calacanis-a-fourth-option-how-microschools-will-save-our-children.md",
-      "title": "Jason Calacanis: A fourth option: how #microschools will save our children",
-      "excerpt": "As an investor in highly disruptive companies, that last point is the one that got me in hot water with the hysterical Twitter mob this ... #microschools are. Best, Jason PS – There is ...",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/Jason?ref_src=twsrc^google|twcamp^serp|twgr^author",
-      "originalUrl": "https://www.msn.com/en-us/finance/careersandeducation/jason-calacanis-a-fourth-option-how-23microschools-will-save-our-children/ar-BB17Le72",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-09T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "twitter.com/jason?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "domain": "twitter.com/jason?ref_src=twsrc^google|twcamp^serp|twgr^author",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-09-its-world-mask-week-here-are-10-misconceptions-about-face-coverings.md",
-      "title": "It’s World Mask Week, Here Are 10 Misconceptions About Face Coverings",
-      "excerpt": "From beliefs that face masks will affect your immune system to child-trafficking conspiracy theories, there are a lot of myths floating around out there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f302195863f284a7dcb68d0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
-      "publishedDateTime": "2020-08-09T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-09-facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams.md",
-      "title": "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams",
-      "excerpt": "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmQxMjRlYjQ2NzYzNjFjNTQ4NmI0OTg4OTdjMTkxOC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
-      "publishedDateTime": "2020-08-09T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -59,6 +59,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Microsoft nabs exclusive license to key AI program"
+    excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
+    publishedDateTime: 2020-09-24T21:38:00Z
+    webUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    ampWebUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Microsoft Lands Exclusive Licence for OpenAI’s Astonishing GPT-3 Model"
     excerpt: "Microsoft is having a hell of a week. On Monday, the company announced a $US7.5 ($10) billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter."
     publishedDateTime: 2020-09-22T22:04:00Z

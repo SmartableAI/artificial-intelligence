@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-25-amazon-refreshes-echo-lineup-with-new-custom-chip.md",
-      "title": "Amazon refreshes Echo lineup with new custom chip",
-      "excerpt": "Amazon on Thursday unveiled a refreshed lineup of Amazon Echo smart speakers, featuring a new, custom chip that will help the AI-powered assistant Alexa respond to commands more quickly. The new devices also include a new design and new features for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco",
-      "originalUrl": "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/09/24/13a59b77-0697-4f29-84b6-ef36534cf30e/amazonecho1.jpg",
-          "width": 812,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/",
-      "publishedDateTime": "2020-09-24T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-nvidias-most-powerful-1500-gpu-sold-out-in-minutes.md",
       "title": "Nvidia's Most Powerful, $1,500 GPU Sold Out In Minutes",
       "excerpt": "Within minutes of it going on sale at 6 a.m. Eastern, it had sold out on Nvidia's official site, online electronics retailer Newegg, and B&H.  Nvidia launched it’s RTX 3080 last week and sold out in seconds.",
@@ -1453,6 +1402,48 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-tech-mega-deal-nvidia-will-buy-chip-designer-for-40-billion.md",
+      "title": "Tech mega-deal: Nvidia will buy chip designer for $40 billion",
+      "excerpt": "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
+      "originalUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549",
+          "width": 1024,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
+      "publishedDateTime": "2020-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

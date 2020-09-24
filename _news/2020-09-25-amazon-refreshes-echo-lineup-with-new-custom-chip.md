@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Amazon refreshes Echo lineup with new custom chip"
-excerpt: "Amazon on Thursday unveiled a refreshed lineup of Amazon Echo smart speakers, featuring a new, custom chip that will help the AI-powered assistant Alexa respond to commands more quickly. The new devices also include a new design and new features for kids."
+excerpt: "The updated smart speaker lineup also features a sleek new design and new capabilities for kids. Meanwhile, the new Echo Show 10 features a screen that follows you as you move throughout a room."
 publishedDateTime: 2020-09-24T17:37:00Z
-originalUrl: "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco"
-webUrl: "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco"
+originalUrl: "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
+webUrl: "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: ZDNet
@@ -24,12 +24,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/09/24/13a59b77-0697-4f29-84b6-ef36534cf30e/amazonecho1.jpg"
-    width: 812
-    height: 630
-    isCached: true
-
-secured: "49SsatyfU1fVYSBDiMtlYGyZ0hOIq8HhsHaO9xJNn9Tl7gjEzUGIO/xQCrMHyngeIS5qQC4my8tj7gzd8CvNw8Okhk1vQDFf42Jk7flQ5aFsLgU+eO/3Q520t3QPhDJXhchGFREpUB0QNhcWyMwWc2V++VbKVLVkmakxpoeMoTeqHbFFDXYbPcEqer7+xiFoEsM8ImILHeVzMOyPKHs+J2XzPbvccsSL2kIz1nRN4+zjr+nSqecVxZvK0hWxFuJ59rqTjrJ/YJFL63df8ahsHpAA+/Dd7c0ewyONaH0zGDjbT+17Z6VfmjmqzxJvd5lrZmycaTKnTDxysAZAL7nC8eXhZRaLFAgS9UsTJWikkKs=;TO20xYQOsAlPYHlXALxEPw=="
+secured: "clAntRaW7eNibqYRyu181vUg1fl8QiztA2htJprEZaZ6zvXrdOT/tS0unThKRRx0EfcQXkU+C61CKk0XtUe9fIyRfuFaG/rtQ0xC91NTTYiAetKx6LRFh3g8oHEBdSsCI3vZCz6FzPi5M9cEMtwnIu1KCAChlU569Qu05Mds9qngPCV8RlQdw4y/pPlPvzUlrQk1a/jntwJd8aJKINuTb2ZyV4i/SlRs7siyg05aBKyCIa33V/+QXmnOtTW1Os8B9ANfun9PyO3IsC1KMwg4qw+IlRZm5cX61BkzoFQlwytvzD4NcPAJot9F1SZEeiWxr7Ynv5lAmCeBreRVlnKidIbDCePhsx8oHfVv+qORi0YUMe8ynrlcuvucuqdMoEFfGlknd7wYhhczNRCdhUIj0AsTY2OZM+uKxgp1GKjXUyN8y/0FDQ3WHai8IR3Y1rmngIPeB1JVS+YyL+6Abtn5rWKqRuqn1ZznYij6e89uo0vVf9KDrneRiU+wYjKkxzbe9F9pt5SHug3GvfXRG1fsSw==;FMFEZhOJawrCcKPXWG9YoQ=="
 ---
 

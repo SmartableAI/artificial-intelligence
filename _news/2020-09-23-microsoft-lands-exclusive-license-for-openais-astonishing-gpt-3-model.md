@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-as
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568/amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ni1Mz8B9Jaj7Knw_mBf8gkHOjus=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67451151/acastro_180226_0001.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Microsoft nabs exclusive license to key AI program"
+    excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
+    publishedDateTime: 2020-09-24T21:38:00Z
+    webUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    ampWebUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Microsoft acquires exclusive license for Elon Musk’s largest GPT-3 AI language model"
     excerpt: "Microsoft is expanding its partnership with billionaire Elon Musk’s OpenAI as it acquires an exclusive license for GPT-3. GPT-3 is the largest and most sophisticated AI language"

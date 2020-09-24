@@ -2,6 +2,350 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-breonna-taylor-case-sparks-amazon-web-services-ceo-to-call-for-police-culture-change.md",
+      "title": "Breonna Taylor case sparks Amazon Web Services CEO to call for police ‘culture change’",
+      "excerpt": "Amazon Web Services CEO Andy Jassy, who has been at the center of the debate over the use of Amazon technology by law enforcement, has weighed in on the culture of policing in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "originalUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/AJ%402x-630x467.png",
+          "width": 630,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "publishedDateTime": "2020-09-24T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults.md",
+      "title": "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults",
+      "excerpt": "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/",
+      "originalUrl": "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp",
+      "cdnAmpWebUrl": "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp",
+      "publishedDateTime": "2020-09-24T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 7 San Diego",
+        "domain": "nbcsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai.md",
+      "title": "How To Lead, Plan And Forecast Revenue In Wartime With AI",
+      "excerpt": "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "publishedDateTime": "2020-09-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-recruitercom-announces-new-artificial-intelligence-platform.md",
+      "title": "Recruiter.com Announces New Artificial Intelligence Platform",
+      "excerpt": "Capable of Profiling Half a Billion Candidates HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2020-09-22/recruiter-com-announces-new-artificial-intelligence-platform",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2020-09-22/recruiter-com-announces-new-artificial-intelligence-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai.md",
+      "title": "GPT-3’s bigotry is exactly why devs shouldn’t use the internet to train AI",
+      "excerpt": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.” – Dr. Ian Malcolm, fictional character, Jurassic Park. It turns out that a $1 billion investment from Microsoft and unfettered access to a supercomputer wasn’t enough to keep OpenAI’s GPT-3 from being just as bigoted as",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-796x403.jpg",
+          "width": 796,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/24/gpt-3s-bigotry-is-exactly-why-devs-shouldnt-use-the-internet-to-train-ai/amp/",
+      "publishedDateTime": "2020-09-24T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
+      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
+      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:21:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-streamline-modeling-with-amazon-sagemaker-studio-and-the-amazon-experiments-sdk.md",
+      "title": "Streamline modeling with Amazon SageMaker Studio and the Amazon Experiments SDK",
+      "excerpt": "The modeling phase is a highly iterative process in machine learning (ML) projects, where data scientists experiment with various data preprocessing and feature engineering strategies, intertwined with different model architectures, which are then trained with disparate sets of hyperparameter values.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:02:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-ais-latest-breakthrough-will-transform-learninghere-are-5-ways.md",
       "title": "AI’s Latest Breakthrough Will Transform Learning—Here Are 5 Ways",
       "excerpt": "In this post, I examine the potential of GPT-3, the AI program by OpenAI. It started out as a language model to predict the next word in a sentence and has vastly exceeded that capability.",
@@ -110,7 +454,7 @@
       "originalUrl": "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -160,7 +504,7 @@
       "originalUrl": "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -199,57 +543,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-amazon-refreshes-echo-lineup-with-new-custom-chip.md",
-      "title": "Amazon refreshes Echo lineup with new custom chip",
-      "excerpt": "Amazon on Thursday unveiled a refreshed lineup of Amazon Echo smart speakers, featuring a new, custom chip that will help the AI-powered assistant Alexa respond to commands more quickly. The new devices also include a new design and new features for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco",
-      "originalUrl": "https://www.zdnet.com/article/amazon-refreshes-echo-lineup-with-new-custom-chip/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/09/24/13a59b77-0697-4f29-84b6-ef36534cf30e/amazonecho1.jpg",
-          "width": 812,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-refreshes-echo-lineup-with-new-custom-chip/",
-      "publishedDateTime": "2020-09-24T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -936,301 +1229,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
-      "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
-      "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "publishedDateTime": "2020-09-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ava-aware-cloud-combines-machine-learning-and-advanced-analytics-for-organisations-of-any-size.md",
-      "title": "Ava Aware Cloud combines machine learning and advanced analytics for organisations of any size",
-      "excerpt": "This video security solution offers the simplicity and flexibility of a cloud platform while providing the same intelligent, proactive security, and AI capabilities of Ava’s on-premises and hybrid solutions ... within the enterprise suggests a need ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beyond.ai/",
-      "originalUrl": "https://www.sourcesecurity.com/news/ava-aware-cloud-combines-machine-learning-co-1560927467-ga-npr.1600939341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beyond.ai/wp-content/uploads/2019/06/Energy-Thumbnail.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global.md",
-      "title": "Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global",
-      "excerpt": "Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provide her with the still remarkable option to get up and go",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Waymo-image-.png?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/21/hailing-a-self-driving-taxi-when-blind-learn-how-waymo-answers-that-challenge-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-09-24T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
-      "title": "Where are all the self-driving cars we were promised?",
-      "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "publishedDateTime": "2020-09-24T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ripjar-founded-by-gchq-alums-raises-368m-for-ai-that-detects-financial-crime.md",
-      "title": "Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime",
-      "excerpt": "Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "publishedDateTime": "2020-09-24T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
-      "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
-      "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

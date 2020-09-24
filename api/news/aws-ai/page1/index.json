@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-25-breonna-taylor-case-sparks-amazon-web-services-ceo-to-call-for-police-culture-change.md",
+      "title": "Breonna Taylor case sparks Amazon Web Services CEO to call for police ‘culture change’",
+      "excerpt": "Amazon Web Services CEO Andy Jassy, who has been at the center of the debate over the use of Amazon technology by law enforcement, has weighed in on the culture of policing in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "originalUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/AJ%402x-630x467.png",
+          "width": 630,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/amp/",
+      "publishedDateTime": "2020-09-24T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize.md",
+      "title": "Selecting the right metadata to build high-performing recommendation models with Amazon Personalize",
+      "excerpt": "In this post, we show you how to select the right metadata for your use case when building a recommendation engine using Amazon Personalize. The aim is to help you optimize your models to generate more user-relevant recommendations. We look at which metadata is most relevant to include for different",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:21:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-streamline-modeling-with-amazon-sagemaker-studio-and-the-amazon-experiments-sdk.md",
+      "title": "Streamline modeling with Amazon SageMaker Studio and the Amazon Experiments SDK",
+      "excerpt": "The modeling phase is a highly iterative process in machine learning (ML) projects, where data scientists experiment with various data preprocessing and feature engineering strategies, intertwined with different model architectures, which are then trained with disparate sets of hyperparameter values.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T13:02:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-expanding-amazon-lex-conversational-experiences-with-us-spanish-and-british-english.md",
       "title": "Expanding Amazon Lex conversational experiences with US Spanish and British English",
       "excerpt": "Amazon Lex provides the power of automatic speech recognition (ASR) for converting speech to text, along with natural language understanding (NLU) for recognizing user intents. This combination allows you to develop sophisticated conversational interfaces using both voice and text for chatbots, IVR bots,",
@@ -61,7 +214,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gaining-insights-into-winning-football-strategies-using-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1301,160 +1454,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-what-do-the-server-quarterly-earnings-tell-us.md",
-      "title": "What Do The Server Quarterly Earnings Tell Us?",
-      "excerpt": "As one could probably tell from my opening statement, I'm not, nor do I pretend to be a financial analyst. My lens on quarterly financials is that of a techie with interest. But, I do believe that following the individual company's earnings and PowerPoint slides used to drive earnings calls can tell a lot about that company's focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57e0172f22243576d10081%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D875%26cropY1%3D26%26cropY2%3D518",
-          "width": 875,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/09/08/what-do-the-server-quarterly-earnings-tell-us/amp/",
-      "publishedDateTime": "2020-09-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-crowdstrike-expands-support-for-aws-workloads-and-container-deployments.md",
-      "title": "CrowdStrike Expands Support for AWS Workloads and Container Deployments",
-      "excerpt": "CrowdStrike Inc. (Nasdaq: CRWD), a leader in cloud-delivered endpoint protection, today announced the expansion of support for Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-expands-support-for-aws-workloads-and-container-deployments-2020-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases.md",
-      "title": "How To Separate The Wheat From The Chaff In A Sea Of Ventures With AI Use Cases",
-      "excerpt": "Two criteria separate the leaders from the pack of AI ventures. What are they? And what are some of the most promising AI ventures at the moment?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
-      "originalUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f573662b42731bf605ee3e0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6144%26cropY1%3D455%26cropY2%3D3911",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hannahmayer/2020/09/08/how-to-separate-the-wheat-from-the-chaff-in-a-sea-of-ventures-with-ai-use-cases/amp/",
-      "publishedDateTime": "2020-09-08T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

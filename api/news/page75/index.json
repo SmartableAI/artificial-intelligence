@@ -2,6 +2,387 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-07-29-im-ibm-watson-product-manager-anamita-guha-and-this-is-how-i-work.md",
+      "title": "I'm IBM Watson Product Manager Anamita Guha, and This Is How I Work",
+      "excerpt": "As a product manager at IBM, Anamita Guha works on bots, AR/VR technology, and AI—including Watson, the most famous AI that doesn’t come packaged on a phone. She also leads analytics for ...",
+      "sourceUrl": null,
+      "webUrl": "https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ippljnbhbgies04sg4qq.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759/amp",
+      "cdnAmpWebUrl": "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759/amp",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifehacker",
+        "domain": "lifehacker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-medical-imaging-powered-by-ibm.md",
+      "title": "Medical Imaging, Powered by IBM",
+      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/imaging/medical-imaging-powered-ibm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-meditation-and-machine-learning-a-guide-to-acceptance-and-equanimity.md",
+      "title": "Meditation And Machine Learning: A Guide To Acceptance And Equanimity",
+      "excerpt": "When it comes to the world of tech and AI many businesses will learn that it is worth investing in robust and bias-free machine learning solutions. On a larger scale, hopefully the world leaders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/07/29/meditation-and-machine-learning-a-guide-to-acceptance-and-equanimity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2160d6dc751e8a7c6df546%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/07/29/meditation-and-machine-learning-a-guide-to-acceptance-and-equanimity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/07/29/meditation-and-machine-learning-a-guide-to-acceptance-and-equanimity/amp/",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95.md",
+      "title": "Reminder: The Ultimate Artificial Intelligence Scientist Certification Bundle, save 95%",
+      "excerpt": "Here is what is included in the bundle: Machine Learning A-Z Deep Learning A-Z Python A-Z Tensorflow 2.0: A Complete Guide on the Brand New Tensorflow You can find out more information on this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95-2-29-07-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Ultimate-Artificial-Intelligence-1-1.jpg",
+          "width": 700,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-the-most-futuristic-predictions-that-came-true-in-2017.md",
+      "title": "The Most Futuristic Predictions That Came True in 2017",
+      "excerpt": "Just a year after DeepMind’s AlphaGo became the first artificial intelligence to defeat a grandmaster at the game of Go, a souped-up version of the program, dubbed AlphaGo Zero, taught itself ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/the-most-futuristic-predictions-that-came-true-in-2017-1821226186",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jjmewbhegkf4jfozbutb.jpg",
+          "width": 800,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/the-most-futuristic-predictions-that-came-true-in-2017-1821226186/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-most-futuristic-predictions-that-came-true-in-2017-1821226186/amp",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-why-do-geeks-like-kinky-sex.md",
+      "title": "Why Do Geeks Like Kinky Sex?",
+      "excerpt": "And some of those ideas just lead you to the soldiering table, where I hope you are about to invent the world's most perfect mind-controlled ... wizards, robots, and spaceships are just kind ...",
+      "sourceUrl": null,
+      "webUrl": "https://io9.gizmodo.com/why-do-geeks-like-kinky-sex-5959108",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/185aqgnbk57twjpg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://io9.gizmodo.com/why-do-geeks-like-kinky-sex-5959108/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/why-do-geeks-like-kinky-sex-5959108/amp",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-rite-aid-has-been-using-facial-recognition-tech-across-hundreds-of-its-stores.md",
+      "title": "Rite Aid has been using facial recognition tech across hundreds of its stores",
+      "excerpt": "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86165-rite-aid-has-using-facial-recognition-tech-across.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-28-image-25.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html",
+      "publishedDateTime": "2020-07-28T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-aws-adds-new-amazon-fraud-detector-to-fight-fraud.md",
+      "title": "AWS adds new Amazon Fraud Detector to fight fraud",
+      "excerpt": "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "publishedDateTime": "2020-07-28T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
       "title": "Supply Chain Resiliency Begins In The Cloud",
       "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
@@ -823,378 +1204,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
-      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "publishedDateTime": "2020-07-28T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises.md",
-      "title": "TikTok owner ByteDance’s AI chief to leave as US pressure rises",
-      "excerpt": "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
-      "publishedDateTime": "2020-07-28T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-digital-dev-boards-reach-the-zenith-of-sophistication-and-application.md",
-      "title": "Digital Dev Boards Reach the Zenith of Sophistication and Application",
-      "excerpt": "The Glow NN compiler does better than TensorFlow Lite for comparable ML models (see figure). The i.MX RT685 includes a Tenisilica HiFi4 DSP that delivers the major performance advantage over non ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21137620/digital-dev-boards-reach-the-zenith-of-sophistication-and-application",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/07/Math_ID_22512060_Agsandrew_Dreamstime.com.5f1ef6178b06f.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-global-autonomous-data-platform-markets-2020-2025-impact-of-covid-19-and-analysis-by-organization-size-deployment-type-end-user-vertical.md",
-      "title": "Global Autonomous Data Platform Markets, 2020-2025 - Impact of COVID-19 and Analysis by Organization Size, Deployment Type, End-user Vertical and Geography - ResearchAndMarkets.com",
-      "excerpt": "The growing adoption of cognitive computing technology and advanced ... As autonomous data platforms and services help efficiently address these challenges, their adoption by retailers is expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200728005637/en/Global-Autonomous-Data-Platform-Markets-2020-2025--",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200728005637/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
-      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
-      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "publishedDateTime": "2020-07-28T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors.md",
-      "title": "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors",
-      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/density-webiste-preview.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
-      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
-      "title": "Explorium raises $30 million to automate data prep with AI",
-      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
-          "width": 1024,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "publishedDateTime": "2020-07-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,9 +2,9 @@
 category: news
 title: "Qeexo AutoML Enables Machine Learning on Arm Cortex-M0 and Cortex-M0+"
 excerpt: "Qeexo, developer of an automated machine learning (ML) platform that accelerates the deployment of tinyML at the edge, announced that its Qeexo AutoML platform now supports machine learning on Arm Cortex-M0 and Cortex-M0+ processors. According to the ..."
-publishedDateTime: 2020-09-10T15:50:00Z
-originalUrl: "https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0"
-webUrl: "https://www.embedded-computing.com/automotive/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0"
+publishedDateTime: 2020-09-09T23:59:00Z
+originalUrl: "https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0"
+webUrl: "https://www.embedded-computing.com/news/qeexo-automl-enables-machine-learning-on-arm-cortex-m0-and-cortex-m0"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f5a527004ed8-Screen%2BShot%2B2020-09-10%2Bat%2B9.20.55%2BAM.png&size=1&version=1600878601&sig=531884c33b6f027a7a9e632ba3ce2832&default=hubs%2Ftilebg-blogs.jpg"
+  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f5a4c0467b71-Signal-Aggregation-De-Aggregation.png&size=1&version=1599753396&sig=99620e1b49adcd790d4c03c2f3c1dbd3&default=hubs%2Ftilebg-blogs.jpg"
     width: 500
     height: 272
     isCached: true
 
-secured: "kBBDuaC/T3zCr6UDzjS7xPYHyFZXcUI5y8feu3t/oLqvKHGBrlV3szxDgokB0KEtsDOJeUgvvsB+JrSfDWRY6sDK64xWXt112VYmGEfmEFyFKY8SmfdjWI58/OVgzV4y+U8D+8+KPqn+cL3wVtkZe3CTps03Ki39A0q5jmviGMm94iFAZLqEmDj7QVypzIYYfifTS55lPbkAu9jnf9YcO0br/g1xHLyHeDEctKhpLEUwZOSP40CqvtAgh0U9KwZoMKPZZOus70qS3utl8lYOJnclo7rAfL+yQYNzbJCoFz3IbloSaSDxCDw8C6kZ/6FtZ+gMojeFEmda4UyapOovwvGUqnGLOdejPiEecyLdNbg=;T9oImjlShRW4ZUNDH6cr1g=="
+secured: "BMyImBPOWCw1rtDckUy5WVh9LkNzAdMAddNOnXU1qI778YFNSyhuFZOyP4LhucHYgfAPv4K3LA9FPr2f59FwN0UgLYHAShDwQi71hEYxE7nTwxETo9bsnitGnSUIEtTREsjzlseAao/BM5Q1SDK6FvDRtNNb60wjazLkJ7y9uU4Y4G4e21XdCwtM5eB1taVWvbQlKi6icJDPN36WhPSAFJsFWi0aDQoqa8DEVhA4ODmf58lldh7pcKiSRHycMUImhDL61sm8KKe7yySkgQxSYUkwRclHN4Gwqe5ocj+wic02IyP2EADO4yIZvr3dgDAVnUVXbrIFfpQ6RcYC0UAmCUv6hgGEBbZqyhSC0hS9XGM=;8/ff6z+ZiSn7ApJ85mWl8A=="
 ---
 

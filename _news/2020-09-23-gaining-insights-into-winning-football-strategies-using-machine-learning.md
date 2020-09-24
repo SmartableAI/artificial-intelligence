@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/gaining-insights-int
 webUrl: "https://aws.amazon.com/blogs/machine-learning/gaining-insights-into-winning-football-strategies-using-machine-learning/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all"
         width: 2754
         height: 1318
+        isCached: true
+  - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
+    excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
+    publishedDateTime: 2020-09-24T21:45:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/preventing-customer-churn-by-optimizing-incentive-programs-using-stochastic-programming/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
         isCached: true
   - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
     excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"

@@ -2,6 +2,388 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
+      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
+      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "publishedDateTime": "2020-08-18T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-how-machine-learning-is-driving-new-smart-farming-projects.md",
+      "title": "How machine learning is driving new 'smart' farming projects",
+      "excerpt": "Owen Hughes says a PyTorch-based machine learning system is being used to train 'intelligent' farming machines, which could help farmers save valuable resources. Read more: https://zd.net/3g5g6U1",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/770x578/d9d427e55bb9c10e44c4830b2a1379fe/20200814-owen-karen-weeds.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game.md",
+      "title": "Why Microsoft Flight Simulator 2020 Is This Year's Most Ambitious Game",
+      "excerpt": "Those high-quality satellite images are fed through a series of machine learning algorithms to push ... The other major contributor is the company’s Azure cloud computing service, which feeds ...",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_jwm9.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1",
+      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1",
+      "publishedDateTime": "2020-08-18T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-facebooks-ai-can-generate-mri-images-in-minutes-instead-of-an-hour.md",
+      "title": "Facebook's AI can generate MRI images in minutes instead of an hour",
+      "excerpt": "Now, after two years of research, teams from Facebook AI and NYU Langone Health have developed a neural network that can cut the amount of time people have to spend in an MRI machine from more than an hour to just a few minutes. The network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
+      "originalUrl": "https://www.engadget.com/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7b125390-e0c1-11ea-afff-bae002526a2b&client=amp-blogside-v2&signature=fae9aeed5a87e0bef456f24a9641ca2c8a4c309c",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-generates-mri-images-using-4x-less-data-010038608.html",
+      "publishedDateTime": "2020-08-18T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-global-artificial-intelligence-in-medical-imaging-market.md",
+      "title": "Global Artificial Intelligence in Medical Imaging Market",
+      "excerpt": "The report, titled “Global Artificial Intelligence in Medical Imaging Market” defines and briefs readers about its products, applications, and specifications. The research lists key companies operating in the global market and also highlights the key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T818478022_g.jpg",
+          "width": 800,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market",
+      "publishedDateTime": "2020-08-18T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging.md",
+      "title": "Facebook and NYU are using AI to dramatically speed up MRI imaging",
+      "excerpt": "Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial intelligence that held the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "originalUrl": "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-tensorflow-23-features-pipeline-bottleneck-reduction-and-improved-preprocessing.md",
+      "title": "TensorFlow 2.3 Features Pipeline Bottleneck Reduction and Improved Preprocessing",
+      "excerpt": "The TensorFlow project announced the release of version 2.3.0, featuring new mechanisms for reducing input pipeline bottlenecks, Keras layers for pre-processing, and memory profiling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/",
+      "originalUrl": "https://www.infoq.com/news/2020/08/tensorflow-improved-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/08/tensorflow-improved-pipelines/en/headerimage/tensorflow-improved-pipelines-1596991592701.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-microsoft-energy-dept-to-develop-disaster-response-ai-tools.md",
+      "title": "Microsoft, Energy Dept. to Develop Disaster-Response AI Tools",
+      "excerpt": "The Energy Department will spearhead the development and testing efforts. Microsoft will provide technological resources, including its Azure cloud for AI model training and inference. Other organizations, including public- and private-sector entities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-222032/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-energy-dept-to-develop-disaster-response-ai-tools-11597755601",
+      "publishedDateTime": "2020-08-18T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-informatica-buys-ai-startup-for-entity-and-schema-matching.md",
       "title": "Informatica buys AI startup for entity and schema matching",
       "excerpt": "GreenBay and Informatica were hardly strangers, as Informatica was the sole investor in the startup. GreenBay's CloudMatcher technology ... but when it came to AI for entity and schema matching, it found itself going back to school.",
@@ -801,403 +1183,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-new-york-city-says-it-will-reassess-police-use-of-facial-recognition.md",
-      "title": "New York City says it will reassess police use of facial recognition",
-      "excerpt": "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/new-york-city-facial-recongition-223931035.html",
-      "originalUrl": "https://www.engadget.com/new-york-city-facial-recongition-223931035.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-researchers-use-ai-to-combat-and-quantify-browser-fingerprinting.md",
-      "title": "Researchers use AI to combat and quantify browser fingerprinting",
-      "excerpt": "To combat fingerprinting in particular, in a recent study, researchers at The University of Iowa, Mozilla, and the University of California, Davis investigated a machine learning-based approach called FP-Inspector that trains classifiers to learn fingerprinting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-1062283972-e1575563910607.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "publishedDateTime": "2020-08-17T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization.md",
-      "title": "MIT SMR: How AI changes the rules: New Imperatives for Intelligent Organization",
-      "excerpt": "Many leaders are excited about AI’s potential to profoundly transform organizations by making them more innovative and productive. But implementing AI will also lead to significant changes in how organizations are managed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "originalUrl": "https://www.infoworld.com/resources/201019/mit-smr-how-ai-changes-the-rules-new-imperatives-for-intelligent-organization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
-      "title": "AI-based traffic management gets green light",
-      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "publishedDateTime": "2020-08-17T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-5-bleeding-edge-brands-that-are-infusing-retail-with-artificial-intelligence.md",
-      "title": "5 Bleeding-Edge Brands That Are Infusing Retail With Artificial Intelligence",
-      "excerpt": "Watch out, folks, the age of artificial-intelligence-powered retail is upon us, promising an unprecedented amount of data and information that can help merchants grow their businesses. Once the stuff of sci-fi novels,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/files/2016_Dec/jan02-cover-01-2016.png",
-          "width": 652,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/5-bleeding-edge-brands-are-infusing-retail-artificial-intelligence-175312/amp/",
-      "publishedDateTime": "2020-08-17T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips.md",
-      "title": "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips",
-      "excerpt": "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/d7c866cd-2e4e-49d6-a72e-56ffd3c5868a/intel-glimpse-into-the-future-of-connectivity-aug-2020.png",
-          "width": 2948,
-          "height": 1652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "publishedDateTime": "2020-08-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ibm-power10-mega-chip-for-hybrid-cloud-is-revealed.md",
-      "title": "IBM POWER10 Mega Chip For Hybrid Cloud Is Revealed",
-      "excerpt": "The IBM POWER architecture has always delivered high-performance computing for business-critical workloads and looking to build on that legacy, they’ve just released the POWER10, tilting toward support for cloud workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/08/17/ibm-power10-mega-chip-for-hybrid-cloud-is-revealed/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f38a5f091aa14f662ef56fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more.md",
-      "title": "AI-enabled future crimes ranked: Deepfakes, spearphishing, and more",
-      "excerpt": "A study explores the possible range and risk of attacks from military robots and autonomous attack drones to AI-assisted stalking. Here are the top 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "publishedDateTime": "2020-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
