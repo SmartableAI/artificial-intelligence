@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-24-artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support.md",
+      "title": "Artificial Intelligence Is Ready For Prime Time, But Needs Full Executive Support",
+      "excerpt": "Bay CTO points out foundational AI capabilities are quickly becoming table stakes. However, AI is emerging and aspiring to have broader applications when it is leveraged to augment human tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6c09ef6f3e8d71727f7953%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/amp/",
+      "publishedDateTime": "2020-09-23T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
       "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
       "excerpt": "Local start-ups like Vouch and Travelstop are betting on their AI-powered systems to help the country navigate new security standards, as Singapore prepares to reopen its borders again after months of coronavirus travel restriction.",
@@ -1165,56 +1216,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration.md",
-      "title": "New Tech Chief of Startup Hypergiant Envisions Closer Human-AI Collaboration",
-      "excerpt": "Hypergiant Industries tapped a former IBM official as its first chief technology officer, the artificial intelligence startup said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
-      "originalUrl": "https://www.wsj.com/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-235264/social",
-          "width": 1230,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-tech-chief-of-startup-hypergiant-envisions-closer-human-ai-collaboration-11600853401",
-      "publishedDateTime": "2020-09-23T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

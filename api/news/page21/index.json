@@ -2,6 +2,90 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-07-google-maps-keep-getting-better-thanks-to-deepminds-ml-efforts.md",
+      "title": "Google Maps Keep Getting Better, Thanks To DeepMind’s ML Efforts",
+      "excerpt": "DeepMind researchers used Graph Neural Networks, a type of machine learning architecture for spatiotemporal reasonin",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
+      "originalUrl": "https://analyticsindiamag.com/google-maps-deepmind-machine-learning-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/09/henry-perks.jpg",
+          "width": 1734,
+          "height": 1153,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-why-eliminating-bias-in-ai-is-key-to-its-success.md",
+      "title": "Why eliminating bias in AI is key to its success",
+      "excerpt": "And it is AI that we must look closely at, which many experts tout as one of the most transformational technologies of our time, in terms of sheer impact on humanity. Global use of AI has ballooned by 270 per cent over the past five years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
+      "originalUrl": "https://www.itproportal.com/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4snuDkrnSAYqFHVuLu5h8k-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-eliminating-bias-in-ai-is-key-to-its-success/",
+      "publishedDateTime": "2020-09-07T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-appsbroker-recognised-as-google-cloud-managed-service-provider.md",
       "title": "Appsbroker Recognised as Google Cloud Managed Service Provider",
       "excerpt": "Appsbroker is delighted to announce that it has been awarded the prestigious Google Cloud Managed Service Provider (MSP) Partner status.",
@@ -1070,98 +1154,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
-      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
-      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
-      "publishedDateTime": "2020-09-05T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-05-nvidias-dlss-ai-upscaling-sdk-now-supports-vr.md",
-      "title": "Nvidia’s DLSS AI-upscaling SDK now supports VR",
-      "excerpt": "Nvidia's DLSS neural upscaling technology now works with virtual reality titles. This could enable some VR games to make a visual leap.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
-      "originalUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/rtx-3080.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/05/nvidias-dlss-ai-upscaling-sdk-now-supports-vr/amp/",
-      "publishedDateTime": "2020-09-05T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

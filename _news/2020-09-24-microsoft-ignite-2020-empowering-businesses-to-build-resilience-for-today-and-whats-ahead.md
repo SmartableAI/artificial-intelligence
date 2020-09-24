@@ -80,9 +80,9 @@ related:
   - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
     excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
     publishedDateTime: 2020-09-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
     type: article
     provider:
       name: ZDNet
@@ -169,6 +169,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "t+sPwhjI2jxL+3juGx2uiUkLyda5Dj9vD9VTeqE7HMVHIQMJbJu3Not5ZOMWeYZDPL9QhYwRtvMOh2+/Lgd6BlE5pCKNiEeoGq8HBDcWacxQj6Qq8ch61XFIu2ikjhLfLW5vAAilfBcqj/bxGXhR59j8RDV/7xgCdsVWaI+DCpKPhZqsCtrLFf2Daz9x8m6wVdJUfcu8tkay/RuLujRlTQVFcLOUhj3iqn3l+MFAxyIKLgSZHwxIhKxteH+PtywyeMhtMiHbfDsG4/o+Iq6XFZ+4vab9EEQfSR75g2458pYolyxu/SHXQGtcLMYRt6tXiyFq5XiGtrzNhT2EnaOGf7hB2OgXHh5wX5rt4/5Zdk8=;kY9vu2Fr4aalc6Q61LG79A=="
+secured: "11V4iqI1U/dkaTxxU1cRaxDz5EQnvhuBsMfDUjLIf+5irbsPS+52fg7mC37cAxsWyxOVqiJiVIyJcoFNL7d2E2Jc6/C3lqtiZnfk/QGWE/uscVbCSBqfcW2tPt86TKxqIRoeuzpuLWurUTupQnAO6nkzD2OLn6Q5ouGybxm2i4tCgyBbTQp5BkxuFlv/Ta6cUMtCVPVygcoLUmV6bk+phURrXoSJscYXOGQD65lmfxyFQAWPkVo4riQDoa+HwsLQtVpPDDi9xRDnzg/lrAv93H7k+6L1JFCRRK47Ik0+Y70rmeHN8btOP9oTZMtHKpZz+h7+M/bq012XXfjPytxzcVVd5NqtfoBSL3dVONfOzarZK7MS+Y7dK6PiM9W2+Lo50qRk3anEpP19TvFgZata2h2/E6vpGbHQ00WsGf20rLgjFFdePJw9Se3qBtseEwPW535hB0dsvF2NiRqq/Tpwy04sOdXxUMgWL9DwGhdxjlp87/7hP+GMbLj4kZhMtDl2Os/8KyZEjeAzTslqrecqkQ==;nAF4jghLGu25JYzeXnM2yg=="
 ---
 

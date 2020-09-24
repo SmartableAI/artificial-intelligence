@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/</loc>
+    <lastmod>2020-09-23T20:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html</loc>
     <lastmod>2020-09-23T17:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2023,12 +2029,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-2020-09-10</loc>
-    <lastmod>2020-09-10T16:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/10/microsofts-updated-deepspeed-can-train-trillion-parameter-ai-models-with-fewer-gpus/</loc>
     <lastmod>2020-09-10T15:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2043,6 +2043,12 @@
   <url>
     <loc>https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/</loc>
     <lastmod>2020-09-10T14:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ibm-and-espn-announce-new-feature-in-fantasy-football-app-that-uses-artificial-intelligence-from-ibm-watson-to-create-fair-trades-1029580100</loc>
+    <lastmod>2020-09-10T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2319,6 +2325,12 @@
   <url>
     <loc>https://www.businesswire.com/news/home/20200909005696/en/COVID-19-Impact-Recovery-Analysis-Global-Artificial-Intelligence-Market-in-Agriculture-Industry-2020-2024-Evolving-Opportunities-With-Ag-Leader-Technology-and-aWhere-Inc.-Technavio</loc>
     <lastmod>2020-09-09T18:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx</loc>
+    <lastmod>2020-09-09T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

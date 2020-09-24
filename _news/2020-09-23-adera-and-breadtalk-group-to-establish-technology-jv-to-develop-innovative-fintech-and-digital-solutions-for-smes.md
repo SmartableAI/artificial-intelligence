@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/adera-and-breadtalk-group-establish
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adera-and-breadtalk-group-establish-technology-jv-develop-innovative-fintech-and-digital?amp"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 763
     height: 509
     isCached: true
+
+related:
+  - title: "BreadTalk, Adera to create fintech and digital solutions for SMEs"
+    excerpt: "Recently delisted food and beverage (F&B) player BreadTalk Group is forming a joint venture (JV) with Singapore-based technology services group Adera AI.. Read more at straitstimes.com."
+    publishedDateTime: 2020-09-24T03:30:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/breadtalk-adera-to-create-fintech-and-digital-solutions-for-smes"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/24/nz_breadtalk_240944.jpg?itok=ZfIat_mI"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "FkPs5Y2OXBcVJIy71/Pw/Z9F671XaEybeF+2bwc0BUG0/QkeM0paoMnN8W6PTE4rV/cV5V0UkwiFCzo9VXaGrtsv+oFy5JiEvtOWyyo/9jjuK8fZUoeSmIj/iC5pNt5Ft2+e1bfQRayaHc828MXRdboc3K38DlNW4ZinW+6irGcS5wTiEk0l1X5T2ehkCbOWsejssrsqw2vUhmaSDcqg6Vx4PTeqHgZL/orE5QXCURwkAlmnAeFF9yxzE2JEzUsfwZ0ZA2Qu2/PuVkzMvjBYl4BZEahFzS6NK+Jlaqfuv3SRpwy3Ex43U3KiN21gPedRE1e9HOXJ6w7WzPeflC6VRKfPuO7Byx5NxxjSTVpB9C8=;+ZoVoGDrmH8MYsbgg4eh8g=="
 ---

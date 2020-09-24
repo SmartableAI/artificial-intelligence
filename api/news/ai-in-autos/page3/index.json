@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-04-yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts.md",
+      "title": "Yandex Self Driving Group To Be Directly Owned By Yandex, Uber - Quick Facts",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net (RTTNews) - Yandex N.V. (YNDX) and Uber (UBER) have entered into agreements to spin off the self-driving vehicles business ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/yandex-self-driving-group-to-be-directly-owned-by-yandex-uber-quick-facts-1029562717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Yandex-Self-Driving-Group-To-Be-Directly-Owned-By-Yandex-Uber-Quick-Facts-1029562717",
+      "publishedDateTime": "2020-09-04T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-commentary-happy-labor-day-while-there-are-still-jobs-for-folks-to-do.md",
       "title": "Commentary: Happy Labor Day, while there are still jobs for folks to do",
       "excerpt": "Robotics and computerized services are just business' most recent tools for reducing labor and overhead costs to increase productivity and profit. It's no surprise that the recessions of 1991, 2001 and 2008 were accompanied by spurts in the introduction of labor saving artificial intelligence.",
@@ -1316,39 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-baidu-launches-robotaxi-service-boosts-self-driving-presence.md",
-      "title": "Baidu Launches Robotaxi Service, Boosts Self Driving Presence",
-      "excerpt": "BIDU is leaving no stone unturned to bolster presence in the autonomous driving space. The company recently revealed that the Apollo Go Robotaxi service is now available in the city of Cangzhou, which is in Hebei province near Beijing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-launches-robotaxi-service-boosts-self-driving-presence-2020-08-25?amp",
-      "publishedDateTime": "2020-08-25T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
