@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T08:06:00Z
 originalUrl: "https://www.medianama.com/2020/09/223-tamil-nadu-ai-policy-2020/"
 webUrl: "https://www.medianama.com/2020/09/223-tamil-nadu-ai-policy-2020/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i0.wp.com/www.medianama.com/wp-content/uploads/TN-AI-Policy-2020.png?fit=800%2C574&#038;ssl=1"

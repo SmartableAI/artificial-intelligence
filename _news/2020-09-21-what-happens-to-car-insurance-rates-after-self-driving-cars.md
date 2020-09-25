@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 562
         isCached: true
+  - title: "Why we’re still years away from having self-driving cars"
+    excerpt: "Carmakers began dropping the terms “self-driving” and “mobility” at car shows, Uber and its competitors poached engineers from university robotics labs en masse, and Tesla fans began squabbling on Twitter about whether the company’s Autopilot ..."
+    publishedDateTime: 2020-09-25T19:41:00Z
+    webUrl: "https://www.vox.com/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    type: article
+    provider:
+      name: Vox
+      domain: vox.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/vWVvsfC0F_Tdmm4OmAkpT0S-fbw=/0x0:3000x2000/1400x1050/filters:focal(1866x972:2346x1452):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67470406/VOX_18.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Hawaii gives self-driving car testing the green light"
     excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
     publishedDateTime: 2020-09-23T16:26:00Z
