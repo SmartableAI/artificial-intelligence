@@ -2,7 +2,7 @@
 name: "Fundbox"
 overview: "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways."
 type: "profile"
-heat: 0
+heat: 118
 
 website: https://fundbox.com/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0sUEzlSRS041pnwnbzEVt9u9Geg834XT2odv3nTkqNthZ6O6nYzAeG1UD/GpFUJlyIejkVRX9RMDxhZX6iozUlSl5qWToKkQ1xr75udSQsT/WneDwyAEn3tXWK6AEv1CTvM3UAIXVsHicQH8EfB7yDCIXLA2EaLYeFlDz/7MMJgbND18jDlmJ+5BA4ibtCauNJEaLUH13aOrkanJIij3RScdvYXTFE+YBdh9qFI6lsPHfcnNX9rARbp1cTUpKJNgPs7nC4mv3mrUkuS9O2G6JhfxSpwk2OkmxN3YUcuuDiszSMFdci/bl4sPZBYjU2h7HabcJ9pfnbx+IDsvLrZvByVARFzlK3uz+uVa78Steo8J44W9PPIMazW3j/ct0TuWvjPyI0WE6vORciK7vT1hYIxCNArPpeXbwOug24HuCxs=;dpD6KLOpfKmnQX/GYCTV/g=="
+secured: "zYSDwL2vj5nGvXhbRNasT/IrN0HeDjpUROL8x6HtflP4R4Q6az5M9sCcQkEagwncHIDNUtulbBrdd0v+tFoqavTfjGNyvAICZQtbmjZ5aKXdb1daWEcynLO6Q5w4jf4242+iO4zo7F285pMR3PlRUM5ryTgxexvU2nYf2GT4rM/6Ewl52Gkw9mNgn6xdqL3zHIyxdakhEHE9GRbHhPUV5UIcB9xO4J1GlmAGhzaYMLfW46Ao0gF9DadAUcxBvCFY+DomFBsdsqqNdJXImauwMc5BxGtT2yVriBc/kPuoOGhx6FdvMPXfIhUbsZcYnmLZBiaKzjgLlfw7hFIMwRWQzotgwvSjdfbDCAsQgkZl/+fuc6Po/ms7qkYL6+l64jRXC6Yw8ykeHoi5y3YVpEvsmaQ/I7oDtpLD/SowCZq78jI=;l4y2dA0BAd6oL2sKbrrAiw=="
 ---
 
