@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-mi
 ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -21,10 +21,25 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
-secured: "Zr2Gs2n1w9/CjL+3c5mWP7aceg2swZz03QWekwC21OUx0n+bu05l70tTmQluCMnpdwJJO3UMO2vIpklK/Ga/5UOlDhgqM5eWw1V4MFPcaaaeGpxHPhYhzN71l6eVjdHvw67hQE7R7RIpH8v1Ef/5KGnsf6mrcNBvPawS93bY6J26iZE03vxbmmbkJ2Th2BWvDhHfzlzaynV2dBGcjybQQUuFX0mVx+1FzCnNsT5zoPOmQ4G2Y7+I8Oh7S9/ZnH4gdui6Rsloa6p6PSFHXeOBnaIOXe+RegadLpUyhO/TjQ25lEXIUzkWZTf+5KC3h+xQWx0DgPya3o0v53n7IH5crSrdllRvhvjbRVkDuMdiFek=;hNUg3yNfQ1wWqv+3gVL5dw=="
+related:
+  - title: "dotData Enterprise is Now Available on Microsoft Azure"
+    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
+    publishedDateTime: 2020-09-25T14:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "59zD5pLAVgYiPdvxGYYInY6Sc7iePhcEfCbgIkUZdwput0Le3Ie2+8KY96c7gys3VHmrtX6ZO0SjVUv0WJqqFizNLDE38vE17j2C817sV3+j+KEkMdXOS62x2cvM+u1eHyczXGJD/tRnPOyCWQztf/QpZC5j51+YXrxEocnznBz+BIBadWouHj0wigTNL4vrEoerkYArKEb6Gb3Zx0v3OYyyaGKigLJmCI6ktbxJ9MOmXdqAKxzGWhDjSn7lTQU4lTWZeznPEsYlrAOtXZ9reb5PRyfWSVGyGkOFpnqcrQmEuvLko7M5NUkRulsQ+TK8a1iHoXBXNwcX/wcwswk6tFmXlYQ8Gl5hWpFnPx9F3Kw=;ptCmQMj+igGvXpiWFmRDCQ=="
 ---
 

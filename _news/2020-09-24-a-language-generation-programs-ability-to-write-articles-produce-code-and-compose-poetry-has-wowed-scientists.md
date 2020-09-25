@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "This extraordinary AI has stunned computer scientists with its writing ability"
+    excerpt: "OpenAI, a for-profit company under a nonprofit parent company, has built a language generation program dubbed GPT-3, an acronym for “Generative Pre-trained Transformer 3.” Its ability to learn, summarize,"
+    publishedDateTime: 2020-09-25T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90554974/this-extraordinary-ai-has-stunned-computer-scientists-with-its-writing-ability?ref=hvper.com"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 35
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/09/p-190554974-a-language-generation-programand8217s-ability-to-write-articles-produce-code-and-compose-poetry-has-wowed-scientists.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Language Generation Program’s Ability to Write Articles and Compose Poetry Has Wowed Scientists"
     excerpt: "Seven years ago, my student and I at Penn State built a bot to write a Wikipedia article on Bengali Nobel laureate Rabindranath Tagore’s play “Chitra.” First it culled information about “Chitra” from the internet."
     publishedDateTime: 2020-09-24T01:00:00Z

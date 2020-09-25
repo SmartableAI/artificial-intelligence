@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "AIDP and Andy Khawaja Conduct New Pandemic Research for AI Technology"
-    excerpt: "Artificial Intelligence Defense Platform and Founder Andy Khawaja have created a new department within AIDP that is dedicated to pandemic research."
+    excerpt: "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja have created a new department within AIDP that is dedicated to pandemic research to see how AI technology can be most useful in future pandemics."
     publishedDateTime: 2020-09-25T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200925005033/en/AIDP-and-Andy-Khawaja-Conduct-New-Pandemic-Research-for-AI-Technology"
+    webUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemic-research-for-ai-technology/article_081c3fe6-da10-5a49-9840-5245736d1621.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200925005033/en/824551/23/Andy-Khawaja-Artifical-Intelligence-Defense_Platform-0925.jpg"
-        width: 1200
-        height: 627
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/5b/75b16f8d-79bd-5b7d-812e-e500d2af7749/5f6dc6cd430df.image.jpg?crop=1247%2C701%2C0%2C480&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "EgToj4t9GjyT2pbtczlAHmkhr9ch5ux7o+TycFzaVZ58iXeUFWxhyoAgPY3MlOhNv5LNIXQKzrF/BbSqSChqxekVqxILH1Jwr+epHQieIATVvuaImC3KHdn1WOaB7HPpk+oTEjqUgUIFRsWWrA6kAkJ5+ZmnrD5ID1o8auK8Y0ZdYulnpqa5/GV2BWaEXJN2l0nqg/W3vpIoQANw/6YI/Ul7Ky3gdHjuYUSdYlxvTTXJIeuvYLsi4zt3rqE9QzmnOaa/dVmI43ERDrhbjAnskapBQ3iUyoQABWpYDb0lwwGusqhzKBJdmDqpcobw4fIZYazDZvOKjJb1U9bkD9do7fXPEhhQhhdUqUhx8DS+ebY=;ejPGVxkGjqrPAm+d7QyE2A=="

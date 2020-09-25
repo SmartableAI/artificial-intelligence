@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-se
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media.wired.com/photos/5f6515d2eb3bb2da971988d8/master/pass/howtosurveillance1.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
-    excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
-    publishedDateTime: 2020-09-20T22:39:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2020/chinese-consumers-slow-adopt-facial-recognition-payments/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
-        width: 457
-        height: 305
         isCached: true
   - title: "Facial recognition tested by Brent Cross West station contractor"
     excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."

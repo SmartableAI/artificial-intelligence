@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machin
 webUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

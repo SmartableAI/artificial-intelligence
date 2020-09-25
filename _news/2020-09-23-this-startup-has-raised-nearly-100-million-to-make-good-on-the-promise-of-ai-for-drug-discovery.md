@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "The Promise of Artificial Intelligence"
+    excerpt: "Artificial intelligence and machine learning are increasingly being used to automate critical business functions and support clinicians making complex clinical decisions. As the pandemic challenges healthcare organizations to think innovatively to improve cost effectiveness,"
+    publishedDateTime: 2020-09-25T14:15:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/promise-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/AI%20EC_Thumbnail280.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "+Mv8WGAkYZXQFRQRSJU03pTQVrPPCDs59qKLBEopH8fFxAxE9d3pFO2kD5W+JqrHJT0rxqV97okx9QC+mT6v1ZFSMz2EZh3n5QfmNaNwe9I4w7Ed6hNzNcKNtC7+D7Uo+bjYcFjf+hsGJh6Hlu2rhg1qH5mCEaTKMdep4xyuwYnRse05peLeEuyezCTQRTd4ctKB0QgRoSSeEvKdk7zkX4EhAKJJqIv1uCG+HflFNpfyapFbeSTO8+TLOMRJjfT1OjOjmpIqZRHiX2f4fv0eZq3coyr3NvU9OsL8Bp6sTmLSzzukW4q3JfevciiRymsuS98M0cHDloMNg+ZIA4Yc4pwxLNT19y47WTa0ReVflJs08HeS4EkOLxVwr7Nb/ZeB3dsEGhGwRn0m+WPgK5J8/HKeK6CqkKDJf58dJqSh5vXBhTFnEw3qjCJb7DfwfWBw5RJBwn2p80NJJUqp/JTZNw5gbihDLJIflK1eHWKnkg1AsMEpgw9tjVtYSWGAdS119fo6vqCkH1Mpx9lKedTWPg==;sLLTbOejzze9QJx/O84IkA=="
 ---

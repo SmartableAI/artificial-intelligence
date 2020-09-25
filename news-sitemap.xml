@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection</loc>
+    <lastmod>2020-09-25T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/</loc>
     <lastmod>2020-09-25T05:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -243,6 +249,12 @@
   <url>
     <loc>https://www.beyond.ai/</loc>
     <lastmod>2020-09-24T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
+    <lastmod>2020-09-24T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2227,6 +2239,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.openpr.com/news/2132851/speech-and-voice-recognition-market-trends-share-industry</loc>
+    <lastmod>2020-09-11T08:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://sdtimes.com/ai/microsoft-open-sources-tensorflow-directml/</loc>
     <lastmod>2020-09-11T07:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2955,6 +2973,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/ai-image-recognition-market-global-outlook-2020-2025-google-ibm-intel-samsung-microsoft-amazon-web-services-qualcomm-2020-09-08</loc>
     <lastmod>2020-09-08T20:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.helpnetsecurity.com/2020/09/09/pci-pal-speech-recognition/</loc>
+    <lastmod>2020-09-08T17:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

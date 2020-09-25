@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection"
+    excerpt: "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning."
+    publishedDateTime: 2020-09-25T15:42:00Z
+    webUrl: "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection"
+    ampWebUrl: "https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/030rLSKD8S7Pi7pPiiqgCuw-1.1601045739.fit_lim.size_1200x630.jpg"
+        width: 805
+        height: 453
+        isCached: true
   - title: "MIT professor wins top AI award for cancer, drug research"
     excerpt: "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research that benefits society ... and gained almost no following, Facebook said. Their primary focus was Southeast ..."
     publishedDateTime: 2020-09-23T14:20:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/09/4609b2fdb139436693ce18ebc650d90b.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
+    excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
+    publishedDateTime: 2020-09-22T13:56:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/ibex-medical-analytics-wins-uk-award-to-accelerate-adoption-of-ai-powered-cancer-detection-in-the-nhs-834621669.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/677339/Ibex_Medical_Analytics_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
         isCached: true
 
 secured: "kJ4vye6DnmjXCdtS9Qx1qADLWbwjUWbspujDVe0ccOjZvkTl12Jhg7ZLJ3TZKqNwymlKKsRQKCT/Ha/diLwrYWWXmEYDAiDL7hwKvpKjY4Fs5tOxY/WjyFoZEkxfx77UhwRyGjfiHjatSxMRv9I9ndP1uTc+7u8nz5/By7cVQyFeVTKoHPL8H8WJyjjpgYrJItNy3DWLvv2zwVVDGiN/gb/fEhSv/zaEEPDfEiXOPwzA4D3FymzQSmHA6eZgtTVNSJ65kw9HVJrvKUorKdB/ncCbJcSDZSHV5FniWx+njvTMBKY9BtxSdv5vVVsxVpkXS6eQp2Nk9IRIwOFctf+TTSPEx/RM++D1AJIT1T/jLaOec3wC1CEBJfbIRMx8FZ1nhziHLSBpMp7+N6YdhwpNzMywuSA+yD4lSEFIeSP3eSIIpREX115zILxjctYOwMCO1skZHBQwzJoC4BKqn802l8CRi6aKFvWJok9dOb2Qz+Of14ULR5aa0uTOBTx6S7ah4YUZ9MtYNdPVCJlIUFvbNQ==;JuH0bydJEDstnIZjeuhD4g=="

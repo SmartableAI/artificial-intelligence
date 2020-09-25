@@ -57,20 +57,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Chinese Consumers Slow To Adopt Facial Recognition Payments"
-    excerpt: "Ant Group, one of the world's most valuable startups and pioneer of digital payments in China, may have lost a $439 million bet it made last year."
-    publishedDateTime: 2020-09-20T22:39:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2020/chinese-consumers-slow-adopt-facial-recognition-payments/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/05/iot-security-facial-recognition-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "City Restricts Facial Recognition Technology"
     excerpt: "Pittsburgh City Council voted on Tuesday to restrict police usage of facial recognition technology. Pittsburgh Botanic Garden Targeted By HackersHackers breached the security of a company Pittsburgh Botanic Garden uses for financial management."
     publishedDateTime: 2020-09-23T08:15:00Z
