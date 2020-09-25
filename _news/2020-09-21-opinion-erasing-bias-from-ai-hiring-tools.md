@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nhregister.com/opinion/amp/Opinion-Erasing-bias-from-AI-
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/opinion/amp/Opinion-Erasing-bias-from-AI-hiring-tools-15582028.php"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 375
     height: 211
     isCached: true
-
-related:
-  - title: "Opinion: Erasing bias from AI hiring tools"
-    excerpt: "A high school student mulls the need to refine Artificial Intelligence software used for hiring on the anniversary of the U.S Department of Labor's Women's Bureau."
-    publishedDateTime: 2020-09-20T14:20:00Z
-    webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Erasing-bias-from-AI-hiring-tools-15580572.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/opinion/amp/Opinion-Erasing-bias-from-AI-hiring-tools-15580572.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/opinion/amp/Opinion-Erasing-bias-from-AI-hiring-tools-15580572.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/17/13/19985110/9/375x250.jpg"
-        width: 275
-        height: 250
-        isCached: true
 
 secured: "nI5FOUy8Za4b/cPKqGblBdylAvOcI6p+Pniv6N/xvss5IWqusVWHlQlBji8jBUvUHMTh4tckZzUaFigkkXtxPlMjtPL7X16P+5S9u4bHRVEGWKBmI5EEmOf8wFglPIV4qnHEH/wSvQwseIXhbTF1RLhoceDa3hy8IdktvkfZALTsVHJR+ZJ4JR0UEfGQgk6qHVztXlSpIr3NHLw2xOTlHXQjyytg+hGA6mA+2N0vxanb0pT6hZWuo6OJ5B4DGRo/FWn8Rn2rgSKRma10H8SZg6grpayRi7KBW/m7DiMyZEFGYlFxvuSTjmhuKtumTU3yBQ0gn37SuVfheDYE8v0jQKgISw7TZYz6PrDirMOEctU=;nTHTOY7U7Xw2zCpTk5wfwQ=="
 ---

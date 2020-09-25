@@ -7,7 +7,7 @@ originalUrl: "https://www.industryweek.com/technology-and-iiot/article/21142554/
 webUrl: "https://www.industryweek.com/technology-and-iiot/article/21142554/teaching-the-robot-dog-new-tricks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 621
     isCached: true
-
-related:
-  - title: "What's new in the Chinese robotics industry?"
-    excerpt: "Macroeconomic situation: Mixed The Covid-19 crisis hit all economies worldwide. China, which had the first major outbreak and went through a full lockdown in February and early March, appears to have found its way back to normal,"
-    publishedDateTime: 2020-09-20T14:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/whats-new-chinese-robotics-industry-georg-stieler/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGk0hAiUYWTIQ/article-cover_image-shrink_600_2000/0?e=1606348800&v=beta&t=ioutQHBczkZ6MTSKfnMUMnlmCWsmhr0x-njCdd_Ijag"
-        width: 1447
-        height: 600
-        isCached: true
 
 secured: "+JlJ69f9F7snALhn3NoiBrwU0S/+T4NGz+9Fng2ptEZq71OfTaC7kezC1yIRGSwPZkHGhVmci0s/1LfqYl1xWMUqhUfzL+Ov1fN4CmUMYV/507kZY7xp2fi+wv32xn5Nr6mOxA2Yx6oBQy3FfmUYLuYEz2ggOz9h2ABkVsTqEXgQQP/iRTofhzZ1CzalbB34RV54N7WG0wRwgx/Xp8N2plL8MVGt5pq+PPHP+S14uZTLYOpt/fjsoTys42vCXHWcKHDMmeThtYeAxEpYHsxgHQvQhGLMO5/yyNK3kuWoR+eXdjN3R0sZO/5sZ6tuOvJt638YrCC8s637QNugZDgMJLt/MUYDRUgyKez5772SHruDDvHiDM8iX/XChimmYVobl8NSY2u+pWgOTssuJBmqbwtT8JAZ4gX5HJbS7pQdBCS0E/+7F0MJFiVCUajrIzTK8sTzUHnadVjPghqSV5xFDOKCYenyWBoVN2b9G92rUXp9AeLgApOYgG6sI8NQY9123srQrRWUh1uzWWUjgU8O6g==;4E76wq7zlEWepoe+vwLZeA=="
 ---

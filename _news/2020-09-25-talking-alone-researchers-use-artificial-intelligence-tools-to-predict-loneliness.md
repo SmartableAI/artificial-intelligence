@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Talking alone: Researchers use artificial intelligence tools to predict loneliness"
-excerpt: "A team led by researchers at University of California San Diego School of Medicine has used artificial intelligence technologies to analyze natural language patterns to discern degrees of loneliness in older adults."
-publishedDateTime: 2020-09-24T19:33:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
+title: "Talking Alone: Researchers Use Artificial Intelligence Tools to Predict Loneliness"
+excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising ... San Diego School of Medicine used artificial intelligence technologies ..."
+publishedDateTime: 2020-09-25T06:06:00Z
+originalUrl: "https://health.ucsd.edu/news/releases/Pages/2020-09-24-talking-alone-researchers-use-artificial-intelligence-tools-to-predict-loneliness.aspx?_ga=2.166825022."
+webUrl: "https://health.ucsd.edu/news/releases/Pages/2020-09-24-talking-alone-researchers-use-artificial-intelligence-tools-to-predict-loneliness.aspx?_ga=2.166825022."
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Scripps News
+  domain: ucsd.edu
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/244031_web.jpg"
-    width: 450
-    height: 675
+  - url: "https://health.ucsd.edu/news/releases/PublishingImages/elderly_people_talking.jpg"
+    width: 640
+    height: 400
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ozlRqAP1dbFPjeXvDIK8Ci6m6ePJ35K4PFlTrHBEyRr4U/7ZxX5pGZNAwkX5Qls8c1DOERYSSR3OoyFSF7LYgc0l9B6OdByhCrERQb4mplEI7UQwis56relGfmU6QsE8kG8SPzZ0Q9H5a5A+uG2kYLUgIe4t33uJTWtusswjwiQOAOrkfIP0lsGo5J0Ew3r7e/KQ+3B/PCf9Rrnaoz1s7aJB2WzJVR/PGH9i5GNKc/oq8W437fv+BDL01usDwiVWSV39rqwRc5BpmpJhXib/gozdFjOWcUOeLM//m2e87b4XwsWE4Ud+CXohvND4t5eAEQ+5hVj/yej/ayiO+N0YhjDE1nYcT/sOZmrTa2FpX99VypY5RkSQlPHQuxcuzzLU4riqerJhFQGY0T09/GlY5Ar2KQwCypKjeds2Ewm20TbpUySodpgvpkPVVXagbxz6brZ6kTokMipnmXo/RoiHSCV3vORHSR+CHWTZNtO9DKbYyEZDD9LNDdbt7Xf7PQpfm3FlLUXy3qAZjw1oJXEniQ==;jryEgObakea+S3NktrjUBA=="
+secured: "O4ScqUJ2TffJvO8g6Lcg0Zu9LlEtUbox7MpQAV7tJKhNn5knvbrpMJIyGAyuoy2UQ0cO9ptUqflM2c8VGUkgapDSw7uv2ga8SpwYgvbr5jR0xUDFALu5CKzSfqcseqGcB1z+lZ9RoDU5ML6R2knDkOdW61tDdWEvDOR/bzlNV8XpqvLLXsi+wA4dsa9dm/9Xu8zkfuH7540gOOrUw44NmXxSQG/vO3iIA4pv/uLzMDSRWP+Tqpqekkk91gAerijxt/H6UjTkd4QwThpDnAItdGNCHqLYWNOq7Y5JAeKpwcRhdKGt3jMV+YjTmaqnXSpNVu6KjF606eOcW289fHmKGZVMNGgD4/q0LFulx+AH344=;K/lpMkqNEhA49mDYXLrBkg=="
 ---
 

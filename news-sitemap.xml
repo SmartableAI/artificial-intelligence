@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25</loc>
+    <lastmod>2020-09-25T00:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay</loc>
     <lastmod>2020-09-24T21:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,14 +25,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/</loc>
-    <lastmod>2020-09-24T17:05:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/</loc>
+    <lastmod>2020-09-24T17:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/machine-learning-market-size-growing-at-338-cagr-to-hit-usd-53544-million-by-2025-2020-09-22</loc>
-    <lastmod>2020-09-24T16:13:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/</loc>
+    <lastmod>2020-09-24T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -651,12 +657,6 @@
   <url>
     <loc>https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292</loc>
     <lastmod>2020-09-21T13:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/tesla-stock-predictions-ai-powered-predictive-algorithm-shows-precision-up-to-100-amid-covid-19-2020-09-19</loc>
-    <lastmod>2020-09-21T13:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

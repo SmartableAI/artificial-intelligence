@@ -82,6 +82,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial recognition tech used to build SFPD gun case, despite city ban"
+    excerpt: "San Francisco police investigators may have circumvented the city’s ban on facial recognition technology by building a gun case, in part, on facial recognition software used by another law enforcement agency,"
+    publishedDateTime: 2020-09-25T06:08:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Facial-recognition-tech-used-to-build-SFPD-gun-15595796.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/73/01/30/15472146/25/rawImage.jpg"
+        width: 2048
+        height: 1349
+        isCached: true
   - title: "Mayor Peduto to sign legislation restricting facial recognition in Pittsburgh"
     excerpt: "Pittsburgh Mayor Bill Peduto plans to sign legislation passed Tuesday by city council that restrict use of facial recognition software and predictive policing technology by police, a mayoral ..."
     publishedDateTime: 2020-09-22T16:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/whylabs-raises-4-million-to-grow-ai-and-data-monitoring-platform/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 527
     isCached: true
-
-related:
-  - title: "Personal Training Platform Tonal Raises $110 Million"
-    excerpt: "Tonal — an advanced strength and personal training platform that combines proprietary digital weight, artificial intelligence, and coaching — announced $110 million in new capital."
-    publishedDateTime: 2020-09-20T13:29:00Z
-    webUrl: "https://pulse2.com/tonal-raises-110-million-funding/"
-    ampWebUrl: "https://pulse2.com/tonal-raises-110-million-funding/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/tonal-raises-110-million-funding/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
 
 secured: "rKuXtp55xpfea0ROzeYwUHMDWV+425oD9CRmgrD5BzMoeM0MU+dDwoK218HI/1jdR2t3LLhf19SDlKyZsrhfK7FCZpMesfIIKJvQS2whyOGvwAq/j+iGb5ca9JidSNAkYohknegpY1W/5TEGzMu+IprQ8RZkGb3wWwjZUzYYmZ9xRpEyh/7JXhIuzC/0xCu8md2sEy4ZJ3I8MFbX2BLqHT+2+QI870ejNpDwms2Wkup5FWxPI253SzcwWV8GTbw2DHmuZlB4183lYnjSl4HrAHztXpXGqptz3/l/mb8my8cnoasjbRU+GBa/hFQTDc39yputqnIXSQQdy/1ztWVP+t2+wM3Pl7imw2rBPu7DqhUTLqUWYMDtBLBXRkjl/7vGGc5lyHVVwhxAVwMnq4q2W5LswEk0LwCIVnr+UGnwE6IB41ikTArrb5PSq0NaD95glK39nFnYWV/+/YFCh2VdX3EdIWNO4fH4+UkTA4l1CskqmfDHzJ02lO7Gnf7hwhhnPLnEGeXIpqv49MwJfKkfVg==;GUnPJRPHjDjcH4MPEw8JJA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1700
     height: 1133
     isCached: true
+
+related:
+  - title: "A Microsoft-powered instant two-way translator"
+    excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
+    publishedDateTime: 2020-09-25T07:42:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
 
 secured: "Y0SMWNXheRMSxiHuFAV4xP/B3LKHaa6gbQa2hK7NqOhkdycH14q2Pt9VzkhY4ZGaBNH3UqcLFRCCg3zGbbf7Txdaj00vFkdiGy/wBZpJdTz7kQ5RbGQZPRl4k9PMzJU7wJkro3AQLr5odD64L7w9GsF+EJBMYmVss3BZ/lg53qOeeDFdZFFqpacBnncss7rEwyEjkyLEDJRVfk7U0JSK/G52or/jnwE8u9e1pivzEGPCE7CUkUMPc5BZgiHm5OPZJcPVXAYnOLKLvYdhh+Qu4NZdbeyhdL8LOSDKoAJogV/qom+PcVs5E+UVBfVw/FXY1vrS7zlxLsUmM0PI3YxrhuVaaLp0ggby+sPFQnE3DUek14grhAudkENsU05zzyWC8fnpK6eCOVWYOyc24AxJQ499Rxz622dafLvETG2QPon6REtqP/IXKBRnQfSiN/hhcmxCZmI3ClCOKZHayW50vrg38XQdLhBDufyCKh4rYt9JS8tbhJptKPL6soEds2tTuva2zqA3YmZke3jcytA03Q==;w+IyJkhUDR4VNdqO0+CLaQ=="
 ---

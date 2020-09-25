@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Fintech Machine Learning Leader Attunely Secures $9M in Funding"
+    excerpt: "Attunely Inc., a pioneer in deploying machine learning to maximize revenue recovery and enhance the consumer experience, today announced $9 million in financing. The new capital includes an earlier seed round as well as a Series A investment."
+    publishedDateTime: 2020-09-25T07:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005133/en/Fintech-Machine-Learning-Leader-Attunely-Secures-9M-in-Funding"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200924005133/en/824189/23/attunely+logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "azRvAwVFY4RxEQTiR/8hqkro+sjrua2LTuJoEByfX6pVS936y8McEPJcSn1eirP67PawGSsq0gcLqlIyEqAeX+MJuG2ZEWHtLOBnsunOEsJAl4QgoeYdDVFwZFBF1lK5kGDSDQVp/Jjll4ORe5Gq/4+A1pqISFouJ2ap43vsTKHZx2VvMjQompX/WHYPYFEeBeRlLq5+tKtfvcPD8jjyTHn65vKkMdmEx/G7M/xw1dtf4jlbivkZZKk4kok5IFiMFPVMoEr/+QHs/+IdYHK5XJ/jrgNXuDJCexAkdbJ8wsCXaYiaISQXpRTqTSK/5TJpJOApaFNWpvFtyjAl48j8W5x9x1VsbpXD9xmHJ+RCJI5w0pIe5TDcT6PN89uI/fUGVHDkLM0X2xhWy62FnOLodzFgxYm7Ze0zIWB8KGmv81i2GyzKIfz8imgBsvSO+gOvosj2s8/oaN7xyGN+IfOFHl9gIoPSfMl6skW5hcKEhPHSPHxbREebxn6Lyl2cK35x62dVj6QmIXeVXgze4WXnKA==;6350UOYoXZA++/xTIPS8FQ=="
 ---

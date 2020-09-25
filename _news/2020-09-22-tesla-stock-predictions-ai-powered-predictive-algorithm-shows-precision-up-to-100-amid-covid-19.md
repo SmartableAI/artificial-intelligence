@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/tesla-stock-predictions-
 webUrl: "https://www.marketwatch.com/press-release/tesla-stock-predictions-ai-powered-predictive-algorithm-shows-precision-up-to-100-amid-covid-19-2020-09-19"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mayo launches nationwide COVID-19 prediction machine"
-    excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
-    publishedDateTime: 2020-09-20T13:55:00Z
-    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6666002-Mayo-launches-nationwide-COVID-19-prediction-machine"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 24
-    images:
-      - url: "https://www.postbulletin.com/incoming/6666351-o58j79-Screen-Shot-2020-09-17-at-1.15.59-PM.jpg/alternates/BASE_LANDSCAPE/Screen%20Shot%202020-09-17%20at%201.15.59%20PM.jpg"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Mayo launches nationwide COVID-19 prediction machine"
     excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
     publishedDateTime: 2020-09-21T03:56:00Z

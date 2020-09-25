@@ -90,6 +90,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "Facial recognition tech used to build SFPD gun case, despite city ban"
+    excerpt: "San Francisco police investigators may have circumvented the city’s ban on facial recognition technology by building a gun case, in part, on facial recognition software used by another law enforcement agency,"
+    publishedDateTime: 2020-09-25T06:08:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Facial-recognition-tech-used-to-build-SFPD-gun-15595796.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/73/01/30/15472146/25/rawImage.jpg"
+        width: 2048
+        height: 1349
+        isCached: true
 
 secured: "3F05PRMDauY4lGx3WYh9Feu7K+OES/d8NhJIyfNXW+1GXWZeVM27WmS2zYgKB++5v27Cd1jNJIpG7FKpRc6Nd3BLMYL1dAfWzSYxEv7tRNpkuG6QZ58Md5ysr1+R8uemxalazcxNWq3/YiHU5drHgN6gQak7dlX2fqn73tsps63InKIQjJkoNZEssFzGnvj1o0ZopTVNDWfUsvFkb49C5AJKKgYa0KG3X2xi38EXN6k3BszXYkgaawOJd8jdWgRECjpzrAplvvrsEsAWHm7M157gNxVvGXVnoe1xxqY9vY4N3SJbC69hqUchpw8sqzLWlaKaY1t72p/EXDod7qgdmAFKvKr5DOBOKVPUGrXaDEaQ26E42EH3H8dLx1BwWA58OmNj4LzLDofSlBS+lBjdocZ3c5xHpect8yZzwskEPYT0SNpIKVdigWYTIvnRQhHdcQvTlSHdnsurCWtGmAVXJ7/3lYZuRw50uK+0baPBDHo6z2c9UayHFicyMSwN8HdUCEev/9TumXlCIZyAsGAOHg==;Y1lWRShqbs1QN4L3pU766Q=="
 ---
