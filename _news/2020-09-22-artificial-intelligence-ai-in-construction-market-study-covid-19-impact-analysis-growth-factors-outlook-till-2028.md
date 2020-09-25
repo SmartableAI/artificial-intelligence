@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -112,15 +112,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "RRD Study Shows the Impact of COVID-19 on Marketer Perceptions of Artificial Intelligence/Machine Learning, Shifting Investment Priorities and Effectively Connecting with Consumers"
-    excerpt: "R.R. Donnelley & Sons Company (RRD) (NYSE: RRD), a leading global provider of marketing and business communications, today released The Pivot Repo"
-    publishedDateTime: 2020-09-20T06:14:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005612/en/RRD-Study-Shows-the-Impact-of-COVID-19-on-Marketer-Perceptions-of-Artificial-IntelligenceMachine-Learning-Shifting-Investment-Priorities-and-Effectively-Connecting-with-Consumers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "1Y9GHyDXYayOqbbWGVX5IaYN4zYYx64fM+HwfUe8OxmtJIQvQ2GQruwmg7rfrin/rUhJKELSuHzpq0cQRLmhmwOsgt0rLfS0iElTgkHmiDDDF7p/co/b8yLuPyt7hsbh9Bez9mygug+toG+ky4UCwOUn0GmhYgnawDIVacRUQdd4ljh5vo3X5a0/0ZSCp8lUM9QaOe20LyTgzfRQCoXFir0HzZQhM156aR3YhQ9rb7cXyHYvhl3gKklB0Lb9mngxrmnPZkajDBK4shgg6UrsZlB8TSIC9twdThBvjeMuWaXBL1M2YjkjHvRckrXu3j8Q1f8Q9FJWOoPddPr8KIBTqpVuIHL10VFrlvTi1ZXt+wM=;WndkG3Ho8g911RqtOuONiA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-24T19:03:00Z
 originalUrl: "https://siliconangle.com/2020/09/24/facebooks-dynabench-tool-fools-neural-networks-advance-ai-research/"
 webUrl: "https://siliconangle.com/2020/09/24/facebooks-dynabench-tool-fools-neural-networks-advance-ai-research/"
 type: article
-quality: 41
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/facebook-2.png"

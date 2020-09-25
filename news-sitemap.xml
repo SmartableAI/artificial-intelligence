@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/</loc>
-    <lastmod>2020-09-24T14:52:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/machine-learning-market-size-growing-at-338-cagr-to-hit-usd-53544-million-by-2025-2020-09-22</loc>
+    <lastmod>2020-09-24T16:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/</loc>
-    <lastmod>2020-09-24T14:41:00-07:00</lastmod>
+    <loc>https://timesofindia.indiatimes.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/articleshow/78305004.cms</loc>
+    <lastmod>2020-09-24T16:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/improved-ocr-and-structured-data-extraction-with-amazon-textract/</loc>
+    <lastmod>2020-09-24T15:52:30-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/computing/nvidia-geforce-rtx-3090-review-roundup/</loc>
+    <lastmod>2020-09-24T15:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/breonna-taylor-case-sparks-amazon-web-services-ceo-tweet-need-police-culture-change/</loc>
+    <lastmod>2020-09-24T14:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,6 +205,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/supermicro-is-first-to-market-with-nebs-level-3-certified-1u-server-delivers-2-560-nvidia-gpu-cores-for-5g-edge-ai-vr-innovation-1029615558</loc>
+    <lastmod>2020-09-24T01:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21</loc>
     <lastmod>2020-09-24T01:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -237,12 +261,6 @@
   <url>
     <loc>https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/</loc>
     <lastmod>2020-09-23T11:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/as-per-study-voice-and-speech-recognition-market-size-poised-to-surpass-usd-3149-billion-by-2026-2020-09-23</loc>
-    <lastmod>2020-09-23T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -427,12 +445,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22</loc>
-    <lastmod>2020-09-22T09:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.entrepreneur.com/article/356406</loc>
     <lastmod>2020-09-22T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -583,6 +595,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848</loc>
+    <lastmod>2020-09-21T17:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ft.com/content/45c91224-bd92-473d-ae15-63fb90c93a3e</loc>
     <lastmod>2020-09-21T16:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -705,6 +723,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=23010&amp;list_id=64&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-09-20T23:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21</loc>
+    <lastmod>2020-09-20T23:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2179,8 +2203,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html</loc>
-    <lastmod>2020-09-10T23:01:00-07:00</lastmod>
+    <loc>https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing</loc>
+    <lastmod>2020-09-10T22:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

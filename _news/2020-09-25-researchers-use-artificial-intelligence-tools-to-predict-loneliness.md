@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
-    excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
+  - title: "IIT Hyd researchers use AI to detect mobile use by drivers"
+    excerpt: "Researchers at the Indian Institute of Technology Hyderabad are using artificial intelligence (AI) based algorithms to detect mobile phone ."
+    publishedDateTime: 2020-09-24T23:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/articleshow/78305004.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 54
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/photo/msid-78305003/78305003.jpg"
+        width: 800
+        height: 464
         isCached: true
   - title: "Talking alone: Researchers use artificial intelligence tools to predict loneliness"
     excerpt: "A team led by researchers at University of California San Diego School of Medicine has used artificial intelligence technologies to analyze natural language patterns to discern degrees of loneliness in older adults."
@@ -56,6 +56,6 @@ related:
         height: 675
         isCached: true
 
-secured: "AO5hDX4sAoZeZuhHKOCGmwUcQDUa/OAUVzzAp9rVC5tmXTcXjXy7/GUXLdFL2gGwzOaJ8NR90fvuG0hws6I9aieNYiv789pEkcHoOYEy+jNnzh1IO56PAmtvqdbFQv5oUHLD9DMX4AMLVisZwUZjzvPh/3xM4wlU7tuKQz9SSalxo4XXqgaLMjknkivBstS+CY8LzisEUiDwv8exwYd95MRMq7Mmt2O1eM72ha8oyEKgq15FW9PT9KcrOcAfHsA2Ab/zlghnvoPbPwI/1tHzce/G+JAwcn5hYJJPP5Tx7vX5n70UXvPomqsYGamUmkzEOfGxx5aYeLI2PQroGwXRFKkwPrfYKSFSfgDJ+M9zwUw=;KnNlr0WccYQXcPIvM+cYYg=="
+secured: "CktpuKO3pyEiUSm8PSZJmmwqNO5srE00M8JoDEMXj5wXb9bxucawX892an9XhLusVimFgkIAe7+w1zYyoLx/7XVoBo0CU+aVBlq35JhZimc+vB1xd6PnzN1Q4Mm8bLmz/aZTrzHKxIWaxgBcxIbhN4pKbK1wNs3pcZ3uxmbJqsvf/NCr50lRE7HmBwkNREUi7fuEnbDpizeU8hhs026/K/5kbIMdAV3PqqA4dogWeeBG5WpOu3W13ODCWl/XT2r/fEdccjKL0CVAXm+6uFVgl7vNpylnF1fAXhpy8UYM8bywcITvaYtl+xk9gSxGFcFC4drAsmqeg9jxSvSQ/xbwOaeD5dpj5ugH4ofrkpFZwRjlOm+KOTFPtnW8QIgYVcrmeM+vSesYNAlq5LnaA5HMmiVXhKkTQ77L0a39BuGXKHikB+kyvjtwBsxmFCLHdW0TfZGmbBum+LA9Rr61zMjT32yLnPEtsoshnfwhzwOyvwpHeYzZffg1tbtaqn3YthHBtbwWGjrAu3UWg5aOZl1tEA==;kX8yAbJh5FDPxY/Jt9YWkg=="
 ---
 

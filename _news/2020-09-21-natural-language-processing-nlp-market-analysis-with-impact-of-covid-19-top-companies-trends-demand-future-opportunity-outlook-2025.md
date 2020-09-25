@@ -113,15 +113,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "RRD Study Shows the Impact of COVID-19 on Marketer Perceptions of Artificial Intelligence/Machine Learning, Shifting Investment Priorities and Effectively Connecting with Consumers"
-    excerpt: "R.R. Donnelley & Sons Company (RRD) (NYSE: RRD), a leading global provider of marketing and business communications, today released The Pivot Repo"
-    publishedDateTime: 2020-09-20T06:14:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200910005612/en/RRD-Study-Shows-the-Impact-of-COVID-19-on-Marketer-Perceptions-of-Artificial-IntelligenceMachine-Learning-Shifting-Investment-Priorities-and-Effectively-Connecting-with-Consumers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "rn9M4wv+tdPpHcfV2rQVD9Me/XpabTvotoZ7Dhpnqj1FmYx5b7bg9krdq/dFSeE2EAy1nozqS28y/0H3T6ZG7mag8Y6fP9DG1HBUtl6iWWUte4g0tSHaG4Q+i+kAAo8gmZCoCX6mIrYD5o1a6rBOOn0C0liHpYjP7jfvzgFj4BhLAkh7j+l4OPYgWYql7SlFUSncRmh9tcjjEBBr+BbwzFWQeaLKuTvTOLklz7zIQ4PVhstRnMHDVLWent4yd1qrW1oaeVM0EQ+zIwSIMzjN1jpNamYD+Th41jOvGvgm7Hy5o+hFWyoLrK6UAY6Xp88veGItrMO5sIOCXdwDGjI7hLJLQihCdBsn8gBanId5fRA=;p+DeJQ8TtZStEVqqcIbO8w=="
 ---

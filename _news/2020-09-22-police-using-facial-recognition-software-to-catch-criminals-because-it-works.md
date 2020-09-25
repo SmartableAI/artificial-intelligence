@@ -57,6 +57,38 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web"
+    excerpt: "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web."
+    publishedDateTime: 2020-09-24T19:50:00Z
+    webUrl: "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 89
+    images:
+      - url: "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh"
+        width: 4875
+        height: 2738
+        isCached: true
+  - title: "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials"
+    excerpt: "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009."
+    publishedDateTime: 2020-09-24T22:47:00Z
+    webUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Detroit council expected to vote on facial recognition software contract"
     excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
     publishedDateTime: 2020-09-21T20:58:00Z

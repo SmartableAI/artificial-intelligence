@@ -65,6 +65,17 @@ related:
         width: 1200
         height: 722
         isCached: true
+  - title: "Congress Will Try Again in 2021 on Self-Driving Car Reform"
+    excerpt: "Self-driving cares suffered a major setback after the March 2018 death of a pedestrian in a crash with an Uber test vehicle, the first attributed to a self-driving car. The Nation"
+    publishedDateTime: 2020-09-24T22:24:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/congress-will-try-again-in-2021-on-self-driving-car-reform?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
     excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
     publishedDateTime: 2020-09-23T15:39:00Z

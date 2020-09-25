@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
-    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
-    publishedDateTime: 2020-09-23T13:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "kv8t4zkLPwzudc83VtWXGJrTkOVXF/s6eU2uOKcXe25L7o2GU8Cem5OAfDW3El9nPObFwUjWTkV3uyBrx1V/v61tYW6tEirxODtNjiPm3P92TrQE690boXOvx88rBgXuAJlp34vdNh9AWvuE95yF6GyWpJiUcDKRK7xfLr/gE2mHUHTtLN7quQmWzWaIaiVHkvhTuM5XRL8KRuWV98NEBvJSP4rZLvTX9T+9UvrEBOrFiEtJwy8zvyaLUd7OC4XR38sjtPbgpUwfOfahytHUGSUJ5aZCl07UQX+2jQVmVaUdsKhjtDakJ+wHB27JCIDxYMinzX23Y6W8vqE93QEEzeUJuoJn0Is/4bxa8RUpR6I=;oN7mhY61L3Ex7uTLtiXpfA=="
 ---

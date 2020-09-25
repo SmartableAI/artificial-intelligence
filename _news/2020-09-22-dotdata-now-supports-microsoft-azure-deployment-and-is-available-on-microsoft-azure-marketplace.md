@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-mi
 ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
-secured: "Oh1CqrJBEFRot65+6QWuYWuu1OL0EXzfHRk+LHjrFtrri0jUCS9rFkqO15Au9Xqpzqrt9yT8r2V1SZFe5kHfDYTC4K/SUe/Wi2Bf2Ms3jcbvpHYIbZ4C52JdU4vQERwYuJ4Q9IY9JNcGL0jEP/M/zGbNEFj3SPTNCuJINsZvNTXdh8O9/spAczTGLmcvAuDVHFxthfNY4dUNYbj2xUWRI4E9x/WOqT855NtIa9bJlgXzlNaDEutcK16sbgjhtgdH/ae0/GyBu2TJyAQ/cecYA2DYttEtOEsF3aNAyyuMRbVACNnIMdUS0zDEm/wcGE06xadZ7df/64kqk7THPUwrH9hg7A0LM48tyeefYWRK+2I=;+hDjRVW/kLqWetzFuW7+SQ=="
+secured: "oO8fTGo79oMc+iv5TXRRvSZYUs8u1HxpQ1OyIUanTOWSb1pZK7Vh3jo4HEPO4T7DYCcuI/B/T7jWN9Bq8xJFIKO1dtrL7HXLN2HowIPZ97QQM8+CfOvG+hP+Xcgt+XPlCmGILAJ/2QI3H1YadW8ZKQ68zgxdCQetwbSa6H3CGx74W8b3DeLuHCrO0jSK6O+BEYKjn6fd78vPr9KgQf4fk1NgRzqQU8n+IQNwLlKVUWcxHjyZLXDdnCk95QaGg1ocoNVn3LofQM0aTpEoZKpFOps626I8oFGwXxuT6bHmY7iZF9gWfNqbG91JtxmqrDLj+B3qhB+nxL2Tc82yarXIqGm2y17auloCvJTdLi0Trkg=;FbyxkXZ+ASSVkHahsEdnMg=="
 ---
 

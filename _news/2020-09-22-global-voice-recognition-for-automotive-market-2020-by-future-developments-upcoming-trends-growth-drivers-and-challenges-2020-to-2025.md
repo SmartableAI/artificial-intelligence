@@ -29,31 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026"
-    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ..."
-    publishedDateTime: 2020-09-22T16:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22"
+  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Increasing acceptance of cloud-based services in education, integration of AI inferencing hardware in the data centers, and rising product developments by manufacturers along with investment in startups are driving the growth of global artificial intelligence chipsets market."
+    publishedDateTime: 2020-09-21T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market worth $57.8 billion by 2026"
-    excerpt: "According to the latest market research report Artificial Intelligence Chipsets Market by Technology Machine learning Natural Language Processing Context Aware Computing Computer Vision Hardware Processor Memory Network End User Industry and region Global Forecast to 2026 The global AI chipsets"
-    publishedDateTime: 2020-09-21T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2137891/artificial-intelligence-chipsets-market-worth-57-8-billion"
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "va8Ae8Jq4ULsfc/QKuQ1qQqH5NOIJPe/kMjZVl1lJv5st0tJOoeRvWqVHajjQCoN67dBQ15OG8v6jT7ubMFMwNAsH3tIH81Ybu3idt6M/WGKSHdgGXs0BDxHxUwJXiskjACIWeO7Q6FkzUU//n2ipz9i+L7otYjsCVO07os2P0ub8OhyEdVw9t7YLucKEqNBMJe2rCjb/SWLLfPM+DF3V7UtLjoxElwhnhoOKqspqivk7Gx9A3CyO7gexx9auF1TitR+Uw/BKKslJE55T3eob1DrduBUsklhLCmdpl609ZzTL1DKN3yapXpkUGy2UQ5gWIAGCp78UQsnGTZ3PGHVnka3XvFuLnvzDjCzpVEkFpk=;YszIAgp5V2PY/nfyrAM/Kg=="
 ---

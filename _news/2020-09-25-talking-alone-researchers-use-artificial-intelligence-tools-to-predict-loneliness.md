@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "UCSD Team Uses Artificial Intelligence to Predict Loneliness in Older Adults"
-    excerpt: "Participants were interviewed by trained study staff in unstructured conversations that were analyzed using NLP-understanding software, plus other machine-learning tools"
-    publishedDateTime: 2020-09-24T21:41:00Z
-    webUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/ucsd-team-uses-artificial-intelligence-to-predict-loneliness-in-older-adults/2412038/?amp"
+  - title: "IIT Hyd researchers use AI to detect mobile use by drivers"
+    excerpt: "Researchers at the Indian Institute of Technology Hyderabad are using artificial intelligence (AI) based algorithms to detect mobile phone ."
+    publishedDateTime: 2020-09-24T23:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/articleshow/78305004.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 54
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://media.nbcsandiego.com/2019/09/GettyImages-1185422927.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/photo/msid-78305003/78305003.jpg"
+        width: 800
+        height: 464
         isCached: true
   - title: "Researchers use artificial intelligence tools to predict loneliness"
     excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality. The COVID-19 pandemic,"
