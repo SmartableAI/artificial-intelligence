@@ -53,20 +53,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Facial recognition tested by Brent Cross West station contractor"
-    excerpt: "UK: A construction site access control system which uses non-contact facial recognition is being tested by Brent Cross West station contractor VolkerFitzpatrick. Testing of the technology developed by InnDex and Touchbyte is backed by Innovate UK's Covid-19 support fund."
-    publishedDateTime: 2020-09-21T05:00:00Z
-    webUrl: "https://www.railwaygazette.com/uk/facial-recognition-tested-by-brent-cross-west-station-contractor/57368.article"
-    type: article
-    provider:
-      name: Railway Gazette International
-      domain: railwaygazette.com
-    quality: 39
-    images:
-      - url: "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/2000x2000fit/4/3/8/35438_inndex_106783_crop.jpg"
-        width: 2000
-        height: 1338
-        isCached: true
   - title: "Facial recognition tech used to build SFPD gun case, despite city ban"
     excerpt: "San Francisco police investigators may have circumvented the city’s ban on facial recognition technology by building a gun case, in part, on facial recognition software used by another law enforcement agency,"
     publishedDateTime: 2020-09-25T06:08:00Z

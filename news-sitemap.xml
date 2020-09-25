@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/data-visualization-and-anomaly-detection-using-amazon-athena-and-pandas-from-amazon-sagemaker/</loc>
+    <lastmod>2020-09-25T13:04:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/</loc>
     <lastmod>2020-09-25T12:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -289,7 +295,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
+    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
     <lastmod>2020-09-24T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -327,6 +333,12 @@
   <url>
     <loc>https://www.forbes.com/sites/joemckendrick/2020/09/23/artificial-intelligence-is-ready-for-prime-time-but-needs-full-executive-support/</loc>
     <lastmod>2020-09-23T20:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/</loc>
+    <lastmod>2020-09-23T18:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -439,8 +451,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars</loc>
-    <lastmod>2020-09-23T05:25:00-07:00</lastmod>
+    <loc>https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207</loc>
+    <lastmod>2020-09-23T05:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -843,6 +855,12 @@
   <url>
     <loc>https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/</loc>
     <lastmod>2020-09-20T14:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20</loc>
+    <lastmod>2020-09-20T11:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1477,6 +1495,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.globaltimes.cn/content/1201001.shtml</loc>
+    <lastmod>2020-09-15T14:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/09/15/in-2020-warsaws-startup-ecosystem-is-a-place-to-observe-carefully/</loc>
     <lastmod>2020-09-15T14:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1557,6 +1581,12 @@
   <url>
     <loc>https://www.govtech.com/news/Study-During-Pandemic-More-Workers-Are-Replaced-by-Robots.html</loc>
     <lastmod>2020-09-15T09:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/15/deepmind-wants-to-teach-robots-to-play-board-games/</loc>
+    <lastmod>2020-09-15T08:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1731,6 +1761,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/using-the-amazon-sagemaker-studio-image-build-cli-to-build-container-images-from-your-studio-notebooks/</loc>
     <lastmod>2020-09-14T13:44:02-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mediapost.com/publications/article/355708/ibm-shows-through-nielsen-how-it-targets-ads-witho.html</loc>
+    <lastmod>2020-09-14T13:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2967,6 +3003,12 @@
   <url>
     <loc>https://www.ibtimes.sg/future-defense-artificial-intelligence-robotics-driving-modern-day-military-51327</loc>
     <lastmod>2020-09-09T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41746-020-00320-4</loc>
+    <lastmod>2020-09-09T02:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

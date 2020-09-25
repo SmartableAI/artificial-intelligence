@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mayo launches nationwide COVID-19 prediction machine"
-    excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
-    publishedDateTime: 2020-09-21T03:56:00Z
-    webUrl: "https://www.rivertowns.net/newsmd/coronavirus/6666002-Mayo-launches-nationwide-COVID-19-prediction-machine"
-    type: article
-    provider:
-      name: River Towns
-      domain: rivertowns.net
-    quality: 24
-    images:
-      - url: "https://www.postbulletin.com/incoming/6666351-o58j79-Screen-Shot-2020-09-17-at-1.15.59-PM.jpg/alternates/BASE_LANDSCAPE/Screen%20Shot%202020-09-17%20at%201.15.59%20PM.jpg"
-        width: 1140
-        height: 712
-        isCached: true
 
 secured: "bVTwmOzGcjVt5p0ub8VztmO6gknDuPHy2oTRFEYDERXnpYoHlofAOa6NbRivFxqS/jPmekrS50VVqkxksq/eL2kcpSm57NASUWUh/1sYvis23HHUQvp8EsFsfbKAHdQkdoYvx4VXuBGUDQi/t5g+W+WVHFEkvLLvOWwIWw7ezUuWJGGnqFBuFh9CPkMPo5M+7sGTwYjkCVSoOrGzgtQnhzdTFjXuj/Vym7AD09NncDE051ywI7doyygPhJyclaY+4AaUK/bGg5SiOIiypwlfKckb5PsxJh3KGpFjugnGiYL5j33dhewJ8o36KK9/kkmCNq6MZo/512PNHhpneMYcVFaLteJi28nVqkTD7n0HRNE=;xDtAZdk/4Twhqs19GP6Brg=="
 ---

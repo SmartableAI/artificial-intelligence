@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+    images:
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "of4BSKmkH64sWSZmpW4bBC8sLAyY87Wm5cXv9/5nVGHVVMEVwAomI/S8TWWEmQNR5KMcWrLzrY2F/aoAuPa8K/slpVEIVExNmkQXGn7pbHNT1ZcyAT+h5NOtNtcAC9iT/8B4CEaMRPZnrvhRQAQXVvG5sWTMjiH8X9MdFui+nQH8cXjzjk0IJwQglpDh6x67ZUjMRWFyw5pg84TZ/8Z4On4qjeq3NxsNNgoS6ie2HqSMsF6xwi8fJNkj5wMpbvNgVq09vMVeJ5oM3pVEoOPXx0MDHOkTXmkyE1mZNkNmWHudnGKW+MRC+ExgjWkcmW0e2qHHz7JwjiN3OIAQszEEsDJfah7etwCkzwuKQ3u0zcXR5NQZ2LrjM3jq8JBXoJjccdD+aMIq8EAxHALbDC5Tx2LiBoM9J+43txC3tS2xoLFgBydJLcw4BfktcesIstgULBSClHGWiYuLbBAzf68KQHg/YlMIlQb6z0egt7i3fZM3DQnBAygOYOQxB8ZK4rBZi9NQO1JykWI+E6R+vER3rg==;57RxEu99HigItKfb//sDlg=="
 ---

@@ -29,17 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars"
-    excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022."
-    publishedDateTime: 2020-09-23T12:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
+  - title: "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars"
+    excerpt: "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ..."
+    publishedDateTime: 2020-09-23T12:26:00Z
+    webUrl: "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKCN26E207"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKCN26E207"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
     excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
     publishedDateTime: 2020-09-21T14:21:00Z

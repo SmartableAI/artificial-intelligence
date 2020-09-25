@@ -33,6 +33,22 @@ related:
         width: 900
         height: 537
         isCached: true
+  - title: "4 things to remember when adapting AI/ML learning models during a pandemic"
+    excerpt: "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling."
+    publishedDateTime: 2020-09-25T20:57:00Z
+    webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/"
+    ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Tesla plans to offer machine-learning training as web service with its new ‘Dojo’ supercomputer"
     excerpt: "Tesla plans to offer machine-learning training as a web service with its new ‘Dojo’ supercomputer, according to new comments from CEO Elon Musk. Project ‘Dojo’ was first announced by Musk at Tesla’s Autonomy Day last year: “We do have a major program at Tesla which we don’t have enough time to talk about today called “Dojo”."
     publishedDateTime: 2020-09-21T10:17:00Z

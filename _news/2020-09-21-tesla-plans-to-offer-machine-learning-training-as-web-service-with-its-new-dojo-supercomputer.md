@@ -45,6 +45,22 @@ related:
         width: 900
         height: 537
         isCached: true
+  - title: "4 things to remember when adapting AI/ML learning models during a pandemic"
+    excerpt: "The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling."
+    publishedDateTime: 2020-09-25T20:57:00Z
+    webUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/"
+    ampWebUrl: "https://techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/25/4-things-to-remember-when-adapting-ai-ml-learning-models-during-a-pandemic/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1250179225.jpg?w=1024"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
     excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
     publishedDateTime: 2020-09-24T21:45:43Z

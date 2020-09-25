@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/09/23/how-to-dress-for-the-pandemic-surprising-trends-from-the-stitch-fix-ai-fashion-forecast/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 4 Top Artificial Intelligence Trends For 2021"
-    excerpt: "Artificial Intelligence (AI) has been a mega-trend in 2020. The current pandemic has only accelerated the relevance and adoption of AI and machine learning. Here we look at some of the top AI trends for 2021."
-    publishedDateTime: 2020-09-21T04:08:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/09/21/the-4-top-artificial-intelligence-trends-for-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f67d6b8af733458404e97bf%2F0x0.jpg"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "The 4 Top Artificial Intelligence Trends For 2021"
     excerpt: "Before the global pandemic struck in 2020 and the world was turned on its head, artificial intelligence (AI), and specifically the branch of AI known as machine learning (ML), were already causing widespread disruption in almost every industry. The Covid ..."
     publishedDateTime: 2020-09-24T12:30:00Z

@@ -3,10 +3,10 @@ category: news
 title: "A Microsoft-powered instant two-way translator"
 excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
 publishedDateTime: 2020-09-24T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
 type: article
 quality: 74
 heat: 84
@@ -43,6 +43,6 @@ related:
       domain: zdnet.com
     quality: 54
 
-secured: "jZ42zCiPaNgKzuKe6s46W+XD0zKp/dN7LQTjtk1Wzd3haV4QzL8hOcAFJNZ46sqiAMTwFPM37gKsqKqnkAXj03sARjPweyl51xmY1Wf8FH0bWDJL8m33yvOMXfqXZh3p8lBUrQKN1ehK8WgfYIsnIyV4dMvqE8zKP1u+fWOkvXuHfWN602/DQ5td4pAfhp9voKloi6fxvEJHZe2mZG9SuHoIpuADhS4tAzFdwBZVi9cB8YZSlAtIBhSmc5Hd/o/bXxmuxlekF7EfbwbjUNanuP88meniEQdHMfsNP3Y4C/W2R6qgZWNg1ZDvtHDGeXZ9LNB/Ef3thGL3mebjkaGBghgJfPUT99prbDbhhNiDLVKpOvLHTd/ApkU8pG0HxcYJNW1PpC+gKVm1iD83B0BbeW+Zjctydgl8na0HRrGdfes8tPTq1B+i0TNNagnDR9VM3Dpqhk3/+o5pZebxSponHEiCtqL5N0P6J9E7I9zg04xxsbYltIhAQn686dA6lRhxumPOzOSdvf1hN/jecdYu4A==;2BISEJi3iueNzvaaRLpl7Q=="
+secured: "waFnmLgxuhKRkZiW/uDz+ClfScCyFKKLNB2ZKlMsH8HcB40Az3nANS3SdOvuDjZtSUU62baIhbSqwsgEe+Hw4inEAI+nD3HnF65r5cNBmTJ28lKTMdRoQCUZPuxwD7RRscwZNBFq7Xc14leq8Gc1c7w+3QnlotmDoM0eqimODGm9ZJK/n1cmt+CDOXU21KZ4qyAtUY2eJgu2/YA5uQgfE9aUE4Euf9bVKTkkYS8PkwGFlOHtfxjlOdKxy7jIMeps0uOyhEnlNzvhwk+IgjzMoCk3DlQMfGZ6q3e/R6n46wWUOggybVjGlbXAM8NF/O4WFI/+Mx83PHOz1TeDR/rxEygqOMajbLvMv2g04xxNa1Y=;Zuqkmc/OvCe15Aw/e08c7A=="
 ---
 

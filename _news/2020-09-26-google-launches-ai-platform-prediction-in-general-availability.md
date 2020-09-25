@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-predi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Mayo launches nationwide COVID-19 prediction machine"
-    excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
-    publishedDateTime: 2020-09-21T03:56:00Z
-    webUrl: "https://www.rivertowns.net/newsmd/coronavirus/6666002-Mayo-launches-nationwide-COVID-19-prediction-machine"
-    type: article
-    provider:
-      name: River Towns
-      domain: rivertowns.net
-    quality: 24
-    images:
-      - url: "https://www.postbulletin.com/incoming/6666351-o58j79-Screen-Shot-2020-09-17-at-1.15.59-PM.jpg/alternates/BASE_LANDSCAPE/Screen%20Shot%202020-09-17%20at%201.15.59%20PM.jpg"
-        width: 1140
-        height: 712
-        isCached: true
 
 secured: "m3JYTmJ09JLjng9jgVdB8AtmpgPxsRQw2/P1fi3KDh3vxW9DL3K33ZtugMH3gbA2oA8f0b7ZcRRYF3KvtWGvFZqEYKkoZ3dM+ha78ASuAw0hw5H3AGz59//9cWve8uaG2NtjkNNsU5Vcag2UgAOfrNiawWi9pkKdDxZjWwr3K7dlR4lNZRM3iDKkq9QeJATn0tO4VnPQRYbcH0j6DEkbT1dKoBdeCtvF2bq04LtETZF5q/sGj3KTAXGoRVi3YtJ13Wgk7Uzojyz8wTuVX8fB+A84TakMP3SFpnmbPw7fCDdrnM8+5cbUOf1TxYhytwoNGGl8hsO075y24Dom+6575hySmxZfmNzCF37YrH6VhjSZV323PHo3Bd9Eikxf58AdnrwjRyBZggdJJHH+/3TlJ/qAIhrM2VkezrX70fOhLgDAdil2j8AxX4cETYJwxVQx3R2SSAZquVVeaZVUBeChNV8bGrk13QKjS/PbKbrGeY8yR7N9KuzJXS/J3fN590/Ngi3Bva3yP4TOr8a7ZXUJoA==;qRAhhQxHO4rXnuZxHIdZ8A=="
 ---
