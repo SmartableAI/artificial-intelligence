@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla is preparing to launch Full Self-Driving subscription, puts deadline on Enhanced Autopilot"
-    excerpt: "Tesla is preparing to launch a new Full Self-Driving monthly subscription based on an update to its mobile app and it is putting a deadline on the newly reintroduced Enhanced Autopilot package."
-    publishedDateTime: 2020-09-20T17:58:00Z
-    webUrl: "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/"
-    ampWebUrl: "https://electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/20/tesla-full-self-driving-subscription-deadline-enhanced-autopilot/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all"
-        width: 1820
-        height: 834
-        isCached: true
   - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
     excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
     publishedDateTime: 2020-09-22T15:43:00Z

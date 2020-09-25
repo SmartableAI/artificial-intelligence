@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-24T19:33:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uoc--tar092420.php"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/244031_web.jpg"
@@ -73,6 +74,6 @@ related:
         height: 480
         isCached: true
 
-secured: "VDGAxwQ/0KBHJbtuooS5ul4XvBi0mWVwpBHEzmii5+A92sKduaRpENtmHrHhrlLhMNcu1eVsSoEJiO/tBNTjPu2YNh7XtVek8QBrfC+dq3B9vdxe9QpqF0OAIniybdWpXJM+SsvLasNW2UUapG0CFZG5YX4zXZ+8x9w/DvNcgxozvX2iIT6fzmIOcbLYUtEZPOQ3SVV/gEJUtCo8bRXyNeBZWve3rRxz2kIS181VCoYRu6feDoO+gNGKys5jcif06jzqX2we2z3jHx6z5YNqWf1DFy+2wnPoY/qnpX0k9v9SV6Lbz0JYf1DOcCVEyUGPWKBoyh8ZBewOAMSrqRqDVYzgHjyQs4MxUeYODbUKNKE=;J9yQBOcqPFht6C9i3MPrkQ=="
+secured: "8rNymquzW+OqkO0lg1p8BI8jKPjMmGWf4tPwVh+7pdaUIb9vhrD0XSrMbswkELzQTpCu2oac07lEOCQEwKh5lLIo42YX8GUIHP84jIJU36Sxpf8PEaslAm4RNGrLCOx6UJ8vJO3z3/To1MBiP0y8cABMVhEq1L18aEEqBGyTFrBYa1M+/JXm3xopKRXxycFDEOobdWNjUjF9riWqkl10P83yt+1VHFNlahMViksFuvQebP3RxqNXOzpBhAb0KPxetyBPd3IQD2bbgXiD8emk09AtAIsuofkkyLVPA47sQaLDV8R/NDLpPABXzHpii46xAkXKWPW/O2XxIe0uQ+7HGm+83nsPdPDPy8LZQ0j+ApNbutIaYvN6m6qNR497kYa7bsqOq1E3OdrAMbTWgdhWqHTjeN4NSewBppb9jgkVN+c1Ya8CIPs1YsaPd0dMwnfDXzEJhHKPuc6qpNd3KtwfU4X0jy07Zvv6d7B2ACAmnDWsGBCCSA3iahDsuCSoNBNN68tySn02GKcEg3ZkW7BPIQ==;nHEW/e/y6DGUsv03Hrnv0Q=="
 ---
 
