@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Stock Predictions: AI-Powered Predictive Algorithm Shows Precision Up To 100% Amid COVID-19"
-    excerpt: "The I Know First predictive AI algorithm has been able to forecast the movement of the Tesla stock with an accuracy of up to 100%, says the evaluation report issued by the Israel-based company on September 15,"
-    publishedDateTime: 2020-09-21T20:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/tesla-stock-predictions-ai-powered-predictive-algorithm-shows-precision-up-to-100-amid-covid-19-2020-09-19"
+  - title: "Google launches AI Platform Prediction in general availability"
+    excerpt: "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ..."
+    publishedDateTime: 2020-09-25T17:32:00Z
+    webUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
+  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-09-22T08:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "bgqT3o+cWHvPXC7WggchykABqSMU/63Rc8W5Pa7SQYxWGx0gjx9t7VVuSFBqH2x/hRShDUDy/yQ9gjk4OJsn/JIgIEzvrsAuB8Fbz4rsxc2CDeByFJR92nYQ+WMuxQLSd7hW6i+2BSgo5XMqet1WpswMFqq7qObHBGZ6W+UDQWAFCoyN0hOUudO+zKREpewoDZGO6uGZWcPU+SGXJEQoVWi04NeL5rq8pI0t1mr2QG55DZOBAtIfaac+vB+Vjrr7ep8xko2xaO3krOO4qSLc3ft2daVRE1/kp2ZpmvQWYFKQK9zuCGAGzfpfuYvjpp4UjlOPGbmQnem/mAvhmOIjaw67t7QYQuaGkRHXsiAo5rk=;RCGxmKCasm2FBbY8nc3gqQ=="
 ---

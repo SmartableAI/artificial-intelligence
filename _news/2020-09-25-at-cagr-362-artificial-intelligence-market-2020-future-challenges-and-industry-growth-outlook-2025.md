@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Business Outlook with COVID-19 Scenario to 2025"
-    excerpt: "MarketsandResearch.biz, a prominent market research firm in its own industry, has published a study titled Global Artificial Intelligence (AI) in Agriculture Market 2020 by Company, Regions, Type and Application,"
-    publishedDateTime: 2020-09-20T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
     excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
     publishedDateTime: 2020-09-22T18:42:00Z

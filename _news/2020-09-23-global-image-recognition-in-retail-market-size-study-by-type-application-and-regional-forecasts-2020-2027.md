@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Business Outlook with COVID-19 Scenario to 2025"
-    excerpt: "MarketsandResearch.biz, a prominent market research firm in its own industry, has published a study titled Global Artificial Intelligence (AI) in Agriculture Market 2020 by Company, Regions, Type and Application,"
-    publishedDateTime: 2020-09-20T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-2020-business-outlook-with-covid-19-scenario-to-2025-2020-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "At CAGR 36.2%, Artificial Intelligence Market 2020: Future Challenges And Industry Growth Outlook 2025"
     excerpt: "Artificial Intelligence Market is valued at USD 23.94 Billion in 2018 and expected to reach USD 208.49 Billion by 2025"
     publishedDateTime: 2020-09-25T09:29:00Z

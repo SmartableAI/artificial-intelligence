@@ -2,6 +2,241 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
+      "title": "Profiting from the Rise of Robotics",
+      "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "originalUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
+      "publishedDateTime": "2020-09-25T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-google-launches-ai-platform-prediction-in-general-availability.md",
+      "title": "Google launches AI Platform Prediction in general availability",
+      "excerpt": "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/",
+      "publishedDateTime": "2020-09-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-football-tracking-in-the-nfl-with-amazon-sagemaker.md",
+      "title": "Football tracking in the NFL with Amazon SageMaker",
+      "excerpt": "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg",
+          "width": 900,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T09:17:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-three-coming-shifts-in-ai.md",
+      "title": "Three Coming Shifts In AI",
+      "excerpt": "Beyond the announcements and the hype, is AI really evolving? In this article, I’d like to focus not on far-off, vague hopes and wishes about AI, but instead on a few concrete developments that lie in the not-so-distant future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e0dde8f8678b1a065cccb%2F0x0.jpg%3FcropX1%3D639%26cropX2%3D1859%26cropY1%3D1084%26cropY2%3D1771",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/amp/",
+      "publishedDateTime": "2020-09-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say.md",
+      "title": "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say",
+      "excerpt": "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/09/25/47a836e1-2df8-46fb-a1a3-3743adb7e0dd/resize/1200x/40bb51f7278d67f87c97d47dcc938b17/alexa-event-08-1.jpg",
+          "width": 1200,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/",
+      "publishedDateTime": "2020-09-25T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection.md",
       "title": "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection",
       "excerpt": "Professor Regina Barzilay of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneered new advances in breast cancer detection using machine learning.",
@@ -209,8 +444,8 @@
       "title": "Follow-the-leader: A shortcut to autonomous trucking",
       "excerpt": "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "originalUrl": "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -226,8 +461,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/",
       "publishedDateTime": "2020-09-25T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -930,57 +1165,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-streamline-modeling-with-amazon-sagemaker-studio-and-the-amazon-experiments-sdk.md",
-      "title": "Streamline modeling with Amazon SageMaker Studio and the Amazon Experiments SDK",
-      "excerpt": "The modeling phase is a highly iterative process in machine learning (ML) projects, where data scientists experiment with various data preprocessing and feature engineering strategies, intertwined with different model architectures, which are then trained with disparate sets of hyperparameter values.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T13:02:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-ais-latest-breakthrough-will-transform-learninghere-are-5-ways.md",
       "title": "AI’s Latest Breakthrough Will Transform Learning—Here Are 5 Ways",
       "excerpt": "In this post, I examine the potential of GPT-3, the AI program by OpenAI. It started out as a language model to predict the next word in a sentence and has vastly exceeded that capability.",
@@ -1027,208 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking.md",
-      "title": "Alexa will soon gain more natural-sounding speech and recognize when multiple people are speaking",
-      "excerpt": "Amazon announced a slew of new developer tools and resources for Alexa during its annual September hardware event.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/",
-      "originalUrl": "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/24/alexa-will-soon-gain-more-natural-sounding-speech-and-recognize-when-multiple-people-are-speaking/amp/",
-      "publishedDateTime": "2020-09-24T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-return-on-ai-the-cdao-perspective.md",
-      "title": "Return On AI: The CDAO Perspective",
-      "excerpt": "Of course, some of the issues around return on AI would be faced by any technology, or at least any new technology. But others are specific to AI because of its insight and decision orientation, or because of the extreme levels of hype and fear around the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ce0459b0b8cb6a2849745%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/09/24/return-on-ai-the-cdao-perspective/amp/",
-      "publishedDateTime": "2020-09-24T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-alexa-gets-smarter-more-conversational-with-teachable-ai.md",
-      "title": "Alexa gets smarter, more conversational with teachable AI",
-      "excerpt": "Amazon has unveiled new artificial intelligence capabilities for Alexa, aimed at making the voice assistant more conversational in your home. Alexa will be \"more natural and more expressive,\" Amazon said during its annual product launch event Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
-      "originalUrl": "https://www.cnet.com/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/N4wEwahDtTeUbGfYdXvv7s9RFl4=/1200x630/2020/04/13/3ef98427-1cf3-4dde-90b8-7f9afd264fb3/amazon-echo-dot-3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alexa-gets-smarter-more-conversational-with-teachable-artificial-intelligence/",
-      "publishedDateTime": "2020-09-24T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-amazons-az1-neural-edge-processor-will-make-alexa-voice-commands-even-faster.md",
-      "title": "Amazon’s AZ1 Neural Edge processor will make Alexa voice commands even faster",
-      "excerpt": "Amazon’s preexisting products without the AZ1 send both the audio and its corresponding interaction to the cloud to be processed and back. Comparatively, these new ones that have the AZ1 built in can handle the audio on-device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device",
-      "originalUrl": "https://www.theverge.com/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/DYgai69ITBpKgyZOtwQoxPwVkQc=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463191/lcimg_daa1e3c5_6113_4da4_8224_ecc2d3a2d352.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device",
-      "publishedDateTime": "2020-09-24T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

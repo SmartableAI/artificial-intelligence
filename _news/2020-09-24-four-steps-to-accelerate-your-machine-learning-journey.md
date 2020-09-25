@@ -9,7 +9,7 @@ ampWebUrl: "https://www.commsmea.com/business/opinion/22450-four-steps-to-accele
 cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/opinion/22450-four-steps-to-accelerate-your-machine-learning-journey?amp"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -30,7 +30,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 24
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/artificial-intelligence-4427460_1920-geralt-pixabay.jpg"
         width: 1920

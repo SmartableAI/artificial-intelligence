@@ -9,7 +9,7 @@ ampWebUrl: "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-art
 cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Artificial intelligence and machine learning could enhance scientific peer review, researchers say"
-    excerpt: "Artificial intelligence and machine learning could enhance scientific peer review as scientists rush to publish COVID-related research, according to experts."
-    publishedDateTime: 2020-09-20T23:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200915105938.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 50
 
 secured: "rHaF6g1XQCDxBlne7G9ySkeXo51PnA0anuLXx6u2KVs+RrFxwf4XOpCGgzGkQcv2/KpWrThEaQNV6t6yRAMUhDzQWCVWKgaYZzH90ku8DNHTPxRv5LnDG0SMhcuzrjHFpq1Hm0U8E6gPwcBvLF/+5mohdCUCI78zkrQlNIe/sgdTwy+neBzU10eTCn5fLf7PzOJ53lKz5PoGqJCYIiC0Ibpy1XS2XFB/+Z/rPRMQI5r9lR53S8zzMNvyor0DByae2/3KhB4UKBSg3atxpuAhio3Ut96nvGcdkbCSuTZavM4zgTjAaX7OeK0YHk7Nq8Vgk0wiW4tgKzPG4+mKPMAzAShUXUb8t4fPhRXfLiNJafc=;V0jr9OJpG+XkFOZpnC3Tng=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 1260
     height: 630
     isCached: true
+
+related:
+  - title: "Football tracking in the NFL with Amazon SageMaker"
+    excerpt: "With the 2020 football season kicking off, Amazon Web Services (AWS) is continuing its work with the National Football League (NFL) on several ongoing game-changing initiatives. Specifically, the NFL and AWS are teaming up to develop state-of-the-art cloud technology using machine learning (ML) aimed"
+    publishedDateTime: 2020-09-25T16:17:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/11/1-Graphic.jpg"
+        width: 900
+        height: 517
+        isCached: true
 
 secured: "4mg2svfEauM3LYZTPozqxuHoj7HaoibrtgbWahQg+4upGKdAvH5R/t53w31V/r3w9JlPGjZMPk7ZbVmK/eND+wcuc4hzMTZs0bGGxBmYvT8SfHQCXsb6RsZAQzzAwyLIxjGWs7VZK3IpORQtIjjKHexsidraFL8nVgcDasQzAEJT/9DhMM6dTzan50fgzORjEp8ptUS+H5P2TWWpJ5txt5uInbAkAnrB5Ivmwcb5OqXsOJ7ds7X53Zm7XgIFVedvzcgQCU8LwVs2XKb2zfsi2VQ8DRKLAjK/UTZt61hhJyvS782UuoysEkyTbeP1YIk1PPRtxs2F0ahJF9JdFaCntVhtLz1T6me8W0E2Nt8AvRs=;QU6XXZ2AgwXJrGkbL3TX0Q=="
 ---

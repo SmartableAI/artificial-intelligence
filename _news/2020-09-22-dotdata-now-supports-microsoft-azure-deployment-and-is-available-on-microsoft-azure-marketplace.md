@@ -33,13 +33,13 @@ related:
     provider:
       name: dbta.com
       domain: dbta.com
-    quality: 39
+    quality: 71
     images:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
         isCached: true
 
-secured: "59zD5pLAVgYiPdvxGYYInY6Sc7iePhcEfCbgIkUZdwput0Le3Ie2+8KY96c7gys3VHmrtX6ZO0SjVUv0WJqqFizNLDE38vE17j2C817sV3+j+KEkMdXOS62x2cvM+u1eHyczXGJD/tRnPOyCWQztf/QpZC5j51+YXrxEocnznBz+BIBadWouHj0wigTNL4vrEoerkYArKEb6Gb3Zx0v3OYyyaGKigLJmCI6ktbxJ9MOmXdqAKxzGWhDjSn7lTQU4lTWZeznPEsYlrAOtXZ9reb5PRyfWSVGyGkOFpnqcrQmEuvLko7M5NUkRulsQ+TK8a1iHoXBXNwcX/wcwswk6tFmXlYQ8Gl5hWpFnPx9F3Kw=;ptCmQMj+igGvXpiWFmRDCQ=="
+secured: "23/omLcg2Iq5lgz1K7KBpWOl9Mr2CRPV1phFe+43lm/hzeFRK89nGOn/v1dn7RyrpGPgMQQuYlGZAnGQ9DsowbUS3+Gt19qNaNPeLSqV7mU937S2HwIXzxqNKoEtrtHvZ7qIFmrxn3cMRuEAZutPoOIIUl6BfwDDYW2FPfWqxgZ7V7FLduhNxZr5ryoQpDYZpNEB3QZC3/f86ow1Z8BAn7qaXkMAvTkYojErk56Pz2Zju7/Sx9Rxh6+I6r9fPcqfftM5sWFQ5nrTCucdPu5NaOHVcK1ISkY0VOxa0Foi/W3suDoV0yoNBiTzVIAT7kQmQZwbnfW5LOy9DLLpN3RaoucgJn0WAxGc0lRHL5QjsGg=;uIhbyOr5PI5FIQRUICuPlw=="
 ---
 

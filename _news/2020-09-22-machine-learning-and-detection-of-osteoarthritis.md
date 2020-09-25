@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine-learning algorithm can detect early, subtle signs of osteoarthritis"
-    excerpt: "Researchers at the University of Pittsburgh School of Medicine and Carnegie Mellon University College of Engineering have created a machine-learning algorithm that can detect subtle signs of osteoarthritis- too abstract to register in the eye of a trained ..."
-    publishedDateTime: 2020-09-21T00:01:00Z
-    webUrl: "https://www.news-medical.net/news/20200921/Machine-learning-algorithm-can-detect-early-subtle-signs-of-osteoarthritis.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200921/Machine-learning-algorithm-can-detect-early-subtle-signs-of-osteoarthritis.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200921/Machine-learning-algorithm-can-detect-early-subtle-signs-of-osteoarthritis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 42
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fOsteoarthritis-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Early Detection of Osteoarthritis with Artificial Intelligence"
     excerpt: "“In the future, coupling presymptomatic OA detection with emergent clinical therapies could modify the outcome of a disease that costs the United States healthcare system $16.5 billion annually. Furthermore, our technique is broadly applicable to earlier ..."
     publishedDateTime: 2020-09-22T12:04:00Z
@@ -55,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Aiding DOD in Early Detection of COVID-19, Say Technologists"
+    excerpt: "The Defense Threat Reduction Agency and Defense Innovation Unit are applying commercial technology for early detection of the Severe Acute Respiratory Syndrome Coronavirus 2, which causes the COVID-19"
+    publishedDateTime: 2020-09-22T14:51:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2356086/ai-aiding-dod-in-early-detection-of-covid-19-say-technologists/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2020/Sep/22/2002502651/1280/1280/0/200921-O-ZZ999-004.JPG"
+        width: 1280
+        height: 1002
+        isCached: true
   - title: "Artificial intelligence detects osteoarthritis years before it develops"
     excerpt: "Researchers have created a machine-learning algorithm that can pick up on subtle signs of osteoarthritis - too abstract to register in the eye of a trained radiologist - on an MRI scan taken years before symptom onset."
     publishedDateTime: 2020-09-21T19:08:00Z
@@ -68,6 +66,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/243548_web.jpg"
         width: 400
         height: 442
+        isCached: true
+  - title: "Artificial Intelligence May Predict Osteoarthritis Years Before Onset"
+    excerpt: "The artificial intelligence tool may enable providers to one day treat osteoarthritis with preventive drugs instead of surgery."
+    publishedDateTime: 2020-09-23T13:32:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-may-predict-osteoarthritis-years-before-onset"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
+        width: 683
+        height: 415
         isCached: true
 
 secured: "qCS8vYI78Yo2FktOCxMoyVf9EcMqpQn2fgI4XVzjzeUh/FfVnS+4+f05RWClG0CXzkuf2gVXjAR7rR74NaQUk3uwYpw+WsAD4XKDVR9/sLZ8bcZNgQpVIEbL2XKaSqKnZLgd9heu8rM+TuVCIBHQr7imsoHtRubdnnNH0qooowlIAT617Plf3dgYhEfnUhZ7sfJYIQISlNk1qVGiX+xLxexCtE282HqsqsMeO3YUpixc8YCl7t206n2/3Ql1yBYvwO0vyJppf9FcV9TYAiv16XkzCksKG94FVcvCctYhUOhHft4bozR5AVajS4ViRGFI7kzTxeakYR0458t7MGITQ4aMaetKYbF7SPWoRUOcA24=;GKGt2Kbda68HNvcV1sJarw=="

@@ -24,60 +24,35 @@ topics:
   - AI
 
 related:
-  - title: "Mailchimp launches new AI tools as it continues its transformation to marketing platform"
-    excerpt: "Mailchimp may have started out as an easy to use newsletter tool, but that was almost 20 years ago. Today’s company still does email, but at its core, it is now a marketing automation platform for small businesses that also offers a website builder,"
-    publishedDateTime: 2020-09-22T23:41:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/mailchimp-launches-new-ai-tools-as-it-continues-its-transformation-to-marketing-platform/amp/"
+  - title: "Google launches AI Platform Prediction in general availability"
+    excerpt: "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ..."
+    publishedDateTime: 2020-09-25T17:32:00Z
+    webUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/Screenshot-2020-09-22-080330.jpg?w=300"
-        width: 300
-        height: 222
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Basware Debuts AI Tool For Accounts Payable Automation"
-    excerpt: "To automate the transformation of machine-readable PDFs to digital invoices, Basware has rolled out SmartPDF AI in the newest expansion of its SmartPDF offering. The tool uses information taken from past invoices through a cutting-edge machine learning (ML ..."
-    publishedDateTime: 2020-09-22T21:31:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
+  - title: "Mayo launches nationwide COVID-19 prediction machine"
+    excerpt: "Somewhere in America, a person with a cough is typing \"what are the symptoms of COVID-19?\" or \"where can I get a COVID-19 test?\" into Google. Half a nation away, a Mayo Clinic mainframe is collecting the location data from those requests,"
+    publishedDateTime: 2020-09-21T03:56:00Z
+    webUrl: "https://www.rivertowns.net/newsmd/coronavirus/6666002-Mayo-launches-nationwide-COVID-19-prediction-machine"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: River Towns
+      domain: rivertowns.net
+    quality: 24
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/accounts-payable-invoice-automation-1-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
-  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
-    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
-    publishedDateTime: 2020-09-24T09:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maru-group-launches-conversational-ai-feedback-tool-on-proprietary-insights-platform-maru-hub-1029611526"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Maru Group launches Conversational AI feedback tool on proprietary insights platform Maru/HUB"
-    excerpt: "(GLOBE NEWSWIRE) -- Maru Group (‘Maru’), the global technology-enabled market research and customer insights company, have announced the launch of Maru/HUB Conversational AI, an intelligent, device-agnostic feedback tool."
-    publishedDateTime: 2020-09-22T14:00:00Z
-    webUrl: "https://apnews.com/globe-newswire/4ebe5953752817cb5c53bf3b0849d98c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.postbulletin.com/incoming/6666351-o58j79-Screen-Shot-2020-09-17-at-1.15.59-PM.jpg/alternates/BASE_LANDSCAPE/Screen%20Shot%202020-09-17%20at%201.15.59%20PM.jpg"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "bVTwmOzGcjVt5p0ub8VztmO6gknDuPHy2oTRFEYDERXnpYoHlofAOa6NbRivFxqS/jPmekrS50VVqkxksq/eL2kcpSm57NASUWUh/1sYvis23HHUQvp8EsFsfbKAHdQkdoYvx4VXuBGUDQi/t5g+W+WVHFEkvLLvOWwIWw7ezUuWJGGnqFBuFh9CPkMPo5M+7sGTwYjkCVSoOrGzgtQnhzdTFjXuj/Vym7AD09NncDE051ywI7doyygPhJyclaY+4AaUK/bGg5SiOIiypwlfKckb5PsxJh3KGpFjugnGiYL5j33dhewJ8o36KK9/kkmCNq6MZo/512PNHhpneMYcVFaLteJi28nVqkTD7n0HRNE=;xDtAZdk/4Twhqs19GP6Brg=="

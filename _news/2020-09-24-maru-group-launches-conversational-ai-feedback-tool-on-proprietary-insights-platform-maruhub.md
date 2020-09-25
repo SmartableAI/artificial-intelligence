@@ -39,17 +39,6 @@ related:
         width: 300
         height: 222
         isCached: true
-  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
-    publishedDateTime: 2020-09-22T08:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Basware Debuts AI Tool For Accounts Payable Automation"
     excerpt: "To automate the transformation of machine-readable PDFs to digital invoices, Basware has rolled out SmartPDF AI in the newest expansion of its SmartPDF offering. The tool uses information taken from past invoices through a cutting-edge machine learning (ML ..."
     publishedDateTime: 2020-09-22T21:31:00Z

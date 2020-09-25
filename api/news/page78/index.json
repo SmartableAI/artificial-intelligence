@@ -2,6 +2,184 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
+      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
+      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
+          "width": 555,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyShow.com",
+        "domain": "moneyshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-new-machine-learning-features-data-integrations-and-upgraded-classification-engines-available-in-grooper-version-29.md",
+      "title": "New Machine Learning Features, Data Integrations, and Upgraded Classification Engines Available in Grooper Version 2.9",
+      "excerpt": "The platform combines patented and sophisticated image processing, capture technology, machine learning ... first solutions in healthcare, financial services, oil and gas, education, and government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-machine-learning-features-data-integrations-and-upgraded-classification-engines-available-in-grooper-version-2-9--301100876.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-map-out-financial-crime-with-machine-learning.md",
+      "title": "Map Out Financial Crime with Machine Learning",
+      "excerpt": "Discover a smarter risk based approach to fighting financial crime, powered by analytics from Oracle. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oracle.com/industries/financial-services/aml-and-financial-crime-compliance/machine-learning-aml-financial-crime.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oracle.com/a/ocom/img/cc01-machine-learning-graph-analytics.jpg",
+          "width": 350,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oracle",
+        "domain": "oracle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-darpas-mind-controlled-arm-will-make-you-wish-you-were-a-cyborg.md",
+      "title": "DARPA's Mind-Controlled Arm Will Make You Wish You Were a Cyborg",
+      "excerpt": "Pointing to his robotic fingertips ... The life-changing impact of DARPA’s mind-controlled limbs was clear after spending just a few minutes with Matheny—as was the fact that we’ve barely ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mdbscxrgplrpbvjpx3dq.jpg",
+          "width": 800,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "publishedDateTime": "2020-07-28T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-future-cars-to-integrate-advanced-healthcare-systems.md",
       "title": "Future Cars to Integrate Advanced Healthcare Systems",
       "excerpt": "It is understandable given that driverless cars ... It includes investing in the face recognition Artificial Intelligence (AI) startup Deep Glint which will recognize faces in 3D.",
@@ -927,191 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine.md",
-      "title": "MIT develops machine learning model to quicken release of COVID-19 vaccine",
-      "excerpt": "OptiVax tests potential vaccines for efficacy and population coverage, then designs vaccines for testing, all with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/02/2fe5b8ac-05e6-4864-af5e-53a826a43cbb/resize/1200x/61d45b868cfcaadf844b70cdcce59491/shutterstock-1703465413.jpg",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "publishedDateTime": "2020-07-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
-      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
-      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
-          "width": 800,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "publishedDateTime": "2020-07-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-bird-identifying-ai-could-put-an-end-to-leg-bands.md",
-      "title": "Bird-identifying AI could put an end to leg bands",
-      "excerpt": "If you saw a finch one time, chances are you'd have great difficulty picking it out from a large group of finches later on. A new artificial intelligence-based system can do just that, though, potentially making life much easier for both biologists and the birds that they study.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/bird-identifying-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0ce9b3d/2147483647/strip/true/crop/3360x2240+1+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Ffc%2F72ed33164940919758665930dc15%2F20great20tit20with20the20bounding20box20illustrating20the20individual20identification20performed20by20the20computer20redits20ndr3920erreira.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/bird-identifying-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/bird-identifying-ai/?amp=true",
-      "publishedDateTime": "2020-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020.md",
-      "title": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020",
-      "excerpt": "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020 Drones and robotics sensitive",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-1029434905",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

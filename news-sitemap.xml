@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25</loc>
+    <lastmod>2020-09-25T10:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/</loc>
+    <lastmod>2020-09-25T10:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/football-tracking-in-the-nfl-with-amazon-sagemaker/</loc>
+    <lastmod>2020-09-25T09:17:51-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/</loc>
+    <lastmod>2020-09-25T08:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/</loc>
+    <lastmod>2020-09-25T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection</loc>
     <lastmod>2020-09-25T08:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -25,7 +55,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/</loc>
+    <loc>https://www.zdnet.com/index.php/category/2184/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/</loc>
     <lastmod>2020-09-25T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -111,12 +141,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/</loc>
     <lastmod>2020-09-24T13:21:52-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/streamline-modeling-with-amazon-sagemaker-studio-and-amazon-experiments-sdk/</loc>
-    <lastmod>2020-09-24T13:02:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
