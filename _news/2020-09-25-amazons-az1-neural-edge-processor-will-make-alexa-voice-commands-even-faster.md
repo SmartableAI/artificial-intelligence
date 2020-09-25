@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21453205/amazon-az1-neural-edge-processor-echo-show-10-alexa-voice-on-device"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon’s Echo speakers now have spherical designs, on-device speech processing"
+    excerpt: "The speakers now have a new on-device speech recognition module, which allows them to process voice locally.The new Echo Dot is priced at Rs. 4,499, while the Echo Dot with Clock will be sold for Rs."
+    publishedDateTime: 2020-09-25T00:59:00Z
+    webUrl: "https://www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing-11600993678269.html"
+    ampWebUrl: "https://www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing/amp-11600993678269.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-s-echo-speakers-now-have-spherical-designs-on-device-speech-processing/amp-11600993678269.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 40
+    images:
+      - url: "https://images.livemint.com/img/2020/09/25/600x338/ecospeakers1-kPEI--621x414@LiveMint_1600994637931.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Amazon builds custom AZ1 ‘neural edge’ chip into its new Echo speaker"
     excerpt: "Echo smart speaker with a custom-made artificial intelligence chip for processing voice commands. The Echo is the flagship device in Amazon’s eponymous family of smart speakers. Since introducing the product line in 2014,"
     publishedDateTime: 2020-09-24T21:26:00Z

@@ -77,20 +77,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "What Most Alarms Portland City Officials About Facial Recognition Software Are the Faces It Can’t Recognize"
-    excerpt: "In Portland, Big Brother can't recognize you. It's illegal. On Sept. 9, Portland passed the first ban in the nation on corporate use of facial recognition software. T City Council passed two bans: One stops city-government from using such software,"
-    publishedDateTime: 2020-09-20T07:15:00Z
-    webUrl: "https://www.wweek.com/technology/2020/09/20/what-most-alarms-portland-city-officials-about-facial-recognition-software-are-the-faces-it-cant-recognize/"
-    type: article
-    provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 21
-    images:
-      - url: "https://www.wweek.com/resizer/BRswZV01AHrE9tTAblNC841jLME=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/09/19235121/WW-dance-to-protest-169.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "l5d8G8U/JakIbc3oXHEYCcbDQBLhl3uSqFaEPZbpBrcdkcL6X6BhBgKSuIlmnoC576uwBgRiqgM3OMJvxq4lhqHHMiRnM/eNnRLHoi+i/BcBU6VsGqcwb8jjd2kX7kZmPSRe3vTmSbkpGfkin/wvWnXpsMRgKZGWRzxQacIaYZeWBs7piLWpUsaGQB8Tu+A+cK4G8jCYMHvtDW+Oyl5L7jlBCW/UVSeX22JXZqCuzXr2OoiCJL05lSbNBfyTRm/qHCopI7sZ0Q/VIAQKQnJ+jG3//6bt48XEQ+cz5YpReO8EJH2QDKs+10hQzxGiChNsicUGTHVvIBuc5rNcttE3wQ02VSvTp/FgTXim9wn/saKrloE2e3qLPFG/YB/1w14W8T4Pg0jFylZ1YlXr61ZrTV2qahA1cjlJN+xlZ31jO/Ceu0Py8u0XzmNCrFAnL7rA7ygMRabdG3hsLKAdROPmyiOcJRMRKIgcfvbhtSJbY8kl+i6YDf8ytspFDdl1l44iVYYT3/ZkmcrK9W+nGixH9w==;Z3BPbqi6R179BG5RHCR3ag=="
 ---

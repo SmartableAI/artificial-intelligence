@@ -20,6 +20,22 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Amazon's vision for the future: Cameras flying around your home, and in your car to record police stops"
+    excerpt: "Amazon unveiled a bunch of new products including many with cameras in them. KUOW looked into the potential benefits and some of the security concerns."
+    publishedDateTime: 2020-09-25T00:59:00Z
+    webUrl: "https://kuow.org/stories/next-year-amazon-will-sell-flying-security-cameras-for-your-home"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 8
+    images:
+      - url: "https://kuow-prod.imgix.net/store/624fde12b37b70d764eee96e46756778.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 1116
+        height: 628
+        isCached: true
+
 secured: "dTl1N03CPRDvv0Se0myJjG1Ng0t5SNrHv1npeXBDlUxvNYJfeH3COcDuovh/x+LfVOQzyYrFUluyZXwIXrkpnk6dxWCz3cvrOs8c+WCAZE7Scwg8rUGiC/o1oZ50pAQDLFboX7ej7i4wHx51Q75KclM/Hw//Ig9OmgfPqVQvmvt/GwwkecP7523kV0wmMtveOqcyoUvvZMzS18GDE8zSY4W6bY9xRD3ijD2sy/kP/N42wPcrJgtEl3R8JsN2nKh1656w9uFNcEzFjsQu8HN2EJJGqffcWTD08Q4OdO80yfMB3FRGajspk2oZ6sRD3KLUz2mL3urirUV+pSX3KY/Ae2XVxLAT6HBbYvFNrR9HqBA/FHoLmTINnWbPD3zk7MVQxcya6CuSc+dnwvFoCUOVXZkxiVXCmAqaIg1GwCvt50tJWtRYNs/7sl9HhVofUQhsYAgoK2rTBM268PZOO4bSuJEqX+OiLeMvmFYvMSKM1m1EJwupbJYRB/5vzCrWBsWPCYvTQVHs+kM7usvTAHWGpA==;q31bpZVgWyt8dpLQRb2AeQ=="
 ---
 

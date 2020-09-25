@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Baidu rolls out self-driving taxi service in Beijing"
-excerpt: "Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially.. Read more at straitstimes.com."
-publishedDateTime: 2020-09-11T05:27:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
-webUrl: "https://www.straitstimes.com/asia/east-asia/baidu-rolls-out-self-driving-taxi-service-in-beijing"
+excerpt: "BEIJING -- Chinese Internet giant Baidu recently rolled out its self-driving taxi service \"Apollo Go\" in Beijing, with 40 autonomous cabs put into trial operation initially. Passengers can hail ..."
+publishedDateTime: 2020-09-11T06:01:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
+webUrl: "https://www.chinadaily.com.cn/a/202009/11/WS5f5b0ee1a310f55b25a82027.html"
 type: article
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: China Daily
+  domain: chinadaily.com.cn
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/09/11/af_robotaxi-apollo_110920.jpg?itok=ow-1R7CB"
-    width: 763
-    height: 509
+  - url: "http://img2.chinadaily.com.cn/images/202009/11/5f5b0ee1a310f55b18dacf20.jpeg"
+    width: 513
+    height: 342
     isCached: true
 
-secured: "GuLfH3EEVSP2L1015C3WSsN9M4OAkqMX96HGF7YYwNZoXzIr7o1ccHrE71ZMWUaEa1HQY3ORVJs0vmvMhnkX0lUjcdUb5BlKYwvgLo2GwbphefHW0/NVGUPzfm/C9rWuu5NSEYo7+GhbSzD9IU6PZdkBgUkXzSBFqIRGh7f/aOmNVafvMewOaV2SObFM0YteGA5q2J+BdfFr57sZ3cSiMFVxV6k4wkS4B6lYqSdvBgSEmf/BvZRpgFW/OhvrOhk/mIXxPhmdd0k+VWNL5TH7MsQimteV+lfDuEAh5JwqRwLBz4aXAQRzsrPuY7fc3/3nsDbivitbUkpy3Y9LkEjpYAJAO/lmsU/SjxH2tJ40LLo=;k0RJljq8vc0mgz8/KF7p7w=="
+secured: "RuweBK1gUjAYv01zVzgTrAjirf4+mLwCEdXgRSqamLiMuTznNxf1kGxnTwv/b/tjHF89x31PCxAmrkWolw9syp4UoSfwDS2OKP3OCmliARa2SezUdYprTL37BxYXB1PMHsCY2KwWMyiMUb15Vy+a3HheHBrv0Z3M6NLwFRaC8WBCCqE+z79gXjPstU/GlgRVSv4YCDDx2fhSQYNUkLZ67pHv9vWsVOXi1V3OSPknPsu8RwC6A0XfLL1aa2/jSmPmFP2mjB8EMXomhsX679Vv3s5BpS5rGQRT5IwxA+xWbphVx0c3ELUFUsYcJ7sgg4PZNUxh3NuA/qVf/fposlfYdzWJFVY74xdjp2PXw87TECY=;JK+/XhI4JVyPOJziFRpAPA=="
 ---
 

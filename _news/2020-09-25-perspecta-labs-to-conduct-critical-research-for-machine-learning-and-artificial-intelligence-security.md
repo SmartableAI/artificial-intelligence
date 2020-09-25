@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T22:52:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scientific-ethics-artificial-intelligence-computing-and-information-technology-a1800b8879fd9ba3b069f80f9388e1cc"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scientific-ethics-artificial-intelligence-computing-and-information-technology-a1800b8879fd9ba3b069f80f9388e1cc"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

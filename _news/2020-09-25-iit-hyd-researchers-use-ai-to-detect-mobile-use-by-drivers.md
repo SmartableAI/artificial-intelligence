@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "UCSD researches use artificial intelligence to predict loneliness in older adults"
+    excerpt: "SAN DIEGO (CNS) – In a paper published Thursday, a team led by researchers at UC San Diego School of Medicine used artificial intelligence to analyze language patterns of older adults to discern ..."
+    publishedDateTime: 2020-09-24T23:35:00Z
+    webUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/"
+    ampWebUrl: "https://fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/health/ucsd-researches-use-artificial-intelligence-to-predict-loneliness-in-older-adults/amp/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 52
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/09/GettyImages-1199677896.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Researchers use artificial intelligence tools to predict loneliness"
     excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality. The COVID-19 pandemic,"
     publishedDateTime: 2020-09-24T20:10:00Z
@@ -56,6 +72,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/gEDlgwne98Uta3S8vCXS7nQTScDkuxQlDiJ0seOi+gwiJlSjAlPC+iZ2AUTbOiJBtGBaJnCL3Vv5axYMXUotaMDazuJx3lr7R9qcpqSkVJ5IuX4lP4kEIA2psbtKN0tyDN8Sy11u0FjiOV/UliXddwqyHGl4q8sM3sjHei7fQ+UHlmTaFcj+oEDArfzIFlDkrerNhr6AbOg5Pnl0UOfOlXfcfiVVoI8ld2iT46d2QjYoymNg6Y+0o7dILCFZVZ9trg+qVi9OfptRPYmFXlEbX4Zf839jLdMegcCNmqgCZGWMpcUeE0YFYGqRHwPVk9BRRRjPNxTy9ezRC20pk6VdhbtWZsvt5eqBCr+e0g01z8=;dwDO2ej7M3pxbFxjGj0/JA=="
+secured: "SJGU0r+7Fd2yG9pmmQbb1/TaR8GoY3/bIZGXMDv277Hr7HJLrrzhWr7P6CEA6nJelwb43Q2c+OyPDQVF5hcUq9pYN8uAR1cI/wJe0w8yPektUmytrbtRpEEsNbmpZqFUlmyYVPHHYz6DdL7TWcGoQpHR3Af8AQ52TpZu2YK9b/khQPefKfEntm14M1eX/4B333xklTThShQRJBGQ2oIHO1qsJRGz8l26GLSr5+7c0MaxrZgSWUEHk7ZUitDuL3y3ekgTjZf/d4xQc+oR8v4XjKeFoSq/hsdmJOUNq8XG3vBQAFGQVuYbSyFJShbtBavj3cxW7Hdo48ipSpHfkRWOI3WUVB4RP+TbBaqxr5Un92KtjnQc1ImUaiC1WBUddpGMnbYlaDYxvCguuATr0SNa68LA9mSZuS9uPo6/hLgI/mqpw0Z3HJ+umASbu06LLkRLyTmz2KmwIBLPaoZf1InTN/LnemSgR8kCvrEqgKI5tEzyNVVc8E0VIQ88v/ib2bWX7VIPbJJy8mi/JBXgK+eIvA==;4rGoi1MiMHgY/F1aLsDkEg=="
 ---
 

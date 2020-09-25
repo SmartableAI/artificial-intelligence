@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-13-how-to-teach-artificial-intelligence-some-common-sense.md",
+      "title": "How to Teach Artificial Intelligence Some Common Sense",
+      "excerpt": "FIVE YEARS AGO, the coders at DeepMind, a London-based artificial intelligence company ... It controls Alexa’s discourse acknowledgment, Waymo’s self-driving vehicles, and Google’s on ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
+      "originalUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-how-proquo-ai-turns-marketing-art-into-science-to-power-challenger-brands-to-success.md",
       "title": "How proquo ai Turns Marketing Art Into Science To Power Challenger Brands To Success",
       "excerpt": "In a commoditised marketplace, it's your business's brand that will determine your success, believes proquo ai founder Nadim Sadek",
@@ -1130,39 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-portland-bans-facial-recognition-technology.md",
-      "title": "Portland Bans Facial-Recognition Technology",
-      "excerpt": "Come January, private companies in Portland, Oregon will no longer be allowed to use facial-recognition technology in stores, parks, and other places of public accommodation, under an ordinance passed unanimously by city lawmakers this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/355607/portland-bans-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

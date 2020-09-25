@@ -8,9 +8,9 @@ webUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-p
 ampWebUrl: "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
 type: article
-quality: 68
-heat: 78
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -21,26 +21,22 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-    excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated closely to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the specific requirements of the logistics domain to build this ..."
-    publishedDateTime: 2020-09-22T00:05:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-9317528"
+    excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated closely to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker ..."
+    publishedDateTime: 2020-09-22T00:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608850"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 28
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
-secured: "C1rBWzDKT7eKLDbZLLha8et+ILLAwoiiiO4yRGNxHfMTLbmkvlptLfcDlEQtaCcZiworpdJi1uwq0vhOInr+9vM0AobsVIh6lrahtY6fIP30JdAhAxYqUEwbaAOP7ocnR6BGs577mqjHNkCsyN47lb28KoOWLVAL8vDLyfDsIbICaFnwrZ/YO+TucMHwO4OKhDgHp8K3/GoL6atqJY+WvziBbg5hvyv2vLTHPfF9gXdmyCxX8LtPKO8LHKO3LhD6HaY7RL+x7fxYlorFuqU98Ez/PjYDzMuAjWpKIeSQ8KZrVqyeFwNFx3VnB3i1UX4NbywO8QKQT6BiHb2Fxi3pONW2OP662xl6eHXKtJbH8LI=;nLNrpDmQz7Zoo7JotG3jrQ=="
+secured: "eCjMdmfn2SKnI1IsbgYht6LoaJS6jtW8g7n4Wu6DRwfUftkGAoeXobnJ42PJs5YzAq/2iZjen4qEpn2e09TcI+IUf26JaJ6l5G/BQ+dzNJqg19KHgyxI1P5FA1Zpl4VWSt76vZvRJ2Vzgj1jwxQqsOAV9BCTuGF0bQcsLqv5Z3nuA67ynZ5VPNWvKTl4khL/bHMW8S1EwUunaV3wp5Ga2YzLTvhzhfP5+p9CUNj/Io3jxddppYjzY6ynYjUiScGk6pNAyIxSwuV2UMZ9lHjTOj1JzhesBchhGXJCqXFnTikCnTw7w8diD6+khCR+OIAuyXUYRI/5ffiqmchaISH/KVpP9N6N3g7t9a6d5ypEZkE=;p+EvMGSpH1k2/aIRV6wxxQ=="
 ---
 
