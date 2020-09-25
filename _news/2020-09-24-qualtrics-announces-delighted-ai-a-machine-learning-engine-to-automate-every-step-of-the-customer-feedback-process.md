@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Qualtrics Announces Delighted AI, a Machine Learning Engine to Automate Every Step of the Customer Feedback Process"
-excerpt: "Sept. 23, 2020 /PRNewswire/ -- Qualtrics, the leader in customer experience and creator of the experience management category, today announced Delighted AI, an artificial intelligence and machine learning engine built directly into Delighted's customer ..."
-publishedDateTime: 2020-09-23T22:36:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20200923la35166/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20200923la35166/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process"
+excerpt: "Qualtrics, the leader in customer experience and creator of the experience management category, today announced Delighted AI, an"
+publishedDateTime: 2020-09-23T21:42:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process-301137074.html"
+webUrl: "https://www.prnewswire.com/news-releases/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process-301137074.html"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "+whGiw1JwOU+eA/7fNHONxD4xnWQdpJ5cDd+DRWJg6gbQCZMFJa9JRoC+qvafjqsHRsYcPJWINzq3sBrx1HfB+Je8HZ8plwTEwgIeCCKTYcjbsV5m2pdysW+IRQqSGRbHRUiPdYZNdaGca1dnay3uN8CvOL8+g3v91TWyZQb60xZ3ocarKy7cFPMeQ7URzDVhLTbcnE2taFYXljuargRUf+sgR55xAMrd+IBHp6hgqtkPRUOdJEy/BLCUq5OlHrl4OEXUSudOmS3lH5JRDd0eLOtxUBlYtaHsXMruxJpnv8KnadQQO7XMeNPA2zNOvmRlJtXk+Pd9BTpwWtOmDdhM+DSHscuDhyMsrn5cFti9nw=;doi9+9rRsE6YRQO5VG1HKg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "ZlQU78N3itWaWhZfuvHSxQZ0FhBg5rwI2bTXE+kY5FquRSftJTEOCTXvtFfIIEiWKLJlAcAU8UyqfyzhINXcHlRff0JIkK7TXhTFhqPMf6aLFEvKHCmoUL3JTawKd4Ou159N4vKYG6th/2WmerjYGm3OJqu9NyWRnn981YiTGU2Qty+Rp8UbIn/L42WSf8/S4lbDzLSgokvTz4RV/7pnv7Ziw3Qzay2zvy/CJ1/DPenr/yWspgHpo0eg25k7Yq6JIkLs6fT+igzmbuHe+eU1eFtdcLEjglTEq60CYEyt48kkDU4Dt9/2TQaulMiJ+6ZHtGynsgAIeYNcFtipTYFMjvYGiWqT1WPhfSLjJuc9G5g=;jNoKHCgRHBW3FmI1fRtFTw=="
 ---
 

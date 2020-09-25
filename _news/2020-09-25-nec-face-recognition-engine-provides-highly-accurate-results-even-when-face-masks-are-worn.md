@@ -1,24 +1,26 @@
 ---
 category: news
-title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
-excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
-publishedDateTime: 2020-09-24T20:27:00Z
-originalUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
-webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
+excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
+publishedDateTime: 2020-09-25T06:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
   - Natural Language Processing
 
-secured: "FkbkLIsri9JkX+BWmHOZ+qG70VGViSx/Ip8H0uRe/pVSWHh12SOPZ/3cdAK1AIVnRhCQcoReSEimkh15Gn1SBaMH0x8yi92SeaSPWEQJDyt1b4Hk3iu6po6tElOWiBBfzZ2cHbRusFFCWTNrJKN6GFy1717BOqxeTkuldlm+OXgkgo8E1YTW8iiIiHzhH1aeZc5KqbdXYMjdoTRmlfRsc8a4TxdEFpdDEdgRcdz0Er7b9juwyEVay286TYffMGjP3T+L6FBN/sU9HxVbPkIojX/tK6gJU5MJ6so3okdDS0iqrNNfIs66/GfHsLjzO2Id4bPm4fM9POftYzPF8XltSBkS/PjnHnukj1Un6UfB0P+sP6ylalKgEAjHDaaww6KM3JRs4y7MGOOP6BZ9SByHUCmb2xJrS3VmkzCY7m4dNUFSx2vafH7odRgZAhk+traZrsDnyr8MWzo7j0P6D3Y7eQapBkzHMGEKVNZoBxY8gt9nqo4BxWtl37f2UE2psHEZbbbFQdrurjeePz8cxeBScQ==;FutnEMrS7gVGvpmKnaQNNw=="
+secured: "UhqkBoxnval+a63qMSq0oeUNl2Y2bWGo0gJOrrnJOQSpHtxLLH5u52+lfFRRIS3NY3Cvtp21YD5uUvawB1LjJ3vjma083sDesA6AQkiBCwRmtOJODzUa0gl0e8ZCLCzT5qnnVAOM9IoXdGO3FAEqNbD9qh6P2VJNtcSXcACXll95btx2LiZX/vkiz+V0wXYiRJ28JavHY+TlyUhiyRv0dZ/qX8p/QtyPfKUSbtObnv6vGmN7w1OsyTk2Go2QUayh4rTsZ6NEklRNSZyD6dmv+Cf/i2FtpsryVxvo7bbFLMvN7KGLQ2nKyLXkdqBvji6pYPyIaYzN8qcqSbOe1+v8w0JqeEh/LU6c0VPM+GWOr8E=;aB5YXgHlXpaJXInQ+g/i5w=="
 ---
 

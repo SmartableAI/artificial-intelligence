@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T07:00:00Z
 originalUrl: "https://www.mccormick.northwestern.edu/research/deep-learning/projects/iot.html"
 webUrl: "https://www.mccormick.northwestern.edu/research/deep-learning/projects/iot.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://www.mccormick.northwestern.edu/research/deep-learning/images/projects/refit.png"
@@ -24,6 +25,6 @@ images:
     height: 438
     isCached: true
 
-secured: "gCLTHa/cQAe3U0AEgokapjaHuSnYIQnjZApRv05Y+4NLy26yPvaqZkXl5g/xmVkV/jZZd/bwjPS4Ipw4UUs3Cidg9a7gUpMrEOQrCEmd8Y1+RqMgGlcuCH9A1BEgawu7o9OIwTCC91Nl+c7DSxN2IHCJnLYDgCwKAAzie4u/6xJTRTjFPgK8sWAv2eQLjRi3tUnGOZHVn4ssmaqxghELv4FD8L/phAqMcXKkaPX1zExdr/6HCUtVqbXlLACUMrzRmBBlYl5RqimWihjg6yIn6D72SNP8+JRGUwdVzMxLHukDXP364oq/CwmwlI0F03Q4EKjRCh4PIK+3Rkg2135bnzs3BbafLxbcjas4Nw8QkzE=;orc/fphTuMmO4RJPkjueVg=="
+secured: "aAIB/Xv8X45MqBF/deezKDJdXD666dVexkW8B5y0U+5Hz3rdFieqEJQyI1uPH/BvUfRlM5ZiU63SRq7O64YtTft6Tv9zwLKdAzlRVNWqWMY3H5kd6BaMkyWgqszkzOCEB7xzffC1Eenxy6oO+M6a2fu4Wfp4SjH3sMN0r0CZ+oHZJyAhXegWUlOR01+vtNI7R8gUzq/YeT57jFfHSYeGvzYDPn3SsViN/kYt4Z4ywLj0b9WSIKB2k1ZAryyGkbH/IRkpeymNKDPpJKykyiQuC2kHgJ8IgzeLO1ehhSOAVLdUfMc4nxWLRaqeROCMrFVjniBpazYp23jiNMO1mzw/1JrQ8B5ZIrT9OBKPvUocorIvEo41pf9NKBNsne3FJu7mcM/LMfwgwXNCL3UrDK10eEs23AxCSMcWdYYmpyBHY3IkQj9kz5SHgsvoIhl8fwnZSgVfbkoplrzPNPJgRDQ090soQwDoPMYAczWxbugZshmhe13DxHJEAk8/e1Zyl+fKXtyiUhzWvwMa6SJaI2xAIg==;khYNfn2mtdi7igcg36mUYg=="
 ---
 

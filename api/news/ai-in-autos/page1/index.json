@@ -393,6 +393,39 @@
       ]
     },
     {
+      "path": "_news/2020-09-20-new-self-driving-truck-unveiled-in-china.md",
+      "title": "New self-driving truck unveiled in China",
+      "excerpt": "China's state-owned truck manufacturer First Automotive Works Jiefang Co. Ltd (FAW Jiefang) recently rolled out a self-driving heavy-duty truck J7.",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "originalUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "publishedDateTime": "2020-09-19T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-driver-found-asleep-as-self-driving-tesla-car-breaks-speed-limit-cops.md",
       "title": "Driver Found Asleep As Self-Driving Tesla Car Breaks Speed Limit: Cops",
       "excerpt": "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged with dangerous driving, police said.",
@@ -1379,48 +1412,6 @@
         "name": "NPR",
         "domain": "npr.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-to-teach-artificial-intelligence-some-common-sense.md",
-      "title": "How to Teach Artificial Intelligence Some Common Sense",
-      "excerpt": "FIVE YEARS AGO, the coders at DeepMind, a London-based artificial intelligence company ... It controls Alexa’s discourse acknowledgment, Waymo’s self-driving vehicles, and Google’s on ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "originalUrl": "https://medium.com/@mattrahro.b.e.l.h.9.6/how-to-teach-artificial-intelligence-some-common-sense-aa78b28c0562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

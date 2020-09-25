@@ -193,6 +193,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html</loc>
+    <lastmod>2020-09-24T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/</loc>
     <lastmod>2020-09-24T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -207,12 +213,6 @@
   <url>
     <loc>https://www.beyond.ai/</loc>
     <lastmod>2020-09-24T04:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
-    <lastmod>2020-09-24T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -757,6 +757,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmynews2.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0</loc>
+    <lastmod>2020-09-20T17:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/</loc>
     <lastmod>2020-09-20T14:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -795,6 +801,12 @@
   <url>
     <loc>https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043</loc>
     <lastmod>2020-09-19T23:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/</loc>
+    <lastmod>2020-09-19T22:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1341,6 +1353,12 @@
   <url>
     <loc>https://www.news-medical.net/news/20200916/AI-and-machine-learning-tools-can-help-separate-COVID-related-claims.aspx</loc>
     <lastmod>2020-09-15T22:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html?_escaped_fragment_&amp;_escaped_fragment_#!</loc>
+    <lastmod>2020-09-15T21:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

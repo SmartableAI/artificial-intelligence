@@ -43,54 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft exclusively licenses OpenAI’s groundbreaking GPT-3 text generation model"
-    excerpt: "Microsoft has expanded its ongoing partnership with San Francisco-based artificial intelligence research company OpenAI with a new exclusive license on the AI firm’s groundbreaking GPT-3 language model ... research work and translate it into real ..."
-    publishedDateTime: 2020-09-22T20:23:00Z
-    webUrl: "https://www.theverge.com/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ni1Mz8B9Jaj7Knw_mBf8gkHOjus=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67451151/acastro_180226_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Microsoft nabs exclusive license to key AI program"
-    excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
-    publishedDateTime: 2020-09-24T21:38:00Z
-    webUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    ampWebUrl: "https://www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/microsoft-open-ai-gpt3-0772052d-500c-4c92-8437-33c8be27789e.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 74
-    images:
-      - url: "https://images.axios.com/-s4Z0o3uapK9JUUBb31sF3c9dfc=/fit-in/1366x1366/2020/09/23/1600873770588.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Microsoft acquires exclusive license for Elon Musk’s largest GPT-3 AI language model"
-    excerpt: "Microsoft is expanding its partnership with billionaire Elon Musk’s OpenAI as it acquires an exclusive license for GPT-3. GPT-3 is the largest and most sophisticated AI language"
-    publishedDateTime: 2020-09-23T05:36:00Z
-    webUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/articleshow/78269391.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 67
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-78269425,height-275,width-412,imgsize-101751/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/vs-3.jpg"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "JrPZ/JxqAEv2GhysQQwHwI+Mtue1+3/1uUWxmckRaz6IYxBHAkAUUbJ/YeCh/p4phqc5pTWY2ctrxtwqGhtSdjbHi95yZiY4weTK2Z0InmJaW0YlDA7AamhFs7IhK0dla2xlqndKly2HNReeYd9ti1CL3jFNkyGFQgbhXEiuK8fm+V1HZGoNFx9eL3/14g54byEOSeVVJSawlXEGVuSpZ7KgEabDIegDBrfoLRLNcCnwbMWWrkNOk0iOrxk6indluZCsJKZ1Zi+K/cyX0Vlluf2ICjnzWPxQebTNNBteTlEeRq6joZ09aPSs2FMDxWEzbf9QlfWXHBD/4o3VoHdaCw3tby1/XjZGQFE33Axij74=;dF0wRAm/tbFmsVhm8raQyg=="
 ---

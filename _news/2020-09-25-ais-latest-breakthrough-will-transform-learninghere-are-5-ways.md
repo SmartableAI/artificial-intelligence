@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-lat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ulrikjuulchristensen/2020/09/24/ais-latest-breakthrough-will-transform-learning-here-are-5-ways/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Next Big Breakthrough in AI Will Be Around Language"
-    excerpt: "The big breakthroughs in AI will be about language. The 2010s produced breakthroughs in vision-enabled technologies, from accurate image searches on the web to computer vision systems for medical image analysis or for detecting defective parts in manufacturing and assembly,"
-    publishedDateTime: 2020-09-23T13:10:00Z
-    webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    ampWebUrl: "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "iBZwpRIwKmNogHB9wnd9ECzL7IfEzuMHr/dFf4m3fvOucnXWDU3Y+e0sdQjH/+lU7zV0+TbslX0Zx/X84vp9Ig/0OvfGFk1+C3sqEL0pneI0OZHzXY5KY6pyEWP3MuuznTpQPWbmh6rv1Skb1C5kk085iveBygTKoq/dDdPJjvZWAANJoB9ru2qXviUci1mlkhOL2g+j+PCEYfZ4aD8pLoxFcG4D/GYaYLS8ElzZI5OEKFii1ArfwZQqcz6beiVLCkbIF4hna0CRz8DvG7975F1YWoF8xcR/9Pwu1wwSGYH2RpyIo+47qPGJLeA4deBnS/+ZmUsfFmF8WuL8gzLVavCTEsNpHJTn/9m7GNAdI3Pb4flCntA5jd4QmaQZJ4F3/4KHntDOIcKJaM5q959qyOIzfwBXsym+OO8cTXBbmxzAr32ODvqM8PWpo2JhYkKYJbiWsmMVvtD/Issq63CzbJlKo8rHcoIUnTzyvg9FtwonfzgwVh248cqBpFE0ol3TVnyapiq6IAncJUZD6l47dQ==;JUGOCJIX2CnJdIP/DkSgdQ=="
 ---

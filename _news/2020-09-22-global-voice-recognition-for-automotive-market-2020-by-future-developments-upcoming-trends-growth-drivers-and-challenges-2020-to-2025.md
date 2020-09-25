@@ -73,6 +73,20 @@ related:
         width: 500
         height: 415
         isCached: true
+  - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
+    excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
+    publishedDateTime: 2020-09-25T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "va8Ae8Jq4ULsfc/QKuQ1qQqH5NOIJPe/kMjZVl1lJv5st0tJOoeRvWqVHajjQCoN67dBQ15OG8v6jT7ubMFMwNAsH3tIH81Ybu3idt6M/WGKSHdgGXs0BDxHxUwJXiskjACIWeO7Q6FkzUU//n2ipz9i+L7otYjsCVO07os2P0ub8OhyEdVw9t7YLucKEqNBMJe2rCjb/SWLLfPM+DF3V7UtLjoxElwhnhoOKqspqivk7Gx9A3CyO7gexx9auF1TitR+Uw/BKKslJE55T3eob1DrduBUsklhLCmdpl609ZzTL1DKN3yapXpkUGy2UQ5gWIAGCp78UQsnGTZ3PGHVnka3XvFuLnvzDjCzpVEkFpk=;YszIAgp5V2PY/nfyrAM/Kg=="
 ---

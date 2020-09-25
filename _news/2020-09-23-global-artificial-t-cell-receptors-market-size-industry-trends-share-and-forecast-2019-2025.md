@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
+    excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
+    publishedDateTime: 2020-09-25T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
     excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."
     publishedDateTime: 2020-09-22T06:55:00Z
@@ -70,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "78cgTNG07lNDkU0zkiq84OviSINSxQ8FyDk8NAKKezjzQQjWTpq2bKbP0cElN/0spHxJgsMrZE5dUR4rz6Bpzt5Bg8QMXF7nkHRKAljO0yO4bvoRt44Zd4k4Zd5n1mCd7fXRWQIs7H2UfFJjQ17b1pyja7w/yb8HI3bslDM+Lr1cHQSh7AScri5ehaEQliH0QrYdMCV4mXhCnyDVCx8Q8YKOmgqNROFjjrriKCJMOMc1aOQcJfcCJVYJNyL/cNfbexw4MJXlUrRbhqH4zed5cO7Qo9y9RLPTHPqDATIkv4/drlSACkdUzvrxDKNws35qyxw5buP/y03Ku+ZXj1oiyJC1w8pdY6eoonuBQZwtJw4=;jqUgq8nnlK6ODhYTjSE0QQ=="
+secured: "ritAv8hS9c7tYHXjpg5fRgPU0R3qPF0XA0FfLu2zDIBr8g9ATBLwNNHIxJOlpHQ4gkMC1SqZ2/4siJCkVuQr6GjLY84YjwMUJxf3CZ/CzTPQdhv4EL8bvmKiiArIXxxI8dGBj70cL9SeYl4g76avnh9h91hnAPrgbP79/wRtbJY3UqH389tBE91PuoIZvOxEjJMksA8un5+201ybKiKGaW+o6fP0rhLchB2FarKIIRHwGZMTz6KShVWicWhv26J0Xt2HvqdTBP7XKsLqwbq4x1bYWgzSqKfoG/TaE7VybCAsKhWC1Lz800ELciDcxHWgeQO8TBcP8t+hyQc9rPWa2plCWpT5aQB0JXhEL69BcfHjR10Qtvkv9wKXzR16SXb3ieL905Aiw9zSxFFu9Fnfij0FOevAqseJdhPfXnJANVYtjuK8+yijUqDM4ZOemIvIlI10JZZhqt4SM+r2Qc7vZDzsFEGgGU+3+X5KVgxMaS2hEdrCpeHstq7ZIaw4xjN5Bxy7u+IiKK7HaeAcuGeCLw==;GhWZbbEbXwfROK/U85wXKw=="
 ---
 

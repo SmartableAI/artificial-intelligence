@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
-publishedDateTime: 2020-09-22T15:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+excerpt: "They can be used to handle analytics and to do AI processing locally on the devices. Microsoft also is announcing new Azure Arc capabilities at Ignite this week. Azure Arc-enabled servers, initially announced a year ago at Ignite, is now generally ..."
+publishedDateTime: 2020-09-22T16:49:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
 type: article
 quality: 102
 heat: -1
@@ -215,6 +215,6 @@ related:
         height: 432
         isCached: true
 
-secured: "lq8dETE090szSREuNs0rw6+tQfWrhrbG/Lc6iPEX5pUjHLNfspOboH3N1Lsnh5trliRvEYv6Aktk5FY9gb4rPEp0OJGVYjg7EP9S/Vmg5xGnrDdZe44BFW0UblMYhZPh1si+5vqrtfWZeyFOMr93/MYkvD0V3Dnp72W96lH38JwwrmNui5uGEYHXfm8weVmiICmzb3n2gRORkmtYhpfc62xHPeU/fWIySe/2ilJfUipExKi6B/gM9b/SucO7NlaEYWZ4TKfrKbTOJ9N1vRwYLYK8Tbq/KUCrcTVjmOMrfnf9Mx4xVr3TMgXkPwAeGqflXHHh0McHK6BKb688MXDF0odV5tGARGdMjRccTWikyUA+4Ha0ZbPWahh6+/9cV3RxlAjshyCar4RYsFThjRWM7+x07rXPpJpTcDDL3gGa4DOJEVp6x4PeoDHdek8h5mEKgWMCvYrG/dTPnjXuTH5/wYwCChXUXXPTLNESMPrsf4kV5gKQlzmpocQWJyCnO46zbF/G+VoPo4GSFuG8zN7Xug==;MyneTUkLVkPr4oPMFNQlNQ=="
+secured: "adNcv/x4xnvi4mlMCALeL6DM31UD2aMdZn6Dof8zwHpBCHYDqQqk07aABPw9yA4qGmrftc7r34rXMF0Z59uzO8hCdIGHEG4AabVfGWOH6Kw0RxChvYZEtm6FoYKuBU5x5RncBoDxskRW6GD/ZqvCrOp/H30x4M9DrGyQbYtT6fHhGAXrVHX4g9mpgzYymzxkMTlgxruCFHmNF+V6cW4c1HUuJ0JwU3snxDNwbpaP6XyhD7stETWGqaeXPgnRfx5dGY6bDN6QNPu5ryJKhR94Ii967zdTWV5fl0f9VfeWOzP2GgqLRDkksWjxl+afqJ0OeWKVX7HhpM2POGKBQrL9J6PgVV6tOAZ4iL5u5BlQjRQ=;WLCt8TN4lIrk1dBG7jG9Bg=="
 ---
 

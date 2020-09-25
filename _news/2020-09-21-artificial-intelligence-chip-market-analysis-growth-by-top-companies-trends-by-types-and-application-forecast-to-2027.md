@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At CAGR 36.2%, Artificial Intelligence Market 2020: Future Challenges And Industry Growth Outlook 2025"
+    excerpt: "Artificial Intelligence Market is valued at USD 23.94 Billion in 2018 and expected to reach USD 208.49 Billion by 2025"
+    publishedDateTime: 2020-09-25T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-cagr-362-artificial-intelligence-market-2020-future-challenges-and-industry-growth-outlook-2025-2020-09-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Edge AI Software Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
     excerpt: "The contemporary development prediction report titled Global Edge AI Software Market 2020 by Company, Regions,"
     publishedDateTime: 2020-09-20T20:37:00Z
@@ -196,6 +210,20 @@ related:
       - url: "https://cdn.openpr.com/T/9/T923400733_g.jpg"
         width: 800
         height: 312
+        isCached: true
+  - title: "Global Healthcare Service Robots Market Analysis and Forecast, 2020-2025: Robots Lending a Hand During Covid-19 Outbreak - ResearchAndMarkets.com"
+    excerpt: "Analysis and Forecast, 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global healthcare service robots market was valued to be $462.3 million in 2019 and is anticipated to witness an impressive double-digit growth rate,"
+    publishedDateTime: 2020-09-25T08:20:00Z
+    webUrl: "https://www.dailyrecordnews.com/ap_news/business/global-healthcare-service-robots-market-analysis-and-forecast-2020-2025-robots-lending-a-hand-during/article_72c1d11e-b8c8-56c5-94f7-93f07085c5f2.html"
+    type: article
+    provider:
+      name: Ellensburg Daily Record
+      domain: dailyrecordnews.com
+    quality: 2
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "h049RhWIbrx/X0UH015j7UdLfZo/7QYL11DJAYSdxQ/IlC0GGxu4jIkyF1NTtwz/RcLm8jP5I3cew3eAevoTdTGog3lY+Lc2koP1N8D1KUlvuMtGIVeoDXLm/eoSITS7vHpswPEUpzgd5C9mcgp4p0K+SF2UuLMR6JdTpMDNmUs9F9WQOr0i0d3iFqmSIXlwpBLIVV5S3gLyh+6mlGX4Rv11kuACGlhcI75z0Ur0hhteP/5ctkcQ1qt5YcTVXeK9TrqOTIqn7G32rCKQOdiMkiyzQzs8zUVMSdUuT2m5Ls7UXSuUVxye5xkNXA7bbmy5F021UdFYaDZrMeRasehkkqSWCa/Wrx/E3ofuL+DTFc0=;4iSRmTIiyAexxhaI1zq9dQ=="
