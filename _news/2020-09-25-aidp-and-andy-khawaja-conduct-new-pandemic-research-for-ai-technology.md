@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AIDP and Andy Khawaja Conduct New Pandemic Research for AI Technology"
-excerpt: "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja have created a new department within AIDP that is dedicated to pandemic research to see how AI technology can be most useful in future pandemics."
+excerpt: "Artificial Intelligence Defense Platform and Founder Andy Khawaja have created a new department within AIDP that is dedicated to pandemic research."
 publishedDateTime: 2020-09-25T10:00:00Z
-originalUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemic-research-for-ai-technology/article_081c3fe6-da10-5a49-9840-5245736d1621.html"
-webUrl: "https://www.djournal.com/aidp-and-andy-khawaja-conduct-new-pandemic-research-for-ai-technology/article_081c3fe6-da10-5a49-9840-5245736d1621.html"
+originalUrl: "https://www.businesswire.com/news/home/20200925005033/en/AIDP-and-Andy-Khawaja-Conduct-New-Pandemic-Research-for-AI-Technology"
+webUrl: "https://www.businesswire.com/news/home/20200925005033/en/AIDP-and-Andy-Khawaja-Conduct-New-Pandemic-Research-for-AI-Technology"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/5b/75b16f8d-79bd-5b7d-812e-e500d2af7749/5f6dc6cd430df.image.jpg?crop=1247%2C701%2C0%2C480&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://mms.businesswire.com/media/20200925005033/en/824551/23/Andy-Khawaja-Artifical-Intelligence-Defense_Platform-0925.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "DvvrEvVschSojohNKB/kCgVTbzB5gAV8ZRJCoOyyG9Bg14apmriPNDF9fMp7uTgECtXR5TARjxi2Wg6l8N1iHjvM7WZg4sdlOggrpZ0VNUGC9a/QRfhlbdmtRSvYj9GPpkA9aNlFIoFuwNmvw6F9NxG0Nkm+Nu4jVhhvTDcsNl1P6EaXpSE1t9FqaLdWph6HPZn5EXry0BPHaFmsA8BWzuP+a6KCeYGT3Ot/AqEZfdR5Q76VOxtoDyU+k7ghy1dLmTc1UtsghXYe+NA4NxH1lf3vhpIuE3BZTZxQijkVUDrbFya+CjEOL3xYLjYcr+3c4eUNEVNDYwUa7QTqV7HP1e0E6faNGoRTIvJYKhH8Tko=;3U1SXYLoSCCyTYNx7jotlg=="
+secured: "TT9K/RH+rP7yMjWnGDVI6cKrBFyYnHD70bb0OfumJFq/bf+Xgk+OBzTCb1m7VMsY3QyJFUE7jOb+zqi92zyIkncjYeY6doMjVGBA+x3WR+dxNmh8ZkKrFo+UDAe6VjtMM8vKhf2B3h1pHirBf+W4isqnE76nTuCFk42GXVCUOP4qJxDcfblj1KdXyqZV2adSHcwRgxGiinVT+nF/wfKUmxL4IzSPMwawbXb1222L++YVw09wv7UCfwpNXeHQdrcLtu/pOeNKNsA+jY7uaTcbzyi8eY2AFmnyQi/Ss5y/f/1jdXBNtPESSxys48I4tw7Qf9YShWF67KnsuO26tCIVVr/FxLgcz0NwTVjrmqvo3Hw=;XOe2pfnKQGIgatoqVexvcg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-a
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1662
         height: 1246
         isCached: true
+  - title: "Curling robot can now beat human curlers"
+    excerpt: "Researchers at Korea University and the Berlin Institute of Technology in Germany have developed an artificial intelligence (AI)-based robot capable of beating humans at curling. The AI-based curling robot,"
+    publishedDateTime: 2020-09-25T13:16:00Z
+    webUrl: "https://insights.globalspec.com/article/15072/curling-robot-can-now-beat-human-curlers"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "skP+cQo7uSByE1eUV8hM4rcTJXZLGL69YG6b6UvVir5shnlv5wbaCAVmzNmL2dbVjQ7lWgFujUM94iNsb7Sgf2Dp/D2z4GNhPc7EsMsSBZtWf7mS78l2AK0+2PqX1tntF+J4kbR39TTkKaDh/LoTlJADKWru1kaRi8rn9hOLTOlv61NwbNLUKO6q0tr4JoHMc5es42e/p5S8RjT9+SAPvHPOodmYTHIDi1Rd9gBlTjNMcxvjPxL1Bz88WX/kJeYD+05e43omk/Fo/sFABAScI7CDSmhIYNTfFZKmCrl1l3r7ihtXqiY3XjJt9qUtbfn0PWoLp9c4Zow29hw4ZVWH4OD0EpJ92Yiu3yAxLDYSadGppZocD6zEBRUdSpfYDSc6Xr2NzA5Wt0/fEyXdaE+x2qLFfSakC8Xjf9ixvhktiduayn5jds5TMFt9iyPMuDsNiVCWUUpyjBaeAtaO7wStnfVzxdF2oapoeQY+TcaKij/oThrOqMTgZsB4iny5YhVS30jfGCH3ElToS8S70uivKw==;wa2t1Fc1pOBD/af6t8ry7g=="
 ---

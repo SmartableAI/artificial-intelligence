@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI can detect how lonely you are by analysing your speech"
+    excerpt: "Researchers in the US used several AI tools, including IBM Watson, to analyse transcripts of older adults interviewed about feelings of loneliness ."
+    publishedDateTime: 2020-09-25T13:56:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8772287/AI-detect-lonely-analysing-speech.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8772287/amp/AI-detect-lonely-analysing-speech.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/25/13/33614798-0-image-a-10_1601036757144.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Artificial intelligence analyzes natural language patterns to discern degrees of loneliness"
     excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality."
     publishedDateTime: 2020-09-25T05:52:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Adobe intros Liquid Mode, an AI tool that automatically reformats PDFs for small screens"
 excerpt: "Adobe's new Liquid Mode tool can understand the structure of PDFs and automatically reformat text, images and tables for consumption on small screens."
 publishedDateTime: 2020-09-23T13:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+originalUrl: "https://www.zdnet.com/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+webUrl: "https://www.zdnet.com/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-intros-liquid-mode-an-ai-tool-that-automatically-reformats-pdfs-for-small-screens/"
 type: article
 quality: 58
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nJV2gNbJgmkM5mvV5VMspQYKtPJGyJettqNKCnGBRoWeZLb9uf6YfMnaUdWR/u0pSRRKZQBmaFuxK3lMInYoO0x8/4ZMMZA0s24ONofe6Dnyday1ZY8Qf5sDEPL/U5hYJY+/UgjAar7gEGfCM2Rd670G3GR6W78Ln+izCzkrMffdmxi+sTkwuzXfoEmSV2HMaZ7idAVehY25ACLNBhTi8zOWxbtFbGvnlrzpzBYDMZ1sYDcNNt3UkVmpHf3M6is09wudKR3z5v1oerC9JAjj7FmfbGoYZ/mceQAN5tADHePcbbQkTZY/1un0UEHM5+na7vzimb58rU+Ei4gF3oNogbEjCBsWBSsubthgrf9B474PnPamwb6XSDVH1Sg3ocg0cScGQ5CVrEOQ/fGOS+KHG89lZH8LQNBBGtTT7GK7f2h2yelC1JLiwGap9CWCpKN/nGMEXL1SgnJtVhCwH7cxRulcWYDqkg/ERSZK4XlsLDVPQSb3hUapJavzZaqx/v1uUSye/RDhiE64BY1+eBypoA==;CH+EWxT4rs8pXqNzG0YxFQ=="
+secured: "qWyPZdrQhFTy5ikDSt7qRAO9S9kDX21ga28RlPlPyDlZWH852hk1HEmD4GvyhWmqkW4QCiAyNaL0R4eIgAzx8Qcg9IDK45L8pt32ydp8VAATe+yIBZ8OQplm/FwAecF6APsqtUhJ2/TyeqVX8OD0P1zcNhpRa8+suC+Gb79gdjQA6AWR62mVi7I/PbV4wJ9OlZpV2edVUMHulDtW6us56isTB71A3+VQg6sM4+rjZc+cvZejIMzVtqr6WcSAKBUyalbC5Ru6wM0JEV+fGqeMkxRdNy9s6XveOoWiV6zt5RuCRFTY+WKxzKV9/5ZvQ2gOpJxgfY+vfbEg+F6dkEqY/OCSGWixI1D/j1LG54pd4ftC2r74nf/ZJ6xc1/YDNveatNcXzYq+S1/HrPyiMl9GTh/O+mps4THWM4bZKUxSwB7y2/WlijnuVsA0FWRdgrHV7VujKYdVAlH2Q+catGh+AKY6pvpdL3k+diDSoxahhTOgPvn0lXESF1lS7b3JF/z6kBbgkyRf77wMjiEQNuvKYg==;f4yscP0tnYeQx4YPK5rvmw=="
 ---
 

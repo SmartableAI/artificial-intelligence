@@ -41,6 +41,15 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Curling robot can now beat human curlers"
+    excerpt: "Researchers at Korea University and the Berlin Institute of Technology in Germany have developed an artificial intelligence (AI)-based robot capable of beating humans at curling. The AI-based curling robot,"
+    publishedDateTime: 2020-09-25T13:16:00Z
+    webUrl: "https://insights.globalspec.com/article/15072/curling-robot-can-now-beat-human-curlers"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "omEnm6ugMBkxg1uvpeVItFCI7jLE11V9Onk5n/DQxLgV59heASjX9/JRZ9CDMngmpoZ/EqJoRJLltFpXbxF5IQRFCm8C/p5l8Dlcs055FFPArXu0mMG2lHqXG1ofPaRmvhoF5dEv4SVU9vCMHFSsbBsxm47O1ZW3kHPRO+nMtNcR87pN5FmnfS6d94vs9lhtI/cXpaxfPTQTSF7oiQ0TkCDSoM5nMdgEG5b7pCwzsvRFGkY3sikERss901TAqhVDp5hYOJaMR/120U2IdstDn7g9kIPnxuYagtKuOQTGuJJYz8Aqx56APw/KlsmqUNBGgsAkRd0Ul7qcLKV5dxHyeOuFp6jRhKPqnVBX4hAvO4jp/ns7naqX0xLj6nXhaeapWAQB7RUZc8ZNI6ya4thoJX7iuj6yCbRoGdwsRXDTJJzIGx90v+Rc1nNwE03KxolcmNXoqLmW10ixT3ovPpdP+WjxQRksxtE/Rp1fy+im7QaeWFJpt1XGSvqCfxZWCHN7J0s4fG1rkXJoaLORW44TEg==;GsHLvcj31Vf2a3h2LPrlMw=="
 ---

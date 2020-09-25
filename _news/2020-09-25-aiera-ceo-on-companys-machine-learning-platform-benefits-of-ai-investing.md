@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-25T11:40:00Z
 originalUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html"
 webUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: CNBC
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106717211-16010328336ED2-REQ-092520-WEX-SenaAlTech.jpg?v=1601032832"
@@ -27,6 +29,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "LEGCaqi4y3Rr6v8mhQHUMtMani19cWA/41n4JxXblqkU9ivC6rw792ecEJM54gQNwTQ6lGRAlItT3y9zT0+k9T5YYxGaaHsztmRTJPKDKsXUGihLFg57Tg0zHiaHkX2ujydLe4g7kpFo3/mLtWuK7WEw6P0rShgz/LRzZuuvihpXRYVZiYxF13Jo4H5oIhiT16IkwEbkTSMs9VF7Y71eejAqpxZgVuGQNpYrtRxXyZvhebDk/QJzoW8E62Svy4Eh4qPp3xBuncuHsOgVBVY+WHMpoaQ1C6vMrKqU/ITY5z23s5dDaQ4Ve4/6FDKIIu4H9LHhraCyqbj1BsucUYPH4If26r3CH1VncN55NqLey/I=;E1udPPWa3l+gm37iFU3e0Q=="
+secured: "Ker+Fj0YIjXAtqc/hOmKJzJ28IS2f4Ne9L5shfnTY0wet4aBgRagOZLTXGNSP1dQL8xQA7ztnTgVE3NzzaPiAExiqNF+w7loiTD7OT9UlNNpr3A3d6Pl0A7TX4dsbFDn0qDF7+2rGxzGEcExVnrwGuKfL4NKRZwj8517D4QCxO23sa6WwGIswpwE/LgFdyETGw0daLzME/hHh+Gq6Kqn2DiirPjBHl3GiSDtTLLiTbp439e2oQKioJIj8xhRHUVXdfhpycc+I3Umn9xl54qDqomFmVPYLGM+tVpytDUWXU1YPmss1+enKpJkSyuO3pJ6oqqIerMRLf50axfHUO0/BMJ8MRiozp1icmz4PyI/7nMB/jnujAbB/8gT7CcssNAwyL5O1cnzzvGAoLs+1BzKW71XPH+uYMaRPH4wfCxuE1fl387XgReV6cHdg8cFPyWEzwfwvEhRWwhJkeVQfBN0sjgwJ6e3m5eFPpbQEEtaNMA1ETcwO/ld3XXXIkO4a+Qq6rS54bYqtF+dHC+tkcgFjQ==;YL9Mks0XvSIihuqykminvg=="
 ---
 

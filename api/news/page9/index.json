@@ -2,6 +2,242 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-17-artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362.md",
+      "title": "Artificial Intelligence (AI) in Retail Market expected to reach USD 5723.0 Million by 2025 with a CAGR of 36.2%",
+      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-expected-to-reach-usd-57230-million-by-2025-with-a-cagr-of-362-2020-09-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-mark-zuckerberg-on-why-he-doesnt-want-to-put-an-apple-watch-on-your-face.md",
+      "title": "Mark Zuckerberg on why he doesn’t want to “put an Apple Watch on your face”",
+      "excerpt": "Social networks contain multitudes. One day you’re writing about internal dissent over the company’s ability to uproot influence campaigns and election interference; the very next, you’re watching a live stream of the same company’s foray into virtual reality helmets and designer mixed reality glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/mark-zuckerberg-on-why-he-doesn-e2-80-99t-want-to-e2-80-9cput-an-apple-watch-on-your-face-e2-80-9d/ar-BB197ncl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_2R-KfOk3VZVweIY4_bjzutxyO0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67419919/nstatt_170418_1624_0052.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch",
+      "publishedDateTime": "2020-09-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4",
+        "domain": "theverge.com/interface/2020/9/16/21439741/mark-zuckerberg-facebook-connect-oculus-ar-vr-glasses-quest-apple-watch?scrolla=5eb6d68b7fedc32c19ef33b4",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything.md",
+      "title": "Snowflake’s IPO is a bet on companies using AI for everything",
+      "excerpt": "Snowflake's $70 billion valuation is based on its ability to analyze cloud data faster and cheaper than its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "originalUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2019-01-23T092808Z_1666479738_RC17FEB4AE50_RTRMADP_3_NEPAL-WEATHER-e1600289144541.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1904413/snowflakes-ipo-is-a-bet-on-companies-using-ai-for-everything/amp/",
+      "publishedDateTime": "2020-09-16T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-reps-hurd-kelly-formalize-national-ai-strategy-resolution.md",
+      "title": "Reps. Hurd, Kelly Formalize National AI Strategy Resolution",
+      "excerpt": "The resolution introduced by Reps. Hurd and Kelly in coordination with BPC and other stakeholders includes recommendations from four AI white papers on workforce, national security, R&D, and ethics. “American ongoing and future leadership in AI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
+      "originalUrl": "https://www.meritalk.com/articles/reps-hurd-kelly-formalize-national-ai-strategy-resolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_561931702-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-16T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash.md",
+      "title": "Uber's self-driving car 'safety driver' charged in fatal 2018 crash",
+      "excerpt": "The driver who was behind the wheel of the autonomous vehicle is arraigned on one count of negligent homicide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
+      "originalUrl": "https://www.cnet.com/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/4RWp-CT8SdPs7I1-asH1y47N9IY=/1200x630/2018/12/19/ff7286c9-b975-4789-97fb-fd86b387cee6/aaa4508-pit.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-car-safety-driver-charged-in-fatal-2018-crash/",
+      "publishedDateTime": "2020-09-16T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-facebook-ray-ban-team-up-on-smart-glasses.md",
       "title": "Facebook, Ray-Ban Team Up on Smart Glasses",
       "excerpt": "To prepare, Facebook will have hundreds of employees wear a research version of the smart glasses, dubbed Project Aria, to gather data on how they work in the real world.",
@@ -979,232 +1215,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy.md",
-      "title": "Trial backs Lilly’s Olumiant plus remdesivir as combo COVID-19 therapy",
-      "excerpt": "Eli Lilly says rheumatoid arthritis drug Olumiant helps speed COVID-19 recovery when added to Gilead's remdesivir by around 1 day. Will discuss emergency use with FDA",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "originalUrl": "https://pharmaphorum.com/news/trial-backs-lillys-olumiant-plus-remdesivir-as-combo-covid-19-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/wp-content/uploads/2016/06/LillYLOGO.jpg",
-          "width": 1800,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum.com",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-baidu-apollo-head-says-technical-issues-and-high-costs-likely-to-delay-full-roll-out-of-robotaxis-until-2025.md",
-      "title": "Baidu Apollo head says technical issues and high costs likely to delay full roll-out of robotaxis until 2025",
-      "excerpt": "At the Baidu World event, the company also unveiled a fully-autonomous driving vehicle without a safety driver in a live demonstration, where a remote control was used, connected",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/09/16/d3e3d840-f7dc-11ea-a41c-8cbd1416100a_image_hires_151856.JPG?itok=T_fg0rL_&v=1600240743",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3101724/baidu-apollo-head-says-technical-issues-and-high-costs-likely-delay",
-      "publishedDateTime": "2020-09-16T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025.md",
-      "title": "Computer Vision Market In-deep Analysis And Experts Review Report 2020-2025",
-      "excerpt": "The report titled \"Computer Vision Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-in-deep-analysis-and-experts-review-report-2020-2025-2020-09-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-inside-politics-dominic-raab-goes-to-washington-to-explain-brexit-bill.md",
-      "title": "Inside Politics: Dominic Raab goes to Washington to explain Brexit bill",
-      "excerpt": "The foreign secretary wants to reassure US politicians they have nothing to worry about when it comes to Britain’s minor foray into international law-breaking, writes Adam Forrest",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/brexit-dominic-raab-us-washington-pelosi-pompeo-trade-deal-b450849.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-the-clippers-fell-short-of-an-nba-title-but-doc-rivers-still-showed-the-way.md",
-      "title": "The Clippers fell short of an NBA title, but Doc Rivers still showed the way",
-      "excerpt": "As the LA Clippers head out of the NBA bubble stunned and disappointed after being eliminated by the Denver Nuggets in Game 7 of their",
-      "sourceUrl": null,
-      "webUrl": "https://inside-com.breezy.hr/",
-      "originalUrl": "https://theundefeated.com/features/his-message-was-powerful-how-doc-rivers-made-an-impact-in-the-nba-bubble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
-          "width": 1143,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Undefeated",
-        "domain": "theundefeated.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

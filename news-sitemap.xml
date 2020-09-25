@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/</loc>
+    <lastmod>2020-09-25T05:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/09/watson-aiops-is-now-updated-with-new-features/</loc>
+    <lastmod>2020-09-25T05:11:59-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html</loc>
+    <lastmod>2020-09-25T04:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/</loc>
     <lastmod>2020-09-25T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -69,6 +87,12 @@
   <url>
     <loc>https://www.bloomberg.com/press-releases/2020-09-22/recruiter-com-announces-new-artificial-intelligence-platform</loc>
     <lastmod>2020-09-24T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/ericsson-autonomous/swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction-idUSL5N2GL30G</loc>
+    <lastmod>2020-09-24T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -537,6 +561,12 @@
   <url>
     <loc>https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/</loc>
     <lastmod>2020-09-22T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1357,7 +1387,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html?_escaped_fragment_&amp;_escaped_fragment_#!</loc>
+    <loc>https://www.realclearscience.com/2020/09/16/ai_ethics_groups_repeating_one_of_society039s_mistakes_292251.html#!</loc>
     <lastmod>2020-09-15T21:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1681,6 +1711,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
+    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cdrecycler.com/article/zenrobotics-remeo-partner-start-automated-robotic-mrf-finland/</loc>
     <lastmod>2020-09-14T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1725,12 +1761,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/</loc>
-    <lastmod>2020-09-14T08:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
