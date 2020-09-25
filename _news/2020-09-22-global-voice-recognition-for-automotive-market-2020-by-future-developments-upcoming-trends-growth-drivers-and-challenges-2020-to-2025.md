@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial T-cell Receptors Market Size, Industry Trends, Share and Forecast - 2019-2025"
+    excerpt: "Artificial T cell receptors provide enhanced ability to T cells for targeting a specific protein These receptors are often called as Chimeric Antigen Receptor CAR or Chimeric T Cell Receptor which are bound to surface of T cells and serve"
+    publishedDateTime: 2020-09-23T14:43:00Z
+    webUrl: "https://www.openpr.com/news/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+    images:
+      - url: "https://cdn.openpr.com/T/9/T923342668_g.jpg"
+        width: 500
+        height: 415
+        isCached: true
 
 secured: "va8Ae8Jq4ULsfc/QKuQ1qQqH5NOIJPe/kMjZVl1lJv5st0tJOoeRvWqVHajjQCoN67dBQ15OG8v6jT7ubMFMwNAsH3tIH81Ybu3idt6M/WGKSHdgGXs0BDxHxUwJXiskjACIWeO7Q6FkzUU//n2ipz9i+L7otYjsCVO07os2P0ub8OhyEdVw9t7YLucKEqNBMJe2rCjb/SWLLfPM+DF3V7UtLjoxElwhnhoOKqspqivk7Gx9A3CyO7gexx9auF1TitR+Uw/BKKslJE55T3eob1DrduBUsklhLCmdpl609ZzTL1DKN3yapXpkUGy2UQ5gWIAGCp78UQsnGTZ3PGHVnka3XvFuLnvzDjCzpVEkFpk=;YszIAgp5V2PY/nfyrAM/Kg=="
 ---

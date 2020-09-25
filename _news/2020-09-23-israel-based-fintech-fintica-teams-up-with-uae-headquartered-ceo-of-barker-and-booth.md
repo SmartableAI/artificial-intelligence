@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli fintech company partners with UAE-based CEO of Barter and Booth"
-    excerpt: "Fintica creates AI solutions for the financial sector, notably self-learning technology to gain more detailed market reports - allowing users to make well-informed decisions in real time."
-    publishedDateTime: 2020-09-20T12:38:00Z
-    webUrl: "https://www.jpost.com/israel-news/israeli-fintech-company-partners-with-uae-based-ceo-of-barter-and-booth-642926"
-    ampWebUrl: "https://m.jpost.com/israel-news/israeli-fintech-company-partners-with-uae-based-ceo-of-barter-and-booth-642926/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-fintech-company-partners-with-uae-based-ceo-of-barter-and-booth-642926/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 44
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463875"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Israeli fintech company partners with UAE-based CEO of Barker and Booth"
     excerpt: "Fintica creates AI solutions for the financial sector, notably self-learning technology to gain more detailed market reports - allowing users to make well-informed decisions in real time."
     publishedDateTime: 2020-09-21T10:00:00Z

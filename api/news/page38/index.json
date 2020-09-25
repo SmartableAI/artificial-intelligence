@@ -2,6 +2,224 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-08-27-vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub.md",
+      "title": "VW to test fleet of self-driving cars in China’s newest EV hub",
+      "excerpt": "Some of the nation’s biggest names in tech, including Baidu Inc, also are pushing into ... VW announced five planks to underpin the project: self-driving system, battery-electrified vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/08/27/vw-to-test-fleet-of-self-driving-cars-in-chinas-newest-ev-hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/08/27/835650.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-26T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-microsoft-pnnl-and-uw-leap-into-white-houses-1b-initiative-for-ai-and-quantum-research.md",
+      "title": "Microsoft, PNNL and UW leap into White House’s $1B initiative for AI and quantum research",
+      "excerpt": "Microsoft, the Pacific Northwest National Laboratory and the University of Washington are part of a $1 billion effort to study AI and quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/200217-svore-630x380.jpg",
+          "width": 630,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-pnnl-uw-leap-white-houses-1b-initiative-ai-quantum-research/amp/",
+      "publishedDateTime": "2020-08-26T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-baidu-creates-worlds-largest-chinese-natural-language-processing-database.md",
+      "title": "Baidu creates 'world's largest' Chinese natural language processing database",
+      "excerpt": "C hinese search engine giant Baidu has launched what it says is the world’s largest Chinese natural language processing (NLP) database, among several other artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
+      "originalUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/20200827_baidu.jpg?itok=sv6JP0o-",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/baidu-creates-worlds-largest-chinese-natural-language-processing-database?amp",
+      "publishedDateTime": "2020-08-26T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
+      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
+      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
+      "publishedDateTime": "2020-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-enterprise-therapeutics-doses-first-subjects-in-phase-1-trial-for-first-in-class-cystic-fibrosis-therapy-etd002.md",
       "title": "Enterprise Therapeutics Doses First Subjects in Phase 1 Trial for First-in-Class Cystic Fibrosis Therapy ETD002",
       "excerpt": "Enterprise Therapeutics Ltd (Enterprise), a biopharmaceutical company dedicated to the discovery and development of novel therapies to improve the lives of patients suffering with respiratory disease,",
@@ -927,235 +1145,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-cloud-system-management-market-worth-314-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Cloud System Management Market worth $31.4 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to a research report \"Cloud System Management Market by component (IT Operations Management (ITOM), IT Service Management (ITSM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cloud-system-management-market-worth-31-4-billion-by-2025--exclusive-report-by-marketsandmarkets-301118681.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cloud-system-management-market-worth-31-4-billion-by-2025--exclusive-report-by-marketsandmarkets-301118681.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei.md",
-      "title": "Volkswagen to test autonomous vehicles in Chinese city Hefei",
-      "excerpt": "Volkswagen AG said on Wednesday it will start testing autonomous vehicles in China's eastern city of Hefei, its first in the world's biggest car market.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "originalUrl": "https://uk.reuters.com/article/uk-volkswagen-autonomous/volkswagen-to-test-autonomous-vehicles-in-chinese-city-hefei-idUKKBN25M1QZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200826&t=2&i=1531082208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7P16L",
-          "width": 877,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN25M1TH",
-      "publishedDateTime": "2020-08-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more.md",
-      "title": "Tour de France 2020 to feature augmented reality, machine learning, and more",
-      "excerpt": "The historic Tour de France kicks off this weekend. This year's race will include a host of technology solutions to boost fan engagement amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/26/46475eba-fb95-4125-93d4-d20e8b7520fa/resize/1200x/4181f60c303fec4937ebeec2155b52ca/tdf.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tour-de-france-2020-to-feature-augmented-reality-machine-learning-and-more/",
-      "publishedDateTime": "2020-08-26T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-fast-track-custom-ai-for-the-latest-in-computer-vision-apps.md",
-      "title": "Fast-Track Custom AI for the Latest in Computer Vision Apps",
-      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "originalUrl": "https://www.csoonline.com/resources/207586/fast-track-custom-ai-for-the-latest-in-computer-vision-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award.md",
-      "title": "DDN Recognized for Innovation in Artificial Intelligence Data Management with 2020 AI Breakthrough Award",
-      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that DDN®, the global leader in Artificial Intelligence (AI) and Data Management software and hardware solutions enabling Intelligent Infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ddn-recognized-for-innovation-in-artificial-intelligence-data-management-with-2020-ai-breakthrough-award-1029536096",
-      "publishedDateTime": "2020-08-26T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

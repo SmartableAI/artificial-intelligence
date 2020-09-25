@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Artificial intelligence analyzes natural language patterns to discern degrees of loneliness"
+    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality."
+    publishedDateTime: 2020-09-25T05:52:00Z
+    webUrl: "https://www.news-medical.net/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200925/Artificial-intelligence-analyzes-natural-language-patterns-to-discern-degrees-of-loneliness.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 51
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "ozlRqAP1dbFPjeXvDIK8Ci6m6ePJ35K4PFlTrHBEyRr4U/7ZxX5pGZNAwkX5Qls8c1DOERYSSR3OoyFSF7LYgc0l9B6OdByhCrERQb4mplEI7UQwis56relGfmU6QsE8kG8SPzZ0Q9H5a5A+uG2kYLUgIe4t33uJTWtusswjwiQOAOrkfIP0lsGo5J0Ew3r7e/KQ+3B/PCf9Rrnaoz1s7aJB2WzJVR/PGH9i5GNKc/oq8W437fv+BDL01usDwiVWSV39rqwRc5BpmpJhXib/gozdFjOWcUOeLM//m2e87b4XwsWE4Ud+CXohvND4t5eAEQ+5hVj/yej/ayiO+N0YhjDE1nYcT/sOZmrTa2FpX99VypY5RkSQlPHQuxcuzzLU4riqerJhFQGY0T09/GlY5Ar2KQwCypKjeds2Ewm20TbpUySodpgvpkPVVXagbxz6brZ6kTokMipnmXo/RoiHSCV3vORHSR+CHWTZNtO9DKbYyEZDD9LNDdbt7Xf7PQpfm3FlLUXy3qAZjw1oJXEniQ==;jryEgObakea+S3NktrjUBA=="
 ---

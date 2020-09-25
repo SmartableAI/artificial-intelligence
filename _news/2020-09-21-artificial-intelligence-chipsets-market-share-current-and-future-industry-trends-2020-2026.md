@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-share-current-and-future-industry-trends-2020-2026-2020-09-21"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial T-cell Receptors Market Size, Industry Trends, Share and Forecast - 2019-2025"
+    excerpt: "Artificial T cell receptors provide enhanced ability to T cells for targeting a specific protein These receptors are often called as Chimeric Antigen Receptor CAR or Chimeric T Cell Receptor which are bound to surface of T cells and serve"
+    publishedDateTime: 2020-09-23T14:43:00Z
+    webUrl: "https://www.openpr.com/news/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140695/global-artificial-t-cell-receptors-market-size-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+    images:
+      - url: "https://cdn.openpr.com/T/9/T923342668_g.jpg"
+        width: 500
+        height: 415
         isCached: true
   - title: "Global Voice Recognition for Automotive Market 2020 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2020 to 2025"
     excerpt: "Sep 21, 2020 (CDN Newswire via Comtex) -- A new report by MarketandResearch.biz titled, Global Voice Recognition for Automotive Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has been released with trustworthy information and ..."

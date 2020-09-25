@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T17:16:00Z
 originalUrl: "https://reliefweb.int/report/world/artificial-intelligence-best-practices-agriculture-can-help-bridge-digital-divide-while"
 webUrl: "https://reliefweb.int/report/world/artificial-intelligence-best-practices-agriculture-can-help-bridge-digital-divide-while"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/drought.png"

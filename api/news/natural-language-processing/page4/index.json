@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-18-full-michelle-obama-dnc-speech-transcript-and-video.md",
+      "title": "Full Michelle Obama DNC Speech Transcript and Video",
+      "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/17/autossell/Michelle/Michelle-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html",
+      "publishedDateTime": "2020-08-17T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-transperfect-introduces-free-on-demand-translation-tool-for-google-chrome-with-release-of-globallink-now-extension.md",
       "title": "TransPerfect Introduces Free On-Demand Translation Tool For Google Chrome With Release Of GlobalLink NOW Extension",
       "excerpt": "By employing neural machine translation and AI technology to securely deliver ... reduces the challenges associated with overcoming language barriers. In addition to performing ad hoc translation ...",
@@ -1354,57 +1405,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy.md",
-      "title": "Google's new voice and audio settings give you more control over your privacy",
-      "excerpt": "Google on Wednesday let people know it's still having humans review voice and audio recordings on devices like Google Home. However, the search giant's email also said it's giving you more control over what's being shared and has automatically turned off the feature for all accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/KBR1GYWD2mNrI9tvFINf3uZtuxk=/756x567/2019/01/17/160d0588-c985-400c-9c2b-50604e69486d/jot-google-home-mini-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "publishedDateTime": "2020-08-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
