@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
-excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
-publishedDateTime: 2020-09-23T13:57:00Z
-originalUrl: "https://www.pr.com/press-release/817958"
-webUrl: "https://www.pr.com/press-release/817958"
+title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
+excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
+publishedDateTime: 2020-09-23T17:43:00Z
+originalUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
+webUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
+ampWebUrl: "https://www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cdn.openpr.com/T/9/T923205671_g.jpg"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions"
@@ -35,22 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
-    excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
-    publishedDateTime: 2020-09-23T17:43:00Z
-    webUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923205671_g.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "PagerDuty’s New Digital Ops Platform Release Delivers Advanced Machine Learning and Automation Capabilities to Facilitate Digital Acceleration for the World's Most Recognized ..."
     excerpt: "The new release applies machine learning and automation to break down the complexity of managing digital operations by reducing interruptions and minimizing the time to resolve issues. PagerDuty’s latest platform release empowers teams in both large ..."
     publishedDateTime: 2020-09-21T15:08:00Z
@@ -65,7 +57,16 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
+    excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
+    publishedDateTime: 2020-09-23T13:57:00Z
+    webUrl: "https://www.pr.com/press-release/817958"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
-secured: "jntQIvesEHEd5F9cYP63rUe8uvg+spn4njEKg6o8v5V+9PrqSm3pC1F2KlPq7zJSD1mqAhML7QQwZwTyAaPDaBXcJwH/JyXRCnowpeKXeEODzBf2nsmqGxiaNqyNRGjj294cQDfbgqb5KJw+N//y/oc8S9fmgyPIP0wSGD0wOYgFa2yi8a5Td9M8ZGorjCtK4u4kdOGJmqiHAa/afkpgORkPhXA96xbjq19Sx37HHZy6lL8O2fSHNsXaziSupGA/6RMatwnMuxPfpMKPfpVsHAFUC+YSMlZcKAKI9A4CGfpkFQU+iuL/c8Mn7gk9Nytgu+SjeiVIJljAt+W7ol3MtTaegTWALdt5B2580UtcZvA=;fE0zok81ogYTcPyt+b4uAA=="
+secured: "AoLHyG3spleUrhRzt666I2lcFeAGAP7WGimpblgstBdUxdvlAELQ4WfuuuIO0oHp2gap6I5tQcRwj4GTwjGllxQYjyiJYnGGxVuI7N9Jq5Y8RbmbSH6kMT73Gdf6kor6RS/7rqXtiJn7HpCUtsTClDL704/RfuXhthEQgfvCuSZckT8LWU+dnAKQfsDRC5PTkgcqsQa808ZF7tRQa3yA36KvdMzay4J0yC9Qo/BPG5V3yB0lyWJ3H7ogcWq9sRc0LXNfVAGKEr26gVbWj7DLXzcN5mGwWJuXZGA8hCuD7dXUByzO6qhnrsGcd04ZIPzI3UYJi+zzMg2lsWoDvYEDQjgjHgmVKupI0Jfv8R6J9zg=;dQWPjLMWvdeLeA4pgKY+Dw=="
 ---
 

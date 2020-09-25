@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Hyd researchers use AI to detect mobile use by drivers"
-    excerpt: "Researchers at the Indian Institute of Technology Hyderabad are using artificial intelligence (AI) based algorithms to detect mobile phone ."
-    publishedDateTime: 2020-09-24T23:11:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/articleshow/78305004.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/iit-hyd-researchers-use-ai-to-detect-mobile-use-by-drivers/amp_articleshow/78305004.cms"
+  - title: "AI system detects loneliness in natural speech patterns"
+    excerpt: "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults."
+    publishedDateTime: 2020-09-25T02:02:00Z
+    webUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/"
+    ampWebUrl: "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
     images:
-      - url: "https://static.toiimg.com/photo/msid-78305003/78305003.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "Researchers use artificial intelligence tools to predict loneliness"
-    excerpt: "For the past couple of decades, there has been a loneliness pandemic, marked by rising rates of suicides and opioid use, lost productivity, increased health care costs and rising mortality. The COVID-19 pandemic,"
-    publishedDateTime: 2020-09-24T20:10:00Z
-    webUrl: "https://medicalxpress.com/news/2020-09-artificial-intelligence-tools-loneliness.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/1-loneliness.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Talking alone: Researchers use artificial intelligence tools to predict loneliness"
     excerpt: "A team led by researchers at University of California San Diego School of Medicine has used artificial intelligence technologies to analyze natural language patterns to discern degrees of loneliness in older adults."
@@ -71,6 +57,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mNb30qWOdKcUkvOCOWqt70nCFd4n2vVmAmtQP1Ks1ml0lYQutS72BU/fy6TE0Nu2Zps4X8fFiHJ+JJN6tPPgJm9VQ1TF65rWfpkHxOn6LBCgi5Oi2Pbz39ueQCc2JP+9PrEifvqyexIgOP9lQWyIQU6MeMjxRRFB6ehw9C3zvDxswy3NN0qvL3ApqxToiuz7fIDpGBZPnKh2AbXAN+G6tVipuVKbSwSOuxYvii5npVQZ8tpbE/XvouD3/GZTz02MJUhs0U6hyW5PT5cSeU83HfC+ALyj3J5dTtBIZRJK5CW/yjvUP+1VuJJDBDxRZNYUP9zB5kFJBQfd2ZlLF2kJ7LzP+D3sIhoJgS7WaJ6+f6U=;CzmNx2rzuXFLmNYQC43IHg=="
+secured: "Qwn05zRyvugYagfLU3nrWHQSemSLi1DfcVSGOwH/7yQFVoEkl0kLP8d/BdzYU+5TReoaLF2A8BJ9juEtwKmsqLPX04L7L1JlOlZhvi5p9+3PCgbcGh6VdYmZHYzYNCM8n3eRn1yLK6iTXka1xpicXBWYHGDhPIQ2qiDOkSWCfh7d+owk8+q3ShqHNfNOEsdq1xg6YTtWJGej10Gs3u8rKDVcF2yDQ+nzgSJ7SweDoYbjqB7Sl4V/2+mowcGt5dqafAyqzUHZrLbJh2uUyJbK6lL0TJkfTwgTpDw9G7ZVEJsMPC+FrH7x4GWS8Ig4wDziPDQzWLUl1iaOwdNSDNsXbj0d3d1ygvmCfsSv5/Kaa/KKNeaZKBEq+OsyS6iV6UpQvRGPA8PSGij8crThFPK3gnAWJmWQsnw48T/JKDCAh2G6PKtH8Ls37EH0s/3OHIGf5ymoGr/i54oFXRTVgXxyn4vXKsinVQ/K19NydrQVM6PYibm3G7Ewn3VTtjmWVdtuoeAQPcG0Ir3UJhaP3JcbJw==;xM7TIPcoLuSDVO0znRDjkA=="
 ---
 

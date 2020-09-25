@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/spectrum-labs-raises-10m-for-its-ai-based-platform-to-combat-online-toxicity/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 683
     isCached: true
 
-secured: "XcRtru3+rLAi1k1/IeFBhY4xFm/6otB9+hhxTLxHNxdpN6bEXrLIn1ZVPu+Z9QDWu7YywePyegOQpm9Rby7jYuGXZ7DzJhT4ULJqwlrGm0szSKCs5skpUtyJ/3W7wA5WJ3HbbidY/CfaFBsQrry4pj8Na3joQU0AyD2g4lCYaaokVYcalrQTorbSILo1Xre8tTBta/V2Rb7aC0NCiTQq5qUPmvwQ4scUZw+J2eteiA5WmqYogKF/cRttzVKGrMH6T5VhDVpndNZbJgrzEoHTp8UXyCXEmq9XOCGlpwRSo4fT0onBLe/uX3Iu8OQPjtItx8sFgyhrRl0b2+X9fz9uxPisInqBs7tkHVAB2RyBh7Y=;ozHOW34vmI7qkrp7gUnLyg=="
+secured: "PZTcwAcxpPGCEe6xGJikV82+O1I7bpyd+oT0e/veTcfhtFAQ6CKIMjsF9ibFcu4avpI5A/iSTT4kijqoqQZ7KFGvEqdrdyIjh2RWgd/T2cMkTU4cKzSXAnxa0MHJAPFvRhz7LfrVCHYci1XE057I0I3mylIPAmFYtpVXIifg8WTe35LZTLpErXqCmrjENRCaEmLedZQAkBQZ6T8o2AhE3zfLJ9s5KcqVFam55XnV1yNJQSeZKIoiWouy+zRe4SuhaJper6//f2pA09DY7YT0mZG5wCHGRmv1TEHNw5HIDcHiP01BOQlfrqU6xmLfAgZzryugHCVMLD7ovw2FxXjZakcvFzh7ILmHwV8umR3M67uv0xx2/sxtWae6MCkDCi3K3Pt7+91u1UnqB4xPeS0FkSCIWhnHnn0vWTCLgAi7sh1F3Wt/Y0GjH4DHWL9lQaW/GY5OL/9lkf6mfJ5dAT9xU8WG/+AE5VKEhyIquc5r0o6AulavQ5KNtrljKv99GmqICc568EI0TP7Q10KFhZdLww==;8Cz66VOj3PWG88982SxrPQ=="
 ---
 

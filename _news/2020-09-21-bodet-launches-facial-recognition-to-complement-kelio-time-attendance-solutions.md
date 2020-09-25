@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
+    excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
+    publishedDateTime: 2020-09-23T17:43:00Z
+    webUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
+    ampWebUrl: "https://www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+    images:
+      - url: "https://cdn.openpr.com/T/9/T923205671_g.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "PagerDuty’s New Digital Ops Platform Release Delivers Advanced Machine Learning and Automation Capabilities to Facilitate Digital Acceleration for the World's Most Recognized ..."
     excerpt: "The new release applies machine learning and automation to break down the complexity of managing digital operations by reducing interruptions and minimizing the time to resolve issues. PagerDuty’s latest platform release empowers teams in both large ..."
     publishedDateTime: 2020-09-21T15:08:00Z
