@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revam
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "The top Azure announcements from Microsoft Ignite 2020"
-    excerpt: "Azure Stack Hub now is available with GPUs so customers can run AI, machine learning (ML) and inferencing capabilities on-premises and at the edge. Microsoft partnered with AMD to bring the AMD Mi25 GPU to Azure Stack Hub to power visualization-intense ..."
-    publishedDateTime: 2020-09-22T21:07:00Z
-    webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-ignite-2020-553728"
+  - title: "dotData Enterprise is Now Available on Microsoft Azure"
+    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
+    publishedDateTime: 2020-09-25T14:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
+      name: dbta.com
+      domain: dbta.com
+    quality: 71
     images:
-      - url: "https://i.nextmedia.com.au/News/20200923070144_crn-14_microsoft_iStock-1191485295.jpg"
-        width: 1400
-        height: 900
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+    excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
+    publishedDateTime: 2020-09-22T12:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "iGXfc3rd4eUXvWFdXIYDwBep70SOFk4NYBW/h6YO3KQHu1KIsM2n23o8ovFsRrQQ30GE7dg0vnKX50oWL2mQHEvxJFkyYzgsXDdh2YIhVym2LB6xr6tN64ruSD9hIuSDWdLpTdFY6UdiHzDIweCyu7nMAcGkOiXS4lyrDPgKdiNc3M9IODm7rizA8+NfunKx213RM3IBsfH2BItA2T1QQ4CEISRjXv5XuCvWtGU+9xWPNkkkVzM0ek/8akboWuX+yJ6lBP6Kp20G8MVsCWfR4R74hR/37blqQOroI995U+EQkOL6eYSzAJUboFhX7HtpvHEtLshCVB6eyoSOvImnNni8JlhJUi6TPiiDnfLXfjrE0cMVVn8av9wOggwlGG0Od2I+S2Shm7VP5DAYWiFnsvr9k6+SiWhjmvFOTTdj+ya1fP14ssHBGifLP/NHITZq+63qmAaPRLlpDaxM7Xa1BFlvldROI9XSzukLtKYCp2k+aR1LYah1rwOHZspbOzn5IeHndAmSW9JNbpcQWYONHA==;vk7/WCnNB4iVa2p5fAF/GQ=="

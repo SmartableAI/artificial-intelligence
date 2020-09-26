@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tech for lunar landing makes self-driving cars safer on Earth"
-excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
-publishedDateTime: 2020-09-21T20:27:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
+excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour ..."
+publishedDateTime: 2020-09-21T19:51:00Z
+originalUrl: "https://www.sify.com/finance/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-topnews-ujvr4Cadbfaid.html"
+webUrl: "https://www.sify.com/finance/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-topnews-ujvr4Cadbfaid.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
@@ -110,6 +110,6 @@ related:
         height: 392
         isCached: true
 
-secured: "Lqn+EAjRNDIfgBswpL/YMB+fo99NK5C36S2WnNMSzSi8f0u9FbT5Ao7skyxZqqpRFyiOqKVrpbqz1+LEZJDjxJ/BBZ8F0hkIzYDipBrbNyK3BW9snY+BA1bYc4YGutV82AMrsIIkcnpaTXpmM4XPLmsqKlEPrGdYTAKDlp64v/lGhNWh//rkT6yEynAipHZSGwWcEe2Z6yAqSVpRIUjNlxfZnMxQGaDZDKN33FP/FntAQ63E/sIYUQpOZ254zmy2oRPJ6/fNb3UcR2pI3kk9NMKGNhL2SKTw6p3NE8SJn56dpzzsP+vfZsVUul52k+6ZT4hq+1InfCKa2c5qGpqZUB4rWKBi7unw4RtqsdIXaUA=;Yi4yYojf0PBuNY0P8uwRhw=="
+secured: "P7jPuPMCBeYFbTQuVHootSmww8f6yg1Po396qlmRPT5leSVG/xAPr0TTMsujyBcAi2BMEYTrv9HlLa+vvbUXio4TqBsqL7N81undrRidkjO7yFxMep3lHkm7pNmD6G7LLhdFXmel48lJhDrQ7nDftYUeLZowWZJ6WuMwUJTk7TtprCj9+rj7wgB8DE9XRVqnltbDtAaTLMwVShqR4KzhLmOQtTcYDZb+rA7Tgqwkf2IyFAa0a7QOYA8bifH1vg83/jaonPYr4EnXdnLxKglUBOR0tzoLN00iGpVegYN6sHhqgLjBdq+gTS5/0tndyHN0mxvZIhAVXHyTn3NxcWt1QRoDy29tFQZuBek5QzdZ57A=;1V40CKj0inw6iXpySnIZuQ=="
 ---
 

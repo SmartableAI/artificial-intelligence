@@ -57,20 +57,6 @@ related:
         width: 852
         height: 545
         isCached: true
-  - title: "Self-driving Cars Will Fail Unless We Redesign Our Cities"
-    excerpt: "It’s been nearly a decade since the launch of Google’s Waymo and Tesla’s autopilot ... developers have recognized the limits of artificial intelligence, especially when it comes to ..."
-    publishedDateTime: 2020-09-21T07:08:00Z
-    webUrl: "https://medium.com/swlh/self-driving-cars-need-human-intervention-c9c324443bd4"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*LUQ8pP17eTdtp0xAe68sZw.jpeg"
-        width: 1200
-        height: 722
-        isCached: true
   - title: "Congress Will Try Again in 2021 on Self-Driving Car Reform"
     excerpt: "Self-driving cares suffered a major setback after the March 2018 death of a pedestrian in a crash with an Uber test vehicle, the first attributed to a self-driving car. The Nation"
     publishedDateTime: 2020-09-24T22:24:00Z

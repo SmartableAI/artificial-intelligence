@@ -49,8 +49,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/</loc>
+    <lastmod>2020-09-25T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pcmag.com/news/mit-prof-wins-1m-award-for-machine-learning-based-cancer-detection</loc>
     <lastmod>2020-09-25T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx</loc>
+    <lastmod>2020-09-25T07:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -577,12 +589,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19</loc>
-    <lastmod>2020-09-22T08:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/</loc>
     <lastmod>2020-09-22T08:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -621,12 +627,6 @@
   <url>
     <loc>https://www.wired.com/story/comments-section-clean-up-let-ai-tell-users-words-trash/</loc>
     <lastmod>2020-09-22T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
-    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1039,6 +1039,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune-1029602775</loc>
+    <lastmod>2020-09-18T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722</loc>
     <lastmod>2020-09-18T06:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1351,6 +1357,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/analysts-opinions/pluralsight-inc-registered-shs--a--buy-729349</loc>
+    <lastmod>2020-09-16T08:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/elon-musk-tesla-boring-company-vegas-loop-self-driving-electric-cars-warp-drive-1532282</loc>
     <lastmod>2020-09-16T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1533,6 +1545,12 @@
   <url>
     <loc>https://www.reuters.com/article/us-health-coronavirus-southkorea-serving-idUSKBN2661KB</loc>
     <lastmod>2020-09-15T13:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://federalnewsnetwork.com/commentary/2020/09/ethical-challenges-of-dods-ethical-principles-for-ai/</loc>
+    <lastmod>2020-09-15T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1815,6 +1833,12 @@
   <url>
     <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
     <lastmod>2020-09-14T09:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars</loc>
+    <lastmod>2020-09-14T09:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2943,6 +2967,12 @@
   <url>
     <loc>https://www.americanpress.com/sports/aws-and-the-national-football-league-announce-new-next-gen-stats-powered-by-aws-for/article_9a5eae52-bafc-5816-9cdc-97cc46fb5622.html</loc>
     <lastmod>2020-09-09T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoq.com/articles/federated-machine-learning/</loc>
+    <lastmod>2020-09-09T05:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

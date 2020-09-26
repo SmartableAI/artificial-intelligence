@@ -106,15 +106,15 @@ related:
         height: 392
         isCached: true
   - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet ..."
-    publishedDateTime: 2020-09-21T20:27:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200922/3629779.html"
+    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour ..."
+    publishedDateTime: 2020-09-21T19:51:00Z
+    webUrl: "https://www.sify.com/finance/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-topnews-ujvr4Cadbfaid.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Sify.com
+      domain: sify.com
     quality: 4
 
-secured: "DRQoiZ6hO/4a0HGCKU2M6GMt7i0vaGTnToHnMJm+QReb8tIA/tghe5rEIRYOsoLE8jbthbNOt+3aDsrWWEgcpM1aKvZbhINDnDrgbCfAcFmmvrzOLtWlLFUqw7M6T5Zluz4L0O10vNvp6R68HMf0oeqIP0d7ydzBq1ekV09Iq4aJZdtX0EnCugoCdKzL0ohOYpJaMowFAWabZKL7wJSxkw00z6PXn4D+7GikR9k2ih2FUZVIzaz04keeb5FHLAjIDWIkXGdOFC1UBEO/2+vC20mXs1OkFdLf7w9KPOHZNdLWL+6KfIjD2Yy9cSjZqxtgv0FjdDncc/NKoWrr7ibYuzbdv7VEr5PF5EVlaioFO0o=;QVjTbENoaD/rkCtsxiqB/Q=="
+secured: "G0GOCNC10+6m+bYyRPVj7ud8esnsTD67jvJMFRVsKteT41/UG2mAotBn2zL4erZLNk/m5AaVDeEFtnVOQ+Hpud9NADL7mtVruotJtOSThwa0jkc6wEALx65LbUAljixURZ69EBomIKNGy79QczyZR30IHe8MT8FyxOxtAVR5tKFOmn/R+sHSCKFoaU9P8UzSqnn8MnLj2KcipZxc2GaHrTs78c9vEOp6PfdKUkNfey8ZB4bVAYFi6IMAtEwBZmRzrHszbizJNlI4SEcnDRNge5liZrF+iXiYR8RA1drLm0oAK63LHDChYxIwtYILTKlVUqdH1Yf55G/X68oYGxphC6Niq2DVhbBVZZvrVSPDrtA=;UYT2ymFjnVqVveVN2DPdnw=="
 ---
 

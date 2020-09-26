@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla's full self-driving option falls short of its claim, report says"
-excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ..."
+excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying ..."
 publishedDateTime: 2020-09-22T11:54:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece"
+originalUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece#!"
+webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece#!"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
 type: article
@@ -71,15 +71,15 @@ related:
       domain: cnet.com
     quality: 65
   - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-    excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
-    publishedDateTime: 2020-09-23T01:44:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3498264001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498264001"
+    excerpt: "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\""
+    publishedDateTime: 2020-09-23T01:51:00Z
+    webUrl: "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3498264001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498264001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 45
     images:
       - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
@@ -158,6 +158,6 @@ related:
         height: 580
         isCached: true
 
-secured: "Zy+5s+SlEdQTEF6OIZCcXrSxzwJG/dc4XhJ42AxcQ2R/Ks1MzrRfLFwtn9c5APWfTwDCqgfemnwNgXwnB3fLxGVdh/pPnLoRHE82RN+z1SgWmSNjMOKNygMmZHvA6G+3vKDHADhSSY4Cpa/z5Pk/+/+t869ba8cVS8uqUPm3tPHI+HDsqdsPcEbL7yAX/3QQ9e0C2g4H3UiRpFaCMl1umhm7U7INsSt+lMvjn+7UXIl6/ct9PmhFuR0sGf8eUgv6ttTUEmSwGR5iGOpRVdtNe+DtHwuN7ZIc9JfXDiaVyHCOygCLkoUMh3p7CBb2/wOLMrNgVijLBppAinB42MkJPZW6wEDwPncZK8SPZfMWHnU=;ZXp0Q2T2yTsKrpIJrgiLhw=="
+secured: "yzik3Mxh13SwDHCecRG237Ba+wjQjDRxZx8uGpdC3XiD5Y7n12kmYDqyLgOgYTc7r9NV8S8nLcUp4gHkqMj7kV1C4oQtIx5iCb+rl3NjLWVUZUwGdYPGVS/Ypo2WKtlH2zl5uAywzBE9TfVoCd8glvaHD0EzK1TJO+8XRPhSWOwMr/GufjLDKLOgT/yUYNf3i951j16cfpgPpd+Z5y0k5dYHvB98ouHndacVaybCHcTlAVKM7brNXoorwwroGGcNfAQnVCEO9OcpKoNNt/eMhpfUATnwQG32yQdhplQKnc0bS7ji7IgPQ10//O9O7HTBYJW+7wdjrVRNftCwKg6tkqX2iKL+AuO4CmawUYWAIL8=;KdhAZeX1imCNF4hBq12L4Q=="
 ---
 

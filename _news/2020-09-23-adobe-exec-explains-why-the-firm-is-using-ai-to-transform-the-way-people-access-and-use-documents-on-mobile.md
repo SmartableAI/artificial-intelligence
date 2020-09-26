@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/adobe-document-cloud-artificial-in
 webUrl: "https://www.businessinsider.com/adobe-document-cloud-artificial-intelligence-pdf-mobile-digital-transformation-2020-9"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://i.insider.com/5f6a7dda862a00001153f699?width=1200&format=jpeg"
         width: 1200

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-excerpt: "The next step in the self-driving revolution is coming in 'a month or so, says Tesla CEO Elon Musk, teasing the company's full self-driving Autopilot."
-publishedDateTime: 2020-09-23T01:44:00Z
-originalUrl: "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-webUrl: "https://www.usatoday.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3498264001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498264001"
+excerpt: "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\""
+publishedDateTime: 2020-09-23T01:51:00Z
+originalUrl: "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+webUrl: "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3498264001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498264001"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI in Autos
@@ -60,9 +60,9 @@ related:
         height: 562
         isCached: true
   - title: "Tesla's full self-driving option falls short of its claim, report says"
-    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying a premium to get these options in their cars. The Autopark ..."
+    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying ..."
     publishedDateTime: 2020-09-22T11:54:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece"
+    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece#!"
     ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
     cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
     type: article
@@ -158,6 +158,6 @@ related:
         height: 580
         isCached: true
 
-secured: "xOqonDBJMbDcmS7nS3dPStsqt+hNtwlq19dsYgckZZG5HZEYpi/ZXk3tqv2+QkQdDQl9BjtGLAIS/xRwJpXbeHKNh0McRACKEos3xgxIq5igTBN+wJh2YKD26XUdFk1hh6BN63WwFMyoAPS58OC4MABzyN/hwYBPVncyZQynxduquk5q5ETojtMjGTYMCObtc7nZCMbDIDsc0nZBpUOsKF5cDJc0x4MrCPvPq3DN3W57ljneuf5Br/kQ/j50ABbD6ajGxrhHMcj7e9iTno0lKyDD3kDrRK4GsvypkCncruOPRaJYunB+JqLxshNm0duBl+nx/9Uq1MkKFS5EcFoX6DY2OXQF3qUvXluOjg+DgqYmBLe26/N0nt849BT4QQU+WFK6W/qjJnrOu1V+YDXc+htdNIsjTtZJuNfu0zPYRmzJElzpxe6Ypxd++pyT4jWanqpJezkVygyiGkKp5uOga12Sy/nphWSaAe1NPjoyVjVATLZWAeT5LPIiqigxW4F2DUblMRn2EaVsxmFyQOcl0g==;nF4p4jctZGQfy73M/zXnYQ=="
+secured: "y0qn2qq+rbQY6y7/Jt3mgBKBkaZm9KtMuawrGm/FHMQGdQSqdIZAYjbTVDAct+sgBzU1idsfTo6Xrom1BFmeQsDyJujGtbgf4f4GygKKxSr/6JTx2Q6lubsgSHqEeFcfz3Qji4ZlPfgsFeKM+Rxb9gCIkw0RNZsrVy75sxRwm1q0rapJcNyU5cG8MhR+J1u0lSSiQ6q/SoLwwZHcad9of3JQIGvm4ikbQe30BZhhEixwZSFKllvxA6EuBaFNDeWqTXqSNbxkkmRGQdRR2sq/JrSJiVqR6IIE8PhJ4CpIMjl021CnUJ55EibNYEtrTzGtRARIpq3WAGAkJoY7ryJaHGx+pVNcbbwiU8gszvAsHpk=;8MkkQaJtTUbXCao9DkNLiw=="
 ---
 

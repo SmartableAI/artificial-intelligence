@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Qualtrics Announces Delighted AI, a Machine Learning Engine to Automate Every Step of the Customer Feedback Process"
-excerpt: "Qualtrics, the leader in customer experience and creator of the experience management category, today announced Delighted AI, an artificial intelligence and machine learning engine built directly into Delighted’s customer experience platform."
-publishedDateTime: 2020-09-24T03:35:00Z
-originalUrl: "https://customerthink.com/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process/"
-webUrl: "https://customerthink.com/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process/"
+excerpt: "Qualtrics, the leader in customer experience and creator of the experience management category, today announced Delighted AI, an"
+publishedDateTime: 2020-09-23T21:42:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process-301137074.html"
+webUrl: "https://www.prnewswire.com/news-releases/qualtrics-announces-delighted-ai-a-machine-learning-engine-to-automate-every-step-of-the-customer-feedback-process-301137074.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: CustomerThink
-  domain: customerthink.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-    width: 1280
-    height: 1280
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "sJSqOPAYtLxY2M7T0Rx5YC0WIstRQN7neIbyhUvN2qpJoc+eTpOX5p0ppw9RFC7RuIW7GLY0ILdD9Pp/iRo2ST2NW1ca2Ak2kXMQjMrlsy7Lpg8NW/CfuQB6kL00m54xYU0srasFiWefTJz3OTXtXCTMcWd/E2+uR+9AA4a06ZxYR7LN3BlZJ+9o11Hnie+ZVA/661pk82xvUPlCG6NsATfCxXFoj6LuGmpXbm5bcVqopAINTklA1/Inc/IjQPVh3vFinPFGZLNNr/2oOAHcP/oiWx4lZeQYz+TmfwsBt5jYtt3AQLHeDHAKh3Gpgkc2fci8qo4d9eO2t23Mf7ClHa89uYZsQi50FTCwpydAMQo=;WhWtDGOpdNSHM8fp3KTE5Q=="
+secured: "At7ZPCg+yp+gBLO7sIsZrgw9Li5BeYoN3C9jVym8n77WgnWAToKT0RZNBMPICtEE+8URnj8dbLfMn+ezbWnI+UvHccpkNPfIGi46Yz9x3exYhm89smiYvy+ggE04lohXQQ3w4Ti/8KIeR5c85QYhrcRtwzUrEHZ3qxsxvLL0sKeYD5ZHd9adulSsZkMAGxKrdzaKQDasQXuIRG5HdCNzajmpxIbZv8qZRp5i3IzS5bTHHvLsFvrPI3oIfErFw8y+8jKJmnOuFtYRyeX1bSqYIIdZZmC9x9wQCGFthA8peWb1kigKmmNeOUAzxiDa0oJiwmSuHv9/KIZi4+kly681bL/HxLX39dDdykSFaeAydSo=;uz7RuNw6hTsyLbPFEdMMtg=="
 ---
 

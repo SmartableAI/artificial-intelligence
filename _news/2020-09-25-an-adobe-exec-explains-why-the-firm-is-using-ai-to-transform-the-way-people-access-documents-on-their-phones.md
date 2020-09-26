@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T17:37:00Z
 originalUrl: "https://www.businessinsider.com/adobe-document-cloud-artificial-intelligence-pdf-mobile-digital-transformation-2020-9"
 webUrl: "https://www.businessinsider.com/adobe-document-cloud-artificial-intelligence-pdf-mobile-digital-transformation-2020-9"
 type: article
-quality: 48
-heat: -1
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5f6a7dda862a00001153f699?width=1200&format=jpeg"
