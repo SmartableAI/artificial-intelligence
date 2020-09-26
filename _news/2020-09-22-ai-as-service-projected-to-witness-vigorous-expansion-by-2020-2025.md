@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-as-service-projected-
 webUrl: "https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Voice Recognition Biometrics Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 21, 2020 (CDN Newswire via Comtex) -- The report titled Global Voice Recognition Biometrics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 ..."
-    publishedDateTime: 2020-09-21T21:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-biometrics-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wYQuotX95shCGA+J4XYetZkmywUQQPVvQufNVOyDOBMQ+gKFhc7PFtf4hBCtIbXB2gp6tdO4fBOG1TDUyU2R1Y2xeK76q+CJwMyabrChDS6KG8bfFQj5PAqRbZ/mrcItZrTCbUiMesFS32W501dgiqmGaP55gAvM5oyEcyS0imM36XcTccB6M1BSWXV7HhuwN4zWSAEn388fFXQ6eh5hXw/lQI7mIuQNTmhKB20/2q/52ML+zYBPdGHXsb8QIrc0Q9rVVzqAqh8FyKYmrM33FB9Xr/R2zsLRsY/F3R4eNa98bfblCMOnxE/XojAnhOJ8KCcXjA2UZNRkE7giiGRfQwZlg03Oca3Pkt0dqXVuh78=;ObmYn6gqBCAVa5oULo4qsg=="
 ---

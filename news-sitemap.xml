@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.engadget.com/tma-flight-simulator-azure-144503469.html</loc>
+    <lastmod>2020-09-26T07:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehindubusinessline.com/news/education/iiit-sri-city-adds-mtech-programme-in-ai-machine-learning/article32702623.ece</loc>
     <lastmod>2020-09-26T04:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,12 +69,6 @@
   <url>
     <loc>https://www.forbes.com/sites/amirhusain/2020/09/25/three-coming-shifts-in-ai/</loc>
     <lastmod>2020-09-25T08:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/</loc>
-    <lastmod>2020-09-25T08:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -145,6 +145,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9</loc>
+    <lastmod>2020-09-24T15:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.digitaltrends.com/computing/nvidia-geforce-rtx-3090-review-roundup/</loc>
     <lastmod>2020-09-24T15:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -183,6 +189,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/selecting-the-right-metadata-to-build-high-performing-recommendation-models-with-amazon-personalize/</loc>
     <lastmod>2020-09-24T13:21:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web</loc>
+    <lastmod>2020-09-24T12:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -417,6 +429,12 @@
   <url>
     <loc>https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/</loc>
     <lastmod>2020-09-23T11:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology</loc>
+    <lastmod>2020-09-23T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -721,12 +739,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-as-service-projected-to-witness-vigorous-expansion-by-2020-2025-2020-09-22</loc>
-    <lastmod>2020-09-22T02:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-study-covid-19-impact-analysis-growth-factors-outlook-till-2028-2020-09-21</loc>
     <lastmod>2020-09-22T01:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -877,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

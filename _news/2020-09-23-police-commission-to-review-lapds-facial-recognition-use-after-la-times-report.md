@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "LAPD used facial recognition software tied to wrongful arrests"
-    excerpt: "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ..."
-    publishedDateTime: 2020-09-21T22:36:00Z
-    webUrl: "https://mashable.com/article/lapd-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web"
-    excerpt: "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web."
-    publishedDateTime: 2020-09-24T19:50:00Z
-    webUrl: "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh"
-        width: 4875
-        height: 2738
-        isCached: true
   - title: "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials"
     excerpt: "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009."
     publishedDateTime: 2020-09-24T22:47:00Z
@@ -75,66 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Report: LAPD used facial recognition nearly 30,000 times"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
-    publishedDateTime: 2020-09-25T22:49:00Z
-    webUrl: "https://www.ctpost.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "The Detail: How are the police using facial recognition technology?"
-    excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
-    publishedDateTime: 2020-09-23T17:10:00Z
-    webUrl: "https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Despite Denials, LAPD Reportedly Used Facial Recognition Nearly 30,000 Times Since 2009"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday. The LAPD doesn't have its own face ..."
-    publishedDateTime: 2020-09-22T01:18:00Z
-    webUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 51
-    images:
-      - url: "https://media.nbclosangeles.com/2020/09/GettyImages-174932708.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
     excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
     publishedDateTime: 2020-09-22T02:21:00Z
@@ -146,42 +54,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 36
-  - title: "Global Facial Recognition Market To Amass Huge Proceeds During Estimated Timeline"
-    excerpt: "The “Global Facial Recognition Market To Amass Huge Proceeds During Estimated Timeline” A fundamental outline of the Facial Recognition niche is presented by the Facial Recognition report that entails definitions, classifications, applications together ..."
-    publishedDateTime: 2020-09-24T06:18:00Z
-    webUrl: "https://www.openpr.com/news/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
-    ampWebUrl: "https://www.openpr.com/amp/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2141145/global-facial-recognition-market-to-amass-huge-proceeds-during"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Report: LAPD used facial recognition nearly 30,000 times | Raleigh News & Observer"
-    excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."
-    publishedDateTime: 2020-09-21T22:56:00Z
-    webUrl: "https://www.newsobserver.com/news/technology/article245908335.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/technology/article245908335.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article245908335.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 33
-  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
-    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 21
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
-        width: 610
-        height: 409
-        isCached: true
   - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
     excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."
     publishedDateTime: 2020-09-22T15:45:00Z

@@ -40,6 +40,22 @@ related:
         width: 805
         height: 453
         isCached: true
+  - title: "MIT professor wins top AI award for cancer, drug research"
+    excerpt: "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research that benefits society ... and gained almost no following, Facebook said. Their primary focus was Southeast ..."
+    publishedDateTime: 2020-09-23T14:20:00Z
+    webUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
+    ampWebUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
+    type: article
+    provider:
+      name: WAVY
+      domain: wavy.com
+    quality: 59
+    images:
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/09/4609b2fdb139436693ce18ebc650d90b.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Professor at MIT wins top AI award for cancer, drug research"
     excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence."
     publishedDateTime: 2020-09-23T21:38:00Z
@@ -55,20 +71,6 @@ related:
       - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/09/AP20267545042752.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "MIT professor wins top AI award for cancer, drug research"
-    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for"
-    publishedDateTime: 2020-09-23T14:08:00Z
-    webUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/d4b1b23bcefc4c12ac340164ae950fcb/2000.jpeg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "5waU1qoVFF9s2AYWvO557g7N5gvFZhXOVG9H4Yop5f5Wf56/CKosaQwcyaPnSplOKM6xRMMQTPSPaEx5KVVNwu0juazcgnjEd1FpGe5MVOkVsiZwC/DCvkTIhh4+8Ze1Fp5bI9lZj/6+UzG6YQVew6IfG7HpvPl6w/F+PgDpv4e6mH+JD1byxI/ylJYwf1wZWhCeWzNaC4LR8EO4twd4hMVuu63hrcj9dG2fC35OrSR5Gtj1uL2AlXS7lt2pVv0PBEuvwj7LmInC/NV51sMWhOHabpFDJfuJczfIEzZhm1eH+x6kUEPdjolRf2WNhihmzq92XPGbpsk4ki7Wo+ZnKdGnbabTCV3jumgRw/HtMSM=;8a1prauq0HhEQaH0jYr6AQ=="

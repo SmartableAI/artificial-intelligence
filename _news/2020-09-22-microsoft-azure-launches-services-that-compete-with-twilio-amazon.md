@@ -177,6 +177,20 @@ related:
         width: 950
         height: 633
         isCached: true
+  - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
+    excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
+    publishedDateTime: 2020-09-26T14:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/new-azure-communication-services/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 49
+    images:
+      - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
     excerpt: "Now in preview, Azure Orbital on-ramps your data directly into Azure, where it can immediately get processed with market-leading data analytics, geospatial tools, machine learning, and Azure AI services. \"Whether you choose to use Microsoft' or partner ..."
     publishedDateTime: 2020-09-22T15:52:00Z

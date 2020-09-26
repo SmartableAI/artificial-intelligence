@@ -2,15 +2,13 @@
 category: news
 title: "Amazon Alexa: How developers use AI to help Alexa understand what you mean and not what you say"
 excerpt: "The developers and engineers on the Alexa Smart Home team use a variety of mechanisms, including AI and ML, to help Alexa better understand your voice requests."
-publishedDateTime: 2020-09-25T15:42:00Z
-originalUrl: "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-webUrl: "https://www.techrepublic.com/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+publishedDateTime: 2020-09-25T16:02:00Z
+originalUrl: "https://www.techrepublic.com/videos/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
+webUrl: "https://www.techrepublic.com/videos/amazon-alexa-how-developers-use-ai-to-help-alexa-understand-what-you-mean-and-not-what-you-say/"
 type: article
-quality: 75
-heat: 85
-published: true
+quality: 55
+heat: 65
+published: false
 
 provider:
   name: TechRepublic
@@ -24,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2015/09/14/7ec6790b-2644-456e-b63d-6a07ddd173d3/resize/400x/3f0ca063a1a96d845fdfd2ff97d575ea/amazonechoteardown015.jpg"
-    width: 400
-    height: 267
+  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/09/25/6fb9f2e4-bc91-4274-80f6-b35eed78ac0d/thumbnail/768x432/999202a337f3bf11e2a505573c48a3aa/20200924-dyndev-evan-bill.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -45,6 +43,6 @@ related:
         height: 360
         isCached: true
 
-secured: "5Uz6rmLcM2uxCcI0XWqUawF5rZXBcKqKXen9Mtr3jCDx6JTPe6t2Vb+rccZXFaLpoOICQqcp8o0gBhVOu0iuM9bzZ98PpwvELbVMiOqFtuDd4xY0wW34fi9cPqNjSBmBqV1b42rV/nmX1wFq2sPcBMA2czf0JBOL98OuRtODKvoHysOdCm2YMT1lMFsbPI1Byka7REr885qRayaIsjIRRI5mE/hKKFJSkWhDpweDrL8pVGp1kQghwpwC/q/RBtS0dQtlSdeXi3IWqS0Ut9C2w3ku7IPJJdLC+TIdLK3bOqvHKN3vGFV5WO2f9adU3Z/lfXlW+V5405vFlBSgt7L6bn1cT3ekB2j4AhHZL6enSrJZVzMpsxsReO9d6+9aycrOUx5AMnP9u2OXrJ4S6kOgi9rly4L30dK+ZQM8SlAV0vsWeGiOguk+KDNwCLSaS/x5ADssrOY0mpCvfxdk/0fPSgMETTGlK+yMdQSN8+j+MqAvNxjUrRVVnY0NCM0+ACjQmtrWcQS0wyy8OMOpC/4kig==;Uo4xIPwU0XFNVUz9Efvp2g=="
+secured: "AYn1KhUhJg5VsgP6Yl3IbX40+JH+P0QLJBiV8ZY4rpSuz2u69/+97WCKP4+q6zXqoabvEmCcE8CHTUhyqxiKywLrMUsDNn/dkMgqIzahcY7OXFeAVOPNYO9maukMP97uNEVif/njUWWd5OJgnF4Oywn+cDDLV3cTuBK5ePi+ovF8uuZlbfog+27ilZQHgD9/qh5jOh4V6gdiK7YrCCTZvTIy29F3IAgakVm4ORuIBlFV1UHorDZsktVesA47gmP4pHGjQrqcFRnfcQL2xUHAC2+R3834zxPVuZ6986RyibgAoByTwqhPO6NoxLLKSI/SRLhSTe5p9f3N3AYTdYxJxzkEbtnb3RFMXmT0q+ZM4kE=;Nc7Aj2Tb+5FX9jxvAqF5hg=="
 ---
 

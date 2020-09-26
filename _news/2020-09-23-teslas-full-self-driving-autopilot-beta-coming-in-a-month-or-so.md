@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopil
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -119,22 +119,6 @@ related:
       - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "PennDOT is in the forefront of self-driving cars becoming a reality, official says"
-    excerpt: "While there is no set timetable yet for driverless cars to hit the roads, Pennsylvania is in the forefront of developing the technology for it to happen. “This was once just a dream of science fiction writers,"
-    publishedDateTime: 2020-09-21T21:15:00Z
-    webUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.html"
-    ampWebUrl: "https://www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
-    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/news/penndot-is-in-the-forefront-of-self-driving-cars-becoming-a-reality-official-says/article_2896c085-f12f-5596-83d4-35d4345969ca.amp.html"
-    type: article
-    provider:
-      name: The Mercury
-      domain: pottsmerc.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/a/73/a73fadca-03e9-59de-b83f-7dff957b1c02/5f6a273bb1d6c.image.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Beijing to build pilot zone for self-driving vehicles"
     excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"

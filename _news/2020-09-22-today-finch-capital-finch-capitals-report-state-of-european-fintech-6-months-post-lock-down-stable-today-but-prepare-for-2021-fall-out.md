@@ -30,20 +30,6 @@ related:
       name: FinYear
       domain: finyear.com
     quality: 9
-  - title: "Finch Capital’s Report: State of European FinTech 6 Months Post Lock Down: Stable Today but Prepare for 2021 Fall Out"
-    excerpt: "Finch Capital issued its annual State of European FinTech report for 2020. The report covers a range of topics impacting the FinTech industry: where we are today; the impact of CV-19; the M&A conundrum;"
-    publishedDateTime: 2020-09-21T23:01:00Z
-    webUrl: "https://apnews.com/business-wire/9ae227b066be4e009286c8687c6b8684"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "zisRLX0LwjgBqwvrXRcHI6erCdXIzsfALFMF0KaQ+wP3oIjpu26gkDr4vC+2Uc0c56s63YjVLxgbHZi3fNv9N51WR/0pCDey61APSgTzgHGMY/g1ENnk/kEQA6tLF3JAvSzcTLcONyfWDYQoMNGf37J8aKBCy785hvkCLlYG0FfPyfDQW1yvQ4h3/L8m1xwthuF6ns+E8wQaJ+whELc+51/WQ6NNFwQFJKq4mK276qp6ChxKgJw6dINQOU6I53r5xlApvot/H84OUxtJqe1G0+8vLjTlZEWEBC9COkiXMw18/GqfXXzNExkrL01kxuR2jh4QA71ec9Kye+mJuPcrpZ5Qva/eZHQd7nPa485sC4k=;gsk8dvhZO07bh6rq2awFHg=="
 ---

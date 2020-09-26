@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
 quality: 129
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -173,6 +173,20 @@ related:
       - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
         width: 950
         height: 633
+        isCached: true
+  - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
+    excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
+    publishedDateTime: 2020-09-26T14:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/new-azure-communication-services/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 49
+    images:
+      - url: "https://res.infoq.com/news/2020/09/new-azure-communication-services/en/headerimage/croppted-ACS-1600940197471.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
