@@ -2,25 +2,27 @@
 category: news
 title: "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars"
 excerpt: "The algorithm attempts to verify that a driverless car will maintain ... Professor Noel Sharkey, emeritus professor of artificial intelligence and robotics at the University of Sheffield ..."
-publishedDateTime: 2020-09-14T15:13:00Z
-originalUrl: "https://www.belfasttelegraph.co.uk/news/uk/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-39529360.html"
-webUrl: "https://www.belfasttelegraph.co.uk/news/uk/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-39529360.html"
+publishedDateTime: 2020-09-14T16:59:00Z
+originalUrl: "https://www.irishexaminer.com/world/arid-40048664.html"
+webUrl: "https://www.irishexaminer.com/world/arid-40048664.html"
+ampWebUrl: "https://www.irishexaminer.com/world/arid-40048664.html?type=amp"
+cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/world/arid-40048664.html?type=amp"
 type: article
 
 provider:
-  name: Belfast Telegraph
-  domain: belfasttelegraph.co.uk
+  name: Irish Examiner
+  domain: irishexaminer.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.belfasttelegraph.co.uk/news/uk/d6c75/39529359.ece/AUTOCROP/w1240h700/bpanews_a11fe5f0-ad87-4811-b7f1-a74d1bb20eb2_1"
-    width: 1240
-    height: 700
+  - url: "https://www.irishexaminer.com/cms_media/module_img/3913/1956596_1_articlelarge_2.53370781.jpg.jpg"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "Th+PhsNGhACIJ3OqEZz2IB7NcQwYreAokqNoNFIpfv+VJVZeMUJETNRiIusSlKYOnBb5AzWBhq6jifM7XXGWU4SPXTh1VardqPrtrZXkAwm8HEx0Sg45eptNO0DeWeGslRwwKcmURWTmY2t00RgUzA8mpXkXLRbHb4Y3Cgt8wZHInl5nxPJ+RFOfhirJJAx5k8Fqv4el2UL5jqZWB6YRgEg26736kGkH9n74t1S42rFdVLnydzFhsphG38I3Qs+7J+9YStFNcdvLbIWqBCZOvvv2TWs94D6XuIFvx8nTOeZfWuAOMewzxNhXMWYGOUmWIDq66AaayS78G3qZbUV/qoBwfyVxzJOfjsqsN6XFuuI=;K//XC2OUK9oGcscb1K5onQ=="
+secured: "9aoqQvms2uFMW0a8sPj7BZ0nZhiqAdb4M6vhX7J2/LutLdZjorFUEJ05BrSJwPmaQdVsImpz/u+MvXHhEtspyAMW+bIKxo0Q17k9NLHnDRSTS0iAexqcE7aw7shhW03SWVypTxRGijSQ8Q8telhRG80gc+6JgzOle27/8TZVho+49v48sT8memIw+5VSqCkkSORTZQwugj8tnrfdE5SOwHVz+TT5xrHamOhyoRkp+/AYsH0MVQ7k1uZktbBYhgb2VQWFLQ3lTV9m1mnUIf3HOQZb+0mkD81sOfibMIkTpiRsPi4C7JlPi1AmE/+gnK80aYWI+P433TB6LhX8rYynZeN2knuxt+7wRe66RH+U7kY=;pYSVv1MxhsUUtYKJJGE9WA=="
 ---
 

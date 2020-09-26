@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: VICE
@@ -28,17 +28,6 @@ images:
     width: 3506
     height: 1970
     isCached: true
-
-related:
-  - title: "Twitter investigating racial bias after users noticed the platform sometimes prefers White faces"
-    excerpt: "Twitter says it's investigating why its picture-cropping algorithm sometimes prefers White faces to Black ones after users alerted the company to the issue."
-    publishedDateTime: 2020-09-21T16:57:00Z
-    webUrl: "https://mobile.twitter.com/elonmusk/status/1307828265445400579?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1307828265445400579|twgr^share_3&ref_url=https%3A%2F%2Felectrek.co%2F2020%2F09%2F21%2Ftesla-offer-machine-learning-training-as-web-service-dojo-supercomputer%2F"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 119
 
 secured: "aHnF+DFULC9laqLt4NSkTUsigmwEDBzXADjAB73vrZQzfdo9FT6uLpOlmknK6QWUv8MAf19kpQ/7IJtZu/rMsaTnvbfrhK3Ke2F2d3rnY2wmRJQTSu8yKo/tQD70sgABfl3pJcrjyimOQub2fqb8kRagoB0/jai9sSmXvCr+z85qi7nBi3PdfcGnkBJAu9l7Mk52T2IfgIgMiIwIsA4SmyOGlFguhillzrQSKg4uoXeHKvaQ1oKEHQJ0bsYbpg0fibJsgAQzrlo+1oegsotE6Fu4FGSL8fopE920s4ggA6m+k4E5MDkVQWicuQ2bsFcq06nwFq2PZss4LhEkl1xN4YTdtYHGH86f8GZR6bcr1aY=;7vX/GsZyCOw6tH6qDREF0w=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Machine learning takes on synthetic biology: algorithms can bioengineer cells for you"
-excerpt: "If you've eaten vegan burgers that taste like meat or used synthetic collagen in your beauty routine—both products that are \"grown\" in the lab—then you've benefited from synthetic biology. It's a field rife with potential,"
-publishedDateTime: 2020-09-25T09:14:00Z
-originalUrl: "https://phys.org/news/2020-09-machine-synthetic-biology-algorithms-bioengineer.html"
-webUrl: "https://phys.org/news/2020-09-machine-synthetic-biology-algorithms-bioengineer.html"
-ampWebUrl: "https://phys.org/news/2020-09-machine-synthetic-biology-algorithms-bioengineer.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-machine-synthetic-biology-algorithms-bioengineer.amp"
+title: "Machine Learning Takes on Synthetic Biology: Algorithms Can Bioengineer Cells for You"
+excerpt: "If you’ve eaten vegan burgers that taste like meat or used synthetic collagen in your beauty routine – both products that are “grown” in the lab – then you’ve benefited from synthetic biology. It’s a field rife with potential,"
+publishedDateTime: 2020-09-25T13:09:00Z
+originalUrl: "https://newscenter.lbl.gov/2020/09/25/machine-learning-takes-on-synthetic-biology-algorithms-can-bioengineer-cells-for-you/"
+webUrl: "https://newscenter.lbl.gov/2020/09/25/machine-learning-takes-on-synthetic-biology-algorithms-can-bioengineer-cells-for-you/"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Lawrence Berkeley National Laboratory
+  domain: lbl.gov
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/47-machinelearn.jpg"
+  - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/09/Berkeley-Lab-Hector-Tijana.jpg"
     width: 1400
     height: 933
     isCached: true
 
-secured: "esgAQkXcm78JPIqmv6FJkHkkOtYtU8Xt+/uHjeFd/8eC5xqnjyLkoiknmZeHOSblnVNzfinh6U4FDu5KkbCi5Ddu6nJuSHbF0A26n0I4dOrm+qUi8I5V+Fs9xNZn9giqQ8+Ty8aJRqQhvAUU8cOM8AzW2oa3EPA3SjqEeAw8IWJwrOkQ/AxjgZ3Ti/WN/3TBVw+56MGcb3STwr7kJkP/gHgAqwPJal6x4vdWoj+JYjgM2t2bmLfgTZlVduDw+PsNCjbwg57zCpeQb6iogrEX02Ia8EcykzDZzCOMchQqeeZIYw+E40eh5lY1SAbHHwCFyDaN4vtfaTJD+rTKcq89INQkZD3GeslUkbVJn539YvzjoPSIUCfNTWy4ArWq81L/vw3MBIYFqFGtbWeHBYFUH02UNOZxOucO7s49qRIGpl2UbGO62I1QtjIVu6PyLOp0DdSv5Br7sPpcprrcIgW+NbkjbyfdD+K44L/AgH6s4+SB24JcxRSsHYsXzpEQ4YI5jODGUzMpVcbXY1dImBkugA==;8RQz4idRyTTDFN8tCt0Hjw=="
+secured: "QVxpeCmGYIj40AOJB5mqJhlleWoDD7I1Lk2iJ7n1sLd/R6lhnZuavR9lBsUnadzjO9woHZPEPsQKBqjMRSGuEAcScRYm4k7Zw1ioEXSkcC8G7RyCLHuMK3JSrdA9epuejig2qaspaL8Bc5vKd5eVFzSrOPlRlmmcawQA3Lvl0kxt4QH3zI7aXfQVPUQRBtuxOT73dujBLNrxo9GFBLgafQzL9u8W+QQ7FyDHR5EIWDr6cKqTyhUIQbGBF94guQKturN9Z1NhSb9nc30QTeuHyUUsXIKLtatYTXS1gWv55X0J3DUg233TZshRxXPBTzRQbR2n+zmXqsqAuwcxWwIYXS7EYvBtOF+fYImTIg0N7VE=;yWuLOgtcqwoI5ga3w6wSGg=="
 ---
 

@@ -87,15 +87,6 @@ related:
         width: 900
         height: 581
         isCached: true
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
 
 secured: "NQwMv2FKkClYSOm6AZyLrqLiV7M+9sZPMG6A+a22IeXUo87mie9w0ljymbCAQxaAxOnH/4PCNgPF2zzznpjuI3h8kHsE0b3ANXIUyxlLnvy4HVroS5LqUYxKTePiQgkMPx55tNb/oc+ZzV71dcmrX6uEjQrw+/lxjkEn34PGXoIcU693sH7yRaUMCEuheT4qBzRt3A6DHHuz/tkdvRyh9KHNK19UFJ0UEFJzYjuYS8UR+MIuASpt6GC/tCyMh3Q1jWCoSDeJrQGzhVwNWHzWG9na27wYnC8PFqt4XexnnXRpRcj1eWiti7HkbXjcjaOgUUHuXoNd3Tce2Cdxpw4V0uZBaq8KMD1YB5aT4eX26YnVT1Yd2M3fQeg8wU42IRznejBiqHtNeI731vElkii71sb1aouD/wWeMGK8L8STiQiud+aJPIKfidvtEv0v5O9YZ5YgndygW1ZJO4Ek3XHs/9m9SRIHMCnaHl/4tCW4d6dkkF8fkVJf6QMFu05ow6nZSFNpZDsERlflhqZAHlF4gg==;7iajul8hWKmUMdn2CNfOPA=="
 ---

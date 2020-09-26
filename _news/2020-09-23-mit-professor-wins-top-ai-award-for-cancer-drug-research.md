@@ -1,29 +1,26 @@
 ---
 category: news
 title: "MIT professor wins top AI award for cancer, drug research"
-excerpt: "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research that benefits society ... and gained almost no following, Facebook said. Their primary focus was Southeast ..."
-publishedDateTime: 2020-09-23T14:20:00Z
-originalUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
-webUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
-ampWebUrl: "https://www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
-cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/mit-professor-wins-top-ai-award-for-cancer-drug-research/amp/"
+excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for"
+publishedDateTime: 2020-09-23T14:08:00Z
+originalUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
+webUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WAVY
-  domain: wavy.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/09/4609b2fdb139436693ce18ebc650d90b.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://storage.googleapis.com/afs-prod/media/d4b1b23bcefc4c12ac340164ae950fcb/2000.jpeg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -74,6 +71,6 @@ related:
         height: 524
         isCached: true
 
-secured: "cNSyRzmlWtM46WQNppSaB9ikBZOPh53PNpbDdm7FWnDsEaHM4XP32iew5dhrgzize0bq+gNe9zvgivtodbT62bwSXJ/y2/UR8/hpIcJkKFBp8gAGO3qLhSAGk5Lwx7FFPCL3CYw3opBy5ey6djeflNnh4l/01d7FAkHyuW9jvAM2JOxPpPiYJwng9XmgFFHeIFucLn74AVSBWiNmHm395EBI0EsPmxx8mRY7w7igOJ9L+ynaXHL5UmCfziMxm2wrZyGzBFr4hQ7i5D0J5XONYXUEZkAknBHmuRzv+WL5ADB9aqC/LVTi92QVUfT+AfpIsaAhnW112fEhxrTbXiarUtTiaOrtKHY7MBzbYYacKS0=;68ko2E6s/cmUNnUeuL7CCw=="
+secured: "Z/CeOCJgJaFWruoKHQwfTIt66usIszP+9bqwlJ9ZopRJXQDQYMCmeSIDRjTVNu9VF2NVepv1J6H9k6azDYSgo+nJDQ18ZIILMzFk01vT0Gj4xHQW4iLnUX7r7w1rYYUuRG4Ew0rWY0hcFNeyHNyhrEudhaiEy6dVXlHyfA4GHZURh/0ysgAmsU0z7qI5468RRd8fgHY7YkF701vtyO4Cvrupfa9+JOniiRjayORBnUH7YSP7xYHD/s0SkzOZ+7Y1qfITyuOOnaEXzgrqquvNBevrubB/mkwmbgNRT5IsXhpsj0jqDFuqVUWyKihjSXH9ZYXUFt/Lw7jGpt2n6LtnKmMdtEl1jqGU7xSY8MTN0EY=;YE5zchaQ8rNAUp5U9iGCZg=="
 ---
 

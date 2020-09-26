@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 900
         height: 581
         isCached: true
-  - title: "Investors Want Shakeup In Uber Self-Driving Car Division"
-    excerpt: "Uber Technologies is under increasing pressure to find new investors and revamp the strategy for its experimental, self-driving car division."
-    publishedDateTime: 2020-09-21T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/ridesharing/2020/investors-want-shakeup-in-uber-self-driving-car-division/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 4
 
 secured: "DYtiBu9MSanHOqahLNzLJvJ7IVO196UwzLnifqvmcM3/7QoGF+BElfbNvDm4+O1V1/QuL/0trpajNg9z2BtrBgV9++hTCR2/T5GvyXHpF5aG1RHYnyd7VIiiwOz6j/8eJ2Z27dep6z6IZdN2ePx5AfadxKVBYWpTV/zSoCe9U/VylE45113W07RvabdLVcbNPNvaCXeUX3ZskF8gFPXxAwHOZgzYUT4N2N1/8H6bky2lKg7eS4HSrwHkPJO0tgV6aSPGSsy5tUG04Fvca6W7ca7e1tYQnnXedVIEoHniHRWgNb5/7wuRAmtqmFgCGndlcJOgVySzMj/uZCIUGMc8DQHNJG2rgtvSS9FvwTso+jA=;SM8cyRCM8oel1IHmbQOfHA=="
 ---

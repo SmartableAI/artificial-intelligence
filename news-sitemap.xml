@@ -319,7 +319,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/</loc>
+    <loc>https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/</loc>
     <lastmod>2020-09-24T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -537,6 +537,12 @@
   <url>
     <loc>https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568</loc>
     <lastmod>2020-09-22T20:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias</loc>
+    <lastmod>2020-09-22T19:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -859,7 +865,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1867,6 +1873,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.irishexaminer.com/world/arid-40048664.html</loc>
+    <lastmod>2020-09-14T09:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.psychologytoday.com/us/blog/talking-apes/202009/how-safe-are-driverless-cars</loc>
     <lastmod>2020-09-14T09:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1917,12 +1929,6 @@
   <url>
     <loc>https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html</loc>
     <lastmod>2020-09-14T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.belfasttelegraph.co.uk/news/uk/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars-39529360.html</loc>
-    <lastmod>2020-09-14T08:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

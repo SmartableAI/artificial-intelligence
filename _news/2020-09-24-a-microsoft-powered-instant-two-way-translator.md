@@ -3,10 +3,10 @@ category: news
 title: "A Microsoft-powered instant two-way translator"
 excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
 publishedDateTime: 2020-09-24T11:00:00Z
-originalUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-webUrl: "https://www.zdnet.com/article/a-microsoft-powered-instant-two-way-translator/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
 type: article
 quality: 74
 heat: 84
@@ -43,6 +43,6 @@ related:
       domain: zdnet.com
     quality: 54
 
-secured: "tITYU3tRF9Yi2cRByoOV30bw8NLbG8StlftbMlvLFOv8QOTTWM2+dWjfxp87aUvQiAbslcTW9flmuUk6yioy8RFz1/Igbsz8t8vXqCCnnYhLh25CBMaJoEHra8p/6gbZXKsn3et5iCpQotOOuYCGsm4y43e229m22zVBiFxudLAjDCZpDzbSMe1OYCX0dF6JYR12UvLydQEskgiIVteY/dWyYiqpEEdDvXzS6/Xj08NvCw9DU0XnhPnkpEPenJlNvxx2z2tyiZ/kea1GYZ7ff0jMO3qc2eyZ2KEZXMKg9ByEjYtzRx1dkIkhGZVnryXfnQVCiD35S+m4s9JSQX0ZBdxXzZdoq5kSedaLNqMh/T4=;2fheQ19kWXUZxmpt0MNbaQ=="
+secured: "pWWRtS/zaQ5GWstDvtJPLw4T1TiMBAkCvwXtvUGwRtq3R9foZauXVXrbukvk3GmwsiJoC56oCqbqprQD01bOeHpHWm9q196ZQiQCAr3Nm18womDAfaf3azK7C6Te9I1gJw+RlmNMrT8bY634nYUvwxWBeDO9yYeqNRKZTPAYAw9InaHATOicIz+70jGtf1j6tbk0nPXYQ6D3lrVg2pRng5Y6kToCmMoAjq1SFtnntWGV6ndT8UpmhznBF4iWnhWjjvXH5F92fV+w5dOP0Hv3eMod+pMXgdCz6viVGr37tU3XbWOru6dA+mLwFbmAltGTnBWpyCv94kEBziwJyp6MRNSfkaUsiigV8J2hSVRNwdc=;YLP9AaHQ9TZSv20vOnCVCg=="
 ---
 
