@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-enormous-growth-worldwide-along-with-future-outlook-2020-2026-2020-09-22?tesla=y"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Infrastructure Market 2020 Is Booming Worldwide | Top Key Players : Xilinx, CiscoNutanix, Habana Labs, Oracle"
     excerpt: "Global AI Infrastructure Market Insights Forecast to 2026 The AI Infrastructure Market report helps identify the biggest opportunities in the AI Infrastructure industry space and offers accurate latent demand forecasting that empowers quantitative decision making among AI Infrastructure market players"

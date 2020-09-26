@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Platforms Market Size 2020 Industry Share, Demand Status, Recent Development Trends with Top Players and Forecast Analysis"
+    excerpt: "Artificial Intelligence Platforms Market”research provides actionable intelligence on major parameters impacting"
+    publishedDateTime: 2020-09-25T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-size-2020-industry-share-demand-status-recent-development-trends-with-top-players-and-forecast-analysis-2020-09-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Vehicles Market Analysis, Trends and Growth Opportunities 2021-2026 Delphi, Bosch, Denso, and Continental AG-Market.Biz"
     excerpt: "The major research and analysis identified for the worldwide Self-driving Vehicles market which allows their perusers to understand the definition among players and how they are working sums themselves on a global scale."
     publishedDateTime: 2020-09-21T10:31:00Z
@@ -69,6 +83,6 @@ related:
         height: 491
         isCached: true
 
-secured: "cY3CIzAuJcBSzKKEDNjUUrzf9yK/RIgb9c1lXPAyKFneixoC+/O2yLhgZdGypdS1wWnLvil50r5I15x6xmJKiTS86fTqHh4pqBaMt1YcS78xzrjI8cTq6QHwYYsmo0oglC+9o7AgNXYq/yGIs6Q2g5JzRIVOTh97k0M4KjNRX8IHGKk+vWbsrGNewuHAdlPrkjo76TgIvlM98p0MhSCn0aQk0KdkQFHy+TIS7iQ1pr5tGlTGRgRZP/hHGbCmpucJDwp6g1cLfRkMi/mHdvCFIH3aiYe3/DYlO/oWzB3ATVcqw9YUukNqZ6WhH7lBXV34fm4CGl8bBsl1izEaqkrtWu/eVTySOZGEW6AB583hldI=;ke6RLWq1UyycMNzVQnZjIQ=="
+secured: "iEpo60/Bd1e1eiceKWDmR9HJqHzEL4eWjomkBbYrW8R+i8d3NMEw0evVcCIELhBcMYxf03vd+J+3dXXp0Haze8ydS5Fah8132Lr7bU6ZGkQBjQ3h3hpZ3sH7UKkcOiueneZJqQtW5NSF3u27G6ofk/XpcvtNyq3GivA9zOF63F1mP6HicvJNBukl3Cw7zGY2LxEbUqvUXDpcmUaN9SiKTSWwBiiwaHefnQFlWHz2qha13VqZFroWQBEzhUFCnKeO/3+XKWoSb28IqpyamTvV6MDhV4nqL10l9iovU3zkSIX6e0aVdV7Sxe05MVdV1/x6N/jWyYoeK6WnPj5XSgU1d7207TvU/k/hz6DuwLV4R6FP4idWuLZnEh50fzaMNS3Q+cnr7Zy5fRIg0cb4f8BrjZ/XeQ8K58SqyoMcmPexxO1VW0I/Di09PpJskvov9WKHCZkk11chirIEG19RHhzl/9oOThsUYSrV17xTXNo7sq6P/MzMuUznVlVpPiO7jArxjG/EwxQMmihtDqUwaZZmxA==;p9Zig3KjofOZdTFWdBv+HQ=="
 ---
 

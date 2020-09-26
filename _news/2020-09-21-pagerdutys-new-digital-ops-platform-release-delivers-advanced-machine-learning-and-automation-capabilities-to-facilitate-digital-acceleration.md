@@ -41,6 +41,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "IntelligenceBank Launches Facial Recognition"
+    excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"
+    publishedDateTime: 2020-09-25T23:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/intelligencebank-launches-facial-recognition-301138357.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1281542/IntelligenceBank.jpg?p=facebook"
+        width: 1754
+        height: 918
+        isCached: true
   - title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
     excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
     publishedDateTime: 2020-09-23T17:43:00Z

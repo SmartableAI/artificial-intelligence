@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Embedded computing development kit for artificial intelligence (AI)-based machine vision offered by AAEON"
-    excerpt: "The BrainFrame Edge AI DevKit helps create machine vision-based access control, uniform compliance, manufacturing automation, and video analytics."
-    publishedDateTime: 2020-09-21T05:32:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14183603/artificial-intelligence-ai-embedded-computing-machine-vision"
+  - title: "Physiq begins development of AI-based COVID-19 early warning system"
+    excerpt: "The digital medicine company Physiq Inc. has received a contract from the NIH to develop an artificial intelligence (AI)-based index that can provide an early warning that a patient with COVID-19 is in decline and needs medical treatment. The index ..."
+    publishedDateTime: 2020-09-22T03:35:00Z
+    webUrl: "https://www.bioworld.com/articles/498028-physiq-begins-development-of-ai-based-covid-19-early-warning-system"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
+      name: BioWorld
+      domain: bioworld.com
     quality: 37
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/09/Aaeon_21_Sept_2020.5f63aa1b69ff0.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.bioworld.com/ext/resources/BMT-source/2020/9-21-PhysIQ.png?height=635&t=1600726520&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "INxSkWfiUsSZPYQ2dqMQ0PGZxKDflFo/Xw0DzcpX620TGepqkbb4fN8QeDF6JkGc/ZXA5oYHaSOjDnSWKtHydRrPdhgUndI+DfnjTnh3HofQFr9KFCe0l3qFlYtkvw49VU0toudNWo5c/WQTLE1CLCUx+eT9Wwg+EesY2l4deypVZ4LCMmV/Nf371S4xoZfhH9tsfLEKmEZB5mheuTbWoc4oxoaHukwnJ7gTljCG2fMp5rW2OVBLXb2MVbtZepzu64nDKuRybl/aZe2nBTeAfiHeE4b3hGAcPDdVK/E9WGHiTog/EffTBkzJ6sdZdf1VW54PVqcecuFeqr2fT2sueVAQnKxTe9cmL25Y4OPN0AE=;6s2T3VwCq4ywgkYOtOhmAw=="

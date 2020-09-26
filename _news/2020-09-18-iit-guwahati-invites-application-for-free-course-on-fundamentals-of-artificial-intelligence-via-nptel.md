@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2020/05/e-Learning-Government.jpg"

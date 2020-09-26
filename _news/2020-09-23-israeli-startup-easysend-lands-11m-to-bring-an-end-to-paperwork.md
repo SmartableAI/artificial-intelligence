@@ -25,6 +25,22 @@ images:
     height: 541
     isCached: true
 
+related:
+  - title: "Startup wants to bring AI and teenagers closer"
+    excerpt: "More efforts are needed for the popularization of artificial intelligence to teenagers, as AI is quickly moving into the education sector, according to an industry insider. \"As technologies such as AI and big data become inseparable from people's lives,"
+    publishedDateTime: 2020-09-24T03:02:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202009/24/WS5f6c0c50a31024ad0ba7b7c8.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202009/24/5f6c0c50a31024adbd960638.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+
 secured: "DLhLUqJrcYddQa8nFCGQBdSSWTHLHXaOc1mSGzXi7TAZcsbx1uwjodz4o7MVYmYjXdM1pppU+wUnphXXs8MMX8rw9I4clHKR10CdamCrAnKfPragxSE/46ajuev+CrwoE6eeejQxweG4cqV3zYKep+SPqZozdkmcAS+qIqL7l32r1NkL83URp11Wbx2AruLlUkeCoUGxiDFLgtQqbfHI/N5aPJQ2kxaiPBuGrwvymsILCWfSt4eIDNxU5PYwDLju9iRFT3XIegSCQcwwht4BjcV+uMhRyrD/zeHJybCCzHuJVAKapNbePJ4f7YacW3oBHaEcZTJrW0ZpvlFBvzI7NPWISSOZa8hGeOQ07kGoh5H6RdUsPVW4nI73zQta5pVgsKA/tm5crznJW9xdZCx1MM85iJ5ODpKPnop6KP+ftmvxrbm7g+GiuNX/0lf+4lzOwdjkSYRHWoMExAVFFWxMC27cLqSI3i+7ldN5z66S08BrPEnwcEVRZ6jUcDbzHVcN5URBOf89gjtzQO6E5FCQ5A==;Qo0xvPQIm9Pn1/1/SkzjGw=="
 ---
 

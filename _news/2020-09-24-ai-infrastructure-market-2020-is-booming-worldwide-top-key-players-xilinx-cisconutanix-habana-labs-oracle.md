@@ -51,6 +51,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence Edge Device Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Maharashtra, India: DataLibraryResearch.com add a new research report \"Artificial Intelligence Edge Device Market Opportunities and Forecast 2020-2026\" to its database and report forecasts the size of the Artificial ..."
+    publishedDateTime: 2020-09-22T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-edge-device-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j6d0vaWukd3/PoCG10fyZoBFlh+AhN42Bgf5La990mfNdpFJj0FneTFjvpLnO11Cd+w2tW728gPQyT8kqH0SMgyL4uTGKz9DbkgY8uia4AAKeyFFu9O07ro3ezGO8rWf3VX3GvI4fNc1XxrJVnAnBUpMxIhMr2rLkb2chRzWVdlgbT6lZky6e6VO9yHzeoVFG7KITL4h3l0iqmoz9N1uDVewVsfmeJFdwKVDAQAptmxHlsSSVkOhF4eguw4N8XlnE8Pxl69BwaE+15uyA1M7LNPKdHbMK3fe+FOXBffmXlxFjbPM5H1n8nooDykE+8q5kYNpQAG8OE7pQdklOzdf3Z6EU3pfym4AZz4R1EcjRTs=;fgfNmmt53qOsZTNGO/w5ZQ=="
 ---

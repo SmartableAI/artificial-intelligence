@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "UK chip designer Arm to be acquired by US firm Nvidia"
-    excerpt: "UK-based computer chip design firm Arm is to be bought by US tech giant Nvidia in a deal worth 40 billion dollars (£31.2 billion). The US-based graphics chip maker has pledged to keep Arm headquartered in Cambridge while also promising to expand on Arm’s work to build a “world-class” technology centre."
-    publishedDateTime: 2020-09-21T05:26:00Z
-    webUrl: "https://www.salisburyjournal.co.uk/news/national/18718604.uk-chip-designer-arm-acquired-us-firm-nvidia/"
-    type: article
-    provider:
-      name: Salisbury Journal
-      domain: salisburyjournal.co.uk
-    quality: 39
-    images:
-      - url: "https://www.salisburyjournal.co.uk/resources/images/11804326/"
-        width: 1620
-        height: 1080
-        isCached: true
-
 secured: "q7xoM81JVyU5Z3UqKcLcZ/vk2FXRpaUySNvs6af8MU+Q2pby7SrHOptfx9mXhV0BMQT5Zy1cobSCYMIHX7mI2gYTrtZPC6GbiVW7D0/uvyuPaW55G66ygqLShpffca5Yq52h3PlBS5ipL5zq2WqRu12MC8SywkDV533bnx7WdBlB1Pr+uffa2G7jTzJLavmFYMmXjkZSmu6LxrunSfxQHQ+YqZFFO6C/h3BHccI1WOKGZqSS8Lr4IFHJ1IldniDiyoz5OOIn4AflrD3Jx7XPr30xQGjehNw7PCOXQLGzXLDJ/SOGmxsjprbt1vnWW6faJMUwoJWx2ITrXiYNRe15mtLwmIC2GngVO8oxHqadcr6LpI4Rn7ow4A7On12TgF6QkaJ2MUrR2e2Lor5vmD9KIBp4BiyTRGtfowlim3Di4VfO2mEfEj1v8YpBNTtSNZjF5XHKiJqT/Npc+rsRTlRg80xzGx4nhUpJfECHOmKVlU8vXvLZEnKbCmQsHzIntxDWs8XpgYpdKuKOHdybJB9XFg==;9uQY5V3XUq66osOfCLqaLA=="
 ---
 

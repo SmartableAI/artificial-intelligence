@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/When-AI-in-healthcare-goes-wrong-who-is-responsible-–.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-le
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Palestinian leader calls for new peace process in UN speech"
+    excerpt: "Abbas seemed to acknowledge the growing international weariness with the decades-old conflict as he delivered the latest in a long series of addresses to the U.N. General Assembly."
+    publishedDateTime: 2020-09-25T22:36:00Z
+    webUrl: "https://www.pbs.org/newshour/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/palestinian-leader-calls-for-new-peace-process-in-un-speech"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 44
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-25T165616Z_477770301_RC2S5J988JHG_RTRMADP_3_UN-ASSEMBLY-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "U0kvcvg/SMupaceDtBrRhZGQevJznXvjMiex8swA7fUcU6pKYBlu5mqba39+ehKaZz91dtWJygGpuQcLIP7O5z80wKyq5P253Hjuw71UV8PDMoWyDIiCsHVzqaQELfx5/YhPvTTB4ixOHdnJaO/HuqTo47v8Wm2gCdGKRl/QDjdZLYgGXZYqzSDsDMYDdZYZaR1FkQRK1+gghyOSWo+r+EPTUlmmA3S/0JSaIbdb+vifDq93HJbEv9dK9QbrQ3FqvDXUn5wJ4V9Jm6ms9Zh8Myo6/He5lV8W30w5QSQp0DZoEqtnaKgmQm0qAmoBD6EryW124zkG/iige9SVpYV+QGDRjtjyjhYsEk40af61ux0KeK6UIAu28VQAeYTlsxFMJBLmuQ5wp2cl1lB5HeDd2SBAEc+WC59jf2suQlgg4bzmTEVlzuq67pl5oVwQdqS1+CV1Q+B/jpT7CfSCfhA1VkPfb8v6E5TVUriM0XnzXC+yUiDgg8yV3LAnKPgyy/8LeM/LKtXp407JWggSMDIH7g==;GPrJNHyLyrWoABw+eSReJw=="
 ---
