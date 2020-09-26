@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tomorrow: Socrates.ai to Host Webinar “Giving Your Company a Single Voice”"
-    excerpt: "Socrates.ai, providers of the Employee Awesome Digital Conversation Hub WHAT: Will present the informative webinar, “Giving Your Company a Single Voice.” WHEN: Tuesday, September 22, 2020 at 1:00 p.m."
-    publishedDateTime: 2020-09-21T11:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tomorrow-socrates-ai-to-host-webinar-giving-your-company-a-single-voice-1029606265"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "tWR/o44yWUvNrly7XZoZEGVl90raATTM4xgZ4WQJhqzNFZfmNNl6DZ1LKWSlcoAlg1e4IPZ7md5ccGg5Yh+Qn2bb7GOeEjiNFI1EC10UNldzqw9BIybXTUFlAMSiCX4xTM59g6FYfO3Qf9Z01LgCI2jjVsvBDbwJm9bLh8qFxmgFewLEqLV5eXCxMvt0tR44cSCzh+ck5SSE+GaXiIaXr2iydErMSDXWpi91KF4jwfSk7WpHuasfrvZzpAKP1/C1ykbUOsvxHwaZwF65ccDKnG63wvmZmTfE212jLDMAa3+9JKJsZzufhYXhnY/znm5PJKrHkIPEy98T0MQx+SvX/NLBlHCWHAgYmQ/l2+VfBfEEr2FTEZit7RI7M+oxEBUUvpiuc+kseebrxw4667kJlKr+AxQpy8o57VH3Dn3LT4KGg6Z3TGnSh0A0cIkdJgk+qbHpgCtBYCf8nwXvyz8bOE1tI8/qxsISKnzX5mxCB7Mgqenh8Y8RPErM6u7nCYXW57Fvi+5uJQbW20knal3ZoA==;Ue+q8Xg4qwTai0OcQoZT1Q=="
 ---

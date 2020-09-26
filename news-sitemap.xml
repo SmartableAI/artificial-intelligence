@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-from-PTSD/2911601057266/</loc>
+    <lastmod>2020-09-25T22:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24</loc>
+    <lastmod>2020-09-25T21:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/</loc>
     <lastmod>2020-09-25T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +33,6 @@
   <url>
     <loc>https://www.forbes.com/sites/anniebrown/2020/09/25/using-artificial-intelligence-to-tame-the-most-volatile-asset-class-in-history/</loc>
     <lastmod>2020-09-25T12:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.upi.com/Health_News/2020/09/25/Study-MRI-with-machine-learning-reveals-brain-changes-in-PTSD/2911601057266/</loc>
-    <lastmod>2020-09-25T12:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -469,8 +475,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207</loc>
-    <lastmod>2020-09-23T05:26:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars</loc>
+    <lastmod>2020-09-23T05:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,6 +723,12 @@
   <url>
     <loc>https://www.voicendata.com/iit-madras-faculty-develop-ai-models-process-text-11-indian-regional-languages/</loc>
     <lastmod>2020-09-22T00:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.11alive.com/article/news/local/business-journal/danforth-center-federal-artificial-intelligence-institute/63-e0a2f815-6829-4494-adf3-19d4a673c0d0</loc>
+    <lastmod>2020-09-21T23:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -42,21 +42,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dialysis Catheters Market Size, Growth, Demand and SWOT Analysis 2027 - Lead by Medtronic, AngioDynamics, Amecath, NIPRO, Cook and Teleflex Medical"
-    excerpt: "A new research report titled Dialysis Catheters Market has been added to the vast repository The Insight Partners The intelligence report provides an in depth analysis of the global market on the basis of the different types of products technologies"
-    publishedDateTime: 2020-09-21T11:39:00Z
-    webUrl: "https://www.openpr.com/news/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138324/dialysis-catheters-market-size-growth-demand-and-swot"
+  - title: "COVID-19 Recovery Analysis: Artificial Intelligence Platforms Market | Rise In Demand For AI-based Solutions to boost the Market Growth | Technavio"
+    excerpt: "Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by $ 12.51 bn during 2020-2024, progressing at a CAGR of over 33% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-09-25T21:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200916005770/en/COVID-19-Recovery-Analysis-Artificial-Intelligence-Platforms-Market-Rise-In-Demand-For-AI-based-Solutions-to-boost-the-Market-Growth-Technavio"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
     images:
-      - url: "https://cdn.openpr.com/T/9/T921694676_g.jpg"
-        width: 700
-        height: 491
+      - url: "https://mms.businesswire.com/media/20200916005770/en/821962/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "cpIVSmeFdY/RJTLlPGK0f31TKVSfWoKQcn/ywDF67KVS2ATk3De1Ojb5npe4RYUdCL8EZ3vFirptwWS/J7nh9K9aYCUEIqFsr1CHrR0lMCoEepclVfqA4M0WowgEWBPZ1+l9WJ1CWJ0Wx/vYHbnMOdUG4GIPTGq1hbTOrEgFnVrCiCoJrcJOlTAxHlK9Jmva4lGB904agmyt+P+5Vwcuk/1P6238W2h66sFhhRNlq2qqmwelHiiOymnx13jKhKAEKOy46NY1X/zsgjJSti7FOLJ2zpv+SriIk/KRN/gf06kTollfKNABbizgoRYcNOymkhdizV5Bs18tIqzimGoK5y6JKu/iXcz3KyGmbfWW2QE=;r1fONyF2x1z3pyRCUVS8/Q=="

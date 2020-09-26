@@ -2,6 +2,107 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-08-27-porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai.md",
+      "title": "Porn Site Stripchat Inadvertently Discovers Next Best Use Case For AI",
+      "excerpt": "Stripchat, a live camming platform that boasts over 60 million visits per month, has launched a new AI service tool that might just provide us with a glimpse into the next service area of deep machine learning and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47b1d49d97db92c4e2bed8%2F0x0.jpg",
+          "width": 616,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/08/27/porn-site-stripchat-inadvertently-discovers-next-best-use-case-for-ai/amp/",
+      "publishedDateTime": "2020-08-27T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-27-popids-face-based-payments-pose-privacy-and-security-risks.md",
+      "title": "PopID’s face-based payments pose privacy and security risks",
+      "excerpt": "PopID, a face-based payments tech vendor intent on expanding across the U.S., has problematic privacy and security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "originalUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/amp/",
+      "publishedDateTime": "2020-08-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-gene-weingarten-i-have-a-joke-about-twitter-memes.md",
       "title": "Gene Weingarten: I have a joke about Twitter memes",
       "excerpt": "I have a joke about ceilings, but it goes over everyone’s head. I have a joke about an emergency room, but it’s a groaner. I have a joke about lutefisk, but it’s in bad taste. I had a joke about erectile dysfunction,",
@@ -1042,99 +1143,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-new-neural-network-differentiates-middle-and-late-stone-age-toolkits.md",
-      "title": "New neural network differentiates Middle and Late Stone Age toolkits",
-      "excerpt": "The change from Middle Stone Age (MSA) to Later Stone Age (LSA) marks a major cultural change amongst our hunter-gatherer ancestors, but distinguishing between these two industrial complexes is not straightforward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200826140909.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global.md",
-      "title": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global",
-      "excerpt": "For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/sight-tech-global-1000px-v2.jpg?w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/26/microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-08-26T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

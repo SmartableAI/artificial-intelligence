@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-07-robots-found-to-ease-loneliness-in-older-people-in-care-homes.md",
+      "title": "Robots found to ease loneliness in older people in care homes",
+      "excerpt": "Culturally competent” robots could improve mental health and reduce loneliness in older people, a new study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "originalUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE2OTg2NDIz.jpg",
+          "width": 1125,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "cdnAmpWebUrl": "https://www-yorkshirepost-co-uk.cdn.ampproject.org/c/s/www.yorkshirepost.co.uk/health/robots-found-ease-loneliness-older-people-care-homes-2962947",
+      "publishedDateTime": "2020-09-06T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Yorkshire Post",
+        "domain": "yorkshirepost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-05-1980s-toy-robot-arm-converted-to-steam-and-other-explorations.md",
       "title": "1980s Toy Robot Arm Converted To Steam And Other Explorations",
       "excerpt": "We were doing our daily harvest of YouTube for fresh hacks when we stumbled on a video that eventually led us to this conversion of a 1980s Armatron robot to steam power. The video in question was ...",
@@ -1342,59 +1384,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-are-robots-eating-our-jobs-not-according-to-ai.md",
-      "title": "Are Robots Eating Our Jobs? Not According To AI",
-      "excerpt": "AI is replacing jobs while creating new ones and new job roles — profound benefits to the global economy await their arrival.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/28/are-robots-eating-our-jobs-not-according-to-ai/amp/",
-      "publishedDateTime": "2020-08-28T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "IBM AI"
       ]
     }
   ],

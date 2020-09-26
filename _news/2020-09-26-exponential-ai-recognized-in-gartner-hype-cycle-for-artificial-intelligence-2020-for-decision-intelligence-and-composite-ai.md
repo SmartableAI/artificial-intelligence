@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-26T03:51:00Z
 originalUrl: "https://www.businesswire.com/news/home/20200910005072/en/Exponential-AI-Recognized-in-Gartner-Hype-Cycle-for-Artificial-Intelligence-2020-for-Decision-Intelligence-and-Composite-AI"
 webUrl: "https://www.businesswire.com/news/home/20200910005072/en/Exponential-AI-Recognized-in-Gartner-Hype-Cycle-for-Artificial-Intelligence-2020-for-Decision-Intelligence-and-Composite-AI"
 type: article
-quality: 25
-heat: -1
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20200910005072/en/819314/23/xAI_Logo.jpg"

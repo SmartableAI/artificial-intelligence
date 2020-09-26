@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/rokt-recognized-for-innov
 webUrl: "https://www.prnewswire.com/news-releases/rokt-recognized-for-innovation-in-artificial-intelligence-with-2020-martech-breakthrough-award-301135258.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://mms.businesswire.com/media/20200910005072/en/819314/23/xAI_Logo.jpg"
         width: 1200

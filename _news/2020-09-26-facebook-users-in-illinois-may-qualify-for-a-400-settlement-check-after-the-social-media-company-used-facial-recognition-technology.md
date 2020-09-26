@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Facebook users in Illinois may qualify for a $400 settlement check after the social media company used facial-recognition technology"
-excerpt: "Facebook CEO Mark Zuckerberg. Drew Angerer/Getty Images Illinois Facebook users may be eligible for up to $400 after a settlement was reached"
-publishedDateTime: 2020-09-25T19:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9-1029623895"
-webUrl: "https://markets.businessinsider.com/news/stocks/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9-1029623895"
+excerpt: "This isn't the first time that Facebook has received pushback for its facial-recognition feature. In 2019, Facebook began requiring users to opt-in to use their facial-recognition tool, after the FTC fined the tech giant $5 billion for its role in the the ..."
+publishedDateTime: 2020-09-25T18:49:00Z
+originalUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9"
+webUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9"
+ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -23,11 +25,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/5ede3fb52618b96bfa3f5997?format=jpeg"
-    width: 2048
-    height: 1365
+  - url: "https://i.insider.com/5f4b60247ffa48002894d0aa?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "L9ckqCwB+YJ2bsg+EbCShAPBl7ED13qvQx3Dx7Rpf9dwcbfggVryZ21O0BX9if4zirGdUSDsq5DYHujTy/EsG9L7GwwEB127X3MrEXfHshjYcezEFdw6JJ+jmMiJiIb1eyJjvXZgKSeWPlq3sxzJUXjrIEci2mFBjuqsFPr8R2YoshIlQKPzI5ZKzlJPvbJlrNVM3maGXWPr8l/jB+0mal4Szm0DgtggFweSlASpfkd7kbuCT5o5zPv2IB1HpUrtJJSQGQf+0jei9bhsQZy+d6b/tAlF/Rx5AC5or3vmsTsm8YDaVNSbp38lEPB8YYJXEKmWEtLwO/0zS6DMflDOlVmuZgdeX9tTIgjgvgLQU+g=;A3zc1M4l2YAW8UQXkdBQQw=="
+secured: "ilWOzgfmn5SDRX+pNCZJdJsnJhTR6k3J+wJlEHunP0JzgkeFtXiurbPWHuReiBPbP8rMvsgUIenym7q6rvOGVyu/y5RTdQ7r/5PDBb3tSc88iAhOzERznvTc4a21E0Wn6BoVljdVXmggo2xC4JRm/iwugtyTZjvYnreKw2qbLNbjmi7A/6Zjx20XPcY9P/kPCAAR5VYkNG2nhtZIsnDnmwe+qMkJGodXMedOsR90PfHrqX5q51cjc84Wbsm8Ri0lBtCNTIeWa6/UN5Fkz5lzuMenbbc+gnnyeAxg+PTcJKVvlZdxJX4mXieZuqi4D/Sks8JMlZ+bW54nFN1IjbQFiFLXzaqSXW9mqp70boPaSGs=;GN5HP5cbXyQtTCcJpj7EwQ=="
 ---
 

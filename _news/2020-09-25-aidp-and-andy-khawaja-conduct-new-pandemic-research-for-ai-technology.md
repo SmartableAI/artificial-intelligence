@@ -26,6 +26,20 @@ images:
 related:
   - title: "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security"
     excerpt: "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program."
+    publishedDateTime: 2020-09-26T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/perspecta-labs-to-conduct-critical-research-for-machine-learning-and-artificial-intelligence-security-2020-09-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Perspecta Labs to conduct critical research for machine learning and artificial intelligence security"
+    excerpt: "PRNewswire/ -- Perspecta Inc. (NYSE: PRSP), announced today that its innovative applied research arm, Perspecta Labs, received an award from the Intelligence Advanced Research Projects Activity (IARPA) to provide research on the Trojans in Artificial Intelligence (TrojAI) program."
     publishedDateTime: 2020-09-24T22:52:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scientific-ethics-artificial-intelligence-computing-and-information-technology-a1800b8879fd9ba3b069f80f9388e1cc"
     type: article

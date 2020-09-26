@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-ai-recycling-technology-uses-raspberry-pi-and-robots.md",
+      "title": "AI recycling technology uses Raspberry Pi and robots",
+      "excerpt": "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg",
+          "width": 873,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/",
+      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/",
+      "publishedDateTime": "2020-09-24T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
       "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
       "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
@@ -348,7 +390,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1156,56 +1198,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery.md",
-      "title": "This Startup Has Raised Nearly $100 Million To Make Good On The Promise Of AI For Drug Discovery",
-      "excerpt": "Flagship Pioneering’s David Berry founded Valo Health 18 months ago with an eye to making an AI platform to develop drugs more quickly and efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a65baf6e34f6e4c4ea8ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D99%26cropY2%3D436",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2020/09/23/this-startup-has-raised-nearly-100-million-to-make-good-on-the-promise-of-ai-for-drug-discovery/amp/",
-      "publishedDateTime": "2020-09-23T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

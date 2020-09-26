@@ -2,6 +2,98 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-20-how-ai-platforms-are-improving-talent-management-in-2020.md",
+      "title": "How AI Platforms Are Improving Talent Management In 2020",
+      "excerpt": "It's encouraging to see how AI platforms evaluate candidates on their capabilities while anonymizing factors that might lead to hiring bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483424715%2F0x0.jpg%3FcropX1%3D967%26cropX2%3D5727%26cropY1%3D0%26cropY2%3D2234",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
+      "publishedDateTime": "2020-09-20T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
+      "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
+      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "originalUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
+      "publishedDateTime": "2020-09-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-in-china-paying-with-your-face-is-hard-sell.md",
       "title": "In China, Paying With Your Face Is Hard Sell",
       "excerpt": "Ant Group, which revolutionized China’s payments industry, is learning how difficult it is to separate people from their mobile phones.",
@@ -1099,99 +1191,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-marqvision-detects-counterfeit-products-with-deep-learning-and-ai.md",
-      "title": "MarqVision detects counterfeit products with deep learning and AI",
-      "excerpt": "MarqVision, the AI -based SaaS company founded by computer scientists and intellectual property (IP) law experts from Harvard University and MIT, recently launched its brand-protection platform to help brands combat counterfeit products online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/intellectual-property/357164/marqvision-detects-counterfeit-products-with-deep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1600443362/itpro/Marq_Vision_Inc_2.jpg",
-          "width": 1404,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling.md",
-      "title": "This Raspberry Pi-powered AI helps robots to sort through your recycling",
-      "excerpt": "A team of engineers built an AI system based on a Raspberry Pi to automate recycling. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "originalUrl": "https://www.zdnet.com/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-raspberry-pi-powered-ai-helps-robots-to-sort-through-your-recycling/",
-      "publishedDateTime": "2020-09-18T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

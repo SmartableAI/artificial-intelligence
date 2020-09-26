@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai.md",
+      "title": "How To Lead, Plan And Forecast Revenue In Wartime With AI",
+      "excerpt": "Alyssa Filter, CFO of the sales forecasting platform Clari, a revenue operations platform used by such companies as Zoom, Okta, Lenovo and Adobe, shares advice in an interview on how she is helping lead the company through this crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b8b35a5b58517abba8d96%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1390%26cropY1%3D342%26cropY2%3D1124",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2020/09/23/how-to-lead-plan-and-forecast-revenue-in-wartime-with-ai/amp/",
+      "publishedDateTime": "2020-09-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-recruitercom-announces-new-artificial-intelligence-platform.md",
       "title": "Recruiter.com Announces New Artificial Intelligence Platform",
       "excerpt": "Capable of Profiling Half a Billion Candidates HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (",
@@ -1198,48 +1248,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ai-recycling-technology-uses-raspberry-pi-and-robots.md",
-      "title": "AI recycling technology uses Raspberry Pi and robots",
-      "excerpt": "A team of engineers used the popular device to create a way to automate the way we recycle. A team of engineers has used Raspberry Pi to power an AI recycling",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2020/09/AI-recycling-Raspberry-Pi-technology.jpg",
-          "width": 873,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/",
-      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/ai-recycling-technology-uses-raspberry-pi-and-robots/8540582/amp/",
-      "publishedDateTime": "2020-09-24T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

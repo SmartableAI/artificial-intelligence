@@ -26,8 +26,8 @@ topics:
 
 related:
   - title: "Global startup Parcel Perform collaborates with Amazon Web Services (AWS) to improve e-commerce delivery experience with machine learning"
-    excerpt: "Providing the latest delivery date of online purchases is a crucial driver for online shoppers' satisfaction, but arrival date predictions by"
-    publishedDateTime: 2020-09-22T00:15:00Z
+    excerpt: "Parcel Perform and Amazon Machine Learning Solutions Lab collaborated to build a flexible, scalable solution, combining AWS' expertise in ML and ML services like Amazon SageMaker, with the ..."
+    publishedDateTime: 2020-09-22T00:08:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
     ampWebUrl: "https://markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"
     cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-startup-parcel-perform-collaborates-with-amazon-web-services-aws-to-improve-e-commerce-delivery-experience-with-machine-learning-1029608848"

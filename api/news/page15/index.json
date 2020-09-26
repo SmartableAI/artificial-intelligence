@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-14-nba-playoffs-the-clippers-arent-playing-like-the-title-favorites.md",
+      "title": "NBA Playoffs: The Clippers aren't playing like the title favorites",
+      "excerpt": "The Nuggets have impressively rallied from down 16 in Game 5 and down 19 in Game 6 to force Game 7 on Tuesday (9 p.m. ET on ESPN). Nikola Jokic, who had 34 points (his most this postseason), is an All-NBA player who is performing like one.",
+      "sourceUrl": null,
+      "webUrl": "https://inside-com.breezy.hr/",
+      "originalUrl": "https://www.espn.com/nba/story/_/id/29878128/nba-playoffs-clippers-playing-title-favorites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breezy-social-images.imgix.net/442d93c02549/social-portal.png?auto=format&h=600",
+          "width": 1143,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-13T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-uae-israeli-educational-institutions-to-collaborate-on-ai-research.md",
+      "title": "UAE, Israeli educational institutions to collaborate on AI research",
+      "excerpt": "The MoU is the first signed between Israeli and UAE higher education bodies, intending to \"advance the development and use of artificial intelligence as a tool for progress.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "originalUrl": "https://www.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/463478",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/uae-israeli-educational-institutions-to-collaborate-on-ai-research-642090/amp",
+      "publishedDateTime": "2020-09-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-13-how-forza-uses-neural-networks-to-evolve-its-racing-ai.md",
       "title": "How Forza Uses Neural Networks To Evolve Its Racing AI",
       "excerpt": "Today on War Stories, Ars Technica is joined by Dan Greenawalt, Creative Director of the Forza franchise, who takes us through the colossal potential (and many challenges) of utilizing deep neural networks to build sophisticated racing AI.",
@@ -1091,98 +1173,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed.md",
-      "title": "Nvidia RTX 3090, 3080, 3070 GPU: Specs, Price, And Release Date Detailed",
-      "excerpt": "Nvidia revealed its new RTX 3000 line of Ampere-powered GPU earlier in the month--the RTX 3090, 3080, and 3070 cards. The new 3000 series is the second generation of RTX graphics cards that will run features like real-time ray tracing with much higher performance than current RTX cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "originalUrl": "https://www.gamespot.com/articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3728918-pcgaming_rtx30series_impressions_20200901_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-rtx-3090-3080-3070-gpu-specs-price-and-release-date-detailed/1100-6481673/",
-      "publishedDateTime": "2020-09-12T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-hitting-the-books-how-china-uses-ai-to-influence-its-14-billion-citizens.md",
-      "title": "Hitting the books: How China uses AI to influence its 1.4 billion citizens",
-      "excerpt": "Today, states and their actors are waging a digital cold war with artificial intelligence systems at the heart of the fight. In T-Minus AI, the US Air Force’s first Chairperson for Artificial Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "originalUrl": "https://www.engadget.com/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F3b489de0-e70c-11ea-b7bf-e0c6ee444da8&client=amp-blogside-v2&signature=c0eb11731adb671fa1b36aec2f11faaf4b1635a0",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-t-minus-ai-michael-kanaan-benbella-books-153007408.html",
-      "publishedDateTime": "2020-09-12T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,90 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-22-unm-scientist-artificial-intelligence-can-aid-covid-19-research.md",
+      "title": "UNM scientist: Artificial intelligence can aid COVID-19 research",
+      "excerpt": "As a result of the pandemic, hundreds of medical papers related to COVID-19 are being published every week. A University of New Mexico scientist believes there’s a",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
+      "originalUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/unm-AI-.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/health/coronavirus-new-mexico/unm-scientist-artificial-intelligence-can-aid-covid-19-research/amp/",
+      "publishedDateTime": "2020-09-21T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-lapd-used-facial-recognition-software-tied-to-wrongful-arrests.md",
+      "title": "LAPD used facial recognition software tied to wrongful arrests",
+      "excerpt": "When you want the public to trust your use of controversial facial recognition technology linked to two prominent wrongful arrests of Black men, it's perhaps best not to claim you aren't using it ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
+      "originalUrl": "https://mashable.com/article/lapd-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F09%252F21%252F95%252F676cb23f7c434b32afdfb487fa4d02c3.8545e.jpg%252F1200x630.jpg?signature=zGiAG5ij_hJInk_LGgOb8TM6j2U=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/lapd-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-09-21T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
       "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
       "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
@@ -1093,98 +1177,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-how-ai-platforms-are-improving-talent-management-in-2020.md",
-      "title": "How AI Platforms Are Improving Talent Management In 2020",
-      "excerpt": "It's encouraging to see how AI platforms evaluate candidates on their capabilities while anonymizing factors that might lead to hiring bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483424715%2F0x0.jpg%3FcropX1%3D967%26cropX2%3D5727%26cropY1%3D0%26cropY2%3D2234",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/09/20/how-ai-platforms-are-improving-talent-management-in-2020/amp/",
-      "publishedDateTime": "2020-09-20T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-artificial-intelligence-expert-warns-of-potential-disaster-of-ai-bias.md",
-      "title": "Artificial Intelligence: Expert warns of ‘potential disaster’ of AI bias",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) systems face a fundamental threat due to the influence of inherent bias, an expert has warned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
-      "originalUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias-1337896.jpg?r=1600616641231",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1337896/artificial-intelligence-bias-warning-potential-disaster-of-ai-bias/amp",
-      "publishedDateTime": "2020-09-20T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
