@@ -57,21 +57,21 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Despite Denials, LAPD Reportedly Used Facial Recognition Nearly 30,000 Times Since 2009"
-    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday. The LAPD doesn't have its own face ..."
-    publishedDateTime: 2020-09-22T01:18:00Z
-    webUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/despite-denials-lapd-reportedly-used-facial-recognition-nearly-30000-times-since-2009/2431926/?amp"
+  - title: "Report: LAPD used facial recognition nearly 30,000 times"
+    excerpt: "The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all, the Los Angeles Times reported Monday."
+    publishedDateTime: 2020-09-26T19:06:00Z
+    webUrl: "https://www.nhregister.com/news/article/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Report-LAPD-used-facial-recognition-nearly-15585211.php"
     type: article
     provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 51
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 59
     images:
-      - url: "https://media.nbclosangeles.com/2020/09/GettyImages-174932708.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Digital Brief: EU/UK data transfers, EU police facial recognition, dark web"
     excerpt: "The European Commission has concerns that certain aspects of the UK’s data protection regime may change in the future and negatively impact the safety of EU personal data when transferred to the country,"

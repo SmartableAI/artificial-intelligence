@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-15-what-are-deepfakes-ai-that-deceives.md",
+      "title": "What are deepfakes? AI that deceives",
+      "excerpt": "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "originalUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/10/cso_a_binary_mask_identity_artificial_intelligence_deepfakes_fraud_by_brownmantis_cc0_via_pixabay_1200x800-100812618-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3574949/what-are-deepfakes-ai-that-deceives.amp.html",
+      "publishedDateTime": "2020-09-15T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-dystech-using-artificial-intelligence-to-help-speed-screening-for-learning-disorders.md",
       "title": "Dystech using artificial intelligence to help speed screening for learning disorders",
       "excerpt": "French-born Hugo Richard was diagnosed with dyslexia and dysgraphia at the age of 12, but he didn't look into reading and writing disorders until he established Dystech. Dystech is an Australian startup that was co-founded by Richards,",
@@ -1058,57 +1110,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
-      "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
-      "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/robert-playter-headshot.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "publishedDateTime": "2020-09-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

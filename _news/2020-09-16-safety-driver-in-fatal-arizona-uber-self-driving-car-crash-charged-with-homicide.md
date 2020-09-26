@@ -21,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "+UJHhKiokdNOl9myYMSsXEOyLSWe/4WZRzICu/l2K+V6wEJz/dM+fV7GwwHQ57USBjnYb7AlPGrNlD63YTagOZzT+g0o/6/YKjtq6hoQds+kVdsUCpo6fKUAr8/FxfqAqzQEO8psZasIj0OZBq/cSwgTy6RXKsQlgCgzS5N64bmSlmNHsYX6+LD1NSqt9CQh/+bkts0YHbORCENpNPzbOjOogS3uOcG1l37uKQRqNvmoA+0F1UOVxabaxFCuvAmjIGgMLYTFPLmTgs3/1MHc4URxDyALx4oR9+9viFY7vtmcYQmhET4C0+Fv78iE3qpP3CycoHxeHTTc3G2pHz14ku0jV8wMg0pnfJ2OFvUqn+0=;iJxNGpwp2eB3aoxtYE+weQ=="
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "rxDv75DW9vtG6CJriXtnexQugqI7lhIQiNXIZO0Ry2SsBYBATjybZp9288SEPV1bHmlIvFYazxvghkLpuFYwaccDzc2leE3lIKMrKGzlrLpysDe4wKMlHE9RLt68EEZ0yk/HRrgH9PesJ+0QkktDTqjKyFwSmd1UjqOS0+y7r2zp4qtk9dg1ayVzIOxMHcMHwk4aARROkKRq4ZkAZ79spMaQgKLRCjjkx8+S0UWcY7JG4WGxUjFr/DFeFmU0xY9NGsl/ixoav+Az12THTf9Vy/zvUXg1OoESPlzgUKOZI01mfYUQ3aOV+/nLmsUS5bM0mDbEE7L30pl3vuVJMf1MwfhEMnAYHxt22HbcP4lAS+k=;pnU4pmF5jHvtgCMlBL0sIw=="
 ---
 

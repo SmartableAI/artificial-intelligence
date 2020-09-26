@@ -116,6 +116,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Wyoming Legislature weighs a future for self-driving vehicles"
+    excerpt: "This past week, state committee members contemplated legislation they believe could fast-track Wyoming to a leadership role on autonomous vehicle technology almost overnight."
+    publishedDateTime: 2020-09-26T19:15:00Z
+    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.html"
+    ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/wyoming-legislature-weighs-a-future-for-self-driving-vehicles/article_87abcf88-aad3-50e7-b794-6104003af234.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/24/0244ce3f-8d43-56ee-8c12-dcc175fa43df/5f6e306069ba6.image.jpg?resize=1024%2C707"
+        width: 1024
+        height: 707
+        isCached: true
   - title: "Beijing to build pilot zone for self-driving vehicles"
     excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
     publishedDateTime: 2020-09-23T11:44:00Z

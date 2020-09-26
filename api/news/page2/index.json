@@ -103,57 +103,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-25-lapd-officers-reportedly-used-facial-recognition-30000-times-in-the-past-decade-contradicting-the-departments-previous-denials.md",
-      "title": "LAPD officers reportedly used facial recognition 30,000 times in the past decade, contradicting the department's previous denials",
-      "excerpt": "Despite frequent denials and refusals to respond to public records requests, the LAPD has been using the controversial technology widely since 2009.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "originalUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f697d0e57b7da001ee12f99?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-used-facial-recognition-tech-30000-times-despite-denials-2020-9?amp",
-      "publishedDateTime": "2020-09-24T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-the-nvidia-rtx-3090-reviews-are-in-just-how-powerful-is-this-monster-gpu.md",
       "title": "The Nvidia RTX 3090 reviews are in. Just how powerful is this monster GPU?",
       "excerpt": "At $1,499, the RTX 3090 is as expensive as it is insanely powerful, but should gamers upgrade to Nvidia's flagship-toppling BFGPU?",
@@ -1241,6 +1190,56 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
+      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
+      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "publishedDateTime": "2020-09-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

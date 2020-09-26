@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-16-life-academy-promotes-ethical-ways-ai-can-with-help-food-security.md",
+      "title": "Life academy promotes ethical ways AI can with help food security",
+      "excerpt": "As part of its ongoing collaboration with two of the world's leading developers of AI software, the Pontifical Academy for Life will launch a new joint project looking at ethical ways artificial intelligence can be used to guarantee food security.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "originalUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2020/09/cyber-4062449_1280.jpg",
+          "width": 1280,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2020/09/life-academy-promotes-ethical-ways-ai-can-with-help-food-security/amp/",
+      "publishedDateTime": "2020-09-16T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-uber-backup-driver-charged-in-fatal-2018-self-driving-car-crash.md",
       "title": "Uber backup driver charged in fatal 2018 self-driving car crash",
       "excerpt": "The backup safety driver who was behind the wheel when one of Uber’s self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez,",
@@ -507,7 +549,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
       "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
@@ -1108,57 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month.md",
-      "title": "Apple unveils its super fast five nanometer A14 chip, shipping in the new iPad Air next month",
-      "excerpt": "No iPhone 12 announced today, but Apple unveiled a new chip that will power the next generation of its hardware (including that phone whenever it’s launched). The A14 Bionic, which will ship first with the new iPad Air,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "originalUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-15-at-1.54.30-PM-2.png?w=680",
-          "width": 680,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/15/apple-unveils-its-super-fast-five-nanometer-a14-chip-shipping-in-the-new-ipad-air-next-month/amp/",
-      "publishedDateTime": "2020-09-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

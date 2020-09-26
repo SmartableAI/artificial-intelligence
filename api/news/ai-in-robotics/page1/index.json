@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-27-the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial.md",
+      "title": "The Last of Us Part II voice actor breaks new ground with Twitch’s Artificial",
+      "excerpt": "It’s a remotely produced sci-fi series that deals with the boundaries of humanity and artificial intelligence ... probably going to happen someday. A robot is going to kill someone, and who ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
+      "originalUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/The-Last-of-Us-2-E3-2018-02.jpg?w=1200&#038;strip=all",
+          "width": 1157,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/26/the-last-of-us-part-ii-voice-actor-breaks-new-ground-with-twitchs-artificial/amp/",
+      "publishedDateTime": "2020-09-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
       "title": "Profiting from the Rise of Robotics",
       "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
@@ -1302,57 +1353,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-ai-robot-serves-customers-at-seoul-restaurant.md",
-      "title": "A.I. robot serves customers at Seoul restaurant",
-      "excerpt": "\"Aglio Kim\", a trolley-like robot which uses artificial intelligence (A.I.), is delivering food to customers at a restaurant in Seoul, in order to minimise human contact and help ensure social distancing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-southkorea-serving-ro-idUSL4N2GC0UK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200915&t=2&i=1533485848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8E0SQ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2661KB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2661KB",
-      "publishedDateTime": "2020-09-15T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

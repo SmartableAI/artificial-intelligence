@@ -3,10 +3,10 @@ category: news
 title: "NumPy’s contribution to Python is remarkable, but where it goes next could be even more so"
 excerpt: "The widely popular library, called NumPy, gives Python the ability to perform scientific computing functions.  Asked on Twitter why a paper is coming out now, 15 years after NumPy's creation, Stefan van der Walt of the University of California at Berkeley's Institute for Data Science,"
 publishedDateTime: 2020-09-25T17:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/"
 type: article
 quality: 44
 heat: 44
@@ -24,6 +24,6 @@ topics:
   - Google AI
   - AI
 
-secured: "bbQST8KbfHN0dEFh8M73h9EwN6HAOKWaazkcYaEbvnBw0lhNatGi4t6DZY+ZKImQsEeRJVNuMCqZrKDCGYxni4MUpgL6LV+rfjzA/8Ydd7Cl7nG1lj9QsrpYCb04g0ZqrfIWboCfgPp8dnXB7WIqwGfU7uJed34S8ZeJdCZsvhAGP3yoERs8dnMmS/XxZorsfD9xqlbemhDG/Hvkbt4XBnNhf5v82G/3s2r4Z8oMPVmCtUgjF99iZM15FqKkfuiOWZkTvbmQz1YBfN/mf9WDlEHHaTZozdQAVbSzSUylzq+lclybG4PdRKomQSIezolkMe5pVRdnxm5UJS3na2cL+DM0acK3/DV49bBbU0d8zuwc345yThZxh1yWZ+W5fM5B1LoJoI6g3ZID7Un7jHpsXrlIRwOtyL2Iy1Xof2v4Li55T7z6ilFEkgNgk+P9X7MEX1M/EOAviFRWZuL0HK8VER52fajQaCKmP1jx8cxWugL2MBubrOZMsYDeqqKn8X10SbJ/fWTft55eLVlhVyPd9A==;T7NKuPclipEetXnJo96+xQ=="
+secured: "N0yP25GA4AuKSEwZWZacZmSHUhD7A2XDBQu7Q/Kz128/pasB1QI/z9pkCzUUaF1pWkbG7us1uu/LtwMUBb7k9mtZEXhKirY0c+jGAzizTYtv+LHMQJoFsCUVPEKFSH+dWzT20N0EdG5PFit8tIGX4FACTiznx+Ar05aoS+LQAYEF++pNoBnEotBhUI5L6URfXtpsfAZySevlMAiorxWd3tAquAnWRrX6ymbDTQSeq3GtIeFJ6pSeI4Ey5C6u0LFrDUoJ75tAjceu+cPx8phAkgMWFzQ3DDkTydW3YNSlTuhwsjfWr1BZWwYKRQtamJfHkLmyWPJ949yCZEjgzcfWyOwUpLD29+zs9esH40y+SagwGB8eTiZGXBk1x+08WdZbzrxyMOzDw3ZKhQSiBO67iqRvWfl24mhEEIqBjahel5cijyfcw2VwD1doeszMQJitCA8stfN4BnPxig3uwMn07zd88Qd0b5IdXR4h5pUCAX54Xt9MYMx2V/aw5DozniFdqLgTTgqYvXwPArGeLIW2VA==;6Cwx4MMtVNVccgw76JXKLA=="
 ---
 

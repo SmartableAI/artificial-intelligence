@@ -71,20 +71,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IntelligenceBank Launches Facial Recognition"
     excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"
     publishedDateTime: 2020-09-25T23:00:00Z

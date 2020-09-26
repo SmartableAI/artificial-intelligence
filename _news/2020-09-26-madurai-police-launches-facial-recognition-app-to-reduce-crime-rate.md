@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
         width: 1420
         height: 798
-        isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IntelligenceBank Launches Facial Recognition"
     excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"

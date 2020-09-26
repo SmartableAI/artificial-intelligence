@@ -2,6 +2,100 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-09-03-hypatos-gets-118m-for-a-deep-learning-approach-to-document-processing.md",
+      "title": "Hypatos gets $11.8M for a deep learning approach to document processing",
+      "excerpt": "Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "originalUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-601035416.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/02/hypatos-gets-11-8m-for-a-deep-learning-approach-to-document-processing/amp/",
+      "publishedDateTime": "2020-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated.md",
+      "title": "AnyVision's Fair Face Recognition Challenge Shows Ethnic Bias Can Be Eliminated",
+      "excerpt": "AnyVision is the world's leading developer of face, body and object recognition platforms. Our solutions are built to function on any sensor, with any resolution and are proven to operate in real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/b17357774/anyvisions-fair-face-recognition-challenge-shows-ethnic-bias-can-be-eliminated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200902005892/en/818051/4/Cameras+PR3x.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17357774",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17357774",
+      "publishedDateTime": "2020-09-02T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-03-cbp-does-not-make-it-clear-americans-can-opt-out-of-airport-face-scanning-watchdog-says.md",
       "title": "CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says",
       "excerpt": "But the Government Accountability Office (GAO) said in a new report out Wednesday that CBP did “not consistently” provide notices that informed Americans that they would be scanned as they depart the United States.",
@@ -1087,98 +1181,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu.md",
-      "title": "Exxact Corporation Extends its Line of AI Development Servers to Support Latest NVIDIA A100 PCIe GPU",
-      "excerpt": "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), and data center solutions, announced that they are now offering a wide selection of servers for AI featuring the new NVIDIA A100 PCIe GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exxact-corporation-extends-its-line-of-ai-development-servers-to-support-latest-nvidia-a100-pcie-gpu-1029555946",
-      "publishedDateTime": "2020-09-02T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say.md",
-      "title": "TikTok U.S. Deal Hits Roadblock After China Restricts Sale Of AI Algorithms, Reports Say",
-      "excerpt": "China’s government has restricted the export of ‘personalized content recommendation’ tools like the one used by TikTok’s app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2020/09/02/tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/09/02/tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e4d3392a7b524beb167b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2020/09/02/tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/02/tiktok-us-deal-hits-roadblock-after-china-restricts-sale-of-ai-algorithms-reports-say/amp/",
-      "publishedDateTime": "2020-09-02T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

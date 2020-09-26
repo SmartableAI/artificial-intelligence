@@ -2,6 +2,99 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-08-04-study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis.md",
+      "title": "Study finds artificial intelligence-enhanced ECGs speed heart failure diagnosis",
+      "excerpt": "WASHINGTON D.C.: When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the cause is heart failure, according to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis-11596539192747.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/PTI29-04-2020_000145B_1593188447489_1596539886462.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html",
+      "publishedDateTime": "2020-08-04T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-cloak-your-photos-with-this-ai-privacy-tool-to-fool-facial-recognition.md",
+      "title": "Cloak your photos with this AI privacy tool to fool facial recognition",
+      "excerpt": "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3zWa50EJMY12xj2q5enzpWUGUGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67152844/acastro_180730_1777_facial_recognition_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
+      "publishedDateTime": "2020-08-04T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ping-an-askbob-doctors-deep-learning-model-improves-diagnosis-of-kidney-disease.md",
       "title": "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease",
       "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,",
@@ -1014,107 +1107,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws.md",
-      "title": "The Continuing Growth Story of Artificial Intelligence (AI) in Cybersecurity Market | Darktrace, IBM, NVIDIA, Intel, Xilinx, AWS",
-      "excerpt": "The latest 160+ page survey report on Global Artificial Intelligence (AI) in Cybersecurity Market is released by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws-2020-08-03",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform.md",
-      "title": "Truera applies explainability AI research to grow its model evaluation platform",
-      "excerpt": "Formerly known as AILens, Truera applies research from Carnegie Mellon University to assess issues that can arise for AI models in training and production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/03/truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Truera.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/03/truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform/amp/",
-      "publishedDateTime": "2020-08-03T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

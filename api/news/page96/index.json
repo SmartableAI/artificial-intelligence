@@ -2,6 +2,108 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-07-15-ivanka-trump-tweets-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
+      "title": "Ivanka Trump tweets support for Goya Foods in possible violation of ethics rules",
+      "excerpt": "Donald Trump follows daughter’s post with own tweet claiming that boycott backfired and ‘people are buying like crazy’ US President Donald Trump and his daughter and adviser Ivanka Trump are rallying support for Goya Foods on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_044115.jpg?itok=ImVw9Yyn&v=1594845867",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "publishedDateTime": "2020-07-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
+      "title": "How an award-winning AI-powered software is helping students with remote learning",
+      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "publishedDateTime": "2020-07-15T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
       "title": "Computer vision tech helps robots get a grasp on transparent objects",
       "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
@@ -1118,107 +1220,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-heres-whats-stopping-ai-from-reaching-human-like-understanding.md",
-      "title": "Here’s what’s stopping AI from reaching human-like understanding",
-      "excerpt": "In fact, our AI systems start to break as soon as they face situations that are slightly different from the data they’ve been trained on. Some scientists believe that such limits will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/amp/",
-      "publishedDateTime": "2020-07-15T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-to-use-speech-to-text-on-microsoft-word-to-write-and-edit-with-your-voice.md",
-      "title": "How to use speech-to-text on Microsoft Word to write and edit with your voice",
-      "excerpt": "Word supports speech-to-text, which lets you dictate your writing using voice recognition. Speech-to-text in Word is convenient and surprisingly accurate, and can help anyone who has issues typing with a typical keyboard. You can use speech-to-text in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0cb7373ad8610318757d34?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "publishedDateTime": "2020-07-15T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

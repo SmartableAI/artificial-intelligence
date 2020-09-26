@@ -71,20 +71,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pittsburgh City Council Approves Bill to Regulate Facial Recognition Technology"
     excerpt: "PITTSBURGH -- Pittsburgh City Council on Tuesday passed a bill that would require the legislative body to give its approval prior to police use of facial recognition technology. The bill, sponsored by Councilman Corey O’Connor, regulates the city’s use ..."
     publishedDateTime: 2020-09-22T21:22:00Z

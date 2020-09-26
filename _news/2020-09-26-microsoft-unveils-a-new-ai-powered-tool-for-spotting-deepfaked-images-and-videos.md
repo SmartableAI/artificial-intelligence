@@ -112,20 +112,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Deploying support chatbot using azure microservices architecture"
-    excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
-    publishedDateTime: 2020-09-22T01:03:00Z
-    webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
-        width: 784
-        height: 329
-        isCached: true
   - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
     excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
     publishedDateTime: 2020-09-24T11:11:00Z
@@ -226,6 +212,6 @@ related:
         height: 432
         isCached: true
 
-secured: "sDqgiU50b9egVAuE5NK2pZph/jd8gJkSkVDwZKh9QiOhlp1Sc2mHcIyX9IGLPCrtUsd/OWzsdI6Qhltw+Eu8CzBl/8v9ScxGdHGRYS1fVg6cb6ABVPigAMSDLbnmEPY3bkC/wLWjCKXDNju/kh9z8pfUzvSrD7q6dxpBG6d2DfTrxgYFN6CDUg2LFW4rzFx0HQxnv2DDdjZ8SDwMg4piyh9GSTPdWFvZsPcidIlKSsFVg/9/pFlA70AO1l/15GiF6ewH2kfCFWWi0ITiTg1wIRKC0UbMiSHOPH43GapzCFp8VwVkq907WmWhuBlDO3ZGr8OHG5h4gFu3UkFMaW14NE2OQsERS+6W6FO/Y8Fg+5Q=;TGgOjCGEiEZgn4IIQw9leA=="
+secured: "XzieMDjnH+EpYjFs7r4QTVDjyWo3ejEK2Il1wvmj8Ki3i0zun4oQmNyvEBTtmyIEVrefTMoVA1VYa0zTGDRii3t4aqtPXBjwlnYYUM7pBmtoABEFnWzhFkM667i6L567y1GJoFJKi87o+fS3X9K+Dm45nS2FZp1vzzZ6Pc5TeFofeLqCSS4J0Zwa46Nv+aMp3TzKXFpwD2hM8CQ40wq7GERe3HowE0bP89xSNlKDn79ECF3Kye6K7eD4EEI4krpR79f3ihRzlKhmt3OUdW5wWNwV0mPK8ARq9eNQpPkYHvYX0K2NFNH+Bf9IVq58+c+sCiPvK3f4J4winPC3kOSsJoXgXV0CsFm6SIOFnOQVJ0UgR7dPtZyTtSa8gqCRwZ5z0niHxgOiAKiLebgH0IDZZrBdBQFqpoKJq0utLcBZoLFDmthVlLbYZUXSaQsYFlu3A+SaaKTwag/TdTd+RB2oGxvoalvE9SB3Y8fypPfCai0Q5cvvclfJAPPACA3m7R4/DUAmAB5IXT83Zio9u+x6BQ==;EKeI49ekWUoTigaohNM1Og=="
 ---
 

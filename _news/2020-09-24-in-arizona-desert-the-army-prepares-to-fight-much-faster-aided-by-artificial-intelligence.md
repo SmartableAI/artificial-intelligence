@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T01:45:00Z
 originalUrl: "https://www.stripes.com/news/us/in-arizona-desert-the-army-prepares-to-fight-much-faster-aided-by-artificial-intelligence-1.646219"
 webUrl: "https://www.stripes.com/news/us/in-arizona-desert-the-army-prepares-to-fight-much-faster-aided-by-artificial-intelligence-1.646219"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.stripes.com/polopoly_fs/1.646221.1600912123!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"

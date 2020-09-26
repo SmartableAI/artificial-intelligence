@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-27-this-self-driving-golf-ball-will-make-you-want-to-enter-the-masters.md",
+      "title": "This ‘self-driving’ golf ball will make you want to enter the Masters",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/self-driving-golf-ball/",
+      "originalUrl": "https://mashable.com/video/self-driving-golf-ball/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F09%252F04%252F38%252Ffed6caf40a424550a3331ba510ae14a9.94e59.png%252F1200x630.png?signature=9D2EyK8rc8mZs26bzWZIFwWP6oI=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/self-driving-golf-ball.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-golf-ball.amp",
+      "publishedDateTime": "2020-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-26-microsoft-researcher-dr-cecily-morrison-will-discuss-keeping-ai-personal-at-sight-tech-global.md",
       "title": "Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global",
       "excerpt": "For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind,",
@@ -1346,39 +1388,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-with-self-driving-tech-was-new-a-road-trip-paved-the-way.md",
-      "title": "With self-driving tech was new, a road trip paved the way",
-      "excerpt": "Neither was driving. The van, a 1990 Pontiac Trans Sport dubbed “Navlab 5,” was loaded up with the latest self-driving technology developed at CMU. Its pilot was called the Rapidly Adapting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
-      "originalUrl": "https://www.thestate.com/entertainment/celebrities/article244877067.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-15T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -105,20 +105,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Deploying support chatbot using azure microservices architecture"
-    excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
-    publishedDateTime: 2020-09-22T01:03:00Z
-    webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
-        width: 784
-        height: 329
-        isCached: true
   - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
     excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
     publishedDateTime: 2020-09-24T11:11:00Z

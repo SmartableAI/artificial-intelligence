@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T07:00:00Z
 originalUrl: "https://www.mccormick.northwestern.edu/research/deep-learning/projects/iot.html"
 webUrl: "https://www.mccormick.northwestern.edu/research/deep-learning/projects/iot.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - AWS AI
+  - AI in Robotics
 
 images:
   - url: "https://www.mccormick.northwestern.edu/research/deep-learning/images/projects/refit.png"

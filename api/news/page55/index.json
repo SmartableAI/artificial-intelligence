@@ -2,6 +2,99 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-08-17-artificial-intelligence-ai-robots.md",
+      "title": "Artificial Intelligence (AI) Robots",
+      "excerpt": "Global Artificial Intelligence (AI) Robots Market Professional Survey Report 2019 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T817753705_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113686/artificial-intelligence-ai-robots-market-next-big-thing",
+      "publishedDateTime": "2020-08-16T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-ai-surveillance-study-tracks-criminals-post-release-to-cut-recidivism.md",
+      "title": "AI surveillance study tracks criminals post release to cut recidivism",
+      "excerpt": "A pair of computer scientists from Purdue University are leading a controversial new four-year study using AI-enabled surveillance to track recently released prison parolees. The project’s goal is to lower rates of recidivism by identifying early interventions to help individuals transitioning",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2e0ecf9/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0c%2F1a%2Fb83a1ea045eba4a7324304e79cb8%2Fdepositphotos-7351243-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/?amp=true",
+      "publishedDateTime": "2020-08-16T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-artificial-intelligence-loopholes-could-be-deadly.md",
       "title": "Artificial Intelligence Loopholes Could Be Deadly",
       "excerpt": "In 2014, IBM created its artificial intelligence division, IBM Watson. One of its divisions, Watson Health was seen as the future of AI health care solutions. IBM spent over $62 million to create ...",
@@ -1052,110 +1145,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence.md",
-      "title": "How Facebook’s Yann LeCun is charting a path to human-level intelligence",
-      "excerpt": "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-14T190320.489-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/amp/",
-      "publishedDateTime": "2020-08-14T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-quantum-computing-what-does-it-mean-for-ai-artificial-intelligence.md",
-      "title": "Quantum Computing: What Does It Mean For AI (Artificial Intelligence)?",
-      "excerpt": "So then what is quantum computing? Well, it is similar to traditional computing, which relies on bits—that is, the 0’s and 1’s to encode information. But quantum computing as its own version of this: the quantum bit or qubit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f36c53ef397e078c7bc9073%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D113%26cropY2%3D1801",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-08-14T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

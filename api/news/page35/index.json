@@ -2,6 +2,108 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-08-31-ai-job-listings-plummet-as-covid-19-recession-appears-imminent.md",
+      "title": "AI job listings plummet as COVID-19 recession appears imminent",
+      "excerpt": "The last thing we expected to see near the end of 2020 was a truce between human job-seekers and the deep learning systems replacing them, but the possibility of an impending recession has upended the AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/08/shutterstock_349570289-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/31/ai-job-listings-plummet-as-covid-19-recession-appears-imminent/amp/",
+      "publishedDateTime": "2020-08-31T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-in-an-era-of-face-masks-were-all-a-little-more-face-blind.md",
+      "title": "In an Era of Face Masks, We’re All a Little More Face Blind",
+      "excerpt": "Your brain’s powers of facial recognition are going to need some time to get used to the coverings we’re wearing to keep each other healthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "originalUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/01/science/00VIRUS-FACEBLIND/00VIRUS-FACEBLIND-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/31/health/covid-masks-face-blindness.amp.html",
+      "publishedDateTime": "2020-08-31T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
       "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
       "excerpt": "Unifying Data Pipelines, Business Analytics and Machine Learning with Apache Spark ... production environments from Hadoop to Microsoft Azure Databricks. “AMN has realized significant ...",
@@ -1078,98 +1180,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
-      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
-      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-226475/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "publishedDateTime": "2020-08-31T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
-      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
-      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "publishedDateTime": "2020-08-31T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
