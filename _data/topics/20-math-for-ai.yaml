@@ -3,6 +3,11 @@ _id: math-for-ai
 name: Math for AI
 shortname: Math
 parent: AI
+keywords:
+  - math
+  - maths
+  - mathematics
+  - linear algebra
 hashtags:
   - "#math"
 images:

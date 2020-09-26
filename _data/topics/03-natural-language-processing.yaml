@@ -6,8 +6,14 @@ parent: AI
 description: Enables programs to “understand” written or spoken language
 keywords:
   - natural language processing
+  - nlp
   - speech recognition
   - machine translation
+  - textract
+  - transcribe
+  - translate
+  - polly
+  - amazon comprehend
 hashtags:
   - "#NLP"
 images:

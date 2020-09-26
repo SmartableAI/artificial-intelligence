@@ -5,12 +5,10 @@ shortname: ML
 parent: AI
 description: Systems learn from data to improve on tasks.
 keywords:
-  - Machine Learning
-  - ML
-  - Deep Learning
-  - Neural Network
-  - Amazon SageMaker
-  - AWS DeepRacer
+  - machine learning
+  - ml
+  - deep learning
+  - neural network
 hashtags:
   - "#ML"
 images:
