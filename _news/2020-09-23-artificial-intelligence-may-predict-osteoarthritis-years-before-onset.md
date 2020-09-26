@@ -66,20 +66,6 @@ related:
         width: 1280
         height: 1002
         isCached: true
-  - title: "Artificial intelligence detects osteoarthritis years before it develops"
-    excerpt: "Researchers have created a machine-learning algorithm that can pick up on subtle signs of osteoarthritis - too abstract to register in the eye of a trained radiologist - on an MRI scan taken years before symptom onset."
-    publishedDateTime: 2020-09-21T19:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/uop-aid092120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/243548_web.jpg"
-        width: 400
-        height: 442
-        isCached: true
 
 secured: "QDjTfTTFdCeexeAUcm6XXFsvDUplkEdRXS7nDqkKK0l4kDKEF7+RfDV3UA7aysy/rkXDWeibWGXycZ35etdlsA4MSWjlbG9gfjbFnwGD8/SD+aqHOD9qlv2EFoENRi1TbA6dRiIS9faX8E7z1Zq4qvuPfpYJBfmA3kSJ8wqPSGqYS8jfSkEdf+bv9mDdQK3ey6u7kMLY1tX9y4QbqhMiCUi6AWKRqICHCrIc+t608GH4tuf2L1bo7zutVm4cb2o2VYj5lqvd1WTny9ajcyPalnXml0wPQfY+F5JbyOLYb+eEzCtl6YJX9EuyNrbylpfDeojYlxtNJ6VIATbpzO1ukYSO4Ho2xGxYEz7tn9jA2d4=;orqSnWhUGyUviIOEY3mijw=="
 ---

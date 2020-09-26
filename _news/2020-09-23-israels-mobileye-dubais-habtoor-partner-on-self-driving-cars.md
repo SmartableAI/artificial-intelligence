@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-m
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour ..."
-    publishedDateTime: 2020-09-21T19:51:00Z
-    webUrl: "https://www.sify.com/finance/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth-news-topnews-ujvr4Cadbfaid.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 4
 
 secured: "1BYsKhvsmGmK6fgMl1fXz+LzY25lI5inPiIttdxQ2johJrN7WzHeXIB06eEX9iqJv/yt30v8xGZU03hcQMH+AAQvRAeX/mL2bLijENmGL0Aj9Eapz4QWkfcXJa+Q9c+pcVVLSvkhVfFPxiZiqNQ4GoPUvfSFpqqhCRyOx7AHGGmKZbXYa1ppslxNGP4ENZlFz01KmGIaX0pl7D3PiflENW0cNB/JBSEx5OTStnomszVZK7b9GGpb+/9I1RJ73mYa1lbB2BUzaD99lSYxg/Rnc0f6P+so4GgkHF50gSkVQ3ubY5eF3JAeVkxvTAZN9NxY0RHLS0bLuGMvQG6PTcmWN4dSDmmIU090uN7Xk/qjER7QZly9XIGIMgSPLaee1L8noj7XmtQJfpD7Ojns6uf+dDpOheagQMFFf/RbojdCCVxdspuMNn0h28PWeVE7iKZsDCK/iFdrwZLvonOL3N+FQo2X058kKbnqkGbVNR/eHD1w/nT/Tf8vHO/138pnsYikGZPdfETQSShfWb85oKHSiA==;TpXjdlXGm48ELyjffTLKnw=="
 ---

@@ -48,16 +48,19 @@ related:
         height: 853
         isCached: true
   - title: "MIT professor wins top AI award for cancer, drug research"
-    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence. The world's biggest AI society awarded its top prize"
+    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for"
     publishedDateTime: 2020-09-23T14:08:00Z
-    webUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
-    ampWebUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
+    webUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/d4b1b23bcefc4c12ac340164ae950fcb/2000.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
     excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
     publishedDateTime: 2020-09-22T13:56:00Z

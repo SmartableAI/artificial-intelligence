@@ -2,6 +2,140 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
+      "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
+      "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Connected-Store-hero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "publishedDateTime": "2020-07-21T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms.md",
+      "title": "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms",
+      "excerpt": "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "publishedDateTime": "2020-07-21T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-amazon-rolls-out-little-delivery-robot-to-more-cities.md",
+      "title": "Amazon rolls out little delivery robot to more cities",
+      "excerpt": "Amazon is rolling out its robot delivery trial to more cities. The e-commerce giant launched its delivery system, Amazon Scout, in January 2019 using electric, autonomous vehicles that can navigate sidewalks to deliver packages.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/amazon-scout-robot-delivery-vehicles/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F21%252F9e%252F80a5cb3f5147470c908093fcde12c89d.14d05.png%252F1200x630.png?signature=3T_47K3vZ_lw_tB42cUmXroaWOw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/amazon-scout-robot-delivery-vehicles.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-scout-robot-delivery-vehicles.amp",
+      "publishedDateTime": "2020-07-21T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing.md",
       "title": "In An Industry First, Plus.AI To Submit Their Self-Driving Trucks To Independent Testing",
       "excerpt": "Self-driving truck developer Plus.ai announced today they have finalized an agreement with the Transportation Research Center to conduct rigorous independent testing of their Automated Driving System in realistic conditions.",
@@ -1036,133 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-lets-talk-about-talent.md",
-      "title": "Let’s Talk About Talent",
-      "excerpt": "\nA few years ago, I spent considerable energy convincing customers to consider AI’s power in business. Now I dedicate most of my time helping clients scale their thinking and plans beyond initial projects. That means confronting challenges like talent skills and scarcity, dubious trust in AI, and data",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/07/lets-talk-about-talent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/07/1096_Data_and_AI_Virtual_Forum_BlackBox_Leadspace_Purple-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T17:00:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-ibm-works-to-reshape-business-as-coronavirus-uncertainty-lingers.md",
-      "title": "IBM Works to Reshape Business as Coronavirus Uncertainty Lingers",
-      "excerpt": "International Business Machines Corp.'s earnings declined in the second quarter against the backdrop of a pandemic that has roiled many of its corporate customers. Armonk, N.Y.-based IBM had been searching for growth under new Chief Executive Arvind Krishna after several years of mostly declining revenue under his predecessor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/2020072011613/ibm-works-to-reshape-business-as-coronavirus-uncertainty-lingers",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

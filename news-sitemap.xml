@@ -391,6 +391,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/</loc>
+    <lastmod>2020-09-23T12:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/</loc>
     <lastmod>2020-09-23T12:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2329,6 +2335,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.theguardian.com/technology/commentisfree/2020/sep/11/artificial-intelligence-robot-writing-gpt-3</loc>
+    <lastmod>2020-09-11T13:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/09/11/ibm-lobbies-us-for-export-controls-on-facial-recog/</loc>
     <lastmod>2020-09-11T13:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2457,6 +2469,12 @@
   <url>
     <loc>https://diginomica.com/ai-ethics-why-teaching-ethics-and-ethics-training-problematic</loc>
     <lastmod>2020-09-11T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://cloudblogs.microsoft.com/dynamics365/bdm/2020/09/22/announcing-microsoft-power-platform-and-dynamics-365-updates-at-microsoft-ignite/</loc>
+    <lastmod>2020-09-11T01:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

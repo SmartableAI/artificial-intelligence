@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The LAPD has used facial recognition software 30,000 times since 2009"
-    excerpt: "The acknowledgement comes after years of contradictory answers on the matter. For years, the Los Angeles Police Department (LAPD) hasn't given a clear answer on whether it uses facial recognition in its policing work. That changed this week. On Monday, the ..."
-    publishedDateTime: 2020-09-21T20:31:00Z
-    webUrl: "https://www.engadget.com/lapd-facial-recogntion-dataworks-plus-195613849.html"
-    ampWebUrl: "https://www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-facial-recogntion-dataworks-plus-195613849.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F2322dd70-fc42-11ea-a05e-4ab6d4811cc6&client=amp-blogside-v2&signature=08e70ef526aeaaf20bcfd30e58d253d5b05dc2f5"
-        width: 600
-        height: 350
-        isCached: true
   - title: "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web"
     excerpt: "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web."
     publishedDateTime: 2020-09-24T19:50:00Z
@@ -107,22 +91,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Detroit council expected to vote on facial recognition software contract"
-    excerpt: "Detroit — City Council is expected to vote next week on a contract for controversial facial recognition software that opponents argue is \"racist\" and flawed. The measure — to cover costs associated with upgrades and maintenance — is set to return ..."
-    publishedDateTime: 2020-09-21T20:58:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2020/09/21/detroit-council-vote-facial-recognition-software/5855946002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5855946002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5855946002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/03/15/PDTN/89d77051-63a2-4687-9bf3-6760a79d16b1-RealTime-Crime-Center-04.JPG?auto=webp&crop=4221,2374,x0,y268&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Detail: How are the police using facial recognition technology?"
     excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
     publishedDateTime: 2020-09-23T17:10:00Z
@@ -166,20 +134,6 @@ related:
       - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "LAPD Relies on Facial Recognition Software in 30,000 Cases, Despite Denials"
-    excerpt: "Los Angeles police officers have run facial recognition software nearly 30,000 times in the last 11 years to help track down suspects, despite concerns about its reliability, especially when identifying people of color,"
-    publishedDateTime: 2020-09-21T20:42:00Z
-    webUrl: "https://mynewsla.com/crime/2020/09/21/lapd-relies-on-facial-recognition-software-in-30000-cases-despite-denials/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 37
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
         isCached: true
   - title: "Report: LAPD used facial recognition nearly 30,000 times | Charlotte Observer"
     excerpt: "A newspaper says the Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009 even while denying at times that it used the controversial technology at all."

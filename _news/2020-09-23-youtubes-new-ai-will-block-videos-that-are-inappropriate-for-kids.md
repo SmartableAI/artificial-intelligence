@@ -76,22 +76,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "YouTube Removed Twice As Many Videos After Switch to AI Moderation"
-    excerpt: "YouTube removed twice the usual amount of videos between April and June after relying on AI to moderate content amid forced lockdowns. A significant proportion of videos removed during that time did not break any of YouTube’s rules. The increase in video ..."
-    publishedDateTime: 2020-09-21T19:17:00Z
-    webUrl: "https://www.searchenginejournal.com/youtube-removed-twice-as-many-videos-after-switch-to-ai-moderation/381619/"
-    ampWebUrl: "https://www.searchenginejournal.com/youtube-removed-twice-as-many-videos-after-switch-to-ai-moderation/381619/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/youtube-removed-twice-as-many-videos-after-switch-to-ai-moderation/381619/amp/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 57
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/b01d05da-882a-461d-ad67-7c759ef3ee11-5f68faf8b1c7e.jpeg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "YouTube to exploit artificial intelligence to enforce age restrictions"
     excerpt: "Google LLC-owned YouTube announced today that it will introduce more advanced AI to ensure younger people aren’t watching videos designed for an older audience. Up until now, the company has ..."
     publishedDateTime: 2020-09-23T03:33:00Z
