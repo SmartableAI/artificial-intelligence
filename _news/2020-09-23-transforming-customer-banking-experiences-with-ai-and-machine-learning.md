@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/transforming-customer-banking-expe
 webUrl: "https://www.information-age.com/transforming-customer-banking-experiences-with-ai-ml-123491753/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kmart Australia uses AI and AR to bring KBot shopping experience in-home"
-    excerpt: "The AR technology has been developed by Valis, while the AI platform is powered by the Oracle Digital Assistant platform."
-    publishedDateTime: 2020-09-22T04:25:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
   - title: "AI gives IT an edge in improving customer experience"
     excerpt: "From healthcare to retail, artificial intelligence is rising to the challenge. With AI, enterprises from an array of industries are improving customer experience by accelerating how tasks are handled, gaining more insights about customer behavior and ..."
     publishedDateTime: 2020-09-22T10:02:00Z

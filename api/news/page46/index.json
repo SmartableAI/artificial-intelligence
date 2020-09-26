@@ -2,6 +2,99 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-08-23-former-microsoft-leader-and-fiftythree-co-founder-georg-petschnigg-on-tiktok-surface-duo-more.md",
+      "title": "Former Microsoft leader and FiftyThree co-founder Georg Petschnigg on TikTok, Surface Duo, more",
+      "excerpt": "Georg Petschnigg learned a lot during an 11-year career at Microsoft, where he worked on various consumer products such as Word and Microsoft Courier. He also got an inside look at how the tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
+      "originalUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/tiktok-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-leader-fiftythree-co-founder-georg-petschnigg-tiktok-surface-duo/amp/",
+      "publishedDateTime": "2020-08-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-23-how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human.md",
+      "title": "How ancient rules of logic could make artificial intelligence more human",
+      "excerpt": "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human",
+      "originalUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/20200820_aristotle_raffaello.jpg?itok=YrmnF2wF",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/how-ancient-rules-logic-could-make-artificial-intelligence-more-human?amp",
+      "publishedDateTime": "2020-08-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-23-facebook-wants-to-help-build-ai-that-can-remember-everything-for-you.md",
       "title": "Facebook wants to help build AI that can remember everything for you",
       "excerpt": "(CNN)— On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology ...",
@@ -1033,106 +1126,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-simulated-dogfight-contest.md",
-      "title": "AI Murder Machine Kicks Air Force Pilot's Ass in DARPA's Simulated Dogfight Contest",
-      "excerpt": "Anyone remember the 2005 sci-fi movie Stealth? As far as I can remember, it involves a secret, artificially intelligent U.S. Air Force fighter plane that rebels against its creators when it is struck by lightning.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pkvkr2tadkg4dlsaanph.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-murder-machine-kicks-air-force-pilots-ass-in-darpas-1844805672/amp",
-      "publishedDateTime": "2020-08-21T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-from-ai-weiwei-a-portrait-of-wuhans-draconian-covid-lockdown.md",
-      "title": "From Ai Weiwei, a Portrait of Wuhan’s Draconian Covid Lockdown",
-      "excerpt": "Ai said the documentary film “Coronation,” which he directed remotely from Europe, “is trying to reflect what ordinary Chinese people went through.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/21/arts/21coronation24/merlin_175985925_29d1caae-7ab7-46cc-95a8-f83acc9e127c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/21/movies/ai-weiwei-coronation-coronavirus.amp.html",
-      "publishedDateTime": "2020-08-21T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

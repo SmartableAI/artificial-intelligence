@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
+    excerpt: "Despite the underwhelming response to Tesla’s Battery Day, CEO Elon Musk laid out some very ambitious plans for the company, though achieving them poses some major challenges"
+    publishedDateTime: 2020-09-26T21:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
+        width: 700
+        height: 292
+        isCached: true
   - title: "Tesla: $25,000 self-driving electric car in 3 years-ish, as company slashes battery costs"
     excerpt: "Chief executive Elon Musk and the head of Tesla’s power team laid out battery design, material and production innovations that combine to cut the cost per kilowatt hours by 56 percent. Another milestone with the link now lifted at iconic One Za'abeel 100 Meters above ground level Pictures: Brazil's newest and largest bank note From Sharjah Corniche to Al Majaz Water Front check out Sharjah neighbourhoods where rents have fallen Jumeirah Living Marina Gate serviced residence opens in Dubai Marina All the cool,"
     publishedDateTime: 2020-09-23T07:35:00Z

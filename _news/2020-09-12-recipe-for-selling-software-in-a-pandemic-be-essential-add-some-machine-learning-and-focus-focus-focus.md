@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus"
-excerpt: "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped."
-publishedDateTime: 2020-09-11T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+excerpt: "Instead of trading spreadsheets around, and manually annotating them, the company's Virtual Financial Analyst uses tools from Amazon's SageMaker environment to automatically reveal the anomalies ..."
+publishedDateTime: 2020-09-11T21:09:00Z
+originalUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+webUrl: "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 1379
     isCached: true
 
-secured: "+tKQFkOTdA4vAybW3SlT0zQof9Fc9bESeBbZN4sy3hW8aRyoJRho3bu8Hp52EgAxDfiGCVSEWbf1PtJf6YJhxoiE5Uu3dze0PWJuOdP3sXavL+UFYPq6DuVj7HPMD0GtXZ0I2QYLcca8T225alYTJK4hBNqhY2RjGrhH/Wgh498h+GRHdiuhMdbOfgD5xeCn4jVKnfetxGffkmQ+aK4xvJZFvz9DRvgqlXfVk4oIh38/MPEz3YAxsgeE6ijXuIrgcJnnEaG6+2pVu6elPw2ovCaDyy62rdB8l3fCKZsh+PuXTo09J7WdZeXMzEBCP/kQHHxSFiERtDbQOPn+wOIVynYBw0FcZXh636yLoSul5Y8=;42YWbH0mg6u9ZOqmUGfZuA=="
+secured: "OVAHl0EoQ6Wt8aGK2o+zk/vFR0fCmT0AJ9NeOJ76sA3GpHK21giZ4p0BKtt+lWCZLV+eqZcuZN5hHIiMgzaAYUr5tWPhKp3RZuYJhsnCs8Kq7BduVkWfGOGysrqmNhUTMY1h/6Quvum02jWqw11oUuHmEPZ+8bba2Wk3g/mL75SjnCp0L6YZ+nbXPGEISFfSLKU4MQpiAzQXSj/IYLrAlGgpz6vrw8SmtZAj9deHzg8wZ6mGUJ8d79A8qPliDlYtR1CdU3A8F2deMXRbXGg66VYDYTcU94QPjFVtkgrWQqskjv1ax2L5InOuVwouZzRlluTZor2mqletcguk7QRIep2G/vTxxB23K6z+1AH5xKU=;Kpn8rjVbCKjdpspIetHCDw=="
 ---
 

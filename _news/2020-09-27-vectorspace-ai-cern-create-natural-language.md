@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Microsoft licenses the breakthrough natural language AI GPT-3"
-excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
-publishedDateTime: 2020-09-24T12:25:00Z
-originalUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-webUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-ampWebUrl: "https://www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
+title: "Vectorspace AI & CERN Create Natural Language..."
+excerpt: "Vectorspace AI and CERN, the European Organization for Nuclear Research and the largest particle physics laboratory in"
+publishedDateTime: 2020-09-26T18:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17667949/vectorspace-ai-cern-create-natural-language-processing-nlp-datasets-in-particle-physics-with-appli"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/n17667949/vectorspace-ai-cern-create-natural-language-processing-nlp-datasets-in-particle-physics-with-appli"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17667949"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17667949"
 type: article
-quality: 104
-heat: 154
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
-    width: 600
-    height: 350
-    isCached: true
-
 related:
+  - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
+    excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
+    publishedDateTime: 2020-09-24T12:25:00Z
+    webUrl: "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Microsoft exclusively licenses OpenAI’s groundbreaking GPT-3 text generation model"
     excerpt: "Microsoft has expanded its ongoing partnership with San Francisco-based artificial intelligence research company OpenAI with a new exclusive license on the AI firm’s groundbreaking GPT-3 language model ... research work and translate it into real ..."
     publishedDateTime: 2020-09-22T20:23:00Z
@@ -95,18 +101,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vectorspace AI & CERN Create Natural Language..."
-    excerpt: "Vectorspace AI and CERN, the European Organization for Nuclear Research and the largest particle physics laboratory in"
-    publishedDateTime: 2020-09-26T18:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17667949/vectorspace-ai-cern-create-natural-language-processing-nlp-datasets-in-particle-physics-with-appli"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17667949"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17667949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
-secured: "L1eLkQYiV0cDiE5IULm3fRfW3iwdwLFNUS8eZsdnZcKkdJlo7gRbIylECDqa8w0znbdpv6dqi7DTg5sAXR3UCYYCX4mNTBQ79CH3o9RXFXZkoJcJD5eqXI9WlhYjezRmBK8AmGmEVotPdJfo92rVSS2bw5llOrZI1MCDrmsFJd3O2hIicg86Q9Lsv+FbTaajzp/6orVWmML1vodpREK3Ferc6lrx2El3Dm1/Htt7wggSTDq/0WO6tcSVi12r4qW2C2XsB8bUr09vMT7AAoekGEdIS+8moMeN4uSd7WLpBn/mxDB1Ha1jMzzvPKOs+R3MI8B2p9KY9qSktRQRNWYAIybBLZLp3eoRQfN/Y0eYVyCd8i9o6CuRuILhgxnNY923O6QRLPcvmP1dhRQge89T+YycDaKRdKp84JQtAGkhH+c0Eszit3kB1u2n90Cl+c3/aWWh8G6ugf6H/OlQ+HVoZE8kAxaGjFJzn23UTMpEywY0Ao8bWiOGGIgnPJSPyrCOVv/Zkf2MBHXKT4hwJxnZXA==;ik+sDjSEYMRCFnxF27AAMQ=="
+secured: "f91LuZaGncfi1hExhKUW2yS/Q0QX6jF45BiZ2KCm9QqmiaPI0SG6zlhku5aptbLd5DKCSYG5V5kvf86lNbZTUZilyi2LWqXHgzJJsohQDZZkJ9PiHv3ktka4z28hSeylVeW3bf+XDJTnB59ZRNaeKJ2X7zUgEBu7oxz7KjKsOeBJRD9w/74/h62ViNdDEMIs08eB3CQnrFWvttjLs0EwFi3qphR/6o/RwSvZLsuj1p4NvyGoKPJSykbzYDCCJx8sLw7zW0usd/2Uf0nV2FgUG+splM1k6PCzu1SGY7GpSFt/9UxD4nCJlg8xcKO4DrkLJ89d6O+wvU+ftxlVUHDWZRVI7w89PEcna0eM8TUaEgk=;PUnU2KNHm0aUteRQlP2cOQ=="
 ---
 

@@ -2,6 +2,99 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-09-04-yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco.md",
+      "title": "Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco",
+      "excerpt": "Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
+      "originalUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/04/yandex-spins-out-self-driving-car-unit-from-its-uber-jv-invests-150m-into-newco/amp/",
+      "publishedDateTime": "2020-09-04T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-04-microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news.md",
+      "title": "Microsoft Launches ‘deepfake’ Detector to Spot AI Altered Fake News",
+      "excerpt": "The tech giant Microsoft has launched new software that can assist in spotting 'deepfake' content that are altered by AI to look authentic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "originalUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2020/09/Microsoft-logo_rgb_c-gray-1.png",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-launches-deepfake-detector-to-spot-ai-altered-fake-news/amp/",
+      "publishedDateTime": "2020-09-04T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phoneworld.com.pk",
+        "domain": "phoneworld.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-natural-language-processing-nlp-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast.md",
       "title": "Natural Language Processing (NLP) Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025",
       "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in",
@@ -1044,109 +1137,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-x-ray-vision-in-the-warehouse-thruwave-raises-64m-to-help-online-retailers-see-through-packages.md",
-      "title": "X-ray vision in the warehouse: ThruWave raises $6.4M to help online retailers see through packages",
-      "excerpt": "Seattle startup ThruWave just raised a $6.4 million round for its futuristic technology that uses millimeter waves to see through packaging. Fortune 100 customers in retail and e-commerce",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
-      "originalUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/09/ThruWave-Founders-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/x-ray-vision-warehouse-thruwave-raises-6-4m-help-retail-companies-see-packages/amp/",
-      "publishedDateTime": "2020-09-03T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-03-ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos.md",
-      "title": "AI researchers use heartbeat detection to identify deepfake videos",
-      "excerpt": "AI researchers are using heartbeat detection to identify deepfake videos and even to figure out what kind of generative model created a deepfake.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "originalUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/ppg-cells.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/03/ai-researchers-use-heartbeat-detection-to-identify-deepfake-videos/amp/",
-      "publishedDateTime": "2020-09-03T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

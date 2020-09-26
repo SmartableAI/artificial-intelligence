@@ -1,21 +1,23 @@
 ---
 category: news
-title: "NEC Face Recognition Engine Provides Highly Accurate Results Even when Face Masks are Worn"
-excerpt: "NEC Corporation today announced the strengthening of its face recognition technology, already recognized as the world's most accurate (*1), with the development of a new face recognition engine that provides high-precision certification even when masks are ..."
-publishedDateTime: 2020-09-24T20:27:00Z
-originalUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
-webUrl: "https://www.newswiretoday.com/news/173757/NEC-Face-Recognition-Engine-Provides-Highly-Accurate-Results-Even-when-Face-Masks-are-Worn/"
+title: "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn"
+excerpt: "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,"
+publishedDateTime: 2020-09-25T06:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
+webUrl: "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17651638"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638"
 type: article
-quality: 9
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 related:
@@ -33,7 +35,18 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Concerns about masks and facial-recognition software"
+    excerpt: "With facemasks now a part of our lives, tech companies are tackling the challenge of updating facial-recognition software to handle them."
+    publishedDateTime: 2020-09-24T12:12:00Z
+    webUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software"
+    ampWebUrl: "https://www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/concerns-about-masks-and-facial-recognition-software.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 24
 
-secured: "283wKpgYmJE6C7r9chPvZpzLWVolQoly+pCMVQOGHE8vFlhEvZ01GaNTu6Ya8iq0+YzVnWCdTTm+WXv8L892j6qr5l/x+CvYIxb6BotNiHVG67DREkXIdW0Pqd2NBK/3sGwQ26gu0e1EjijXUn5slmNdqZB25a92cC1fCk3l5PnaWeoRzwvVgal9VHEJCnKADR0roYbbP7NSv0HExk1MjNZvGiWBLdgMj836Uj96ZE7K8F/VTrx2DKDRutib+3rQqKRxKC85tXpiDWESMOSTQOqqLYS6w+PPBQ2aJWetzjg1mD0wey6Fv9Hj4rmLrVIzztSiygVbpWmEux5CBIxPQe4VBR9FPmulicA3vIY0fe3d+vEnu53gkzsDdSxaG3q+aLSixI6m6H249f7TFRZDjAvtwtPG+FyS2FwOY4H5EBSFlLnBwrH4GBVY7Y7Bqf/N+0tLyB7jmGBk1sg9aoNWVFlzi6DWNIhOHadyx8Lyu1PwpWaQBo9g9zgfuu4msxUuSKi/yhsbOZHWIUcovYSR7g==;B/FPQKlHw9idKl4eWR0LEA=="
+secured: "4ZwU0nL/8SiTLQ2bHhdHnlJXKhVhF9eLF9+Y/6I2jfNqp8nh+jg+fkLz10galcktxGUIRhd0STiWBXo0aHJcUZqE7h+2KT6NXrWG6Y8syyy8jPWAPv+I7OG/voFSxZ1QwcXS7kiUPae/ncwF619U7NXPLO0sgUIYgwY8PuEEuwTDPfffadAUixBlBFS6DZ3nWLOL4YPz1OJc3D/9cWWmHqnkjur4MkOVy+GmutUtPOyjQe434Ui5JZ51w8Vt6hWpyzRZ0v998yP3mK2pHiJrHGv7Cdu3ZgaGmG8yMYQEBwPCyH8xxBuM8mo9bb0O5mGzdtipVSlt2AU/yEqp1qjl3me70XPU19z4vcMM3NuKmn0=;OlY7/SH8Mit6MXxLGnIZfA=="
 ---
 

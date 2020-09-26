@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-rephraseai-raises-15m-to-use-synthetic-media-for-personalized-sales-pitches.md",
+      "title": "Rephrase.ai raises $1.5M to use synthetic media for personalized sales pitches",
+      "excerpt": "Bangalore-based Rephrase.ai has an ambitious vision for reshaping how movies and videos are made. CEO Ashray Malhotra laid it out for me yesterday, saying that his co-founder Nisheeth Lahoti “came up with this concept — he wants to build an engine that can take any script as input and create",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-24-at-10.05.15-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/rephrase-ai-seed-funding/amp/",
+      "publishedDateTime": "2020-09-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women.md",
       "title": "In facial recognition challenge, top-ranking algorithms show bias against Black women",
       "excerpt": "The results from a recent facial recognition competition demonstrate that even the best algorithms are still prone to gender and racial bias.",
@@ -213,7 +263,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1155,57 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official.md",
-      "title": "Skyworth Q71 series 8K TV with MediaTek S900 chip, pop-up AI camera official",
-      "excerpt": "In terms of hardware, Skyworth Q71 TV is powered by MediaTek’s flagship 8K chip MediaTek S900 ... At the smart level, Q71 TV not only supports AI voice operation but also is equipped with a pop-up AI camera that supports 6-channel video calls and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
-      "originalUrl": "https://www.gizmochina.com/2020/09/23/skyworth-q71-series-8k-tv-with-mediatek-s900-chip-pop-up-ai-camera-official/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/09/Skyworth-Q71-series-TV.png",
-          "width": 600,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

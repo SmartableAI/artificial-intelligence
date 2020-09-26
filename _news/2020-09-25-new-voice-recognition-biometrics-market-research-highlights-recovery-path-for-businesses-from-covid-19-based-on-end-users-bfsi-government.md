@@ -3,8 +3,8 @@ category: news
 title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users - BFSI, Government, Telecommunications, and Healthcare ..."
 excerpt: "The new Voice Recognition Biometrics Market Research from Technavio indicates Neutral & At par growth in the short term as the business impact of COVID-19 spreads. \"One of the primary growth drivers for this market is the use of biometric voice recognition in the healthcare sector,"
 publishedDateTime: 2020-09-24T21:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200914005784/en/"
-webUrl: "https://www.businesswire.com/news/home/20200914005784/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200914005784/en/New-Voice-Recognition-Biometrics-Market-Research-Highlights-Recovery-Path-for-Businesses-from-COVID-19-Based-on-End-Users---BFSI-Government-Telecommunications-and-Healthcare-Technavio"
+webUrl: "https://www.businesswire.com/news/home/20200914005784/en/New-Voice-Recognition-Biometrics-Market-Research-Highlights-Recovery-Path-for-Businesses-from-COVID-19-Based-on-End-Users---BFSI-Government-Telecommunications-and-Healthcare-Technavio"
 type: article
 quality: 0
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "f6uqu+NpMzJjQZFc0A4JTxW49oevSg5pJ3zQ6oNs2Qv2bxudf8IShY7TQDbzGm0pRsw1zZr7fOUA8KNndRNqnToyj7S81AltkH9Rv5ijcIvvGLdu6TJNKO2cGvCKmMXo1/CcpgiiXuOO9nXWnRMzm7I+f5kcHvXSdaSAZg4a6TxZKsskIbIZdMTIKAPN0gndzKgOqbtTclF2thi6nXtaxgZn8Dc4IH9dqIvH2xxZOROKHtWH/aR0gDqzNpn9eZ62ldWt7t4LEVMAzVpN+N2g0rr56gzIexntM9GhDqTrWbmHh1gHf2feL5qm8F27he4o5BDqkyRBm2FXl36B6/Fau71lhHnew5RvULaI+BuzwQE=;rwa/7tTidAGA4Cm0kXz22w=="
+secured: "jpGB6FS8tI3e/yml4gXo67GisJBxZwEOcin7wzOPU6ibFMv5nQfTHbG2+FNK0PiXR3UTyFz5unfbFvBQfW+7uIvvgXjfECCc87t+luCPvV4Krw4pkX6XPdcpb2sgFyvKJOri+ERHMuER4E5V/qjHn9KE0gybjuYa4/d/EOYol4qM14i4A2R5KUU9ox+llze2bHAJSfwWbO7ngBeAiMMyQkTaN3TLF6pHUjC06mF8hNKxMuKP0oCoZWe2d6Y8PWxqd2UO9Vs1ft/sxSbY/NEjDoMkPtECoHwi0F4Irl8TsCsdwsOqdYMofSSufoW8DYbK0YO94FaTUlA4ScAk5a9MUkYXaez6Y9iU5HENR6Rgim4=;OukoJv+thwPII6LPnzmz7A=="
 ---
 

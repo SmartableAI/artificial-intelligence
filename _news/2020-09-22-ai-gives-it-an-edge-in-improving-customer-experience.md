@@ -38,17 +38,6 @@ related:
         width: 1012
         height: 675
         isCached: true
-  - title: "Kmart Australia uses AI and AR to bring KBot shopping experience in-home"
-    excerpt: "The AR technology has been developed by Valis, while the AI platform is powered by the Oracle Digital Assistant platform."
-    publishedDateTime: 2020-09-22T04:25:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/kmart-australia-uses-ai-and-ar-to-bring-kbot-shopping-experience-in-home/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
 
 secured: "Wd8hk72x5OX2aA/E6YsIq4jvLpMkNdIlTizlmXBjHe/Z9ARwY2sul1HLw+8b/t6grkXiFN3KLH7BDaGrmWBdneBLipToHZvJLUx3gyBTXeCvW9pDKGsJy79EkQE4C8S1/TVonxteIMuSNNYGryKdBKvRmZ1aQQYNGsNxZ2CUZWeT5x7FiTHa4e+7D2I60M+UPB7vQa2vPc2ot/mLt9QR6blkwmQBx2/8fd4GZrM1i0GhJgjQ9Tl2984IraEKLwnjqBe0dPoObHyz+T2LEC33/OGOWMtuuoex5EDvijLN8zKBDXrFRa1ofL+e9xlMG6lDYamTAk2Ng/6hm+9LZKPBC8oyocu1b9h7xdFke/uvK0c=;4RZtpCFnNfRbAnMsbQpYHQ=="
 ---

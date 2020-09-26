@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/tesla-25000-self-driving-electric-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/tesla-25000-self-driving-electric-car-in-3-years-ish-as-company-slashes-battery-costs-1.74060396"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Tesla Really Produce A $25,000 Self-Driving Electric Car?"
+    excerpt: "Despite the underwhelming response to Tesla’s Battery Day, CEO Elon Musk laid out some very ambitious plans for the company, though achieving them poses some major challenges"
+    publishedDateTime: 2020-09-26T21:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Can-Tesla-Really-Produce-A-25000-Self-Driving-Electric-Car.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-09-25_hxhwkuvma8.jpg"
+        width: 700
+        height: 292
+        isCached: true
   - title: "Tesla’s new battery tech promises a road to a cheap self-driving electric car"
     excerpt: "New battery manufacturing tech could lead to big jumps in electric vehicle efficiency if everything works out. Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
     publishedDateTime: 2020-09-25T04:38:00Z

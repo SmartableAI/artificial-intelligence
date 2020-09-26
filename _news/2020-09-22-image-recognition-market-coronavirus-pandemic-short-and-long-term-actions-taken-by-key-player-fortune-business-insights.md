@@ -32,7 +32,7 @@ related:
   - title: "New Voice Recognition Biometrics Market Research Highlights Recovery Path for Businesses from COVID-19 Based on End-Users - BFSI, Government, Telecommunications, and Healthcare ..."
     excerpt: "The new Voice Recognition Biometrics Market Research from Technavio indicates Neutral & At par growth in the short term as the business impact of COVID-19 spreads. \"One of the primary growth drivers for this market is the use of biometric voice recognition in the healthcare sector,"
     publishedDateTime: 2020-09-24T21:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200914005784/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200914005784/en/New-Voice-Recognition-Biometrics-Market-Research-Highlights-Recovery-Path-for-Businesses-from-COVID-19-Based-on-End-Users---BFSI-Government-Telecommunications-and-Healthcare-Technavio"
     type: article
     provider:
       name: Business Wire

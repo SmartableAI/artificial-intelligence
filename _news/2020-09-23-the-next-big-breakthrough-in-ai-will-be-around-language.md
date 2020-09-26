@@ -92,6 +92,17 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Vectorspace AI & CERN Create Natural Language..."
+    excerpt: "Vectorspace AI and CERN, the European Organization for Nuclear Research and the largest particle physics laboratory in"
+    publishedDateTime: 2020-09-26T18:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17667949/vectorspace-ai-cern-create-natural-language-processing-nlp-datasets-in-particle-physics-with-appli"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17667949"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17667949"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "Hoctr9olW1KIySIOCSJJhwWr1Lw3/VGWPC3YCSIF9sxcVGBK1dYfomD7k7GfnKpIfWFg19b1cylMo/Br1fMzq7qqXuDmdiDbo9aVtpadpf54rOlho/iHYH4ucL1RclECnAIUfO7zld02FhCwTsvrJYmEF8N9x7jEcWBNhsMDfoKYOYQVmmMvky++xYy4OBa6cVcTOwRhEwvLxHxgvqrgwLumPskLSxoN7zY8sT3R5F52I6t3NlJDLDJ3r2VYOdtTiZNBqyytFT5rXRMWkggCbMFaxeV7TzT3lxwxdMhsU98rG1faSKbc6+hdhUGa+ZmNooehF6F5Cj9n9OQSZrzfrZ8GSgC/LuXxn8Bjxrgnyg1HAg6OKS5Ls19BKAFbvxEbuoTciqLu4yDn1Rce8ZMD7jVyPl1ix3fAy65PkHYkNlObzLFoC7AbNOGk/eZQUO5ecddNg+dyUzJZyDJcMIkaK+RL6q2qbtyjdyKze4ZMYw8vrfR5gBNyA2LDyKIUZ6TfCcWvqsGOD9u9RRQqh9WPtA==;3eOh6b3JPMXKcEnUf8ffig=="
 ---
