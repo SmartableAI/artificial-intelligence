@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2142158/intelligent-robot-market-next-big
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142158/intelligent-robot-market-next-big-thing-major-giants-blue-frog"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Greentech Robotics' weed-pulling robot Weedspider targets US market"
-    excerpt: "SUPPLIED A Kiwi tech company is in the final stages of developing the world’s first fully-autonomous commercial weeding robot. The Weedspider trundles along rows of vegetables using high-resolution cameras and artificial intelligence software to identify ..."
-    publishedDateTime: 2020-09-21T23:54:00Z
-    webUrl: "https://www.stuff.co.nz/business/300112858/greentech-robotics-weedpulling-robot-weedspider-targets-us-market"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/o/g/a/n/image.related.StuffLandscapeSixteenByNine.1420x800.4yogka.png/1600732204456.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "kdmQ2a/tDPY65gWUoOMf1zlOlUYbZ3W+PqaZJuH21xvXOikxwNrMcxoq2EXW4xM3OS6BQO/W3PvvVFa1PqWiMjaBuIOe1vg/HQaFSzJTl7Of3B857m/41d1w8S5SaB0YoT+s3P85IqiSuomq29GzGnD9HM6V4R+PjkbJWnaPWF5YerlU0gzUD/cOgcrFRnWVBHS2Lr0Z6Kqb4NpzrX2u0b8ukEZS9m+DJfaZ930uB7/mLc6tTMPjT/2q6104oEntrmBCAYIl5zwmOgQW92qubmK/rQ7vkDNqtzmeQxBUbGeXTIlTPcmB6H1xGdPjEqLuk50/kDKMZCibWhGUhxhOdzpGvvvt/63pBAy9mkHp9FPxwSxC0R+43OYJQ9q8WhuC+u6UG9Ee8BrEWujCGEgcd0xICSMhDZzyWEriSBLzzr6dRnkwhk9/Z4aCi6z64SAUHjyV61JPm5McMwDty+5xbfDwyyWBI28dRxl52MBp9lowG/J/Ofr7xX65FrrxBhz+nKuGeUszZDg/rZDGHLIZqw==;ngENnGNP1m3TuUOcFkfj9Q=="
 ---

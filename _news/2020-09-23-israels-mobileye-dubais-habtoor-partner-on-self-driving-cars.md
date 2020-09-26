@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars"
-excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022."
-publishedDateTime: 2020-09-23T12:25:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
+title: "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars"
+excerpt: "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ..."
+publishedDateTime: 2020-09-23T12:26:00Z
+originalUrl: "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207"
+webUrl: "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207"
+ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKCN26E207"
+cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKCN26E207"
 type: article
-quality: 69
-heat: 109
+quality: 89
+heat: 129
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars"
@@ -84,6 +90,6 @@ related:
         height: 392
         isCached: true
 
-secured: "1BYsKhvsmGmK6fgMl1fXz+LzY25lI5inPiIttdxQ2johJrN7WzHeXIB06eEX9iqJv/yt30v8xGZU03hcQMH+AAQvRAeX/mL2bLijENmGL0Aj9Eapz4QWkfcXJa+Q9c+pcVVLSvkhVfFPxiZiqNQ4GoPUvfSFpqqhCRyOx7AHGGmKZbXYa1ppslxNGP4ENZlFz01KmGIaX0pl7D3PiflENW0cNB/JBSEx5OTStnomszVZK7b9GGpb+/9I1RJ73mYa1lbB2BUzaD99lSYxg/Rnc0f6P+so4GgkHF50gSkVQ3ubY5eF3JAeVkxvTAZN9NxY0RHLS0bLuGMvQG6PTcmWN4dSDmmIU090uN7Xk/qjER7QZly9XIGIMgSPLaee1L8noj7XmtQJfpD7Ojns6uf+dDpOheagQMFFf/RbojdCCVxdspuMNn0h28PWeVE7iKZsDCK/iFdrwZLvonOL3N+FQo2X058kKbnqkGbVNR/eHD1w/nT/Tf8vHO/138pnsYikGZPdfETQSShfWb85oKHSiA==;TpXjdlXGm48ELyjffTLKnw=="
+secured: "6maD7xU3AuyLtYQFMj+mzHHaI/lvv3tL3Cg4EnW76PRsM97fg7F9R4FA+BeZ7xcWaZahCpk0vroXFDEqA7utJmrueUtVrRWzqysO9Hsv8pnRhoQgmzFXzFPLHYS2wXm8UtUYfWNTxCLEpGwFedVPDxoeyKpawRbDA3VSmuiQBBNHySCusMtqGNmBwQT+aGEag7/VE/x/nTXwYSufL1UiCjhr2usPXbOkqBQMOk6CL6UF4DmWWzZO5uHkYHDj+FUz0JK7uM0tgKZAzXT/168f0dOraZWhSVuT0oe45c2SP4lTU06ZH3bl7kCshOW9kfHakR4zPOM4J6eeT/n+IIzmPuMCjdYDs18DOKepEobnrb0=;F1qYSpHDtvZzkSjI6zMekA=="
 ---
 

@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
+    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
+    publishedDateTime: 2020-09-24T10:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
     excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
     publishedDateTime: 2020-09-22T11:53:00Z

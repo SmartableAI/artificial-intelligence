@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
-excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
-publishedDateTime: 2020-09-22T18:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
-webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
+title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
+excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
+publishedDateTime: 2020-09-24T10:04:00Z
+originalUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
 type: article
-quality: 52
+quality: 26
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -51,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Contact Center AI Software Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "Sep 22, 2020 (Heraldkeepers) -- New Study Reports “Contact Center AI Software Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. The fundamental dynamics that are explored in the report ..."
+    publishedDateTime: 2020-09-22T18:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -114,20 +129,6 @@ related:
         width: 278
         height: 333
         isCached: true
-  - title: "Data storage market Size Outlook, COVID19 Impact on Industry, Share Value, Global Growth Drivers and Industry Forecast to 2026"
-    excerpt: "Even though the trend of major companies to develop own storage platform such as Microsoft Azure, IBM Cloud ... data management, and AI and Machine learning offer opportunities for the data storage market to grow in the future. Besides, as the virtual ..."
-    publishedDateTime: 2020-09-24T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-storage-market-size-outlook-covid19-impact-on-industry-share-value-global-growth-drivers-and-industry-forecast-to-2026-2020-09-24?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) in Life Sciences Services Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2025"
     excerpt: "The report on the global Natural Language Processing (NLP) in Life Sciences Services market provides a thorough assessment of the COVID-19 impact on the current and future market prospects across various geographies. Starting with an informative market ..."
     publishedDateTime: 2020-09-22T11:53:00Z
@@ -170,6 +171,6 @@ related:
         height: 630
         isCached: true
 
-secured: "km7jSDwLcC5d5oVki8TjvnXBK3ZHgkFhYdHcphR/HMC+TUdyR16a2icWeLGBrh4i1hH1CO4miDb+CPgbJcqK/xscLg82Dup2rVY3BPU8GYxxWhxCdOslUAA5PaowLpQL5xZ9JLG+eydZACL5jCSdzPElOMC+w1KjKY0dB7cHdWpVRWjv7DQMxaDjZoN9+nlUdjVy7F61YHLlByoC6RifROJNX8lPVC7y2SMYZGp83wLrsVCGIzNpSR072V1qQGtGOoUcJas6UgnbauAq5FkkkuhSJqiL3XVFsG2D/mepWAbsNFY/UEedkuzbNBkOnrw4MtNQOE+IIlOI24v3QniIPuTGBugvkZio39yDR0hn+qk=;M4nQH5PbPoWnlZATfcRueQ=="
+secured: "StyZygew4F4wjMaR4+6sPL4SY8bTGbXk7WbT4EjVY5FCIilP1f3MgKHWnGKuD193PET9Go8Kq9aYMoCLV5cmd4+q12FrlqZFEQTWeRhug2Mu/hJDkh+Reyqxpqfu4dkY1Glao5wcemtrnXGzGOJRJh59Ufz1QNLOZln/sYdyNgUwNuZxRV3ZFaZeca7SNt60Lh38Kn/gJ1fodCWJ6U4HPit10SdMfaV+2NVGj59zWniokzR5AuewTRHP4xyK0I/1U9lVVFJYaMwFjxbuLKyaZOVcnx/fEsCPr+TcwayvVSA3v0aJGNknHieCzrib3vcMG9HQIDQ6AcjZxDuaFxE/Qac5ezQfaLfMiTZQ0rV9Yi8=;9RJzVUjfotqHx7tByEtBUg=="
 ---
 

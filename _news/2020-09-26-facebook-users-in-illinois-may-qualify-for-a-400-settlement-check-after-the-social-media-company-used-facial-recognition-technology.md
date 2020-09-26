@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-illinois-400-dollar-lawsuit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-illinois-400-dollar-lawsuit-settlement-check-details-facial-recognition-2020-9?amp"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -29,75 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Detail: How are the police using facial recognition technology?"
-    excerpt: "There is growing alarm about the use of facial recognition, especially when the police don't tell us what they’re doing with the tech."
-    publishedDateTime: 2020-09-23T17:10:00Z
-    webUrl: "https://www.stuff.co.nz/national/the-detail/300114988/the-detail-how-are-the-police-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/m/a/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yoi7g.png/1600864305668.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Bill introduced in Council to ban facial recognition technology"
-    excerpt: "The technology could lead to false arrests, says its sponsor. A bill to bar extending the BRESCO incinerator contract goes to the Judiciary Committee."
-    publishedDateTime: 2020-09-22T01:27:00Z
-    webUrl: "https://baltimorebrew.com/2020/09/21/bill-introduced-in-council-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Baltimore Brew
-      domain: baltimorebrew.com
-    quality: 39
-    images:
-      - url: "https://content.baltimorebrew.com//content/uploads/2020/07/city-hall.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pittsburgh City Council Approves Bill to Regulate Facial Recognition Technology"
-    excerpt: "PITTSBURGH -- Pittsburgh City Council on Tuesday passed a bill that would require the legislative body to give its approval prior to police use of facial recognition technology. The bill, sponsored by Councilman Corey O’Connor, regulates the city’s use ..."
-    publishedDateTime: 2020-09-22T21:22:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21155373/pittsburgh-city-council-approves-bill-to-regulate-facial-recognition-technology"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 35
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/09/16x9/pittsburghpolice.5f6a6ad302648.png?auto=format&fit=max&w=1200"
-        width: 1192
-        height: 668
-        isCached: true
-  - title: "Moscow’s leading facial recognition tech to be expanded to 10 other Russian cities"
-    excerpt: "Russia will introduce Moscow’s controversial facial recognition camera system to 10 other cities around the country. The installation cost in each municipality is estimated to be between 100-110 million rubles ($1."
-    publishedDateTime: 2020-09-26T15:48:00Z
-    webUrl: "https://www.rt.com/russia/501796-facial-recognition-russian-cities/"
-    ampWebUrl: "https://www.rt.com/russia/501796-facial-recognition-russian-cities/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/501796-facial-recognition-russian-cities/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 33
-  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
-    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 21
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
-        width: 610
-        height: 409
-        isCached: true
 
 secured: "ilWOzgfmn5SDRX+pNCZJdJsnJhTR6k3J+wJlEHunP0JzgkeFtXiurbPWHuReiBPbP8rMvsgUIenym7q6rvOGVyu/y5RTdQ7r/5PDBb3tSc88iAhOzERznvTc4a21E0Wn6BoVljdVXmggo2xC4JRm/iwugtyTZjvYnreKw2qbLNbjmi7A/6Zjx20XPcY9P/kPCAAR5VYkNG2nhtZIsnDnmwe+qMkJGodXMedOsR90PfHrqX5q51cjc84Wbsm8Ri0lBtCNTIeWa6/UN5Fkz5lzuMenbbc+gnnyeAxg+PTcJKVvlZdxJX4mXieZuqi4D/Sks8JMlZ+bW54nFN1IjbQFiFLXzaqSXW9mqp70boPaSGs=;GN5HP5cbXyQtTCcJpj7EwQ=="
 ---

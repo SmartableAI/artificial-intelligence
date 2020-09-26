@@ -20,17 +20,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Today Finch Capital: Finch Capital's Report: State of European FinTech 6 Months Post Lock Down: Stable Today but Prepare for 2021 Fall Out"
-    excerpt: "New research points to a resilient European Tech growth engine, however limited exit options beyond IPO for European Unicorns Today Finch Capital issued its annual State of European FinTech report"
-    publishedDateTime: 2020-09-21T23:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-09/50758901-today-finch-capital-finch-capital-s-report-state-of-european-fintech-6-months-post-lock-down-stable-today-but-prepare-for-2021-fall-out-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "BukhHSZpsw16HZ+pttWd2sftTtHbkxf0apCDrAq1/z7i7sv6imvNQW0JRhsyJD0eik5dY/V/3ug1SVtTt+c9uE3CJygNHv2Zp+FBlXWBsrPyzpidxj1j5Rlj/nnCSbhEB1far771koqEZZXcPqlwMlZVsi7QxaRnqWHr9ZNZLDtVxjfqiBfLZWNcH7Kh8EDYvH/YC+Mr/slP5lsJM/dGMvk0JOM+yAzYzp1iS7gCupTA//DHEUmnSiTyi6tIs/pX0MpryW6Wb1YQVzyy4oq9/bfR9ojJZGEN8XoX1JE7Is9Ft6VaWAql0nI87HTvKAuUKUob/jC6txFcKH2ryJA5pfvOmdvcSlPVt/hwHgzq2mE=;rCk14WxMODPISCximFQwZA=="
 ---
 

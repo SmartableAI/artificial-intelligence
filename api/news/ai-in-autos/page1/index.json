@@ -403,27 +403,36 @@
     },
     {
       "path": "_news/2020-09-23-israels-mobileye-dubais-habtoor-partner-on-self-driving-cars.md",
-      "title": "Israel's Mobileye, Dubai's Habtoor Partner on Self-Driving Cars",
-      "excerpt": "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving \"robotaxis\" that could take to the streets of Dubai by the end of 2022.",
+      "title": "Israel's Mobileye, Dubai's Habtoor partner on self-driving cars",
+      "excerpt": "JERUSALEM/DUBAI (Reuters) - Israel’s Mobileye and United Arab Emirate’s Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving “robotaxis” that could take ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars",
+      "webUrl": "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207",
+      "originalUrl": "https://in.reuters.com/article/us-israel-gulf-intel-habtoor-idINKCN26E207",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M19L",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp",
-      "publishedDateTime": "2020-09-23T05:25:00-07:00",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKCN26E207",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKCN26E207",
+      "publishedDateTime": "2020-09-23T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -960,6 +969,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
+      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
+      "excerpt": "WASHINGTON (Reuters) - The back-up safety driver behind the wheel of a self-driving Uber Technologies UBER.N test vehicle that struck and killed a woman in Tempe, Arizona, in 2018 was charged with ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/uber-selfdriving/update-1-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUKL1N2GC2F5",
+      "originalUrl": "https://uk.reuters.com/article/uber-selfdriving/update-1-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide-idUKL1N2GC2F5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2663FU",
+      "publishedDateTime": "2020-09-15T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores.md",
       "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores",
       "excerpt": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in danger.",
@@ -991,57 +1042,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-safety-driver-in-fatal-arizona-uber-self-driving-car-crash-charged-with-homicide.md",
-      "title": "Safety driver in fatal Arizona Uber self-driving car crash charged with homicide",
-      "excerpt": "The back-up safety driver behind the wheel of a self-driving Uber Technologies <UBER.N> self-driving car that struck and killed a woman in Tempe, Arizona, in 2018 was charged with negligent homicide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
-      "originalUrl": "https://www.reuters.com/article/uber-selfdriving-int/back-up-driver-in-arizona-2018-fatal-uber-self-driving-car-crash-charged-in-death-idUSKBN2663FS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533615341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8F054",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2663FU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2663FU",
-      "publishedDateTime": "2020-09-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

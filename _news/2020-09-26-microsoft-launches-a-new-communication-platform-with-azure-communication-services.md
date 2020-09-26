@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Launches Spatial Analytics, Other AI Services at Ignite"
-    excerpt: "Microsoft rolled out an array of new AI services during its Ignite conference today ... Spatial Analytics, which is part of the Microsoft Azure Cognitive Service offering, can combine images from multiple cameras to count the number of people in a room."
-    publishedDateTime: 2020-09-22T00:00:00Z
-    webUrl: "https://www.datanami.com/2020/09/22/microsoft-launches-spatial-analytics-other-ai-services-at-ignite/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/MS-Spatial.png"
-        width: 650
-        height: 378
-        isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
     publishedDateTime: 2020-09-22T20:51:00Z
@@ -182,6 +168,22 @@ related:
       - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
         width: 950
         height: 633
+        isCached: true
+  - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
+    excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
+    publishedDateTime: 2020-09-26T16:08:00Z
+    webUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
+    ampWebUrl: "https://m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 52
+    images:
+      - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
+        width: 520
+        height: 296
         isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
@@ -225,6 +227,6 @@ related:
         height: 432
         isCached: true
 
-secured: "A3LQFEWNXUK8IvbohORAqqveKO/vSQK9MnB3qtGfGvsqLnRG1aKL2CGSfIJO27CQuMtt8O2x8utNtAP8mfDcOC1yHUcVDa36SdEMG2SPqpxmymcNcc9nhSEM5ufRb2zZI9VjlJpOyw0HcBISsWyVSbRWJg7RLHi6AE7arIBeCe5B9Y3YZoKOGX4CXNxKnurYFUxP4SEOkiLmH6bgJzO7YSkvI0wHPlafgzwP0gH3L96zpmTY0D/Yumn0I9jTfoJhp+5bJoPQobhtliWYw9Qn+xNMVXyp9uB9aQZDvXhvIlhDgosrrYkzJ68qdJqIQ5ZLqQRCmCz7Vyq1iIbZTZ9/3q3eNSO3aW+mbYJSR3gNxds=;IQSrtoY4I7okKIJgBS/KlQ=="
+secured: "cvKqLxF2Cucat/1f63Y/BMc2XgZgxHrxFym0C+Cydl9tI6y2fd35ojEKl+4EKZ4xrZv3w/xbqenyxY2tFp6nOQgFk250oQCZLmeTzKwSrSWICv1DotZYWZpQvr+pSnvtHnNAJveMFgM1TpiK+yv8mlQV+ItbsiuP1wDxqWVL4/dh4HruIBVPMTYcBzZBIbJgcBAU81uMp1uVWInRqWdoYVWrVEePfidjrsK09C0Yf6C7XjxqCILDnpb4+Z8jSwDuISSfirS/2/Jyfaww2GWVEcHLlMkjeUlvRCQKQ66fef+UdH++f3GnzbI1Qenk1Qgc4Nh1LM7CUYeOcdh6BEAXCYYtrF7elIEmDe5f8XZ+8knFxBCgTPjgG/PEkPNyl3hAtH7leMwc01bkRbgN071EQL6xA2enstl71/Z9UDPbxwheIpI+OpAF1NKS8GOG0zFN5tU1knxH4PBYO1z4IpgIKTYLrx/rpR7/x+HPVnJtd+NJoRGS5Z2V+seZcAUxt0zJpjA3UcQjRiio8DV5rpYtNg==;j81eqqCN8mjxeneCBlWCag=="
 ---
 

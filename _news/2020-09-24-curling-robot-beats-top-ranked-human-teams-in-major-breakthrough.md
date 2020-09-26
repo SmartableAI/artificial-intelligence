@@ -41,6 +41,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Robot beats human curling teams as part of research project"
+    excerpt: "Researchers have developed an artificial intelligence-powered robot which has beaten human curling teams. The robot was designed by researchers from the Korea University in Seoul and the Berlin Institute of Technology."
+    publishedDateTime: 2020-09-26T17:26:00Z
+    webUrl: "https://www.insidethegames.biz/articles/1098864/robot-beats-human-curling-teams"
+    type: article
+    provider:
+      name: Inside The Games
+      domain: insidethegames.biz
+    quality: 39
+    images:
+      - url: "https://www.insidethegames.biz/media/image/186482/o/Robot+curling.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Curling robot can now beat human curlers"
     excerpt: "Researchers at Korea University and the Berlin Institute of Technology in Germany have developed an artificial intelligence (AI)-based robot capable of beating humans at curling. The AI-based curling robot,"
     publishedDateTime: 2020-09-25T13:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-a
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://static.independent.co.uk/2020/09/24/14/robot%20curling%20ai.jpg"
         width: 1662
         height: 1246
+        isCached: true
+  - title: "Robot beats human curling teams as part of research project"
+    excerpt: "Researchers have developed an artificial intelligence-powered robot which has beaten human curling teams. The robot was designed by researchers from the Korea University in Seoul and the Berlin Institute of Technology."
+    publishedDateTime: 2020-09-26T17:26:00Z
+    webUrl: "https://www.insidethegames.biz/articles/1098864/robot-beats-human-curling-teams"
+    type: article
+    provider:
+      name: Inside The Games
+      domain: insidethegames.biz
+    quality: 39
+    images:
+      - url: "https://www.insidethegames.biz/media/image/186482/o/Robot+curling.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Curling robot can now beat human curlers"
     excerpt: "Researchers at Korea University and the Berlin Institute of Technology in Germany have developed an artificial intelligence (AI)-based robot capable of beating humans at curling. The AI-based curling robot,"

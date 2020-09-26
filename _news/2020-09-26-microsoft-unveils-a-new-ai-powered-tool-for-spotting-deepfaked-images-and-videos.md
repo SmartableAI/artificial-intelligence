@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Deploying support chatbot using azure microservices architecture"
-excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
-publishedDateTime: 2020-09-22T01:03:00Z
-originalUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
-webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
+title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
+excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
+publishedDateTime: 2020-09-26T16:08:00Z
+originalUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
+webUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
+ampWebUrl: "https://m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
+cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
 type: article
-quality: 69
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Medium
-  domain: medium.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digital Photography Review
+  domain: dpreview.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
-    width: 784
-    height: 329
+  - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
+    width: 520
+    height: 296
     isCached: true
 
 related:
@@ -115,6 +112,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Deploying support chatbot using azure microservices architecture"
+    excerpt: "Azure bot service allows us to develop intelligence ... is a cloud-based API service that applies custom machine-learning intelligence to a user’s conversational, natural language text to ..."
+    publishedDateTime: 2020-09-22T01:03:00Z
+    webUrl: "https://medium.com/yuki-azure-bot/deploying-support-chatbot-using-azure-microservices-architecture-b313b8c07246"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/784/1*xHRT0bxTsZ-TVrM41IKH5g.png"
+        width: 784
+        height: 329
+        isCached: true
   - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
     excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
     publishedDateTime: 2020-09-24T11:11:00Z
@@ -158,22 +169,6 @@ related:
       - url: "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg"
         width: 950
         height: 633
-        isCached: true
-  - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
-    excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
-    publishedDateTime: 2020-09-26T16:08:00Z
-    webUrl: "https://www.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos"
-    ampWebUrl: "https://m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/8449901778/microsoft-unveils-a-new-ai-powered-tool-for-spotting-deepfaked-images-and-videos.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 52
-    images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS520x0~articles/8449901778/microsoft_deepfake_main.jpeg"
-        width: 520
-        height: 296
         isCached: true
   - title: "Microsoft Launches a New Communication Platform with Azure Communication Services"
     excerpt: "Ignite Conference, Microsoft announced Azure Communication Services (ACS), a fully-managed communication platform. The offering is currently in public preview."
@@ -231,6 +226,6 @@ related:
         height: 432
         isCached: true
 
-secured: "nQ5rh1q1qpudl56dqFqeM7HRRj+IqfLRFVfPNa+iu0nSvpwMAT7r6flPJDfJDVeFJ8GwDOZ2f7NxEIqZ9aT0RwvtP7H7oRuuMFy6HB8x0r4BlgC2Qa9MxYSTH9nHp+XWGvV5fhle1irxJU1P3hkdldAn7X0CuM8JAgW4Fs7yhzJs2M7wE7ZC636uxh2s2zfdCm6IAv9yaYYy2Nmd/dSMBIAajrDtJXeuk627TnoYCoWGf+YdGnq9mbu7TMLbAogHk4PeSeumZCNZfPSHgtcEVbUzmSA1GcPsVC4ZBzG4Eh2B0PmtkTackI+zCqcyhnlZmd+JKTYCJogwufrVhVTyfaI59z2gOq+3lfrzg4NMAkE=;4GYGZMDbM+NoTDQT5PoThw=="
+secured: "sDqgiU50b9egVAuE5NK2pZph/jd8gJkSkVDwZKh9QiOhlp1Sc2mHcIyX9IGLPCrtUsd/OWzsdI6Qhltw+Eu8CzBl/8v9ScxGdHGRYS1fVg6cb6ABVPigAMSDLbnmEPY3bkC/wLWjCKXDNju/kh9z8pfUzvSrD7q6dxpBG6d2DfTrxgYFN6CDUg2LFW4rzFx0HQxnv2DDdjZ8SDwMg4piyh9GSTPdWFvZsPcidIlKSsFVg/9/pFlA70AO1l/15GiF6ewH2kfCFWWi0ITiTg1wIRKC0UbMiSHOPH43GapzCFp8VwVkq907WmWhuBlDO3ZGr8OHG5h4gFu3UkFMaW14NE2OQsERS+6W6FO/Y8Fg+5Q=;TGgOjCGEiEZgn4IIQw9leA=="
 ---
 
