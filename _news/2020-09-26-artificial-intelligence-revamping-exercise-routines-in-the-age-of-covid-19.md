@@ -34,7 +34,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Webp.net-resizeimage-1.jpg"
         width: 966

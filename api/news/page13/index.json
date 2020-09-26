@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-15-browser-based-models-with-tensorflowjs.md",
+      "title": "Browser-based Models with TensorFlow.js",
+      "excerpt": "The first thing you’ll need to do is add a script tag below the head and above the body of your HTML file to load the TensorFlow.js file. Below is the code to do that. Also, dotraining() should ...",
+      "sourceUrl": null,
+      "webUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
+      "originalUrl": "https://medium.com/analytics-vidhya/browser-based-models-with-tensorflow-js-afcd10be3615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*npKSvz2aHjl3mzVT3bGN-A.png",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-how-mcafee-researchers-successfully-bypassed-facial-recognition-verification-technology-with-ai.md",
       "title": "How McAfee Researchers Successfully Bypassed Facial Recognition Verification Technology with AI",
       "excerpt": "Facial recognition has become a common technology. It can be found in action every day, as millions of people unlock their personal devices with just a glance and social networks identify users in photos before they are tagged. But the many uses of facial ...",
@@ -1061,48 +1112,6 @@
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "publishedDateTime": "2020-09-14T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess.md",
-      "title": "DeepMind's AI is helping to re-write the rules of the chess",
-      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
       "publishedDateTime": "2020-09-14T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {

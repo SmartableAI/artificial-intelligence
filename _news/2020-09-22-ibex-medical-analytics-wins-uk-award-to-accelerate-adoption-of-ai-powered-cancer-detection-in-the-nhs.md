@@ -57,19 +57,16 @@ related:
         height: 853
         isCached: true
   - title: "MIT professor wins top AI award for cancer, drug research"
-    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for"
+    excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence. The world's biggest AI society awarded its top prize"
     publishedDateTime: 2020-09-23T14:08:00Z
-    webUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
+    webUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
+    ampWebUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/d4b1b23bcefc4c12ac340164ae950fcb/2000.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "5waU1qoVFF9s2AYWvO557g7N5gvFZhXOVG9H4Yop5f5Wf56/CKosaQwcyaPnSplOKM6xRMMQTPSPaEx5KVVNwu0juazcgnjEd1FpGe5MVOkVsiZwC/DCvkTIhh4+8Ze1Fp5bI9lZj/6+UzG6YQVew6IfG7HpvPl6w/F+PgDpv4e6mH+JD1byxI/ylJYwf1wZWhCeWzNaC4LR8EO4twd4hMVuu63hrcj9dG2fC35OrSR5Gtj1uL2AlXS7lt2pVv0PBEuvwj7LmInC/NV51sMWhOHabpFDJfuJczfIEzZhm1eH+x6kUEPdjolRf2WNhihmzq92XPGbpsk4ki7Wo+ZnKdGnbabTCV3jumgRw/HtMSM=;8a1prauq0HhEQaH0jYr6AQ=="
 ---

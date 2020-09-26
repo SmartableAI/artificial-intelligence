@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-26-deep-learning-algorithm-to-speed-up-materials-discovery-in-emerging-tech-industries.md",
+      "title": "Deep learning algorithm to speed up materials discovery in emerging tech industries",
+      "excerpt": "Instead, researchers have developed a deep learning-based smart algorithm that uses a technique called generative adversarial network (GAN) model to dramatically improve the material search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/08/200825110638.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-25-astronomers-confirm-50-new-exoplanets-using-machine-learning-algorithm.md",
       "title": "Astronomers confirm 50 new exoplanets using machine learning algorithm",
       "excerpt": "For the first time, astronomers have used a machine learning algorithm – a form of self-teaching AI – to confirm the existence of exoplanets in data collected by the now-retired Kepler space telescope.",
@@ -1376,39 +1418,6 @@
       "provider": {
         "name": "ST",
         "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-is-sustainable-deep-learning-possible.md",
-      "title": "Is sustainable deep learning possible?",
-      "excerpt": "Training a deep learning machine causes as much pollution as the emissions of five automobiles over their lifetime. Unsurprisingly, researchers are working on new methods with a view to reducing ...",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible",
-      "originalUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/103193/is-sustainable-deep-learning-possible/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/103193/is-sustainable-deep-learning-possible/amp",
-      "publishedDateTime": "2020-08-17T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
         "images": null,
         "publishers": null,
         "authors": null

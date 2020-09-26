@@ -2,6 +2,56 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-07-23-riiid-raises-418-million-to-expand-its-ai-test-prep-apps.md",
+      "title": "Riiid raises $41.8 million to expand its AI test prep apps",
+      "excerpt": "South Korean startup Riiid has raised $41.8 million to further develop its AI test prep technology. To date, the company has raised over $70 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/1-1-e1595515659939.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "publishedDateTime": "2020-07-23T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
       "title": "Tech Startup Funding Declines as Pandemic Drags On",
       "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
@@ -1145,57 +1195,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security.md",
-      "title": "Tech execs urge Washington to accelerate AI adoption for national security",
-      "excerpt": "Watch every session from the AI event of the year Tech company CEOs may be heading to Washington next week to take part in antitrust hearings in Congress, but this week high-profile executives ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
-      "publishedDateTime": "2020-07-22T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

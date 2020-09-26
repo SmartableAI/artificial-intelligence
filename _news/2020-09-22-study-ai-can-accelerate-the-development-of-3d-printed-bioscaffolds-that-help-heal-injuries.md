@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200922/Study-AI-can-accelera
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200922/Study-AI-can-accelerate-the-development-of-3D-printed-bioscaffolds-that-help-heal-injuries.aspx"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI could expand healing with bioscaffolds"
-    excerpt: "Artificial intelligence can speed the development of 3D-printed bioscaffolds that help injuries heal, according to researchers."
-    publishedDateTime: 2020-09-21T18:40:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/09/200921135407.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "SYp2qLvsw9Z5KKZXkrfJTt0LP5rfYMsTYXHjyC3mmEVM7RVn2V8vvYLUgnygWYbap+dEwBKt50mzugYQnWmzNhcDphhoU0preIl5/bWJ5JVh4r1jdbpZBKzbYQWXFqqdkgVg9zqg1U/LGhiCDtKsR0ZyGfNL5ySg40+ZmTLgZMP8PA1+aE2oXsxIiTnExDT1qg62BSg4ACMt+08q+qHAG9IeskqsTMGiN2qq12z9j7LmlpIAXJIlLLmPAnDvCrY+hbgDd5bnqrOv7XRQMQ33MijO96SdI1ZiOsBUEZLJJgbbUUyK2I11HX8gTKEBQkQicNOEPI9tWcOMqGNiL+LEIY4YOGOoIxNHxKfIxT9JixM=;HHcSiXyALRrEsDf0b39GUA=="
 ---

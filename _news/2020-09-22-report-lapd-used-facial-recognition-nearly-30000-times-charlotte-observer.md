@@ -241,15 +241,6 @@ related:
         width: 1200
         height: 868
         isCached: true
-  - title: "Controversial facial-recognition software used 30,000 times by LAPD in last decade, records show"
-    excerpt: "The LAPD has used facial-recognition software nearly 30,000 times since 2009, with officers running suspect images against a mugshot database."
-    publishedDateTime: 2020-09-21T17:24:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-09-21/lapd-controversial-facial-recognition-software"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
 
 secured: "qG7zs2/qyP3JZ7X3woCMGXizzZhsoGqdBAFK+/pqzIrjnVvYDiAM9TOUpQLc6CohBI9cxLw+GKUSCTkwjoXGXAleXYjpURBV5tBgM/AoKZeUS3zJMElFkH7i79zWO31HLYRA85fvruTuPHdur6ENRQ2gJ9ZqDStzNteCOF8Sdkxml6A/MPP/cDad6ZOGXwVmBSJHfFE/M0D1j1qByN/hNwzXRN2CYcyR526cBZ25ZUIZxBNWdJuQ9PrU7gQU7GNI3cbV8lhtcnuuHzDFt6j267cm83NfvMJiXydbq2JIh5nrbhA6lPD3zNcrHf2CAHP7rYOl+K3wiwLXZPy5uz5z5X9j1Tta+uxb6F7AsJuNMZE=;VMz0E4yudfO7XEp+uBX5Og=="
 ---

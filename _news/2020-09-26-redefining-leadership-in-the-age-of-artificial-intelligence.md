@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-26T08:29:00Z
 originalUrl: "https://www.analyticsinsight.net/redefining-leadership-in-the-age-of-artificial-intelligence/"
 webUrl: "https://www.analyticsinsight.net/redefining-leadership-in-the-age-of-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/09/Webp.net-resizeimage-1.jpg"

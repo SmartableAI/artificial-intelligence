@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/lapd-facial-recognition-technology.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lapd-facial-recognition-technology.amp"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -242,15 +242,6 @@ related:
         width: 1200
         height: 868
         isCached: true
-  - title: "Controversial facial-recognition software used 30,000 times by LAPD in last decade, records show"
-    excerpt: "The LAPD has used facial-recognition software nearly 30,000 times since 2009, with officers running suspect images against a mugshot database."
-    publishedDateTime: 2020-09-21T17:24:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-09-21/lapd-controversial-facial-recognition-software"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
 
 secured: "MOGxolw9fuf5B8ul8azSQ9jYUdZcY2EbNPhviUYXb2Lkg+aybyNJPJbwwrBzWLKMchRSn6zrRJmh2P87T/BNjKRasVH9g5T8asUpxOOlAOfMgjWnCRB2s8ebgqzkCkI7AebIs0XHEfWs50/2SqC4NktPxNZYCaCu9V9o74Y9yHm0ly0aQWGndWAwbGh8Q3BbNgpWZiMJtywfOUWTcrfhEpWJetR2xWSPWbs+FcY5jEPl3PO9gpPSzzTQjuqTMikemPvH/2fMIZzwT+PDoZJWFFUD9srwdxbh9Ij6/inffZJrHWka/MTeVDQdropG8N0dRNDnp2cTklUdnqW7fgOUPr15lFBf+red858ZDTh4ZD7yGJJ1tGNkyC/QmUdDkrO6GO+xceZfGzqI7u9WX+ryusErRO6/DY+c/H4j9rPLexGJ1IfhUvSjsvesIV5ayddWVf0ETAe58qGKN4V1I5ulrRAGsfNQRmGIiNVJZUUPR4AmJ+QQ+QG31kSFEyFjgtcXDuWvPJRPyEZB+wEj3D4QVg==;lGMmqB3JhDFCPR2bDr9LWQ=="
 ---

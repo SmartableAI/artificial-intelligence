@@ -1,27 +1,23 @@
 ---
 category: news
 title: "MIT professor wins top AI award for cancer, drug research"
-excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for"
+excerpt: "A Massachusetts Institute of Technology professor using computer science to detect cancer and discover new drugs has won a new $1 million award for artificial intelligence. The world's biggest AI society awarded its top prize"
 publishedDateTime: 2020-09-23T14:08:00Z
-originalUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
-webUrl: "https://apnews.com/article/cancer-massachusetts-science-artificial-intelligence-education-3cc88ad3d0d02944af00da2d5ecd3778/gallery/d4b1b23bcefc4c12ac340164ae950fcb"
+originalUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
+webUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/"
+ampWebUrl: "https://www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/mit-professor-wins-top-ai-award-for-cancer-drug-research/?amp=1"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/d4b1b23bcefc4c12ac340164ae950fcb/2000.jpeg"
-    width: 2000
-    height: 1333
-    isCached: true
 
 related:
   - title: "MIT Prof Wins $1M Award for Machine Learning-Based Cancer Detection"
@@ -71,6 +67,6 @@ related:
         height: 524
         isCached: true
 
-secured: "Z/CeOCJgJaFWruoKHQwfTIt66usIszP+9bqwlJ9ZopRJXQDQYMCmeSIDRjTVNu9VF2NVepv1J6H9k6azDYSgo+nJDQ18ZIILMzFk01vT0Gj4xHQW4iLnUX7r7w1rYYUuRG4Ew0rWY0hcFNeyHNyhrEudhaiEy6dVXlHyfA4GHZURh/0ysgAmsU0z7qI5468RRd8fgHY7YkF701vtyO4Cvrupfa9+JOniiRjayORBnUH7YSP7xYHD/s0SkzOZ+7Y1qfITyuOOnaEXzgrqquvNBevrubB/mkwmbgNRT5IsXhpsj0jqDFuqVUWyKihjSXH9ZYXUFt/Lw7jGpt2n6LtnKmMdtEl1jqGU7xSY8MTN0EY=;YE5zchaQ8rNAUp5U9iGCZg=="
+secured: "WaHnNPRwB35mclNBvGUdhNxq8rZDTf/QqPgnaKPyte8QOyz+w/FX9EqfUTu22ZI2KinUEL3SG8/IDokdQjkWCHbBcQWsbW4ZY8SfZAA4CQQUxNmAGp/O9ro8aGAkLYHuVb2HBvXwXu/Am0pNCC9Tb1uKHYBhC8YMVqJykH3jZ4jVnhsSN33Y6YqtE7nn4HlXjv+d78zzBuvD5Duxyb0ho0AwVp0Ly9awwrkL+j1Pj0Q0ykIQJ5lOlZDp9YQJrY7DjOaTX0dPp/kjbirtL/zJT7dWpvooTGHAvUqwt8a2N67kkkTcu6/sbdhvN8f4meDG43FS7vGkMnrI8UFy5fOqBuqMW+ivMFeLAHzyEB+d4JFbDybb9NVxKixBUlPAHFd5IAUGnqVbZFgo1etn6cnGjY0JCgTRkG7tzcTDTVkCoL8AxW68wCV++nFc78C6cl88SjOSz7G7mSfhWf8jpvgAyf+IXqAKuuWaLJzBN2bhTerJ6a1QEb94YbPqYhLAi8qMN7qTmFUPAE0lwITf3FwQgQ==;Swvvbb59Zgr6AfZyEmmQww=="
 ---
 

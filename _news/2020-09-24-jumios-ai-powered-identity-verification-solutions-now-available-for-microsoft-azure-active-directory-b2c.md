@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
-excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
-publishedDateTime: 2020-09-22T18:03:00Z
-originalUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
-webUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
-ampWebUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+title: "Jumio’s AI-powered identity verification solutions now available for Microsoft Azure Active Directory B2C"
+excerpt: "Jumio announced that its AI-powered identity verification solutions are now available to Microsoft Azure Active Directory External Identities for B2C customers. Azure Active Directory B2C is a customer identity access management solution. The integration ..."
+publishedDateTime: 2020-09-24T00:04:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/09/24/jumio-microsoft-azure/"
+webUrl: "https://www.helpnetsecurity.com/2020/09/24/jumio-microsoft-azure/"
 type: article
-quality: 46
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+    width: 304
+    height: 405
+    isCached: true
 
 related:
   - title: "Azure Communications Services is Microsoft's new managed communication platform"
@@ -67,20 +71,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Jumio’s AI-powered identity verification solutions now available for Microsoft Azure Active Directory B2C"
-    excerpt: "Jumio announced that its AI-powered identity verification solutions are now available to Microsoft Azure Active Directory External Identities for B2C customers. Azure Active Directory B2C is a customer identity access management solution. The integration ..."
-    publishedDateTime: 2020-09-24T00:04:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/09/24/jumio-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 52
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
-        width: 304
-        height: 405
-        isCached: true
   - title: "Microsoft unveils communication platform to help users connect better with businesses"
     excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
     publishedDateTime: 2020-09-24T07:05:00Z
@@ -97,6 +87,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dow Jones Down Slightly as Microsoft Launches New Cloud Services; Walmart+ Forecast Calls for 10 Million Subscribers"
+    excerpt: "Microsoft claims that it's the first such offering from a major cloud provider. Businesses that use the service will also be able to easily use other Azure capabilities, such as translation and sentiment analysis provided by Azure Cognitive Services."
+    publishedDateTime: 2020-09-22T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls"
+    ampWebUrl: "https://www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/dow-jones-down-slightly-as-microsoft-launches-new-cloud-services-walmart-forecast-calls?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
   - title: "AI and its Applications in the Education Sector"
     excerpt: "The primary goal of developing AI systems is to offer an organization the capacity to rationalize a situation and decide on a specific course of action that maximizes the chances of attaining a particular goal."
     publishedDateTime: 2020-09-24T15:39:00Z
@@ -126,6 +127,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "CsjX6WY7jldZipz/18AMPEIuNq6GfRsiWA7yNHQv/veyLiyfNTRG11GJR9IYatdNHUVGUg04YA6N40FRtBPLNV6DQBizNqeJP1Cu7QvWjjoIQ1mW2zPxZ6WP7qjsUb9+PEeWkYvFhTJNDTzKAbRbz6huZCPokBg6ZIOA1n8kNiVDBs/pWoubgUMWjnH4KLA3+k6c0Cn2ErokObqXC8PxSK9cJYAWsMl1b5dZ0gHrc6jBKbow9jDW6HRQGftszkxcfhXQj2nV/92No3IRXTX+QO/fvoeZBgDAyPRWsSemXT2/lWuC0gdGr01tIcjEx7c5n5CP1PNbsV0F3diSjP4QzhJkOCgxqX13ZQ8pewgC350=;gsFu0jALazqKFs1r95x66g=="
+secured: "Z+q9Oe8u0zgBvIkqRYz7BpPj5r1ABQqFIdXCjwF8nYL4HjHDQ3xdTkRhvC2MrOXdJuFlIJjkX4bHp6+3ruOYIK6YyOoTO2tngA3dczTLd9n/ZUrFjucMn8fwdm2NIGw9g8jEOy9tuYy7GHCVTt4C2uLNS7Wf4qBP222QIwseSvYFTcCaj+44A1n5UQbBQscxHXoQEgyEioL4lih2w0UZk8rE1nYoJ9B5UtE4pq7EnOyeheakmsUf7dg1KkTZg7P3dLQvpmA8fwASipToNXQEqOWdJK69MPE2D4dKCYnZ0vqbMrdJRJDLA7RSJcQm1O/l5HPCpeS3MKdxf6oqZF6wlBEFkAByIojU35rA8PMGX6I=;SJpDmk/ye26MD+qbboPCPg=="
 ---
 
