@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-26-ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep.md",
+      "title": "AI Weekly: Amazon went wide with Alexa; now it’s going deep",
+      "excerpt": "Last year, Amazon baked its virtual assistant into any household device that could accommodate a chip. Its list of new ... imbuing it with AI to make it more human-like. This includes picking ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/",
+      "originalUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/amazon-alexa-az1-neural-edge-processor.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/ai-weekly-amazon-went-wide-with-alexa-now-its-going-deep/amp/",
+      "publishedDateTime": "2020-09-25T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-google-launches-ai-platform-prediction-in-general-availability.md",
       "title": "Google launches AI Platform Prediction in general availability",
       "excerpt": "courtesy of an engine that selects compatible cloud hardware (e.g., AI accelerator chips) automatically. On supported virtual machines, it shows metrics like graphics card, processor, RAM ...",
@@ -1392,39 +1443,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ai-chip-market-outlook-to-2030-emerging-trends-and-will-generate-new-growth-opportunities-status.md",
-      "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
-      "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

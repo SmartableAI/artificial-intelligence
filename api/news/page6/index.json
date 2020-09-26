@@ -2,6 +2,149 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
+      "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
+      "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6918d1895310be38ba6df5%2F0x0.jpg",
+          "width": 1200,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
+      "publishedDateTime": "2020-09-21T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
+      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
+      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
+      "publishedDateTime": "2020-09-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
+      "title": "Long Island artificial intelligence startup can write your emails",
+      "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.49402301.1600711691!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
+      "publishedDateTime": "2020-09-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-photoshop-sky-replacement-continues-adobes-ai-magic-rally.md",
       "title": "Photoshop Sky Replacement continues Adobe’s AI magic rally",
       "excerpt": "Adobe showed their latest in AI Photoshop magic with Sky Replacement. With this special feature, the user will (most likely) begin with a photo captured outdoors with a view of the sky",
@@ -60,7 +203,7 @@
       "originalUrl": "https://www.cnbc.com/2020/09/21/twitter-investigating-after-users-spot-mobile-app-prefers-white-faces.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1042,151 +1185,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-in-china-paying-with-your-face-is-hard-sell.md",
-      "title": "In China, Paying With Your Face Is Hard Sell",
-      "excerpt": "Ant Group, which revolutionized China’s payments industry, is learning how difficult it is to separate people from their mobile phones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
-      "originalUrl": "https://www.wsj.com/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-233469/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-china-paying-with-your-face-is-hard-sell-11600597240",
-      "publishedDateTime": "2020-09-20T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-when-ai-in-healthcare-goes-wrong-who-is-responsible.md",
-      "title": "When AI in healthcare goes wrong, who is responsible?",
-      "excerpt": "In all these cases, studies suggest AI outperforms human doctors in set tasks. But when something does go wrong, who is responsible? There’s no easy answer, says Patrick Lin, director of Ethics and Emerging Sciences Group at California Polytechnic State University.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
-      "originalUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2020-08-22T142247Z_1828428544_RC22JI9OLR4W_RTRMADP_3_HEALTH-CORONAVIRUS-MEXICO-ROBOT-e1600448079302.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
-      "publishedDateTime": "2020-09-20T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.md",
-      "title": "AdvisorNet Financial Inc Cuts Position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)",
-      "excerpt": "AdvisorNet Financial Inc trimmed its holdings in shares of Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 5.4% in the 2nd quarter, according to its most recent disclosure with the SEC.",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp",
-      "publishedDateTime": "2020-09-19T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

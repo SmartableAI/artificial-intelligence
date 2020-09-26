@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-25-two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves.md",
+      "title": "Two left feet? Facebook’s new AI dance choreographer can teach you some brand new moves",
+      "excerpt": "Facebook's AI boffins have developed a new system that creates original dance routines for any music that you feed it.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
+      "originalUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-25T115244.344-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/25/two-left-feet-facebooks-new-ai-dance-choreographer-can-teach-you-some-brand-new-moves/amp/",
+      "publishedDateTime": "2020-08-25T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-the-impact-of-ai-on-journalism.md",
       "title": "The Impact of AI on Journalism",
       "excerpt": "AIs write hundreds of thousands of the articles that are published by mainstream media outlets every week. What next?",
@@ -1399,57 +1450,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants.md",
-      "title": "Researchers say we need better benchmarks to build more useful AI assistants",
-      "excerpt": "AI researchers from Element AI, Stanford University, and CIFAR recommend more useful forms of AI that speak with people to get things done.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/echo-dot-home-mini-e1578632867450.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
-      "publishedDateTime": "2020-08-05T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

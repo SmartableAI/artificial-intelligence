@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
-    excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
-    publishedDateTime: 2020-09-21T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Why we’re still years away from having self-driving cars"
     excerpt: "Carmakers began dropping the terms “self-driving” and “mobility” at car shows, Uber and its competitors poached engineers from university robotics labs en masse, and Tesla fans began squabbling on Twitter about whether the company’s Autopilot ..."
     publishedDateTime: 2020-09-25T19:41:00Z

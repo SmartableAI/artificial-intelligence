@@ -367,7 +367,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gaining-insights-into-winning-football-strategies-using-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1293,8 +1293,8 @@
       "title": "Recipe for selling software in a pandemic: Be essential, add some machine learning, and focus, focus, focus",
       "excerpt": "A bit of machine learning, some essential functions for finance departments, and a focus on vertical industries has allowed small software vendor Prophix to thrive even as tools such as Slack get dumped.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "originalUrl": "https://www.zdnet.com/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1310,9 +1310,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
-      "publishedDateTime": "2020-09-11T14:07:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/recipe-for-selling-software-in-a-pandemic-be-essential-add-some-machine-learning-and-focus-focus-focus/",
+      "publishedDateTime": "2020-09-11T14:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

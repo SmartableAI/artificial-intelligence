@@ -47,22 +47,6 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "What Happens To Car Insurance Rates After Self-Driving Cars?"
-    excerpt: "From time to time, somebody considering the world with lots of self-driving cars suggests that human driving will become discouraged, “because insurance rates will go through the roof.”"
-    publishedDateTime: 2020-09-21T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/09/21/what-happens-to-car-insurance-rates-after-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f681a37b5b3f4f53535cf09%2F0x0.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Hawaii gives self-driving car testing the green light"
     excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
     publishedDateTime: 2020-09-23T16:26:00Z

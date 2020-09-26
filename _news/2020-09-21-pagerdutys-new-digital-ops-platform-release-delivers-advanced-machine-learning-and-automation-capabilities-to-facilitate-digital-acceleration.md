@@ -25,61 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Bodet Launches Facial Recognition to Complement Kelio Time & Attendance Solutions"
-    excerpt: "FaceStation 2 is the latest biometric clocking-in user interface to be incorporated into Bodet’s innovative Time and Attendance Systems. Working in conjunction with Bodet’s Kelio Visio X7 interactive clocking terminal,"
-    publishedDateTime: 2020-09-21T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
-    ampWebUrl: "https://www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138082/bodet-launches-facial-recognition-to-complement-kelio-time"
+  - title: "P360 Adds Advanced Artificial Intelligence Capabilities to Its Sales Enablement Platform BirdzAI"
+    excerpt: "P360, a leading developer of technology for life sciences companies, today announced major updates to its sales enablement platform BirdzAI. The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable real-time decision-making for sales organizations by providing deep insights derived from a wide variety of proprietary and tertiary datasets."
+    publishedDateTime: 2020-09-23T13:30:00Z
+    webUrl: "https://apnews.com/business-wire/01770b14f1fa446c9835aafe3ec26c07"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/9/T921401134_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "IntelligenceBank Launches Facial Recognition"
-    excerpt: "IntelligenceBank - the leading marketing operations platform - announced the launch of Facial Recognition. As an add-on"
-    publishedDateTime: 2020-09-25T23:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelligencebank-launches-facial-recognition-301138357.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1281542/IntelligenceBank.jpg?p=facebook"
-        width: 1754
-        height: 918
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "In-Flight Voice Recognition Market Analyze Competitive Developments , New Product launches and Acquisitions in the Market"
-    excerpt: "The IN-FLIGHT VOICE RECOGNITION market report presents a detailed evaluation of the market. The report focuses on providing a holistic overview with a forecast period of the report extending from 2018 to 2027. The IN-FLIGHT VOICE RECOGNITION market report ..."
-    publishedDateTime: 2020-09-23T17:43:00Z
-    webUrl: "https://www.openpr.com/news/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    ampWebUrl: "https://www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2140827/in-flight-voice-recognition-market-analyze-competitive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-    images:
-      - url: "https://cdn.openpr.com/T/9/T923205671_g.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Mitrefinch Adds Facial & Thermal Screening to Its Time & Attendance Software Solutions"
-    excerpt: "Mitrefinch is adding Facial Recognition and Thermal Screening along with Proximity Readers and Mobile Clock systems. Contactless Time and Attendance Tracking solutions support healthy environment at workplace and in the field and help prevent the contamination."
-    publishedDateTime: 2020-09-23T13:57:00Z
-    webUrl: "https://www.pr.com/press-release/817958"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "hgYNRSN4jTt1qFt9haQlCzZAIYVws/rXI9mIb5ittwomymNvMg9R1GMfZKzMs0sZgjQoIXt0ceZNKWfFgY9FREHCe2IWTgraCQScHWuGSD4sjSk3N5MtgH0uk8x5OlWvx0LgaaXgyS4LYrRQyGMGLc7sjMEOamBrF7FXn4bA/tmLBTRoIJgxGR1NZf+1dE3s4MPQLtgOMCUfc8/qqBv6T6+CbAyW4MVklXFnmtFVyT88zreUeRUQaC8UDKOeP2DD8qOvDHVNCXlnU2N4PKB/rFsEowh8YqvRCy/+2z92Gx7wD4m/3erbspKrat1H5/VgsSvdi0OIPnRY2b6p7DuA7aUq1wvhNqc2mfKEenBz2UoxuYVNcB7BDDOqtViD4nLAqe87s0ILzJ17MpjyEGtrxTw26UG5ZSrxCeKqs67xMSg/S+iTRhH5LDSBuy0VOrmt2HIhqzUelKeEfeG/xmkhNTNzOukaQNAsLKvDlMuVsPD3+t2RoDFKnZ8eVbhGTBGMuUh84OzSvU86h+tl2MSG6Q==;k6m+LX76roUt/wA3kpvoWw=="
 ---

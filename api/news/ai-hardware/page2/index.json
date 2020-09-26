@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-14-ai-chip-market-outlook-to-2030-emerging-trends-and-will-generate-new-growth-opportunities-status.md",
+      "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
+      "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-brit-chip-maker-arm-gets-snapped-up-by-us-graphics-giant-nvidia.md",
       "title": "Brit chip maker Arm gets snapped up by US graphics giant Nvidia",
       "excerpt": "Nvidia has confirmed that it's acquiring UK chip maker Arm from Japanese owner SoftBank in a US$40 billion deal made up of a combination of shares and cash, though the move is yet to undergo regulatory scrutiny.",
@@ -1376,39 +1409,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy.md",
-      "title": "Nvidia’s New 30-Series GPUs a Possible Headache for the Competition; Analyst Says ‘Buy’",
-      "excerpt": "Nvidia’s launched its new PC gaming GeForce graphics processing units, the 2 nd gen GeForce RTX 30 Series – the 3090, 3080 and 3070 GPUs— all based on the compan",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-new-30-series-gpus-a-possible-headache-for-the-competition-analyst-says-buy-2020?amp",
-      "publishedDateTime": "2020-09-03T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25"
 type: article
 quality: 90
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -57,33 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Service Robots Market to Reach $2.82 Billion by 2025, Reports BIS Research"
-    excerpt: "According to a new market intelligence report by BIS Research titled Global Healthcare Service Robots Market Analysis and Forecast 2020 2025 the global healthcare service robots market is anticipated to witness a significant CAGR of 26 4 in the forecast"
-    publishedDateTime: 2020-09-21T10:38:00Z
-    webUrl: "https://www.openpr.com/news/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
-    excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
-    publishedDateTime: 2020-09-21T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    ampWebUrl: "https://www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
     excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
     publishedDateTime: 2020-09-23T13:41:00Z

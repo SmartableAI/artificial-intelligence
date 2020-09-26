@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2020/09/21/twitter-investigating-after-users-
 webUrl: "https://mobile.twitter.com/elonmusk/status/1307828265445400579?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1307828265445400579|twgr^share_3&ref_url=https%3A%2F%2Felectrek.co%2F2020%2F09%2F21%2Ftesla-offer-machine-learning-training-as-web-service-dojo-supercomputer%2F"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       - url: "https://video-images.vice.com//articles/5f69d748e154ad009ce2ccf3/lede/1600774181209-marten-bjork-fvtg38cjck-unsplash.jpeg?crop=1xw:0.3746xh;0xw,0.3438xh"
         width: 3506
         height: 1970
-        isCached: true
-  - title: "Twitter to investigate why its neural network that crops photo previews appears to favour white faces over black after accusations of racial bias"
-    excerpt: "Tests of the algorithm on the social media site over the weekend led to several examples of a preference for white faces from the automated system."
-    publishedDateTime: 2020-09-21T09:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8754885/Twitter-investigates-racist-photo-preview-algorithm.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8754885/amp/Twitter-investigates-racist-photo-preview-algorithm.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8754885/amp/Twitter-investigates-racist-photo-preview-algorithm.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/21/08/33427312-0-image-a-12_1600674760359.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "nch8JQHFCUV7uwYV0XMw8qITFs6+5LG/JThDgnZO18c69ZWYPnAhw2eP3i4c+bl5Tv1IM/jCIpholWQrNUoT4mwGrWYhN9V/WN5DmCWSF0bG9Ea7nPXGdaX/+pHgJqR6MgZrEev+G4s4vFpD3+4X7fapStcyztpKZu8QzKCwsTWj2lKHu2Mz0eZMAuHMWxx7aY4hKNXQHY9Yo6sKRCnq8EcJki0wmjnRlwlVinX9MLy2ZUB54ci21FOoPVZpNEsOLSsqzYfKZOkgftn9pvI0aZsFx+Q/XjiMXbNySYYtKkfKo41pf/KBIv/F1KjAheyK2dojzAXuDSWY0plqHC4wiHkRNXlWuf6nxs9L/Wap0taFTpWqxlH+rzBLTxQltKnQXrdbuE+3o4UKfbuqMhI8lFW2Bb5R8ZsVEGt+7kXKrZgaqb8gp37LLkL19ec4tyfR0ylTh1z1WxZZE2WrnBR1rds0ST7y4/YscCZykBYvuYlo2s/sOHyBHolPp7fRsHi0SlVUc5E+lGDFDXLkAtZrX9cGYFA1oTzAaZX0eNIcD3s=;53mgKEqp/xsC5p6E4zhZxQ=="

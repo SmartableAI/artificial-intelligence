@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Tesla plans to offer machine-learning training as web service with its new ‘Dojo’ supercomputer"
-    excerpt: "Tesla plans to offer machine-learning training as a web service with its new ‘Dojo’ supercomputer, according to new comments from CEO Elon Musk. Project ‘Dojo’ was first announced by Musk at Tesla’s Autonomy Day last year: “We do have a major program at Tesla which we don’t have enough time to talk about today called “Dojo”."
-    publishedDateTime: 2020-09-21T10:17:00Z
-    webUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/"
-    ampWebUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all"
-        width: 2754
-        height: 1318
-        isCached: true
   - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
     excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
     publishedDateTime: 2020-09-24T08:45:00Z

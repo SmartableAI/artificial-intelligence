@@ -67,33 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Service Robots Market to Reach $2.82 Billion by 2025, Reports BIS Research"
-    excerpt: "According to a new market intelligence report by BIS Research titled Global Healthcare Service Robots Market Analysis and Forecast 2020 2025 the global healthcare service robots market is anticipated to witness a significant CAGR of 26 4 in the forecast"
-    publishedDateTime: 2020-09-21T10:38:00Z
-    webUrl: "https://www.openpr.com/news/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    ampWebUrl: "https://www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138228/global-healthcare-service-robots-market-to-reach-2-82-billion"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/T/9/T921717778_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020–2026 - Zion Market Research"
-    excerpt: "Zion Market Research Reports added Latest Research Report titled Global Computer Vision in Healthcare Market is Set for Lucrative Growth During 2020 2026 Zion Market Research to its Large Report database This report gives detailed survey of the market by"
-    publishedDateTime: 2020-09-21T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    ampWebUrl: "https://www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138246/global-computer-vision-in-healthcare-market-is-set-for-lucrative"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "gEeRsOZo122FKnIHjnxtt2uvgWBoOodETLjmGxMr71EbNJXZAm6ObjGYNKKmhsjULSLMFM9+AjWnCLGGhEtY9S2//ujiu7WjBNsgwKS8XWl1HmZjdZ1yIrFtHEO4xRr8dgompgnoM2BZdrKwDqogj1ZxGOuKx6cskRpgBYvZXR7kBdEht897fsfVO9JykWpEJvCSJtotKtgXwZegloVtdOY/R6K2b31jC1rNq0AYEsyHfVnoQcXUMmsUo74AKawv+qpdBq7u56hjF9q4nxHPhuRDBd/IT/9q9PljTYgA8aZ8GTc4NrVEVSzPYxKGJUWpFjdNikcBc5vIu6lmiK2o3co/z32XhmPOiRrodcImmfI=;mF1wioHvdGqHvwfvKkP5bA=="
 ---

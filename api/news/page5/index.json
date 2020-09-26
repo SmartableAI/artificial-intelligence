@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-22-microsoft-debuts-new-search-features-and-sharepoint-syntex.md",
+      "title": "Microsoft debuts new Search features and SharePoint Syntex",
+      "excerpt": "Microsoft today introduced new features for Microsoft Search, alongside a new product -- SharePoint Syntex -- and Power Automate Desktop.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
+      "originalUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/",
+      "publishedDateTime": "2020-09-22T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-microsoft-search-to-get-a-boost-through-ai-and-external-search-indexing.md",
+      "title": "Microsoft Search to get a boost through AI and external search indexing",
+      "excerpt": "Microsoft Graph connectors will enable Microsoft Search to search through external services such as Adobe ... will also gain new options for admins to receive feedback. Azure Cognitive Search will also integrate with Microsoft Search, allowing people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-search-microsoft-teams",
+      "originalUrl": "https://www.windowscentral.com/microsoft-search-microsoft-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019-fw1x-fw1x.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-search-microsoft-teams?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-search-microsoft-teams?amp",
+      "publishedDateTime": "2020-09-22T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-low-code-updates-in-power-platform-for-github-and-azure-are-now-in-preview.md",
       "title": "Low-code updates in Power Platform for GitHub and Azure are now in preview",
       "excerpt": "In September last year, the tech giant revealed how the Power Platform was benefiting from Azure AI services. In July, meanwhile, the Power BI Snowflake connector introduced a capability to enable single sign-on (SSO) based on Azure Active Directory (AAD ...",
@@ -254,6 +347,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace.md",
+      "title": "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace",
+      "excerpt": "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572",
+      "publishedDateTime": "2020-09-22T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1054,149 +1190,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions.md",
-      "title": "50% Less Fraud? How Amex Uses AI To Automate 8 Billion Risk Decisions",
-      "excerpt": "We believe at American Express that we have the world’s largest and most advanced machine learning system in the financial services industry,” American Express’ VP of risk management Anjali Dewan told me recently on the TechFirst podcast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6918d1895310be38ba6df5%2F0x0.jpg",
-          "width": 1200,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/21/50-less-fraud-how-amex-uses-ai-to-automate-8-billion-risk-decisions/amp/",
-      "publishedDateTime": "2020-09-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law.md",
-      "title": "“The Reasonable Robot” Looks At The Intersection Of Artificial Intelligence (AI) And Law",
-      "excerpt": "I have issues with many of the suggestions the author makes, still I think everyone should read the book. It brings up issues of critical importance as AI gains a more prevalent impact on society. What’s needed is the discussion that Ryan Abbot’s book,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/09/21/the-reasonable-robot-looks-at-the-intersection-of-artificial-intelligence-ai-and-law/amp/",
-      "publishedDateTime": "2020-09-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-long-island-artificial-intelligence-startup-can-write-your-emails.md",
-      "title": "Long Island artificial intelligence startup can write your emails",
-      "excerpt": "The time you spend writing emails could be cut drastically. A college student has launched a Long Island artificial intelligence startup that writes emails automatically from a few fragmentary notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.49402301.1600711691!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-software-melville-matt-shumer-1.49644292",
-      "publishedDateTime": "2020-09-21T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/23/tusimple-expands-self-driving-tru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/23/tusimple-expands-self-driving-trucks-to-europe-with-traton-partnership/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 2126
         height: 1537
         isCached: true
-  - title: "NASA safety expert joins Torc Robotics self-driving truck team"
-    excerpt: "Former NASA safety engineering executive John Marinaro has joined Torc Robotics, the leader in self-driving trucking, as director"
-    publishedDateTime: 2020-09-21T09:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17418165/nasa-safety-expert-joins-torc-robotics-self-driving-truck-team"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17418165"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17418165"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "VW's Traton takes stake in U.S. self-driving startup"
     excerpt: "Volkswagen Group's Traton commercial truck unit is partnering with a self-driving startup that recently aligned with Navistar International, the U.S. manufacturer that VW’s truck unit is trying to acquire."
     publishedDateTime: 2020-09-23T18:52:00Z

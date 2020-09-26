@@ -39,22 +39,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 119
-  - title: "Twitter to investigate why its neural network that crops photo previews appears to favour white faces over black after accusations of racial bias"
-    excerpt: "Tests of the algorithm on the social media site over the weekend led to several examples of a preference for white faces from the automated system."
-    publishedDateTime: 2020-09-21T09:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8754885/Twitter-investigates-racist-photo-preview-algorithm.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8754885/amp/Twitter-investigates-racist-photo-preview-algorithm.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8754885/amp/Twitter-investigates-racist-photo-preview-algorithm.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/21/08/33427312-0-image-a-12_1600674760359.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "aHnF+DFULC9laqLt4NSkTUsigmwEDBzXADjAB73vrZQzfdo9FT6uLpOlmknK6QWUv8MAf19kpQ/7IJtZu/rMsaTnvbfrhK3Ke2F2d3rnY2wmRJQTSu8yKo/tQD70sgABfl3pJcrjyimOQub2fqb8kRagoB0/jai9sSmXvCr+z85qi7nBi3PdfcGnkBJAu9l7Mk52T2IfgIgMiIwIsA4SmyOGlFguhillzrQSKg4uoXeHKvaQ1oKEHQJ0bsYbpg0fibJsgAQzrlo+1oegsotE6Fu4FGSL8fopE920s4ggA6m+k4E5MDkVQWicuQ2bsFcq06nwFq2PZss4LhEkl1xN4YTdtYHGH86f8GZR6bcr1aY=;7vX/GsZyCOw6tH6qDREF0w=="
 ---

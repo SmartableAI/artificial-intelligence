@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/09/secure-infrastructure-fintech-innovati
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/09/secure-infrastructure-fintech-innovation-india/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "F|T: The FinTech Times – Losing a generation of women in finance"
-    excerpt: "Klarna says it is now the highest-valued private FinTech company in Europe following the funding round. Montréal-based Nuvei has officially set the price of its much-anticipated initial public offering on the Toronto Stock Exchange at $26 USD per share."
-    publishedDateTime: 2020-09-21T10:05:00Z
-    webUrl: "https://www.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d"
-    ampWebUrl: "https://amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/75aea61b-e2d9-4d8a-adad-868b9c76511d"
+  - title: "How innovations in security can increase freedom and protect lives in our communities"
+    excerpt: "People have always had an innate need to feel secure, from building fires at the front of caves that ward off predators in prehistoric times, to today’s efforts of locking your front door."
+    publishedDateTime: 2020-09-23T11:22:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/innovations-security-increase-freedom-protect-lives-co-14836-ga.1600859544.html"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 142
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 37
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd82958c7-8a85-407b-a8ec-b3307c14313a.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/commoditisation-920.jpg"
+        width: 612
+        height: 355
         isCached: true
+  - title: "Learning in the Cloud: Canada’s First University to Move Operations into One Secure Cloud Infrastructure Sets the Stage for the Future of Learning"
+    excerpt: "“Bringing all our data together in our own cloud environment will make artificial intelligence (AI) and machine learning at scale possible. It also makes IT systems’ downtime a ..."
+    publishedDateTime: 2020-09-23T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/learning-in-the-cloud-canada-s-first-university-to-move-operations-into-one-secure-cloud-infrastructure-sets-the-stage-for-the-future-of-learning-1029615400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 0
 
 secured: "Z5UgyVKwFB50fjvfS0SomF4hsB/BHzSHkCDhZifStEmeBhOrEFAC9iKs/XaJYlWnnEdmdaEylTlAkAjSybsnZ5v1oAQXXHAlLsC+x0aE0cEnfQHjCaTnN1Gy1TsPrm+1rCgzN5lohCzBZWEvj3S6HO0R3ReMjACtXWZe/ZZ8cp8gc4OO8qsnMxl8b8bsn3wOAXiVA6Zkx8jEewxR4XXowxz9+jZq2F1dzdWZUJRoRajBfTZeUDKvWRtV4BPA4mLHxSJXa+05YmXe4YQwL9pEJXYeUQ7FBeCzERmoWQQ1auVnYei9NzwKpzTv2UXoEOaATVZJjtmkTjOzp88p2i18YACoSWm8b+5CFQJDK7zY78987LGHFvVPXy2RTOxO2XnjSceejMkXfVsbtReyLmoeM9n+ooyXfvt9BhPS4F8YbwJ1m0d9XWOjzzcuhAglckzZVytwesPzrzfcQBSlHDEBwnCRUkjF62TIlJxV3zsd6t88JEJlR4WIzVeWX/T4FaeV5bvsNsvbSnMwdiM1LVOtfQ==;uiJmvjmk34zCUZ3Dykh8NA=="
 ---

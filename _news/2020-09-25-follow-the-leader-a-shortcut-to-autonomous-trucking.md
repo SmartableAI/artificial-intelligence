@@ -3,10 +3,10 @@ category: news
 title: "Follow-the-leader: A shortcut to autonomous trucking"
 excerpt: "A company spun out of a prestigious university robotics lab is making a big leap in autonomous trucking. Locomation is claiming the world's first autonomous truck purchase order from a Springfield, MO,"
 publishedDateTime: 2020-09-25T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
+originalUrl: "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
+webUrl: "https://www.zdnet.com/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/follow-the-leader-a-shortcut-to-autonomous-trucking/"
 type: article
 quality: 74
 heat: 74
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "IJMokpmV6SWQ4oeWfVqeqTg+sZuzldD4yLgKrYdL+A0mJNe3piCVV1v9uuOLEgqyG1fLxNPZCTgPxZCyz4TpeKR518n+z1WIihdxXjoTIStFFVBeossvzWB4rFdqJahyLqCKRkUqY0QESkTgSQJ5C9Vh40uLdV9FzG26PzJ8gEIF+vUbZURokzjd4/tHyQBOT/BRHGDZLlSPyprDNtWgxsvbSgKHLw5Evr7eBXgU4Ar+SZwh9BjeDPE+BNxNf5yt45SjtKyjxogB6C4FImKD/60aMaPP8/hxo2rBgyANVHNzrUKKq6CzsqYcfuzgvsnjIXQoilqWFuVX+6iSXYLPtMkE2+XPzngg7zYntMtFCp0vPikbRtujEfW5QULLGMy1bJD9oyNRImkIYEG2ompfWEDltILOqehhUJjubXDVnUl7SUHT5e22AkK5ViJx9ug/fl+ZN9AP7sQkBPZckvllQxrQYiIh9lyaR3UHFzcbhYA7dEiMsbIfH4RcIm0mcLEVWSVCQdArukYtFu6LbtnFUA==;UX9sg37YNVHI6CgxZrAyBw=="
+secured: "HPEe3KpUrnI4TuQZviO7B/fVc3sj4NT7JnotWvK8UaZ94C5VBxDgxJza1kbQj5o2iQnT83VeuSF2vUWEYjLeGcSYk1fo9gBnglnZoc29q1S/jOpMMV1bPZowQa+wkffMVX09uFh89kYbHqY2PAlzPvxQQP4JHoBklTFqSnTk2v2dpe/5p8Dm8mhOybUn2u5sGQNj6yWme/LacY7RhTAbK9i5iHKToYPYak6ylVWwYT0HUiplHkXBAZo/wqOvS0KfSCiN0L7V7QRMUlHUWoaZwNhVM8icU/eGXB5LH0WyyIzWkOOxwQhlYhZ4ryTmy/cJgPvdp/SpqOfFefbGknRXFCU+ttHpU0c4pBhQofIDheI=;+gDIHElYSH3V54IXrfRAqg=="
 ---
 

@@ -52,22 +52,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Tesla plans to offer machine-learning training as web service with its new ‘Dojo’ supercomputer"
-    excerpt: "Tesla plans to offer machine-learning training as a web service with its new ‘Dojo’ supercomputer, according to new comments from CEO Elon Musk. Project ‘Dojo’ was first announced by Musk at Tesla’s Autonomy Day last year: “We do have a major program at Tesla which we don’t have enough time to talk about today called “Dojo”."
-    publishedDateTime: 2020-09-21T10:17:00Z
-    webUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/"
-    ampWebUrl: "https://electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/09/21/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-supercomputer.jpg?quality=82&strip=all"
-        width: 2754
-        height: 1318
-        isCached: true
   - title: "Preventing customer churn by optimizing incentive programs using stochastic programming"
     excerpt: "In recent years, businesses are increasingly looking for ways to integrate the power of machine learning (ML) into business decision-making. This post demonstrates the use case of creating an optimal incentive program to offer customers identified as being at risk of leaving for a competitor, or churning."
     publishedDateTime: 2020-09-24T21:45:43Z
