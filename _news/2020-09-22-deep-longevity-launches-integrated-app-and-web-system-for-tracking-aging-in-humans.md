@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200922/Deep-Longevity-announ
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200922/Deep-Longevity-announces-the-availability-of-integrated-app-and-web-system-for-tracking-aging-in-humans.aspx"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Deep Longevity reveals Young.ai - artificial intelligence for tracking aging in humans"
-    excerpt: "Deep Longevity scientists reveal a comprehensive integrated system of aging and longevity biomarkers dubbed ''deep aging clocks'' to be released on 29th of September, 2020"
-    publishedDateTime: 2020-09-21T13:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-09/dll-dlr092120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 48
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/243488_web.jpg"
-        width: 1440
-        height: 551
-        isCached: true
 
 secured: "stNuxmQHZOJZPCR7uTYAi2yrTIzBkf9mdSk2v+w5+AWG4WvfWttPWY8RTXUkNRXyyHJKhNboMImnbDV5AVYmkaHm7AD4GpNNnPnl8UbJ8io1SuKh6ir4G9Xf6cJicJJeKos/fGNMFWn6rZM7YZVHxB6BGv6SCwcShwOUE70b8ztZvT7MzW8MQFfOdEHHz9pg0MshQXse+NByMSgMx3PLGsLdAEfR/JLGtuGAwvDn4DUEaEJftbMgbN1Cn8cf/9NZSp6cE9YZxov7gVtZ6MIGElkGTCxGxOxTXxNTy6t7JzMWE3rQT5CmwN7oSFXkiLr5iKqzVdc1+QaoLIDz08tjaRCxvUPRMlu8phl6vl/Hwu8=;A+NAoMO2JMOsFfms5NZFZA=="
 ---

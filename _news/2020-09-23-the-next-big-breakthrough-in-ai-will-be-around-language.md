@@ -8,7 +8,7 @@ webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-
 ampWebUrl: "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg"

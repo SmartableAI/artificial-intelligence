@@ -3,18 +3,19 @@ category: news
 title: "Will the future of spirituality include artificial intelligence and virtual worship?"
 excerpt: "In recent years, Facebook CEO Mark Zuckerberg has suggested the social network could address declining church attendance, offering the same sense of community traditionally found in brick and mortar houses of worship."
 publishedDateTime: 2020-09-25T18:02:00Z
-originalUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
-webUrl: "https://www.wcpo.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
+originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
+webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race-2020/will-the-future-of-spirituality-include-artificial-intelligence-and-virtual-worship"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ue4bwb2AzmIpK9/ZSsTAQnV7A5XFAITINdWR9H+sfd3qaI12Yjsh26t98xjEFV55zBkIB7rikTXTDTEltWqAzE8yZh/itYWf1zdlOGqekCllquSbKTOo9CB/wSsHUWI4iYNwyOW+R2GnkkNAeQWCgOcLxBaSmLHRcIRahN8sKQppH1h6GK0jvk7eP31TSgde/khX3aNIzI8rNdB0ihpfmciVnxFEE7f4yIfkMehgQyNr/qoPG5l2abUEJwejvSSUbab4GPxWxEEU/EuiEpXLu/s+xolkI1ncHece99butH8puCikhISTu0BdXRINbFdlbyVPYziIq0hAOCYcZV0xsL75N47+6iJ55BKhNjzILIA=;EDHdXT3hJp1wbpEVaF5bFg=="
+secured: "jl2TpqP8B6lhOpJNL9H1uus9VhpTlGdNWCPP2ay57ZvSbohIGgPXusrcBxishfuG3WwEO2M25sRbwnsMfTXXiMdcPXxUl4l+psVICazy3K/MTnKteV30G81IR6Fji1a/h5MzlgOvfqopKWxUR/GAMIrzlIpVxhswTZvNR62kxVmv4tv0kmDw8L+shKngQJWK1winZxaJtx0v/IsMFi3ZD3qY40hX2TbApaGeQvGGGFOg7wHguvz7MdxcgxsGkeW+VQEVG3KEn3BqoTc9cxDn0iAe9JKuECKZdnq5q43i5pYpazITUcL5t/1RVck76f9yDPaDcoQ7//lGJXYbTbIHqQl6yARfBPJKWNg9qzC+wy8=;qZz0pS0qE0CZV9Cx2k6B4Q=="
 ---
 

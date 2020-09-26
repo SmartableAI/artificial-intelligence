@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 637
         isCached: true
-  - title: "This Self-Driving Car Exec Wants You to Know That Computers Driving Is Totally Safe"
-    excerpt: "Daphne de Jong learned to fly a plane before she could drive a car. And her job today at self-driving software maker Waymo is to make sure that very soon no one has to ever drive again."
-    publishedDateTime: 2020-09-21T13:59:00Z
-    webUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/"
-    ampWebUrl: "https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 38
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2019/11/gettyimages-1061811620.jpg?quality=80&strip"
-        width: 5300
-        height: 3535
-        isCached: true
 
 secured: "IFAjRJNGHS9PmG2ydz/P+E4T94XlUV89jJTVg8FQxuIkLnYsGyQeglY0f9ls/p8Uxq9a8sc/Cw2KZGKrtzBb0MyfejiA6f0wSYN4KE+laa9QahXYLoUP0M+5Y7Sx/c8cQmgyiYLsQig5pLwgNugpiNcMxC/WVZ9ASXYV7og04GKUXLLevi0ERc/QoYfJ9Bf1kCn5VyWD9ZLijbJsHNTP78HILghfxfXRn23Wga53C1iWhUM7BcSm2LYn9xUWRp+eKDPhN/IVRBk+zlF2IQ3u/8mN88fjfWp8xll8RiZrqfmGfLXLBEsVRNbFHpAhz+L8RLsl3dccS7mAdxkCIOm5uI2J+tTvmfqXMUaO2buikz67lkDlk0/z7jhT49m9kNSF+9CjqX65PiHdBI8BDatyhGYggovxC7tV8jmoBGgv2v0cpLdkJg6eWdMzmW7M6n2D41ZR9dxL50zcdMNyVsYY9IWWlFJhf4C3U2nZO4uXQ2LPt+0kGEZGO/4OYVjZtv/NuD625vwPwwcg4cwa3d16Pw==;7/iMoMAFUQ5aHN1erDRtGg=="
 ---

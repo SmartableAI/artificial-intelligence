@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 related:
   - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"

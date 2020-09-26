@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Idiot Investors Plead For Uber To Re-Invest In Its Deadly Self-Driving Cars"
-    excerpt: "If you’ve followed the story of Uber over the past few years, you’d be entitled to wonder what kind of person invests in a company like that? New evidence suggests: a moron. All that and more in The Morning Shift for September 21,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195"
-    ampWebUrl: "https://jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/idiot-investors-plead-for-uber-to-re-invest-its-deadly-1845127195/amp"
+  - title: "U.S. Rep. Bob Latta Makes New Push for Regulating Self-Driving Vehicles"
+    excerpt: "Ohio Rep. Bob Latta joined Cheddar to discuss new safety legislation he's introduced for autonomous vehicles. The Self-Drive Act will create a national standard for operation of self-driving cars."
+    publishedDateTime: 2020-09-25T16:20:00Z
+    webUrl: "https://cheddar.com/media/u-s-rep-bob-latta-makes-new-push-for-regulating-self-driving-vehicles"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 42
+      name: Cheddar
+      domain: cheddar.com
+    quality: 24
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fi2eplzzizp39xfm3jrh.jpg"
-        width: 800
-        height: 450
+      - url: "https://img.chdrstatic.com/media/7b5bc2ff-af36-409e-a4f3-68204b6803cf.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "wO8Gt2hvvFPTgGOgkzmI5PHR5yRLUOabbHusVvvxS43Kec8KZ0zG7aq4mFSS4NYHc18YAO4HNIDt0ZEou+hdJmDgoU7rJ2HT7ggA6/7R8pgO8CUMyD0XL9qvoo60l1AUYgIxOJVJXIxzSqSvojwFYo0fdNBgCitCRYmvezpPMbTPCXE0apJ7uZgWAYprQ84520sE30x5ViCkeQJzSqCeqS+E7HcW6HSYXzXPlbCLH4wYyAh5QdFufw2Im+xlC5EKuykNHBr3Rza98CQWjAto8cQq8t4HRPm4PfJdYh2jo0ZRct5yRhgXtRzKvljzxarHHscOWf3gcuaqdj1/UIGcFcUabVCeXLC2F+Tn0vh9kcU=;O75GErwwjV1qnYN0iEYjFQ=="

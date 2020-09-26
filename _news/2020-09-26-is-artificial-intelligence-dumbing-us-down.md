@@ -8,8 +8,8 @@ webUrl: "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-dumbing-
 ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-dumbing-us-down-1.74134071"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-dumbing-us-down-1.74134071"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imagevars.gulfnews.com/2020/04/20/AI_171966ffc69_large.jpg"

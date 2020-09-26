@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T16:21:00Z
 originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-outlook-and-global-insights-2020-to-2026-2020-09-24"
 type: article
-quality: 87
-heat: 187
+quality: 89
+heat: 179
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -66,20 +67,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chip Market Analysis, Growth by Top Companies, Trends by Types and Application, Forecast to 2027"
-    excerpt: "DataLibraryResearch.com add a new research report \"Artificial Intelligence Chip Market Opportunities and Forecast 2020-2027\" to its database and report forecasts the size of the Artificial Intelligence Chip market for components from 2020 through 2027."
-    publishedDateTime: 2020-09-21T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-analysis-growth-by-top-companies-trends-by-types-and-application-forecast-to-2027-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-09-23/israels-m
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-09-23/israels-mobileye-dubais-habtoor-partner-on-self-driving-cars?context=amp"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534603400&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEG8M19L"
         width: 810
         height: 540
-        isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
-    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 44
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Li Auto picks Nvidia over Mobileye for newest self-driving cars"
     excerpt: "Li Auto will be the first automaker to use Nvidia’s newest processor to facilitate highly autonomous driving functions for its EVs."

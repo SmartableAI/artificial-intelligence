@@ -52,22 +52,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "Tech for lunar landing makes self-driving cars safer on Earth"
-    excerpt: "Washington, Sep 21 (IANS) A laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars is also helping self-driving cars navigate rush hour traffic on this planet,"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/"
-    ampWebUrl: "https://newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/tech-for-lunar-landing-makes-self-driving-cars-safer-on-earth/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 44
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Mobileye, Dubai's Habtoor partner on self-driving taxis"
     excerpt: "Israel's Mobileye and United Arab Emirate's Al Habtoor Group launched a partnership on Wednesday to create a fleet of self-driving taxis that could take to the streets of Dubai by the end of 2022. The deal is the latest collaboration to emerge after last week's historic accord between Israel and the UAE to normalize relations,"
     publishedDateTime: 2020-09-23T12:46:00Z

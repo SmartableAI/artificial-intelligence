@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "ADT invests in Percepta Labs, a startup developing shoplifting detection technology"
-    excerpt: "The commercial arm of ADT has committed to investing over $1 million in Percepta Labs, a Philadelphia-based startup developing artificial intelligence technology to detect and deter shoplifting. ADT Commercial will work directly with Percepta founders Philippe Sawaya,"
-    publishedDateTime: 2020-09-21T13:22:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2020/09/21/adt-invests-in-percepta-labs.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
-
 secured: "KhZ11+05JDQlyzBTYQ7X7IboAcJa91xU2uR+fAMCgcx2TQo/Doi1UsRE2AH9vbA5WyGuT1ydEGY9Sb2CECTz725YUUTsSdUiH+mxTbvmKW2iukmyeJFukvG35ljBwOc4KJBXfyzaW+0XqvGIG8afQCmQqwB18UpbdPl3b4BDxVIbiEjjOz+w11QaA50vSADGatlsYSt0+mX4B2KrRBoSav6lQkOcn4wiD91Tx+FvZhUgJaefAixvicxlW9kFmhXZQ/3lkkfstkMbMx5vgEKdTZd0Zu7o2HY6rxlzBShXJ2wZshLruOurJoOzjlP8waguhzPbjonGrvyS/KxDZOZnv0/lyyF7mCSYNUylffEm6hU=;KOSzS4Xvr1WpKt2xO0ksFA=="
 ---
 

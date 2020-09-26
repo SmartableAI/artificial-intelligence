@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-25T18:16:00Z
 originalUrl: "https://www.popularmechanics.com/technology/a34125428/ipad-handwriting-recognition-ios14/"
 webUrl: "https://www.popularmechanics.com/technology/a34125428/ipad-handwriting-recognition-ios14/"
 type: article
-quality: 23
-heat: 23
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-ipad-handwriting-b-1600978124.jpg?crop=1.00xw:0.502xh;0,0.498xh&resize=1200:*"

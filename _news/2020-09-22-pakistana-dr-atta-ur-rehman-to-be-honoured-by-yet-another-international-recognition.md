@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofislamabad.com/22-Sep-2020/pakistan-a-dr-atta-ur-rehma
 cdnAmpWebUrl: "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/22-Sep-2020/pakistan-a-dr-atta-ur-rehman-to-be-honoured-by-yet-another-international-recognition?version=amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Bridgewater Cancer Survivor Leads MA Team to National Recognition"
-    excerpt: "One of your neighbors posted in Neighbor News. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2020-09-21T14:21:00Z
-    webUrl: "https://patch.com/massachusetts/across-ma/bridgewater-cancer-survivor-leads-ma-team-national-recognition"
-    ampWebUrl: "https://patch.com/massachusetts/across-ma/amp/28973722/bridgewater-cancer-survivor-leads-ma-team-to-national-recognition"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/massachusetts/across-ma/amp/28973722/bridgewater-cancer-survivor-leads-ma-team-to-national-recognition"
+  - title: "Iranians call for international recognition of chemical attack 33 years on"
+    excerpt: "SURVIVORS of an Iraqi chemical weapons attack in Iran have redoubled calls for international recognition of the massacre over 33 ... The Morning Star is unique, as a lone socialist voice in a sea of corporate media. We offer a platform for those who ..."
+    publishedDateTime: 2020-09-21T15:55:00Z
+    webUrl: "https://morningstaronline.co.uk/article/w/iranians-call-international-recognition-chemical-attack-33-years"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/users/22848322/20200921/101428/styles/patch_image/public/patti-collecting-petitions___21101307929.jpg?width=984"
-        width: 800
-        height: 600
-        isCached: true
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 2
 
 secured: "PuuBv472jEFE1y5d8IOF4q2BfAthFykD+tovg7qdXdFbb35h+hzGVIVHXiWy0KvbeKdwnXT+lUoBqQGKn/iCuDE5DXYNX6kTzFwOekDVKjFUSrwUky9UIDMrXGMCBraphA7U+ZBzuKJ8vZ0QGu4iTO+bHcqITZMFOTYbplGKsqZtevbvzpUHSg/T6mnrfa/b4/RsSfzcasVeBXVYIXpK+XmhMSTlf/y96nqXl/DmZqgrtOg13znrraRMwYX8Te1PyVF8GSjl+TI7vJUng98LVP34ycQIklq3/nKXt/FIengV2us5Z5kgjP8ktZaBF9Ob3Eu08rR1+bUQGVIldH0Q9eIDnQh1GGzix5vOV8vsgb4=;WCXkDGZQdygWtKQlKvi7rQ=="
 ---
