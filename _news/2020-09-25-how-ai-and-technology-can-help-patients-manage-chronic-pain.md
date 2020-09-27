@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/25/how-ai-and-technology-can-help-patients-manage-chronic-pain/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/09/img20200925093009Memory-Technologies-Confront-Edg_5.jpg"
         width: 300
         height: 239
-        isCached: true
-  - title: "Artificial Intelligence; financing; technology"
-    excerpt: "“We are thrilled to launch this new artificial intelligence technology in the Chicago market,” the company’s chief executive officer and co-founder Shaun Sumaru said in a news release. Sumaru and his team developed the new technology, shifting ..."
-    publishedDateTime: 2020-09-22T19:50:00Z
-    webUrl: "https://www.autoremarketing.com/ar-categories/artificial-intelligence-financing-technology"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 37
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/2009DigitalEdition_ads_300x250.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "GREJRPcsMOYaAYDHde/Bi17wSEsr2xz2Ug2aOLCnKD7CGkYxompAOi0oozRZZCwzYcORdo7uEkFWYi7NVgzXR07VL4+qItasa2LKnU7a0MU3Qo1xNR3cU/0MM1wSk1tDzzd1a2IdU8o/PGx1x19oH96nr5jFzQYlro57wybiUgV7VjAIZIfyh6HpQqXO4WoAe7hDVpPBTdMLq5B+vSLbn80TXLKFDTLTg2rLIEJNe5n//A68tq+v/WMg2BG+yxa7xnvuRqnbwPIZwqaR03p/i6pkCbaN6s62dVAaI2qRupGELPKcDXSjhMDcLwkbiiHPam5c0Nr5gXWxtmAqjxhn1Ks58kLIS4whaz8yCU0YvCYCC3glnzdmvdEfmrejZvPBpIDiY85SEcc0SNQPd+Z+3iGQTk+KpZd+RaduR1M7cq8ScvJiHWGrSs2pM69f9xkKrq/ZlxM5G6UyNPIcSeKvchdXhsrq2x1Vb0TuecRjAfcaZVKt90t2DTJncdJBMiGsLCmQT2dq8p9sQRSyvqVCcg==;hmg2YxGL23yoNe8mWBGAmg=="

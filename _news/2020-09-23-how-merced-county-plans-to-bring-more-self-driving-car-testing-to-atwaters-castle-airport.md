@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-    excerpt: "TEMPE, Ariz. — An Uber driver has been indicted for negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. According to the Maricopa County Attorney's Office, a grand jury indicted Rafael (aka Rafaela) Vasquez, 46 ..."
-    publishedDateTime: 2020-09-23T23:31:00Z
-    webUrl: "https://www.khou.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 40
-    images:
-      - url: "https://media.khou.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Beijing to build pilot zone for self-driving vehicles"
     excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
     publishedDateTime: 2020-09-23T11:44:00Z

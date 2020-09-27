@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcommunity.microsoft.com/t5/microsoft-teams-blog/5-new-ways-to-boost-productivity-with-enhanced-teams-power/ba-p/1680697</loc>
+    <lastmod>2020-09-27T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/can-tesla-really-produce-a-25000-self-driving-electric-car-1029624692</loc>
     <lastmod>2020-09-26T15:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/</loc>
     <lastmod>2020-09-24T19:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html</loc>
+    <lastmod>2020-09-24T18:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -295,12 +307,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.engadget.com/microsoft-gpt-3-exclusive-license-ai-language-model-094525975.html</loc>
-    <lastmod>2020-09-24T05:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/</loc>
     <lastmod>2020-09-24T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -309,6 +315,12 @@
   <url>
     <loc>https://www.beyond.ai/</loc>
     <lastmod>2020-09-24T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/</loc>
+    <lastmod>2020-09-24T04:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -333,12 +345,6 @@
   <url>
     <loc>https://www.mobileworldlive.com/asia/asia-news/airtel-backs-local-ai-cloud-telephony-start-up</loc>
     <lastmod>2020-09-24T01:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828</loc>
-    <lastmod>2020-09-24T01:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -381,6 +387,12 @@
   <url>
     <loc>https://venturebeat.com/2020/09/23/baidu-offers-quantum-computing-from-the-cloud/</loc>
     <lastmod>2020-09-23T12:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/</loc>
+    <lastmod>2020-09-23T12:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -535,6 +547,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://gizmodo.com/microsoft-lands-exclusive-license-for-openais-astonishi-1845146568</loc>
+    <lastmod>2020-09-22T20:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en_asia/article/93547v/twitter-ai-algorithm-has-racial-bias</loc>
     <lastmod>2020-09-22T19:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -631,8 +649,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html</loc>
-    <lastmod>2020-09-22T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572</loc>
+    <lastmod>2020-09-22T05:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -841,7 +859,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/globenewswire-mobile/d1e2636d66efe74334839d6e7f1fded5</loc>
+    <loc>https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5</loc>
     <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -877,7 +895,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-09-20</loc>
     <lastmod>2020-09-20T11:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1849,8 +1867,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-301129686.html</loc>
-    <lastmod>2020-09-14T10:12:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/explainable-ai-artificial-intelligence-image-recognition-startup-selected-by-us-air-force-for-premier-space-industry-event-1029587162</loc>
+    <lastmod>2020-09-14T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

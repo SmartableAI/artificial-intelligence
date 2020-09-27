@@ -57,20 +57,6 @@ related:
         width: 873
         height: 539
         isCached: true
-  - title: "Artificial Intelligence; financing; technology"
-    excerpt: "“We are thrilled to launch this new artificial intelligence technology in the Chicago market,” the company’s chief executive officer and co-founder Shaun Sumaru said in a news release. Sumaru and his team developed the new technology, shifting ..."
-    publishedDateTime: 2020-09-22T19:50:00Z
-    webUrl: "https://www.autoremarketing.com/ar-categories/artificial-intelligence-financing-technology"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 37
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/2009DigitalEdition_ads_300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "xt6DJHRr9iubKzbh4OYE7EYKhsfxZG2IpaFothxNy4HALyejTYKXH10JxlCcEuRiWVcGn1pz0jKOsXzooZXb4UpGJnDsrBNGMODpi9YvdUNps2HYZMvczH8BdcrHH86QjQcOjejpXpLJt7z9TWByLEHuXS7/S6+RvNeq+mRVyl569fse+JFh3Fhvoe8oTVydqyVU9UIiI0gsCEVR9EJTcwzfNoaGv8fVWXWyqyrtyZRG4vupbKaZARsglCoKbq10JHVtW5EQW2QOguc3Lh++WXneWvZlgn8ca5c5NLtD5LVkA9gbjwvJazi/oreHr+jTTCpsvU8HiMi51SntHfszjcmMdkjB3XcSxE0WOEZcANScjl4t/FwUji1DJSlY2nrLvqW0/Sb1IMF35LKsdjUCoNUL3uC2MpKQRbWuCGwQxEfaJtUWCr6YDuAiG2fhEjJr3LAJFSCbrCn+h63GcqOibM0vcRwNckt1rIsNTzFtmyILt31zdXW5CWL+FxJ7ZfzSp95KOFjSyxwxzFRShkeJsA==;ABGgHV8YarU455MKFnNgvg=="
 ---

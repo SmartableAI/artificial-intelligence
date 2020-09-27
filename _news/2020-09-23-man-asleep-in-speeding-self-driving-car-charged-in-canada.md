@@ -26,6 +26,24 @@ images:
     height: 349
     isCached: true
 
+related:
+  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
+    excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
+    publishedDateTime: 2020-09-23T23:45:00Z
+    webUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 40
+    images:
+      - url: "https://media.kvue.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+
 secured: "ksYkj6EAAALvg96GMgz3IYw21gTZoARRG4UdVbvCIohRZkQ3u+ZZYjqbCBRNHb/BIMx426jSBXKtWCqvvwIwnHD891RTPVsFNpNG9VW8zSSWut1hPnSrQCUpxP80nl8jnYr1dsH5cEfdycpFa1qYCheYYtFrOC90eZznSzuQrk58SmBaRQId6mglGXRrhO2k8cMhKkR8eZHZQm8y8I1fT+mMdSVJvGbw4DFO3tu9zD2oCF2xsPTe0Gvspa3tJ4drPvv/V/8TiqxhmW9VUOJ0w9dwSU4/F7vWFaKpo3Sv4TtScGTkYaWzTL/dP/G63aoh33APcHdSPUW2atcr2/kPmOLZXWwUSej88pn9jPCbbi8=;GY7nQuVJ6hlJcY/KbWuIaQ=="
 ---
 
