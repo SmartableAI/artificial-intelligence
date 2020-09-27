@@ -43,22 +43,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
-    excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
-    publishedDateTime: 2020-09-22T21:09:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 54
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
-        width: 840
-        height: 560
-        isCached: true
 
 secured: "HPioj8nRT3P+L8HM4WKv+BV5UHg10re8Tzijq+PV6hxqjZMsU0rKT9sBbq5o1LRVSJavahXwJTEutGheuAkQ0n8tudGgH3DNViAwRBVpueC4fwmJ1aVp+69eu0NdpsWDX8drtJxBUymd/qZO0MAqCPX4tlSbhGsONX/7BD8WlSRE4S7VfckBCvA48O07iDWhQl/RMrpsHK6ZSxAbS32kYV1I8XnBH8kVA1D2HrV7rreMkosU/7oRKmnWgOrQkPiQ0Slzpjm4LzmsNF9e6JQuLLCO6coXqHRAurKQ4j8T29QUJeiHpDHzFa0s8x053iYB5EsWPX8NZCu1ExmubrGGCXFfUYAv3C69d6y8lyUq9Sk=;lON03fFuxTzlxGTYX2NZIQ=="
 ---

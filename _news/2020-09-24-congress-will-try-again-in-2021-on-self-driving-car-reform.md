@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress will try again in 2021 on self-driving car reform"
-    excerpt: "The U.S. Congress will try again in 2021 to try to approve long-stalled reforms to speed the adoption of self-driving cars, a key Democratic lawmaker said Wednesday."
-    publishedDateTime: 2020-09-23T16:00:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-self-driving-congress-idUSKCN26E2RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E2RA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534629164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M1P8"
-        width: 852
-        height: 545
-        isCached: true
   - title: "Congress Will Try Again in 2021 on Self-Driving Car Reform"
     excerpt: "Self-driving cares suffered a major setback after the March 2018 death of a pedestrian in a crash with an Uber test vehicle, the first attributed to a self-driving car. The Nation"
     publishedDateTime: 2020-09-24T22:24:00Z
@@ -58,6 +42,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Congress will try again in 2021 on self-driving car reform"
+    excerpt: "U.S. lawmakers have been divided for years over how to reform regulations governing self-driving cars and what consumer and legal protections should be included. In 2017, the House of ..."
+    publishedDateTime: 2020-09-23T16:14:00Z
+    webUrl: "https://www.metro.us/congress-will-try-again/"
+    ampWebUrl: "https://www.metro.us/congress-will-try-again/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/congress-will-try-again/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportDomesticNews/tagreuters.com2020binary_LYNXNPEG8M1P8-BASEIMAGE.jpg"
+        width: 800
+        height: 511
+        isCached: true
   - title: "Uber investors are pressuring CEO to revamp the self-driving division"
     excerpt: "Uber was once a serious contender in the race to build self-driving cars. Today, the effort is lagging far behind rivals"
     publishedDateTime: 2020-09-23T09:33:00Z

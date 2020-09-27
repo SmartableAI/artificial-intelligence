@@ -32,20 +32,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
-    excerpt: "With so many people working from home, the scourge of background noise during video calls and teleconferences is more fearsome than ever. And if you've ever been in a Zoom meeting or the like with someone else in a noisy room,"
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/This-AI-Powered-App-Lets-You-Say-Goodbye-to-15586729.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/21/70/19996207/21/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "4ZAwr8hYSeC0MC+NJAed26608U8kmA79XTopBDmHZUXH/Sd14k4405BfWKc/qUIbNo0RCd8eQ6IQFoeChIzskcPX9bZ5VwoED+4nE+xWM1UGjNtL/s6J0PjaHgD0Xm+VkZkzgwCKHyrc4cX0f4X4OAQjL1U5DLgpcULhsfh/QlI7U5eAqStc3BhvGgDqor/hmnQ+hs9SEIW6HQ8+2i8SZN2Z8q4JCqBehl/I2LDDiJuCh3AQtwGuW38T7TsJNGk1BU34wqzW9iRkLgUORbzS3U5aI5cCjLIeWErbA1OWQNqK6JF90egO+WskK3fKEUPLEWX9PC7R3HYXfB6vZHQeyZA1gbMGw+YC7HBUJ9hqzCY=;9xPL1h0XJUwGlBtxqTbkWA=="
 ---

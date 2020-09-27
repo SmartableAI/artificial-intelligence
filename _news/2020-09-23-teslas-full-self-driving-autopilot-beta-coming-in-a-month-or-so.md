@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-autopil
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-autopilot-elon-musk/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'"
-    excerpt: "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade."
-    publishedDateTime: 2020-09-22T22:14:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-elon-musk-promises-full-self-driving-autopilot-beta/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 65
   - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
     excerpt: "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\""
     publishedDateTime: 2020-09-23T01:51:00Z

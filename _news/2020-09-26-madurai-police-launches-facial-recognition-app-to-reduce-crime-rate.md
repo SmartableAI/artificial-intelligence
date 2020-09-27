@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Police Commission to review LAPD’s facial recognition use after L.A. Times report"
-    excerpt: "The Los Angeles Police Commission on Tuesday said it would review the city Police Department’s use of facial recognition software and how it compared with programs in other major cities."
-    publishedDateTime: 2020-09-22T21:09:00Z
-    webUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/"
-    ampWebUrl: "https://ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/police-commission-to-review-lapds-facial-recognition-use-after-l-a-times-report/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 54
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
-        width: 840
-        height: 560
         isCached: true
 
 secured: "um0ooNprnEH1T2de0jLt4/gXbkNXdy3hRUliIyyWpNjd8gLmvvZl2HOWGdhcL8QF+Egl98nJrKn50KetEddafJlrDcjcP1ajt++VI6gT4OGUpFgMYToS8OWWYuO23lGd9EOqsrb9VE95O6D5djYxZAHJw3+2b3xW1VSgZSWnUZnCWhU7p2rH4IPaTx0kX/MtFmD3JfAyV3t69MJ8gqyiDad9Ccdxr0ULxdoGNvroglbv4/zXdW7N2P7UXqa93qFUGGlQdIShTXUDcToTSGEKWlhKtHu50Kp6EbQ2xmiQaOVqqbuxTw6YIUPFwvinCmN4FaMc9QI3GuowfrjNtZrWNaa6NRxRTJ1Z7ru4X6jZ9Vc=;gLkk4mZYaPdGlZusURKUyg=="

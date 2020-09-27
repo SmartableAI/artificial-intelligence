@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-27T13:55:00Z
 originalUrl: "https://www.techprevue.com/what-can-we-expect-from-ai/"
 webUrl: "https://www.techprevue.com/what-can-we-expect-from-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.techprevue.com/wp-content/uploads/2020/09/what-can-we-expect-from-ai.jpg"
@@ -24,6 +25,6 @@ images:
     height: 854
     isCached: true
 
-secured: "LMDaCt3/2VVkWsfsE/sp1R5BqYE/oIpJSqmZceM9T7hbvDxz9eUVh+UCInnFKzClA9dI1FRfzBFugaxt7e/5Vo/VON7Gwm7+hrWBN9fOMWnPvU6NpmiSnAfMuVBHgu0f4yStcGC4PUgWVMM9dylAjuwlXfOhpGQ6892GUpvhKVsbp1Pg6t1YFun5W0u9gDNr7Gx7UTEvRH+Ctp1iGdU2i2ZSsWs0uGJQ9yMrwzVAv40wLi91UCE9VbwBzzeHUmp9AyrM4ibPfKnDfjpoQnFPcAd4ZJahiIpG3AIqvF9b0wKnrloXEJ9NdERQ6Ebx1wxLewhS9y8R+AYMMGuhO4YowCiclz4AhKt2upwWJq9XK80=;5IhLfVUweMSH+3XK7YvB/g=="
+secured: "GijLzQk/c3u7aCygVA1T3hqz7Kwr247eV7dvhX5dusLINq1NZ4JRtd/xHZiSfBjOs1AoHcBSIB29NfNdJDwS7KprTyPs4cx1J1NJ9bVCAMnfaJT1elgZDMz4xg/ppA0uXAew8PY+SACUR77w+zDo0Xx+fOPIQ3016NSHZIfdFOR/muCZjn94Xg3juWhyTOKcMX9jnte5Eom80K1W/XGAZ2fmbtMkDdI+pH0LaMRUGHyMx7LTU74cTcj0gDgyG4O8smz04tJ5zD3uVgLOR39Rc+AmqmSSKsneHJmMF7pqT5RYb41OImD9CW6Tvo1D55tCcgHpLRXE6DhpALSQOVYrXJHACHpgKxydDGxsDbOeW921Bd/MSaRJDAJuEWgxGZj2P414oOV1zTqzA1XdRKBBlfV1noXeNV7jtVvGPVihpjo5C6SvN8dHxRAaqU+8VliXfkGJ4hNYMHpCoSQvYUXn3UrXfKa4XdP3zIIvys+nW5Ss7WKubuYLhw/DKY7B+nPXNxF0EaTAKtSqlF9t7Swuwg==;fFRid3M/PyEViPZuGf/dqw=="
 ---
 

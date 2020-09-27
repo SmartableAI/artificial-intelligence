@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/youtube-machine-learning-age-restrictio
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-machine-learning-age-restrictions-212253144.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Engadget
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube AI to automatically block videos that violate age restrictions"
-    excerpt: "YouTube will use machine learning to automatically apply age restrictions on videos, the Google-owned video site said Tuesday, widening its use of artificial intelligence to automate blocking some videos from viewers who either aren't signed into a YouTube account or are signed in as a viewer under the age of 18."
-    publishedDateTime: 2020-09-22T22:28:00Z
-    webUrl: "https://www.cnet.com/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/youtube-machine-learning-to-put-automated-age-restrictions-blocks-on-videos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/1Bicd2Dw_TNaeMXIyl4HhwaHYF8=/1200x630/2019/06/27/96f3d515-23ab-4ed6-936e-3c945b449d26/youtube-4972.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "YouTube’s new AI will block videos that are inappropriate for kids"
     excerpt: "YouTube will start using AI to automatically add age restrictions to videos \"over the coming months,\" the company announced on Tuesday."
     publishedDateTime: 2020-09-23T11:18:00Z

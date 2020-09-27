@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "P360 Announces AI-powered Sales Enablement Platform BirdzAI"
-    excerpt: "The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable ... BirdzAI is built on Microsoft Azure and is compatible with existing commercial infrastructure ..."
-    publishedDateTime: 2020-09-22T21:36:00Z
-    webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/09/P360_BirdzAI.jpg"
-        width: 1059
-        height: 458
-        isCached: true
   - title: "Ardigen has received funding to accelerate its AI-driven TCR discovery platform for novel cell therapies"
     excerpt: "Ardigen is harnessing advanced Artificial Intelligence methods for novel precision medicine. The company accelerates therapy development by designing immunity, decoding microbiome, analysing biomedical images and providing digital drug discovery services."
     publishedDateTime: 2020-09-23T13:39:00Z

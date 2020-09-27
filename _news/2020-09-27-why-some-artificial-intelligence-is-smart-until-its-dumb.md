@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-27T10:05:00Z
 originalUrl: "https://theweek.com/articles/937577/why-some-artificial-intelligence-smart-until-dumb"
 webUrl: "https://theweek.com/articles/937577/why-some-artificial-intelligence-smart-until-dumb"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/gettyimages-1199304297.jpg?itok=PkG-Dkzh"

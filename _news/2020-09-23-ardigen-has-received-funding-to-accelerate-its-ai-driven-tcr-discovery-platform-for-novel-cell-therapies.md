@@ -33,20 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "P360 Announces AI-powered Sales Enablement Platform BirdzAI"
-    excerpt: "The BirdzAI platform now includes advanced Artificial Intelligence (AI) capabilities that enable ... BirdzAI is built on Microsoft Azure and is compatible with existing commercial infrastructure ..."
-    publishedDateTime: 2020-09-22T21:36:00Z
-    webUrl: "https://pharmaphorum.com/partner-content/p360-adds-advanced-artificial-intelligence-capabilities-to-its-sales-enablement-platform-birdzai/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/09/P360_BirdzAI.jpg"
-        width: 1059
-        height: 458
-        isCached: true
 
 secured: "zB0fr36R1bQBwKXIXNgGABzn8rR6DoohZ6i9VuG8A/KjA10rxctEh4OAZshMf1aPktgEcxcgn4hpAuEjLZxM8CzZh5hwYcZG9qRRmnWY3SNlBhIj5tpJe9s38Y6lRCWyoWzqK40LcFDd5Y70jqDvBvw1VXeEke0DPxeMR+OqDlcdA7ceMoYrqESNSwvDr32yPC8Z7w8NKpoeJ8K/aWjulJVrCMQa+C2xHht/DVkLyFHJcjQnTDS7zM28VwJEiIDuVdpo/Z6SXT+BIRMXzRjQeCQjsklf7Hf5k85jafRMlFen2eJd/PkuUVkd/UWmqkQ9swp6idooNdbIr53cpJJ474hIALBTlwLDBTgWuihCTurAL7MOPbi1wOer3jFvizv3aPzMxMUSqlCIvB5zIGVt+2TOBYnJjzw7mIlU7Y3ibiAQ+lhl7sPFRS7Qw1xWFsZHvE5pZzRZQYEIKy1SAL+Cph8LkJOFWr8uzZyxA4ZzDZL2C0fwghdZdZPZaZg+YdZl0rFQB2xrJK7eS7VlJAG5oA==;J7Db855FqeqtnDwaZslsUw=="
 ---

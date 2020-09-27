@@ -74,9 +74,9 @@ related:
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
     publishedDateTime: 2020-09-24T11:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-microsoft-powered-instant-two-way-translator/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-microsoft-powered-instant-two-way-translator/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-microsoft-powered-instant-two-way-translator/"
     type: article
     provider:
       name: ZDNet
@@ -202,34 +202,6 @@ related:
         width: 480
         height: 310
         isCached: true
-  - title: "The top Azure announcements from Microsoft Ignite 2020"
-    excerpt: "Azure Stack Hub now is available with GPUs so customers can run AI, machine learning (ML) and inferencing capabilities on-premises and at the edge. Microsoft partnered with AMD to bring the AMD Mi25 GPU to Azure Stack Hub to power visualization-intense ..."
-    publishedDateTime: 2020-09-22T21:07:00Z
-    webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-ignite-2020-553728"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200923070144_crn-14_microsoft_iStock-1191485295.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "What's New for Azure at Microsoft's Ignite Event"
-    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft announces Azure Communication Services"
     excerpt: "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for translation ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday. Azure Communication Services makes it easy to add voice and video ..."
     publishedDateTime: 2020-09-24T04:55:00Z
@@ -261,7 +233,7 @@ related:
   - title: "Microsoft's Azure Defender for IoT Uses CyberX Tech"
     excerpt: "Azure Defender for IoT is built to help IT and OT teams discover IoT and OT assets, identify critical flaws, and detect malicious behavior."
     publishedDateTime: 2020-09-23T18:41:00Z
-    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996"
     type: article
     provider:
       name: Dark Reading
@@ -397,15 +369,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
-    excerpt: "and Azure AI services. \"Whether you choose to use Microsoft' or partner ground stations, the digitized Radio Frequency (RF) signal from the antenna to the cloud can be transmitted using the VITA ..."
-    publishedDateTime: 2020-09-22T21:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200923/3630424.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
   - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
     excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
     publishedDateTime: 2020-09-23T20:25:00Z

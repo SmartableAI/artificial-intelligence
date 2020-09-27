@@ -2,9 +2,9 @@
 category: news
 title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
 excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
-publishedDateTime: 2020-09-23T07:14:00Z
-originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
-webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+publishedDateTime: 2020-09-23T12:01:00Z
+originalUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
+webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
 ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
 type: article
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
-    excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
-    publishedDateTime: 2020-09-23T15:37:00Z
-    webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUKKCN26E102"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26E102"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E102"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534583646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
-        width: 860
-        height: 545
-        isCached: true
   - title: "Volkswagen Unit Forms Partnership for Self-Driving Trucks"
     excerpt: "Volkswagen (OTC: VWAGY) announced today that it has joined forces with autonomous-vehicle start-up TuSimple to bring self-driving heavy-duty trucks to Europe. VW's truck unit, Traton Group, also bought an undisclosed minority stake in the California-based ..."
     publishedDateTime: 2020-09-23T16:38:00Z
@@ -117,6 +101,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Volkswagen’s Traton partners with TuSimple for self-driving trucks"
+    excerpt: "Volkswagen’s <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday. Traton <8TRA.DE> has also taken a minority stake in TuSimple,"
+    publishedDateTime: 2020-09-23T10:37:00Z
+    webUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
+    ampWebUrl: "https://www.metro.us/volkswagens-traton-partners-with/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/volkswagens-traton-partners-with/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 44
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
+        width: 800
+        height: 507
+        isCached: true
   - title: "Is TuSimple about to solve complexities of driverless trucks?"
     excerpt: "However, that day may be fast approaching as TuSimple continues generating momentum. This year has been particularly momentous for TuSimple, as the company not only continues to refine its technology,"
     publishedDateTime: 2020-09-24T15:01:00Z
@@ -132,6 +132,6 @@ related:
         height: 673
         isCached: true
 
-secured: "AlF7aW/SY+inAvJeBqep0+IPvgp5XUoeXiHBNCE5LbHS5+A7hsLtyhYlqkQliOGN6pPWLWyedtqHE2FtykGN9IapgctKRqKFjKkm8aniw2VTMSUQJZARPKM43Z5BUjP3hBnJVaLP5BObDZWPs0qz8NEPvZ6W/KPnc1pyKa1kvakjz2fbwMvx6hk1rRM7kHC+A2jTcaoUYuu5pNnptkYKsBCGPrig18Ulylvz77O6KotOFtTSS3Dz0sEsZAJ5iWqc1/uF5+0k25PMbUXoTkIPQ8unq4/YWbQnvI1n7TvAOnq5/S7sy981MvCILk5aktUwBiRGkU3+prMDCHXry7GJjk5+4pqdkRWsFOIafsvIsqYHaUdZ52ypqRXAdJaaQl0oIZRuYSBLxDWwLdsGLfwVEJNJUqSnCJj4DXFH+EZYgYX+kB72LdaQ6okbeEYiRw2U8EcEKzeDkg4/FNCG4Ko9jCa+G+rsQauoNBxXWIEi7dInD6IYgrn8rOslMCmmfPNmZcpxlo7ZbjCBB380P1Xf/g==;46gGd7NH0yr0ScGk2PceeQ=="
+secured: "+hnm9Xa095P5xICvVMBQgzzdaRf5lnqWEzjf4Mr27/OnPYIlSZkRpgCv/olruILrbGrkcJiyzIRrijYnhmmFI8pF/rE4W0lghSvpCGAHwuFxj3bsnz2xOv/1PAbBAjzuhKNnsulIE+awFzJqezl6jwWFT9vDbt4lIxglyscaK9C6hMdDOzWOXjbOMM0e0UpfciuBwnJR64sibSXbK8g6ZxbHcWIlYSU1F5ivZ3nv7l4psclhReZsPYh+7SmKESLVvdOJV+k31Hk4MMdAoN0Gp2ieVcF+ItP3nxhYBNch1KlCOcrS2o8XyP9Oq3j8C/FGwGnQykz5G4lqzFfHyyYa4qGylKC3dvG8Sd3H5c7pEcU=;8fHpQZv7KSLO3r6kNILZ0g=="
 ---
 

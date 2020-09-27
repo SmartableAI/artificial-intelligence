@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Volkswagen's Traton partners with TuSimple for self-driving trucks"
-excerpt: "Volkswagen's <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday."
-publishedDateTime: 2020-09-23T15:37:00Z
-originalUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUKKCN26E102"
-webUrl: "https://www.reuters.com/article/us-volkswagen-tusimple-selfdriving-idUKKCN26E102"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26E102"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26E102"
+title: "Volkswagen’s Traton partners with TuSimple for self-driving trucks"
+excerpt: "Volkswagen’s <VOWG_p.DE> Traton commercial truck unit and self-driving technology startup TuSimple will partner to develop self-driving trucks, the companies said on Wednesday. Traton <8TRA.DE> has also taken a minority stake in TuSimple,"
+publishedDateTime: 2020-09-23T10:37:00Z
+originalUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
+webUrl: "https://www.metro.us/volkswagens-traton-partners-with/"
+ampWebUrl: "https://www.metro.us/volkswagens-traton-partners-with/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/volkswagens-traton-partners-with/amp/"
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534583646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M0IS"
-    width: 860
-    height: 545
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2020binary_LYNXNPEG8M0IS-BASEIMAGE.jpg"
+    width: 800
+    height: 507
     isCached: true
 
 related:
@@ -65,8 +61,8 @@ related:
         isCached: true
   - title: "Volkswagen Trucking Business Invests in Self-Driving Truck Developer TuSimple"
     excerpt: "Volkswagen unit Traton Group will work with TuSimple to develop self-driving trucks and take a stake in the technology company as part of their agreement."
-    publishedDateTime: 2020-09-23T07:14:00Z
-    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
+    publishedDateTime: 2020-09-23T12:01:00Z
+    webUrl: "https://www.wsj.com/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460?mod=hp_minor_pos14"
     ampWebUrl: "https://www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-trucking-business-invests-in-self-driving-truck-developer-tusimple-11600844460"
     type: article
@@ -132,6 +128,6 @@ related:
         height: 673
         isCached: true
 
-secured: "b6X4eYcaaLbuvxQr8HLe8LmjiKJ4lRdH8GVRHbn/7cDxnwFiRbuJ8p8cb0GYZgheOClEYZAdtYKdD3PGgZTqc76qQbwDnDmFqUh1kO0yCDseqzZJeey8QH/wkARF79FuySMogKOKmp8jkwi5Tb/U0rE97pHshPnNFBaWrEshRGxB6AeWI2APcDI7PktkT0xc1/Xc+dtrAQX2N7SxFT7BTtcc48F9ZPPUH0C2kk9gcfpTNbccQq0hjyk5DZqCl8ytZoK6AGvJXdSJjdZnxTFykWweQK7iS5rABAO6rA35gLaitnO9j59sFHA6pPSfW6eInhoP+a4hTh4+CzncxcnKsXPnKX2rG8TuZnRf+APQMb0=;8vWGBUBy8GadHlB49PHulw=="
+secured: "DxUqS5y2gB1CWAplG1v2k9akWIDSrc+VdChZcyG/KOfhBeO+ZlnIL2JvdBaCqPs6tKwL3pC72O5ubBg/hj3oVi2mk4k5j+ixb/Z+TcesVLjs4MhXlgxBCx2DY7dEremKRvNj2Jy/oQia89xnKlwGEGS1vMv8Su3wh8Plc7jhd8xF2ubDmf94qLXzoDTD7S6g7CfLiizij7NIQjgzv6PzVYQzHBrz0ybhTyZYiETMmUg/s3uGTaNk+jZZhtn0StA4zmmzi+MIHXRNAXoo6nJGhYui+9D7r70pyhzyO4olXqlQ9CO7uxE0OCmlysxUjDKU8UVD/Nmi0Db3nH3NsFnx6ZtiVQcJf022+vQy+GQaXU0=;eZbM/yuqjujDmvEPU9rasA=="
 ---
 

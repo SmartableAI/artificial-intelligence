@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Lands Exclusive Licence for OpenAI’s Astonishing GPT-3 Model"
-    excerpt: "Microsoft is having a hell of a week. On Monday, the company announced a $US7.5 ($10) billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter."
-    publishedDateTime: 2020-09-22T22:04:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/09/microsoft-lands-exclusive-licence-for-openais-astonishing-gpt-3-model/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/09/microsoft-lands-exclusive-licence-for-openais-astonishing-gpt-3-model/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/09/microsoft-lands-exclusive-licence-for-openais-astonishing-gpt-3-model/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 59
-    images:
-      - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
 
 secured: "NFxEIW6I5StfsWe+G9Zfj1GIMGQa+m+ggnef+WG4Fhtxz5gzuHq4aXv+y5jvNSmoJF85WFJ1pBDIho8Ma7y1XJPwdfYic2u9SBK2WVtmPIvrn0NSnAwKrOZbSHfvD9Gxm/HUY2PfGTivPqRSbpBLnKe8Wc3gArL9nqlRmRmpmgrAuG487V/m2RCjfOW6cu7SaAqMDXtt4HCt+kLEcQegA/dfC78KzRgMJ22iNRCVQzoGmOF7fBLmJefBthUSBSimk2eO2xzqf4QuDfc2b1ADokvOdd6Z3dlH4dpSr4ch3/Z9/ZDDn/KXM6VfVZ7YPj9HQaUAaFIqRJWhkd55Z1R1YagJU7FkJH72DYdqN6EQM9I=;X27j75qbJGr2gp219cbkdQ=="
 ---

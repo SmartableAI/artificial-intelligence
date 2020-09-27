@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
 webUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
-    excerpt: "With so many people working from home, the scourge of background noise during video calls and teleconferences is more fearsome than ever. And if you've ever been in a Zoom meeting or the like with someone else in a noisy room,"
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/This-AI-Powered-App-Lets-You-Say-Goodbye-to-15586729.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/21/70/19996207/21/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "The rise of AI-enhanced skincare"
     excerpt: "AI and computer algorithms seemingly now extend into almost every corner of our lives. It was only a matter of time then before they reached the sensitive world of bespoke skin care."
     publishedDateTime: 2020-09-22T23:43:00Z
