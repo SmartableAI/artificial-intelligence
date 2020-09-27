@@ -73,20 +73,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
-    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 21
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
-        width: 610
-        height: 409
-        isCached: true
 
 secured: "UT1a2uT0L7QWWTZlCDbE1SF9eaFdzoKABcM57EDyyLBB+10D9FKj6IEJoiAuUf5zElo10BHurTwJp27GgAGKoF7OJ9zI3OcMz5VDciyZ/i3RcmN5wPKihTAuxljhj8+bSEOQqviKNiL2XqR1Bk1uEblbksP2RsSqSlX4BLe7dLU46D8ZhaPXiLJATzx8R6m7yj9q6TOt3sk3bXWbBTOaSxDC6s/gzwf5RBbZifKd7BLwgSluGd0YfqggojCAthdKUUfhHAgmXFmy66DMXx1oMKIsSS/u5ZNylvaGXAvVFEjSkgSppgguHT57mBTVi477yRxJ7hV9Yxkl1R/2Bs9VlyxYg/N9QnsDNuOUNFq8Vvg=;ZbIjFB9iCSf2dVGoKnRgeA=="
 ---

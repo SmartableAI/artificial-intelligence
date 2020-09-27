@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2020/basware-debuts-artific
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2020/basware-debuts-artificial-intelligence-tool-accounts-payable-automation/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,67 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "DeepCube’s software-based solution accelerates AI on existing hardware"
-    excerpt: "DeepCube, a startup developing a platform that reduces the computational requirements of AI algorithms on existing hardware, today raised $7 million. A spokesperson told VentureBeat the funds will ..."
-    publishedDateTime: 2020-09-22T13:01:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/deepcubes-software-based-solution-accelerates-ai-on-existing-hardware/amp/"
+  - title: "Basware Evolves SmartPDF, Now Captures Invoice Data Automatically via Artificial Intelligence"
+    excerpt: "It is designed to ask as few questions as possible and once answered, the artificial intelligence (AI) learns immediately, never asking the same question again. Plus, the AI takes into consideration not just the text, but also features, such as fonts ..."
+    publishedDateTime: 2020-09-22T20:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200922005192/en/Basware-Evolves-SmartPDF-Now-Captures-Invoice-Data-Automatically-via-Artificial-Intelligence"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all"
+      - url: "https://mms.businesswire.com/media/20200922005192/en/823290/23/Optical_Character_Recognition_v_AI_Highres.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Global Deep Learning Software Market"
-    excerpt: "New York, United States - The Deep Learning Software Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation. The report titled ..."
-    publishedDateTime: 2020-09-22T12:41:00Z
-    webUrl: "https://www.openpr.com/news/2139424/massive-growth-in-global-deep-learning-software-market-set"
-    ampWebUrl: "https://www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139424/massive-growth-in-global-deep-learning-software-market-set"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/9/T922635002_g.jpg"
-        width: 550
-        height: 308
-        isCached: true
-  - title: "Global Artificial Intelligence Software System Market"
-    excerpt: "New York, United States - The Artificial Intelligence Software System Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of growth rate, market share, and sales generation."
-    publishedDateTime: 2020-09-22T12:38:00Z
-    webUrl: "https://www.openpr.com/news/2139421/global-artificial-intelligence-software-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2139421/global-artificial-intelligence-software-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2139421/global-artificial-intelligence-software-system-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/9/T922500628_g.jpg"
-        width: 550
-        height: 354
-        isCached: true
-  - title: "Deep learning accelerator DeepCube raises $7M in new round"
-    excerpt: "Israeli deep learning startup DeepCube Ltd., which has built software to accelerate the process of running machine learning models in the data center and on edge devices, said today it has raised ..."
-    publishedDateTime: 2020-09-22T13:25:00Z
-    webUrl: "https://siliconangle.com/2020/09/22/deep-learning-accelerator-deepcube-raises-7m-series-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/Dr.-Eli.jpg"
-        width: 1065
-        height: 646
+        height: 627
         isCached: true
 
 secured: "1xtdrkmhEOuCoTP9Bqzktz3lJwZJjAJQDRisywVXaWu05LgGPoXcS3oOKza1pK8580eV9fB3Oz7sdFEdNVijaM9an87oF5LXeqQP7KFk4sfkTNv/G8I50oGuzjQObjExs0ZIznR7OLqwN0kCvbIZs1sW81g3BVbeJcwqMhb1ryLvF/azUNAH/nQRn1Q7OS1dJKWW8Knmw3iCzIbt3wK+yYWhxe3cOr3tC116o/qGh/qJu932+0/Wce9GabB55V6oJtIKqA9eNDWTVvbhsH/6C9RkCUt52wAptyI1U4jkYfY5OE38mqOVac48WvVqKfAz0O9qBvBhtjBeAQVm6PpBs/fNlUn/PJwLE6oeSfPKTsY=;mgK8/fZYrcu6lNd8gYl7oQ=="

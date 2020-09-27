@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.thaipr.net/thaipr/300x250c/prml/k3/FF33B5E8F3D9B928782836468055DC10.jpg"
@@ -23,6 +24,6 @@ images:
     height: 249
     isCached: true
 
-secured: "48vx4RTRfIRE2Tl52tZg61MKZwZFWJxWFz9Nc950HyQmoo6cYWuYzMUzkj23vxfjfjMbuvQ4Jr2OJ5ckYp2bINmK+ZF8pUWcS0b+t9VfU5k78VJKD8ypJQkTgUvv3cfuNdBWI2dyGgNtkv8HB0j4Ljgbe/ctUu3ZSm6Rm0P1RllkToQSsMgsOBNR2dIKiqkFOPeV2gQpvDOE+q0Irq5mJ6FZqo4/9ZT50Wu+uTKtNtrJ1l5NC5bStBNG9P5ELtqc7yAWRd6Y/f5ksYRQVqKbKQvL5YfuzW+2l7TOBAhqZlaoGlXm2vnt2EXOnRHJ30z0VNJde4exPSkWyHSCiuxO99sg8wMzypNDKkiE//GHLvg=;kkPqnbtbzlm8Agjxn+9Tbw=="
+secured: "VrLbJqgcfj+wbsOe+17JxwUEEL0pQLaQo+8rxxSoih6dXvNvn0r2Q9L4NiR08Mv1k/ngGTIJvNxZe+UnnYFLJ93F+Q8p/KX0EpMbjPbkHtIrm1VSnZ3aP5TTXa7W4j2Uz5zUwVmCGD3OSACWKYea3pfFgt5885bUs6kHkTDU67x619O+Ls9QrifPm8whCptKTjrL/kOut2KnHKQoLf3Qswi+PUVh5Hgo7Qh8RFyz8ziilVpYXaDQbq276+vu1q/X9y48CLtsj79ZXIC5ZXCRcyU8n+M5P6T0iNK3VvQNFaFH31tcnkpUJpE7qBEwETZXSYdp6rjgXVYbpyg03N522+WYSwoejwoH3wSa3jGOtSXKDV3E1erReRXosu+qu5CITki1+sZqv1zdenPZ1UyAJdZOcK387WivhNefTb1tJN/YwWeUivq+ornqFiLvy5sQyK7KmDBHzUDn3+PtV7La6W88Ypiy7Us7h0xrgMHw5gs1dA5NOj3LX7OoXG5jb2BtE/jkrpqNCvmyYRYJyALHUA==;uPAdB+cAJpn9t6/uuV4uhQ=="
 ---
 

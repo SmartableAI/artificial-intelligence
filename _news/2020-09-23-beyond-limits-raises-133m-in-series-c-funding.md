@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-serie
 webUrl: "https://www.finsmes.com/2020/09/beyond-limits-raises-133m-in-series-c-funding.html"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Pain Monitoring Startup Medasense Raises $18M in Series C Round"
-    excerpt: "Considering 3the complex nature of pain, Medasense technology uses a unique multi-parametric sensor platform and advanced AI algorithms to convert complicated ... \"Medasense is a model startup, having successfully introduced a disruptive medical device ..."
-    publishedDateTime: 2020-09-22T12:37:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-301135201.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1278423/Medasense_NOL_Monitoring_Surgical_Settings.jpg?p=facebook"
-        width: 1593
-        height: 834
-        isCached: true
   - title: "Beyond Limits Takes $133M For AI Efforts"
     excerpt: "Los Angeles-based Beyond Limits, a startup which is developing artificial intelligence software for the industrial and enterprise market, said this morning that it has raised $133M in a Series C funding round. According to the company, it has closed on $ ..."
     publishedDateTime: 2020-09-22T13:33:00Z

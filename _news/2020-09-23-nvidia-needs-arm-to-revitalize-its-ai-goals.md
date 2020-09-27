@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "There’s No Such Thing as ‘Huang’s Law,’ Despite Nvidia’s AI Lead"
-    excerpt: "But — having said all that — there’s no such thing as “Huang’s Law.” That’s the appellation assigned to Nvidia CEO Jensen Huang by the Wall Street Journal‘s Christopher Mims. So, what is Huang’s Law?"
-    publishedDateTime: 2020-09-22T12:27:00Z
-    webUrl: "https://www.extremetech.com/computing/315277-theres-no-such-thing-as-huangs-law"
+  - title: "NVIDIA acquires chip maker Arm for $40 billion"
+    excerpt: "In one of the biggest tech deals, Graphics giant NVIDIA has confirmed it is acquiring SoftBank-owned UK chip maker Arm for $40 billion with an aim to create a premier computing company for the age of artificial intelligence (AI)."
+    publishedDateTime: 2020-09-27T05:36:00Z
+    webUrl: "https://menafn.com/1100791992/NVIDIA-acquires-chip-maker-Arm-for-40-billion"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/09/RTX-3090-Feature.jpg"
-        width: 1344
-        height: 742
+      - url: "https://menafn.com/updates/pr/2020-09/14/I_8e792cf5-fimage_story.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "Lse0bRJCUne7c8sJKX7oShkz6cCHteobMWAjzrBjg4rPP1I3dmBZS/rrPFviVzISte3SjmDLANhHU5lqGdkgAnAvvnaEQzytT8c36AfX4ht0ZpvRruPjRJja8g9wfZc3hio6ONJkwflGOgk4UwV+B2uvB8Qw3gqHmMdHaGQqRQhLcdwUfC8swCgz+oHB1AIkez5dIuc0hzDdnuMvO0U/6mqQt6ACDGBTPew7iiHD5/XjMlEprh1kRqkBOCum7u2MR425GugUdMU9FX9pm19Ddofck9tyVIDSLHYSzfKd7hHg+3/Eq4j7EfOUNM83Q8NcXfkBtMpeiKt1ya3ze7q0DGJ0Ejrbam2ls3Z/WABTQj9aDR7DLa4HsQRd2L5UusxVlRPcs2CtokbZdl1xFZ6Mxlp+FUqImmw9OOi/dsA+7nhQhroU/C1FcAN5SPwLHz5bc07A2mqM9oonQ8rWBtp6u2sKxLJvn+GAc2HmKu1oZINQayPx/NJZLmNNjtVa2rospWR4xt9lIeb77RqpPoPBrQ==;6XBvlEZwt8yI1RqZWcePyA=="

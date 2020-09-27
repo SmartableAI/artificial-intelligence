@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla's full self-driving option falls short of its claim, report says"
-    excerpt: "The team assessed the EV maker’s full self-driving offering and found several of its features did not provide as much real benefit to customers as it claimed. And customers are said to be paying ..."
-    publishedDateTime: 2020-09-22T11:54:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece#!"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/teslas-full-self-driving-option-falls-short-of-its-claim-report-says/article32669026.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/incoming/yi8l3x/article32669036.ece/ALTERNATES/LANDSCAPE_615/Teslaselfdriving"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Tesla's Elon Musk promises full self-driving Autopilot beta in 'a month or so'"
     excerpt: "The CEO shared how its engineers fully overhauled the software and are almost ready to share a dramatic upgrade."
     publishedDateTime: 2020-09-22T22:14:00Z

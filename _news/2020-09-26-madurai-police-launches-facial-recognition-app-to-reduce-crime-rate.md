@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
         width: 840
         height: 560
-        isCached: true
-  - title: "Police Using Facial-Recognition Software To Catch Criminals- Because It Works"
-    excerpt: "Police have denied using this technology in the past, but Assistant Chief Horace Frank says a previous statement was an inaccurate mistake and that the agency is not trying to hide anything."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.kabc.com/2020/09/22/police-using-facial-recognition-software-to-catch-criminals-because-it-works/"
-    type: article
-    provider:
-      name: KABC
-      domain: kabc.com
-    quality: 21
-    images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/09/21133124/lapd-protect-and-s-shutterstock_106869842.jpg"
-        width: 610
-        height: 409
         isCached: true
   - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
     excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."

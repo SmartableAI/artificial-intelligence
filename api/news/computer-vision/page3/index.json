@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-02-the-best-facial-recognition-security-cameras-of-2020.md",
+      "title": "The best facial recognition security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your profile of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/O4onAnkKGXEMUhxqCMsiV1okXi4=/756x567/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020-google-nest/",
+      "publishedDateTime": "2020-09-02T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-dahua-technologys-ai-gait-recognition-technology-hits-historical-heights-on-casia-b-gait-dataset.md",
       "title": "Dahua Technology’s AI Gait Recognition Technology hits historical heights on CASIA-B gait dataset",
       "excerpt": "Dahua Technology, a globally renowned video-centric smart IoT solution and service provider, made new breakthroughs in the field of AI technology recently. Various indicators of its Gait",
@@ -1252,48 +1303,6 @@
       "provider": {
         "name": "Sydney Morning Herald",
         "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-21-a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes.md",
-      "title": "A New Tool Aims to Protect Protesters From Facial Recognition With Deepfakes",
-      "excerpt": "In an era in which facial recognition has made it easy for law enforcement and other organizations to search someone’s identity based on their face alone, the question of when it’s appropriate to share identifiable photos of protesters and activists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "originalUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/08/deeepfake-tool-PAGE-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/a-new-tool-aims-to-protect-protesters-from-facial-recognition-with-deepfakes/amp/",
-      "publishedDateTime": "2020-08-21T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
         "images": null,
         "publishers": null,
         "authors": null

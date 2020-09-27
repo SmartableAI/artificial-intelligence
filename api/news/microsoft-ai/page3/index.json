@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-28-ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure.md",
+      "title": "AI company Staqu collaborates with Microsoft to bring ‘JARVIS’ on Azure",
+      "excerpt": "AI implementation company, Staqu has collaborated with Microsoft to bring its video analytics solutions on Microsoft Azure. The collaboration enables Staqu’s proprietary video analytics solutions including JARVIS (Joint AI Research for Video Instances and Streams) to be integrated with Azure Kubernetes Service and Azure Stack Edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/mz010v/article32462744.ece/ALTERNATES/LANDSCAPE_615/ChatbotrobotvirtualassistanceArtificialintelligenceconc",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece/amp/",
+      "publishedDateTime": "2020-08-27T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-28-what-can-i-do-with-machine-learning-studio-classic.md",
+      "title": "What can I do with Machine Learning Studio (classic)?",
+      "excerpt": "Machine Learning Studio (classic) is a drag-and-drop tool for quickly building models from a library of ready-to-use algorithms and modules.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/what-is-ml-studio/azure-ml-studio-diagram.jpg",
+          "width": 780,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-27T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-27-algorithmia-unveils-mlops-for-teams.md",
       "title": "Algorithmia unveils MLops for teams",
       "excerpt": "Algorithmia Teams delivers machine learning operations and management for small groups as a pay-as-you-go cloud service",
@@ -1307,92 +1400,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsofts-new-azure-servers-deliver-powerful-nvidia-a100-ampere-ai-supercomputing-boost.md",
-      "title": "Microsoft's New Azure Servers Deliver Powerful NVIDIA A100 Ampere AI Supercomputing Boost",
-      "excerpt": "Therefore, Microsoft’s Azure is announcing their powerful ND A100 v4 virtual machine series. Each device will be kitted out with eight impressive NVIDIA Ampere A100 Tensor Core GPUs. The ND A100 v4 won’t work alone,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "originalUrl": "https://hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/52579/content/azure-machine-learning.jpg",
-          "width": 708,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-gives-ai-supercomputing-a-boost-with-new-azure-servers",
-      "publishedDateTime": "2020-08-19T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-targets-its-fastest-azure-ai-instance-to-date-at-large-neural-networks.md",
-      "title": "Microsoft targets its fastest Azure AI instance to date at large neural networks",
-      "excerpt": "Microsoft Corp. today previewed a new Azure instance for training artificial intelligence models that targets the emerging class of advanced, ultra-large neural networks being pio",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/",
-      "originalUrl": "https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/microsoft.png",
-          "width": 818,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

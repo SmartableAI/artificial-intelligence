@@ -69,15 +69,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
-  - title: "Recruiter.com introduces artificial intelligence platform"
-    excerpt: "Recruiter.com Group (OTCQB:RCRT) launched its artificial intelligence powered candidate sourcing technology capable of profiling half a billion candidates. \"The market opportunity for AI-driven ..."
-    publishedDateTime: 2020-09-22T12:49:00Z
-    webUrl: "https://seekingalpha.com/news/3616082-recruiter-com-introduces-artificial-intelligence-platform"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "06sGOCFg2itIU+91Nfdc0jnlZ8IUWPhKxfgUYJNpvvplbmUy7ZDJuv4hO9LpPt2hOdLnJaqLbYEixk0wV8IdHuEG7Tk0Zm5kApYepnfMoX+GRfqpbJOZagEuVf4oq0IL47PX8Tmccdqufm3gS55yXT59vsGoo+SY4wpv584lvlhPEqOOPgx9q/1nSQUFlcx04C/GPKwCuZNdlr/o4WAigrxNEAs5fCUHg40VQs7u69KCU+vprm9ByFUvoOxu8g2thj+mF1qfOhIphnDZ3k4ryhi+74B9tR2XhrUY7MDDp+RyuLoHoIF2uFvBjLQL8WKbjxjgYFpGWzjmrjfd/9Z8FOnGG54Xwqd0xCOfSfPdumc=;Nwo3jy2sWvNSoFqb5f8JdQ=="
 ---

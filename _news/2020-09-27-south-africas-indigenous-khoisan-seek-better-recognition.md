@@ -1,31 +1,25 @@
 ---
 category: news
-title: "South Africa’s indigenous Khoisan seek better recognition"
-excerpt: "A giant bronze statue of Mandela overlooks a big black tarpaulin tent that has become a fixture on the emerald lawns of the South Africa."
-publishedDateTime: 2020-09-27T03:35:00Z
-originalUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/"
-webUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/"
-ampWebUrl: "https://www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/amp/"
-cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/09/south-africas-indigenous-khoisan-seek-better-recognition/amp/"
+title: "South Africa's Indigenous Khoisan Seek Better Recognition"
+excerpt: "A giant bronze statue of Nelson Mandela overlooks a big black tarpaulin tent that has become a fixture on the emerald lawns of the South African president's office in Pretoria."
+publishedDateTime: 2020-09-26T21:35:00Z
+originalUrl: "https://www.barrons.com/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
+webUrl: "https://www.barrons.com/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
+ampWebUrl: "https://www.barrons.com/amp/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/south-africa-s-indigenous-khoisan-seek-better-recognition-01601092505"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Vanguard
-  domain: vanguardngr.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2020/09/Khoisan-indigenous.jpg?fit=1355%2C888&ssl=1"
-    width: 1355
-    height: 888
-    isCached: true
-
-secured: "7jsFcctWusUbkcDBUfp+7yhHQg4eB9ox9ShITSCde//WqXuZrrMGioaIj6TMLRkOs2DzdZtknDAYfyGzOZZK3IoVl1TX3JYGHl6ttw8s7n3+OVNQeD1Gy4QntkjDVur7kz7wszmIMtX3PBJMc+8ydon/xi/prkzvSzn2tikxutfI/ySoQ6TMIksfULREkT4+PO4cca7B8Y9KolN66bnY9bjLqkkfmIjetAgI4fapEKmawcM2DHVYg/6Y+qGecn4JQk+t4FTgGlZpFuVQsFbGDV2Ku7bQ1+oApVCuac/jv+OP4zP17HR3qydCZz3AChgNydvIO7DMSs+jQiOtvO/Y7B43RZgiBPJcA4f4yCqCHrw=;g5m820+ZyNL1P3biYN+JFg=="
+secured: "NkUoMeN1W/rZTnoRLGIMRzWu11i34sb/0S7pjMtfC03QP5VRado3uJgHBtUPJQsnnikyyBNC6Ztn/Jt+9oH8/0KFJvFv2E7FrbsdwpIUgnIltdFsd1qGchaCxldwZ58WErpozsXa22Bp6/AFApmkZjsE7IOAhL1kT9GqP4fltiI7GGHAqJX/8CSxj/1NwYN/usDgbJ3K4hqj/JqJs2Hld3fWwfev0r9vtESKdG0Df4ZxANsN4eOHN7Ah9fKUrxQdnsd4Sb+8mKHlT6p7WV5USPE7tsYBqFwSAOYF5/7Zgb6hPlMjqCzZGCvzwHtAUJKgwxdETEQoIufeCUAAxLLg4CutQkunzmNPXACnN4gbDmg=;m8qc/3IRESQPApb6BU+cAg=="
 ---
 

@@ -2,6 +2,250 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2020-07-10-facebooks-ai-separates-speech-in-recordings-of-up-to-5-people.md",
+      "title": "Facebook’s AI separates speech in recordings of up to 5 people",
+      "excerpt": "Facebook researchers describe an AI system that can isolate speech from recordings of multiple speakers on a single microphone.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
+          "width": 462,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-tools-for-language-access-during-covid-19.md",
+      "title": "Tools for language access during COVID-19",
+      "excerpt": "Translation services make it easier to communicate with someone who doesn’t speak the same language, whether you’re traveling abroad or living in a new country. But in the context of a global pandemic, government and health officials urgently need to deliver vital information to their communities, and",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/translate/tools-language-access-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/translate/tools-language-access-covid-19/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/tools-language-access-covid-19/amp/",
+      "publishedDateTime": "2020-07-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations.md",
+      "title": "Societal upheaval during the COVID-19 pandemic underscores need for new AI data regulations",
+      "excerpt": "How should society address the scenario where the AI algorithm got it right but from an ethical standpoint, we're uncomfortable with the results?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
+      "publishedDateTime": "2020-07-10T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-aryballe-raises-79-million-for-odor-detecting-ai-sensors.md",
+      "title": "Aryballe raises $7.9 million for odor-detecting AI sensors",
+      "excerpt": "Aryballe, which develops AI-powered products capable of detecting and analyzing scents, has raised $7.9 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AryballeTech_Lead-e1594391849695.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
+      "publishedDateTime": "2020-07-10T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-how-to-generate-structured-data-automatically-using-computer-vision.md",
+      "title": "How to Generate Structured Data Automatically Using Computer Vision",
+      "excerpt": "The best way to learn and appreciate the power of computer vision is to run a quick example. I put together a simple Colab notebook that basically follows the steps outlined in this repo from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/how-to-generate-structured-data-automatically-using-computer-vision-5f06c03959da0.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "publishedDateTime": "2020-07-10T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
       "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
       "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",

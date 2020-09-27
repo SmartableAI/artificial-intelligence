@@ -21,67 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Best facial recognition home security cameras to buy this year"
-    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces."
-    publishedDateTime: 2020-09-22T11:46:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+  - title: "DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web"
+    excerpt: "Traveler’s faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web."
+    publishedDateTime: 2020-09-24T19:50:00Z
+    webUrl: "https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: VICE
+      domain: vice.com
     quality: 89
     images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
-    images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
-        isCached: true
-  - title: "Singapore to become first to use facial recognition in national identity scheme"
-    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
-    publishedDateTime: 2020-09-26T18:51:00Z
-    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 55
-    images:
-      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
-        width: 647
-        height: 340
-        isCached: true
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
-    type: article
-    provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
-    images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
+      - url: "https://video-images.vice.com//articles/5f6ccbdc98c1d9009cb46dbf/lede/1600965870073-gettyimages-905553688.jpeg?crop=1xw:0.7347xh;0xw,0.1422xh"
+        width: 4875
+        height: 2738
         isCached: true
 
 secured: "sC3EiJz0llIHgNzS0zWmiSXVJ0vQuQfZN4Of8I8ERgDsRHQSKb4agZjOb7pcC5pDpixG32P7FdSvkuEqEqvPuCUVHEPckkz1wBmeNbkctPC7KxhsmlMvAkJQIaJLSVyvHlEEqe/IX6lXWa13odxjyXwwoua+gNdLFRnQmDimDGG3BPJiUb4vMRc54FYZPwdcKz1e1wYFiTgQrMFWXs1bLxupOXsuV7wINE0lL2DBHvQTZxNLywSu6sqRLISNe8Yt4IKE45/FI/iJRQjKVs+bjGHPV0a5pZc2lnNB6OY8YYnCGL37v3lRDUwNoJbHwNdL1q5wRJeXMedpqSn1y9+r4oT55r5ccuPD3B2nKnadf5fgR9I2W5cFHlcl80ZXvyfL2iMvVJDYWTIzb61zm9+ow0Cgd/onpVxOM/AnGLvYqn9gXuwVO/W06WTR4yy2Fa6TfxA0CSljBJIb9JK2PMUmWmblWcdKWO031c9qsYGMgBMtkwPfCF7Xvfm/Q1EJmw/SpNI6ALrM4Dy1vhQqLq8m9Q==;NpGNU1wDjy1h1W+uIjle5A=="

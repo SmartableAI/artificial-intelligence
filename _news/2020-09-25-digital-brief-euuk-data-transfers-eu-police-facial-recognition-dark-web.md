@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/digital/news/digital-brief-eu-uk-
 webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-eu-uk-data-transfers-eu-police-facial-recognition-dark-web/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "MEPs raise concerns on EU plans for police facial recognition database"
-    excerpt: "MEPs on the European Parliament's Civil Liberties Committee have questioned EU plans to establish a bloc-wide facial recognition database for use by police authorities, citing the potential abuse of data as well as the likelihood of false positives."
-    publishedDateTime: 2020-09-22T11:44:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/meps-raise-concerns-on-eu-plans-for-police-facial-recognition-database/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 54
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/shutterstock_1214866462-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "bleG1Z35WyDIprkMhSIdCscWkKzkYbprO9TIW1ifIfIwGma/lEIdJXoOvHQLAdOVRc1HKe/JDc9pMFIOhQgz2IqL71fQLw0tfH/ppPhs95l6/c1UsFlDuIaNyjrlW1jx2BbTQginApPXopHJbi1L1XzExstxQyzfS0P5oBMeiFsJXtlTpRqY6B58DaKjdXrnWxWnqVfsloc0PEuYXGyefbPwAZbmsJo72Rjst2cO5cmqsbZTmyy6LuTzdaVRmDQYOV4C4mLBHkoyrl16HPtnspS3V6oY+pNhwXN0o9VLV3Pe447Uu0/NlAmXzNv/PBJ4wAJLgnktytSxDTNEeb8djG4t+yG2Gh+kdwtaRLsa3oE=;vMIbfD7DcasyFtJwq+wp2g=="
 ---

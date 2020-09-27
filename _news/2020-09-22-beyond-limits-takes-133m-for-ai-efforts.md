@@ -32,20 +32,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Israeli Pain Monitoring Startup Medasense Raises $18M in Series C Round"
-    excerpt: "Considering 3the complex nature of pain, Medasense technology uses a unique multi-parametric sensor platform and advanced AI algorithms to convert complicated ... \"Medasense is a model startup, having successfully introduced a disruptive medical device ..."
-    publishedDateTime: 2020-09-22T12:37:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/israeli-pain-monitoring-startup-medasense-raises-18m-in-series-c-round-301135201.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1278423/Medasense_NOL_Monitoring_Surgical_Settings.jpg?p=facebook"
-        width: 1593
-        height: 834
-        isCached: true
 
 secured: "3wZgYcBFJ6vZDBlJ7E7ydaaGN7AirK99TpbO5NZyzHz+vlnCOKu5lxmuvWeTzPQjcfQ94oYwiFG5YuzwgfKQNknTO9JsiRnBCVCGbmnDJckS7yewjwVHw9G7vPgXS4gF8P58Vd4paKn0hSRRJ1FAlam5y6iQ1CM3/UIHWAfWfIWESjmalX1TTNubb9+VIrGevqaSrEgwcv0/qO/iUg3jlnJIhfBWYWqIOw+aMuuBjfsBhpETmfd/8aXrEg7DqEjOr1k3PUdnFz7RXTWPGlaX7Cg+uCFpIvr5zDnqKCCJtffoQ2M4nZJAH4YAVrAbp0aHKsWSrwJMddJPwKaEqg2wlWLvajQpo8O494SNnnT4iKg=;PSbVgUQazKBri8GyUyKU3w=="
 ---

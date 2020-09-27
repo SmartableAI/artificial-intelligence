@@ -25,6 +25,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "YI Technology Unveils Two New Advanced Artificial Intelligence Home Security Solutions"
+    excerpt: "YI has pioneered the development of a series of AI-enabled camera processing integrated circuits (ICs) which power Kami Mini and YI Dome Camera U. The sophisticated System-On-a-Chip (SoC) processing leverages Edge-based AI allowing for more advanced ..."
+    publishedDateTime: 2020-09-22T15:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/yi-technology-unveils-two-new-advanced-artificial-intelligence-home-security-solutions-301135853.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://i1.ytimg.com/vi/-5HcK_Z604o/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+
 secured: "8jqj4IkP5oOl51gE0S+5iYv2KgP3INFTcrQtYo9WX3+8lB9QoO0iQ3cybntLP3gUdluKtpncZupmMD+CdsUHFoIjcg8+QLz+Q28qrhQY7uTIUVEfcf9VOzeSj8Lii0Njdy85oS4Eq9zVChjI+mF56RpaTmfb001buK+6ZURcbZ4jb2Fjh0RBTzq/OGSLGGfXdBI8kyUKXSfp0nUzib/TL0cXktp+qOAy2ArMzPhiEbc18BE0WygBMg6e3AtW4+Bb56I/XA5jKD/wIm0+cV0km+1wKuY8zOSWJY9k63f4JxBTSlgHqLbltwo/rIgAn1v/X2lngq6fvE675HMeY+HtNJTRsUi8sbdnbiyEEQA3R6E=;XH6CCi2J4+Rm15IFev7QzA=="
 ---
 

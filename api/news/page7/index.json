@@ -2,6 +2,184 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-20-when-ai-in-healthcare-goes-wrong-who-is-responsible.md",
+      "title": "When AI in healthcare goes wrong, who is responsible?",
+      "excerpt": "In all these cases, studies suggest AI outperforms human doctors in set tasks. But when something does go wrong, who is responsible? There’s no easy answer, says Patrick Lin, director of Ethics and Emerging Sciences Group at California Polytechnic State University.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
+      "originalUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/09/2020-08-22T142247Z_1828428544_RC22JI9OLR4W_RTRMADP_3_HEALTH-CORONAVIRUS-MEXICO-ROBOT-e1600448079302.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/amp/",
+      "publishedDateTime": "2020-09-20T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.md",
+      "title": "AdvisorNet Financial Inc Cuts Position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)",
+      "excerpt": "AdvisorNet Financial Inc trimmed its holdings in shares of Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 5.4% in the 2nd quarter, according to its most recent disclosure with the SEC.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html",
+      "originalUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/09/19/advisornet-financial-inc-cuts-position-in-global-x-robotics-artificial-intelligence-thematic-etf-nasdaqbotz.html/amp",
+      "publishedDateTime": "2020-09-19T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-ibm-says-us-should-adopt-new-export-controls-on-facial-recognition-systems.md",
+      "title": "IBM says U.S. should adopt new export controls on facial recognition systems",
+      "excerpt": "IBM Corp said on Friday the U.S. Commerce Department should adopt new controls to limit the export of facial recognition systems to repressive regimes that can be used to commit human rights violations.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "originalUrl": "https://cn.reuters.com/article/ibm-facial-recognition-exports-idCNL1N2G8043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200911&t=2&i=1533045806&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8A0YL",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2G8043",
+      "publishedDateTime": "2020-09-19T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-new-self-driving-truck-unveiled-in-china.md",
+      "title": "New self-driving truck unveiled in China",
+      "excerpt": "China's state-owned truck manufacturer First Automotive Works Jiefang Co. Ltd (FAW Jiefang) recently rolled out a self-driving heavy-duty truck J7.",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "originalUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/economy/new-self-driving-truck-unveiled-in-china/amp/",
+      "publishedDateTime": "2020-09-19T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-artificial-intelligence-ai-governance-market-2020-all-major-industrial-aspects-and-covid-19-impact-analysis.md",
       "title": "Artificial Intelligence (AI) Governance Market 2020 All Major Industrial Aspects, and COVID-19 Impact Analysis",
       "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
@@ -324,6 +502,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-vision-processing-unit-market-roadmap-for-recovery-from-covid-19growing-adoption-of-deep-learning-and-ai-to-boost-the-market-growth-technavio.md",
+      "title": "Vision Processing Unit Market- Roadmap for Recovery from COVID-19|Growing Adoption of Deep Learning and AI to boost the Market Growth | Technavio",
+      "excerpt": "Technavio has announced its latest market research report titled 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the vision processing unit market and it is poised to grow by USD 892.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
+      "originalUrl": "https://www.businesswire.com/news/home/20200918005312/en/Vision-Processing-Unit-Market--Roadmap-for-Recovery-from-COVID-19Growing-Adoption-of-Deep-Learning-and-AI-to-boost-the-Market-Growth-Technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200918005312/en/822702/23/IRTNTR43075.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-18T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -963,242 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market by Production, Share, Size, Import, Export and Consumption Forecast and Top Manufacturers by 2026",
-      "excerpt": "Global “Artificial intelligence (AI) Chips Market” report includes overview of industry characteristics, manufacturing technology, industry chain analysis and latest market trends and dynamics. The Artificial intelligence (AI) Chips Market report also explores future trends for supply,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-by-production-share-size-import-export-and-consumption-forecast-and-top-manufacturers-by-2026-2020-09-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune.md",
-      "title": "Pluralsight Named One of the Best Workplaces for Women by Great Place to Work® and Fortune",
-      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune-1029602775",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-named-one-of-the-best-workplaces-for-women-by-great-place-to-work-and-fortune-1029602775",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions.md",
-      "title": "Artificial Intelligence Technology Solutions Announces New Subsidiary Focused on Mobile Robotic Solutions",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce that it has created a new, wholly-owned subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-new-subsidiary-focused-on-mobile-robotic-solutions-1029602722",
-      "publishedDateTime": "2020-09-18T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028.md",
-      "title": "Artificial Intelligence Chip Market 2020: Industry Trends,Growth, Trends, and Forecast 2028",
-      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-2020-industry-trendsgrowth-trends-and-forecast-2028-2020-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-18T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care.md",
-      "title": "Conversational AI: A Boon For Business, But Choosing The Best Fit Requires Care",
-      "excerpt": "An increasing number of businesses are trialing cognitive artificial intelligence, but that doesn't mean they should jump on board the AI bandwagon with reckless abandon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63a3454d741880d2c57eaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/18/conversational-ai-a-boon-for-business-but-choosing-the-best-fit-requires-care/amp/",
-      "publishedDateTime": "2020-09-18T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

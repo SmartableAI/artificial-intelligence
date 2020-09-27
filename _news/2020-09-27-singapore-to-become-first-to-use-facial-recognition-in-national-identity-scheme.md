@@ -27,62 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Best facial recognition home security cameras to buy this year"
-    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your list of known faces."
-    publishedDateTime: 2020-09-22T11:46:00Z
-    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-this-year/"
+  - title: "Singapore hopes artificial intelligence will help boost its tourism industry"
+    excerpt: "Local start-ups like Vouch and Travelstop are betting on their AI-powered systems to help the country navigate new security standards, as Singapore prepares to reopen its borders again after months of coronavirus travel restriction."
+    publishedDateTime: 2020-09-24T00:54:00Z
+    webUrl: "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
     images:
-      - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook Illinois Settlement: How to Get a Payout in $650 Million Facial Recognition Class Action"
-    excerpt: "When the tag feature is enabled, the social network uses face recognition technology to analyze photos and videos it believes a user is in and creates a template. The template is then used to recognize users as they appear in other photos or videos."
-    publishedDateTime: 2020-09-23T12:26:00Z
-    webUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779"
-    ampWebUrl: "https://www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-illinois-face-recognition-settlement-submit-claim-payout-1533779?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 76
-    images:
-      - url: "https://d.newsweek.com/en/full/1641098/facebook-logo.jpg"
-        width: 2500
-        height: 1627
-        isCached: true
-  - title: "City Restricts Facial Recognition Technology"
-    excerpt: "Pittsburgh City Council voted on Tuesday to restrict police usage of facial recognition technology. Pittsburgh Botanic Garden Targeted By HackersHackers breached the security of a company Pittsburgh Botanic Garden uses for financial management."
-    publishedDateTime: 2020-09-23T08:15:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/4729215-city-restricts-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
-  - title: "Facial Recognition Tech That Works With Masks"
-    excerpt: "Facial recognition algorithms work by measuring a face’s features – their size and distance from one another, for example – then comparing these measurements to those from a photo stored in a passenger’s ePassport or travel document. As this ..."
-    publishedDateTime: 2020-09-23T15:34:00Z
-    webUrl: "https://apex.aero/2020/09/23/facial-recognition-tech-works-masks"
-    type: article
-    provider:
-      name: APEX
-      domain: apex.aero
-    quality: 39
-    images:
-      - url: "https://apex.aero/wp-content/uploads/2020/09/Untitled-design-3.png"
-        width: 1024
-        height: 678
+      - url: "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088"
+        width: 5568
+        height: 3712
         isCached: true
 
 secured: "8Q1ykcdhXKmSu8Rkh/uYV/KRJItSFfHeBn+5xIXX1LefK9IuwkLwbraQ9LXaMijGxZeg6nATEPvc3PJX2XDiv5+WGnWiKcxnDJCfRECX2Y3tSg23wijCXS3JdpR1zQfiaB80gzpd9bySncmMSYNGWfB+8Q/yA8KJ94dyrarRWnhar+1gj7OMY7MwAkG3cBV8tnnnHC03+GE9N1wSGXQY4kbswqnnNGKIDas9MDbqSqWpNafOo4817624W0vy/facYVpOadG7X6pTvrJ5l8kCAfuOYVxr89VgaCC9JsDod5irG5wzAVOle9u8vkw3ZlQQ/+7mwgeP59sguZnLi+4GoI8xXHr7394HnqfLBEkW704=;7TpJOI8W1en4h37h7v8JZA=="

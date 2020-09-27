@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 5568
     height: 3712
     isCached: true
+
+related:
+  - title: "Singapore to become first to use facial recognition in national identity scheme"
+    excerpt: "Singapore will be the first country in the world to use facial recognition as part of its national identity scheme. This new technology will"
+    publishedDateTime: 2020-09-26T18:51:00Z
+    webUrl: "https://www.buzz.ie/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    ampWebUrl: "https://www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/amp/news/singapore-facial-recognition-in-national-identity-scheme-390534"
+    type: article
+    provider:
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 55
+    images:
+      - url: "https://img.resized.co/buzz_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJ1enouaWVcXFwvdXBsb2Fkc1xcXC8yMDIwXFxcLzA5XFxcLzI2MTkyMjM2XFxcL1BBLTU1Mzg0OTQ2LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5idXp6LmllXFxcL2lcXFwvbm8taW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjI3NjRmYThhZjlhNWIyOWM5MGI5ZDc1ZmQyYTc4NzY5ZTIxN2I1YjIifQ==/pa-55384946-1024x683.jpg"
+        width: 647
+        height: 340
+        isCached: true
 
 secured: "nLX/j8CHQ4YIGjx9zZIwCsU7gqC7m38QoFRCiipFhF5+c4N+wr7BhzuO9Xct+7HRIW8fagFeiTixidccx0XPK3hQaSNKZ7jJjfEqYTw3rqPiy7lDUo2VJeQ8OsKjRvLYCamJiApMWgDKAK9MKkZZ/VLm5s5qk7VSER2F74a5rsJjHm54Cj9UIG+gKe0pKYQyt4y8XxORVAmTYXYcGTSS83u3Y5It2RLyF6QVYGK6HEwozIVytGi25sQxIGUdVjL8MZAkzqVqoTVI6t+p3DprHuJRouO3qMvwGTG1QLfdwSoH5gpovi5TTJ/7iuevzBUoE1SoSFv5NyMx4BuvfYtHJ6X07teSRJKBiyupWR3MUnc=;PorvgMUO7/RkZgPgqdBu6A=="
 ---

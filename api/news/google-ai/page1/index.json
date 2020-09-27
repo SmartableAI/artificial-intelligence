@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2020-09-21-gowin-semiconductor-launches-goai-20-for-embedded-machine-learning-inference.md",
+      "title": "GOWIN Semiconductor Launches GoAI 2.0 for Embedded Machine Learning Inference",
+      "excerpt": "GOWIN Semiconductor Corp., the world’s fastest-growing programmable logic company, releases the latest version of their GoAI machine learning platform, providing an SDK and accelerator to perform machine learning for edge inference using convolutional neural networks on GOWIN FPGAs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5",
+      "originalUrl": "https://apnews.com/globe-newswire/d1e2636d66efe74334839d6e7f1fded5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-qualcomm-details-cloud-ai-100-chipset-announces-developer-kit.md",
       "title": "Qualcomm details Cloud AI 100 chipset, announces developer kit",
       "excerpt": "Qualcomm shared details about the Cloud AI 100 chipset it announced last year, along with the Cloud Edge AI Development Kit.",
@@ -1312,57 +1355,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-04-google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations.md",
-      "title": "Google Maps and DeepMind enhance AI capabilities to improve route calculations",
-      "excerpt": "It has been nearly 13 years since Google Maps started providing traffic data to help people navigate their way around, alongside providing detail about whether the traffic along the route is heavy or light,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "originalUrl": "https://www.zdnet.com/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/09/04/a8609e80-d074-42bc-a7e7-1886fa83729e/google-maps-eta.jpg",
-          "width": 1055,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-and-deepmind-enhance-ai-capabilities-to-improve-route-calculations/",
-      "publishedDateTime": "2020-09-03T18:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
