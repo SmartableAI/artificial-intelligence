@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Palestinian Leader Calls for New Peace Process in UN Speech"
-excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”."
-publishedDateTime: 2020-09-25T15:46:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-webUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
+title: "Palestinian leader calls for new peace process in UN speech"
+excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
+publishedDateTime: 2020-09-25T15:43:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
 type: article
-quality: 54
-heat: 74
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Palestinian leader calls for new peace process in UN speech"
@@ -56,6 +58,6 @@ related:
         height: 682
         isCached: true
 
-secured: "U0kvcvg/SMupaceDtBrRhZGQevJznXvjMiex8swA7fUcU6pKYBlu5mqba39+ehKaZz91dtWJygGpuQcLIP7O5z80wKyq5P253Hjuw71UV8PDMoWyDIiCsHVzqaQELfx5/YhPvTTB4ixOHdnJaO/HuqTo47v8Wm2gCdGKRl/QDjdZLYgGXZYqzSDsDMYDdZYZaR1FkQRK1+gghyOSWo+r+EPTUlmmA3S/0JSaIbdb+vifDq93HJbEv9dK9QbrQ3FqvDXUn5wJ4V9Jm6ms9Zh8Myo6/He5lV8W30w5QSQp0DZoEqtnaKgmQm0qAmoBD6EryW124zkG/iige9SVpYV+QGDRjtjyjhYsEk40af61ux0KeK6UIAu28VQAeYTlsxFMJBLmuQ5wp2cl1lB5HeDd2SBAEc+WC59jf2suQlgg4bzmTEVlzuq67pl5oVwQdqS1+CV1Q+B/jpT7CfSCfhA1VkPfb8v6E5TVUriM0XnzXC+yUiDgg8yV3LAnKPgyy/8LeM/LKtXp407JWggSMDIH7g==;GPrJNHyLyrWoABw+eSReJw=="
+secured: "EeX3Tir9yvYKMPnGsYX68h1toBhaEOiPoVwFb8zHz4H4MecgDsGROTFHDwpZ5tTNUTLlJBSLt54+DWepz+DnxlEmf8MslPiGXtYBHRaD4tX1Ja905Onvd2Xf9M7wctkup9EvWuRJouc8lFhy0eOxg16wCW2uWHCnqvBR25tkXtWuQkIb2zrMt0W3T6TcpJLoBVDkKJKSSD6eOGHY7IjrM8K4SJOGg38rqEWiZAk6bIIllnYTqL3H+egrTElIcTOug+BGxwxYv0A7UqZkq6rx5GMz8EHmwQ28TosLnaZtGWqJz2i5v64Jpi1Kpf4LIEQEfgc4QUtqHa9gQ4FXurJnYOOGchJrg+75pgZWpE0r5PY=;taNPENdj6tk5bEX56MSdlQ=="
 ---
 

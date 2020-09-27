@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/tamil-nadu-news/madurai-police-launches-facial-recognition-app-facetagr-to-reduce-crime-rate-2301538?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2020/09/lapd.jpeg?w=1280"
         width: 840
         height: 560
-        isCached: true
-  - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
-    excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."
-    publishedDateTime: 2020-09-22T15:45:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21155232/lapd-has-used-facialrecognition-software-30k-times-in-last-decade-records-show"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 19
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/US_NEWS_CPT_CALIF_FACIALRECOGNITION_LA__1_.5f6a1b0278727.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 868
         isCached: true
 
 secured: "um0ooNprnEH1T2de0jLt4/gXbkNXdy3hRUliIyyWpNjd8gLmvvZl2HOWGdhcL8QF+Egl98nJrKn50KetEddafJlrDcjcP1ajt++VI6gT4OGUpFgMYToS8OWWYuO23lGd9EOqsrb9VE95O6D5djYxZAHJw3+2b3xW1VSgZSWnUZnCWhU7p2rH4IPaTx0kX/MtFmD3JfAyV3t69MJ8gqyiDad9Ccdxr0ULxdoGNvroglbv4/zXdW7N2P7UXqa93qFUGGlQdIShTXUDcToTSGEKWlhKtHu50Kp6EbQ2xmiQaOVqqbuxTw6YIUPFwvinCmN4FaMc9QI3GuowfrjNtZrWNaa6NRxRTJ1Z7ru4X6jZ9Vc=;gLkk4mZYaPdGlZusURKUyg=="

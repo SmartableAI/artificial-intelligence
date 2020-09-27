@@ -59,20 +59,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "LAPD has used facial-recognition software 30K times in last decade, records show"
-    excerpt: "LOS ANGELES — The Los Angeles Police Department has used facial-recognition software nearly 30,000 times since 2009, with hundreds of officers running images of suspects from surveillance cameras and other sources against a massive database of mugshots ..."
-    publishedDateTime: 2020-09-22T15:45:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21155232/lapd-has-used-facialrecognition-software-30k-times-in-last-decade-records-show"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 19
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/09/US_NEWS_CPT_CALIF_FACIALRECOGNITION_LA__1_.5f6a1b0278727.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 868
-        isCached: true
 
 secured: "HPioj8nRT3P+L8HM4WKv+BV5UHg10re8Tzijq+PV6hxqjZMsU0rKT9sBbq5o1LRVSJavahXwJTEutGheuAkQ0n8tudGgH3DNViAwRBVpueC4fwmJ1aVp+69eu0NdpsWDX8drtJxBUymd/qZO0MAqCPX4tlSbhGsONX/7BD8WlSRE4S7VfckBCvA48O07iDWhQl/RMrpsHK6ZSxAbS32kYV1I8XnBH8kVA1D2HrV7rreMkosU/7oRKmnWgOrQkPiQ0Slzpjm4LzmsNF9e6JQuLLCO6coXqHRAurKQ4j8T29QUJeiHpDHzFa0s8x053iYB5EsWPX8NZCu1ExmubrGGCXFfUYAv3C69d6y8lyUq9Sk=;lON03fFuxTzlxGTYX2NZIQ=="
 ---

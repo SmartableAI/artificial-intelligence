@@ -55,15 +55,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Qualcomm’s new Snapdragon 750G chip brings an AI-driven noise supression tech"
-    excerpt: "Xiaomi has confirmed that it will launch the first smartphone powered by the new 5G-ready Qualcomm SoC and it might arrive later this year."
-    publishedDateTime: 2020-09-22T16:02:00Z
-    webUrl: "https://pocketnow.com/qualcomms-new-snapdragon-750g-chip-brings-an-ai-driven-noise-supression-tech"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 31
 
 secured: "oc82+NeH9hyzpfHZoS8w1aojYIZHQYk3B5a9lUGNkDzFPAQbNtzPvnmaL8adrxm+x6Whe/ft10YSzhqb1YjVx2H29CWa061m5/nixaUGPmqnj9G7lGh4hKXWs/QpReXW2w2KXy8r0kWpPsVUqnLKNSYcaAF+8+7dIhub8z09PFcqsxONLClod+Sbw52Nq5o1jmnBAuWACs2OeszSFYg+xhvquw9zo8LNNwMJx9epqfSEtHNpRBAn2fiqSoLM8OChrmmaTnqmAonLF9BFAS0PqQaZnU9NgEOl6dhiNhBQCAqGIbEs9yVigKBQOQeJmT4bmjloE0cTK4Bagwu+UCAj/SVCM4svG7IfkFk07Zmsbbh4eTYxozdE/ZJ2RsuToc4jkfdo56p2zC3MA9O7PvcoPlofUi9mScNlD6efA+b4maiPC4R27+rsxSPvNjDZom6AMjH50Qxs4jYmaXB/FaWRhXGpaIzVAoqX/Qj9zq9ZettNRQRY2naw21fsp1VUrTeE5yEpYphH0k/dK+DCYEoP+g==;0YKG+caK32iPC4OTMJi5CA=="
 ---

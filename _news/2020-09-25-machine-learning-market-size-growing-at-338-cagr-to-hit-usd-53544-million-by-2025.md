@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Progressing to Achieve More than USD 12 billion Revenue Mark by 2026"
-    excerpt: "Sep 22, 2020 (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on ..."
-    publishedDateTime: 2020-09-22T16:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-progressing-to-achieve-more-than-usd-12-billion-revenue-mark-by-2026-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zobXWvh1ES/MSZE/vroZ4qLKGP2f/eqxAAa8v/jerMX/eI0EZs+QHy8K+NeHAmXpx/d3rKab2wIhk6MVP0SNEPzMbCw3IEs2MvH9mts/4pDd7Rji2UShR5oihAwZjCYpKhVQrmWx2Wj3+yTd40P79aSf0yWFZ8FShvnbKboCqqboHL8n3ZtByi1xNMHWhYE+8V88FCydUV0lppGOp1hBDq8Y4tScF+U9rIaVE9fVlOl1cw44Pgd/Q3jypBdU6NAebbG19nPlvAQxI2jASpU3eG7CNr28ezdPVQDEOo9LIn5LiD+nph9ldhfughNh/ysrUaY0rJjtnmyxJU8GNVDZfK4c3AY0QTdGzgs/h+6fuyc=;SyAr+v5nG9ImlLafhk7HzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://english.madhyamam.com/amp/technology/global-chipmaker-qualco
 cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/global-chipmaker-qualcomm-announces-snapdragon-750g-chip-with-5g-connectivity-574863"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Qualcomm’s new Snapdragon 750G chip brings an AI-driven noise supression tech"
-    excerpt: "Xiaomi has confirmed that it will launch the first smartphone powered by the new 5G-ready Qualcomm SoC and it might arrive later this year."
-    publishedDateTime: 2020-09-22T16:02:00Z
-    webUrl: "https://pocketnow.com/qualcomms-new-snapdragon-750g-chip-brings-an-ai-driven-noise-supression-tech"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 31
 
 secured: "0aFo9Nq0Xp5t58jMO2T5zSPQkJK36pbrFaIRfquy5mRhcQ5FZ9KTmZETVPPHIsBbzTprS20LGw3o3BCSf3LXoAxsmdGITUPBE44gw7W4iuvIg/BjWHQQUW5JPNbyqnQQUDWJKWLzNELbIi9DkzGafCT2hlqH1FrZR1WzN8SxDFgslqGtz+OrekRZvwmBOJxJRAGNY1vYgh6CVlG3sVi0Eoa4vN8lPlRnALTe3yRdYAK9yvKzk90X1Tn+DpPf5wC+FrD/XLp1Rw0ciNK5vREEZeuaiWTw79Qvo2rT3POn365ulxl+HW2eanwdS4b0Tr7fVP5bzErJqRO6H4wQGJxRhxmSAZ2UWMP1fqxJ4IcE6KA=;9dXTdIcFocqNtEV43ed86w=="
 ---

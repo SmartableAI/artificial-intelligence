@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
-    excerpt: "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ..."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/356406"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356406"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI-powered hiring for the enterprise"
     excerpt: "Tonya Hall sits down and talks to Mike Hudy, chief science officer at Modern Hire, about ways that AI-powered hiring kits can work for the enterprise, including the importance of adding transparency and bias mitigation to the systems."
     publishedDateTime: 2020-09-24T02:45:00Z
@@ -54,6 +38,15 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "The rise of AI-enhanced skincare"
+    excerpt: "AI and computer algorithms seemingly now extend into almost every corner of our lives. It was only a matter of time then before they reached the sensitive world of bespoke skin care."
+    publishedDateTime: 2020-09-22T23:43:00Z
+    webUrl: "https://www.warc.com/newsandopinion/news/the-rise-of-ai-enhanced-skincare/44126"
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 17
 
 secured: "XNP9WGRdn5TefJyTordZcdgi+tDdEMH34GGjgmPsRT5miD2XYQ0DkOFaYEZ8vX4nMdL9m3NBLxHgJVkMJ1FU/E0sul4Z/7OPBclMJpBXZsZ5FD4GX96C8VHDuE1zx6Yy3Q1FhOs/RuMdG+dWimty3WaLMirbcb4/3JHk88XqGaoaScDqylcTcb+/owhJQ2WUTbQHa8QuH2E2XC+q/yXq421mnm832BDO9/21LMM06+VD4SQAO8CxLjVjkoCvj/rNY45j4NZQQCnTSbLe+IOZNhD+33nRm2H1SSMzw39Ovxkzrph3YepaKMtuGwQ6vjnlpfLSFWNUTWSyG9PBJv2teNhpuxvagdEMv7nN6Ecar/A=;PIzvdZ7aCgfKvKZxRDMFkg=="
 ---

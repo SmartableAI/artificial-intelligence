@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.mercedsunstar.com/news/local/article245894580.html"
 cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/local/article245894580.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Versus The Most Dangerous Driving Month Of The Year"
-    excerpt: "Bottom-line is to please be extra careful when driving during September. One future aspect to consider involves the gradual advent of AI-based true self-driving cars. This raises an intriguing question: Will the emergence of AI-based true self-driving cars ..."
-    publishedDateTime: 2020-09-22T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/22/self-driving-cars-versus-the-most-dangerous-driving-month-of-the-year/amp/"
+  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
+    excerpt: "TEMPE, Ariz. — An Uber driver has been indicted for negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. According to the Maricopa County Attorney's Office, a grand jury indicted Rafael (aka Rafaela) Vasquez, 46 ..."
+    publishedDateTime: 2020-09-23T23:31:00Z
+    webUrl: "https://www.khou.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    ampWebUrl: "https://www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: KHOU 11
+      domain: khou.com
+    quality: 40
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f692b8b1cc60d7a2b67c0ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5295%26cropY1%3D857%26cropY2%3D3339"
-        width: 1199
-        height: 562
+      - url: "https://media.khou.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Beijing to build pilot zone for self-driving vehicles"
     excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
@@ -54,29 +54,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Technology developed for lunar landings makes self-driving cars safer on Earth"
-    excerpt: "NASA is advancing a laser-based technology designed to help spacecraft land on a proverbial dime for missions to the Moon and Mars. The technology will undergo testing on upcoming suborbital rocket launches with Blue Origin on its New Shepard rocket and ride to the Moon on several commercial landers as part of the Artemis program."
-    publishedDateTime: 2020-09-22T22:25:00Z
-    webUrl: "https://www.aerotechnews.com/blog/2020/09/22/technology-developed-for-lunar-landings-makes-self-driving-cars-safer-on-earth/"
-    type: article
-    provider:
-      name: Aerotech New
-      domain: aerotechnews.com
-    quality: 20
-    images:
-      - url: "https://www.aerotechnews.com/wp-content/uploads/2020/09/nasa-cars2.png"
-        width: 602
-        height: 554
-        isCached: true
-  - title: "When Will the Self-Driving Wallet Arrive?"
-    excerpt: "A self-driving wallet is just that - an online service you would use to receive money and buy stuff. But also, it would send your taxes to the IRS and invest a part of your cash as you wish automatically."
-    publishedDateTime: 2020-09-23T23:40:00Z
-    webUrl: "https://www.finextra.com/blogposting/19349/when-will-the-self-driving-wallet-arrive"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "LdLl9RQgwuh645Jg2mF6MjKi6zBp8ocn3zAZjeGCbNTiDyUSCs0XIijr7g6QY1SRLeO4pMm8LXkik5mEQ7S4wWYW9c6XRvdHFtVI4ZN4i9isW9mnuuQSlQol8rAtHfU8LumLe7wrtG9nNIejypu3k8nFcp3YMeOiT0icsXDesE+Ntj8v+XCfsfMO9ajei/9ndJ9K2lL+Nqe73rxwhHNPICA/Y7yjfWaiOCC1Ka3/KbmChcOi9SiJUPKJMwE2WThf/5B0OgXi9dsNlpOZMLke34kHcv5WplwegKrsCMncIPAPHKZdCQthHokPFK4AKf8J7wkzMd1QnTuY8F2mjdw0G4/wH9cGXKuCQHGZXpN2zS6OBUu5I6OWqjnph/pSXrcW9QOWQg9oaraDjQgc2wEhn3lhKvZWOJ/wGGUiG7L8U/c81JJ0TygM9GoLrL87vjlc4HMGCfUa73ICgGDdESqFW2eyoy/8gGpOsjHOkr15oVtFybmMsh2WJncnJfaFdO23LU42togqHoVpxofrUglrEg==;TVBMavdvn1mlQ6+QU6M0iw=="
 ---

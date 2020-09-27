@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Indian healthcare providers fast adopting AI-based tools: IDC"
-    excerpt: "\"While deploying AI solutions, CIOs will have to look beyond technology by ensuring strict adherence to regulatory compliance, along with data governance and ethics, to ensure public trust and scalability,\" Vallikkat added. The report looked into certain ..."
-    publishedDateTime: 2020-09-22T16:25:00Z
-    webUrl: "https://www.sify.com/finance/indian-healthcare-providers-fast-adopting-ai-based-tools-idc-news-topnews-ujwn4Egbhgijd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "Cplr7Dc+mvyKrFm8EVi4BGFjScX1eqmRet3GLCXZ2Nt+DTGrxX6kel5Il7Yd+vdgK/0BgSX3IKF9BbyJPq8VivkobTWV9ptiGp0s0rRED5JEyDl4YSv9HSRLdyB4RNEQEkGJTAZ9yYSaJPDZHAIVLQfN/1FdGEvjzdmU3ecKEqjTnsDposnAAjEG4MInM0r2DJJ9dZWgZrm/4gX0OR97O+JtzXXz7eD7i5bPvhX1V7siH8kDD6MaVkuHxT2sTwNSH4UhPXzXproqFwMnVtgS0uw2r8qJsnGQOSFBea1UQB+SS+o8TZsvRMderydEQpQturBtJ3to1qCtQ5IcNX60Dq4sFSToaLJi6n6vDPrimJzk17LqCDGbx/x/8M9jtMYjJbyDq+noBKp3XUrXN9z5XCRoREVrE4/SdCcIaY2c14dUbPjiSw7ntisUmZ/PdSouIYNBRuDugZGVQR6Feh4D609OWKWAjHRp424BecU1AuZ+8Mi5ePpVwnuNl7VsyWo/4J98zLCfrop/YIpPW7Z3iw==;KtxBXqjjlmIP67ifcaIYyA=="
 ---

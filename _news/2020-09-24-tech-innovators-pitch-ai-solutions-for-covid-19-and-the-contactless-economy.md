@@ -50,15 +50,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Indian healthcare providers fast adopting AI-based tools: IDC"
-    excerpt: "\"While deploying AI solutions, CIOs will have to look beyond technology by ensuring strict adherence to regulatory compliance, along with data governance and ethics, to ensure public trust and scalability,\" Vallikkat added. The report looked into certain ..."
-    publishedDateTime: 2020-09-22T16:25:00Z
-    webUrl: "https://www.sify.com/finance/indian-healthcare-providers-fast-adopting-ai-based-tools-idc-news-topnews-ujwn4Egbhgijd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "BUH0DWEq6k7rDN5/R1/CprtcKkQiZSYwf8OFoy+GDtOE5VKRr6V3jbdAmdWp8giI202/CSFkMF+aIryF1Vwlns/L75fFPTxI5TgjAZNErtrq3AcOTSMa9vGf7Piiyng9WXE5D/712pJvS+vYJ/mf6FRfeCzsXVb6BHcDQbSg/j+KBeQLu1OIL+s86h1h+QjaSpcTbF4BG5Gi18BXhEG+DNFM7sK6/DqKSPO6+o5q51RCuzMjk31NPrDN+B10Uaip4H9aJk5SXpEGPf1n66Lg/K2/7Vo+TvydVZIet6X/7RkBN0qj454nsS/05C9j7o7bW/vs4wo/s9ADk2DYSaxv+mRCuFd32B1qC1+A4m6+OWZqQxAAsQJPxkciR3gO2Hm/5jglJ/ZRqEQapLgQSThGFnvzF5vJbO6oMxKTr10zaI0cW6B6brsMYRZdQLMBv6Jog4Jn62X/wU01wbJf9Jd3JqP0MqKTHYCTDNKluYaOoJfJ4bvBemEFZQw8R0tTnmMD6t6uBU7kgj92Fv4nQLBltg==;8jFzgM8djAHB0pTfkrXEiQ=="
 ---

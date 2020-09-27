@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
-    excerpt: "During its Ignite 2020 conference, which kicked off virtually this morning, Microsoft announced updates to Azure Cognitive Services and Azure Machine Learning aimed at streamlining business ..."
-    publishedDateTime: 2020-09-22T15:13:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 129
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
-    excerpt: "Azure Networking, writes in today’s blog post. “With our intelligent cloud and edge strategy currently extending over sixty announced cloud regions, advanced analytics, and AI capabilities ..."
-    publishedDateTime: 2020-09-22T16:11:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft licenses the breakthrough natural language AI GPT-3"
     excerpt: "Microsoft announced that it has “exclusively licensed” OpenAI’s sophisticated GPT-3 language model that can generate disturbingly human-like text in applications ranging from commercial bots to creati"
     publishedDateTime: 2020-09-24T12:25:00Z
@@ -74,54 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fdf49deb0-fd76-11ea-afec-145aeeb4f3ac&client=amp-blogside-v2&signature=e1efb727751d470d04c033dfc8d047fc24126dc4"
         width: 600
         height: 350
-        isCached: true
-  - title: "Microsoft releases the InnerEye Deep Learning Toolkit to improve patient care"
-    excerpt: "With this in mind, the team released the InnerEye Deep Learning Toolkit as open-source software today. Built on top of PyTorch and integrated heavily with Microsoft Azure, the toolkit is meant to ease the process of training and deploying models."
-    publishedDateTime: 2020-09-22T18:01:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-the-innereye-deep-learning-toolkit-to-improve-patient-care/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 103
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600790738_1400x788_innereye_still_nologo-5f653b8eedf12_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "They can be used to handle analytics and to do AI processing locally on the devices. Microsoft also is announcing new Azure Arc capabilities at Ignite this week. Azure Arc-enabled servers, initially announced a year ago at Ignite, is now generally ..."
-    publishedDateTime: 2020-09-22T16:49:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
-        width: 980
-        height: 597
-        isCached: true
-  - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications"
-    excerpt: "Amazon recently launched an AI-powered contact center product ... Voice, video, and chat capabilities are available through Azure Communication Services APIs and software development kits ..."
-    publishedDateTime: 2020-09-22T15:02:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "A universal translator that allows instantaneous communication between speakers of different languages. The TARDIS does it in Doctor Who, the babble fish serves that function in The Hitchhiker's Guide to the Galaxy,"
@@ -139,22 +59,6 @@ related:
         width: 2540
         height: 1042
         isCached: true
-  - title: "Microsoft debuts new Search features and SharePoint Syntex"
-    excerpt: "Microsoft today introduced new features for Microsoft Search, alongside a new product -- SharePoint Syntex -- and Power Automate Desktop."
-    publishedDateTime: 2020-09-22T15:04:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-debuts-new-search-features-and-sharepoint-syntex/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Lands Exclusive License for OpenAI's Astonishing GPT-3 Model"
     excerpt: "Microsoft is having a hell of a week. On Monday, the company announced a $7.5 billion deal to acquire Zenimax and all of its big video game properties. In one move, the Xbox platform’s future suddenly looked a lot brighter."
     publishedDateTime: 2020-09-23T03:04:00Z
@@ -171,64 +75,37 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft introduces Azure Communication Services: Know details"
-    excerpt: "Azure Communication Services makes it easy to add voice and video calling, chat, and SMS text message capabilities to mobile apps, desktop applications, and websites with just a few lines of code."
-    publishedDateTime: 2020-09-24T08:18:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-azure-communication-services-announced-651828"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-azure-communication-services-announced-651828"
+  - title: "Microsoft exclusively licenses OpenAI’s groundbreaking GPT-3 text generation model"
+    excerpt: "Microsoft has expanded its ongoing partnership with San Francisco-based artificial intelligence research company OpenAI with a new exclusive license on the AI firm’s groundbreaking GPT-3 language model ... research work and translate it into real ..."
+    publishedDateTime: 2020-09-22T20:23:00Z
+    webUrl: "https://www.theverge.com/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 89
+      name: The Verge
+      domain: theverge.com
+    quality: 83
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/09/microsoft-1599791199.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/ni1Mz8B9Jaj7Knw_mBf8gkHOjus=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67451151/acastro_180226_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint"
+    excerpt: "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools."
+    publishedDateTime: 2020-09-25T01:35:00Z
+    webUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html"
+    ampWebUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg"
         width: 1200
-        height: 678
-        isCached: true
-  - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
-    excerpt: "Microsoft MSFT announced major developments to its Teams ... It can also leverage other features of the platform including Azure Cognitive Services. The communication service is encrypted and adheres to HIPAA (Health Insurance Portability and ..."
-    publishedDateTime: 2020-09-23T16:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-at-ignite%3A-additions-to-azure-teams-app-and-more-2020-09-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "Microsoft Search to get a boost through AI and external search indexing"
-    excerpt: "Microsoft Graph connectors will enable Microsoft Search to search through external services such as Adobe ... will also gain new options for admins to receive feedback. Azure Cognitive Search will also integrate with Microsoft Search, allowing people ..."
-    publishedDateTime: 2020-09-22T15:02:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-search-microsoft-teams"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-search-microsoft-teams?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-search-microsoft-teams?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 74
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019-fw1x-fw1x.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
-    excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
-    publishedDateTime: 2020-09-23T19:13:00Z
-    webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-    ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
-        width: 457
-        height: 305
+        height: 800
         isCached: true
   - title: "Microsoft nabs exclusive license to key AI program"
     excerpt: "Microsoft announced a deal Tuesday that will give it the exclusive license to OpenAI's GPT-3 language model, a tool that uses machine learning to generate remarkably human sounding text. Why it matters: The deal provides a way for many companies to have access to the technology while seemingly allowing Microsoft to establish guardrails and parameters for how the technology can be used."
@@ -262,19 +139,21 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "dotData Enterprise is Now Available on Microsoft Azure"
-    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
-    publishedDateTime: 2020-09-25T14:40:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
+  - title: "Microsoft acquires exclusive license for Elon Musk’s largest GPT-3 AI language model"
+    excerpt: "Microsoft is expanding its partnership with billionaire Elon Musk’s OpenAI as it acquires an exclusive license for GPT-3. GPT-3 is the largest and most sophisticated AI language"
+    publishedDateTime: 2020-09-23T05:36:00Z
+    webUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/articleshow/78269391.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/amp_articleshow/78269391.cms"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 71
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 67
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://www.businessinsider.in/thumb/msid-78269425,height-275,width-412,imgsize-101751/tech/enterprise/news/microsoft-acquires-exclusive-license-for-elon-musks-largest-gpt-3-ai-language-model/vs-3.jpg"
+        width: 412
+        height: 275
         isCached: true
   - title: "Microsoft And Shell Announce New Partnership To Use Artificial Intelligence And Tech To Reduce Carbon Emissions"
     excerpt: "Microsoft and Shell have just announced a partnership to work together to use technology and artificial intelligence to help them address their emissions challenges, reduce CO2, and transition towards the use of renewable energy."
@@ -306,37 +185,21 @@ related:
         width: 422
         height: 208
         isCached: true
-  - title: "Microsoft Ignite: Revamped Teams and Azure options in offing to ease enterprises through Covid-19"
-    excerpt: "On top of this, Azure Stack Hub – which is intended for use within edge computing environments – will now come equipped with support for graphics processing units (GPUs), Microsoft also announced, so users can run compute-intensive machine learning ..."
-    publishedDateTime: 2020-09-22T15:09:00Z
-    webUrl: "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19"
-    ampWebUrl: "https://www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252489399/Microsoft-Ignite-Revamped-Teams-and-Azure-options-in-offing-to-ease-enterprises-through-Covid-19?amp=1"
+  - title: "The Next Big Breakthrough in AI Will Be Around Language"
+    excerpt: "The big breakthroughs in AI will be about language. The 2010s produced breakthroughs in vision-enabled technologies, from accurate image searches on the web to computer vision systems for medical image analysis or for detecting defective parts in manufacturing and assembly,"
+    publishedDateTime: 2020-09-23T13:10:00Z
+    webUrl: "https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
+    ampWebUrl: "https://hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 61
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-backup-network-adobe.jpg"
+      - url: "https://hbr.org/resources/images/article_assets/2020/09/Sep20_23_183428120-4.jpg"
         width: 1200
-        height: 400
-        isCached: true
-  - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
-    excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"
-    publishedDateTime: 2020-09-24T11:11:00Z
-    webUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsofts-azure-communication-services-handles-enterprise-video-voice-and-text-communications-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 57
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/09/Microsofts-Azure-Communication-Services-handles-enterprise-video-voice-and-text.png"
-        width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
@@ -422,20 +285,6 @@ related:
         width: 1363
         height: 766
         isCached: true
-  - title: "Microsoft's Azure Defender for IoT Uses CyberX Tech"
-    excerpt: "Azure Defender for IoT is built to help IT and OT teams discover IoT and OT assets, identify critical flaws, and detect malicious behavior."
-    publishedDateTime: 2020-09-23T18:41:00Z
-    webUrl: "https://www.darkreading.com/iot/microsofts-azure-defender-for-iot-uses-cyberx-tech/d/d-id/1338996?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "A Microsoft-powered instant two-way translator"
     excerpt: "Powered by Microsoft's automatic speech recognition software and OrionStar AI Technology, the device is meant to provide users with instant two-way translation in 73 languages while displaying text on a 1.54\" IPS-LCD touch-screen, which offers a text-to ..."
     publishedDateTime: 2020-09-25T07:42:00Z
@@ -447,22 +296,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
-  - title: "Microsoft unveils communication platform to help users connect better with businesses"
-    excerpt: "In an effort to help customers connect better with businesses in the remote working times, Microsoft has announced Azure Communication Services which is the first fully managed communication platform offering from a major Cloud provider."
-    publishedDateTime: 2020-09-24T07:05:00Z
-    webUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803"
-    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-unveils-communication-platform-help-users-connect-better-businesses-133803?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 52
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Microsoft_1200-min.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft unveils a new AI-powered tool for spotting deepfaked images and videos"
     excerpt: "The tool was announced as part of Microsoft's effort to help prevent election interference in the form of digital manipulation."
     publishedDateTime: 2020-09-26T16:08:00Z
@@ -493,20 +326,6 @@ related:
         width: 740
         height: 467
         isCached: true
-  - title: "Microsoft to Advance Cloud-Based Satellite Data Processing With Azure Orbital"
-    excerpt: "Microsoft (Nasdaq: MSFT) has launched a ground station as a service designed to help customers communicate with their satellites and downlink and process satellite data using the Azure cloud platform."
-    publishedDateTime: 2020-09-23T10:01:00Z
-    webUrl: "https://www.govconwire.com/2020/09/microsoft-to-advance-cloud-based-satellite-data-processing-with-azure-orbital/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 51
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/09/23/de/91/de/dc/31/54/b4/a4/a0If300000N9uaUEAR-microsoft-20190109.jpeg"
-        width: 272
-        height: 270
-        isCached: true
   - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
     excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
     publishedDateTime: 2020-09-23T23:32:00Z
@@ -535,76 +354,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
-    excerpt: "“Once data is delivered to the end point in customers’ virtual network, customers can then use other Azure services like AI or ML, or even Azure Cognitive Services for that matter, to ..."
-    publishedDateTime: 2020-09-22T19:04:00Z
-    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to"
-    publishedDateTime: 2020-09-23T06:38:00Z
-    webUrl: "https://tucson.com/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_c57e3917-3762-5f53-97d5-19d69a84fd01.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-        width: 620
-        height: 290
-        isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "... will enable our partners’ customers to on-ramp their data into Azure where it can immediately be processed with market-leading data analytics, geospatial tools and machine learning services, adding another layer of automation and intelligence in ..."
-    publishedDateTime: 2020-09-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-69652.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 44
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
-        isCached: true
-  - title: "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory"
-    excerpt: "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve"
-    publishedDateTime: 2020-09-22T22:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 42
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005002/en/820130/23/Microsoft-Azure-AD-B2C-Flowchart_%281%29.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Ignite 2020: Microsoft Search is coming to Windows Search, Graph Connectors now generally available"
-    excerpt: "Microsoft announced this morning some important updates for Microsoft Search, the company’s new cohesive search experience that delivers personalized search results across Office 365, Windows, and"
-    publishedDateTime: 2020-09-22T15:41:00Z
-    webUrl: "https://www.onmsft.com/news/ignite-2020-microsoft-search-is-coming-to-windows-search-graph-connectors-now-generally-available"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 40
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/09/Microsoft-Search.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Top Announcements From Microsoft Ignite 2020 Conference"
     excerpt: "Microsoft announced a flurry of updates targeting their Azure cloud services. These include healthcare, edge and more."
     publishedDateTime: 2020-09-25T05:42:00Z
@@ -619,24 +368,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
-  - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
-    excerpt: "Now in preview, Azure Orbital on-ramps your data directly into Azure, where it can immediately get processed with market-leading data analytics, geospatial tools, machine learning, and Azure AI services. \"Whether you choose to use Microsoft' or partner ..."
-    publishedDateTime: 2020-09-22T15:52:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-takes-on-aws-unveils-azure-orbital-to-enter-space-biz-news-topnews-ujwpOCfjjbaca.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
   - title: "Microsoft takes on AWS, unveils Azure Orbital to enter space biz"
     excerpt: "and Azure AI services. \"Whether you choose to use Microsoft' or partner ground stations, the digitized Radio Frequency (RF) signal from the antenna to the cloud can be transmitted using the VITA ..."
     publishedDateTime: 2020-09-22T21:26:00Z
@@ -646,28 +377,19 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "SES a “founding partner” with Microsoft Azure"
-    excerpt: "Microsoft’s Azure Orbital connectivity via the Cloud service will now benefit from the O3b satellite platform operated by SES. This is a significant expansion"
-    publishedDateTime: 2020-09-23T10:31:00Z
-    webUrl: "https://advanced-television.com/2020/09/23/ses-a-founding-partner-with-microsoft-azure/"
+  - title: "Microsoft on How SharePoint Syntex Uses AI To Address Content Management Woes"
+    excerpt: "Project Cortex team members Naomi Moneypenny and Dan Holme explain the origins of Project Syntex, how it benefits orgs with content management problems, and clarifies security and governance concerns."
+    publishedDateTime: 2020-09-25T13:14:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/25/qa-microsoft-sharepoint-syntex.aspx"
     type: article
     provider:
-      name: Advanced Television
-      domain: advanced-television.com
+      name: Redmond Magazine
+      domain: redmondmag.com
     quality: 34
-  - title: "Microsoft Ignite 2020: Empowering businesses to build resilience for today and what’s ahead"
-    excerpt: "At Microsoft Ignite 2020 coming online this week ... For Azure AI, we’re updating Azure Cognitive Services with new capabilities to streamline business processes, enabling organizations to stay resilient and committed to economic recovery while deploying ..."
-    publishedDateTime: 2020-09-23T20:25:00Z
-    webUrl: "https://news.microsoft.com/en-hk/2020/09/23/microsoft-ignite-2020-empowering-businesses-to-build-resilience-for-today-and-whats-ahead/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/427/2020/09/Satya-Nadella-1000x563-1-768x432.jpg"
-        width: 768
-        height: 432
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/NailsColorsStringsBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
 
 secured: "JrPZ/JxqAEv2GhysQQwHwI+Mtue1+3/1uUWxmckRaz6IYxBHAkAUUbJ/YeCh/p4phqc5pTWY2ctrxtwqGhtSdjbHi95yZiY4weTK2Z0InmJaW0YlDA7AamhFs7IhK0dla2xlqndKly2HNReeYd9ti1CL3jFNkyGFQgbhXEiuK8fm+V1HZGoNFx9eL3/14g54byEOSeVVJSawlXEGVuSpZ7KgEabDIegDBrfoLRLNcCnwbMWWrkNOk0iOrxk6indluZCsJKZ1Zi+K/cyX0Vlluf2ICjnzWPxQebTNNBteTlEeRq6joZ09aPSs2FMDxWEzbf9QlfWXHBD/4o3VoHdaCw3tby1/XjZGQFE33Axij74=;dF0wRAm/tbFmsVhm8raQyg=="

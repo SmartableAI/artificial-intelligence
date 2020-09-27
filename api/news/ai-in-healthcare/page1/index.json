@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-to-accrue-47575-million-by-2025-2020-09-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -979,23 +979,32 @@
     {
       "path": "_news/2020-09-10-germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center.md",
       "title": "Germany's first Ethos Therapy Ordered by the German Cancer Research Center",
-      "excerpt": "PRNewswire/ -- Varian (NYSE: VAR) today announced (DKFZ) in Heidelberg has ordered Germany's first Ethos™ therapy, an Adaptive Intelligence™ solution. This artificial intelligence (AI)-driven holistic solution is designed to increase the capability,",
+      "excerpt": "This artificial intelligence (AI)-driven holistic solution is designed to increase the capability, flexibility, and efficiency of radiotherapy. Ethos therapy delivers an entire adaptive treatment ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center-486444-1.htm",
-      "originalUrl": "https://www.medindia.net/health-press-release/germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center-486444-1.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center-301126892.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/germanys-first-ethos-therapy-ordered-by-the-german-cancer-research-center-301126892.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T22:19:00-07:00",
+      "publishedDateTime": "2020-09-09T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Palestinian Leader Calls for New Peace Process in UN Speech"
-    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”."
-    publishedDateTime: 2020-09-25T15:46:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-09-25/palestinian-leader-calls-for-new-peace-process-in-un-speech?context=amp"
+  - title: "Palestinian leader calls for new peace process in UN speech"
+    excerpt: "Palestinian President Mahmoud Abbas has called for an international conference early next year to launch a \"genuine peace process.”"
+    publishedDateTime: 2020-09-25T15:43:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/palestinian-leader-calls-peace-process-speech-73242966"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_dc953cda8c164be68954efa57304a11b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Palestinian leader calls for new peace process in UN speech"
     excerpt: "Abbas seemed to acknowledge the growing international weariness with the decades-old conflict as he delivered the latest in a long series of addresses to the U.N. General Assembly."
     publishedDateTime: 2020-09-25T22:36:00Z

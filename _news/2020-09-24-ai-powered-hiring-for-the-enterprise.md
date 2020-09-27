@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
 webUrl: "https://www.zdnet.com/video/ai-powered-hiring-for-the-enterprise/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -29,22 +29,6 @@ images:
 
 related:
   - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
-    excerpt: "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. With so many people working from ..."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/356406"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/356406"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/356406"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1600451525-krispimage4featuredimage.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "This AI-Powered App Lets You Say Goodbye to Background Noise During Video Calls Once and for All"
     excerpt: "With so many people working from home, the scourge of background noise during video calls and teleconferences is more fearsome than ever. And if you've ever been in a Zoom meeting or the like with someone else in a noisy room,"
     publishedDateTime: 2020-09-22T21:15:00Z
     webUrl: "https://www.stamfordadvocate.com/business/article/This-AI-Powered-App-Lets-You-Say-Goodbye-to-15586729.php"
@@ -58,6 +42,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The rise of AI-enhanced skincare"
+    excerpt: "AI and computer algorithms seemingly now extend into almost every corner of our lives. It was only a matter of time then before they reached the sensitive world of bespoke skin care."
+    publishedDateTime: 2020-09-22T23:43:00Z
+    webUrl: "https://www.warc.com/newsandopinion/news/the-rise-of-ai-enhanced-skincare/44126"
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 17
 
 secured: "jt5bqkoH1MRdX1RhXwfHHkM8B63OMOO7rY4delNFV/43Vv8uz8LByNRjb75YaaZuYZ5/6B81Ngti9KGK3p6yOZlo/alGcMOQPLf6jnJnVY68F8TUdL76eIRpHDBDHMOSd/8PFuVQF61kYKNKtlvv8CH5lGlbog0njJ5qWcw0Me7q3oq4yY3b2CQgMiNLLbiIBlo2e156X8y/VMcL9PxSkl1K0mal5iesi8tfLVGgg5+l7t9JDuCaKWuOqEDe8RaQWKFR12yn4eGD7uUEcPiT3T6NUs/UjW9W/4124uWHpgW/KIA0O+pksJsAK2+WyrN0r8+vmIz0FPjlemqHqHIBW6StD/m00tBJZGwWkBuH5u+O+ifrmka0+pLVMaUtUcwgV2A4XDORTGBZO0XalbWZEZBVcd6r8VWe2frm+VMk1l9/4VOQ7zLKTbTP1KsV9As8D8iyNLS8m8SEppg1b7zx83wAmKkKaMTaPmqBNMpQKbiADXKFMTPhNbz+FyLEbOAYWMNg6HjawFqWqIPL4m/M0w==;TKc62RJKMKwsRsPnU7xdtQ=="
 ---

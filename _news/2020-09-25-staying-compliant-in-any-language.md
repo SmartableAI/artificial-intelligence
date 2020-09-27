@@ -3,8 +3,8 @@ category: news
 title: "Staying compliant in any language"
 excerpt: "Financial professionals communicate in multiple languages –– including with slang and emojis, and firms need to remain compliant."
 publishedDateTime: 2020-09-25T12:26:00Z
-originalUrl: "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/"
-webUrl: "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/"
+originalUrl: "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/?tactic-page=340448"
+webUrl: "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/?tactic-page=340448"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "za3WvQzXrMkbRstGCay88s3xPlnWZrwr2PuzwBDle0o8nYFNTKk71DA9ZETg13+P5uRQwOuhLO0iAGcGiUhb1ExAm4luNQr0Qa6DpmZg9pzJdLboIT0qM2j6NfI+uxLRe1+vuidnUSQ1vDKJgtynId1CaAff9SqOvcEcFC2cdSCrCZ4TlQpk/g1w+39rQQg4iTq6r0L244K5H54VykG92eYwNauWehL6ZlETrA15UMjJ2mBFRTxh777e063GKCkQ6NCuipUFl49B0HmB5YG6/uw0jBGwv+1CWOQk2MRBn+4QCkVh9Cfb/pPAaRrPTIrQDmuCOwnpWp5/EynZvEEkwyDSDM5SRGMmAlRA99T66K/ndWIFXmACiA/hAfloHhd0Spjxo6hm/UcVCBeqP3K1XV1mpsEeRH9BJGSwz9p5/8eYlAA9VHdf6WggsvPACH62JoXuoul95PdhEYruFAlqUplE8LoE1mvZ3j0WR2790qiGN5Qv3uNQc95sH8s8ZFOM33zdzhizToPYYpGCQl7TLw==;0Wswf+o6fhj1FwYq8pF8AQ=="
+secured: "JLGNewGEiIebCKYW+4I/cc30UMlGaAi28wbEef7hyvCUV7vhudUa3Hkg+383DIJ8KRike44PwTuqR6y1IMvD1Pz8wtXiBcdbwigS0ozx4nQNLxqeSx2yha/6CF4BLh2t1pqGgxwb/SSFwCT778N4mKOx78KPpM4Be8EV1ZNKTd3XP1m6juwbYydN66JJZM/KQ2t5k2w2qKxu7/i+cdTPzGjKB75yJAUjXZPyNrRy+5CNxaGgGx+pOCXotlAysj9xRxRvILG0k74CfqtEHvcdtxjVBJubTFtNtnp9gmkqKOqvop8uHPpBc8tKbX+pcP0gh09AloO5eWZ1uSM+F2OVE2sfKoAJxu6mflwFTqurcuM=;qmSg6jXxNyjJyiuubpH+OA=="
 ---
 
