@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/ava-aware-cloud-combines-machi
 webUrl: "https://www.beyond.ai/"
 type: article
 quality: 110
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ibex Medical Analytics Wins UK Award to Accelerate Adoption of AI-Powered Cancer Detection in the NHS"
     excerpt: "Ibex Medical Analytics, the pioneer in artificial intelligence (AI)-based cancer diagnostics, has won a share of a £50 million fund as part"
     publishedDateTime: 2020-09-22T13:56:00Z

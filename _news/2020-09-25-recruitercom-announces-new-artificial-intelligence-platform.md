@@ -60,17 +60,6 @@ related:
         width: 300
         height: 222
         isCached: true
-  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
-    publishedDateTime: 2020-09-22T08:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Recruiter.com Announces New Artificial Intelligence Platform"
     excerpt: "HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. (OTCQB: RCRT) (\"Recruiter.com\"), a leading online hiring platform, announced the launch of its artificial intelligence (\"AI\") powered candidate sourcing technology. Recruiter.com's ..."
     publishedDateTime: 2020-09-22T13:40:00Z

@@ -39,15 +39,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Hexagon introduces assistive AI technology for public safety agencies"
-    excerpt: "Hexagon's Safety & Infrastructure division today introduced HxGN OnCall® Dispatch | Smart Advisor, the industry's first assistive"
-    publishedDateTime: 2020-09-22T08:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hexagon-introduces-assistive-ai-technology-for-public-safety-agencies-301135076.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "j/WCoJgAkkWsJ79lodiZGReMnqxSCCYmNTUMrPv843SNnDZ4UWlIY5VZQLnkvw3nvsyzJr74jq48tok4kAsRS34GRy9ePdcUuErkZSKehw+mR2KcZXEntK9lHgIt3OH+U8hrJJ0afd+/tXki67FVS0B46Ib+CSy8ndN3Akm+4+dYAJYemVzXH/1mbBnir6GiGhTg4WdCdjT3eRR9UgtI+FAy4ZdLJ8T2R+O3DWm6mcbg0y6sRVyRxFR+rdZ+o2TvnAe0nkahXRp84fWE6HB8z3W2O98jrbXTuH0t/SiX9cNlVfbA+s6aqYO77alQbJ8Z2NKseZ0Up7QBtcgxpQo+nxFERG9AbjhaIohHS60z8z8=;5+M4NF9cYpevcxyu8TMkqw=="
 ---

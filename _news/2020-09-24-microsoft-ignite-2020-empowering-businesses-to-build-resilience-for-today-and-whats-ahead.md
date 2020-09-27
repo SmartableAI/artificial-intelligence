@@ -221,6 +221,17 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+    excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
+    publishedDateTime: 2020-09-22T12:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
   - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
     excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
     publishedDateTime: 2020-09-22T15:00:00Z
@@ -382,20 +393,6 @@ related:
       - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
-    publishedDateTime: 2020-09-22T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft’s Azure Communication Services handles enterprise video, voice, and text communications – Jaweb"
     excerpt: "Microsoft today announced a new communications offering called Azure Communication Services that’s built on top of Azure. Microsoft says it leverages the same network powering Microsoft Teams to enable developers to add multimodal messaging to apps and websites while tapping into services like Azure Cognitive Services for translation,"

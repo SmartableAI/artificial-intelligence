@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-05-can-big-data-analytics-and-machine-learning-help-contain-wildfire-next-time.md",
+      "title": "Can Big Data Analytics and Machine Learning Help Contain Wildfire Next Time?",
+      "excerpt": "Researchers are developing tools to predict wildfire leveraging technology, real-time data to prevent devastation",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "originalUrl": "https://www.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/41411/california-fire.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/can-big-data-analytics-machine-learning-help-contain-wildfire-next-time-51201",
+      "publishedDateTime": "2020-09-05T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-machine-learning-as-a-service-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030.md",
       "title": "Machine Learning As A Service Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030",
       "excerpt": "The global Machine Learning As A Service Market stood at US$ 1,071.6 Mn in 2016. The study projects the global",
@@ -1315,57 +1357,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first.md",
-      "title": "Machine learning algorithm confirms 50 new exoplanets in historic first",
-      "excerpt": "A new machine learning technique can be used to sift through massive datasets to discern exoplanets from false positives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-algorithm-confirms-50-new-exoplanets-in-historic-first/",
-      "publishedDateTime": "2020-08-26T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

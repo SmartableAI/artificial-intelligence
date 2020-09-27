@@ -3,10 +3,10 @@ category: news
 title: "Amazon's Alexa gets a new brain on Echo, becomes smarter via AI and aims for ambience"
 excerpt: "Amazon's new Echo devices are more like edge computing hardware in enterprises where the AI processing is going local. The upshot is that Alexa will be more ambient in the smart home, but most likely coming to work with you."
 publishedDateTime: 2020-09-24T20:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+originalUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+webUrl: "https://www.zdnet.com/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-gets-a-new-brain-on-echo-becomes-smarter-via-ai-and-aims-for-ambience/"
 type: article
 quality: 80
 heat: -1
@@ -63,6 +63,6 @@ related:
         height: 267
         isCached: true
 
-secured: "fnnwsr0lIX69zCoU2EYq0cLtWBDo8BUZCyjBOpeqEKeTKDCmkqPV1Ap3KPVHGMo7a3UoIen0uEnwPwHFSgRH5oQlBXFtkgjSLDIf1p4miO6dwdh73xjqZU1EHIxE38C2BJpYLS1T+iuDHRIuylaxlKJgDYGXjltVJhETqb2sMx8JeFyMizR+KSPc91NUPp6iOXVnHLR49uraogo1FPValv2reGYSJ37B/TWk/lSmArstfizyTkZ1Tq8e30JqjH6730KoL3ZQUWY2aHtWqvSl3HqbwoOQwY4b20NWTUYRciHj2vd9c2h2aPaWhacWla7be2ki5dakBlUAxCi0ybhVCX4OWHJwPGp9qBLBGM8te2Q=;VNVyuLkW2QR2Cs0zbsH/uw=="
+secured: "AogtJImjO4zJH2UfoKcXzVNrkjNGx6nq3nfQx+tj1qUt2LCSpIGXgtaKD2Sm3eMbvsGehtuI+xSvmegk3H8eWFMhwRPXYlYEuOEbcvShEPcBT3DX6k8OpAPKDkWBStOkQdSJb4JZJOsgYDc3Zs+2i9jMi1oOii8GR7mnUNpJEk0hDi4nDAtAo5MkPv5gOXdKq0VELuBJ1VJ9rGY0yWzpJIcuN1GOGdaU8iYnWC+Dhf/pUV69FTOogvovE1SHNR/t45AESoaL4yA8bq97764HPix40YUwDESMA1OTS+/BdFWbjTqlgEuwSieiWLCAtmH9mnJgXz2YGaQj4SFqYyU7FOU8eBvlBtntL42qnglr2mY=;EZdQn+2rqPLVIxI9mF3qLA=="
 ---
 

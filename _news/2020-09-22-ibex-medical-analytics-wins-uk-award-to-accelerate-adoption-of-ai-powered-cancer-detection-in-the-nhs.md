@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "AI, Machine Learning, and Data Analytics in the Smart Home Market Analysis 2020-2028 Trends, Types, Applications and Regions"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-09-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-machine-learning-and-data-analytics-in-the-smart-home-market-analysis-2020-2028-trends-types-applications-and-regions-2020-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Maru Launches Conversational AI Analytics Tool"
     excerpt: "Tech-enabled insights group Maru has launched Conversational AI, an intelligent, device-agnostic feedback tool, as part of its Maru/HUB platform. Maru says the tool - available across messaging platforms including WhatsApp and Facebook Messenger to enhance familiarity for audiences - allows researchers and marketers to combine conversational feedback with its existing research technologies and traditional survey approaches for a more holistic understanding of consumer response."
     publishedDateTime: 2020-09-23T00:42:00Z

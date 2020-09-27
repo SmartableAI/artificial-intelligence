@@ -16,12 +16,13 @@ provider:
   name: Prime News Ghana
   domain: primenewsghana.com
   images:
-    - url: "/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.guim.co.uk/img/media/f3b9c31f9d2fde37b3c8522b7459da1902faab11/121_0_3598_2160/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbfb568b30cfc9214d8b05beaed3490a"
@@ -29,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "HnyLMqxsWHXE3nTrcCLsJ6OLmPdIkItdJ48EYiOMFWSV7fxUR1e26HXdOONTsLCkZCXOhE2uB2twUH/EE3T0R7pyzyfT3kcG56rp7o59Nm7uzqlsA2dDte9r5BTW2o21vNgZn+jO+g/VPBDSkxhrAFx0QfU9Bh9rr8iZSoSQEvh24oUQvMIbnk+kq7Ho93vFO+9HYFIo5W8Dmab49ywjjJ3dafWKEmLMhk1h+PY5QsNPTs1+QyJv/jtXNwt3eiBnmX4tmEww4ayM1Zw1EQVLRdhRlXZWH/7Hy3HJDI/feIjJe59WD9zF9KM0Ajq+OYodjAaqExcvWfGB9GplqtKtIG+oMvdepkUJ2aK4WUrtQNQ=;fGMR+isXwWaJu6b7vodtNw=="
+secured: "o7QactAhcC6CPC7Ga2Z1c65ERxS6+gofAia4NsJPJGBww+fmgSjGWWdkPYX7E7MqL6kf4rQ/rZMi1F66fMMtkbHK3BfZ/YDDE86OaKyZ1ZJ09A5Erjl9SPSH2t9fXK94mauzpN4XSsA6OUScJlvP+/fEUAtcAub1cil0G+cxBbu3FcnyaI3sTzGWIWINNNCGW017Dxc9oqXC8mjxa3aa8Ru15ItL6pBkmbj/NswXH3gObVr+ZbV2D/YjSUxilLmq4zpsb7fAeaXAYarXgUm5bdxAsv7y39XZ3z3EUj3oPECung9gATB5m9ExUM183FR+6QB0yuOrZziSx7O67IEqiWJeknsSdjuiwkkO0ZII1UzD+sQ/Di7sDAfYmRvxZsOI;c7rJ5CD2HIp9SzN0oDmf5A=="
 ---
 

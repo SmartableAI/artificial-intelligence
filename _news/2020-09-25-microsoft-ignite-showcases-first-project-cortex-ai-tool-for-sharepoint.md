@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Drives Future Change | IBM Corporation, Intel Corporation, IPsoft Inc., Microsoft Corporation"
-    excerpt: "The AI in Fintech market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players The research"
-    publishedDateTime: 2020-09-22T08:08:00Z
-    webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft on How SharePoint Syntex Uses AI To Address Content Management Woes"
     excerpt: "Project Cortex team members Naomi Moneypenny and Dan Holme explain the origins of Project Syntex, how it benefits orgs with content management problems, and clarifies security and governance concerns."
     publishedDateTime: 2020-09-25T13:14:00Z

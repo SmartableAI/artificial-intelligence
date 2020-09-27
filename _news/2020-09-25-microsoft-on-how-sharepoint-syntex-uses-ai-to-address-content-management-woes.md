@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI in Fintech Market Drives Future Change | IBM Corporation, Intel Corporation, IPsoft Inc., Microsoft Corporation"
-    excerpt: "The AI in Fintech market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players The research"
-    publishedDateTime: 2020-09-22T08:08:00Z
-    webUrl: "https://www.openpr.com/news/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    ampWebUrl: "https://www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2138902/ai-in-fintech-market-drives-future-change-ibm-corporation"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/9/T922139685_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "n3XyqpRVoOd0gs/SXNwezj43hL1EC/iW1w8lYCqSd6WHmyTsrmxzPCrRWtG36mZ09SoFRK+k7460Mjbw3XMe4KHeR4jv4s82gvVO32HHYuOJUp4nPL4LNFM6Ho91Hp9JLE5KdTxrvU2TzL0Se1PM1wIdqvHQIPjtMZne0Np8htOhu12bG21/FBqMiAKMFPslR2dftT13/hUJQSQfNR5bx6/T5JlReiOERuUK5r0loumY4JIqKMFgqtPWVEjQZ1C66AIRjxvLKgGJaluYfqOEe3WlygjQghoN0i8pwnBmljZxVnlkJmxNfu+8c6sTKRtq8Jt8piA45jX7nV4CFvQn1TKhy9iqvvl5wAClpE4CF2Y=;07AkqYQ79tAG9JxbPsOMmw=="
 ---

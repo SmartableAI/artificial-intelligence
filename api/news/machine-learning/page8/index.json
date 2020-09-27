@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
+      "title": "Did a Person Write This Headline, or a Machine?",
+      "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f177a60a5050d907f3c5f70/master/pass/business_text_1202278559.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
+      "publishedDateTime": "2020-07-22T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-a-residual-based-deep-learning-approach-for-ghost-imaging.md",
       "title": "A residual-based deep learning approach for ghost imaging",
       "excerpt": "Ghost imaging using deep learning (GIDL) is a kind of computational quantum imaging method devised to improve the imaging efficiency. However, among most proposals of GIDL so far, the same set of random patterns were used in both the training and test set ...",
@@ -1388,57 +1439,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
-      "title": "How an award-winning AI-powered software is helping students with remote learning",
-      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "publishedDateTime": "2020-07-15T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

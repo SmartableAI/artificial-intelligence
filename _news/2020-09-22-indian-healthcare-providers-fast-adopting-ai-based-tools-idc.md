@@ -44,6 +44,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
+  - title: "Tech Innovators Pitch AI Solutions for COVID-19 and the Contactless Economy"
+    excerpt: "Onto retail, Dr. Nicky Lu (Chairman & CEO of eYs3D Microelectronics and Etron Tech) champions AI-on-chip and his achievement in producing the world’s smallest DRAM semiconductors, followed by Sega Cheng (Co-founder & CEO of iKala) who presents his ..."
+    publishedDateTime: 2020-09-24T15:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005277/en/Tech-Innovators-Pitch-AI-Solutions-for-COVID-19-and-the-Contactless-Economy"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200924005277/en/824298/23/2020_AI_NOW_Online_Tech_Forum_EP1_AI_in_the_Contactless_Economy_post-event.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "q6qLBgM68aW8VhhGiUyA1NJsBRRUbn3P3da7mTATvQoJjJyGhXdSjmknh5fx7qFfQUcf3W+992d9XYX2rf/QlQ2fMoqUu8sIYu3gzIwnPv5/ZigTHmxAfouSv8+BBAehLBvAypnWX3HbvwwdpXTr+UZ2YqweFlYlZS+315XVZd1vRhHDZOQRqg1giJ/7yRrsyFS1Lfn88DBPblD1ltO0vW7RATkFpMuTNr/VJjoBO39KhEk6A0o674H243SanHHetvsdJhHOgHimrA6WeIMImxoYXAynxT7GsMhp/fO/FRocspCmw/CT+jsKh4IpXAwjIcUY7buuIC/MmDyp7RKwv11vjv3g+0tspFNV3I3nBnw=;BGtpK0osQLSsnK+/gPCNkQ=="
 ---

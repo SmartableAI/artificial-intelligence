@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "Integration of dotData's AutoML 2.0 platform with Microsoft's highly available, trusted and scalable Azure cloud platform provides increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS ..."
-publishedDateTime: 2020-09-22T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace/article_f6c327bd-10d4-5df0-beed-77fd9ceef60a.html"
+excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
+publishedDateTime: 2020-09-22T12:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
@@ -727,6 +727,6 @@ related:
         height: 432
         isCached: true
 
-secured: "SArMGSwiccm/JdsruUJgZR252Cny4e/ibVhbZ97313nzuDsPSv0xmqKLZTE0MLMAMbqqBrqikrFHpzHb0RvieQTfHlKxXFxWdEK4J8/OCXhz8Tw3pEAWO4ozwQNiy5e4HgN9iYq5ait1EuJY6rdNwUsPC8tT4fWv083uJJRuxXYuu9TjfEIHfrdUU3NS/I9v8xB2fg0x/F0Bu2a7+unpB+5otePjyYm8qdI5DoJg+wp73dtffv1OkBox54YSnpCusVsj0PfZ/qpQqh6yi+brIvJAYSFAG5NnuvP8zJgwkb4lSR2LZ75QOcOTqZDwTfoTUVvXX3Q2Xbr0ovbhLXDgRLDNKe7/IpW9UyHXwljLIHc=;jvbD+AGiWDPGe7poNVDJYw=="
+secured: "z/riZsJW0vWWcVrE1kpJgFEzdYslcx/eRDewOkyuzEH9zWA/mfL2iNhJ0UHgbrL1h0XfQkdZfMfrgCGgYkqzgKmHj/8rpvu9DmPMXiRdC+3PAHMmbrIK7Y+4AscIVsPrhxHNvLVbmCJLq6flHuH9pDTdblRcZXwLXach+f8HezCzCD8X31Jq9MZUbs9O4v86j5xJaQSz8pOUlzYkZRVAZyg2yEHmLjAGG6oyaiBuSSItcDqzl5eWbQ3f27qgkXiHSfb2Ec/0ZzGhOJoGpNUn6ulOdvrB/6GavoiqCj0oXPoB/fyMoUmdSlyxHo7wmM+npRx86h1+jVgDBdK1O+38Pqo+Ap+mEP73ivB2zZjKEmg=;z8G6CLZr4mh/eZiGppbiXg=="
 ---
 

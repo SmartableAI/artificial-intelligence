@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
+      "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
+      "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning/",
+      "publishedDateTime": "2020-09-24T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-improved-ocr-and-structured-data-extraction-with-amazon-textract.md",
       "title": "Improved OCR and structured data extraction with Amazon Textract",
       "excerpt": "Optical character recognition (OCR) technology, which enables extracting text from an image, has been around since the mid-20th century, and continues to be a research topic today. OCR and document understanding are still vibrant areas of research because they’re both valuable and hard problems to solve.",
@@ -1008,7 +1050,7 @@
       "originalUrl": "https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1200,58 +1242,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches.md",
-      "title": "How Contextual Machine Learning Targets Human Error To Prevent Email-Based Data Breaches",
-      "excerpt": "While email has been critical to the continued operation of many businesses in the current health crisis, it has also presented those businesses with new data security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6b3d6680f67d156da599fa%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/24/how-contextual-machine-learning-targets-human-error-to-prevent-email-based-data-breaches/amp/",
-      "publishedDateTime": "2020-09-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

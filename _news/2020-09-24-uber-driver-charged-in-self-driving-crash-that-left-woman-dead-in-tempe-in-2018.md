@@ -1,49 +1,31 @@
 ---
 category: news
 title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-excerpt: "Vasquez, who was behind the wheel as a safety driver in a self-driving Uber in that hit and killed a pedestrian in Tempe in 2018, has been indicted."
-publishedDateTime: 2020-09-23T23:45:00Z
-originalUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-webUrl: "https://www.kvue.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-ampWebUrl: "https://www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+excerpt: "TEMPE, Ariz. — An Uber driver has been indicted for negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. According to the Maricopa County Attorney's Office, a grand jury indicted Rafael (aka Rafaela) Vasquez, 46 ..."
+publishedDateTime: 2020-09-23T23:31:00Z
+originalUrl: "https://www.khou.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+webUrl: "https://www.khou.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+ampWebUrl: "https://www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.kvue.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
+  - url: "https://media.khou.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
     width: 750
     height: 422
     isCached: true
 
-related:
-  - title: "Man ‘asleep’ in speeding self-driving car charged in Canada"
-    excerpt: "A driver who allegedly set his car to autopilot and then took a nap as it broke the speed limit on a rural Canadian highway has been charged."
-    publishedDateTime: 2020-09-23T15:39:00Z
-    webUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada"
-    ampWebUrl: "https://newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1339191/man-asleep-in-speeding-self-driving-car-charged-in-canada/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2020/09/20200923-self-driving-car-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-
-secured: "cZ8fe0mUzH7Zgs9kXKEJ5vpeyzsBGjs3wyG3SAw36RCfz1+3IZdmr6CBVT/GEXzLBxMA+qq0PaXX9Jto4mBIDWXPJ8tZJiZlUubPF/P7IekxHtQvwbKA83h/bcy/fq2FoSFTdsdnRkrePQMMpP13sykO/c283GyZNlnqsMJWkdl71SvtncvWIZQFZk4/kuq4sCgCPDNu+wpvLGqL/F3eP5Po/Owhpq9LsbttaAjKg1AfMh2i0H8DMjyf8yVXemPRjzv+ydwh4SBCq1UPTSdTngztX8zzpm9SMyuz0ZGk3C9BhMrM+v7ekjBlM00+qODnwOa5B/W8g++iIC6PHLnxYfPRdKyGI3khimiY5kfnxnbQ6pmZS4UCMYUkRrVl3vR1Qup56Aus1NuBtptjXVOGwVtR/6r+0z0u7xFfEEb6q2my9fkEVOmM16t1OzfZmUIMjY6+jXPtTTygKji+JHQAeBZISovdKfo5M3eYGKr/qS2fF086QLVa8h97iEeOJOY/6OvD69idK+v5cAmNvsknDA==;BWjBF81SvNFNGdUxmdxgaQ=="
+secured: "bxjkr7odPUvajCvX1vjr5gQ2aGxMNrofDnVwMg25Pa9JxASZVcqcTHDD2pYEkI6Z/yXCImzFpf02TXqU7yGRAdy1kI+06kaXBLZkB722sOaoRcwbT/hr43pb0BGhlu1F4C8EFmiD2BjokHt4z4IC3fTefTGOKuqJgX/NwAg9IjKMJ4wfhq/rYC97lrg5N0TaB2En8HGMbuj0N4zTFDVR6O3bt2Is2SO7+W7uiJYzB5HRuPGM4KYL4KUHKBtlUuMG6JzbxeBC5FSWV5Bvjc95YFnW3SR7+Jpj57GwMZEyZkBQBJxaC2wWTsU9NI1ypc5zVYuuzoZfF5JoUBr8iuPbDoM0n3PPkT/cn/hmX+L0vgY=;3u0M2LI9oW1HdxnHAG2eZQ=="
 ---
 

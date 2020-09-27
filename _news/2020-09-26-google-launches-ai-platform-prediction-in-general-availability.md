@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/25/google-launches-ai-platform-predi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/25/google-launches-ai-platform-prediction-in-general-availability/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 300
         height: 222
         isCached: true
-  - title: "ALSO Launches Marketplace Platform for Artificial Intelligence"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Based on the technology of ALSO's Cloud Marketplace, the company is launching a new Artificial Intelligence (AI ..."
-    publishedDateTime: 2020-09-22T08:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/also-launches-marketplace-platform-for-artificial-intelligence-1029609534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Recruiter.com Announces New Artificial Intelligence Platform"
     excerpt: "Capable of Profiling Half a Billion Candidates HOUSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Recruiter.com Group, Inc. ("
     publishedDateTime: 2020-09-24T21:32:00Z

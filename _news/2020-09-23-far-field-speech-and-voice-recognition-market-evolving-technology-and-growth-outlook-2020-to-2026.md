@@ -43,19 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Education and Learning Management Market Size is Projected to Reach USD 270,630.32 Million by 2025 | Valuates Reports"
-    excerpt: "... the growth of Smart Education & Learning Management market size are the adoption of e-learning solutions and Artificial Intelligence (AI) and Machine Learning (ML). Get Detailed Analysis of COVID-19 Impact on Smart Education and Learning Management ..."
-    publishedDateTime: 2020-09-23T13:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smart-education-and-learning-management-market-size-is-projected-to-reach-usd-270-630-32-million-by-2025-valuates-reports-812155943.html"
+  - title: "Global Image Recognition in Retail Market Size study, by Type, Application and Regional Forecasts 2020-2027"
+    excerpt: "Also, in August 2019, AWS upgraded the Amazon Rekognition to deliver higher accuracy of gender identification and emotion detection. Thus, aiding the market growth. Further, the need to increase shelf availability, enhance customer experience and maximize ..."
+    publishedDateTime: 2020-09-22T23:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/ab17615125/global-image-recognition-in-retail-market-size-study-by-type-application-and-regional-forecasts-2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17615125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17615125"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
+      - url: "https://www.abnewswire.com/uploads/1600795673.jpeg"
+        width: 278
+        height: 333
         isCached: true
 
 secured: "PQ3Pth7nbS0mAesbZLAR0JWbB9NNO59ors9EyoTPQ5dWk2VwORSAz68BUmxLBKTxQhBl1SfPmiQz4asMZPzex7TgAJ+TG5MWPJtXFb5Pn+/CA+IDgSMPJL7qRQx6yhMQVdXteZRVA+06MU+ytHXZkMPwLXKsJHFmFZGBPBhOvz7eR46SOpi7o26BGbOMRcgiOHvOozklwaU06ozA2GX+YxbBeC/6Sfyd2F0+XWx8wIChpSVAzW+iTRTqGzN8YxxnjktLufcuAYKrJvBjZonTHYJsMq4nUHhYOULsf4zr2lMLyoAcsN7CAhcODEGF6SeIp7sVrOY/46vRdLcDXMfz/MuYmH35/0OjvN6jl7+nFw0=;wvPHD/WfKs9oOpHhtWcXMQ=="
