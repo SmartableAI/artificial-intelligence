@@ -2,6 +2,225 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-09-02-mediatek-qualcomm-intro-ai-chips-for-gaming-smartphones.md",
+      "title": "MediaTek, Qualcomm intro AI chips for gaming smartphones",
+      "excerpt": "MediaTek and Qualcomm have introduced their new AI-capable mobile SoC chips designed specifically for gaming smartphones - the Helio G95 and Snapdragon 732G respectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "originalUrl": "https://www.digitimes.com/news/a20200902PD206.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20200902PD206_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2025",
+      "excerpt": "Global Edge AI Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 includes an overview of the basic industry information, business development, market size, and share scenario.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2025-2020-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-amazons-top-robotics-engineer-joins-ai-startup-scale.md",
+      "title": "Amazon’s Top Robotics Engineer Joins AI Startup Scale",
+      "excerpt": "Brad Porter, who recently defended working conditions at Amazon warehouses, leaves to run Scale’s tech division.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "originalUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1487381!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/brad-porter-vice-president-of-robotics-for-amazon-com-inc-speaks-during-a-prime-air-delivery-drone-reveal-event-in-las-vegas-nevada-u-s-on-wednesday-june-5-2019-amazon-com-inc-has-unveiled-a-revolutionary-new-drone-part-helicopter-and-part-science-fiction-aircraft-that-the-company-expects-to-use-for-test-deliveries-of-toothpaste-and-other-household-goods-starting-within-months.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/amazon-s-top-robotics-engineer-joins-ai-startup-scale-1.1487380.amp.html",
+      "publishedDateTime": "2020-09-01T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-get-amplified-with-zotac-gaming-geforce-rtx-30-series.md",
+      "title": "Get Amplified with ZOTAC GAMING GeForce RTX™ 30 Series",
+      "excerpt": "The GeForce RTX 3090, 3080, and 3070 represent the greatest GPU generational leap in the history of NVIDIA. The Fastest GPU For Gaming The ZOTAC GAMING GeForce RTX 30 Series introduces a fresh ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/get-amplified-with-zotac-gaming-geforce-rtx-tm-30-series-832903147.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/get-amplified-with-zotac-gaming-geforce-rtx-tm-30-series-832903147.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1244671/ZOTAC_GAMING_GEFORCE_RTX_30_SERIES.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
+          "width": 6586,
+          "height": 4391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-02-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
       "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
       "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
@@ -918,216 +1137,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming.md",
-      "title": "NVIDIA announces RTX 30 series GPUs based on Ampere architecture for next-gen gaming",
-      "excerpt": "NVIDIA has just launched its RTX 30 series GPUs based on the new Ampere architecture, which succeeds the Turing architecture on which the RTX 20 series was based. The company has introduced three new graphics cards – the beastly RTX 3090 for 8K gaming,",
-      "sourceUrl": null,
-      "webUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
-      "originalUrl": "https://pocketnow.com/nvidia-announces-rtx-30-series-gpus-based-on-ampere-architecture-for-next-gen-gaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2020/09/nvidia-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains.md",
-      "title": "AI and Machine Learning Algorithms are Increasingly being Used to Identify Fraudulent Transactions, Cybersecurity Professional Explains",
-      "excerpt": "AI and ML algorithms are increasingly being used to identify potentially fraudulent transactions, cybersecurity professional explains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look-600x800.jpeg",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166016-ai-and-machine-learning-algorithms-are-increasingly-being-used-to-identify-fraudulent-transactions-cybersecurity-professional-explains/amp/",
-      "publishedDateTime": "2020-09-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidias-monster-rtx-30-series-gpus-are-listed-with-twice-the-rumoured-core-count.md",
-      "title": "Nvidia's monster RTX 30-series GPUs are listed with twice the rumoured core count",
-      "excerpt": "Hsun Huang threw down the news we’ve all been waiting for—the official specs for the new 30-series Nvidia Ampere graphics cards. Nvidia has pulled up with the next step in the RTX revolution, promising AI powered acceleration with almost twice the performance-per-Watt of the Turing predecessors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "originalUrl": "https://www.pcgamer.com/nvidia-ampere-30-series-announcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LTiBwMDLNWHiwwViu3LuDb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-ampere-30-series-announcement/",
-      "publishedDateTime": "2020-09-01T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-nvidia-announces-geforce-rtx-30-series-gpu-new-tech.md",
-      "title": "NVIDIA Announces GeForce RTX 30 Series GPU, New Tech",
-      "excerpt": "NVIDIA unveiled its GeForce RTX 30 Series GPUs, powered by the NVIDIA Ampere architecture, which delivers the greatest-ever generational leap in GeForce history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "originalUrl": "https://www.worthplaying.com/article/2020/9/1/news/121526/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Worth Playing",
-        "domain": "worthplaying.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-01-announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenge, The Sounds of Science",
-      "excerpt": "We’re excited to announce the next AWS DeepComposer Chartbusters challenge, in which developers interactively collaborate with AI using the new edit melody feature launching today! Chartbusters is a monthly challenge where you can use AWS DeepComposer to create original compositions on the console using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/01/sound-of-science-03.jpg",
-          "width": 800,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-01T09:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

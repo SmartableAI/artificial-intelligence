@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/news/beijing-to-establish-cloud-based-se
 webUrl: "https://www.just-auto.com/news/beijing-to-establish-cloud-based-self-driving-test-zone_id197870.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "Hawaii gives self-driving car testing the green light"
+    excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
+    publishedDateTime: 2020-09-23T16:26:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
 
 secured: "WXQHDvP8IUe/hdySWYP7zGG85n+o8MRM2nvHeV21ySgifHapZW8lMLlZjjEUHPGeXISR+K+xDtXmKJLk5bFpdNazK61RjLtTpYsqfG3FCvm69zF3yCo22ZU8zPuDv+46YL3mO4C06tT1VljlyVfaL6a1pwvpuvr+QCvufL79v3eT3hYwdOo47SWPEHeTnTpABByyEi6+phkta9FVqlElQv1qsIJ+oiYZEVFPz6MGYff7wgaKhuNXHxIFo4ZqyjKRKDbDNg8tzUWMcLEc4FElcnQ3SQPk41dAHqYavK2jneI7RBAFTFkz0nC3k5JVMZZMYECcjJVYsWMheQJolpZWpO4j3+pXIMu7eNDdo7KHXwM=;VznK8q5OUqP1CrCpPJNPfw=="
 ---

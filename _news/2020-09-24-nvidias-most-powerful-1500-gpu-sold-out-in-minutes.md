@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jgx7pb/nvidias-most-powerful-dollar1500-gpu-sold-out-in-minutes"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
-  - title: "Oracle Cloud offers Nvidia A100 GPU on bare metal"
-    excerpt: "Oracle claims to be the first major cloud provider to make Nvidia A100 Tensor Core GPU on bare metal instances. Oracle Cloud Infrastructure with Nvidia A100 tensor core GPUs on bare metal instances is said to be able to run complex AI models and deep ..."
-    publishedDateTime: 2020-09-23T02:34:00Z
-    webUrl: "https://www.itwire.com/cloud/oracle-cloud-offers-nvidia-a100-gpu-on-bare-metal.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/aea3e0362b449f6d0afa21b63c70eeb2_M.jpg"
-        width: 375
-        height: 314
-        isCached: true
 
 secured: "S/DzTla8/EQOczEhkM+GWpBRtXSiKoj/pHby5XYXSWQq5CndTlMsESWCF4AFGFdklpfqMPEENWw+vi9KweCwOXbCXIzEgJnGyL5QoR4zLrKPPm1PgJvpK+PJugKqS7JbL6Fv3BAvVDm2TSHVmC496czSHyYKct6OSGiSXCpP5ga2qMM1C06f5om8QsoqjFyqYjH4zoe2JITKHrfpHPuwc8BHeI4Rog/i2Y8Lu8RHoGCnc9evSTNOYEKrnQGgjpphzJGhxkytR90NXcnOypeCLeN1Gs/iVZtGi0xYDpaLK01bT24U39u0ccf97Pen7QXCqlHlTGtrRovR020LCEwpFqltfNri2hDS+RY+cE6x8zMJRn4BSVwSuZo6cj9ry1JnQXOM/owyjhtEOau5IgUFHhoq36L1q/KaFS4J2jQK445J188CKGpdJtT3PahbqjSlBOHUkICA/yqJ3Wjr/0n0X0Nn7/orN+JLr6g+OZlrwNFwnZ81V5f46vPnR00vp6MMsBXu48w8+j0uiIMCaE3DLA==;s4v2mriYWmwtKMQFc6mbSQ=="
 ---

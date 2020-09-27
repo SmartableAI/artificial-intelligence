@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
+    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
+    publishedDateTime: 2020-09-27T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Say Aloha To Self-Driving Cars As Hawaii Approves Roadway Testing, Though Paradise Not Assured"
     excerpt: "Hawaii welcomes self-driving cars. getty. Do you dream of taking a vacation to Hawaii? If so, you can now bolster those dreamy images in your head by including a new showcase that"
     publishedDateTime: 2020-09-24T15:36:00Z
@@ -47,33 +63,17 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
-    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
-    publishedDateTime: 2020-09-27T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+  - title: "Beijing to build pilot zone for self-driving vehicles"
+    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
+    publishedDateTime: 2020-09-23T11:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hawaii gives self-driving car testing the green light"
-    excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
-    publishedDateTime: 2020-09-23T16:26:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
 
 secured: "VOXo3lO4bnLEe5CwpCmOv4rDL9i99XJZ1t7f9pFom+kB8NuMxQAIakJ8SCkrJvh2fGbK8djpQq4kyhBCGnu9HYfGF+xg+gGZI/bMTbhQ4sRiMNd2QQ5JtGKMSmfaNMAdHmhXYLBEW8VSzGQiul26COrqzY4za+Tf2OMzPSfiVj+K4+7VQP3n9pJtsb8pcFdOSYex2qoTjPQQoIQM0FkrsRm0lGjikP3DtGEyos3aXrd+bWpF3Ct7hQGBNbucxKsf07z+SkD2k8ElMRWQw5nStX4dxPupbBa68jLeV9X6bLYU5PSuJ0KNCuwifvbyKz8rwfCNxWR9RCybu6rXQ6U02lEsd7LgMe3J8TtgPtU4UPM=;MVTGWYCIZUmqwBO5FfhO3A=="
 ---

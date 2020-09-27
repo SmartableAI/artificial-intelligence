@@ -21,37 +21,53 @@ topics:
   - AI
 
 related:
-  - title: "How Merced County plans to bring more self-driving car testing to Atwater’s Castle Airport"
-    excerpt: "Maturing plans for self-driving vehicle testing at the former Castle Air Force Base in Atwater are putting Merced County on a global map for a niche — but lucrative — market, county officials say. Last week,"
-    publishedDateTime: 2020-09-23T14:00:00Z
-    webUrl: "https://www.mercedsunstar.com/news/local/article245894580.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/local/article245894580.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/local/article245894580.html"
+  - title: "AI Is Increasingly Being Designed To Apologize, But Self-Driving Cars Are Not Hip To The Idea"
+    excerpt: "AI is increasingly offering apologies, but does this make sense. getty. They say that love means never having to say that you are sorry. When does it make sense though to proffer"
+    publishedDateTime: 2020-09-27T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
     type: article
     provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404783001/5286396c-ceb8-43ad-b52f-cb02957d415d/47c11371-d76a-48cc-a642-b7e9b73402eb/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Uber driver charged in self-driving crash that left woman dead in Tempe in 2018"
-    excerpt: "TEMPE, Ariz. — An Uber driver has been indicted for negligent homicide after a self-driving car crash left a woman dead in Tempe in 2018. According to the Maricopa County Attorney's Office, a grand jury indicted Rafael (aka Rafaela) Vasquez, 46 ..."
-    publishedDateTime: 2020-09-23T23:31:00Z
-    webUrl: "https://www.khou.com/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/valley/uber-driver-charged-self-driving-crash-left-woman-dead-tempe-in-2018/75-5dbca82e-cbb4-443a-85d4-9ed498384909"
+  - title: "Say Aloha To Self-Driving Cars As Hawaii Approves Roadway Testing, Though Paradise Not Assured"
+    excerpt: "Hawaii welcomes self-driving cars. getty. Do you dream of taking a vacation to Hawaii? If so, you can now bolster those dreamy images in your head by including a new showcase that"
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/24/say-aloha-to-self-driving-cars-as-hawaii-approves-roadway-testing-though-paradise-not-assured/amp/"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://media.khou.com/assets/KPNX/images/d6207e33-c9f2-4d33-8e46-9e474695673a/d6207e33-c9f2-4d33-8e46-9e474695673a_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bd44965613fc31dd4ee1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D256%26cropY2%3D2820"
+        width: 1199
+        height: 562
+        isCached: true
+  - title: "Why we’re still years away from having self-driving cars"
+    excerpt: "Carmakers began dropping the terms “self-driving” and “mobility” at car shows, Uber and its competitors poached engineers from university robotics labs en masse, and Tesla fans began squabbling on Twitter about whether the company’s Autopilot ..."
+    publishedDateTime: 2020-09-25T19:41:00Z
+    webUrl: "https://www.vox.com/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away"
+    type: article
+    provider:
+      name: Vox
+      domain: vox.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/vWVvsfC0F_Tdmm4OmAkpT0S-fbw=/0x0:3000x2000/1400x1050/filters:focal(1866x972:2346x1452):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67470406/VOX_18.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
 
 secured: "n5nqRTky+47ltXBHtTO0W5nqOrfEs2Gm+pLLodRTz1N2qORpcGdTzrSLgAv6FZzSePg08Q8PO975QaQ6P+HXAUQcExJc+eZyZhM/X5HZ7fC7qfUbKSlJmEyY8Wfe2unC0XRUHhLD9YYpxPzp2E0e4ljmrbGhqG7HWl+rjz3dD3yqU3lXAZJG+HvXgAn47cTVRHoUB+ZCbeXPyPx++qEVNdJWIORGpdJWRq6M+w0FDgmgllGSe0ycnV15fioNiewNePunIETkDlEwIPaU6XN5SkU3mTccLHsoyUIDYUGCr4Dyuj/PmJWdBBdsyYjsdqeLZ43tIABiyxwwaIECxVgHn1nFrVUUO3Ad6GIkqNn5YDk=;3IhoQh5cFimb4SWmfn5Mlw=="

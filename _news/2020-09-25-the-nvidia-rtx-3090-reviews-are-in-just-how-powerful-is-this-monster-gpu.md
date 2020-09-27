@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Oracle Cloud offers Nvidia A100 GPU on bare metal"
-    excerpt: "Oracle claims to be the first major cloud provider to make Nvidia A100 Tensor Core GPU on bare metal instances. Oracle Cloud Infrastructure with Nvidia A100 tensor core GPUs on bare metal instances is said to be able to run complex AI models and deep ..."
-    publishedDateTime: 2020-09-23T02:34:00Z
-    webUrl: "https://www.itwire.com/cloud/oracle-cloud-offers-nvidia-a100-gpu-on-bare-metal.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/aea3e0362b449f6d0afa21b63c70eeb2_M.jpg"
-        width: 375
-        height: 314
-        isCached: true
 
 secured: "6AIScEpE7b8LDeB2Ib3H9NqzN3yLssaCK2fGrhbmjnpk+56RNdvhtqQFXzTozkVkXRpTX2qBoUEooqDUcrNoW5o9cMTWtDtsAD0prHykBpTun3telGEznlQyRd0Ne46HEgj3J1mpweOiDoyxB6lXkWsWM2TPWWZ+LaNWXzFP6sTU+Z0rHciDRzRut6onai/Um3Zrh/MesEIZzCBrOd5nX3rUYpUYwGJZPD3EHkpyF3RcCb16yt8pzEVgPDBc5B5atV+8DyY90tJxWIFFbeBJgkAtz5WNleI6uPpeUiC0bkLosSRU8MnLjmlaLp/Ywjyv1gd5HoM08MDgURofRXpEPpofR4vQSyII3t+LDw41kdQFEvlrPVunMXA8Wz2fq825pyzUVHOi+kyUZ6fzHfT1HJBZEgrN8bV1Vlv6fMS3fLfC59r383SapRiIX605wlFfMUTQUuWw+raeXAfF7hYzGecd9m4tYgzFJhi7FoCX9R9mU0oR8Ipk3EUr/oAu+AiBIzBxnyz9x5kiXpOUZrU50A==;pOpPiNJ2FghX/rssi0GDMA=="
 ---

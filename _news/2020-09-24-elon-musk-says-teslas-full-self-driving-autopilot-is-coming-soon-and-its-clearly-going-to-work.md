@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk says Tesla's full self-driving Autopilot is coming soon and it's 'clearly going to work'"
-    excerpt: "The full-self driving car is about to take a step closer to reality. Tesla CEO Elon Musk said Tuesday that the test version of company's Autopilot system will be released in \"a month or so.\""
-    publishedDateTime: 2020-09-23T01:51:00Z
-    webUrl: "https://www.azcentral.com/story/money/cars/2020/09/22/tesla-elon-musk-full-self-driving-autopilot-software/3498264001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3498264001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3498264001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Tesla says it will have a full self-driving Autopilot beta very soon"
     excerpt: "CEO Elon Musk promised that a private beta of the “full self-driving version” of the Autopilot software was coming in “a month or so.” If so, that’s pretty cool, since the Autopilot in its current state is more of a driver aid,"
     publishedDateTime: 2020-09-23T16:40:00Z

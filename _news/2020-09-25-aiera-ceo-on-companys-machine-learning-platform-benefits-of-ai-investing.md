@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machin
 webUrl: "https://www.cnbc.com/video/2020/09/25/aiera-ceo-on-companys-machine-learning-platform-benefits-of-ai-investing.html"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Global $21.2 Bn Online Language Learning Market to 2027 - Increasing Penetration of Artificial Intelligence in e-Learning Driving Growth"
-    excerpt: "The online language learning market is expected to grow at a CAGR of 18.7% from 2020 to 2027 to reach $21.2 billion by 2027 The growing need for communication across borders, increasing e-learning market,"
-    publishedDateTime: 2020-09-24T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-21-2-bn-online-language-learning-market-to-2027-increasing-penetration-of-artificial-intelligence-in-e-learning-driving-growth-1029618153"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
 
 secured: "JBem7FQyiaU/pU8xLL837nVHTxyi7fSRmHfPFjI5oJb6NzIJy/1c/dDA34/LO9btFbm5RMnhIz2c2VzkOkV5dopBNeNff1nFTkAjSp+AxUha1RqFCQmSP8WsriKTQwdwysarfW9vsNR1U2X4CxkGwxK0Q5pTwT8HMUo9Dlkk2SSA10vvl3uJm8QX5bqi7Y8tZNQyKiP3w5FNsWzI+t+/4tHrGA19wQjDcyJfdvxhq0W8BJcVJ21Hi0S2XKBWC16HINfPPc7AW6sXYRrVK7suqlGep6BMom2hoe1ZHfV7K4DfWyDW8Tcsbu7CXBUTnzjCOmPpJkkRusWZBrYFeIfNh+pjM0SlhY7UDDhsFtifwkI5vQZ9Jm6VZ9v4qMbHmgwGFdWuGSMYhD+RgCMJ3zNJ+RCNkiBDPgxJJwkC+AgySFQBv15lbypxjHZ8RBr920JkzpCsxdYLSDnAWoH5JMi5CmUmNS9LvjtqQfY65U/eSk0Kr+sTBqLiceS6uPujh2t9mhfgMryXanyD3sY+rLsP9w==;AlvXmDqnIumGTZKHJyINCg=="
 ---

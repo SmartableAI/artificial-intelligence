@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-b
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/27/ai-is-increasingly-being-designed-to-apologize-but-self-driving-cars-are-not-hip-to-the-idea/amp/"
 type: article
-quality: 76
-heat: -1
-published: false
+quality: 78
+heat: 108
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a971bf92664bddd8e6ca2%2F0x0.jpg"
@@ -62,18 +63,18 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Hawaii gives self-driving car testing the green light"
-    excerpt: "Hawaii's legislation will require a human driver behind the wheel, but automakers will likely appreciate not having to worry about crossing state borders there."
-    publishedDateTime: 2020-09-23T16:26:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/hawaii-self-driving-car-testing/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hawaii-self-driving-car-testing/"
+  - title: "Beijing to build pilot zone for self-driving vehicles"
+    excerpt: "Beijing is planning to build a cloud-based pilot area for self-driving vehicles before the end of this year, marking an important step for the development of"
+    publishedDateTime: 2020-09-23T11:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-to-build-pilot-zone-for-self-driving-vehicles/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
 
-secured: "b9BhVKPUlyZNlXKbBogGQnzCe0YVPGVCg02nXR9Tt8T7odVnSJf1SyU39F3vIWi8E4FaaSNXRtEHHgCYgU8nbsz5WSKXkKVdll3a2UG0kb2dChMEraH8/wV5D7bqc6tMqsC/TnA8kjw1CA/zsk7S63TPmoboTxYSsITZb1++PqH5uZQbAqee5CKqYalrJMGFgBqYkCD4mpLX0nb8P0RIDjXRmpHcZsaTRf2JhRgGEcSWWELk3rr00JZqvjVxFexVWf7NK8f3trLAapB5QvY0H4Lc/CsyZO4EPMS38k/z+sE/2FDn9Ownrfx0oIs5k7soavZpzli4V3J9GAC+EaZ0Szx6I14CSd05dUyWG+yyWts=;u5SYSuNOwZMB9T/drzD9rA=="
+secured: "6ZgHh2+piCvjvfkPXkl45do13riRl2sFlnFJ9wl7vj7mXQvABlm2baE7MxN7W+VyT5a5TNHHddEkedgP9MYtH/lxnWdBM854BT8U6VHe0dpBDBf5mlMkjyKQI1NK2u0Luymiy29oBLv7Fii8hO4eLfgQlKVCoal/JfnYWR/K3lbKHhjI6WQJC1l8M4leymMuk4bufpX71Ov3dtquWzb3AeO/F1BLjTR/skqJgUInRuueVPs4JFwhry4z3xNJRO8d5m/2v43djwkNr2zyfrY6u7XwPaq4vlbUBf3HgmVRDmhhvD4mlQWJo4CQrHs2IJocBFz4OK8LNVOoIS7FvBNyKMapFHlAyR0XvrzD4ayiAmuujwRS3/qf8QOt89kZCSWaem0rT8kF9zUdwiKRttjMwge/s9JTkY31eo5wdpciaSMcTZODa/qENiwzkWo4ioA88UICMpbY/Z54pnZVjGO4lFuHK+RUhT1871XXN+ALevqL7nncRJm8MuZ+SybwvuuXWEkHwHZ5J6uefLkByHnwvw==;+hEtApQW/qSDABcedHipyw=="
 ---
 
