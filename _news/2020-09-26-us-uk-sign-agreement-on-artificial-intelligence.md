@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G339"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G339"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
 
 secured: "u4/C2tU+wenfBW89xaciLoUatSXi5ni+mSr44qj4FYVdglA8HDbfm+Q6ihQAMYn4FrYfNhwfdjlL0TNEiWjeYR5AcabM3y5u+kJ+GGYrpoW2U/QcoC+NfmVsM+laVIH19zxjTKl7WzZAOPhptoDiEfu6sWH4exNXdRMKCHwGs4X5iGh7ySPfiD8jgrm8RHQQ0SKnDUTP1qu1T7dr3vdbSDT8nCU30napJ1s3uW13hzoC8OINRHhJA6wDVK5TfCI8rVwdb96lWL3v+Kl6xyn57jZ/lhhfOuNAk5wP5iROkw6MOFiPWP3b6EKdaCB0hThPa/H0T30zJk8ecgSV1u9QJ0yIv/3Z+9x1ntTY7Uhi9zo=;k611200mye+nxQQsCidm4g=="
 ---

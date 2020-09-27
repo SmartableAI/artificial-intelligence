@@ -285,20 +285,6 @@ related:
         width: 520
         height: 296
         isCached: true
-  - title: "Azure Orbital Will Connect Microsoft’s Cloud Data Centers to Space Satellites"
-    excerpt: "Microsoft announced plans for an Azure Orbital satellite ground station service and a colocation agreement with satellite broadband provider SES. “We are extending Azure from under the sea to outer space,"
-    publishedDateTime: 2020-09-23T02:51:00Z
-    webUrl: "https://datacenterfrontier.com/azure-orbital-will-connect-microsofts-data-centers-to-space/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 51
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2020/09/Satya-Nadella-Ignite-2020.jpg"
-        width: 740
-        height: 467
-        isCached: true
   - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
     excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
     publishedDateTime: 2020-09-23T23:32:00Z

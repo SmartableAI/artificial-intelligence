@@ -8,9 +8,9 @@ webUrl: "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-202
 ampWebUrl: "https://www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-uk-announce-ai-partnership-axios-2020-9?amp"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "U.S., UK sign agreement on artificial intelligence"
